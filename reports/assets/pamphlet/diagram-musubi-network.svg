@@ -1,6 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="825" height="916" viewBox="0 0 825 916" fill="none" stroke="#2C2C2C" stroke-linecap="round" stroke-linejoin="round">
-<path d="M330 800 C 300 770, 330 730, 372 748 C 340 700, 400 670, 428 712 C 470 680, 520 720, 488 758 C 530 776, 500 826, 452 806 C 430 840, 360 836, 358 792 C 356 770, 380 752, 412 758 C 444 764, 460 786, 452 806" stroke-width="5"/>
-<path d="M470 700 C 520 600, 480 520, 540 440" stroke-width="4"/>
+<path d="M400 745 C 385 715, 330 715, 330 755 C 330 790, 385 793, 400 765 C 415 793, 470 790, 470 755 C 470 715, 415 715, 400 745 Z" stroke-width="5"/>
+<path d="M345 785 C 325 815, 300 835, 275 850" stroke-width="4"/>
+<path d="M455 785 C 475 815, 500 835, 525 850" stroke-width="4"/>
+<path d="M400 745 C 420 640, 480 540, 540 440" stroke-width="4"/>
 <path d="M540 440 C 560 400, 520 340, 480 300" stroke-width="3"/>
 <path d="M540 440 C 600 400, 640 360, 660 290" stroke-width="3"/>
 <path d="M480 300 C 430 250, 350 240, 290 200" stroke-width="2.5"/>
