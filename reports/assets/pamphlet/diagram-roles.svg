@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="825" height="916" viewBox="0 0 825 916" fill="none">
+<rect x="60" y="300" width="320" height="316" rx="14" stroke="#2C2C2C" stroke-width="3"/>
+<rect x="445" y="300" width="320" height="316" rx="14" stroke="#2C2C2C" stroke-width="3"/>
+<line x1="380" y1="458" x2="445" y2="458" stroke="#2C2C2C" stroke-width="3" stroke-linecap="round"/>
+<text x="220" y="380" text-anchor="middle" font-family="sans-serif" font-size="32" fill="#2C2C2C" stroke="none">作家さま</text>
+<text x="220" y="460" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#2C2C2C" stroke="none">作品</text>
+<text x="220" y="510" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#2C2C2C" stroke="none">合意した価格</text>
+<text x="605" y="380" text-anchor="middle" font-family="sans-serif" font-size="32" fill="#2C2C2C" stroke="none">当社</text>
+<text x="605" y="440" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#2C2C2C" stroke="none">販売・配送</text>
+<text x="605" y="490" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#2C2C2C" stroke="none">決済</text>
+<text x="605" y="540" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#2C2C2C" stroke="none">購入者対応</text>
+</svg>

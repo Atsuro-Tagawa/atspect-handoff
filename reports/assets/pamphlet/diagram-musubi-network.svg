@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="825" height="916" viewBox="0 0 825 916" fill="none" stroke="#2C2C2C" stroke-linecap="round" stroke-linejoin="round">
+<path d="M330 800 C 300 770, 330 730, 372 748 C 340 700, 400 670, 428 712 C 470 680, 520 720, 488 758 C 530 776, 500 826, 452 806 C 430 840, 360 836, 358 792 C 356 770, 380 752, 412 758 C 444 764, 460 786, 452 806" stroke-width="5"/>
+<path d="M470 700 C 520 600, 480 520, 540 440" stroke-width="4"/>
+<path d="M540 440 C 560 400, 520 340, 480 300" stroke-width="3"/>
+<path d="M540 440 C 600 400, 640 360, 660 290" stroke-width="3"/>
+<path d="M480 300 C 430 250, 350 240, 290 200" stroke-width="2.5"/>
+<path d="M660 290 C 660 230, 620 180, 600 130" stroke-width="2.5"/>
+<path d="M480 300 C 520 240, 560 220, 560 160" stroke-width="2.5"/>
+<path d="M290 200 C 240 170, 220 140, 180 120" stroke-width="2"/>
+<path d="M480 300 C 400 320, 320 320, 240 330" stroke-width="2"/>
+<circle cx="540" cy="440" r="14" stroke-width="3.5"/>
+<circle cx="480" cy="300" r="12" stroke-width="3"/>
+<circle cx="660" cy="290" r="12" stroke-width="3"/>
+<circle cx="290" cy="200" r="10" stroke-width="2.5"/>
+<circle cx="600" cy="130" r="10" stroke-width="2.5"/>
+<circle cx="560" cy="160" r="8" stroke-width="2.5"/>
+<circle cx="180" cy="120" r="8" stroke-width="2.5"/>
+<circle cx="240" cy="330" r="8" stroke-width="2.5"/>
+</svg>
