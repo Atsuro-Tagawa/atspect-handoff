@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1650" height="916" viewBox="0 0 825 458" fill="none">
+<rect x="20" y="16" width="785" height="426" rx="8" stroke="#B9AE9C" stroke-width="2" stroke-dasharray="8 8"/>
+<g stroke="#CFC5B4" stroke-width="1.6">
+<rect x="70" y="56" width="130" height="130" rx="3"/><line x1="70" y1="212" x2="180" y2="212" stroke-width="2.4"/>
+<rect x="330" y="56" width="130" height="130" rx="3"/><line x1="330" y1="212" x2="425" y2="212" stroke-width="2.4"/>
+<rect x="590" y="56" width="130" height="130" rx="3"/><line x1="590" y1="212" x2="705" y2="212" stroke-width="2.4"/>
+<rect x="70" y="242" width="130" height="130" rx="3"/><line x1="70" y1="398" x2="175" y2="398" stroke-width="2.4"/>
+<rect x="330" y="242" width="130" height="130" rx="3"/><line x1="330" y1="398" x2="440" y2="398" stroke-width="2.4"/>
+<rect x="590" y="242" width="130" height="130" rx="3"/><line x1="590" y1="398" x2="690" y2="398" stroke-width="2.4"/>
+</g>
+<text x="412" y="436" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#8A7E6B" stroke="none">実際の作品一覧・作品詳細の画面を、ここに差し込み予定です</text>
+</svg>

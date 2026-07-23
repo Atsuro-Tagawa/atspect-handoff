@@ -3,7 +3,7 @@
 <rect x="60" y="52" width="560" height="52" rx="26" stroke="#2C2C2C" stroke-width="2"/>
 <circle cx="94" cy="78" r="10" stroke="#2C2C2C" stroke-width="2"/>
 <line x1="101" y1="85" x2="110" y2="94" stroke="#2C2C2C" stroke-width="2" stroke-linecap="round"/>
-<text x="130" y="85" font-family="sans-serif" font-size="20" fill="#8A7E6B" stroke="none">作家名で検索（漢字・かな・ローマ字）</text>
+<text x="130" y="84" font-family="sans-serif" font-size="18" fill="#8A7E6B" stroke="none">作家名で検索（漢字・ひらがな・カタカナ・ローマ字）</text>
 <rect x="646" y="52" width="120" height="52" rx="26" stroke="#34416e" stroke-width="2"/>
 <text x="706" y="85" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#34416e" stroke="none">検索</text>
 <text x="60" y="140" font-family="sans-serif" font-size="16" fill="#8A7E6B" stroke="none">ジャンルから探す｜絵画・彫刻・工芸・書・写真・デザイン・現代美術・建築</text>
