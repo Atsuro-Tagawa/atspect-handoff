@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1650" height="916" viewBox="0 0 825 458" fill="none">
+<rect x="20" y="16" width="785" height="426" rx="8" stroke="#B9AE9C" stroke-width="2" stroke-dasharray="8 8"/>
+<rect x="60" y="52" width="560" height="52" rx="26" stroke="#2C2C2C" stroke-width="2"/>
+<circle cx="94" cy="78" r="10" stroke="#2C2C2C" stroke-width="2"/>
+<line x1="101" y1="85" x2="110" y2="94" stroke="#2C2C2C" stroke-width="2" stroke-linecap="round"/>
+<text x="130" y="85" font-family="sans-serif" font-size="20" fill="#8A7E6B" stroke="none">作家名で検索</text>
+<rect x="646" y="52" width="120" height="52" rx="26" stroke="#34416e" stroke-width="2"/>
+<text x="706" y="85" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#34416e" stroke="none">検索</text>
+<g stroke="#CFC5B4" stroke-width="1.6">
+<rect x="60" y="140" width="72" height="72" rx="4"/><line x1="150" y1="158" x2="430" y2="158" stroke-width="3"/><line x1="150" y1="188" x2="360" y2="188"/>
+<rect x="60" y="236" width="72" height="72" rx="4"/><line x1="150" y1="254" x2="470" y2="254" stroke-width="3"/><line x1="150" y1="284" x2="330" y2="284"/>
+<rect x="60" y="332" width="72" height="72" rx="4"/><line x1="150" y1="350" x2="400" y2="350" stroke-width="3"/><line x1="150" y1="380" x2="380" y2="380"/>
+</g>
+<text x="412" y="432" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#8A7E6B" stroke="none">検索結果の実際の画面を、ここに差し込み予定です</text>
+</svg>
