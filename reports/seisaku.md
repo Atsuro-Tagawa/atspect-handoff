@@ -97,3 +97,46 @@ headless Chromeで対象7ページ（entry-14ffd27c805f・sales-terms・terms-ar
 
 ## 検証・記録（第2便）
 全push後に読み戻しBYTE-IDENTICAL確認済み。詳細はVault `_実装ログ_残課題是正とパンフ図版とMarket図設置_20260724_ATSPECT.md`（機密なし・作業内容の完全版）。
+
+---
+
+## 現在地（2026-07-24 第3便）会員アカウント機能の調査＋恒久ルール化＝完了（設定変更は未実施）
+
+### A. 会員アカウント機能（Shopify Customer Accounts）の実態調査
+
+**訪問者から見える現状**：`https://atspect.com/account/register` に直接アクセスすると、`https://shopify.com/authentication/81235869954/login?...` というShopifyのホスト型「新しい顧客アカウント」ログイン画面へリダイレクトされ、実際にアカウント作成・ログインができる状態（機能自体は無効化されていない）。一方、トップページのDOM全体をJavaScriptで走査し `account`/`login`/`register` を含むリンクを検索したところ**0件**＝ヘッダー・フッター・メニューいずれにもこの機能への導線は存在しない。ヘッダーには言語切替・ロゴ・お気に入り（ハート）のみが表示され、アカウントアイコン・カートアイコンとも非表示（実ブラウザで画面確認済み）。sitemap.xmlにアカウントページは含まれない（Shopify仕様上そもそも対象外）。robots.txtは全Shopifyストア共通の既定文言（本テーマ固有のカスタムファイルは存在しない）。
+
+**Admin API実測（確定情報）**：
+```
+customerAccountsVersion = NEW_CUSTOMER_ACCOUNTS（新しい顧客アカウントが有効）
+loginLinksVisibleOnStorefrontAndCheckout = true（Shopify側設定は「表示する」のまま＝テーマのCSSが表示だけを上書きして隠している）
+loginRequiredAtCheckout = false（購入にログイン必須ではない＝ゲスト購入可）
+```
+
+**顧客アカウントが必要とされている箇所の有無（コード実測）**：
+- お気に入り機能：`assets/atspect-wishlist.js` はlocalStorageのみ実装・customerオブジェクト参照なし＝**不要**
+- 作家の月額システム利用料（サブスク）：`sections/atspect-artist-plan.liquid` はゲストのカート/チェックアウト経由（個別カートリンク方式）で購入完結。`loginRequiredAtCheckout:false`が裏付ける＝**不要**
+- サブスク解約：`sections/atspect-artist-cancellation.liquid` はShopify標準の問い合わせフォーム（メール確認のみ）で完結・customer accountログイン不要＝**不要**
+- 作品購入：特商法ページに明記の「予約・お問い合わせ制」・カート自体が非表示＝**不要**
+
+**結論**：顧客アカウント機能を必要としている箇所はコード上どこにもない。
+
+**無効化する場合の手順**：Shopify管理画面 → 設定（Settings）→ 顧客アカウント（Customer accounts）の画面から変更。**管理画面に実際に表示される選択肢の文言はAdmin APIでは読み取れず、代表がご自身の画面で直接ご確認いただく必要があります**（設定変更自体は代表操作のため実行していません）。
+
+**無効化した場合に壊れる可能性**：機能面では見当たりませんでした。ただし①既存顧客に実際にアカウントを有効化した人がいないか＝現在のAdmin APIトークンに`read_customers`スコープが無く確認できていません（無効化前に管理画面の顧客一覧で一度ご確認いただくことを推奨します）②注文確認メール等Shopify標準メール内の「アカウントを作成する」リンクは無効化に伴い自然に消える想定（実害ではなく仕様変更点）。
+
+詳細はVault `_調査_会員アカウント機能の要否_20260724_ATSPECT.md`。
+
+### B. 複数ターミナル混入防止の恒久ルール化
+
+2026-07-24第2便で発見した「pamphlet_url関連コードの混入」を受け、**「push前に必ずリモートとの差分を確認し、自分が編集していない変更が含まれていたらpushせず、リモートを正しい基準として取り直してから自分の変更のみを適用する」**を恒久ルールとして明文化：
+- `.claude/skills/atspect-site-editing/SKILL.md` §3（標準手順）に追記
+- `_責任者_あつぺくと.md` に2026-07-24付けで追記
+
+あわせて、ローカル全体とライブテーマ161の完全比較（`shopify theme pull`で全ファイル取得→再帰diff）を実施。**内容が食い違うファイルは2件のみ**：`assets/arts-respect-logo-v.png`（別ターミナルが差し替えた新ロゴがローカル未反映の静的画像・実害なし）、`templates/page.artist-cancellation.json`（JSON配列の改行有無だけの整形差・意味は同一）。他に「ライブにのみ存在しローカルに無いファイル」多数（favicon各種・他ターミナルが追加したセクション等）があるが、ローカルに無いものは誤ってpushする経路が無いため今回のインシデントと同種のリスクではないと判断。
+
+### C. FAQページの持ち越し
+リサーチTの確定稿が届くまで着手せず、指示どおり保留中。
+
+## 検証・記録（第3便）
+本便は設定変更・テーマファイルの変更を伴わない調査のみ（Vault記録とpushのみ）。
