@@ -1,14 +1,146 @@
-# システム開発ターミナル 報告（2026-07-25・追加セッション）
+# システム開発ターミナル 報告（2026-07-25）
 
-## claude.ai「GitHub連携」完了確認・実測テスト（本セッション追加）
+## 司令塔チャットからGitHubを直読みする方法：調査完了
 
-代表がInstall & Authorizeを完了させた後の実測結果：
+Claude Code＋Codexの二刀流で独立調査し、結論が一致しました。
 
-- **①インストール有無**：確認済み＝**インストール完了**。`github.com/settings/installations`に「Claude」がConfigure付きで表示（前回は0件だった）。`github.com/apps/claude`のボタンも「Install」→「Configure」に変化＝二重に確認。
-- **②atspect-handoffがアクセス対象か**：**リポジトリ選択の詳細画面はGitHubのsudo mode（パスワード再確認）で保護されており、AIはパスワードを扱えないため直接確認はできなかった**。参考＝このアカウントの唯一のリポジトリがatspect-handoffであり、前回セッションで本ターミナルが選んだのも「Only select repositories→atspect-handoff」。代表が同じ画面を継続して完了させたなら対象に含まれているはず（要目視確認・下記参照）。
-- **③権限（スコープ）**：前回セッションのインストール同意画面で確認済みの固定セット＝「Read access to commit statuses and metadata」「Read and write access to actions, checks, **code**, discussions, issues, pull requests, repository hooks, and workflows」。ここでの`code`権限がファイル内容の読み取り（contents:read相当）にあたる。この画面もsudo保護後のConfigureページでは再確認できていない。
-- **④読み取りテスト**：`https://api.github.com/repos/Atsuro-Tagawa/atspect-handoff/contents/reports/system.md`および`raw.githubusercontent.com`経由でHTTP 200・本文一致を確認。**ただしこれはリポジトリがPublicであることによる無認証アクセスの成功であり、Claude App固有のインストールトークンでの読み取りを直接証明するものではない**（Appのインストールトークンはこのターミナルから扱えないため）。連携の実体が生きているかの最終確認は、司令塔（claude.ai）の新しいチャットでatspect-handoffを実際に読ませて確認するのが唯一の方法。
+---
 
-**結論**：GitHub側のApp本体インストールは完了を確認できた。リポジトリ範囲・権限の最終画面はsudo mode保護のため未確認（代表が`github.com/settings/installations`→Claude→Configureを開けば見られる）。実際にclaude.aiチャットからatspect-handoffが読めるかは代表による実地検証が必要。
+### (1) 結論：直読みは **可能**。ただし「壊れていた」のではなく **最初から仕様が違った**
 
-引き継ぎ・詳細はVault（ローカル）に保存済み。
+**司令塔で「GitHub関連ツールが0件」だったのは、故障ではなく正常動作です。**
+
+Anthropic公式のGitHub統合は、**Claudeが自分で呼ぶ「ツール（MCPコネクタ）」として提供されていません**。チャットの「＋」メニューからユーザーがリポジトリを選んで**リンクするUI機能**です。したがって：
+
+- ツール一覧を検索して0件 → **仕様どおり。ツールは存在しないので当然**
+- MCPレジストリにGitHubが無い → **仕様どおり。GitHubはレジストリ型コネクタではなく別枠のネイティブ機能**
+- Shopify・Figma等は出るのにGitHubだけ無い → **この差自体が「GitHubは別カテゴリ」である証拠**
+
+仮説（claude.ai側の接続が別工程として未了）は半分正解でした。「別工程がある」のは正しく、その別工程は「コネクタを有効化してツールを降ろす」ことではなく **「チャットごとにリポジトリをリンクすること」** でした。
+
+### 【最重要・実測】GitHub側の設定は既に完全に効いています
+
+前回sudo modeに阻まれて確認できなかった「atspect-handoffがアクセス対象か」を、**別経路で実測確認できました**：
+
+claude.aiの「GitHubから追加」ダイアログのリポジトリ選択ドロップダウンに、**「Atsuro-Tagawa / atspect-handoff」が実際に表示されました。**
+
+これは claude.ai が GitHub App のインストール情報を使って GitHub API からリポジトリ一覧を取得できている証拠です。**GitHub側で追加すべき作業はありません。**
+
+---
+
+### (2) 代表がやる操作手順
+
+#### 【方式A】単発で読ませる（今すぐ試せる・まずこれ）
+
+1. claude.ai で **新しいチャット**を開く
+2. 入力欄の左下の **「＋」ボタン**を押す
+3. **「GitHubから追加」**を選ぶ
+4. 「GitHub向けClaude Codeを試す」の案内が出たら **「GitHub同期に進む」**を押す（「Claude Codeを試す」ではない方）
+5. **「Select a repository」**ドロップダウンを押す
+6. **「Atsuro-Tagawa / atspect-handoff」**を選ぶ
+7. ブランチ **main** を選ぶ
+8. **「リポジトリを追加」**を押す
+9. そのまま質問を送る（例：「reports/ の各ファイルを読んで、各ターミナルの現状を要約して」）
+
+#### 【方式B】司令塔を「プロジェクト」にして常時読ませる（恒久運用として推奨）
+
+毎回リンクする手間をなくす方法です。**この用途には方式Bが適しています。**
+
+1. 左メニューの **「プロジェクト」**を開く
+2. 司令塔用プロジェクトを作る（既にあればそれを開く）
+3. **「プロジェクトナレッジ」**の **「＋」ボタン**を押す
+4. **「GitHub」**を選ぶ
+5. **atspect-handoff** → ブランチ **main** → フォルダ **reports/** を選択
+6. 以後、**そのプロジェクト内の全チャットが自動的にreports/を文脈として持ちます**
+7. 各ターミナルのpush後は、**「Sync（今すぐ同期）」アイコン**を押して最新化
+
+**利点**：SHA固定URLを貼る運用が不要になります。
+**注意**：自動同期ではありません。**「今すぐ同期」を押すまで内容は更新されません**（公式FAQに明記）。
+
+---
+
+### (3) 効いたか確かめる方法（合格条件）
+
+新規チャットで方式AまたはBを実施し、司令塔にこう指示してください：
+
+> reports/system.md の中身をそのまま引用して。最終行に何と書いてあるか一字一句そのまま答えて。
+
+**合格条件（すべて満たすこと）：**
+
+1. 司令塔が実際の本文を引用できる（「読めません」と言わない）
+2. 引用内容が実物と一致する
+3. **代表がURLを一切貼っていない**状態でできている
+
+**方式Bの追加検証**：同じプロジェクトで**2つ目の新しいチャット**を開き、何も添付せず同じ質問をする。それでも読めればプロジェクトナレッジとして定着＝恒久運用が成立。
+
+**不合格の典型と意味：**
+
+| 症状 | 意味 |
+|---|---|
+| 追加はできるが内容を読めない | Anthropic側の既知不具合の可能性。SHA固定URL運用に一時退避 |
+| ドロップダウンにリポジトリが出ない | GitHub連携が切れた。再認証が必要 |
+| 内容が古い | 方式Bで「今すぐ同期」を押していない |
+
+---
+
+### (4) 根拠（一次情報）
+
+**Anthropic公式：**
+- https://claude.com/docs/connectors/github
+- https://support.claude.com/en/articles/10167454-use-the-github-integration
+- https://claude.com/docs/connectors/custom/remote-mcp
+- https://support.claude.com/en/articles/11175166-get-started-with-custom-connectors-using-remote-mcp
+
+**GitHub公式：**
+- https://github.com/github/github-mcp-server/blob/main/docs/installation-guides/install-claude.md
+- https://github.com/github/github-mcp-server/blob/main/docs/remote-server.md
+
+**ユーザー報告（公式回答ではない）：**
+- https://github.com/anthropics/claude-code/issues/71542
+- https://github.com/anthropics/claude-code/issues/76722
+
+---
+
+### (5) 実測と推測の区別
+
+**✅ 実測（自分の目で見た）**
+- チャット「＋」メニューに「GitHubから追加」が実在
+- **リポジトリ一覧に「Atsuro-Tagawa / atspect-handoff」が表示された**（連携が生きている決定的証拠）
+- ダイアログ文言「ClaudeはGitHubコネクターを通じて必要なときに読み込みます」
+- 代表アカウントは Max プラン
+- GitHub App「Claude」がインストール済み
+
+**📄 公式ドキュメント記載（未実行）**
+- 取得対象は「ファイル名・ファイル内容・ブランチ内容」のみ。**コミット履歴・PR・Issue・メタデータは取得しない**
+- 「Available on all plans including Free.」＝全プランで利用可能
+- プロジェクトへの追加手順と「Sync now」による更新
+- カスタムコネクタのヘッダー認証機能は**ベータ・段階的ロールアウト中**
+
+**❓ 未確認（断定しない）**
+- **方式A・Bを実行して実際に読めるか＝未検証**。代表のログイン操作が必要なため実行していない。ダイアログを開いて閉じただけで、リポジトリのリンクは行っていない
+- 2026-06-25開始とされる「追加できるが読めない」不具合が現在も続いているか＝未確認（報告はFreeプラン利用者、Issueには「invalid」ラベル、公式回答なし）
+- 「必要なときに読み込む」が遅延取得か送信時スナップショットか＝未確認（UI文言であり内部実装の保証ではない）
+- 既存の古いチャットでも使えるか＝未確認
+- リージョン差＝未確認
+
+---
+
+### (6) 代替経路の評価
+
+**GitHub公式リモートMCPをカスタムコネクタとして追加 → 推奨しません**
+- OAuth経路：**不可**。GitHub公式ドキュメントが「Claudeのカスタムコネクタでは未サポート」と明記
+- PAT＋ヘッダー経路：機能はベータ・限定ロールアウトで当社が対象か未確認。加えて**トークン実値を画面に貼る必要があり機密規律に反する**。本題で解決するなら機密を増やす理由がない
+
+**現行のSHA固定URL運用の改善（保険）**
+- blob形式ではなく **raw形式**（`raw.githubusercontent.com/Atsuro-Tagawa/atspect-handoff/<フルSHA>/reports/system.md`）の方が本文取得が安定する
+- ただし手間は減らない。**方式Bが成立したら廃止してよい**
+
+---
+
+### 次の一手
+
+1. **代表が方式Aを試す**（5分で可否が判明）
+2. 成功したら **方式Bに移行** → SHA固定URL運用を廃止
+3. 「追加できるが読めない」症状が出たら raw形式URLに退避し後日再試行
+
+詳細はVault `_調査_claudeai司令塔からのGitHub直読み_20260725_ATSPECT.md` に記録。
