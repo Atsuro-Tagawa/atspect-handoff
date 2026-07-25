@@ -66,4 +66,15 @@
 - `C:\Users\ataga\Desktop\★明日の確認_20260725\06_AR-H1_確認してください.pdf`（AR-H1条文確認）
 - `C:\Users\ataga\Desktop\★明日の確認_20260725\01_パンフ_これで刷る_印刷用.pdf`（パンフv2.8最終確認、必要であれば）
 
+---
+
+## 追記（同日）スクリーンショット取得体制の導入＋成果物棚卸し
+
+- **Playwright MCPをユーザースコープで登録**＝全ターミナル・次回起動から利用可能（`claude mcp add --scope user playwright -- npx @playwright/mcp@latest`）。登録直後の同一セッションでは未反映のため、既存headless Chromeでatspect.comを実際に撮影・視認する実証で補完した。
+- **`visual-first-check`スキルに「§7 スクショ→テキスト報告の型」を新設**（全事業共通・要素単位でフォントサイズ/太さ/色/配置/余白/崩れ/逆転を書く）。
+- **★代表への訂正**：依頼された「Claude Desktopの画面ホットキー機能」は調査の結果Mac版限定と判明（Windowsには存在しない）。Windows代替手順（Win+Shift+S→Ctrl+V）に訂正して案内した＝`C:\Users\ataga\Desktop\★明日の確認_20260725\15_スクショ共有の使い方.pdf`。
+- **成果物管理台帳のひな型**＝`atspect-handoff\reports\manifest.md`（新設）。**司令塔から依頼された成果物棚卸し（LATEST/OLD/削除可/保留の仕分け）はここに記入済み**（システム開発T分22件・削除は未実行）。
+- Codexレビュー＝P0/P1なし・P2×1（台帳の記載一意化）は即修正済み。詳細＝Vault[[_実装ログ_スクショ取得体制導入_20260725_ATSPECT]]。
+
 <!-- created: 2026-07-25 by model=Sonnet 5 terminal=あつぺくとシステム開発 作業=セッション終了引き継ぎ(GitHub公開版) -->
+<!-- appended: 2026-07-25 by model=Sonnet 5 terminal=あつぺくとシステム開発 work=スクショ取得体制導入と成果物棚卸しの追記 -->
