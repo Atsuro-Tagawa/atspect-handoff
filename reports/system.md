@@ -22,6 +22,23 @@
 
 判断待ちマスターA-2（hCaptcha有効化＋テスト送信）は引き続きオープン＝残りは代表の実機操作（hCaptchaを正規に解いての実送信1回＋media@atspect.comでの受信内容確認）が必要です。
 
+## 【3b】受付通知の届け先をAdmin API＋Shopify公式仕様で裏取り（読み取り専用・設定変更なし）
+
+【3】で「Shopify側の現行設定は未確認」だった点を埋めました。**送信先**＝GraphQL Admin API(`shop.email`/`contactEmail`)・REST Admin API(`customer_email`/`email`)いずれもmedia@atspect.comを確認。ただし同一Shop設定の異なるAPI表現の可能性が高く三重確認とまでは言えないため、確定にはShopify管理画面「Settings > Notifications > Sender email」の目視が必要です（Codex指摘を反映）。Shopify公式ヘルプでも「Sender Email」が「問い合わせフォームの届け先」と説明されています。
+
+**管理画面の「受信一覧」**：ネイティブcontact formには投稿一覧・検索機能は無く、公式の閲覧経路はSender emailへの通知メールのみです（Formsアプリの投稿一覧は今回のフォームには非該当）。
+
+**★備考欄（`contact[20_ご意見・ご要望]`）が通知に含まれるか**：通知テンプレートの中身（Liquidソース）はAdmin API（GraphQL全スキーマ検索を含む）に読み取り経路が無く、API確認不可と判明しました。ただし、Shopify公式のテーマ開発者向けドキュメント（shopify.dev「Add a contact form to your theme」）に「`contact[任意名]`形式のカスタムフィールドのタイトルはcontact通知に表示される（These titles appear in contact notifications）」と明記されており、**公式仕様上は備考欄も通知に掲載される見込みが高い**ことが分かりました。最終確認は実メール本文の目視のみ残ります。
+
+**代表が確認する手順**（件名・差出人は実メール未確認のため推測で案内していません）：
+1. Settings > Notifications > Sender email がmedia@atspect.comか目視確認
+2. media@atspect.com受信箱（迷惑メール・隔離・転送先を含む）を申込日時・氏名・メールアドレスで検索
+3. 本文に「00_種別＝作家登録申込・規約同意【対面経由】」と入力した全項目（備考欄を含む）が表示されているか確認
+4. 備考欄が表示されていれば動線は最後まで到達（契約成立の要件を満たす）。表示されていなければ通知テンプレートの編集が必要な可能性があるためシステム開発Tへ連絡
+5. 管理画面上に投稿一覧・検索画面は無いため、確認手段は上記のメール受信のみ
+
+Codex独立レビュー実施（`codex exec`）＝「三重確認」の過大表現・「テストできない」の言い過ぎ（自動化限定が正しい）等を指摘・反映済み。決済・設定変更はしていません。テスト送信も行っていません。判断待ちマスターA-2は引き続きオープン＝残りはSettings>Notificationsの目視確認と代表の実送信1回。
+
 ## 【4】運用ルールの更新（代表承認）
 
 - `scripts/artist-csv-sync.mjs`のexport追加・受け入れテスト追加・`CLAUDE.md`更新をcommit（atspect-system。`git remote`無しのためpush対象なし）。
