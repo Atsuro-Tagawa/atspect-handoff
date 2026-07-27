@@ -1,0 +1,71 @@
+A3パンフレット印刷用PDF ボックス値・面付け実測ログ（2026-07-27・あつぺくとリサーチ）
+対象ファイル: C:\Vault\ARTS-RESPECT\_入稿データ_アクセア_修正版_20260724\20_パンフ_印刷用_v214完成版_営業戦略T.pdf
+使用ツール: Python 3.12 / pypdf 6.14.2 / PyMuPDF(fitz) 1.28.0
+
+=== 1. PDF基本情報 ===
+pdf_header: %PDF-1.3
+producer: ReportLab PDF Library - (opensource)
+creator: anonymous
+creationDate: D:20260725215646+09'00'
+page count: 2
+
+=== 2. ページボックス値（pypdf経由・両ページ共通）===
+mediabox: llx=0.000 lly=0.000 urx=909.921 ury=1258.583 pt -> 321.00mm x 444.00mm
+cropbox / bleedbox / trimbox / artbox: pypdfのプロパティ経由では上記と同値を返すが、これはPDF仕様上の「未設定時はMediaBox/CropBoxへフォールバックする」という既定動作によるものであり、実際にPDFへ値が書き込まれているわけではない（下記3.参照）。
+/Rotate: 0（両ページとも）
+
+=== 3. ★重要：PDF生ページオブジェクトの直接確認（PyMuPDF xref_object） ===
+両ページとも、生のページ辞書に存在するボックス関連キーは /MediaBox のみ。
+  /MediaBox [ 0 0 909.9213 1258.583 ]
+  /Rotate 0
+→ /CropBox /BleedBox /TrimBox /ArtBox はいずれも生辞書に存在しない＝未設定。
+→ 【判定】トリム線は「PDFのボックスとして設定されている」のではなく、後述4.のとおり「図形（ベクターの線）として描かれているだけ」。
+
+=== 4. トリム位置マーク（ベクター図形）の実測（PyMuPDF get_drawings） ===
+ページ2（INSIDE面）で検出した4隅8本の線分（コーナーマーク、幅0.25pt・黒）：
+  左下: 水平線 x=2.00-9.00mm @ y=12.00mm／垂直線 y=2.00-9.00mm @ x=12.00mm
+  左上: 水平線 x=2.00-9.00mm @ y=432.00mm／垂直線 y=435.00-442.00mm @ x=12.00mm
+  右下: 水平線 x=312.00-319.00mm @ y=12.00mm／垂直線 y=2.00-9.00mm @ x=309.00mm
+  右上: 水平線 x=312.00-319.00mm @ y=432.00mm／垂直線 y=435.00-442.00mm @ x=309.00mm
+→ 4隅とも、MediaBox端から12.00mm内側の位置に単線コーナーマークがある。
+→ 12mm inset を4辺に適用すると (321-24)×(444-24) = 297×420mm＝A3縦の仕上がりサイズと完全一致。
+→ 塗り足し境界（トリムから3mm外側＝MediaBox端から9mm内側）を示す別線は検出されず（コーナーマークは1種類のみ）。
+
+=== 5. パネル画像の配置・解像度（get_image_info） ===
+各ページに画像2点（上半分パネル・下半分パネル）、全4画像とも同一仕様：
+  pixel = 3508 x 2481 px
+  colorspace = DeviceRGB, bpc = 8
+  配置bbox = 303.00mm x 216.00mm（= 仕上がり297x210mmの全辺に3mmを加算した寸法と一致）
+  埋め込みxres/yres タグ = 96 / 96（★これは実際の印刷解像度を示す値ではない。プレースホルダー）
+  実効解像度（画素数 ÷ 配置物理サイズから算出）= 294 x 292 dpi
+
+ページ1（OUTSIDE面）画像bbox（pt）:
+  panel A: (25.51, 25.51) - (884.41, 637.80)
+  panel B: (25.51, 620.79) - (884.41, 1233.07)
+  → 2枚の重複幅 = 637.80 - 620.79 = 17.01pt = 6.00mm（= 3mm+3mm、折り線をまたぐ塗り足しが両パネルとも確保されている計算と一致）
+
+=== 6. 面付けラベル（版面内テキスト・実測位置） ===
+page1 get_text(): "FOLD y=210mm (yama-ori)" / "OUTSIDE : TOP=P1 rot180, BOTTOM=P4 [v2.14 FINAL by EIGYO]" / "A3 (297x420mm) tate / ryomen color (duplex: long-edge) / coat 135kg / futatsu-ori (yoko-ori at y=210mm, finish A4 yoko 297x210) / 50 bu / bleed 3mm"
+page2 get_text(): 同上、ただし "INSIDE : TOP=P2(yamaba), BOTTOM=P3 [v2.14 FINAL by EIGYO]"
+
+ラベルのテキスト座標とトリム推定域（MediaBox端から12mm inset）を比較した結果、3件のラベルすべてがトリム域の外側（=断裁で除去される領域）に位置することを確認：
+  "FOLD y=210mm (yama-ori)" bbox_mm=(314.9,206.3,318.3,237.7) → inside_trim_area=False
+  "INSIDE : TOP=P2..." bbox_mm=(12.0,5.7,75.6,8.6) → inside_trim_area=False
+  "A3 (297x420mm) tate..." bbox_mm=(12.0,439.5,152.6,442.4) → inside_trim_area=False
+
+=== 7. フォント（get_fonts） ===
+両ページとも使用フォントは Helvetica（Type1）・Helvetica-Bold（Type1）の2種のみ。いずれも埋め込みなし（FontFile/FontFile2/FontFile3キーなし）。
+→ これらはPDF標準14書体であり、埋め込みなしでも印刷用RIP・PDFビューアで確実に存在するため実害なし。
+→ ただしこの2書体は版面内の指示ラベル（英字）にのみ使用されている（下記8.参照）。パンフレット本体の見出し・本文は書体データではなく、すべてラスター画像として書き出されている（get_text()で本体の文字列が一切抽出できないことから確認）。
+
+=== 8. カラースペース・ICCプロファイル ===
+ページ単位のGroup（透明グループ）キー: 未設定
+ドキュメントカタログの/OutputIntents: 未設定
+→ CMYK変換プロファイルの指定なし。RGBデータのまま入稿窓口に渡される想定。
+
+=== 9. 総インキ量（TAC）について ===
+本データはDeviceRGB（8bit）で構成されており、CMYKチャンネル・インキ値を持たない。
+総インキ量（TAC・Total Area Coverage）はCMYK各版の合計濃度から算出するものであり、RGBデータの状態では定義不能。
+印刷所側でRGB→CMYK変換を行った後でなければ算出できないため、本仕様書では「未指定・測定不可」と明記した。
+
+<!-- created: 2026-07-27 by model=Sonnet 5 terminal=あつぺくとリサーチ tool=Python(pypdf 6.14.2 / PyMuPDF 1.28.0) -->
