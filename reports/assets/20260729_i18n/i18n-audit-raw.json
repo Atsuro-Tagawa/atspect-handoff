@@ -47,18 +47,7 @@
       "allowlistedPartial": true
     }
   ],
-  "jaOnlyIntentional": [
-    {
-      "file": "sections/atspect-privacy.liquid",
-      "class": "pv-jaonly",
-      "line": 81
-    },
-    {
-      "file": "sections/atspect-privacy.liquid",
-      "class": "pv-jaonly",
-      "line": 147
-    }
-  ],
+  "jaOnlyIntentional": [],
   "unknownStructure": [
     {
       "file": "sections/atspect-artwork-detail.liquid",

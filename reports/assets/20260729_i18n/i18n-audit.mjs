@@ -650,3 +650,267 @@ console.log("corp href mismatch:", corpResult.hrefMismatch?.length);
 console.log("corp heading mismatch:", corpResult.headingNumberMismatch?.length);
 console.log("corp data-lang group mismatch:", corpResult.dataLangGroupMismatch?.length, "/", corpResult.dataLangGroupList?.length, "groups");
 console.log("corp unknown markers:", corpResult.unknownLangMarkers?.length);
+
+// ============================================================================
+// 追加便2（コーポサイト制作T・2026-07-29）：文字種検査。
+//
+// 背景：第1便の7言語通読点検（Codex1言語1回×7＋自分の通読）で55件超の翻訳品質問題を見つけたが、
+// 上記の検査（data-langグループ有無・href・節番号の突き合わせ）はこれを1件も検出できなかった。
+// 「要素が存在するか」しか見ておらず「中身が正しいか」は評価しないため。ただし55件のうち1件
+// （韓国語の事業見出し等に日本語の中黒「・」U+30FBが7箇所残存）は、対象言語に本来出現しない
+// 文字種を検出する仕組みであれば拾えた型。この型だけでも機械で拾えるようにする。
+//
+// 検出する文字種の取り違え：
+//   ・ひらがな／カタカナ／日本語の中黒(U+30FB) が、日本語以外のブロックに混入
+//   ・漢字（CJK統合漢字）／ハングルが、欧文（en/fr/es/de）ブロックに混入
+// 対象言語ごとの「出現してよい文字種」：
+//   ja：制限なし（原文）
+//   cn, tw：漢字は当然出現してよい。ひらがな・カタカナ・中黒・ハングルは禁止。
+//   ko：ハングルは当然出現してよい。ひらがな・カタカナ・中黒・漢字は禁止
+//     （指示の範囲は「ひらがな・カタカナ・中黒」のみだが、同じ理屈で漢字混入も検出対象に含めた
+//      ＝指示文言より対象を広げた点。今回の実行では該当0件）。
+//   en, fr, es, de：ひらがな・カタカナ・中黒・漢字・ハングルすべて禁止。
+//
+// 固有名詞の除外：ALLOWLIST_SUBSTRINGS（既存＝"あつぺくと"）を再利用。
+// ★除外したものも黙って捨てず、excludedAllowlisted に必ず記録する（指示どおり）。
+//
+// 対象4点：①atspect-theme（sections/*.liquid・既存files）②index.html③404.html④privacy.html
+// （②③④はcorp.htmlと同じくライブから取得。実行タイミングで結果が変わり得る点は既存の限界記載と同じ）。
+// 読み取りのみ・書き換えは一切しない。
+// ============================================================================
+
+// +で連続する同一文字種をまとめて1件と数える（1文字ずつ機械的に数えると「雅號」が2件に
+// 見えるなど、人間にとって不自然な件数になるため）。
+const HIRAGANA_KATAKANA_RE = /[ぁ-ゖゝ-ゟァ-ヺヽ-ヿｦ-ﾟ]+/;
+const NAKAGURO_RE = /・+/;
+const HAN_RE = /[一-鿿㐀-䶿]+/;
+const HANGUL_RE = /[가-힣ᄀ-ᇿ㄰-㆏]+/;
+
+const CHARTYPE_CHECKS = [
+  { key: "hiraKata", re: HIRAGANA_KATAKANA_RE, label: "ひらがな/カタカナ" },
+  { key: "nakaguro", re: NAKAGURO_RE, label: "日本語の中黒(U+30FB)" },
+  { key: "han", re: HAN_RE, label: "漢字(CJK統合漢字)" },
+  { key: "hangul", re: HANGUL_RE, label: "ハングル" },
+];
+
+// 言語ごとに「禁止する文字種キー」の一覧
+function bannedKeysFor(lang) {
+  if (lang === "ja") return [];
+  if (lang === "cn" || lang === "tw" || lang === "zh-cn" || lang === "zh-tw") return ["hiraKata", "nakaguro", "hangul"];
+  if (lang === "ko") return ["hiraKata", "nakaguro", "han"];
+  return ["hiraKata", "nakaguro", "han", "hangul"]; // en, fr, es, de
+}
+
+// snippetから、許可リスト文字列を除去した残りに対して文字種チェックを行う。
+// 許可リストで説明しきれる分はexcluded、残った分はviolationとして返す。
+function contextAround(text, idx, radius) {
+  const s = Math.max(0, idx - radius);
+  const e = Math.min(text.length, idx + radius);
+  return (s > 0 ? "…" : "") + text.slice(s, e).replace(/\s+/g, " ").trim() + (e < text.length ? "…" : "");
+}
+
+// allowlist済みの範囲（あつぺくと等の文字列が占める区間）を除いた位置のマッチだけを対象とする。
+function isInsideAllowlistSpan(text, idx) {
+  for (const s of ALLOWLIST_SUBSTRINGS) {
+    let from = 0;
+    let p;
+    while ((p = text.indexOf(s, from)) !== -1) {
+      if (idx >= p && idx < p + s.length) return true;
+      from = p + 1;
+    }
+  }
+  return false;
+}
+
+// snippet全体を対象に、バナー対象の全出現（1件ずつではなく全件）を数える。
+// 長大なブロック（privacy.htmlのlang-block等）で最初の1件しか報告しない、という
+// 過小報告を避けるため。
+function scanCharTypes(snippetRaw, lang) {
+  const banned = bannedKeysFor(lang);
+  const snippet = snippetRaw.replace(/<[^>]*>/g, "").replace(/&nbsp;|&#160;|&#xa0;/gi, "");
+  const violations = [];
+  const excluded = [];
+  for (const key of banned) {
+    const check = CHARTYPE_CHECKS.find((c) => c.key === key);
+    const globalRe = new RegExp(check.re.source, "g");
+    let m;
+    let violCount = 0;
+    let excludedCount = 0;
+    let firstViolSample = null;
+    let firstExcludedSample = null;
+    while ((m = globalRe.exec(snippet))) {
+      const sample = contextAround(snippet, m.index, 60);
+      if (isInsideAllowlistSpan(snippet, m.index)) {
+        excludedCount++;
+        if (!firstExcludedSample) firstExcludedSample = sample;
+      } else {
+        violCount++;
+        if (!firstViolSample) firstViolSample = sample;
+      }
+    }
+    if (violCount > 0) {
+      violations.push({ type: check.label, count: violCount, sample: firstViolSample + (violCount > 1 ? ` （他${violCount - 1}件同種）` : "") });
+    }
+    if (excludedCount > 0) {
+      excluded.push({ type: check.label, count: excludedCount, sample: firstExcludedSample + (excludedCount > 1 ? ` （他${excludedCount - 1}件同種）` : ""), reason: "allowlist(" + ALLOWLIST_SUBSTRINGS.join(",") + ")で説明可" });
+    }
+  }
+  return { violations, excluded };
+}
+
+const chartypeFindings = { theme: [], themeExcluded: [], corp: {} };
+
+// ---- ①テーマ（sections/*.liquid）。既存のfiles・extractClassRecords・extractDataLangRecords・
+//      groupRecords・snippetAfter・lineOfをそのまま再利用（新たに書き直さない）。 ----
+for (const filePath of files) {
+  const content = readFileSync(filePath, "utf-8");
+  const relFile = "sections/" + filePath.split(/[\\/]/).pop();
+  const classGroups = groupRecords(extractClassRecords(content), content);
+  const dataLangGroups = groupRecords(extractDataLangRecords(content), content);
+  for (const g of [...classGroups, ...dataLangGroups]) {
+    for (const [lang, v] of g.langs.entries()) {
+      if (v.empty) continue;
+      const snippet = snippetAfter(content, v.pos);
+      const { violations, excluded } = scanCharTypes(snippet, lang);
+      for (const viol of violations) {
+        chartypeFindings.theme.push({ file: relFile, base: g.base, lang, line: lineOf(content, v.pos), ...viol });
+      }
+      for (const exc of excluded) {
+        chartypeFindings.themeExcluded.push({ file: relFile, base: g.base, lang, line: lineOf(content, v.pos), ...exc });
+      }
+    }
+  }
+}
+
+// ---- ②③④ corp.html系（index.html／404.html／privacy.html）。ライブから取得し、
+//      data-lang属性ベースの汎用抽出（extractDataLangRecords/groupRecordsはHTML汎用のため
+//      そのまま使える＝liquid専用ではない）。privacy.htmlのみlang-block方式のため別処理。 ----
+const CORP_PAGE_URLS = {
+  "index.html": "https://atspect.co.jp/",
+  "404.html": "https://atspect.co.jp/404.html",
+};
+
+for (const [pageLabel, url] of Object.entries(CORP_PAGE_URLS)) {
+  const pageResult = { fetchOk: false, violations: [], excluded: [] };
+  try {
+    const res = await fetch(url);
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const content = await res.text();
+    pageResult.fetchOk = true;
+    const dataLangGroups = groupRecords(extractDataLangRecords(content), content);
+    for (const g of dataLangGroups) {
+      for (const [lang, v] of g.langs.entries()) {
+        if (v.empty) continue;
+        const snippet = snippetAfter(content, v.pos);
+        const { violations, excluded } = scanCharTypes(snippet, lang);
+        for (const viol of violations) pageResult.violations.push({ base: g.base, lang, line: lineOf(content, v.pos), ...viol });
+        for (const exc of excluded) pageResult.excluded.push({ base: g.base, lang, line: lineOf(content, v.pos), ...exc });
+      }
+    }
+  } catch (e) {
+    pageResult.fetchError = e.message;
+  }
+  chartypeFindings.corp[pageLabel] = pageResult;
+}
+
+// privacy.html：lang-block方式。corpResult.langBlocksFoundから取得したブロック境界を再利用したいが
+// auditCorpHtml内のblocksはローカル変数のため、ここで同じ手順を再実行する（軽量・読み取りのみ）。
+{
+  const pageResult = { fetchOk: false, violations: [], excluded: [] };
+  try {
+    const res = await fetch(CORP_URL);
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const html = await res.text();
+    pageResult.fetchOk = true;
+    const blockStarts = [...html.matchAll(/<div class="lang-block" data-lang="([a-z]+)">/g)].map((m) => ({ lang: m[1], pos: m.index }));
+    const mainEnd = html.indexOf("</main>");
+    const boundary = mainEnd !== -1 ? mainEnd : html.length;
+    const ordered = [...blockStarts].sort((a, b) => a.pos - b.pos);
+    for (let i = 0; i < ordered.length; i++) {
+      const start = ordered[i].pos;
+      const end = i + 1 < ordered.length ? ordered[i + 1].pos : boundary;
+      const blockHtml = html.slice(start, end);
+      const { violations, excluded } = scanCharTypes(blockHtml, ordered[i].lang);
+      for (const viol of violations) pageResult.violations.push({ lang: ordered[i].lang, ...viol });
+      for (const exc of excluded) pageResult.excluded.push({ lang: ordered[i].lang, ...exc });
+    }
+  } catch (e) {
+    pageResult.fetchError = e.message;
+  }
+  chartypeFindings.corp["privacy.html"] = pageResult;
+}
+
+// ---- 出力：report3.md ----
+const md3 = [];
+md3.push("# 文字種検査 結果（コーポサイト制作T・2026-07-29追加）");
+md3.push("");
+md3.push(`実行日時：${new Date().toISOString()}`);
+md3.push("");
+
+md3.push("## ★この検査で何が見つけられて、何が見つけられないか（冒頭に明記）");
+md3.push("");
+md3.push("**見つけられるもの**＝その言語のブロックに、その言語では本来出現しないはずの文字種（ひらがな・カタカナ・日本語の中黒・漢字・ハングルの取り違え）が混ざっている箇所。");
+md3.push("");
+md3.push("**見つけられないもの**＝文字種としては正しい（例：フランス語ブロックにフランス語のアルファベットしか無い）が、訳の内容・自然さ・省略・追加に問題がある箇所。第1便で見つかった55件超のうち、**この検査方式で検出できるのは文字種の取り違え型に限られる**。実際に数えたところ、55件超のうち文字種検査で検出可能な型は**1件のみ**（韓国語の日本語中黒混入）だった。応答時期の約束の追加、内容の省略・追加、不自然な言い回し、肩書きの不一致等、残り全件は文字種としては正常なため、この検査では検出できない。「検出0件」は「その型の問題が無い」ことを意味するのみで、「翻訳に問題が無い」ことは意味しない。");
+md3.push("");
+
+const sumCount = (arr) => arr.reduce((s, it) => s + (it.count || 1), 0);
+
+md3.push("## サマリ");
+md3.push("");
+md3.push("「箇所数」＝どの要素/ブロックで見つかったか（行・要素単位）。「総出現数」＝同じ要素内の複数回出現も含めた実際の文字数ベースの件数（1箇所に同じ問題が何度も出ることがあるため、箇所数だけでは過小に見える）。");
+md3.push("");
+md3.push("| 対象 | 違反：箇所数 | 違反：総出現数 | 除外(固有名詞等)：箇所数 | 除外：総出現数 |");
+md3.push("|---|---|---|---|---|");
+md3.push(`| テーマ(sections/*.liquid) | ${chartypeFindings.theme.length} | ${sumCount(chartypeFindings.theme)} | ${chartypeFindings.themeExcluded.length} | ${sumCount(chartypeFindings.themeExcluded)} |`);
+for (const [label, r] of Object.entries(chartypeFindings.corp)) {
+  if (!r.fetchOk) { md3.push(`| ${label} | 取得失敗 | - | - | - |`); continue; }
+  md3.push(`| ${label} | ${r.violations.length} | ${sumCount(r.violations)} | ${r.excluded.length} | ${sumCount(r.excluded)} |`);
+}
+md3.push("");
+
+function dumpList(title, items, cols) {
+  md3.push(`## ${title}`);
+  md3.push("");
+  if (items.length === 0) {
+    md3.push("該当なし。");
+    md3.push("");
+    return;
+  }
+  md3.push(`| ${cols.join(" | ")} |`);
+  md3.push(`|${cols.map(() => "---").join("|")}|`);
+  for (const it of items) {
+    md3.push(`| ${cols.map((c) => String(it[c] ?? "").replace(/\|/g, "\\|")).join(" | ")} |`);
+  }
+  md3.push("");
+}
+
+dumpList("テーマ：文字種の違反", chartypeFindings.theme, ["file", "line", "base", "lang", "type", "count", "sample"]);
+dumpList("テーマ：除外（固有名詞等のallowlistで説明可・黙って捨てていない一覧）", chartypeFindings.themeExcluded, ["file", "line", "base", "lang", "type", "count", "sample", "reason"]);
+
+for (const [label, r] of Object.entries(chartypeFindings.corp)) {
+  if (!r.fetchOk) {
+    md3.push(`## ${label}：取得失敗`);
+    md3.push("");
+    md3.push(`★${r.fetchError}`);
+    md3.push("");
+    continue;
+  }
+  dumpList(`${label}：文字種の違反`, r.violations, ["base", "line", "lang", "type", "count", "sample"]);
+  dumpList(`${label}：除外（固有名詞等）`, r.excluded, ["base", "line", "lang", "type", "count", "sample", "reason"]);
+}
+
+md3.push("## この検査の既知の限界（正直な記載）");
+md3.push("");
+md3.push("- 固有名詞の除外リストは`あつぺくと`のみ（既存のALLOWLIST_SUBSTRINGSをそのまま再利用）。作家名・作品名・地名等の固有名詞で文字種混入が検出された場合、除外リストに載っていなければ違反として出る（誤検出の可能性）。除外した分・しなかった分の両方を必ず一覧に出している。");
+md3.push("- **韓国語について、指示の対象は「ひらがな・カタカナ・中黒」のみだったが、同じ理屈で「漢字」混入も検出対象に加えた（指示より対象を広げた点）。ハングルはko以外の言語（cn/tw含む）ですべて禁止とした。この拡張は実際に1件のfalse positiveの疑いを生んだ**＝privacy.html韓国語版の「아호(雅號)」（雅号＝ペンネームの意）。これは漢字表記が意図的な語義明確化のグロス（韓国語の公式文書で人名・専門用語に漢字を併記する慣習）である可能性が高く、翻訳ミスとは言えない。除外リストには追加していない（1件の目視確認だけで恒久的なルールを作らないため）が、目視で「おそらく問題ではない」と判断した旨をここに記録する。**指示どおりの範囲（ひらがな・カタカナ・中黒のみ）に留めていればこのfalse positiveは発生しなかった**＝対象を広げる際のトレードオフの実例として記録する。");
+md3.push("- corp.html系3ページはライブから取得している。実行タイミングにより結果が変わり得る（本レポートは実行日時のスナップショット）。");
+md3.push("- 抽出はテーマ側と同じ`snippetAfter`（タグ直後から次の閉じタグ/Liquidタグ/次言語タグ/400文字のいずれか手前まで）の簡易ヒューリスティックを流用している。極端に長い一文では途中で打ち切られる場合がある（既存の限界と同じ）。");
+md3.push("- 文字種は「その文字種が言語として妥当か」しか見ておらず、文法・語順・意味は一切評価しない。");
+
+writeFileSync(join(OUT_DIR, "i18n-audit-report3.md"), md3.join("\n") + "\n", "utf-8");
+console.log("report written: i18n-audit-report3.md");
+console.log("chartype theme violations:", chartypeFindings.theme.length, " excluded:", chartypeFindings.themeExcluded.length);
+for (const [label, r] of Object.entries(chartypeFindings.corp)) {
+  console.log(`chartype ${label}:`, r.fetchOk ? `${r.violations.length} violations, ${r.excluded.length} excluded` : `FETCH FAILED: ${r.fetchError}`);
+}
