@@ -8,7 +8,7 @@
 ## 進捗
 - [x] 宮脇檀：Codexレビューで是正（生没年月日・出身地・学歴のいずれも一次資料未確認と明記する形に整理。ブルーボックスハウスの国登録有形文化財登録〔2023年8月7日〕・松川ボックスの日本建築学会賞〔昭和54年度〕はいずれも一次資料で確認済み。「現存とみられる」という制度からの推論表現を削除）
 - [x] 石本喜久治：Codexレビューで是正（出身地の「神戸市」対「大阪府」相違を、石本建築事務所公式年譜〔神戸の加藤家に生まれ、幼少期に大阪の石本家の養子となった〕により整合的に説明できると判明。片岡石本建築事務所の共同創業者を「片岡安」と確認。広島市民球場は設計者クレジットが法人名「石本建築事務所」のみで個人クレジット未確認のため代表作から除外）
-- [ ] 田上義也
+- [x] 田上義也：Codexレビューで是正（「札幌景観資産」は景観条例第36条に基づく正式な市の指定制度であり「非法定の顕彰」と一括りにすべきでないと判明。光塩学園女子短期大学講師・北海学園大学教授の職歴は正式な着任資料未確認のため本文から除外。北海道家庭学校関連建物は代表作に必要な項目〔正式建物名・所在地・竣工年・文化財指定〕を確証付きで揃えられないため除外を維持）
 - [ ] 浦辺鎮太郎
 - [ ] 毛綱毅曠
 
@@ -89,3 +89,42 @@ es_viewpoint: Un arquitecto que, en 1920, formó la Sociedad de Arquitectos Sece
 
 de_bio: Gemäß der eigenen Chronologie des Ishimoto-Architekturbüros wurde er am 15. Februar 1894 in die Familie Kato in Kobe geboren und wurde als Kind von der Familie Ishimoto in Osaka adoptiert (einige biografische Nachschlagewerke geben Osaka als seinen Geburtsort an). Er schloss 1920 sein Studium an der Architekturabteilung der Ingenieurfakultät der Kaiserlichen Universität Tokio ab. Im selben Jahr gründete er zusammen mit Studienkollegen, die kurz vor ihrem Abschluss standen, darunter Horiguchi Sutemi und Yamada Mamoru, die Sezessionistische Architektenvereinigung und trat in die Takenaka Corporation ein. Von 1922 bis ins folgende Jahr reiste er nach Europa, besuchte das Bauhaus in Weimar und kam mit europäischen architektonischen und künstlerischen Strömungen in Berührung. 1927 verließ er die Takenaka Corporation und eröffnete zusammen mit Kataoka Yasushi das Architekturbüro Kataoka Ishimoto. 1931 wurde es nach dem Ruhestand von Kataoka Yasushi in Ishimoto-Architekturbüro umbenannt. 1951 wandelte er das Büro in eine Kapitalgesellschaft um und wurde deren geschäftsführender Direktor. Er entwarf die Tokioter Zentrale der Zeitung Asahi Shimbun (Yurakucho, Tokio; fertiggestellt 1927) und das Kaufhaus Shiroki-ya, Hauptfiliale Nihonbashi (Nihonbashi, Bezirk Chuo, Tokio; Phase 1 fertiggestellt 1928, Gesamtgebäude fertiggestellt 1931). 1958 erhielt er die Medaille mit blauem Band. Er starb am 27. November 1963 im Alter von 69 Jahren.
 de_viewpoint: Ein Architekt, der 1920 zusammen mit fünf Studienkollegen, die kurz vor ihrem Abschluss an der Architekturabteilung der Ingenieurfakultät der Kaiserlichen Universität Tokio standen, die Sezessionistische Architektenvereinigung gründete. Er entwarf die Tokioter Zentrale der Zeitung Asahi Shimbun während seiner Zeit bei der Takenaka Corporation und war nach seiner Selbstständigkeit unter anderem an der Gestaltung des Kaufhauses Shiroki-ya in Nihonbashi beteiligt. Keines dieser Gebäude ist heute noch erhalten.
+
+---
+
+## 田上義也（1899-1991）
+
+**Codex是正**：①「札幌景観資産」は札幌市景観条例第36条に基づく正式な市の指定制度であり、単なる民間顕彰や愛称ではないと判明＝「非法定の顕彰のみ確認」という表現を「公開されている国・北海道・札幌市の文化財資料上、文化財指定・登録は確認できない」に修正。②光塩学園女子短期大学講師・北海学園大学教授の職歴は正式な着任資料（大学公式の辞令等）が確認できないため、確証が取れるまで本文から除外。③帝国ホテル建設事務所での「技術部員」という正式職名も確認できず「入所した」に留める。④北海道家庭学校関連の建物（本館・桂林寮）は「田上作品ではない」からではなく、建物名・所在地・竣工年・文化財指定状況の4点セットを確証付きで揃えられないため、代表作欄から除外する判断を維持。
+
+**bio_ja**：栃木県の生まれ。1916年、早稲田大学附属早稲田工手学校を卒業した。1919年、フランク・ロイド・ライトが設計した帝国ホテルの建設事務所に入所した。1923年に北海道へ移り、札幌に建築事務所を開設した。旧小熊邸（札幌市、1927年竣工、1998年移築）などを設計した。1991年、没した。
+
+**viewpoint_ja**：1919年に帝国ホテル建設事務所に入所し、1923年以降は札幌を拠点に設計活動を行った建築家。旧小熊邸は1927年に札幌市内に建てられ、1998年に中央区伏見へ移築された。
+
+**masterworks_text**：旧小熊邸（竣工時所在地：札幌市中央区南1条西20丁目／現在地：札幌市中央区伏見5丁目・1927年竣工・1998年移築・現存・公開されている国・北海道・札幌市の文化財資料上、文化財指定・登録は確認できない〔札幌市景観条例第36条に基づく「札幌景観資産」第4号指定・「さっぽろ・ふるさと文化百選」No.11選定〕）
+
+**collection_places**：文化財保護法・条例に基づく指定・登録は確認できず（札幌市景観条例に基づく「札幌景観資産」指定のみ確認）。専用の記念館・アーカイブは未確認。
+
+**groups**：設計事務所：帝国ホテル建設事務所（1919年入所）→札幌で建築事務所を開設（1923年-）／大学：教員歴は一次資料で確認できず／建築運動：なし（確認できず）
+
+**8言語訳（bio／viewpoint）**：
+
+en_bio: Born in Tochigi Prefecture. He graduated from the trade school attached to Waseda University in 1916. In 1919 he joined the construction office for the Imperial Hotel, designed by Frank Lloyd Wright. In 1923 he moved to Hokkaido and opened an architectural office in Sapporo. He designed the former Oguma Residence (Sapporo; completed 1927, relocated 1998), among others. He died in 1991.
+en_viewpoint: An architect who joined the construction office for the Imperial Hotel in 1919 and, from 1923, was based in Sapporo for his design work. The former Oguma Residence was built in Sapporo in 1927 and relocated to Fushimi, Chuo Ward, in 1998.
+
+zh_cn_bio: 生于枥木县。1916年毕业于早稻田大学附属早稻田工手学校。1919年，进入弗兰克·劳埃德·赖特设计的帝国饭店建设事务所。1923年迁往北海道，在札幌开设建筑事务所。设计了旧小熊邸（札幌市，1927年竣工，1998年迁建）等建筑。1991年去世。
+zh_cn_viewpoint: 1919年进入帝国饭店建设事务所，1923年以后以札幌为据点从事设计活动的建筑师。旧小熊邸1927年建于札幌市内，1998年迁建至中央区伏见。
+
+zh_tw_bio: 生於櫪木縣。1916年畢業於早稻田大學附屬早稻田工手學校。1919年，進入法蘭克·洛伊·萊特設計的帝國飯店建設事務所。1923年遷往北海道，在札幌開設建築事務所。設計了舊小熊邸（札幌市，1927年竣工，1998年遷建）等建築。1991年去世。
+zh_tw_viewpoint: 1919年進入帝國飯店建設事務所，1923年以後以札幌為據點從事設計活動的建築師。舊小熊邸1927年建於札幌市內，1998年遷建至中央區伏見。
+
+ko_bio: 도치기현 출신. 1916년 와세다대학 부속 와세다공수학교를 졸업했다. 1919년, 프랭크 로이드 라이트가 설계한 데이코쿠호텔 건설사무소에 입소했다. 1923년 홋카이도로 이주하여 삿포로에 건축사무소를 열었다. 옛 오구마 저택(삿포로시, 1927년 준공, 1998년 이축) 등을 설계했다. 1991년 별세했다.
+ko_viewpoint: 1919년 데이코쿠호텔 건설사무소에 입소하고, 1923년 이후 삿포로를 거점으로 설계 활동을 한 건축가. 옛 오구마 저택은 1927년 삿포로 시내에 지어졌고, 1998년 주오구 후시미로 이축되었다.
+
+fr_bio: Né dans la préfecture de Tochigi. Diplômé en 1916 de l'école professionnelle rattachée à l'université Waseda. En 1919, il rejoint le bureau de construction de l'hôtel Impérial, conçu par Frank Lloyd Wright. En 1923, il s'installe à Hokkaido et ouvre une agence d'architecture à Sapporo. Il conçoit notamment l'ancienne résidence Oguma (Sapporo ; achevée en 1927, déplacée en 1998). Il meurt en 1991.
+fr_viewpoint: Un architecte qui rejoignit le bureau de construction de l'hôtel Impérial en 1919 et, à partir de 1923, exerça son activité de conception depuis Sapporo. L'ancienne résidence Oguma fut construite à Sapporo en 1927 et déplacée à Fushimi, arrondissement de Chuo, en 1998.
+
+es_bio: Nacido en la prefectura de Tochigi. Se graduó en 1916 en la escuela de oficios anexa a la Universidad Waseda. En 1919 se incorporó a la oficina de construcción del Hotel Imperial, diseñado por Frank Lloyd Wright. En 1923 se trasladó a Hokkaido y abrió un estudio de arquitectura en Sapporo. Diseñó, entre otras obras, la antigua Residencia Oguma (Sapporo; terminada en 1927, trasladada en 1998). Falleció en 1991.
+es_viewpoint: Un arquitecto que se incorporó a la oficina de construcción del Hotel Imperial en 1919 y, a partir de 1923, desarrolló su actividad de diseño desde Sapporo. La antigua Residencia Oguma se construyó en Sapporo en 1927 y fue trasladada a Fushimi, distrito de Chuo, en 1998.
+
+de_bio: Geboren in der Präfektur Tochigi. Er schloss 1916 die der Waseda-Universität angegliederte Gewerbeschule ab. 1919 trat er in das Baubüro des von Frank Lloyd Wright entworfenen Imperial Hotel ein. 1923 zog er nach Hokkaido und eröffnete ein Architekturbüro in Sapporo. Er entwarf unter anderem das ehemalige Oguma-Wohnhaus (Sapporo; fertiggestellt 1927, 1998 versetzt). Er starb 1991.
+de_viewpoint: Ein Architekt, der 1919 in das Baubüro des Imperial Hotel eintrat und ab 1923 seine Entwurfstätigkeit von Sapporo aus ausübte. Das ehemalige Oguma-Wohnhaus wurde 1927 in Sapporo errichtet und 1998 nach Fushimi, Bezirk Chuo, versetzt.
