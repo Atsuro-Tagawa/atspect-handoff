@@ -12,7 +12,7 @@
 - [x] 清家清：Codex独立レビュー完了・「登録有形文化財」の年号表記を是正
 - [x] 磯崎新：Codex独立レビュー完了・「登録有形文化財」の年号表記を是正
 - [x] 槇文彦：Codex独立レビュー完了・ヒルサイドテラスの竣工年範囲の誤りを一次資料で発見・是正
-- [ ] 内田祥三
+- [x] 内田祥三：Codex独立レビュー完了・文化財指定1件の欠落と建物名の是正
 
 ## 丹下健三（完了）
 
@@ -100,4 +100,40 @@
 
 **Codexが提案したが不採用とした点**：①文化財指定欄の追加＝DOCOMOMO Japan選定等は文化財保護法上の法的指定・登録とは別制度のため、他の建築家分と同じ「未確認は欄自体を省略」の規則を適用し追加しなかった。②「不訳」方針の説明の言い換え＝「公式のラテン文字表記の維持」という表現の方が正確、との指摘を上記の方針欄に反映した。
 
-<!-- created: 2026-07-28 by terminal=あつぺくとリサーチ model=Sonnet 5 work=建築5名masterworks再検証・是正・制作T引き渡し（進捗:丹下健三・清家清・磯崎新・槇文彦完了） -->
+## 内田祥三（完了・5/5で全体完了）
+
+**是正（4点）**：
+1. 「法学部3号館」→「東京大学法学部3号館」（現行CSV・文化遺産オンラインの正式名称に合わせて大学名を追加。翻訳時にすでに気づき修正していた点をCodexも独立に指摘）。
+2. 「登録有形文化財1998年指定」→「1998年登録」（清家清・磯崎新と同じ、法令上の用語是正）。
+3. **★「旧制第一高等学校本館（現・東京大学時計台）」に文化財指定の記載が欠落していたことをCodexが一次資料（文化庁国指定文化財等データベース）で発見**。同建物は「東京大学教養学部１号館（時計台）」として2000年に登録有形文化財へ登録されている。名称も正式名称に精緻化し、「登録有形文化財2000年登録」を追加。
+4. 名称精緻化に伴い、東京大学公式サイトの表記（Building No. 1, which houses...the clock tower）に合わせ、英語以下7言語も「時計台そのもの」ではなく「時計台を含む教養学部1号館」という趣旨に統一。
+
+**この4点はCSVの`masterworks_text`（日本語原文）自体の修正が必要**（1・3は情報の追加・精緻化、2は用語の是正）。
+
+```json
+{
+  "内田祥三": {
+    "masterworks": {
+      "ja": "安田講堂（東京都文京区・1925年竣工・現存・登録有形文化財、岸田日出刀と共作）、東京大学法学部3号館（東京都文京区・1927年竣工・現存・登録有形文化財1998年登録）、旧制第一高等学校本館（現・東京大学教養学部1号館〔時計台〕）（東京都目黒区・1933年竣工・現存・登録有形文化財2000年登録）",
+      "en": "Yasuda Auditorium (Tokyo, Bunkyo Ward; completed 1925; extant; Registered Tangible Cultural Property, co-designed with Kishida Hideto), University of Tokyo Faculty of Law Building No. 3 (Tokyo, Bunkyo Ward; completed 1927; extant; Registered Tangible Cultural Property, registered 1998), main building of the former First Higher School (now Building No. 1 [Clock Tower], College of Arts and Sciences, the University of Tokyo) (Meguro Ward, Tokyo; completed 1933; extant; Registered Tangible Cultural Property, registered 2000)",
+      "zh_cn": "安田讲堂（东京都文京区·1925年竣工·现存·登记有形文化财，与岸田日出刀合作设计）、东京大学法学部3号馆（东京都文京区·1927年竣工·现存·登记有形文化财1998年登记）、旧制第一高等学校本馆（现·东京大学教养学部1号馆〔钟楼〕）（东京都目黑区·1933年竣工·现存·登记有形文化财2000年登记）",
+      "zh_tw": "安田講堂（東京都文京區·1925年竣工·現存·登錄有形文化財，與岸田日出刀合作設計）、東京大學法學部3號館（東京都文京區·1927年竣工·現存·登錄有形文化財1998年登錄）、舊制第一高等學校本館（現·東京大學教養學部1號館〔鐘樓〕）（東京都目黑區·1933年竣工·現存·登錄有形文化財2000年登錄）",
+      "ko": "야스다 강당(도쿄도 분쿄구·1925년 준공·현존·등록유형문화재, 기시다 히데토와 공동 설계), 도쿄대학 법학부 3호관(도쿄도 분쿄구·1927년 준공·현존·등록유형문화재 1998년 등록), 구제 다이이치고등학교 본관(현 도쿄대학 교양학부 1호관〔시계탑〕)(도쿄도 메구로구·1933년 준공·현존·등록유형문화재 2000년 등록)",
+      "fr": "auditorium Yasuda (Tokyo, arrondissement de Bunkyo; achevé en 1925; existant; bien culturel tangible enregistré, conçu avec Kishida Hideto), bâtiment n°3 de la Faculté de droit de l'université de Tokyo (Tokyo, arrondissement de Bunkyo; achevé en 1927; existant; bien culturel tangible enregistré en 1998), bâtiment principal de l'ancienne Première École supérieure (aujourd'hui le bâtiment n°1 [tour de l'horloge] de la Faculté des arts et des sciences de l'université de Tokyo) (Tokyo, arrondissement de Meguro; achevé en 1933; existant; bien culturel tangible enregistré en 2000)",
+      "es": "Auditorio Yasuda (Tokio, distrito de Bunkyo; terminado en 1925; existente; Bien Cultural Tangible Registrado, diseñado junto con Kishida Hideto), Edificio n.º 3 de la Facultad de Derecho de la Universidad de Tokio (Tokio, distrito de Bunkyo; terminado en 1927; existente; Bien Cultural Tangible Registrado en 1998), edificio principal de la antigua Primera Escuela Superior (actualmente Edificio n.º 1 [Torre del Reloj] de la Facultad de Artes y Ciencias de la Universidad de Tokio) (Tokio, distrito de Meguro; terminado en 1933; existente; Bien Cultural Tangible Registrado en 2000)",
+      "de": "Yasuda-Auditorium (Tokio, Bezirk Bunkyo; fertiggestellt 1925; erhalten; registriertes materielles Kulturgut, gemeinsam mit Kishida Hideto entworfen), Gebäude Nr. 3 der Rechtswissenschaftlichen Fakultät der Universität Tokio (Tokio, Bezirk Bunkyo; fertiggestellt 1927; erhalten; registriertes materielles Kulturgut, eingetragen 1998), Hauptgebäude der ehemaligen Ersten Höheren Schule (heute Gebäude Nr. 1 [Uhrturm] der Fakultät für Kunst und Wissenschaft der Universität Tokio) (Tokio, Bezirk Meguro; fertiggestellt 1933; erhalten; registriertes materielles Kulturgut, eingetragen 2000)"
+    }
+  }
+}
+```
+
+## まとめ（5/5完了）
+
+5名全員のCodex独立レビュー完了。**一次資料への遡り確認により、5名中4名（丹下・清家・磯崎・内田は用語、槇は事実誤り、内田はさらに情報追加）で日本語原文（CSVの`masterworks_text`）自体の修正が必要と判明した**。単純な07-25版の再送では、これらの誤りをそのまま8言語に広げてしまうところだった。
+
+**制作Tへの依頼事項**：
+1. 上記5名分のJSONを各artist_i18n.masterworksフィールドへ新規キーとして追加（新規キー`masterworks`の追加が必要・提案名称。既存キーは変更しない）。
+2. CSVの`masterworks_text`（日本語列）を、本ファイル各セクションの「ja」の値に更新（丹下・清家・磯崎・槇・内田の5件とも一部変更あり）。
+3. 実反映後、英語ページ等で「Selected Works」欄が翻訳表示されることを確認。
+
+<!-- created: 2026-07-28 by terminal=あつぺくとリサーチ model=Sonnet 5 work=建築5名masterworks再検証・是正・制作T引き渡し（5/5全員完了） -->
