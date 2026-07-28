@@ -10,7 +10,7 @@
 - [x] 芦原義信：Codexレビューで是正（国立歴史民俗博物館の竣工/開館年混同を修正・3件とも国/都/市の文化財指定なしを確認・中央公論ビルの記述を削除）
 - [x] 大高正人：Codexレビューで大幅是正（坂出人工土地の竣工年を第1期/全体で精緻化・1969年度芸術選奨文部大臣賞は千葉県文化会館ではなく栃木県議会議事堂が対象と判明・3件とも文化財指定なしを確認）
 - [x] 坂倉準三：Codexレビューで是正（旧上野市庁舎の伊賀市指定文化財の指定年を精緻化・1961年/1968年の受賞対象が異なる賞〔作品賞／大賞〕であることを明確化）
-- [ ] 吉阪隆正
+- [x] 吉阪隆正：Codexレビューで是正（大学セミナー・ハウス本館の東京都選定歴史的建造物の選定年度を精緻化・「選定」と「指定」の混同を是正・旧江津市役所本庁舎の現況記述を更新・5/5で第3便完了）
 
 ---
 
@@ -167,4 +167,55 @@ es_viewpoint: Un arquitecto que aplicó la experiencia adquirida junto a Le Corb
 
 de_bio: Geboren in Takegahana-cho, Bezirk Hashima, Präfektur Gifu (heute Stadt Hashima). Er trat 1920 in die alte Erste Oberschule (geisteswissenschaftlicher Zweig) ein und schloss 1927 sein Studium an der Abteilung für Ästhetik und Kunstgeschichte der Literaturfakultät der Kaiserlichen Universität Tokio ab. 1929 reiste er nach Frankreich und studierte ab 1931 fünf Jahre lang bei Le Corbusier. 1936 kehrte er nach Japan zurück, reiste jedoch für den Bau des japanischen Pavillons auf der Pariser Weltausstellung (fertiggestellt 1937) erneut nach Frankreich. 1940 eröffnete er das Architekturbüro Junzo Sakakura, das 1946 in Junzo-Sakakura-Architekturforschungsinstitut umbenannt wurde. Er arbeitete unter anderem am ehemaligen Museum für moderne Kunst der Präfektur Kanagawa (heute Kamakura-Bunka-kan-Tsurugaoka-Museum, Präfektur Kanagawa; fertiggestellt 1951) und am ehemaligen Rathaus von Ueno (Iga, Präfektur Mie; fertiggestellt 1964). 1961 erhielt er den Preis des Architekturinstituts von Japan (Kategorie Entwurf) für das Rathaus von Hashima, 1968 den Großen Preis des Architekturinstituts von Japan, und wurde 1966 Auslandsehrenmitglied des American Institute of Architects. Er starb 1969 im Alter von 68 Jahren.
 de_viewpoint: Ein Architekt, der die in Paris bei Le Corbusier gewonnene Erfahrung in seine Entwurfstätigkeit in Japan nach seiner Rückkehr einbrachte. Das ehemalige Museum für moderne Kunst der Präfektur Kanagawa ist bekannt für sein Gebäude, das die Lage im Gelände des Hachimangu-Schreins in Kamakura nutzt, und wird bis heute als Museum genutzt.
+
+---
+
+## 吉阪隆正（1917-1980）
+
+**Codex是正**：①大学セミナー・ハウス本館の東京都選定歴史的建造物は「2017年度」ではなく「2016年度選定」（選定発表は2017年3月）。②同建物は景観条例に基づく「選定」制度であり、法的な文化財「指定」とは別制度＝用語を「選定」に統一。③viewpoint_jaの「若手研究者の合宿・研修の場」は不正確＝東京都公式ページでは「大学教育の補完と大学間交流のための施設」がより広い正確な説明。④旧江津市役所本庁舎の現況記述を更新（2021年閉庁後、民間譲渡による保存活用を模索中）。⑤旧江津市役所本庁舎と、別の建物「旧江津町役場本庁舎」（2010年登録の別の大正期建築）を混同していないかを確認＝混同なしとCodexも確認。
+
+**bio_ja**：東京市小石川区（現在の文京区一帯）の生まれ。1941年に早稲田大学建築学科を卒業した。1950年から1952年までフランスに留学し、ル・コルビュジエのもとで学んだ。1945年に早稲田大学助教授、1959年に同大学理工学部教授となり、1969年から1972年まで理工学部長を務めた。1973年から1974年まで日本建築学会会長を務めた。アテネ・フランセ校舎（東京都千代田区、1962年竣工、のち増築）、大学セミナー・ハウス本館（東京都八王子市、1965年竣工）、旧江津市役所本庁舎（島根県江津市、1962年竣工）などを設計した。1957年、昭和31年度芸術選奨文部大臣賞を受賞した。1980年、63歳で没した。
+
+**viewpoint_ja**：フランスでル・コルビュジエに学び、早稲田大学で長く教育にあたった建築家。大学セミナー・ハウス本館は、大学教育の補完と大学間交流のための宿泊研修施設として計画され、現在も研修や合宿などに利用されている。
+
+**masterworks_text**：大学セミナー・ハウス本館（東京都八王子市・1965年竣工・現存・東京都選定歴史的建造物〔2016年度選定〕）、アテネ・フランセ校舎（東京都千代田区・1962年竣工、のち増築・現存・国・都・区の文化財指定・登録は確認できない）、旧江津市役所本庁舎（島根県江津市・1962年竣工・現存・2021年閉庁、民間譲渡による保存活用を模索中・文化財指定・登録は確認できない）
+
+**collection_places**：東京都選定歴史的建造物1件（大学セミナー・ハウス本館）。他2件は文化財指定・登録を確認できず。専用の記念館・アーカイブは未確認。
+
+**groups**：大学：早稲田大学助教授(1945年)→教授(1959年)→理工学部長(1969-1972年)／建築運動：なし（確認できず）／日本建築学会会長(1973-1974年)
+
+**8言語訳（bio／viewpoint）**：
+
+en_bio: Born in Koishikawa Ward, Tokyo City (present-day Bunkyo Ward area). He graduated from the Department of Architecture, Waseda University, in 1941. From 1950 to 1952 he studied in France, learning under Le Corbusier. He became an associate professor at Waseda University in 1945 and a professor in the Faculty of Science and Engineering in 1959, serving as dean of the faculty from 1969 to 1972. He served as president of the Architectural Institute of Japan from 1973 to 1974. He designed the Athénée Français building (Chiyoda Ward, Tokyo; completed 1962, later extended), the University Seminar House main building (Hachioji, Tokyo; completed 1965), and the former Gotsu City Hall main building (Gotsu, Shimane Prefecture; completed 1962), among others. In 1957 he received the Ministry of Education Art Encouragement Prize for fiscal year Showa 31 (1956). He died in 1980 at the age of 63.
+en_viewpoint: An architect who studied under Le Corbusier in France and taught for many years at Waseda University. The University Seminar House main building was planned as a residential training facility to complement university education and foster inter-university exchange, and it continues to be used for training courses and retreats today.
+
+zh_cn_bio: 生于东京市小石川区（现文京区一带）。1941年毕业于早稻田大学建筑学科。1950年至1952年赴法国留学，师从勒·柯布西耶。1945年任早稻田大学副教授，1959年任该大学理工学部教授，1969年至1972年任理工学部部长。1973年至1974年任日本建筑学会会长。设计了雅典娜法语学校校舍（东京都千代田区，1962年竣工，后增建）、大学研修中心本馆（东京都八王子市，1965年竣工）、旧江津市政府本厅舍（岛根县江津市，1962年竣工）等建筑。1957年获昭和31年度艺术选奖文部大臣奖。1980年以63岁去世。
+zh_cn_viewpoint: 在法国师从勒·柯布西耶，并长期在早稻田大学任教的建筑师。大学研修中心本馆被规划为补充大学教育、促进大学间交流的住宿研修设施，至今仍用于研修与集训等活动。
+
+zh_tw_bio: 生於東京市小石川區（現文京區一帶）。1941年畢業於早稻田大學建築學科。1950年至1952年赴法國留學，師從勒·柯布西耶。1945年任早稻田大學副教授，1959年任該大學理工學部教授，1969年至1972年任理工學部部長。1973年至1974年任日本建築學會會長。設計了雅典娜法語學校校舍（東京都千代田區，1962年竣工，後增築）、大學研修中心本館（東京都八王子市，1965年竣工）、舊江津市政府本廳舍（島根縣江津市，1962年竣工）等建築。1957年獲昭和31年度藝術選獎文部大臣獎。1980年以63歲去世。
+zh_tw_viewpoint: 在法國師從勒·柯布西耶，並長期在早稻田大學任教的建築師。大學研修中心本館被規劃為補充大學教育、促進大學間交流的住宿研修設施，至今仍用於研修與集訓等活動。
+
+ko_bio: 도쿄시 고이시카와구(현 분쿄구 일대) 출신. 1941년 와세다대학 건축학과를 졸업했다. 1950년부터 1952년까지 프랑스에 유학하여 르 코르뷔지에에게 배웠다. 1945년 와세다대학 조교수, 1959년 동 대학 이공학부 교수가 되었고, 1969년부터 1972년까지 이공학부장을 지냈다. 1973년부터 1974년까지 일본건축학회 회장을 지냈다. 아테네 프랑세 교사(도쿄도 지요다구, 1962년 준공, 이후 증축), 대학세미나하우스 본관(도쿄도 하치오지시, 1965년 준공), 옛 고쓰시청 본청사(시마네현 고쓰시, 1962년 준공) 등을 설계했다. 1957년 쇼와 31년도 예술선장 문부대신상을 받았다. 1980년 63세로 별세했다.
+ko_viewpoint: 프랑스에서 르 코르뷔지에에게 배우고, 와세다대학에서 오랫동안 교육을 담당한 건축가. 대학세미나하우스 본관은 대학 교육을 보완하고 대학 간 교류를 위한 숙박 연수시설로 계획되었으며, 현재도 연수와 합숙 등에 이용되고 있다.
+
+fr_bio: Né dans l'arrondissement de Koishikawa, ville de Tokyo (aujourd'hui dans la zone de l'arrondissement de Bunkyo). Diplômé en 1941 du département d'architecture de l'université Waseda. De 1950 à 1952, il étudie en France auprès de Le Corbusier. Il devient professeur associé à l'université Waseda en 1945, puis professeur à la faculté des sciences et de l'ingénierie en 1959, et en est doyen de 1969 à 1972. Il préside l'Institut d'architecture du Japon de 1973 à 1974. Il conçoit notamment le bâtiment de l'Athénée français (arrondissement de Chiyoda, Tokyo ; achevé en 1962, agrandi par la suite), le bâtiment principal de la Maison de séminaire universitaire (Hachioji, Tokyo ; achevé en 1965), et l'ancien bâtiment principal de la mairie de Gotsu (Gotsu, préfecture de Shimane ; achevé en 1962). En 1957, il reçoit le prix d'encouragement aux arts du ministère de l'Éducation pour l'exercice Showa 31 (1956). Il meurt en 1980 à l'âge de 63 ans.
+fr_viewpoint: Un architecte qui a étudié en France auprès de Le Corbusier et a longtemps enseigné à l'université Waseda. Le bâtiment principal de la Maison de séminaire universitaire a été conçu comme un établissement d'hébergement et de formation destiné à compléter l'enseignement universitaire et à favoriser les échanges entre universités, et il continue d'être utilisé aujourd'hui pour des stages et des séjours de formation.
+
+es_bio: Nacido en el distrito de Koishikawa, ciudad de Tokio (actual zona del distrito de Bunkyo). Se graduó en 1941 en el Departamento de Arquitectura de la Universidad Waseda. Entre 1950 y 1952 estudió en Francia con Le Corbusier. Se convirtió en profesor adjunto de la Universidad Waseda en 1945 y en profesor de la Facultad de Ciencias e Ingeniería en 1959, siendo decano de dicha facultad entre 1969 y 1972. Presidió el Instituto de Arquitectura de Japón entre 1973 y 1974. Diseñó, entre otras obras, el edificio del Athénée Français (distrito de Chiyoda, Tokio; terminado en 1962, ampliado posteriormente), el edificio principal de la Casa de Seminarios Universitarios (Hachioji, Tokio; terminado en 1965) y el antiguo edificio principal del ayuntamiento de Gotsu (Gotsu, prefectura de Shimane; terminado en 1962). En 1957 recibió el Premio de Fomento de las Artes del Ministerio de Educación del año fiscal Showa 31 (1956). Falleció en 1980 a los 63 años.
+es_viewpoint: Un arquitecto que estudió en Francia con Le Corbusier y enseñó durante muchos años en la Universidad Waseda. El edificio principal de la Casa de Seminarios Universitarios fue concebido como una instalación residencial de formación para complementar la educación universitaria y fomentar el intercambio entre universidades, y sigue utilizándose hoy para cursos de formación y retiros.
+
+de_bio: Geboren im Bezirk Koishikawa, Stadt Tokio (heute im Gebiet des Bezirks Bunkyo). Er schloss 1941 sein Studium an der Architekturabteilung der Waseda-Universität ab. Von 1950 bis 1952 studierte er in Frankreich bei Le Corbusier. 1945 wurde er außerordentlicher Professor an der Waseda-Universität, 1959 Professor an der Fakultät für Naturwissenschaften und Ingenieurwesen und von 1969 bis 1972 deren Dekan. Von 1973 bis 1974 war er Präsident des Architekturinstituts von Japan. Er entwarf unter anderem das Gebäude des Athénée Français (Bezirk Chiyoda, Tokio; fertiggestellt 1962, später erweitert), das Hauptgebäude des Universitätsseminarhauses (Hachioji, Tokio; fertiggestellt 1965) und das ehemalige Hauptgebäude des Rathauses von Gotsu (Gotsu, Präfektur Shimane; fertiggestellt 1962). 1957 erhielt er den Kunstförderpreis des Bildungsministeriums für das Geschäftsjahr Showa 31 (1956). Er starb 1980 im Alter von 63 Jahren.
+de_viewpoint: Ein Architekt, der in Frankreich bei Le Corbusier studierte und lange Zeit an der Waseda-Universität lehrte. Das Hauptgebäude des Universitätsseminarhauses wurde als Unterkunfts- und Schulungseinrichtung geplant, die die universitäre Bildung ergänzen und den Austausch zwischen Universitäten fördern sollte, und wird bis heute für Schulungen und Klausuren genutzt.
+
+---
+
+## まとめ（第3便・5名完了）
+
+5名（菊竹清訓・芦原義信・大高正人・坂倉準三・吉阪隆正）全員でCodexの是正が入った。特に大高正人は「1969年度芸術選奨文部大臣賞の対象作品の混同」という事実誤りを発見・是正（千葉県文化会館ではなく栃木県議会議事堂が対象）。全5名で「文化財指定・登録なし」を国・都道府県・市区町村の複数レベルで確認する型（第2便の教訓）を継続適用し、うち3名（芦原義信・大高正人の一部作品）は確認の結果「指定・登録なし」を確定させた。「選定」（東京都選定歴史的建造物等・景観条例に基づく）と「指定」（法的な文化財指定）の混同を吉阪隆正で是正。ハングは0件（全5名とも単一チャンクで正常完了）。
+
+## やらなかったこと
+- Shopify・CSVへの実反映はしていない（制作Tへの引き渡しまで）。
+- 実行はリサーチTでは行わない。
+
+<!-- created: 2026-07-29 by terminal=あつぺくとリサーチ model=Sonnet 5 work=建築残り43名第3便(5名)完成原稿 -->
 
