@@ -1,0 +1,514 @@
+[
+  {
+    "id": "A-1a",
+    "source": "master-findings#1 / fix-orders.md #1-a",
+    "file": "sections/atspect-about.liquid",
+    "search": "あつぺくとは、日本の美術作家の情報と作品を集め、作家を知ることから、作品を手にすることまでを支えるプラットフォームです。日本語、英語、中国語（簡体・繁体）、韓国語、フランス語、スペイン語、ドイツ語の8言語に対応し、国内外の方がご自身の言葉で日本の作家と作品に触れられるようにしています。",
+    "replace": "作家とともに築く日本の美術のプラットフォームです。日本語、英語、中国語（簡体・繁体）、韓国語、フランス語、スペイン語、ドイツ語の8言語に対応し、国内外の方がご自身の言葉で日本の作家と作品に触れられるようにしています。",
+    "warning": "2026-07-25の既存コメント（about.liquid内）に「確定タグラインを流用しない」という代表確定の制約が明記されている。今回の司令塔確定（統一する）と過去の代表確定が食い違うため、apply実行前に司令塔・代表へ再確認すること。7言語版（en/zh-cn/zh-tw/ko/fr/es/de）は未収録＝リサーチTの確定訳が届き次第、別途追加すること。"
+  },
+  {
+    "id": "A-1b",
+    "source": "master-findings#1 / fix-orders.md #1-b",
+    "file": "sections/atspect-press-page.liquid",
+    "search": "あつぺくとは、日本の美術作家と作品を紹介するアートプラットフォームです。作家や作品の情報提供、取材のご協力など、メディアの皆さまからのお問い合わせをお待ちしております。",
+    "replace": "作家とともに築く日本の美術のプラットフォームです。作家や作品の情報提供、取材のご協力など、メディアの皆さまからのお問い合わせをお待ちしております。",
+    "warning": "7言語版（en/zh-cn/zh-tw/ko/fr/es/de）は未収録＝リサーチTの確定訳が届き次第、別途追加すること。"
+  },
+  {
+    "id": "A-1c",
+    "source": "master-findings#1 / fix-orders.md #1-c",
+    "file": "sections/atspect-artist-registration.liquid",
+    "search": "あつぺくとは、日本で活動する美術作家とその作品を、国内外へご紹介するプラットフォームです。作品情報の整理、多言語でのご紹介、ご注文への対応からお届けまでを、作家さまに代わって行います。",
+    "replace": "作家とともに築く日本の美術のプラットフォームです。作品情報の整理、多言語でのご紹介、ご注文への対応からお届けまでを、作家さまに代わって行います。",
+    "warning": null
+  },
+  {
+    "id": "A-2",
+    "source": "master-findings#2 / fix-orders.md #2",
+    "file": "sections/atspect-artist-guide.liquid",
+    "search": "活動と作品を拝見し、内容をご確認いただいたうえで、ご登録の可否をお伝えします。フォームでのお申し込みの場合も、直接お会いする場合も、確認する目的は同じです。18歳以上が対象です。",
+    "replace": "18歳以上が対象です。",
+    "warning": null
+  },
+  {
+    "id": "A-3a",
+    "source": "master-findings#3 / fix-orders.md #3-a",
+    "file": "sections/atspect-faq.liquid",
+    "search": "作品ページからお申し込みください（仮申込。この時点でお支払いは発生しません）。あつぺくとが在庫と配送費用（梱包費・輸送費・保険料を含む）を確認し、原則2営業日以内にお支払い総額をご案内します。ご承諾いただいたのち、お支払い用のリンクをお送りし、決済が完了した時点でご注文が確定します。その後、作品を一点ずつ確認のうえ、専門の配送業者を通じてお届けします。万が一、作品をご用意できない場合は、ご請求は発生しません。",
+    "replace": "作品ページからお申し込みください（仮申込。この時点でお支払いは発生しません）。ご注文からお届けまでの詳しい流れとお支払い時期の目安は、特定商取引法に基づく表記の「お支払い時期」をご覧ください。",
+    "warning": "7言語版は未収録＝リサーチTの確定訳が届き次第、別途追加すること。"
+  },
+  {
+    "id": "A-10",
+    "source": "master-findings#10 / fix-orders.md #10",
+    "file": "sections/atspect-terms-artist.liquid",
+    "search": "<span class=\"terms-l terms-l--en\">The official text of these Terms is Japanese. Translations are in preparation.</span>",
+    "replace": "<span class=\"terms-l terms-l--en\">This document is written in Japanese only.</span>",
+    "warning": "reviewモード（/pages/terms-artist）にのみ出現。英語だけの一文を単独表示しない方針に沿い、英語spanの中身を短い定型注記に置換。"
+  },
+  {
+    "id": "A-46",
+    "source": "master-findings#46 / fix-orders.md #46",
+    "file": "sections/atspect-terms-artist.liquid",
+    "search": "<p class=\"atspect-aterms__precontact-note\">ご不明な点やご相談は、送信の前に<a href=\"/pages/contact\" class=\"atspect-aterms__link\">お問い合わせ</a>または<a href=\"https://lin.ee/s3GgGTE\" target=\"_blank\" rel=\"noopener\" class=\"atspect-aterms__link\">LINE</a>よりお寄せください。</p>",
+    "replace": "<p class=\"atspect-aterms__precontact-note\">ご不明な点やご相談は、送信の前でも後でも<a href=\"/pages/contact\" class=\"atspect-aterms__link\">お問い合わせ</a>または<a href=\"https://lin.ee/s3GgGTE\" target=\"_blank\" rel=\"noopener\" class=\"atspect-aterms__link\">LINE</a>よりお寄せください。</p>",
+    "warning": null
+  },
+  {
+    "id": "A-65",
+    "source": "master-findings#65 / fix-orders.md #65",
+    "file": "sections/atspect-footer.liquid",
+    "search": "<span class=\"footer-l footer-l--zh-tw\">基於特定商業交易法の標示</span>",
+    "replace": "<span class=\"footer-l footer-l--zh-tw\">基於特定商業交易法之標示</span>",
+    "warning": "フッターは全16ページ共通コンポーネントのため、この1箇所の修正で16ページ全ページのzh-tw表示に反映される。"
+  },
+  {
+    "id": "A-67-cn",
+    "source": "master-findings#67 / fix-orders.md #67",
+    "file": "sections/atspect-press-page.liquid",
+    "search": "<p class=\"atspect-press-pg__lead pl-l pl-l--zh-cn\">あつぺくとは日本美术家及其作品信息的艺术平台。欢迎媒体朋友就作家介绍、采访协助等相关事宜与我们联系。</p>",
+    "replace": "<p class=\"atspect-press-pg__lead pl-l pl-l--zh-cn\">ATSPECT是日本美术家及其作品信息的艺术平台。欢迎媒体朋友就作家介绍、采访协助等相关事宜与我们联系。</p>",
+    "warning": "A-1bを先に適用する場合、この行自体が新しい確定訳で丸ごと置き換わる可能性があるため、A-1bの7言語訳が届く前にA-67のみを先行適用しても矛盾はない。"
+  },
+  {
+    "id": "A-67-tw",
+    "source": "master-findings#67 / fix-orders.md #67",
+    "file": "sections/atspect-press-page.liquid",
+    "search": "<p class=\"atspect-press-pg__lead pl-l pl-l--zh-tw\">あつぺくとは日本藝術家及其作品資訊的藝術平台。歡迎媒體朋友就作家介紹、採訪協助等相關事宜與我們聯繫。</p>",
+    "replace": "<p class=\"atspect-press-pg__lead pl-l pl-l--zh-tw\">ATSPECT是日本藝術家及其作品資訊的藝術平台。歡迎媒體朋友就作家介紹、採訪協助等相關事宜與我們聯繫。</p>",
+    "warning": null
+  },
+  {
+    "id": "A-69",
+    "source": "master-findings#69 / fix-orders.md #69",
+    "file": "sections/atspect-artwork-detail.liquid",
+    "search": "        <p class=\"atspect-artwork__payment-note\">\n          {%- comment %} 8言語スパン構造のみ用意・ja確定文以外の7言語は翻訳待ち（リサーチ担当・空のまま置換予定）。2026-07-21 {%- endcomment -%}\n          <span class=\"aw-l aw-l--ja\">その他の決済方法もご利用いただけます。</span>\n          <span class=\"aw-l aw-l--en\"></span>\n          <span class=\"aw-l aw-l--zh-cn\"></span>\n          <span class=\"aw-l aw-l--zh-tw\"></span>\n          <span class=\"aw-l aw-l--ko\"></span>\n          <span class=\"aw-l aw-l--fr\"></span>\n          <span class=\"aw-l aw-l--es\"></span>\n          <span class=\"aw-l aw-l--de\"></span>\n        </p>\n",
+    "replace": "",
+    "warning": "決済アイコン一覧（288〜295行目相当）はこのブロックとは別のため削除対象に含まない。"
+  },
+  {
+    "id": "B-11",
+    "source": "master-findings#11 / fix-orders-B.md #11",
+    "file": "sections/atspect-about.liquid",
+    "search": "日本国内の美術市場は、世界のおよそ1％。あつぺくとは、その1％から、残る99％の世界市場へ開いていきます。",
+    "replace": "日本国内の美術市場は、世界のおよそ1％です。あつぺくとは、その1％から、残る99％の世界市場へ開いていきます。",
+    "warning": "7言語版は未収録（英仏など既存訳の見直しはリサーチTで検討）。"
+  },
+  {
+    "id": "B-12",
+    "source": "master-findings#12 / fix-orders-B.md #12",
+    "file": "sections/atspect-about.liquid",
+    "search": "ここでは、作家のプロフィールや経歴、作品を、母語のまま知ることができます。",
+    "replace": "ここでは、作家のプロフィールや経歴を母語で知り、作品に出会うことができます。",
+    "warning": "7言語版は未収録＝リサーチTの確定訳が届き次第、別途追加すること。"
+  },
+  {
+    "id": "B-13",
+    "source": "master-findings#13 / fix-orders-B.md #13",
+    "file": "sections/atspect-about.liquid",
+    "search": "一点ずつ内容と品質を確かめたうえで",
+    "replace": "一点ずつ状態と品質を確かめたうえで",
+    "warning": "7言語版は未収録＝リサーチTの確定訳が届き次第、別途追加すること。"
+  },
+  {
+    "id": "B-14",
+    "source": "master-findings#14 / fix-orders-B.md #14",
+    "file": "sections/atspect-about.liquid",
+    "search": "絵画、彫刻、工芸、書、写真、デザイン、現代美術、建築という八つの分野を、日本の美術として一つにまとめて収録しています。",
+    "replace": "絵画、彫刻、工芸、書、写真、デザイン、現代美術、建築を、日本の美術として掲載しています。",
+    "warning": "7言語版は未収録＝リサーチTの確定訳が届き次第、別途追加すること。"
+  },
+  {
+    "id": "B-16",
+    "source": "master-findings#16 / fix-orders-B.md #16",
+    "file": "sections/atspect-artist-guide.liquid",
+    "search": "その基準に沿って内容をご確認いただいたうえで、ご登録の可否をお伝えします。",
+    "replace": "あつぺくとがその基準に沿って内容を確認したうえで、ご登録の可否をお伝えします。",
+    "warning": null
+  },
+  {
+    "id": "B-17a",
+    "source": "master-findings#17 / fix-orders-B.md #17",
+    "file": "sections/atspect-artist-guide.liquid",
+    "search": "市場や相場の実勢と照らし、ご相談のうえで決めさせていただきます。",
+    "replace": "市場の実勢と照らし、ご相談のうえで決めさせていただきます。",
+    "warning": null
+  },
+  {
+    "id": "B-17b",
+    "source": "master-findings#17 / fix-orders-B.md #17（残留点検で発見）",
+    "file": "sections/atspect-artist-registration.liquid",
+    "search": "市場や相場の実勢と照らし、ご相談のうえで決めさせていただきます。",
+    "replace": "市場の実勢と照らし、ご相談のうえで決めさせていただきます。",
+    "warning": null
+  },
+  {
+    "id": "B-19",
+    "source": "master-findings#19 / fix-orders-B.md #19",
+    "file": "sections/atspect-artist-guide.liquid",
+    "search": "費用の詳細は、お申し込みの前に書面でお示しします。審査の結果によらずご確認いただけますので、ご安心のうえお申し込みください。金額を審査後まで伏せることはありません。",
+    "replace": "費用の詳細は、お申し込みの前に書面でお示しします。審査の結果によらずご確認いただけますので、ご安心のうえお申し込みください。",
+    "warning": null
+  },
+  {
+    "id": "B-22",
+    "source": "master-findings#22 / fix-orders-B.md #22",
+    "file": "sections/atspect-artist-registration.liquid",
+    "search": "ご入力いただいた内容は、登録審査の確認にのみ使用いたします。この段階では、番地までのご住所・性別はうかがいません。ご登録の費用の詳細は、お申し込みの前に書面でお示しします。審査の結果によらずご確認いただけますので、ご安心のうえお申し込みください。",
+    "replace": "ご入力いただいた内容は、登録審査の確認にのみ使用いたします。ご登録の費用の詳細は、お申し込みの前に書面でお示しします。審査の結果によらずご確認いただけますので、ご安心のうえお申し込みください。",
+    "warning": null
+  },
+  {
+    "id": "B-23",
+    "source": "master-findings#23 / fix-orders-B.md #23",
+    "file": "sections/atspect-artist-registration.liquid",
+    "search": "審査は主にこちらの内容を拝見します。<strong>どちらか一方は必ずご入力ください</strong>（両方でも結構です）。",
+    "replace": "審査は主にこちらの内容を拝見します（両方でも結構です）。",
+    "warning": null
+  },
+  {
+    "id": "B-25",
+    "source": "master-findings#25 / fix-orders-B.md #25",
+    "file": "sections/atspect-artist-cancellation.liquid",
+    "search": "ご契約と掲載は、お支払いの対象となる最後の月の末日まで続きます。公開の停止・削除のお申し出には応じます。対応は、速やかに行うよう努めます。",
+    "replace": "ご契約と掲載は、お支払いの対象となる最後の月の末日まで続きます。",
+    "warning": null
+  },
+  {
+    "id": "B-26_27a",
+    "source": "master-findings#26,27 / fix-orders-B.md #26・#27",
+    "file": "sections/atspect-artist-cancellation.liquid",
+    "search": "システム利用料（月額）をお支払いの作家さまは、毎月20日が締め日です。20日までに解約のお申し出（本フォームの送信のほか、メール等でのお申し出を含みます）が到達した場合は、その月の分までのお支払いとなり、翌月からのご請求はありません。21日以降の場合は、翌月の分までのお支払いとなり、その後のご請求はありません。日割りの計算・ご返金は行いません（ご本人確認等が必要な場合は、担当者より確認のうえ進めます）。",
+    "replace": "システム利用料（月額）をお支払いの作家さまは、毎月20日が締め日です（お申し出の到達日を基準とします）。20日までのお申し出はその月分まで、21日以降のお申し出は翌月分までのお支払いとなり、それ以降のご請求はありません。日割り返金は行いません（ご本人確認等が必要な場合は、担当者より確認のうえ進めます）。",
+    "warning": null
+  },
+  {
+    "id": "B-26_27b",
+    "source": "master-findings#26,27 / fix-orders-B.md #26・#27（残留点検で発見）",
+    "file": "sections/atspect-artist-registration.liquid",
+    "search": "システム利用料（月額）をお支払いの作家さまは、毎月20日が締め日です（お申し出の到達日を基準とします）。20日までのお申し出は、その月の分までのお支払いとなり、翌月からのご請求はありません。21日以降のお申し出は、翌月の分までのお支払いとなり、その後のご請求はありません。日割りの計算・ご返金は行いません（月単位で完結します）。ご契約と掲載は、お支払いの対象となる最後の月の末日まで続きます。",
+    "replace": "システム利用料（月額）をお支払いの作家さまは、毎月20日が締め日です（お申し出の到達日を基準とします）。20日までのお申し出はその月分まで、21日以降のお申し出は翌月分までのお支払いとなり、それ以降のご請求はありません。日割り返金は行いません。ご契約と掲載は、お支払いの対象となる最後の月の末日まで続きます。",
+    "warning": null
+  },
+  {
+    "id": "B-29_30",
+    "source": "master-findings#29,30 / fix-orders-B.md #29・#30",
+    "file": "sections/atspect-terms-artist.liquid",
+    "search": "あつぺくとへのご登録をお申し込みいただくフォームです。ご入力いただく情報は、登録・契約のお手続きのために利用し、当社プライバシーポリシーに基づいて取り扱います。お申し込みの内容をご記入いただいたのち、規約をご確認・ご同意のうえ送信してください。",
+    "replace": "あつぺくとへの登録をお申し込みいただくためのフォームです。ご入力いただく情報は、登録・契約のお手続きのために利用し、当社プライバシーポリシーに基づいて取り扱います。お申し込みの内容をご記入いただいたのち、規約をご確認いただき、ご同意のうえ送信してください。",
+    "warning": null
+  },
+  {
+    "id": "B-31",
+    "source": "master-findings#31 / fix-orders-B.md #31",
+    "file": "sections/atspect-terms-artist.liquid",
+    "search": "<span class=\"atspect-aterms__label\">お手続きをされる方 <span class=\"atspect-aterms__req\">必須</span></span>",
+    "replace": "<span class=\"atspect-aterms__label\">お手続きになる方 <span class=\"atspect-aterms__req\">必須</span></span>",
+    "warning": null
+  },
+  {
+    "id": "B-32_51",
+    "source": "master-findings#32,51 / fix-orders-B.md #32・#51",
+    "file": "sections/atspect-terms-artist.liquid",
+    "search": "作家ページのもとになる情報（代表作品2点、略歴、作家のことば、お写真など）は、ご契約のあとに、担当者がご相談しながらお預かりします。このフォームではうかがいません。どうぞご安心ください。",
+    "replace": "作家ページに掲載する情報（代表作品2点、略歴、作家のことば、お写真など）は、ご契約後に担当者が作家さまとご相談のうえお預かりします。このフォームではうかがいません。どうぞご安心ください。",
+    "warning": null
+  },
+  {
+    "id": "B-33",
+    "source": "master-findings#33 / fix-orders-B.md #33",
+    "file": "sections/atspect-terms-artist.liquid",
+    "search": "お手続きの中で追加の確認が必要となった場合に限り、ご本人の確認に必要な書類のご提示をお願いすることがあります。",
+    "replace": "お手続きの途中で必要になった場合のみ、ご本人確認の書類をお願いすることがあります。",
+    "warning": null
+  },
+  {
+    "id": "B-56",
+    "source": "master-findings#56 / fix-orders-B.md #56",
+    "file": "sections/atspect-terms-artist.liquid",
+    "search": "        <p class=\"atspect-aterms__doc-intro\">ここからは規約の全文です。お手数ですが、最後までご確認ください。</p>\n",
+    "replace": "",
+    "warning": "206行目のコメントで既に案内されており、B-34・B-47_48_49の書き直し後の文で足りるための削除。"
+  },
+  {
+    "id": "B-34",
+    "source": "master-findings#34 / fix-orders-B.md #34",
+    "file": "sections/atspect-terms-artist.liquid",
+    "search": "<p>この規約の中心は、<strong>作家さまからお預かりする情報と作品画像を、当社がどの範囲で使わせていただくか（第4条・利用許諾）</strong>と、<strong>その情報・画像の権利についてのお約束（第5条・保証）</strong>です。</p>",
+    "replace": "<p>この規約の中心は2つあります。<strong>作家さまからお預かりする情報と作品画像を、当社がどの範囲で使わせていただくか（第4条・利用許諾）</strong>。そして、<strong>その情報・画像の権利についてのお約束（第5条・保証）</strong>です。</p>",
+    "warning": null
+  },
+  {
+    "id": "B-47_48_49",
+    "source": "master-findings#35,47,48,49 / fix-orders-B.md 統合案",
+    "file": "sections/atspect-terms-artist.liquid",
+    "search": "<p>どうぞ、ゆっくりお読みください。紙でお手続きの場合は、末尾の確認欄にチェックのうえご署名ください。このページからお手続きの場合は、本文をお読みいただいたのち、同じ確認欄にチェックして送信してください（送信をもってご署名に代わります）。ご不明な点は、お手続きの前にお気軽にお問い合わせください。</p>",
+    "replace": "<p>本文をお読みいただいたのち、確認欄にチェックして送信してください（送信をもってご署名に代わります）。</p>",
+    "warning": null
+  },
+  {
+    "id": "B-37_58",
+    "source": "master-findings#37,58 / fix-orders-B.md #37・#58",
+    "file": "sections/atspect-terms-artist.liquid",
+    "search": "<strong>第4条（利用許諾の範囲）</strong>＝提供する情報・作品画像を、あつぺくとのサイト・SNS・広報等で紹介に使うことに同意します。",
+    "replace": "<strong>第4条（利用許諾の範囲）</strong>：提供する情報・作品画像を、あつぺくとのサイト・SNS・広報等で紹介のために使用することに同意します。",
+    "warning": null
+  },
+  {
+    "id": "B-59",
+    "source": "master-findings#59 / fix-orders-B.md #59",
+    "file": "sections/atspect-terms-artist.liquid",
+    "search": "<strong>第5条（作家による保証）</strong>＝提供する情報・素材について正当な権利を持っていること（または権利者の承諾を得ていること）を表明します。",
+    "replace": "<strong>第5条（作家による保証）</strong>：提供する情報・素材について正当な権利を持っていること（または権利者の承諾を得ていること）を表明します。",
+    "warning": null
+  },
+  {
+    "id": "B-38_52",
+    "source": "master-findings#38,52 / fix-orders-B.md #38・#52",
+    "file": "sections/atspect-terms-artist.liquid",
+    "search": "どんなことでも、自由にお書きください（未記入のままでも構いません）。内容によっては、担当者よりあらためてご連絡することがあります。※記入内容が、ご同意やご契約の条件になることはありません（個別のお約束が必要な場合は、別途のご相談によります）。",
+    "replace": "どんなことでも、自由にお書きください（未記入のままでも構いません）。内容によっては、ご連絡することがあります。※記入内容が、ご契約の条件になることはありません。",
+    "warning": null
+  },
+  {
+    "id": "B-40",
+    "source": "master-findings#40 / fix-orders-B.md #40",
+    "file": "sections/atspect-terms-artist.liquid",
+    "search": "あつぺくとに作家としてご参加いただくにあたっての規約です。正式なご同意のお手続きは、審査を通過された方に、担当者よりご案内しています。",
+    "replace": "あつぺくとに作家としてご参加いただくにあたっての規約です。正式なご同意のお手続きは、審査を通過された方へ担当者よりご案内しています。",
+    "warning": null
+  },
+  {
+    "id": "B-41",
+    "source": "master-findings#41,42,43(一部) / fix-orders-B.md #41",
+    "file": "sections/atspect-terms-artist.liquid",
+    "search": "上の規約を最後までお読みいただくと、下のチェック欄が有効になります。<br>このお手続きは、審査を通過された方にご案内しています。ここでうかがう情報は、ご契約とお手続きのために必要なものだけです。当社プライバシーポリシーに従ってお取り扱いします。ご同意の内容は、日時とともに記録されます。",
+    "replace": "このお手続きは、審査を通過された方にご案内しています。ここでうかがう情報は、ご契約とお手続きのために必要なものだけで、当社がプライバシーポリシーに従って取り扱います。ご同意の内容は、日時とともに記録されます。",
+    "warning": null
+  },
+  {
+    "id": "B-50",
+    "source": "master-findings#50 / fix-orders-B.md #50",
+    "file": "sections/atspect-terms-artist.liquid",
+    "search": "※このご選択は生前のご希望として取り扱います。逝去後にご遺族または著作権を承継された方からお申し出があったときは、第7条3項に従います。",
+    "replace": "※このご選択は生前のご希望として取り扱い、逝去後にご遺族または著作権を承継された方からお申し出があれば第7条3項に従います。",
+    "warning": null
+  },
+  {
+    "id": "B-60",
+    "source": "master-findings#60 / fix-orders-B.md #60",
+    "file": "sections/atspect-terms-artist.liquid",
+    "search": "お申し込み時のお名前をご入力ください（照合に使用します）。",
+    "replace": "お申し込みの際にご記入いただいたお名前と同じものをお願いします。",
+    "warning": null
+  },
+  {
+    "id": "B-61",
+    "source": "master-findings#61 / fix-orders-B.md #61",
+    "file": "sections/atspect-tokushoho.liquid",
+    "search": "ご注文の受付、販売価格の決定・表示、代金のご請求および受領、作品の発送、返品・交換その他のお客様対応は、すべて株式会社ARTS RESPECTが販売者として行います。",
+    "replace": "販売者としての当社の役割は、ご注文の受付、販売価格の決定・表示、代金のご請求および受領、作品の発送、返品・交換その他の購入者さまへの対応です。",
+    "warning": "7言語版は未収録＝リサーチTの確定訳・英仏の文構造見直しが届き次第、別途追加すること。"
+  },
+  {
+    "id": "B-62_63a",
+    "source": "master-findings#62 / fix-orders-B.md #62",
+    "file": "sections/atspect-tokushoho.liquid",
+    "search": "配送費用（梱包・輸送・輸送保険料を含む）は含まれておりません。",
+    "replace": "配送費用は含まれておりません。",
+    "warning": "7言語版は未収録（反復パターンは7言語すべてで再現）。"
+  },
+  {
+    "id": "B-62_63b",
+    "source": "master-findings#63 / fix-orders-B.md #63",
+    "file": "sections/atspect-tokushoho.liquid",
+    "search": "美術品の安全な輸送には専用の梱包が欠かせないため、梱包・輸送・輸送保険の費用を分けず、一つの「配送費用」としてお見積りします。",
+    "replace": "美術品の安全な輸送には専用の梱包が欠かせないため、これらを分けずに一つの「配送費用」としてお見積りします。",
+    "warning": "7言語版は未収録。"
+  },
+  {
+    "id": "B-62_63c",
+    "source": "master-findings#62 / fix-orders-B.md #62",
+    "file": "sections/atspect-tokushoho.liquid",
+    "search": "当社が在庫・作家への販売可否および配送費用（梱包・輸送・輸送保険料を含む）を確認し",
+    "replace": "当社が在庫・作家への販売可否および配送費用を確認し",
+    "warning": "7言語版は未収録。"
+  },
+  {
+    "id": "B-62_63d",
+    "source": "master-findings#62 / fix-orders-B.md #62",
+    "file": "sections/atspect-tokushoho.liquid",
+    "search": "購入者さまがご負担された配送費用（梱包・輸送・輸送保険料を含む）、ならびに返送にかかる費用のすべてを",
+    "replace": "購入者さまがご負担された配送費用、ならびに返送にかかる費用のすべてを",
+    "warning": "7言語版は未収録。"
+  },
+  {
+    "id": "B-64a",
+    "source": "master-findings#64 / fix-orders-B.md #64",
+    "file": "sections/atspect-tokushoho.liquid",
+    "search": "お客様が総額にご同意いただいたのち",
+    "replace": "購入者さまが総額にご同意いただいたのち",
+    "warning": null
+  },
+  {
+    "id": "B-64b",
+    "source": "master-findings#64 / fix-orders-B.md #64",
+    "file": "sections/atspect-tokushoho.liquid",
+    "search": "お客様による決済が完了した時点",
+    "replace": "購入者さまによる決済が完了した時点",
+    "warning": null
+  },
+  {
+    "id": "B-64c",
+    "source": "master-findings#64 / fix-orders-B.md #64",
+    "file": "sections/atspect-tokushoho.liquid",
+    "search": "お客様のご都合による返品・交換は、原則としてお受けできません。",
+    "replace": "購入者さまのご都合による返品・交換は、原則としてお受けできません。",
+    "warning": null
+  },
+  {
+    "id": "B-66",
+    "source": "master-findings#66",
+    "file": null,
+    "search": null,
+    "replace": null,
+    "excluded": true,
+    "exclusionReason": "対応不要と訂正済み＝Vault確定事項マスター381行目に代表指定・一字一句固定の確定文言と明記されている。収録しない。"
+  },
+  {
+    "id": "A-3c",
+    "source": "master-findings#3 / fix-orders.md #3-c",
+    "file": null,
+    "search": null,
+    "replace": null,
+    "excluded": true,
+    "exclusionReason": "artwork-detail.liquidの「ご購入の流れ」5項目リスト（8言語）を1文の誘導文へ置き換える構造変更。7言語の確定訳がまだ届いておらず、日本語だけ部分適用すると8言語構造が壊れるため、翻訳到着まで収録しない。"
+  },
+  {
+    "id": "B-15",
+    "source": "master-findings#15 / fix-orders-B.md #15",
+    "file": null,
+    "search": null,
+    "replace": null,
+    "excluded": true,
+    "exclusionReason": "★司令塔判断待ち＝2箇所の重複（常時表示/結果0件時のみ表示）が意図的な補強か単純な重複か未確定のため、確定文が無い。"
+  },
+  {
+    "id": "B-18",
+    "source": "master-findings#18",
+    "file": null,
+    "search": null,
+    "replace": null,
+    "excluded": true,
+    "exclusionReason": "A-2の統合で対応済み。追加のスクリプト操作は不要。"
+  },
+  {
+    "id": "B-20",
+    "source": "master-findings#20",
+    "file": null,
+    "search": null,
+    "replace": null,
+    "excluded": true,
+    "exclusionReason": "実測の結果、本番に既に反映済み（対応不要）。"
+  },
+  {
+    "id": "B-24",
+    "source": "master-findings#24 / fix-orders-B.md #24",
+    "file": null,
+    "search": null,
+    "replace": null,
+    "excluded": true,
+    "exclusionReason": "文言の置換ではなくハニーポット欄の視覚的非表示化という技術的対応のため、テキスト置換スクリプトの対象外。制作T・システム開発Tで別途実装。"
+  },
+  {
+    "id": "B-28",
+    "source": "master-findings#28 / fix-orders-B.md #28",
+    "file": null,
+    "search": null,
+    "replace": null,
+    "excluded": true,
+    "exclusionReason": "★司令塔判断待ち＝master-findings自身が「表現を平易にするか、現状維持するかは要判断」としており確定文が無い。"
+  },
+  {
+    "id": "B-36",
+    "source": "master-findings#36",
+    "file": null,
+    "search": null,
+    "replace": null,
+    "excluded": true,
+    "exclusionReason": "A-8として本番に既に反映済み（対応不要）。"
+  },
+  {
+    "id": "B-39",
+    "source": "master-findings#39",
+    "file": null,
+    "search": null,
+    "replace": null,
+    "excluded": true,
+    "exclusionReason": "A-46の置換で自然に解消されるため追加操作は不要。"
+  },
+  {
+    "id": "B-42",
+    "source": "master-findings#42",
+    "file": null,
+    "search": null,
+    "replace": null,
+    "excluded": true,
+    "exclusionReason": "B-41の統合で対応済み。追加操作は不要。"
+  },
+  {
+    "id": "B-43",
+    "source": "master-findings#43",
+    "file": null,
+    "search": null,
+    "replace": null,
+    "excluded": true,
+    "exclusionReason": "A（71行目相当）はB-41で対応済み。B（291行目）は現状維持のため変更なし。"
+  },
+  {
+    "id": "B-44",
+    "source": "master-findings#44",
+    "file": null,
+    "search": null,
+    "replace": null,
+    "excluded": true,
+    "exclusionReason": "314行目は同意記録の保管という固有情報を持つため現状維持。214行目側はB-47_48_49で対応済み。"
+  },
+  {
+    "id": "B-45",
+    "source": "master-findings#45 / fix-orders-B.md #45",
+    "file": null,
+    "search": null,
+    "replace": null,
+    "excluded": true,
+    "exclusionReason": "★司令塔判断待ち＝リサーチTとCodexで評価が分かれており、意図的な重複の可能性があるため確定文が無い。"
+  },
+  {
+    "id": "B-68",
+    "source": "master-findings#68 / fix-orders-B.md #68",
+    "file": null,
+    "search": null,
+    "replace": null,
+    "excluded": true,
+    "exclusionReason": "対象がテーマファイルではなくShopify商品（舟奏楽）の説明フィールドのため、本スクリプトの対象外。Shopify管理画面で別途対応。"
+  },
+  {
+    "id": "B-70",
+    "source": "master-findings#70 / fix-orders-B.md #70",
+    "file": null,
+    "search": null,
+    "replace": null,
+    "excluded": true,
+    "exclusionReason": "★司令塔判断待ち＝master-findings自身が「現状維持でよいか検討」としており確定文が無い。"
+  },
+  {
+    "id": "B-72",
+    "source": "master-findings#72 / fix-orders-B.md #72",
+    "file": null,
+    "search": null,
+    "replace": null,
+    "excluded": true,
+    "exclusionReason": "プライバシー関連のため本スクリプトには収録しない（法的文書・別経路で反映）。プライバシー1本化の実装が先に行われれば、この段落自体が削除されるため本件は自動的に解消される。"
+  }
+]
