@@ -10,7 +10,7 @@
 - [x] 石本喜久治：Codexレビューで是正（出身地の「神戸市」対「大阪府」相違を、石本建築事務所公式年譜〔神戸の加藤家に生まれ、幼少期に大阪の石本家の養子となった〕により整合的に説明できると判明。片岡石本建築事務所の共同創業者を「片岡安」と確認。広島市民球場は設計者クレジットが法人名「石本建築事務所」のみで個人クレジット未確認のため代表作から除外）
 - [x] 田上義也：Codexレビューで是正（「札幌景観資産」は景観条例第36条に基づく正式な市の指定制度であり「非法定の顕彰」と一括りにすべきでないと判明。光塩学園女子短期大学講師・北海学園大学教授の職歴は正式な着任資料未確認のため本文から除外。北海道家庭学校関連建物は代表作に必要な項目〔正式建物名・所在地・竣工年・文化財指定〕を確証付きで揃えられないため除外を維持）
 - [x] 浦辺鎮太郎：Codexレビューで是正（1962年の倉敷建築研究所設立が本文から欠落していたため追加。倉敷国際ホテル・倉敷アイビースクエアの日本建築学会賞受賞年をそれぞれ1964年度・1974年度に精緻化〔従来の「1975年」は年度と暦年の混同〕。毎日芸術賞の対象・年度〔1972年度・第14回、倉敷市民会館の設計と倉敷市の環境造成〕を精緻化。敷地内の倉敷紡績記念館の国登録有形文化財登録〔1998年12月11日〕を文化遺産オンラインで一次確認し反映）
-- [ ] 毛綱毅曠
+- [x] 毛綱毅曠：Codexレビューで是正（★依頼段階の誤った前提「早稲田大学卒業」を訂正＝複数資料一致で正しくは神戸大学卒業。反住器は「自邸」ではなく「母のための住宅」と複数資料〔北海道立釧路芸術館・TOTO通信・LIXIL〕で確認。釧路市立博物館の竣工年を釧路市公式資料〔1981年3月着工・1983年11月3日開館〕により1983年に確定。日本建築学会賞を「1984年度・釧路市立博物館及び釧路市湿原展望資料館の2作品での受賞」に精緻化。5/5で第6便完了）
 
 ---
 
@@ -167,3 +167,54 @@ es_viewpoint: Un arquitecto que trabajó en el departamento de instalaciones de 
 
 de_bio: Geboren im Dorf Tsubue, Bezirk Kojima, Präfektur Okayama (heute Stadt Kurashiki). Er schloss 1934 sein Studium an der Architekturabteilung der Ingenieurfakultät der Kaiserlichen Universität Kyoto ab und trat im selben Jahr in die Kurashiki Kenshoku (später Kurashiki Rayon, heute Kuraray) ein. 1949 wurde er Leiter der Gebäudeabteilung des Unternehmens und gründete 1962 das Kurashiki-Architekturforschungsinstitut. 1964 verließ er Kurashiki Rayon, um sich selbstständig zu machen, und eröffnete das Architekturbüro Kurashiki, das 1966 in Urabe-Architekturbüro (heute Urabe Sekkei) umbenannt wurde. Er entwarf unter anderem das Kurashiki International Hotel (Kurashiki, Präfektur Okayama; fertiggestellt 1963) und den Kurashiki Ivy Square (Kurashiki, Präfektur Okayama; fertiggestellt 1974). Für das Kurashiki International Hotel erhielt er den Preis des Architekturinstituts von Japan für das Geschäftsjahr 1964 (Showa 39), für den Kurashiki Ivy Square für das Geschäftsjahr 1974 (Showa 49). 1973 erhielt er den 14. Mainichi-Kunstpreis für das Geschäftsjahr 1972 für den Entwurf der Kurashiki-Stadthalle und seine Arbeit an der Umweltgestaltung der Stadt Kurashiki. 1962 erhielt er den Mainichi-Verlagskulturpreis für sein Buch „Furusato no Sumai" (Häuser meiner Heimat), und 1971 die Medaille mit gelbem Band. Er starb am 8. Juni 1991 im Alter von 82 Jahren.
 de_viewpoint: Ein Architekt, der in der Gebäudeabteilung der Kurashiki Kenshoku arbeitete, bevor er sich selbstständig machte, und der seine Entwurfstätigkeit weiterhin von Kurashiki aus ausübte. Beim Kurashiki Ivy Square wandelte er eine Gruppe ehemaliger Spinnereigebäude in einen Komplex mit Unterkunfts-, Kultur- und Gemeinschaftsfunktionen um.
+
+---
+
+## 毛綱毅曠（もづな きこう、1941-2001）
+
+**★Codex是正**：①依頼段階の誤った前提「早稲田大学卒業」を訂正＝日本語版Wikipedia・コトバンク・TOTOギャラリー間・incl建築家データベースの複数資料が一致して「神戸大学工学部建築学科卒業（1965年）」としており、早稲田大学卒業とする記述は一つも発見できなかった。②反住器は「自邸」ではなく「母のための住宅」であることを北海道立釧路芸術館・TOTO通信・LIXILの複数資料で確認。③釧路市立博物館の竣工年を釧路市公式資料〔1981年3月着工・1983年11月3日開館〕により1983年に確定（1984年は学会賞の年度との混同と判明）。④日本建築学会賞を「1984年度（昭和59年度）、釧路市立博物館及び釧路市湿原展望資料館の2作品での受賞」に精緻化。⑤未確認の詳細（1971年のアトリエ、事務所設立年、死亡時年齢59歳、反住器の所有・公開状況）は本文から削除。
+
+**bio_ja**：北海道釧路市の生まれ。1965年に神戸大学工学部建築学科を卒業し、のちに同大学で助手を務めた。毛綱毅曠建築事務所を設立し、1990年代には多摩美術大学で教員を務めた。1972年、釧路市に母のための住宅「反住器」を設計した。釧路市立博物館（釧路市春湖台、1983年竣工）および釧路市湿原展望資料館の設計により、1984年度日本建築学会賞（作品）を受賞した。2001年、没した。
+
+**viewpoint_ja**：北海道釧路市出身の建築家。釧路市立博物館・釧路市湿原展望資料館など、釧路市および道東に複数の建築を設計した。
+
+**masterworks_text**：反住器（北海道釧路市富士見町・1972年竣工・DOCOMOMO Japan選定建築物・国・北海道・釧路市による文化財指定は今回の調査では確認できず）、釧路市立博物館（北海道釧路市春湖台1番7号・1983年竣工・国・北海道・釧路市による文化財指定は今回の調査では確認できず）
+
+**collection_places**：文化財指定は確認できず（反住器はDOCOMOMO Japan選定のみ確認、法的な文化財指定ではない）。専用の記念館・アーカイブは未確認。
+
+**groups**：設計事務所：毛綱毅曠建築事務所（設立年は資料間相違〔1976年・1978年〕のため未確認）／大学：神戸大学助手→多摩美術大学教員（1990年代）／建築運動：「婆娑羅」（石山修武・石井和紘・六角鬼丈と結成、結成年未確認）
+
+**8言語訳（bio／viewpoint）**：
+
+en_bio: Born in Kushiro, Hokkaido. He graduated from the Department of Architecture, Faculty of Engineering, Kobe University, in 1965, and later served as an assistant at the same university. He established Mozuna Kiko Architect & Associates and, in the 1990s, taught at Tama Art University. In 1972 he designed the house "Hanjukyo" in Kushiro for his mother. Through his design of the Kushiro City Museum (Shunkodai, Kushiro; completed 1983) and the Kushiro Marsh Observatory, he received the Architectural Institute of Japan Prize (Design Category) for fiscal year 1984. He died in 2001.
+en_viewpoint: An architect from Kushiro, Hokkaido, who designed multiple buildings in Kushiro and the eastern Hokkaido region, including the Kushiro City Museum and the Kushiro Marsh Observatory.
+
+zh_cn_bio: 生于北海道钏路市。1965年毕业于神户大学工学部建筑学科，后曾任该大学助手。创立毛纲毅旷建筑事务所，1990年代曾在多摩美术大学任教。1972年，在钏路市为母亲设计了住宅「反住器」。凭钏路市立博物馆（钏路市春湖台，1983年竣工）及钏路市湿原展望资料馆的设计，获1984年度日本建筑学会奖（作品）。2001年去世。
+zh_cn_viewpoint: 北海道钏路市出身的建筑师。设计了钏路市立博物馆、钏路市湿原展望资料馆等多座位于钏路市及道东地区的建筑。
+
+zh_tw_bio: 生於北海道釧路市。1965年畢業於神戶大學工學部建築學科，後曾任該大學助手。創立毛綱毅曠建築事務所，1990年代曾在多摩美術大學任教。1972年，在釧路市為母親設計了住宅「反住器」。憑釧路市立博物館（釧路市春湖台，1983年竣工）及釧路市濕原展望資料館的設計，獲1984年度日本建築學會獎（作品）。2001年去世。
+zh_tw_viewpoint: 北海道釧路市出身的建築師。設計了釧路市立博物館、釧路市濕原展望資料館等多座位於釧路市及道東地區的建築。
+
+ko_bio: 홋카이도 구시로시 출신. 1965년 고베대학 공학부 건축학과를 졸업하고, 이후 동 대학 조수를 지냈다. 모즈나 기코 건축사무소를 설립했고, 1990년대에는 다마미술대학에서 교편을 잡았다. 1972년, 구시로시에 어머니를 위한 주택 「한주키오」를 설계했다. 구시로시립박물관(구시로시 슌코다이, 1983년 준공) 및 구시로습원전망자료관의 설계로 1984년도 일본건축학회상(작품)을 받았다. 2001년 별세했다.
+ko_viewpoint: 홋카이도 구시로시 출신의 건축가. 구시로시립박물관·구시로습원전망자료관 등 구시로시 및 도동 지역에 여러 건축물을 설계했다.
+
+fr_bio: Né à Kushiro, Hokkaido. Diplômé en 1965 du département d'architecture de la faculté d'ingénierie de l'université de Kobe, il y fut ensuite assistant. Il fonda l'agence Mozuna Kiko Architect & Associates et, dans les années 1990, enseigna à l'université des beaux-arts de Tama. En 1972, il conçut à Kushiro la maison « Hanjukyo » pour sa mère. Grâce à la conception du musée municipal de Kushiro (Shunkodai, Kushiro ; achevé en 1983) et de l'observatoire des marais de Kushiro, il reçut le prix de l'Institut d'architecture du Japon (catégorie design) pour l'exercice 1984. Il mourut en 2001.
+fr_viewpoint: Un architecte originaire de Kushiro, Hokkaido, qui conçut plusieurs bâtiments à Kushiro et dans l'est de Hokkaido, notamment le musée municipal de Kushiro et l'observatoire des marais de Kushiro.
+
+es_bio: Nacido en Kushiro, Hokkaido. Se graduó en 1965 en el Departamento de Arquitectura de la Facultad de Ingeniería de la Universidad de Kobe, donde posteriormente fue asistente. Fundó el estudio Mozuna Kiko Architect & Associates y, en la década de 1990, enseñó en la Universidad de Arte de Tama. En 1972 diseñó en Kushiro la vivienda «Hanjukyo» para su madre. Gracias al diseño del Museo Municipal de Kushiro (Shunkodai, Kushiro; terminado en 1983) y del Observatorio de los Pantanos de Kushiro, recibió el Premio del Instituto de Arquitectura de Japón (categoría diseño) del año fiscal 1984. Falleció en 2001.
+es_viewpoint: Un arquitecto originario de Kushiro, Hokkaido, que diseñó varios edificios en Kushiro y en el este de Hokkaido, entre ellos el Museo Municipal de Kushiro y el Observatorio de los Pantanos de Kushiro.
+
+de_bio: Geboren in Kushiro, Hokkaido. Er schloss 1965 sein Studium an der Architekturabteilung der Ingenieurfakultät der Universität Kobe ab und war dort später Assistent. Er gründete das Büro Mozuna Kiko Architect & Associates und lehrte in den 1990er Jahren an der Tama-Kunstuniversität. 1972 entwarf er in Kushiro das Haus „Hanjukyo" für seine Mutter. Für den Entwurf des Kushiro-Stadtmuseums (Shunkodai, Kushiro; fertiggestellt 1983) und des Kushiro-Moorobservatoriums erhielt er den Preis des Architekturinstituts von Japan (Kategorie Entwurf) für das Geschäftsjahr 1984. Er starb 2001.
+de_viewpoint: Ein Architekt aus Kushiro, Hokkaido, der mehrere Gebäude in Kushiro und im östlichen Hokkaido entwarf, darunter das Kushiro-Stadtmuseum und das Kushiro-Moorobservatorium.
+
+---
+
+## まとめ（第6便・5名完了）
+
+5名（宮脇檀・石本喜久治・田上義也・浦辺鎮太郎・毛綱毅曠）全員でCodexの是正が入った。★最も重大な是正＝毛綱毅曠の依頼段階の前提「早稲田大学卒業」が誤りで、正しくは神戸大学卒業と判明（研究エージェントが複数資料の一致で発見・Codexも追認）。宮脇檀・田上義也は生没年月日・出身地・学歴等の多くが一次資料で確認できず、慎重な表記（「〜とされる」「一次資料未確認」）を維持。石本喜久治は出身地の資料間相違（神戸市／大阪府）を、事務所自身の年譜が「神戸で生まれ大阪の家に養子入り」という整合的な説明で解消。西澤文隆（第5便）と同様の課題として、浦辺鎮太郎・毛綱毅曠・石本喜久治いずれも受賞歴の年度と暦年の混同、対象作品の特定に注意を要した。ハングは0件（全5名とも単一チャンクで正常完了）。
+
+## やらなかったこと
+- Shopify・CSVへの実反映はしていない（制作Tへの引き渡しまで）。
+- 実行はリサーチTでは行わない。
+
+<!-- created: 2026-07-29 by terminal=あつぺくとリサーチ model=Sonnet 5 work=建築残り23名第6便(5名)完成原稿 -->
