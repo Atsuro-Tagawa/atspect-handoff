@@ -8,7 +8,7 @@
 ## 進捗
 - [x] 村野藤吾：Codexレビュー「問題なし」
 - [x] 前川國男：Codexレビューで是正（viewpointの「当時の姿のまま」が誤り＝2施設は改修/休館中と発見）
-- [ ] 吉田五十八
+- [x] 吉田五十八：Codexレビューで是正（「指定」→「登録」用語是正・諏訪市文化センターが大規模改修で休館中と発見）
 - [ ] 谷口吉郎
 - [ ] 佐野利器
 
@@ -90,4 +90,43 @@ es_viewpoint: Un arquitecto que estudió con Le Corbusier en Francia y, tras reg
 de_bio: Geboren in der Stadt Niigata. 1909 zog die Familie aufgrund der beruflichen Versetzung des Vaters nach Tokio. Er nahm 1925 das Studium an der Architekturabteilung der Ingenieurfakultät der Kaiserlichen Universität Tokio auf und schloss es 1928 ab. Noch am Abend seiner Abschlussfeier reiste er nach Frankreich, wo er im Atelier von Le Corbusier studierte, dessen Schriften ihn bereits während seiner Studienzeit geprägt hatten. 1930 kehrte er nach Japan zurück und arbeitete ab August desselben Jahres im Büro von Antonin Raymond; 1935 verließ er dieses Büro und gründete das Architekturbüro Maekawa Kunio. Er arbeitete unter anderem am Kimura-Industrieforschungsinstitut (Hirosaki, Präfektur Aomori; fertiggestellt 1932), an der Bibliothek und Konzerthalle der Präfektur Kanagawa (Yokohama; fertiggestellt 1954) sowie am Hauptgebäude des Internationalen Hauses Japan (Bezirk Minato, Tokio; fertiggestellt 1955, gemeinsam mit Junzo Sakakura und Junzo Yoshimura entworfen). Er erhielt mehrfach den Preis des Architekturinstituts von Japan, 1963 den Auguste-Perret-Preis der UIA, 1968 den Großen Preis des Architekturinstituts von Japan und 1985 den Kulturpreis der Präfektur Tokio. Zudem war er Präsident des Japan Institute of Architects. Er starb 1986 im Alter von 81 Jahren.
 de_viewpoint: Ein Architekt, der in Frankreich bei Le Corbusier studierte und nach seiner Rückkehr nach Japan im Büro von Antonin Raymond Erfahrung sammelte, wodurch er an der Praxis der modernen Architektur in Japan mitwirkte. Beginnend mit dem Kimura-Industrieforschungsinstitut arbeitete er an einer breiten Palette von Gebäuden, darunter Bibliotheken, Konzerthallen und Kultureinrichtungen. Ein Teil seiner Werke ist durch Renovierungs- und Erhaltungsarbeiten bis heute erhalten geblieben.
 
-<!-- created: 2026-07-28 by terminal=あつぺくとリサーチ model=Sonnet 5 work=建築残り43名第1便(村野藤吾・前川國男)完了 -->
+---
+
+## 吉田五十八（1894-1974）
+
+**Codex最終判定**：★是正あり。「登録有形文化財に指定され」は用語誤り（正しくは「登録」）。「竣工当時の姿を保ちながら公開施設として使われ続けている」も事実誤り＝諏訪市文化センターは2025年7月から大規模改修工事のため全館休館中（2027年度供用再開予定）、五島美術館は2012年に改修済み、鎌倉市吉屋信子記念館は通年公開ではなく春・秋の公開時期以外は予約制学習施設。
+
+**bio_ja**：東京の生まれ。1923年に東京美術学校を卒業し、1925年から欧米へ遊学した。1941年に母校の講師となり、1946年に教授、学制改革を経て1949年からは東京藝術大学教授を務め、1962年に同大学名誉教授となった。五島美術館本館（東京都世田谷区、1960年竣工）、諏訪市文化センター（旧北澤会館、長野県諏訪市、1962年竣工）、鎌倉市吉屋信子記念館主屋（神奈川県鎌倉市、1962年竣工）などを手がけた。1952年に日本芸術院賞、1964年に文化勲章を受章し、日本芸術院会員も務めた。1974年、勲一等瑞宝章を受章した年に没した。
+
+**viewpoint_ja**：美術館や記念館などの文化施設を手がけた建築家。ここに挙げた3作品はいずれも国の登録有形文化財に登録され、保存・活用されている。教育者としても長く東京藝術大学で教壇に立った。
+
+**masterworks_text**：五島美術館本館（東京都世田谷区・1960年竣工・現存・国登録有形文化財2017年登録）、諏訪市文化センター〔旧北澤会館〕（長野県諏訪市・1962年竣工・大規模改修工事のため休館中〔2027年度供用再開予定〕・国登録有形文化財2014年登録）、鎌倉市吉屋信子記念館主屋（神奈川県鎌倉市・1962年竣工・現存〔春・秋に一般公開、通常は予約制学習施設〕・国登録有形文化財2017年登録）
+
+**collection_places**：国登録有形文化財3件（指定年は代表作欄のとおり）。専用の記念館・アーカイブは未確認。
+
+**groups**：大学：東京美術学校講師(1941年)→教授(1946年)、学制改革後は東京藝術大学教授(1949-1962年)→名誉教授／設計事務所：確認できず／建築運動：なし（確認できず）／日本芸術院会員
+
+**8言語訳（bio／viewpoint）**：
+
+en_bio: Born in Tokyo. He graduated from the Tokyo School of Fine Arts in 1923 and traveled to Europe and the United States from 1925. In 1941 he became a lecturer at his alma mater, in 1946 a professor, and from 1949, following a reorganization of the school system, a professor at Tokyo University of the Arts; he became professor emeritus there in 1962. He worked on projects including the Gotoh Museum main building (Setagaya Ward, Tokyo; completed 1960), the Suwa City Culture Center (former Kitazawa Hall, Suwa, Nagano Prefecture; completed 1962), and the main house of the Yoshiya Nobuko Memorial Museum in Kamakura (Kamakura, Kanagawa Prefecture; completed 1962). He received the Japan Art Academy Prize in 1952 and the Order of Culture in 1964, and served as a member of the Japan Art Academy. He died in 1974, the same year he received the Order of the Sacred Treasure, First Class.
+en_viewpoint: An architect who worked on cultural facilities such as museums and memorial halls. The three works listed here are all nationally registered Tangible Cultural Properties that continue to be preserved and used. As an educator, he also taught for many years at Tokyo University of the Arts.
+
+zh_cn_bio: 生于东京。1923年毕业于东京美术学校，1925年起赴欧美游学。1941年任母校讲师，1946年任教授，经学制改革后自1949年起任东京艺术大学教授，1962年成为该校名誉教授。他经手了五岛美术馆本馆（东京都世田谷区，1960年竣工）、诹访市文化中心（旧北泽会馆，长野县诹访市，1962年竣工）、镰仓市吉屋信子纪念馆主屋（神奈川县镰仓市，1962年竣工）等作品。1952年获日本艺术院奖，1964年获文化勋章，并曾任日本艺术院会员。1974年，在获颁勋一等瑞宝章的同一年去世。
+zh_cn_viewpoint: 经手了美术馆、纪念馆等文化设施的建筑师。此处列举的3件作品均被登记为国家登记有形文化财，得到保存与活用。作为教育者，他也长期在东京艺术大学任教。
+
+zh_tw_bio: 生於東京。1923年畢業於東京美術學校，1925年起赴歐美遊學。1941年任母校講師，1946年任教授，經學制改革後自1949年起任東京藝術大學教授，1962年成為該校名譽教授。他經手了五島美術館本館（東京都世田谷區，1960年竣工）、諏訪市文化中心（舊北澤會館，長野縣諏訪市，1962年竣工）、鎌倉市吉屋信子紀念館主屋（神奈川縣鎌倉市，1962年竣工）等作品。1952年獲日本藝術院獎，1964年獲文化勳章，並曾任日本藝術院會員。1974年，在獲頒勳一等瑞寶章的同一年去世。
+zh_tw_viewpoint: 經手了美術館、紀念館等文化設施的建築師。此處列舉的3件作品均被登錄為國家登錄有形文化財，得到保存與活用。作為教育者，他亦長期在東京藝術大學任教。
+
+ko_bio: 도쿄 출신. 1923년 도쿄미술학교를 졸업하고 1925년부터 유럽과 미국으로 유학했다. 1941년 모교의 강사가 되었고, 1946년 교수, 학제 개편을 거쳐 1949년부터는 도쿄예술대학 교수를 지냈으며 1962년 동 대학 명예교수가 되었다. 고토미술관 본관(도쿄도 세타가야구, 1960년 준공), 스와시 문화센터(구 기타자와회관, 나가노현 스와시, 1962년 준공), 가마쿠라시 요시야 노부코 기념관 주옥(가나가와현 가마쿠라시, 1962년 준공) 등을 설계했다. 1952년 일본예술원상, 1964년 문화훈장을 받았으며 일본예술원 회원을 지냈다. 1974년, 훈일등서보장을 받은 해에 별세했다.
+ko_viewpoint: 미술관·기념관 등 문화시설을 다수 설계한 건축가. 여기 소개한 3건의 작품은 모두 국가등록 유형문화재로 등록되어 보존·활용되고 있다. 교육자로서도 오랫동안 도쿄예술대학에서 교편을 잡았다.
+
+fr_bio: Né à Tokyo. Diplômé de l'École des beaux-arts de Tokyo en 1923, il voyage en Europe et aux États-Unis à partir de 1925. En 1941, il devient chargé de cours dans son ancienne école, professeur en 1946, puis, après une réorganisation du système scolaire, professeur à l'université des Arts de Tokyo à partir de 1949 ; il en devient professeur émérite en 1962. Il réalise notamment le bâtiment principal du musée Gotoh (arrondissement de Setagaya, Tokyo ; achevé en 1960), le Centre culturel de la ville de Suwa (ancien Kitazawa Kaikan, Suwa, préfecture de Nagano ; achevé en 1962) et le corps de logis principal du musée-mémorial Yoshiya Nobuko à Kamakura (Kamakura, préfecture de Kanagawa ; achevé en 1962). Il reçoit le prix de l'Académie des arts du Japon en 1952 et l'ordre de la Culture en 1964, et est membre de l'Académie des arts du Japon. Il meurt en 1974, l'année même où il reçoit l'ordre du Trésor sacré de première classe.
+fr_viewpoint: Un architecte qui a réalisé de nombreux équipements culturels tels que des musées et des mémoriaux. Les trois œuvres citées ici sont toutes inscrites comme biens culturels tangibles enregistrés au niveau national et continuent d'être préservées et utilisées. En tant qu'enseignant, il a également exercé pendant longtemps à l'université des Arts de Tokyo.
+
+es_bio: Nacido en Tokio. Se graduó en la Escuela de Bellas Artes de Tokio en 1923 y viajó por Europa y Estados Unidos a partir de 1925. En 1941 se convirtió en profesor adjunto de su antigua escuela, en 1946 en catedrático y, tras una reorganización del sistema escolar, desde 1949 fue catedrático de la Universidad de las Artes de Tokio, de la que se convirtió en profesor emérito en 1962. Realizó obras como el edificio principal del Museo Gotoh (distrito de Setagaya, Tokio; terminado en 1960), el Centro Cultural de la ciudad de Suwa (antiguo Kitazawa Kaikan, Suwa, prefectura de Nagano; terminado en 1962) y el cuerpo principal del Museo Conmemorativo Yoshiya Nobuko en Kamakura (Kamakura, prefectura de Kanagawa; terminado en 1962). Recibió el Premio de la Academia de Artes de Japón en 1952 y la Orden de la Cultura en 1964, y fue miembro de la Academia de Artes de Japón. Falleció en 1974, el mismo año en que recibió la Orden del Tesoro Sagrado de Primera Clase.
+es_viewpoint: Un arquitecto que trabajó en instalaciones culturales como museos y salas conmemorativas. Las tres obras aquí mencionadas están registradas como Bienes Culturales Tangibles de registro nacional y continúan siendo conservadas y utilizadas. Como educador, también ejerció durante muchos años en la Universidad de las Artes de Tokio.
+
+de_bio: Geboren in Tokio. Er schloss 1923 die Kunstakademie Tokio ab und reiste ab 1925 nach Europa und in die USA. 1941 wurde er Dozent an seiner ehemaligen Schule, 1946 Professor, und nach einer Reform des Schulsystems ab 1949 Professor an der Universität der Künste Tokio; 1962 wurde er dort emeritierter Professor. Er arbeitete unter anderem am Hauptgebäude des Gotoh-Museums (Bezirk Setagaya, Tokio; fertiggestellt 1960), am Kulturzentrum der Stadt Suwa (ehemaliges Kitazawa Kaikan, Suwa, Präfektur Nagano; fertiggestellt 1962) und am Haupthaus des Yoshiya-Nobuko-Gedenkmuseums in Kamakura (Kamakura, Präfektur Kanagawa; fertiggestellt 1962). 1952 erhielt er den Preis der Japanischen Kunstakademie und 1964 den Kulturorden; er war Mitglied der Japanischen Kunstakademie. Er starb 1974, im selben Jahr, in dem er den Orden des Heiligen Schatzes erster Klasse erhielt.
+de_viewpoint: Ein Architekt, der zahlreiche Kultureinrichtungen wie Museen und Gedenkstätten entwarf. Die hier genannten drei Werke sind alle als national registrierte materielle Kulturgüter eingetragen und werden weiterhin erhalten und genutzt. Als Lehrer war er zudem lange Jahre an der Universität der Künste Tokio tätig.
+
+<!-- created: 2026-07-28 by terminal=あつぺくとリサーチ model=Sonnet 5 work=建築残り43名第1便(村野藤吾・前川國男・吉田五十八)完了 -->
