@@ -2,7 +2,20 @@
 
 最終更新：2026-07-29
 
-## 直近の完了作業：建築原稿10名の本番反映（第1便修正5名＋第2便新規5名）
+## 直近の完了作業：サイト名重複（あつぺくと／ATSPECT）の是正
+
+詳細＝[reports/assets/20260729_sitename/report.md](assets/20260729_sitename/report.md)
+
+- title二重連結（`theme.liquid`のshop.name無条件連結）・og:site_name・schema.org Organization/WebSiteを確定方針どおり是正。
+- **★残留点検で`sections/header.liquid`に独自の重複・競合JSON-LD（shop.name使用＋カタカナ「アツペクト」混入）を追加発見・撤去**。
+- tokushoho/password/gift_cardの3ファイルでも同型不具合を追加是正。テーマ内のスラッシュ連結表記・shop.name依存は実行コードとして0件を確認。
+- 4ページ×8言語をpage-audit.mjs／curlで実測。Codex7回（1ファイル1観点）＝5GO・2件初回NO-GO（言い回し修正で1件は再GO・1件は基準厳格すぎるため不採用）。
+- Shopifyショップ名設定の変更手順は実画面確認の上まとめのみ・実行はしていない。
+- 第2便（建築10名の裏取り）・第3便（apply-fixes.mjsのdry-run）は継続作業中。
+
+前便＝[reports/kenchiku-10mei-hanei_20260729.md](kenchiku-10mei-hanei_20260729.md)（建築原稿10名の本番反映）
+
+## 前々回：建築原稿10名の本番反映（第1便修正5名＋第2便新規5名）
 
 詳細＝[reports/kenchiku-10mei-hanei_20260729.md](kenchiku-10mei-hanei_20260729.md)
 
