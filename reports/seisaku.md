@@ -2,7 +2,16 @@
 
 最終更新：2026-07-29
 
-## 直近の完了作業：apply-fixes.mjs実行＋プライバシーポリシー1本化
+## 直近の完了作業：資料フォーム2ページの秘匿URL方式復活（第1便）
+
+詳細＝[reports/assets/20260729_himitsu-url_kenchiku15/report_1bin_himitsu-url.md](assets/20260729_himitsu-url_kenchiku15/report_1bin_himitsu-url.md)
+
+- 2026-07-22非公開化のartist-materials・artwork-entryを、artist-onboardingと同じ秘匿URL方式（ランダムハンドル・published=true）で司令塔判断により復活。新ハンドルの実値はVaultのみ記録・本報告には非掲載。
+- **★口座情報の平文収集欄（2026-07-22是正済みのはずが再出現）を発見・撤去**。根本原因は未調査。
+- hCaptchaは設定確認だけでなく実際のスクリプト実行を実測。通知先=media@atspect.com確認。サイト内検索・sitemap.xml・全リンク・404案内の4経路いずれからも非到達を実測確認。旧ハンドル残存リンク0件。Codex=GO。
+- 建築原稿15名（第3便・第4便10名＋第5便5名）の本番反映（第2便）は別途進行中・完了後に追記予定。
+
+## 前々便：apply-fixes.mjs実行＋プライバシーポリシー1本化
 
 詳細＝[reports/assets/20260729_seisei/apply-execution-report.md](assets/20260729_seisei/apply-execution-report.md)
 
