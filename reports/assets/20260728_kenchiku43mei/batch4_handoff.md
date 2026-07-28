@@ -11,7 +11,7 @@
 - [x] 黒川紀章：★2026-07-25の「出身地は名古屋市で確定」を撤回・資料間相違を明記。序列語「主要メンバー」を削除。受賞対象の作品名を明記。
 - [x] 篠原一男：Codexレビューで是正（白の家の所在地「中野区」→「杉並区」に訂正・masterworks_textの「現存」を削除・百年記念館の「文化財指定なし」を「未確認」に訂正）。★他の9名より一次資料での確認が弱く「確認できず」表記を多用。
 - [x] 東孝光：Codexレビューで是正（独立と事務所設立を1967年/1968年で精緻化・東京都選定歴史的建造物と法的な文化財指定の混同を是正）。日本建築学会賞1995年・坂倉準三の表記は正確と確認。
-- [ ] 土浦亀城
+- [x] 土浦亀城：Codexレビューで大幅是正（過剰な「とされる」表記を整理・渡米後の経緯を精緻化・文化財の指定主体を東京都と確認、指定日1995年3月27日を確認・自邸は土浦亀城単独ではなく妻の土浦信子との共同設計と判明）。5/5で第4便完了。
 
 ---
 
@@ -170,3 +170,56 @@ es_viewpoint: Un arquitecto que exploró formas de habitar la ciudad en parcelas
 
 de_bio: Geboren in Osaka. Er schloss 1957 sein Studium an der Abteilung für Architekturingenieurwesen der Ingenieurfakultät der Universität Osaka ab. Nach seiner Tätigkeit in der Bauabteilung des Ministersekretariats des Ministeriums für Post und Telekommunikation wechselte er 1960 zum Junzo-Sakakura-Architekturforschungsinstitut (Büro Osaka), machte sich 1967 selbstständig und gründete 1968 das Büro Takamitsu Azuma Architect & Associates. 1985 wurde er Professor an der Abteilung für Umweltingenieurwesen der Ingenieurfakultät der Universität Osaka, 1997 emeritierter Professor derselben Universität sowie Professor für Industriedesign am Chiba Institute of Technology. Er entwarf unter anderem das Turmhaus (Bezirk Shibuya, Tokio; fertiggestellt 1966) und das Haus in Asagaya (Bezirk Suginami, Tokio; fertiggestellt 1993). 1995 erhielt er den Preis des Architekturinstituts von Japan für „eine Reihe von Stadthäusern vom Turmhaus bis zum Haus in Asagaya". Er starb 2015 im Alter von 81 Jahren.
 de_viewpoint: Ein Architekt, der Wege des Wohnens in der Stadt auf begrenzten Grundstücken erforschte. Er erhielt den Preis des Architekturinstituts von Japan für seine Reihe von Stadthäusern, die mit seinem eigenen Wohnhaus, dem Turmhaus, begann und im Haus in Asagaya gipfelte.
+
+---
+
+## 土浦亀城（1897-1996）
+
+**★特記＝東京文化財研究所に物故者記事なし。生年月日・学歴・経歴は主にポーラ文化研究所公式サイト（土浦亀城アーカイブズ提供資料に基づく年表）に依拠。**
+
+**Codex是正（大幅）**：①下書きの過剰な「〜とされる」表記のうち、ポーラ文化研究所公式アーカイブ年表と一致する事項（出身地・学歴・渡米/帰国年・竣工年）は整理し断定に近づけたが、東京文化財研究所に記事がない・大成建設公式社史で確認できない事項（大倉土木入社）は「とされる」を維持。②渡米後の経緯を精緻化＝1923年4月渡米後、直ちにタリアセン入所ではなく、まずロサンゼルスのライト事務所に勤務、1924年にタリアセンへ移動、1925年に退職、1926年1月帰国、の順に修正。③東京都指定有形文化財の指定主体は品川区ではなく東京都と確認。指定年月日は複数の公的事業者資料（JR東海の環境影響評価資料等）で「1995年3月27日」の記載を確認したが、当時の東京都教育委員会告示原文そのものへの到達はできておらず、その旨を明記。④★重要＝自邸（土浦亀城邸／文化財名称：土浦家住宅）は土浦亀城の単独設計ではなく、妻の土浦信子との共同設計であることが判明し、共同設計者として明記。⑤viewpoint_jaの「経験を生かした」という因果的評価表現を、より事実に即した記述に修正。
+
+**bio_ja**：茨城県水戸市の生まれ（東京文化財研究所に物故者記事がなく、土浦亀城アーカイブズ提供資料に基づくポーラ文化研究所公式サイトの年表による）。1922年に東京帝国大学建築学科を卒業した。1923年4月に渡米し、フランク・ロイド・ライトのロサンゼルス事務所に勤務したのち、1924年にタリアセンへ移った。1925年に同事務所を退職し、1926年1月に帰国した。同年、大倉土木（現・大成建設）に入社したとされる（大成建設公式の社史では確認できず）。1934年12月、土浦亀城建築設計事務所を開設した。土浦亀城・土浦信子が設計した土浦亀城邸（第2自邸）は、1935年に東京都品川区上大崎に竣工し、2024年に東京都港区南青山へ移築・復原された。1996年1月29日、98歳で没した。
+
+**viewpoint_ja**：フランク・ロイド・ライトの事務所に勤務したのち帰国し、住宅を含む建築設計に携わった建築家。土浦亀城・土浦信子が設計した自邸（土浦亀城邸）は、1935年の竣工後、2024年に移築・復原され、保存されている。
+
+**masterworks_text**：土浦亀城邸〔第2自邸・文化財名称は土浦家住宅・土浦亀城/土浦信子設計〕（旧所在地：東京都品川区上大崎／現所在地：東京都港区南青山・1935年竣工・2024年移築復原・東京都指定有形文化財〔1995年3月27日指定・JR東海公式資料等による、当時の東京都教育委員会告示原文は今回確認できず〕）
+
+**collection_places**：東京都指定有形文化財1件（土浦亀城邸/土浦家住宅）。専用の記念館・アーカイブは未確認（ポーラ文化研究所公式サイトに詳細な年表・資料あり）。
+
+**groups**：設計事務所：大倉土木（現・大成建設、1926年入社とされる、大成建設公式社史では未確認）→土浦亀城建築設計事務所（1934年12月開設）／大学：専任教員歴は確認できず／建築運動：なし（確認できず）
+
+**8言語訳（bio／viewpoint）**：
+
+en_bio: Born in Mito, Ibaraki Prefecture (based on the chronology on the official Pola Research Institute of Beauty and Culture website, drawing on materials provided by the Tsuchiura Kameki Archives; no obituary article was found in the Tokyo National Research Institute for Cultural Properties' database). He graduated from the Department of Architecture, Tokyo Imperial University, in 1922. He traveled to the United States in April 1923, working at Frank Lloyd Wright's Los Angeles office before moving to Taliesin in 1924. He left the office in 1925 and returned to Japan in January 1926. That same year he is said to have joined Okura Doboku (now Taisei Corporation), though this could not be confirmed in Taisei's own official corporate history. In December 1934, he opened the Kameki Tsuchiura Architectural Design Office. The Tsuchiura Kameki House (his second residence), designed by Tsuchiura Kameki and Tsuchiura Nobuko, was completed in 1935 in Kamiosaki, Shinagawa Ward, Tokyo, and was relocated and restored to Minami-Aoyama, Minato Ward, Tokyo, in 2024. He died on January 29, 1996, at the age of 98.
+en_viewpoint: An architect who, after working at Frank Lloyd Wright's office, returned to Japan and engaged in architectural design including residences. His own house, the Tsuchiura Kameki House, designed by Tsuchiura Kameki and Tsuchiura Nobuko, was completed in 1935 and, after being relocated and restored in 2024, continues to be preserved.
+
+zh_cn_bio: 生于茨城县水户市（据波拉文化研究所官方网站年表，该年表基于土浦龟城档案提供的资料；东京文化财研究所未见其物故者记事）。1922年毕业于东京帝国大学建筑学科。1923年4月赴美，先在弗兰克·劳埃德·赖特位于洛杉矶的事务所工作，1924年转至塔里埃森。1925年离开该事务所，1926年1月回国。据称同年进入大仓土木（现·大成建设），但大成建设官方社史中未见记载。1934年12月，开设土浦龟城建筑设计事务所。由土浦龟城、土浦信子共同设计的土浦龟城邸（第二自宅），1935年竣工于东京都品川区上大崎，2024年迁建复原至东京都港区南青山。1996年1月29日，以98岁去世。
+zh_cn_viewpoint: 在弗兰克·劳埃德·赖特事务所工作后回国，从事包括住宅在内的建筑设计的建筑师。由土浦龟城、土浦信子共同设计的自宅（土浦龟城邸），1935年竣工，2024年迁建复原后持续得到保存。
+
+zh_tw_bio: 生於茨城縣水戶市（據波拉文化研究所官方網站年表，該年表基於土浦龜城檔案提供的資料；東京文化財研究所未見其物故者記事）。1922年畢業於東京帝國大學建築學科。1923年4月赴美，先在法蘭克·洛伊·萊特位於洛杉磯的事務所工作，1924年轉至塔里艾森。1925年離開該事務所，1926年1月回國。據稱同年進入大倉土木（現·大成建設），但大成建設官方社史中未見記載。1934年12月，開設土浦龜城建築設計事務所。由土浦龜城、土浦信子共同設計的土浦龜城邸（第二自宅），1935年竣工於東京都品川區上大崎，2024年遷建復原至東京都港區南青山。1996年1月29日，以98歲去世。
+zh_tw_viewpoint: 在法蘭克·洛伊·萊特事務所工作後回國，從事包括住宅在內的建築設計的建築師。由土浦龜城、土浦信子共同設計的自宅（土浦龜城邸），1935年竣工，2024年遷建復原後持續得到保存。
+
+ko_bio: 이바라키현 미토시 출신(도쿄문화재연구소에는 물고자 기사가 없어, 쓰치우라 가메키 아카이브 제공 자료에 기초한 폴라문화연구소 공식 사이트의 연표에 의함). 1922년 도쿄제국대학 건축학과를 졸업했다. 1923년 4월 미국으로 건너가 프랭크 로이드 라이트의 로스앤젤레스 사무소에서 근무한 후, 1924년 탈리에신으로 옮겼다. 1925년 동 사무소를 퇴직하고, 1926년 1월 귀국했다. 같은 해 오쿠라토목(현 다이세이건설)에 입사했다고 전해지나, 다이세이건설 공식 사사에서는 확인되지 않는다. 1934년 12월, 쓰치우라 가메키 건축설계사무소를 열었다. 쓰치우라 가메키·쓰치우라 노부코가 설계한 쓰치우라 가메키 저택(제2자택)은 1935년 도쿄도 시나가와구 가미오사키에 준공되었고, 2024년 도쿄도 미나토구 미나미아오야마로 이축·복원되었다. 1996년 1월 29일, 98세로 별세했다.
+ko_viewpoint: 프랭크 로이드 라이트의 사무소에서 근무한 후 귀국하여 주택을 포함한 건축설계에 종사한 건축가. 쓰치우라 가메키·쓰치우라 노부코가 설계한 자택(쓰치우라 가메키 저택)은 1935년 준공 후 2024년 이축·복원되어 계속 보존되고 있다.
+
+fr_bio: Né à Mito, préfecture d'Ibaraki (selon la chronologie du site officiel de l'Institut de recherche culturelle Pola, fondée sur des documents fournis par les Archives Tsuchiura Kameki ; aucun article nécrologique n'a été trouvé dans la base de données de l'Institut national de recherche sur les biens culturels de Tokyo). Diplômé en 1922 du département d'architecture de l'université impériale de Tokyo. Il se rend aux États-Unis en avril 1923, travaillant au bureau de Frank Lloyd Wright à Los Angeles avant de rejoindre Taliesin en 1924. Il quitte ce bureau en 1925 et rentre au Japon en janvier 1926. La même année, il aurait rejoint Okura Doboku (aujourd'hui Taisei Corporation), bien que cela ne puisse être confirmé dans l'histoire officielle de l'entreprise Taisei. En décembre 1934, il ouvre l'agence d'architecture Kameki Tsuchiura. La maison Tsuchiura Kameki (sa deuxième résidence), conçue par Tsuchiura Kameki et Tsuchiura Nobuko, est achevée en 1935 à Kamiosaki, arrondissement de Shinagawa, Tokyo, puis déplacée et restaurée à Minami-Aoyama, arrondissement de Minato, Tokyo, en 2024. Il meurt le 29 janvier 1996 à l'âge de 98 ans.
+fr_viewpoint: Un architecte qui, après avoir travaillé au bureau de Frank Lloyd Wright, est rentré au Japon et s'est consacré à la conception architecturale, notamment résidentielle. Sa propre maison, la maison Tsuchiura Kameki, conçue par Tsuchiura Kameki et Tsuchiura Nobuko, achevée en 1935, continue d'être préservée après son déplacement et sa restauration en 2024.
+
+es_bio: Nacido en Mito, prefectura de Ibaraki (según la cronología del sitio oficial del Instituto de Investigación Cultural Pola, basada en materiales proporcionados por los Archivos Tsuchiura Kameki; no se encontró ningún artículo necrológico en la base de datos del Instituto Nacional de Investigación de Bienes Culturales de Tokio). Se graduó en 1922 en el Departamento de Arquitectura de la Universidad Imperial de Tokio. Viajó a Estados Unidos en abril de 1923, trabajando en la oficina de Frank Lloyd Wright en Los Ángeles antes de trasladarse a Taliesin en 1924. Dejó dicha oficina en 1925 y regresó a Japón en enero de 1926. Ese mismo año, se dice que se incorporó a Okura Doboku (actual Taisei Corporation), aunque esto no pudo confirmarse en la historia corporativa oficial de Taisei. En diciembre de 1934 abrió el estudio de arquitectura Kameki Tsuchiura. La Casa Tsuchiura Kameki (su segunda residencia), diseñada por Tsuchiura Kameki y Tsuchiura Nobuko, se terminó en 1935 en Kamiosaki, distrito de Shinagawa, Tokio, y fue trasladada y restaurada a Minami-Aoyama, distrito de Minato, Tokio, en 2024. Falleció el 29 de enero de 1996 a los 98 años.
+es_viewpoint: Un arquitecto que, tras trabajar en la oficina de Frank Lloyd Wright, regresó a Japón y se dedicó al diseño arquitectónico, incluidas viviendas. Su propia casa, la Casa Tsuchiura Kameki, diseñada por Tsuchiura Kameki y Tsuchiura Nobuko, terminada en 1935, sigue conservándose tras su traslado y restauración en 2024.
+
+de_bio: Geboren in Mito, Präfektur Ibaraki (gemäß der Chronologie auf der offiziellen Website des Pola-Instituts für Kulturforschung, die auf von den Tsuchiura-Kameki-Archiven bereitgestellten Materialien beruht; in der Datenbank des Tokioter Nationalen Forschungsinstituts für Kulturgüter wurde kein Nachrufartikel gefunden). Er schloss 1922 sein Studium an der Architekturabteilung der Kaiserlichen Universität Tokio ab. Im April 1923 reiste er in die USA und arbeitete im Büro von Frank Lloyd Wright in Los Angeles, bevor er 1924 nach Taliesin wechselte. 1925 verließ er das Büro und kehrte im Januar 1926 nach Japan zurück. Im selben Jahr soll er bei Okura Doboku (heute Taisei Corporation) eingetreten sein, was jedoch in der offiziellen Unternehmensgeschichte von Taisei nicht bestätigt werden konnte. Im Dezember 1934 eröffnete er das Architekturbüro Kameki Tsuchiura. Das Haus Tsuchiura Kameki (sein zweites Wohnhaus), entworfen von Tsuchiura Kameki und Tsuchiura Nobuko, wurde 1935 in Kamiosaki, Bezirk Shinagawa, Tokio, fertiggestellt und 2024 nach Minami-Aoyama, Bezirk Minato, Tokio, versetzt und restauriert. Er starb am 29. Januar 1996 im Alter von 98 Jahren.
+de_viewpoint: Ein Architekt, der nach seiner Tätigkeit im Büro von Frank Lloyd Wright nach Japan zurückkehrte und sich der architektonischen Gestaltung, einschließlich Wohnhäusern, widmete. Sein eigenes Haus, das Haus Tsuchiura Kameki, entworfen von Tsuchiura Kameki und Tsuchiura Nobuko, wurde 1935 fertiggestellt und wird nach seiner Versetzung und Restaurierung im Jahr 2024 weiterhin erhalten.
+
+---
+
+## まとめ（第4便・5名完了）
+
+5名（今井兼次・黒川紀章・篠原一男・東孝光・土浦亀城）全員でCodexの是正が入った。★最重要の発見＝黒川紀章の出身地について、2026-07-25の前回セッションで「名古屋市で確定」と報告していたが、今回の独立したCodexレビューで文化庁Art Platform Japan・設計事務所公式サイトが現在も「愛知県海部郡蟹江町」としていることが判明し、一次資料での確定に至っていないことが分かった。前回の「確定」は撤回し、資料間の相違を明記する記述に改めた。この事例は、過去の「Codex独立検証済み」という結論も時間の経過とともに再検証で覆り得ることを示しており、Vaultに教訓として別途記録する。篠原一男・土浦亀城の2名は、他の8名と比べて一次資料での確認度が低く（東京文化財研究所に物故者記事が見当たらない等）、慎重な表記（「未確認」「とされる」）を維持した。土浦亀城は自邸が妻の土浦信子との共同設計であることが判明し、単独設計のような記述を避けた。「選定」（景観条例に基づく制度）と「指定」（法的な文化財指定）の混同を東孝光でも是正。ハングは1件（篠原一男・外部タイムアウトでバックグラウンド処理に切り替わったが正常完了）。
+
+## やらなかったこと
+- Shopify・CSVへの実反映はしていない（制作Tへの引き渡しまで）。
+- 実行はリサーチTでは行わない。
+
+<!-- created: 2026-07-29 by terminal=あつぺくとリサーチ model=Sonnet 5 work=建築残り43名第4便(5名)完成原稿 -->
