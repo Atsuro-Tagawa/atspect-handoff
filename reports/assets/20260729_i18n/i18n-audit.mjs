@@ -22,7 +22,8 @@ const LANGS = ["ja", "en", "zh-cn", "zh-tw", "ko", "fr", "es", "de"];
 const LANG_ALT = LANGS.map((l) => l.replace("-", "\\-")).join("|");
 
 // ひらがな(3040-309F)・カタカナ(30A0-30FF)。ただし中黒(30FB)・長音符(30FC)は除外（CJK共通の記号・地名等で誤検知が多いため）。
-const KANA_RE = /[\u3041-\u3096\u309D-\u309F\u30A1-\u30FA\u30FD-\u30FF]/;
+// \u3072\u3089\u304C\u306A\u30FB\u30AB\u30BF\u30AB\u30CA\uFF08\u5168\u89D2\uFF09\uFF0B\u534A\u89D2\u30AB\u30BF\u30AB\u30CA(U+FF66-FF9F)\u3002\u4E2D\u9ED2(30FB/FF65)\u30FB\u9577\u97F3\u7B26(30FC)\u306F\u9664\u5916\u3002
+const KANA_RE = /[\u3041-\u3096\u309D-\u309F\u30A1-\u30FA\u30FD-\u30FF\uFF66-\uFF9F]/;
 // 既知の意図的な例外（ブランド名の日本語併記など）。ここに列挙した文字列を含む場合のみ、そのカナ文字は除外する。
 const ALLOWLIST_SUBSTRINGS = ["あつぺくと"];
 
@@ -125,7 +126,12 @@ function groupRecords(records, content) {
       groups.push(g);
     }
     const snippet = snippetAfter(content, r.pos);
-    const isEmpty = snippet.replace(/<[^>]*>/g, "").trim() === "";
+    // タグ除去に加え、空白扱いのHTMLエンティティ（&nbsp;等）も除去してから空判定する
+    // （Codex独立レビューで指摘＝エンティティ未デコードのため&nbsp;単体を「非空」と誤判定するバグ）
+    const isEmpty = snippet
+      .replace(/<[^>]*>/g, "")
+      .replace(/&nbsp;|&#160;|&#xa0;/gi, "")
+      .trim() === "";
     g.langs.set(r.lang, { pos: r.pos, empty: isEmpty });
     g.endPos = r.pos;
   }
@@ -298,11 +304,13 @@ md.push(`- 検出総数＝${findings.missingInNonJa.length + findings.missingInJ
 md.push(`- うち新規（本日これまでの票に未収録）＝約${newCount}件（未知の多言語風構造${findings.unknownStructure.length}件を含む）。`);
 md.push("- 新規の分は是正していません。一覧化のみです。");
 md.push("");
-md.push("### この検査の既知の限界（正直な記載）");
+md.push("### この検査の既知の限界（正直な記載・Codex独立レビュー反映済み）");
 md.push("");
 md.push("- 対象は`sections/*.liquid`のみです。`snippets/`配下は対象外です（今回の走査範囲外）。");
-md.push("- グルーピングは文書内の出現順の連続性に基づく簡易ヒューリスティックです。厳密なDOM解析ではないため、通常とかけ離れた入れ子構造では誤ってグループを分割・統合する可能性があります。");
+md.push("- グルーピングは文書内の出現順の連続性に基づく簡易ヒューリスティックで、DOM階層・親要素は見ていません。同じbase名（クラス名の`--lang`を除いた部分）が別々のセクション・別々の意味グループで再利用されている場合、誤って1つのグループに統合される、または逆に誤分割される可能性があります（Codex独立レビューで指摘）。本走査では85ファイルの結果を目視確認し、既知5件の過不足ない再検出を確認していますが、全89ファイル・全グループの網羅的な正しさを保証するものではありません。");
 md.push("- カナ混入チェックの抜粋範囲（タグ直後から次の閉じタグ/Liquidタグ/次言語タグ/400文字のいずれか手前まで）は簡易ヒューリスティックです。極端に長い一文（改行を挟む長文）では途中で打ち切られる場合があります。");
+md.push("- 空文字列判定は`&nbsp;`等の主要なHTMLエンティティを除去したうえで行っていますが、その他の空白系エンティティ（`&ensp;`等）やLiquid変数展開後にのみ空になるケースまでは対応していません（Codex独立レビューで指摘・主要なものは反映済み）。");
+md.push("- カナ検出は全角ひらがな・カタカナ＋半角カタカナに対応していますが、結合濁点・半濁点の単独混入、仮名拡張ブロック（アイヌ語表記等）までは対応していません（Codex独立レビューで指摘。この構成のテーマでの実害は低いと判断し未対応）。");
 md.push("- 固有名詞の除外リストは`あつぺくと`のみを収録しています。他の固有名詞（作家名・作品名等）でカナ混入が検出された場合は、目視で固有名詞かどうかを判断してください。");
 
 writeFileSync(join(OUT_DIR, "i18n-audit-report.md"), md.join("\n") + "\n", "utf-8");
