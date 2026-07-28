@@ -1,0 +1,130 @@
+{
+  "missingInNonJa": [
+    {
+      "file": "sections/atspect-artwork-detail.liquid",
+      "base": "aw-l",
+      "line": 298,
+      "endLine": 305,
+      "present": [
+        "ja"
+      ],
+      "missingEmpty": [
+        "en",
+        "zh-cn",
+        "zh-tw",
+        "ko",
+        "fr",
+        "es",
+        "de"
+      ],
+      "missingAbsent": []
+    }
+  ],
+  "missingInJa": [],
+  "kanaLeak": [
+    {
+      "file": "sections/atspect-footer.liquid",
+      "base": "footer-l",
+      "lang": "zh-tw",
+      "line": 61,
+      "snippet": "基於特定商業交易法の標示",
+      "allowlistedPartial": false
+    },
+    {
+      "file": "sections/atspect-press-page.liquid",
+      "base": "pl-l",
+      "lang": "zh-cn",
+      "line": 21,
+      "snippet": "あつぺくとは日本美术家及其作品信息的艺术平台。欢迎媒体朋友就作家介绍、采访协助等相关事宜与我们联系。",
+      "allowlistedPartial": true
+    },
+    {
+      "file": "sections/atspect-press-page.liquid",
+      "base": "pl-l",
+      "lang": "zh-tw",
+      "line": 22,
+      "snippet": "あつぺくとは日本藝術家及其作品資訊的藝術平台。歡迎媒體朋友就作家介紹、採訪協助等相關事宜與我們聯繫。",
+      "allowlistedPartial": true
+    }
+  ],
+  "jaOnlyIntentional": [
+    {
+      "file": "sections/atspect-privacy.liquid",
+      "class": "pv-jaonly",
+      "line": 81
+    },
+    {
+      "file": "sections/atspect-privacy.liquid",
+      "class": "pv-jaonly",
+      "line": 147
+    }
+  ],
+  "unknownStructure": [
+    {
+      "file": "sections/atspect-artwork-detail.liquid",
+      "class": "awt-l--latin",
+      "line": 98,
+      "shownFor": "en,zh-cn,zh-tw,ko,fr,es,de"
+    },
+    {
+      "file": "sections/atspect-collection.liquid",
+      "class": "awt-l--latin",
+      "line": 403,
+      "shownFor": "en,zh-cn,zh-tw,ko,fr,es,de"
+    },
+    {
+      "file": "sections/atspect-collection.liquid",
+      "class": "awt-l--latin",
+      "line": 407,
+      "shownFor": "en,zh-cn,zh-tw,ko,fr,es,de"
+    },
+    {
+      "file": "sections/atspect-collector-cta.liquid",
+      "class": "cawt--latin",
+      "line": 62,
+      "shownFor": "en,zh-cn,zh-tw,ko,fr,es,de"
+    },
+    {
+      "file": "sections/atspect-collector-cta.liquid",
+      "class": "cawt--latin",
+      "line": 64,
+      "shownFor": "en,zh-cn,zh-tw,ko,fr,es,de"
+    },
+    {
+      "file": "sections/atspect-search.liquid",
+      "class": "awt-l--latin",
+      "line": 95,
+      "shownFor": "en,zh-cn,zh-tw,ko,fr,es,de"
+    },
+    {
+      "file": "sections/atspect-search.liquid",
+      "class": "awt-l--latin",
+      "line": 98,
+      "shownFor": "en,zh-cn,zh-tw,ko,fr,es,de"
+    },
+    {
+      "file": "sections/atspect-ticker.liquid",
+      "class": "atspect-qb__original",
+      "line": 136,
+      "shownFor": "en,zh-cn,zh-tw,ko,fr,es,de,ja,default"
+    },
+    {
+      "file": "sections/atspect-ticker.liquid",
+      "class": "atspect-qb__original",
+      "line": 136,
+      "shownFor": "en,zh-cn,zh-tw,ko,fr,es,de,ja,default"
+    },
+    {
+      "file": "sections/atspect-ticker.liquid",
+      "class": "atspect-qb__original",
+      "line": 138,
+      "shownFor": "en,zh-cn,zh-tw,ko,fr,es,de,ja,default"
+    },
+    {
+      "file": "sections/atspect-ticker.liquid",
+      "class": "atspect-qb__original",
+      "line": 138,
+      "shownFor": "en,zh-cn,zh-tw,ko,fr,es,de,ja,default"
+    }
+  ]
+}
