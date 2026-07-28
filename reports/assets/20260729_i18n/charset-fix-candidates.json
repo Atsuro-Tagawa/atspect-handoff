@@ -1,0 +1,1032 @@
+[
+  {
+    "file": "sections/atspect-artist-plan.liquid",
+    "line": 29,
+    "base": "ap-l",
+    "lang": "ko",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "8개 언어 프로필 페이지 제작・공개",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artist-plan.liquid",
+    "line": 42,
+    "base": "ap-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "向全球藏家介绍作品・销售支持",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artist-plan.liquid",
+    "line": 43,
+    "base": "ap-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "向全球藏家介紹作品・銷售支援",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artist-plan.liquid",
+    "line": 44,
+    "base": "ap-l",
+    "lang": "ko",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "세계 컬렉터에게 작품 소개・판매 지원",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artist-plan.liquid",
+    "line": 59,
+    "base": "ap-l",
+    "lang": "ko",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "YouTube 다큐멘터리 제작・게재",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artist-plan.liquid",
+    "line": 72,
+    "base": "ap-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "由专属工作人员进行数据管理・更新代理",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artist-plan.liquid",
+    "line": 73,
+    "base": "ap-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "由專屬工作人員進行資料管理・更新代理",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artist-plan.liquid",
+    "line": 74,
+    "base": "ap-l",
+    "lang": "ko",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "전담 스태프에 의한 데이터 관리・업데이트 대행",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artist-plan.liquid",
+    "line": 267,
+    "base": "ap-l",
+    "lang": "ko",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "요금: 월 3,300엔(세금 포함)으로 매월 자동 갱신・결제됩니다(신용카드 등).",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artist-plan.liquid",
+    "line": 276,
+    "base": "ap-l",
+    "lang": "ko",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "해지: 언제든지 신청하실 수 있습니다. 시스템 이용료(월액)는 매월 20일이 마감일입니다. 20일까지 신청하시면 해당 월분까지, 21일 이후에는 다음 달분까지 청구되며 이후 청구는 없습니다. 일할 계산・환불은 하지 않습니다.",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artist-plan.liquid",
+    "line": 277,
+    "base": "ap-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "详细合同条件规定于作家使用条款第8条（费用）、第10条（合同期限・解约）。",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artist-plan.liquid",
+    "line": 277,
+    "base": "ap-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "詳細合約條件規定於作家使用條款第8條（費用）、第10條（合約期限・解約）。",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artist-plan.liquid",
+    "line": 277,
+    "base": "ap-l",
+    "lang": "ko",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 2,
+    "rawSnippet": "자세한 계약 조건은 작가 이용약관 제8조(요금)・제10조(계약 기간・해지)에 정하고 있습니다.",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artwork-detail.liquid",
+    "line": 137,
+    "base": "aw-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "材料・技法",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artwork-detail.liquid",
+    "line": 137,
+    "base": "aw-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "材料・技法",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artwork-detail.liquid",
+    "line": 137,
+    "base": "aw-l",
+    "lang": "ko",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "재료・기법",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artwork-detail.liquid",
+    "line": 145,
+    "base": "aw-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "署名・印章",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artwork-detail.liquid",
+    "line": 145,
+    "base": "aw-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "署名・印章",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artwork-detail.liquid",
+    "line": 145,
+    "base": "aw-l",
+    "lang": "ko",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "서명・낙관",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artwork-detail.liquid",
+    "line": 250,
+    "base": "aw-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "预约・咨询",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artwork-detail.liquid",
+    "line": 251,
+    "base": "aw-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "預約・諮詢",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artwork-detail.liquid",
+    "line": 252,
+    "base": "aw-l",
+    "lang": "ko",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "예약・문의하기",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artwork-detail.liquid",
+    "line": 411,
+    "base": "aw-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "预约・咨询",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artwork-detail.liquid",
+    "line": 412,
+    "base": "aw-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "預約・諮詢",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artwork-detail.liquid",
+    "line": 413,
+    "base": "aw-l",
+    "lang": "ko",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "예약・문의",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artwork-detail.liquid",
+    "line": 527,
+    "base": "aw-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "配送目的地（国家/地区・城市）",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artwork-detail.liquid",
+    "line": 527,
+    "base": "aw-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "配送目的地（國家/地區・城市）",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artwork-detail.liquid",
+    "line": 527,
+    "base": "aw-l",
+    "lang": "ko",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "배송지(국가/지역・도시)",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artwork-detail.liquid",
+    "line": 542,
+    "base": "aw-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "发送预约・咨询",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artwork-detail.liquid",
+    "line": 542,
+    "base": "aw-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "發送預約・諮詢",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artwork-detail.liquid",
+    "line": 542,
+    "base": "aw-l",
+    "lang": "ko",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "예약・문의 보내기",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artwork-detail.liquid",
+    "line": 561,
+    "base": "aw-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "专业包装・全球配送",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artwork-detail.liquid",
+    "line": 562,
+    "base": "aw-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "專業包裝・全球配送",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-artwork-detail.liquid",
+    "line": 563,
+    "base": "aw-l",
+    "lang": "ko",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "전문 포장・전 세계 배송",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-contact.liquid",
+    "line": 78,
+    "base": "ct-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "公司・团体名称",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-contact.liquid",
+    "line": 78,
+    "base": "ct-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "公司・團體名稱",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-contact.liquid",
+    "line": 78,
+    "base": "ct-l",
+    "lang": "ko",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "회사・단체명",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-footer.liquid",
+    "line": 61,
+    "base": "footer-l",
+    "lang": "zh-tw",
+    "type": "ひらがな/カタカナ",
+    "countReported": 1,
+    "rawSnippet": "基於特定商業交易法の標示",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 49,
+    "base": "pv-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "公司名称・团体名称",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 49,
+    "base": "pv-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "公司名稱・團體名稱",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 58,
+    "base": "pv-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "联系方式（电话号码・电子邮箱地址）",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 58,
+    "base": "pv-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "聯絡方式（電話號碼・電子郵件地址）",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 61,
+    "base": "pv-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "下单・购买记录",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 61,
+    "base": "pv-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "訂購・購買紀錄",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 65,
+    "base": "pv-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 2,
+    "rawSnippet": "姓名・假名读法・雅号",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 65,
+    "base": "pv-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 2,
+    "rawSnippet": "姓名・讀音・雅號",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 65,
+    "base": "pv-l",
+    "lang": "ko",
+    "type": "漢字(CJK統合漢字)",
+    "countReported": 1,
+    "rawSnippet": "성명·읽는 법·아호(雅號)",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 66,
+    "base": "pv-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "出生年月日（用于年龄确认・身份确认）",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 66,
+    "base": "pv-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "出生年月日（為確認年齡・本人身分）",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 68,
+    "base": "pv-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 3,
+    "rawSnippet": "出身地・国籍・居住国・地址",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 68,
+    "base": "pv-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 3,
+    "rawSnippet": "出身・國籍・居住國・地址",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 69,
+    "base": "pv-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "电话号码・电子邮箱地址",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 69,
+    "base": "pv-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "電話號碼・電子郵件地址",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 70,
+    "base": "pv-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 4,
+    "rawSnippet": "活动经历・发表经历・获奖经历・作品相关信息・作品集等",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 70,
+    "base": "pv-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 4,
+    "rawSnippet": "活動經歷・發表經歷・獲獎經歷・作品相關資訊・作品集等",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 71,
+    "base": "pv-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "所提供的图像（面部照片（肖像）・作品图像等）",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 71,
+    "base": "pv-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "所提供的影像（臉部照片（肖像）・作品影像等）",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 72,
+    "base": "pv-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 3,
+    "rawSnippet": "通过代理人・支援者・法人／事务所申请的情形下，该代理人・法人的名称、负责人姓名、联系方式，以及与艺术家本人的关系",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 72,
+    "base": "pv-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 3,
+    "rawSnippet": "由代理人・支援者・法人／事務所提出申請時，該代理人・法人的名稱、承辦人姓名、聯絡方式，以及與藝術家本人的關係",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 77,
+    "base": "pv-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "Cookie、访问日志、IP地址、所使用的终端・浏览器相关信息等",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 77,
+    "base": "pv-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "Cookie、存取紀錄、IP位址、所使用之裝置・瀏覽器相關資訊等",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 88,
+    "base": "pv-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "用于回复・联络咨询，以及提供本公司服务的相关介绍",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 88,
+    "base": "pv-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "為回覆・聯絡諮詢，以及提供本公司服務相關之資訊",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 90,
+    "base": "pv-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "用于受理・审核艺术家注册及进行联络",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 90,
+    "base": "pv-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "為受理・審查藝術家登錄並進行聯絡",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 91,
+    "base": "pv-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "用于创建、编辑、登载艺术家简介・作品信息，以及以多语言进行发布",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 91,
+    "base": "pv-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "為製作、編輯、刊載藝術家簡介・作品資訊，並以多語言發布",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 92,
+    "base": "pv-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 4,
+    "rawSnippet": "在网站・媒体的编辑・制作（多语言翻译、图像修正・加工、介绍文・介绍视频的制作等）中运用AI工具",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 92,
+    "base": "pv-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 4,
+    "rawSnippet": "於網站・媒體的編輯・製作（多語言翻譯、影像的修正・加工、介紹文・介紹影片的製作等）中運用AI工具",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 93,
+    "base": "pv-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "用于将面部照片（肖像）及作品图像登载于网站・媒体，并向国内外进行介绍",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 93,
+    "base": "pv-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "為將臉部照片（肖像）及作品影像刊載於網站・媒體，並向國內外進行介紹",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 94,
+    "base": "pv-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 3,
+    "rawSnippet": "用于销售款项的汇付、收据・发票・付款明细的开具及其他会计・税务上的手续",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 94,
+    "base": "pv-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 3,
+    "rawSnippet": "為銷售款項的匯款、收據・請款書・付款明細的開立及其他會計・稅務上的手續",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 95,
+    "base": "pv-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "用于身份确认・年龄确认以及防止不正当使用",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 95,
+    "base": "pv-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "為確認本人身分・年齡及防止不正當使用",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 96,
+    "base": "pv-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "用于防止垃圾邮件・非法访问及其他服务的安全运营",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 96,
+    "base": "pv-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "為防止垃圾郵件・不正當存取及其他服務的安全營運",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 118,
+    "base": "pv-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 2,
+    "rawSnippet": "本公司可能在实现使用目的所必需的范围内，将个人信息的处理委托给外部。受托方包括配送公司、支付代理公司，以及网站・媒体制作业务（多语言翻译、图像编辑、介绍文・介绍视频的制作等，包括其中使用AI工具的情形）的受托方等。在此情形下，本公司将适当地选定受托方，并进行必要且适当的监督。",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 118,
+    "base": "pv-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 2,
+    "rawSnippet": "本公司可能於達成使用目的所需範圍內，將個人資訊的處理委託予外部。受託方包含配送業者、付款代理公司，以及網站・媒體的製作業務（多語言翻譯、影像編輯、介紹文・介紹影片的製作等，包含於其中運用AI工具的情形）的受託方等。於此情形下，本公司將適當地選定受託方，並進行必要且適當的監督。",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 132,
+    "base": "pv-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "本公司仅在实现使用目的所必需的期间，以及相关法令（税务・公司法等）所规定的强制保存期间内保有所收集的个人信息，之后将不迟延地予以删除或匿名化。身份确认所需信息，在达成确认目的后，不会超出必要范围予以保有。",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 132,
+    "base": "pv-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "本公司僅於達成使用目的所需期間，以及相關法令（稅務・公司法等）規定有保存義務的期間內，保有所收集的個人資訊，其後將立即予以刪除或匿名化。本人身分確認用資訊於達成確認目的後，不會超出必要範圍保有。",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 146,
+    "base": "pv-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "当发生个人信息泄露、灭失、毁损或其他事态，或本公司知悉其风险时，本公司将依照法令进行必要的调查・应对，并适当地向相关机构报告及向本人通知等。",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 146,
+    "base": "pv-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "當發生個人資訊洩漏、滅失、毀損或其他事態，或本公司知悉其風險時，本公司將依照法令進行必要的調查・應對，並適當地向相關機構報告及向本人通知等。",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 146,
+    "base": "pv-l",
+    "lang": "ko",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "당사는 개인정보의 유출, 멸실, 훼손 그 밖의 사태가 발생하거나 그 우려를 파악한 경우, 법령에 따라 필요한 조사・대응을 실시하고, 관계 기관에 대한 보고 및 본인에 대한 통지 등을 적절히 실시합니다.",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-privacy.liquid",
+    "line": 153,
+    "base": "pv-l",
+    "lang": "ko",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "당 사이트 및 서비스에서는 편의성 향상이나 서비스 개선을 위해 쿠키 및 접속 분석 도구(Google Analytics 등)를 사용하는 경우가 있습니다. 이러한 도구는 개인을 직접 특정하는 정보를 포함하지 않는 형태로 데이터를 수집합니다. 브라우저 설정을 통해 쿠키를 비활성화할 수 있습니다. 또한 당사 기업 사이트(atspect.co.jp)의 문의 양식에서는 스팸 및 부정 송신을 방지하기 위해 Google LLC가 제공하는 「reCAPTCHA」를 이용합니다. reCAPTCHA는 이용자의 IP 주소 및 조작・단말기에 관한 정보를 자동으",
+    "truncated": true
+  },
+  {
+    "file": "sections/atspect-tokushoho.liquid",
+    "line": 28,
+    "base": "tok-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "销售主体・交易当事人",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-tokushoho.liquid",
+    "line": 28,
+    "base": "tok-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "銷售主體・交易當事人",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-tokushoho.liquid",
+    "line": 28,
+    "base": "tok-l",
+    "lang": "ko",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "판매 주체・거래 당사자",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-tokushoho.liquid",
+    "line": 34,
+    "base": "tok-l",
+    "lang": "ko",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 2,
+    "rawSnippet": "본 사이트 『あつぺくと(ATSPECT)』의 작품 매매 계약은 주식회사 ARTS RESPECT(판매업자)와 구매자 사이에 성립합니다. 주문 접수, 판매 가격의 결정・표시, 대금의 청구 및 수령, 작품의 발송, 반품・교환 및 그 밖의 모든 고객 대응은 모두 주식회사 ARTS RESPECT가 판매자로서 수행합니다. 출품 작가는 주식회사 ARTS RESPECT에 작품의 판매를 위탁하고 있으며, 구매자와 출품 작가 사이에 직접적인 매매 계약 관계는 발생하지 않습니다.",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-tokushoho.liquid",
+    "line": 43,
+    "base": "tok-l",
+    "lang": "ko",
+    "type": "漢字(CJK統合漢字)",
+    "countReported": 2,
+    "rawSnippet": "Atsuro Tagawa（田川 篤郎）",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-tokushoho.liquid",
+    "line": 57,
+    "base": "tok-l",
+    "lang": "ko",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "접수 시간: 평일 10:00〜18:00(주말・공휴일 제외)",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-tokushoho.liquid",
+    "line": 98,
+    "base": "tok-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "配送费用（含包装、运输及运输保险费。由购买者承担）。<br>美术品的安全运输离不开专用包装，因此我们不将包装、运输、运输保险的费用分开，而是作为一项\"配送费用\"统一报价。费用随作品的尺寸、重量、作品价格、配送方式及配送目的地（无论国内外，均因地区而异）而变动。在您提交临时申请后、订单成立前，本公司将估算金额并向您说明，经您同意后另行请款（如您不同意报价，可以取消）。配送及运输保险由本公司安排。<br>【配送费用的大致金额（截至2026年7月）】<br>■ 日本国内配送（含税。为自东京向东京都内及大阪发货时、含包装与运输的服务的公开运费示例。视送达地区不同，费用可能高于该示例）<br>・小型作品",
+    "truncated": true
+  },
+  {
+    "file": "sections/atspect-tokushoho.liquid",
+    "line": 99,
+    "base": "tok-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "配送費用（含包裝、運輸及運輸保險費。由購買者負擔）。<br>美術品的安全運輸離不開專用包裝，因此我們不將包裝、運輸、運輸保險的費用分開，而是作為一項「配送費用」統一報價。費用隨作品的尺寸、重量、作品價格、配送方式及配送目的地（無論國內外，均因地區而異）而變動。在您提交臨時申請後、訂單成立前，本公司將估算金額並向您說明，經您同意後另行請款（如您不同意報價，可以取消）。配送及運輸保險由本公司安排。<br>【配送費用的大致金額（截至2026年7月）】<br>■ 日本國內配送（含稅。為自東京向東京都內及大阪發貨時、含包裝與運輸的服務的公開運費示例。視送達地區不同，費用可能高於該示例）<br>・小型作品",
+    "truncated": true
+  },
+  {
+    "file": "sections/atspect-tokushoho.liquid",
+    "line": 122,
+    "base": "tok-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "本服务采用预约・咨询制。自作品页面提出申请（临时申请）时，不会产生授权（预扣）及请求。申请后，本公司确认库存、作家的可售与否以及配送费用（含包装、运输及运输保险费），并告知应付总额（原则上最迟两个工作日内）。经您同意总额后，本公司发送付款通知（请求）。您的付款完成时，订单即告成立。万一无法提供作品，则不产生请求，申请将被取消。",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-tokushoho.liquid",
+    "line": 123,
+    "base": "tok-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "本服務採用預約・諮詢制。自作品頁面提出申請（臨時申請）時，不會產生授權（預扣）及請求。申請後，本公司確認庫存、作家的可售與否以及配送費用（含包裝、運輸及運輸保險費），並告知應付總額（原則上最遲兩個工作日內）。經您同意總額後，本公司發送付款通知（請求）。您的付款完成時，訂單即告成立。萬一無法提供作品，則不產生請求，申請將被取消。",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-tokushoho.liquid",
+    "line": 124,
+    "base": "tok-l",
+    "lang": "ko",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 2,
+    "rawSnippet": "본 서비스는 예약・문의제입니다. 작품 페이지에서의 신청(임시 신청) 시점에는 승인(임시 보류) 및 청구가 발생하지 않습니다. 신청 후 당사가 재고・작가에 대한 판매 가부 및 배송 비용(포장·운송·운송보험료 포함)을 확인하여 결제 총액을 안내드립니다(원칙적으로 최대 2영업일 이내). 고객님께서 총액에 동의하신 후 당사가 결제 안내(청구)를 보내드립니다. 고객님의 결제가 완료된 시점에 주문이 확정됩니다. 만일 작품을 준비할 수 없는 경우에는 청구가 발생하지 않으며 신청은 취소됩니다.",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-tokushoho.liquid",
+    "line": 138,
+    "base": "tok-l",
+    "lang": "ko",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "주문 후 작가에게 수배, 전문 업체에 의한 인수, 당사의 확인(상태 확인 등), 포장을 거쳐 구매자에게 발송합니다. 작품을 한 점 한 점 확인한 후 배송하므로 배송까지 일정 기간이 소요됩니다.<br>국내 배송은 결제 확정 후 대략 10일에서 2주 정도의 발송을 기준으로 합니다. 다만 작품의 소재, 작가・배송 업체의 사정, 당사의 확인, 포장 방법, 배송지의 상황 등에 따라 이를 초과할 수 있습니다.<br>해외 배송은 지역에 따라 소요 기간이 다르므로 별도로 상담 후 안내드립니다.<br>구체적인 발송 예정 시기는 주문 후 개별적으로 ",
+    "truncated": true
+  },
+  {
+    "file": "sections/atspect-tokushoho.liquid",
+    "line": 146,
+    "base": "tok-l",
+    "lang": "ko",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "반품・교환",
+    "truncated": false
+  },
+  {
+    "file": "sections/atspect-tokushoho.liquid",
+    "line": 152,
+    "base": "tok-l",
+    "lang": "ko",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "작품은 한 점씩 취급하므로 고객님의 단순 변심에 의한 반품・교환은 원칙적으로 받지 않습니다. 결제 확정 전 취소는 가능합니다. 만일 운송 중 손상 등 작품에 문제가 있는 경우에는 상품 도착 후 신속히(도착 후 3일 이내를 기준으로) 사진을 첨부하여 연락 주십시오. 당사가 수배하는 운송 보험에 근거하여 판매자인 당사가 적절히 대응합니다. 작품에 문제가 있는 경우의 반품에서는 작품 대금, 구매자가 부담한 배송 비용(포장·운송·운송보험료 포함), 그리고 반송에 드는 비용 전부를 당사가 환불 또는 부담하여 구매자에게 금전적 부담이 남지 않",
+    "truncated": true
+  },
+  {
+    "file": "sections/main-cart-footer.liquid",
+    "line": 112,
+    "base": "atspect-cart-l",
+    "lang": "ko",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "표시 합계는 작품 본체 가격입니다. 배송료・운송 보험료, 해외 배송 시 관세 등은 별도이며 구매자 부담입니다(주문 후 견적을 안내드리며, 승인 후 별도로 청구됩니다).",
+    "truncated": false
+  },
+  {
+    "file": "sections/main-cart-footer.liquid",
+    "line": 157,
+    "base": "atspect-cart-l",
+    "lang": "zh-cn",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "作品的购藏采用预约・前金制。从作品页面预约后，我们将告知含运费及运输保险费的总额，并发送付款链接。",
+    "truncated": false
+  },
+  {
+    "file": "sections/main-cart-footer.liquid",
+    "line": 158,
+    "base": "atspect-cart-l",
+    "lang": "zh-tw",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 1,
+    "rawSnippet": "作品的購藏採用預約・前金制。從作品頁面預約後，我們將告知含運費及運輸保險費的總額，並發送付款連結。",
+    "truncated": false
+  },
+  {
+    "file": "sections/main-cart-footer.liquid",
+    "line": 159,
+    "base": "atspect-cart-l",
+    "lang": "ko",
+    "type": "日本語の中黒(U+30FB)",
+    "countReported": 2,
+    "rawSnippet": "작품 구매는 예약・선불제입니다. 작품 페이지에서 예약하시면 배송료・운송 보험료를 포함한 총액을 안내드리고 결제 링크를 보내드립니다.",
+    "truncated": false
+  }
+]
