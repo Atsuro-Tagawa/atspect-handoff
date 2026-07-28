@@ -1,0 +1,100 @@
+[
+  {
+    "id": "PVLEGAL-01",
+    "source": "corp側privacy.html 7言語通読・法的意味点検A8件との横断確認(2026-07-29)",
+    "file": "sections/atspect-privacy.liquid",
+    "search": "the corporations / offices to which they belong",
+    "replace": "persons at the corporations / offices to which they belong"
+  },
+  {
+    "id": "PVLEGAL-02",
+    "source": "corp側privacy.html 7言語通読・法的意味点検A8件との横断確認(2026-07-29)",
+    "file": "sections/atspect-privacy.liquid",
+    "search": "les personnes morales / agences dont ils relèvent.",
+    "replace": "les personnes appartenant aux personnes morales / agences dont elles relèvent."
+  },
+  {
+    "id": "PVLEGAL-03",
+    "source": "corp側privacy.html 7言語通読・法的意味点検A8件との横断確認(2026-07-29)",
+    "file": "sections/atspect-privacy.liquid",
+    "search": "die Gesellschaften bzw. Agenturen, denen sie angehören.",
+    "replace": "die Personen bei den Gesellschaften bzw. Agenturen, denen sie angehören."
+  },
+  {
+    "id": "PVLEGAL-04",
+    "source": "corp側privacy.html 7言語通読・法的意味点検A8件との横断確認(2026-07-29)",
+    "file": "sections/atspect-privacy.liquid",
+    "search": "Where required by law",
+    "replace": "Where based on laws and regulations"
+  },
+  {
+    "id": "PVLEGAL-05",
+    "source": "corp側privacy.html 7言語通読・法的意味点検A8件との横断確認(2026-07-29)",
+    "file": "sections/atspect-privacy.liquid",
+    "search": "lorsque la loi l'exige&nbsp;;",
+    "replace": "lorsque cela est fondé sur les lois et règlements&nbsp;;"
+  },
+  {
+    "id": "PVLEGAL-06",
+    "source": "corp側privacy.html 7言語通読・法的意味点検A8件との横断確認(2026-07-29)",
+    "file": "sections/atspect-privacy.liquid",
+    "search": "wenn dies aufgrund von Rechtsvorschriften erforderlich ist;",
+    "replace": "wenn dies auf Rechtsvorschriften beruht;"
+  },
+  {
+    "id": "PVLEGAL-07",
+    "source": "corp側privacy.html 7言語通読・法的意味点検A8件との横断確認(2026-07-29)",
+    "file": "sections/atspect-privacy.liquid",
+    "search": "Cuando así lo exija la legislación.",
+    "replace": "Cuando ello se base en la legislación."
+  },
+  {
+    "id": "PVLEGAL-08",
+    "source": "corp側privacy.html 7言語通読・法的意味点検A8件との横断確認(2026-07-29)",
+    "file": "sections/atspect-privacy.liquid",
+    "search": "in connection with the outsourcing described in the preceding section",
+    "replace": "in connection with the outsourcing or similar arrangements described in the preceding section"
+  },
+  {
+    "id": "PVLEGAL-09",
+    "source": "corp側privacy.html 7言語通読・法的意味点検A8件との横断確認(2026-07-29)",
+    "file": "sections/atspect-privacy.liquid",
+    "search": "dans le cadre de la sous-traitance visée à l'article précédent",
+    "replace": "dans le cadre de la sous-traitance ou d'accords similaires visés à l'article précédent"
+  },
+  {
+    "id": "PVLEGAL-10",
+    "source": "corp側privacy.html 7言語通読・法的意味点検A8件との横断確認(2026-07-29)",
+    "file": "sections/atspect-privacy.liquid",
+    "search": "im Rahmen der vorgenannten Auftragsverarbeitung nutzen",
+    "replace": "im Rahmen der vorgenannten Auftragsverarbeitung oder ähnlicher Vereinbarungen nutzen"
+  },
+  {
+    "id": "PVLEGAL-11",
+    "source": "corp側privacy.html 7言語通読・法的意味点検A8件との横断確認(2026-07-29)",
+    "file": "sections/atspect-privacy.liquid",
+    "search": "en los encargos mencionados en el apartado anterior",
+    "replace": "en los encargos o acuerdos similares mencionados en el apartado anterior"
+  },
+  {
+    "id": "PVLEGAL-12",
+    "source": "corp側privacy.html 7言語通読・法的意味点検A8件との横断確認(2026-07-29)",
+    "file": "sections/atspect-privacy.liquid",
+    "search": "suspension of use, or suspension of provision to third parties of your own personal information held by the Company.",
+    "replace": "suspension of use, suspension of provision to third parties, or other similar measures regarding your own personal information held by the Company."
+  },
+  {
+    "id": "PVLEGAL-13",
+    "source": "corp側privacy.html 7言語通読・法的意味点検A8件との横断確認(2026-07-29)",
+    "file": "sections/atspect-privacy.liquid",
+    "search": "la cessation d'utilisation ou la cessation de communication à des tiers des données personnelles vous concernant que la Société détient.",
+    "replace": "la cessation d'utilisation, la cessation de communication à des tiers, ou toute autre mesure similaire concernant les données personnelles vous concernant que la Société détient."
+  },
+  {
+    "id": "PVLEGAL-14",
+    "source": "corp側privacy.html 7言語通読・法的意味点検A8件との横断確認(2026-07-29)",
+    "file": "sections/atspect-privacy.liquid",
+    "search": "Einschränkung der Nutzung oder die Einstellung der Weitergabe an Dritte verlangen.",
+    "replace": "die Einstellung der Nutzung, der Weitergabe an Dritte oder sonstige entsprechende Maßnahmen bezüglich Ihrer personenbezogenen Daten verlangen."
+  }
+]
