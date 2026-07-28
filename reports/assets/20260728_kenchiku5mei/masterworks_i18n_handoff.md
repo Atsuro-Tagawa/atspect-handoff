@@ -9,7 +9,7 @@
 
 ## 進捗
 - [x] 丹下健三：Codex独立レビュー完了・「本館」欠落を発見し8言語で是正
-- [ ] 清家清
+- [x] 清家清：Codex独立レビュー完了・「登録有形文化財」の年号表記を是正
 - [ ] 磯崎新
 - [ ] 槇文彦
 - [ ] 内田祥三
@@ -35,4 +35,25 @@
 }
 ```
 
-<!-- created: 2026-07-28 by terminal=あつぺくとリサーチ model=Sonnet 5 work=建築5名masterworks再検証・是正・制作T引き渡し（進捗:丹下健三のみ完了） -->
+## 清家清（完了）
+
+**是正**：「登録有形文化財2017年指定」は法令上の誤り。文化財保護法上、重要文化財は「指定」、登録有形文化財は「登録」と動詞が異なる（出典＝文化庁公式「文化財の種類，指定・選定・登録」）。8言語すべてで「指定」→「登録」に修正。「(Watashi no Ie)」の音訳併記はCodexが削除提案したが、原題の参照性を高める目的で意図的に残す判断とした（原文にない事実の追加ではないため）。
+
+```json
+{
+  "清家清": {
+    "masterworks": {
+      "ja": "私の家（東京都大田区・1954年竣工・現存・登録有形文化財2017年登録）、九州工業大学記念講堂（福岡県北九州市・1960年竣工・現存）",
+      "en": "\"My House\" (Watashi no Ie) (Tokyo, Ota Ward; completed 1954; extant; Registered Tangible Cultural Property, registered 2017), Kyushu Institute of Technology Memorial Auditorium (Kitakyushu, Fukuoka Prefecture; completed 1960; extant)",
+      "zh_cn": "\"我的家\"（Watashi no Ie）（东京都大田区·1954年竣工·现存·登记有形文化财2017年登记）、九州工业大学纪念讲堂（福冈县北九州市·1960年竣工·现存）",
+      "zh_tw": "「我的家」（Watashi no Ie）（東京都大田區·1954年竣工·現存·登錄有形文化財2017年登錄）、九州工業大學紀念講堂（福岡縣北九州市·1960年竣工·現存）",
+      "ko": "'나의 집'(Watashi no Ie)(도쿄도 오타구·1954년 준공·현존·등록유형문화재 2017년 등록), 규슈공업대학 기념강당(후쿠오카현 기타큐슈시·1960년 준공·현존)",
+      "fr": "« Ma maison » (Watashi no Ie) (Tokyo, arrondissement d'Ota; achevée en 1954; existante; bien culturel tangible enregistré en 2017), auditorium commémoratif de l'Institut de technologie de Kyushu (Kitakyushu, préfecture de Fukuoka; achevé en 1960; existant)",
+      "es": "«Mi casa» (Watashi no Ie) (Tokio, distrito de Ota; terminada en 1954; existente; Bien Cultural Tangible Registrado en 2017), auditorio conmemorativo del Instituto de Tecnología de Kyushu (Kitakyushu, prefectura de Fukuoka; terminado en 1960; existente)",
+      "de": "„Mein Haus\" (Watashi no Ie) (Tokio, Bezirk Ota; fertiggestellt 1954; erhalten; registriertes materielles Kulturgut, eingetragen 2017), Gedenkauditorium des Kyushu Institute of Technology (Kitakyushu, Präfektur Fukuoka; fertiggestellt 1960; erhalten)"
+    }
+  }
+}
+```
+
+<!-- created: 2026-07-28 by terminal=あつぺくとリサーチ model=Sonnet 5 work=建築5名masterworks再検証・是正・制作T引き渡し（進捗:丹下健三・清家清完了） -->
