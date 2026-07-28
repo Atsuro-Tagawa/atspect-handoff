@@ -9,7 +9,7 @@
 ## 進捗
 - [x] 今井兼次：Codexレビューで是正（学歴の正式名称精緻化・會津八一記念博物館の開館年精緻化・大隈重信記念館の竣工年が本文から欠落していたため追加）
 - [x] 黒川紀章：★2026-07-25の「出身地は名古屋市で確定」を撤回・資料間相違を明記。序列語「主要メンバー」を削除。受賞対象の作品名を明記。
-- [ ] 篠原一男
+- [x] 篠原一男：Codexレビューで是正（白の家の所在地「中野区」→「杉並区」に訂正・masterworks_textの「現存」を削除・百年記念館の「文化財指定なし」を「未確認」に訂正）。★他の9名より一次資料での確認が弱く「確認できず」表記を多用。
 - [ ] 東孝光
 - [ ] 土浦亀城
 
@@ -92,3 +92,42 @@ es_viewpoint: Un arquitecto que, como miembro del movimiento Metabolismo, defend
 
 de_bio: Geboren in der Präfektur Aichi (zu seinem Geburtsort geben das Tokioter Nationale Forschungsinstitut für Kulturgüter und das Kunstmuseum der Stadt Nagoya „Stadt Nagoya" an, während die Art Platform Japan der Agentur für kulturelle Angelegenheiten und die offizielle Website seines Architekturbüros „Kanie, Bezirk Ama, Präfektur Aichi" angeben; dieser Punkt ist durch Primärquellen nicht geklärt). Er schloss 1953 die Tokai-Oberschule und 1957 die Architekturabteilung der Ingenieurfakultät der Universität Kyoto ab. Er trat in die Graduiertenschule der Universität Tokio ein, wo er dem Labor von Kenzo Tange angehörte, und verließ das Promotionsprogramm 1964 nach Erwerb der erforderlichen Leistungsnachweise. 1962 gründete er Kisho Kurokawa Architect & Associates. Er war als Mitglied der Metabolismus-Gruppe aktiv, die anlässlich der Weltdesignkonferenz 1960 gegründet wurde. Er entwarf unter anderem den Nakagin-Kapselturm (Bezirk Chuo, Tokio; fertiggestellt 1972, abgerissen 2022), das Nationale Ethnologische Museum (Suita, Präfektur Osaka; eröffnet 1977) und das Rathaus von Sagae (Sagae, Präfektur Yamagata; fertiggestellt 1967). 1990 erhielt er den Preis des Architekturinstituts von Japan für das Museum für zeitgenössische Kunst Hiroshima, 1992 den Preis der Japanischen Kunstakademie für das Fotomuseum Nara, wurde 1998 Mitglied der Japanischen Kunstakademie und 2006 Person of Cultural Merit. Er starb 2007 im Alter von 73 Jahren.
 de_viewpoint: Ein Architekt, der als Mitglied der Metabolismus-Bewegung die Vorstellung von Architektur nicht als etwas Festes, sondern als etwas Wachsendes und sich Erneuerndes vertrat. Der Nakagin-Kapselturm ist bekannt als experimenteller Wohnkomplex, bei dem einzelne Kapseln als abnehmbare Wohneinheiten konzipiert wurden.
+
+---
+
+## 篠原一男（1925-2006）
+
+**Codex是正**：①「白の家」の所在地は資料相違ではなく「東京都杉並区」が正しいとDOCOMOMO Japan公式・専門出版資料で確認（中野区説の記載は誤り・削除）。②masterworks_textの東京工業大学百年記念館「現存」表記は削除（現況の直接確認が今回できていないため）。③同館の「文化財指定なし」は過大な断定＝2013年登録の同キャンパス3件（本館・西1号館・70周年記念講堂）に含まれないことは確認できるが、地方指定等の不存在までは証明できないため「文化財指定は未確認」に統一。④上原通りの住宅の所在地「渋谷区」は一次資料で確認できず、区名を落として「東京都」にとどめた。⑤bio_jaの学歴（東北大学在籍の有無）は資料間で見解が分かれるため、東京物理学校→東京工業大学の確実な経歴のみに絞った。⑥受賞の対象作品名を明記（1972年＝「未完の家以後の一連の作品」）。★他の9名と比べ、出身地の市区町村・作品所在地の確定度が低く、慎重な表記を維持している。
+
+**bio_ja**：静岡県の生まれ（出身地の市区町村は一次資料で確認できず、未確認）。1947年に東京物理学校数学科を卒業し、1950年に東京工業大学建築学科へ学士入学、1953年に卒業した。在学中、清家清に師事した。同大学の助手を経て1962年に助教授、1970年に教授となり、1986年に定年退官した。1967年に『日本建築の空間構成の研究』で工学博士の学位を取得した。白の家（東京都杉並区、1966年竣工、2008年移築）、上原通りの住宅（1976年竣工）、東京工業大学百年記念館（東京都目黒区、1987年竣工）などを設計した。1972年に「未完の家以後の一連の作品」で日本建築学会賞、2005年に日本建築学会大賞を受賞した。2006年、81歳で没した。
+
+**viewpoint_ja**：清家清に学び、東京工業大学で長く教育にあたった建築家。住宅の設計を通じて、日本の伝統的な空間の要素を独自の形で現代建築に取り入れる試みを重ねた。
+
+**masterworks_text**：白の家（東京都杉並区・1966年竣工・2008年移築・文化財指定は未確認）、上原通りの住宅（東京都・1976年竣工・文化財指定は未確認）、東京工業大学百年記念館（東京都目黒区・1987年竣工・文化財指定は未確認）
+
+**collection_places**：文化財指定・登録は確認できず。専用の記念館・アーカイブは未確認。
+
+**groups**：大学：東京工業大学助手→助教授(1962年)→教授(1970年)、定年退官(1986年)／建築運動：なし（確認できず）／日本建築学会賞(1972年)・日本建築学会大賞(2005年)受賞
+
+**8言語訳（bio／viewpoint）**：
+
+en_bio: Born in Shizuoka Prefecture (the specific municipality could not be confirmed through primary sources). He graduated from the Department of Mathematics, Tokyo College of Physics, in 1947, entered the Department of Architecture at Tokyo Institute of Technology in 1950 as an undergraduate transfer student, and graduated in 1953. During his studies he studied under Seike Kiyoshi. He served as an assistant at the university, becoming an associate professor in 1962 and a full professor in 1970, and retired in 1986. In 1967 he received a doctorate in engineering for his research "A Study of the Spatial Composition of Japanese Architecture." He designed the House in White (Suginami Ward, Tokyo; completed 1966, relocated 2008), the House in Uehara (completed 1976), and the Tokyo Institute of Technology Centennial Hall (Meguro Ward, Tokyo; completed 1987), among others. In 1972 he received the Architectural Institute of Japan Prize for "a series of works following The Unfinished House," and the Architectural Institute of Japan Grand Prize in 2005. He died in 2006 at the age of 81.
+en_viewpoint: An architect who studied under Seike Kiyoshi and taught for many years at Tokyo Institute of Technology. Through his residential designs, he repeatedly attempted to bring elements of traditional Japanese space into contemporary architecture in his own distinctive form.
+
+zh_cn_bio: 生于静冈县（具体市区町村一次资料未能确认）。1947年毕业于东京物理学校数学科，1950年转入东京工业大学建筑学科，1953年毕业。在学期间师从清家清。历任该大学助手，1962年任副教授，1970年任教授，1986年退休。1967年凭研究《日本建筑空间构成之研究》获工学博士学位。设计了白之家（东京都杉并区，1966年竣工，2008年迁建）、上原通住宅（1976年竣工）、东京工业大学百年纪念馆（东京都目黑区，1987年竣工）等建筑。1972年凭"未完之家以后的一系列作品"获日本建筑学会奖，2005年获日本建筑学会大奖。2006年以81岁去世。
+zh_cn_viewpoint: 师从清家清、长期在东京工业大学任教的建筑师。通过住宅设计，反复尝试以独特的形式将日本传统空间要素融入现代建筑。
+
+zh_tw_bio: 生於靜岡縣（具體市區町村一次資料未能確認）。1947年畢業於東京物理學校數學科，1950年轉入東京工業大學建築學科，1953年畢業。在學期間師從清家清。歷任該大學助手，1962年任副教授，1970年任教授，1986年退休。1967年憑研究《日本建築空間構成之研究》獲工學博士學位。設計了白之家（東京都杉並區，1966年竣工，2008年遷建）、上原通住宅（1976年竣工）、東京工業大學百年紀念館（東京都目黑區，1987年竣工）等建築。1972年憑「未完之家以後的一系列作品」獲日本建築學會獎，2005年獲日本建築學會大獎。2006年以81歲去世。
+zh_tw_viewpoint: 師從清家清、長期在東京工業大學任教的建築師。透過住宅設計，反覆嘗試以獨特的形式將日本傳統空間要素融入現代建築。
+
+ko_bio: 시즈오카현 출신(구체적인 시구정촌은 1차 자료로 확인할 수 없어 미확인). 1947년 도쿄물리학교 수학과를 졸업하고, 1950년 도쿄공업대학 건축학과에 학사 편입하여 1953년 졸업했다. 재학 중 세이케 기요시에게 사사했다. 동 대학 조수를 거쳐 1962년 조교수, 1970년 교수가 되었고, 1986년 정년퇴임했다. 1967년 「일본건축의 공간구성에 관한 연구」로 공학박사 학위를 취득했다. 백색의 집(도쿄도 스기나미구, 1966년 준공, 2008년 이축), 우에하라도리 주택(1976년 준공), 도쿄공업대학 백주년기념관(도쿄도 메구로구, 1987년 준공) 등을 설계했다. 1972년 "미완의 집 이후의 일련의 작품"으로 일본건축학회상을, 2005년 일본건축학회대상을 받았다. 2006년 81세로 별세했다.
+ko_viewpoint: 세이케 기요시에게 배우고, 도쿄공업대학에서 오랫동안 교육을 담당한 건축가. 주택 설계를 통해 일본의 전통적인 공간 요소를 독자적인 형태로 현대건축에 도입하는 시도를 거듭했다.
+
+fr_bio: Né dans la préfecture de Shizuoka (la municipalité précise n'a pas pu être confirmée par des sources primaires). Diplômé du département de mathématiques du Collège de physique de Tokyo en 1947, il intègre en 1950 le département d'architecture de l'Institut de technologie de Tokyo, dont il sort diplômé en 1953. Pendant ses études, il étudie auprès de Seike Kiyoshi. Il devient assistant à l'université, puis professeur associé en 1962 et professeur titulaire en 1970, avant de prendre sa retraite en 1986. En 1967, il obtient un doctorat en ingénierie pour ses recherches « Étude sur la composition spatiale de l'architecture japonaise ». Il conçoit notamment la Maison blanche (arrondissement de Suginami, Tokyo ; achevée en 1966, déplacée en 2008), la Maison d'Uehara-dori (achevée en 1976), et le Hall du centenaire de l'Institut de technologie de Tokyo (arrondissement de Meguro, Tokyo ; achevé en 1987). En 1972, il reçoit le prix de l'Institut d'architecture du Japon pour « une série d'œuvres suivant La Maison inachevée », puis le grand prix de l'Institut d'architecture du Japon en 2005. Il meurt en 2006 à l'âge de 81 ans.
+fr_viewpoint: Un architecte qui a étudié auprès de Seike Kiyoshi et a longtemps enseigné à l'Institut de technologie de Tokyo. À travers ses conceptions résidentielles, il a répété la tentative d'intégrer des éléments de l'espace traditionnel japonais dans l'architecture contemporaine sous une forme qui lui était propre.
+
+es_bio: Nacido en la prefectura de Shizuoka (el municipio exacto no pudo confirmarse mediante fuentes primarias). Se graduó en el Departamento de Matemáticas del Colegio de Física de Tokio en 1947, ingresó en 1950 en el Departamento de Arquitectura del Instituto de Tecnología de Tokio y se graduó en 1953. Durante sus estudios, aprendió con Seike Kiyoshi. Fue asistente en la universidad, se convirtió en profesor adjunto en 1962 y en catedrático en 1970, y se jubiló en 1986. En 1967 obtuvo un doctorado en ingeniería por su investigación «Estudio sobre la composición espacial de la arquitectura japonesa». Diseñó, entre otras obras, la Casa Blanca (distrito de Suginami, Tokio; terminada en 1966, trasladada en 2008), la Casa de Uehara-dori (terminada en 1976) y el Salón del Centenario del Instituto de Tecnología de Tokio (distrito de Meguro, Tokio; terminado en 1987). En 1972 recibió el Premio del Instituto de Arquitectura de Japón por «una serie de obras posteriores a La Casa Inacabada», y el Gran Premio del Instituto de Arquitectura de Japón en 2005. Falleció en 2006 a los 81 años.
+es_viewpoint: Un arquitecto que estudió con Seike Kiyoshi y enseñó durante muchos años en el Instituto de Tecnología de Tokio. A través del diseño de viviendas, intentó repetidamente incorporar elementos del espacio tradicional japonés a la arquitectura contemporánea de una forma propia y distintiva.
+
+de_bio: Geboren in der Präfektur Shizuoka (die genaue Gemeinde konnte durch Primärquellen nicht bestätigt werden). Er schloss 1947 die Mathematikabteilung des Tokioter Physik-Kollegs ab, trat 1950 in die Architekturabteilung des Tokyo Institute of Technology ein und schloss dort 1953 ab. Während seines Studiums lernte er bei Seike Kiyoshi. Er war Assistent an der Universität, wurde 1962 außerordentlicher Professor und 1970 ordentlicher Professor, und trat 1986 in den Ruhestand. 1967 erhielt er für seine Forschung „Studie zur räumlichen Komposition der japanischen Architektur" einen Doktortitel in Ingenieurwissenschaften. Er entwarf unter anderem das Weiße Haus (Bezirk Suginami, Tokio; fertiggestellt 1966, 2008 versetzt), das Haus in Uehara-dori (fertiggestellt 1976) und die Hundertjahrfeier-Halle des Tokyo Institute of Technology (Bezirk Meguro, Tokio; fertiggestellt 1987). 1972 erhielt er den Preis des Architekturinstituts von Japan für „eine Werkreihe im Anschluss an Das unvollendete Haus", 2005 den Großen Preis des Architekturinstituts von Japan. Er starb 2006 im Alter von 81 Jahren.
+de_viewpoint: Ein Architekt, der bei Seike Kiyoshi lernte und lange Zeit am Tokyo Institute of Technology lehrte. Durch seine Wohnhausentwürfe unternahm er wiederholt den Versuch, Elemente des traditionellen japanischen Raums in eigenständiger Form in die zeitgenössische Architektur einzubringen.
