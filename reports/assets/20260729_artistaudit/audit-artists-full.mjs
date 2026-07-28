@@ -15,7 +15,7 @@ const ARTISTS_JSON = join(OUT_DIR, 'artists.json');
 const SHOPIFY_PULL = 'C:/Users/ataga/atspect-system/scratch/artist-sync/shopify_artists.json';
 const OUT_CSV = join(OUT_DIR, 'audit-full.csv');
 
-const CONCURRENCY = 15;
+const CONCURRENCY = 6;
 
 function viewpointJa(i18n) {
   if (!i18n) return '';
