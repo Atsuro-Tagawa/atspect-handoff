@@ -10,7 +10,7 @@
 - [x] 今井兼次：Codexレビューで是正（学歴の正式名称精緻化・會津八一記念博物館の開館年精緻化・大隈重信記念館の竣工年が本文から欠落していたため追加）
 - [x] 黒川紀章：★2026-07-25の「出身地は名古屋市で確定」を撤回・資料間相違を明記。序列語「主要メンバー」を削除。受賞対象の作品名を明記。
 - [x] 篠原一男：Codexレビューで是正（白の家の所在地「中野区」→「杉並区」に訂正・masterworks_textの「現存」を削除・百年記念館の「文化財指定なし」を「未確認」に訂正）。★他の9名より一次資料での確認が弱く「確認できず」表記を多用。
-- [ ] 東孝光
+- [x] 東孝光：Codexレビューで是正（独立と事務所設立を1967年/1968年で精緻化・東京都選定歴史的建造物と法的な文化財指定の混同を是正）。日本建築学会賞1995年・坂倉準三の表記は正確と確認。
 - [ ] 土浦亀城
 
 ---
@@ -131,3 +131,42 @@ es_viewpoint: Un arquitecto que estudió con Seike Kiyoshi y enseñó durante mu
 
 de_bio: Geboren in der Präfektur Shizuoka (die genaue Gemeinde konnte durch Primärquellen nicht bestätigt werden). Er schloss 1947 die Mathematikabteilung des Tokioter Physik-Kollegs ab, trat 1950 in die Architekturabteilung des Tokyo Institute of Technology ein und schloss dort 1953 ab. Während seines Studiums lernte er bei Seike Kiyoshi. Er war Assistent an der Universität, wurde 1962 außerordentlicher Professor und 1970 ordentlicher Professor, und trat 1986 in den Ruhestand. 1967 erhielt er für seine Forschung „Studie zur räumlichen Komposition der japanischen Architektur" einen Doktortitel in Ingenieurwissenschaften. Er entwarf unter anderem das Weiße Haus (Bezirk Suginami, Tokio; fertiggestellt 1966, 2008 versetzt), das Haus in Uehara-dori (fertiggestellt 1976) und die Hundertjahrfeier-Halle des Tokyo Institute of Technology (Bezirk Meguro, Tokio; fertiggestellt 1987). 1972 erhielt er den Preis des Architekturinstituts von Japan für „eine Werkreihe im Anschluss an Das unvollendete Haus", 2005 den Großen Preis des Architekturinstituts von Japan. Er starb 2006 im Alter von 81 Jahren.
 de_viewpoint: Ein Architekt, der bei Seike Kiyoshi lernte und lange Zeit am Tokyo Institute of Technology lehrte. Durch seine Wohnhausentwürfe unternahm er wiederholt den Versuch, Elemente des traditionellen japanischen Raums in eigenständiger Form in die zeitgenössische Architektur einzubringen.
+
+---
+
+## 東孝光（1933-2015）
+
+**Codex是正**：①「1967年に東孝光建築研究所を設立して独立した」は経緯を圧縮しすぎ＝1967年に独立、1968年に正式に東孝光建築研究所を設立、の2段階に精緻化。②masterworks_textが「東京都選定歴史的建造物」（景観条例に基づく選定制度）と法的な「文化財指定」を混同していたため分離＝塔の家は「文化財指定なし／東京都選定歴史的建造物（2017年度選定）」に修正。③日本建築学会賞の年（1995年、旧報告で1994年との相違があった）と「坂倉準三」の表記（「坂倉順三」との混同なし）はいずれも正確と確認。
+
+**bio_ja**：大阪市の生まれ。1957年に大阪大学工学部構築工学科を卒業した。郵政省大臣官房建築部に勤務したのち、1960年に坂倉準三建築研究所（大阪事務所）に移り、1967年に独立し、1968年に東孝光建築研究所を設立した。1985年に大阪大学工学部環境工学科教授となり、1997年に同大学名誉教授、千葉工業大学工業デザイン学科教授となった。塔の家（東京都渋谷区、1966年竣工）、阿佐ヶ谷の家（東京都杉並区、1993年竣工）などを設計した。1995年、「塔の家から阿佐谷の家に至る一連の都市型住宅」により日本建築学会賞を受賞した。2015年、81歳で没した。
+
+**viewpoint_ja**：限られた敷地の中で都市に暮らす方法を追求した建築家。自邸である塔の家に始まり阿佐ヶ谷の家に至る一連の都市型住宅の設計により、日本建築学会賞を受賞した。
+
+**masterworks_text**：塔の家（東京都渋谷区・1966年竣工・現存とみられる〔現況の直接確認は未了〕・文化財指定なし／東京都選定歴史的建造物〔2017年度選定〕）、阿佐ヶ谷の家（東京都杉並区・1993年竣工・現存状況は未確認・文化財指定は未確認）
+
+**collection_places**：東京都選定歴史的建造物1件（塔の家）。専用の記念館・アーカイブは未確認。
+
+**groups**：官庁：郵政省大臣官房建築部／設計事務所：坂倉準三建築研究所（1960年移籍）→東孝光建築研究所（1968年設立）／大学：大阪大学教授(1985年)→名誉教授、千葉工業大学教授(1997-2003年)／建築運動：なし（確認できず）
+
+**8言語訳（bio／viewpoint）**：
+
+en_bio: Born in Osaka City. He graduated from the Department of Architectural Engineering, Faculty of Engineering, Osaka University, in 1957. After working in the Building Department of the Minister's Secretariat of the Ministry of Posts and Telecommunications, he moved to the Junzo Sakakura Architectural Research Institute (Osaka office) in 1960, became independent in 1967, and established the Takamitsu Azuma Architect & Associates in 1968. In 1985 he became a professor in the Department of Environmental Engineering, Faculty of Engineering, Osaka University, and in 1997 became professor emeritus of the same university and a professor of industrial design at Chiba Institute of Technology. He designed the Tower House (Shibuya Ward, Tokyo; completed 1966) and the House in Asagaya (Suginami Ward, Tokyo; completed 1993), among others. In 1995 he received the Architectural Institute of Japan Prize for "a series of urban houses from the Tower House to the House in Asagaya." He died in 2015 at the age of 81.
+en_viewpoint: An architect who pursued ways of living in the city on limited plots of land. He received the Architectural Institute of Japan Prize for his series of urban houses beginning with his own residence, the Tower House, and culminating in the House in Asagaya.
+
+zh_cn_bio: 生于大阪市。1957年毕业于大阪大学工学部构筑工学科。曾任职于邮政省大臣官房建筑部，1960年转入坂仓准三建筑研究所（大阪事务所），1967年独立，1968年创立东孝光建筑研究所。1985年任大阪大学工学部环境工学科教授，1997年任该大学名誉教授、千叶工业大学工业设计学科教授。设计了塔之家（东京都涩谷区，1966年竣工）、阿佐谷之家（东京都杉并区，1993年竣工）等建筑。1995年凭"从塔之家到阿佐谷之家的一系列都市型住宅"获日本建筑学会奖。2015年以81岁去世。
+zh_cn_viewpoint: 追求在有限用地中于都市生活方式的建筑师。凭借从自宅塔之家开始、直至阿佐谷之家的一系列都市型住宅设计，获得日本建筑学会奖。
+
+zh_tw_bio: 生於大阪市。1957年畢業於大阪大學工學部構築工學科。曾任職於郵政省大臣官房建築部，1960年轉入坂倉準三建築研究所（大阪事務所），1967年獨立，1968年創立東孝光建築研究所。1985年任大阪大學工學部環境工學科教授，1997年任該大學名譽教授、千葉工業大學工業設計學科教授。設計了塔之家（東京都澀谷區，1966年竣工）、阿佐谷之家（東京都杉並區，1993年竣工）等建築。1995年憑「從塔之家到阿佐谷之家的一系列都市型住宅」獲日本建築學會獎。2015年以81歲去世。
+zh_tw_viewpoint: 追求在有限用地中於都市生活方式的建築師。憑藉從自宅塔之家開始、直至阿佐谷之家的一系列都市型住宅設計，獲得日本建築學會獎。
+
+ko_bio: 오사카시 출신. 1957년 오사카대학 공학부 구축공학과를 졸업했다. 우정성 대신관방 건축부에 근무한 후, 1960년 사카쿠라 준조 건축연구소(오사카사무소)로 옮겼고, 1967년 독립하여 1968년 아즈마 다카미쓰 건축연구소를 설립했다. 1985년 오사카대학 공학부 환경공학과 교수가 되었고, 1997년 동 대학 명예교수, 치바공업대학 공업디자인학과 교수가 되었다. 탑의 집(도쿄도 시부야구, 1966년 준공), 아사가야의 집(도쿄도 스기나미구, 1993년 준공) 등을 설계했다. 1995년 "탑의 집에서 아사가야의 집에 이르는 일련의 도시형 주택"으로 일본건축학회상을 받았다. 2015년 81세로 별세했다.
+ko_viewpoint: 한정된 부지 안에서 도시에 사는 방법을 추구한 건축가. 자택인 탑의 집에서 시작하여 아사가야의 집에 이르는 일련의 도시형 주택 설계로 일본건축학회상을 받았다.
+
+fr_bio: Né à Osaka. Diplômé en 1957 du département de génie architectural de la faculté d'ingénierie de l'université d'Osaka. Après avoir travaillé au service des bâtiments du secrétariat du ministre des Postes et Télécommunications, il rejoint en 1960 l'Institut de recherche architecturale Junzo Sakakura (bureau d'Osaka), devient indépendant en 1967 et fonde en 1968 l'agence Takamitsu Azuma Architect & Associates. En 1985, il devient professeur au département de génie environnemental de la faculté d'ingénierie de l'université d'Osaka, puis en 1997 professeur émérite de cette université et professeur de design industriel à l'Institut de technologie de Chiba. Il conçoit notamment la Maison-tour (arrondissement de Shibuya, Tokyo ; achevée en 1966) et la Maison d'Asagaya (arrondissement de Suginami, Tokyo ; achevée en 1993). En 1995, il reçoit le prix de l'Institut d'architecture du Japon pour « une série de maisons urbaines allant de la Maison-tour à la Maison d'Asagaya ». Il meurt en 2015 à l'âge de 81 ans.
+fr_viewpoint: Un architecte qui a exploré des manières d'habiter la ville sur des parcelles limitées. Il a reçu le prix de l'Institut d'architecture du Japon pour sa série de maisons urbaines commençant par sa propre résidence, la Maison-tour, et aboutissant à la Maison d'Asagaya.
+
+es_bio: Nacido en la ciudad de Osaka. Se graduó en 1957 en el Departamento de Ingeniería Arquitectónica de la Facultad de Ingeniería de la Universidad de Osaka. Tras trabajar en el Departamento de Edificios de la Secretaría del Ministro de Correos y Telecomunicaciones, en 1960 se incorporó al Instituto de Investigación Arquitectónica Junzo Sakakura (oficina de Osaka), se independizó en 1967 y en 1968 fundó el estudio Takamitsu Azuma Architect & Associates. En 1985 se convirtió en profesor del Departamento de Ingeniería Ambiental de la Facultad de Ingeniería de la Universidad de Osaka, y en 1997 en profesor emérito de dicha universidad y profesor de diseño industrial en el Instituto de Tecnología de Chiba. Diseñó, entre otras obras, la Casa Torre (distrito de Shibuya, Tokio; terminada en 1966) y la Casa de Asagaya (distrito de Suginami, Tokio; terminada en 1993). En 1995 recibió el Premio del Instituto de Arquitectura de Japón por «una serie de viviendas urbanas desde la Casa Torre hasta la Casa de Asagaya». Falleció en 2015 a los 81 años.
+es_viewpoint: Un arquitecto que exploró formas de habitar la ciudad en parcelas limitadas. Recibió el Premio del Instituto de Arquitectura de Japón por su serie de viviendas urbanas que comenzó con su propia residencia, la Casa Torre, y culminó con la Casa de Asagaya.
+
+de_bio: Geboren in Osaka. Er schloss 1957 sein Studium an der Abteilung für Architekturingenieurwesen der Ingenieurfakultät der Universität Osaka ab. Nach seiner Tätigkeit in der Bauabteilung des Ministersekretariats des Ministeriums für Post und Telekommunikation wechselte er 1960 zum Junzo-Sakakura-Architekturforschungsinstitut (Büro Osaka), machte sich 1967 selbstständig und gründete 1968 das Büro Takamitsu Azuma Architect & Associates. 1985 wurde er Professor an der Abteilung für Umweltingenieurwesen der Ingenieurfakultät der Universität Osaka, 1997 emeritierter Professor derselben Universität sowie Professor für Industriedesign am Chiba Institute of Technology. Er entwarf unter anderem das Turmhaus (Bezirk Shibuya, Tokio; fertiggestellt 1966) und das Haus in Asagaya (Bezirk Suginami, Tokio; fertiggestellt 1993). 1995 erhielt er den Preis des Architekturinstituts von Japan für „eine Reihe von Stadthäusern vom Turmhaus bis zum Haus in Asagaya". Er starb 2015 im Alter von 81 Jahren.
+de_viewpoint: Ein Architekt, der Wege des Wohnens in der Stadt auf begrenzten Grundstücken erforschte. Er erhielt den Preis des Architekturinstituts von Japan für seine Reihe von Stadthäusern, die mit seinem eigenen Wohnhaus, dem Turmhaus, begann und im Haus in Asagaya gipfelte.
