@@ -1,0 +1,1602 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZR557N3HMT"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    // Consent Mode v2: 同意があるまで解析・広告Cookieを既定で拒否（index.htmlと同一）
+    gtag('consent', 'default', {
+      'analytics_storage': 'denied',
+      'ad_storage': 'denied',
+      'ad_user_data': 'denied',
+      'ad_personalization': 'denied',
+      'wait_for_update': 500
+    });
+    // 過去に同意済みなら解析を許可
+    try {
+      if (localStorage.getItem('ar_cookie_consent') === 'granted') {
+        gtag('consent', 'update', { 'analytics_storage': 'granted' });
+      }
+    } catch (e) {}
+    gtag('config', 'G-ZR557N3HMT');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#231815">
+  <title>プライバシーポリシー｜ARTS RESPECT</title>
+  <meta name="description" content="株式会社 ARTS RESPECTのプライバシーポリシー（個人情報保護方針）。">
+  <!-- Canonical：多言語は単一URL＋JS切替のため、実体のない代替hreflangは設けず単一canonicalに一本化 -->
+  <link rel="canonical" href="https://atspect.co.jp/privacy.html">
+  <!-- OGP -->
+  <meta property="og:title" content="プライバシーポリシー｜ARTS RESPECT">
+  <meta property="og:description" content="株式会社 ARTS RESPECTのプライバシーポリシー（個人情報保護方針）。">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://atspect.co.jp/privacy.html">
+  <meta property="og:image" content="https://atspect.co.jp/images/ogp.jpg?v=20260617">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="ARTS RESPECT — すべては、美術と作家への敬意から。">
+  <meta property="og:locale" content="ja_JP">
+  <meta property="og:site_name" content="ARTS RESPECT">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@AtsuroTagawa">
+  <meta name="twitter:title" content="プライバシーポリシー｜ARTS RESPECT">
+  <meta name="twitter:description" content="株式会社 ARTS RESPECTのプライバシーポリシー（個人情報保護方針）。">
+  <meta name="twitter:image" content="https://atspect.co.jp/images/ogp.jpg?v=20260617">
+  <meta name="twitter:image:alt" content="ARTS RESPECT — すべては、美術と作家への敬意から。">
+  <!-- Favicon -->
+  <link rel="icon" href="favicon.ico?v=20260617" type="image/x-icon">
+  <link rel="icon" href="favicon.png?v=20260617" sizes="64x64" type="image/png">
+  <link rel="apple-touch-icon" sizes="180x180" href="favicon-apple.png?v=20260617">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300;1,400&family=Noto+Sans+JP:wght@300;400&family=Shippori+Mincho:wght@400;500&family=Noto+Serif+KR:wght@400;500&family=Noto+Serif+SC:wght@400;500&family=Noto+Serif+TC:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --ink:   #231815;
+      --red:   #C1272D;
+      --paper: #F7F6F4;
+      --white: #FFFFFF;
+      --font-ja: 'Shippori Mincho', 'Noto Sans JP', serif;
+      --font-en: 'Cormorant Garamond', Georgia, serif;
+      --ease-out: cubic-bezier(0.0, 0.0, 0.2, 1.0);
+    }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: var(--font-ja);
+      color: var(--ink);
+      background: var(--white);
+      line-height: 1.9;
+      font-size: 15px;
+      -webkit-font-smoothing: antialiased;
+    }
+    button { cursor: pointer; background: none; border: none; font: inherit; color: inherit; }
+
+    /* ── 多言語表示制御 ── */
+    [data-lang] { display: none; }
+    body.lang-ja [data-lang="ja"] { display: revert; }
+    body.lang-en [data-lang="en"] { display: revert; }
+    body.lang-cn [data-lang="cn"] { display: revert; }
+    body.lang-tw [data-lang="tw"] { display: revert; }
+    body.lang-ko [data-lang="ko"] { display: revert; }
+    body.lang-es [data-lang="es"] { display: revert; }
+    body.lang-fr [data-lang="fr"] { display: revert; }
+    body.lang-de [data-lang="de"] { display: revert; }
+    span[data-lang] { display: none; }
+    body.lang-ja span[data-lang="ja"] { display: inline; }
+    body.lang-en span[data-lang="en"] { display: inline; }
+    body.lang-cn span[data-lang="cn"] { display: inline; }
+    body.lang-tw span[data-lang="tw"] { display: inline; }
+    body.lang-ko span[data-lang="ko"] { display: inline; }
+    body.lang-es span[data-lang="es"] { display: inline; }
+    body.lang-fr span[data-lang="fr"] { display: inline; }
+    body.lang-de span[data-lang="de"] { display: inline; }
+    /* lang-block: セクション丸ごと切り替え */
+    .lang-block { display: none; }
+    body.lang-ja .lang-block[data-lang="ja"],
+    body.lang-en .lang-block[data-lang="en"],
+    body.lang-cn .lang-block[data-lang="cn"],
+    body.lang-tw .lang-block[data-lang="tw"],
+    body.lang-ko .lang-block[data-lang="ko"],
+    body.lang-es .lang-block[data-lang="es"],
+    body.lang-fr .lang-block[data-lang="fr"],
+    body.lang-de .lang-block[data-lang="de"] { display: block; }
+    /* 中韓は地域別セリフで正しい字形に（SC=簡体／TC=繁体／KR=韓国語）。連鎖から日本語書体を
+       外し、JP字形の混入を防ぐ。欧文（社名・数字）は Cormorant を先頭に。
+       2026-07-20：あつぺくと本体（assets/atspect.css）の確定方針に合わせて統一。 */
+    body.lang-ko { font-family: 'Cormorant Garamond', 'Noto Serif KR', serif; }
+    body.lang-cn { font-family: 'Cormorant Garamond', 'Noto Serif SC', serif; }
+    body.lang-tw { font-family: 'Cormorant Garamond', 'Noto Serif TC', serif; }
+    /* EN/FR/ES/DE: index.htmlと同じ欧文書体（Cormorant Garamond）に統一 */
+    body.lang-en, body.lang-fr, body.lang-es, body.lang-de { font-family: var(--font-en); }
+
+    /* ── Header ── */
+    /* ロゴ左・言語チップ右寄り・「トップへ戻る」右端（index.htmlと同じ並び。
+       2026-07-03田川さんご指示：ロゴは左、言語切替は右寄りに）。
+       position:sticky で、長いページの下部からでも言語切替に届く（常設）。
+       コンテンツ幅は760px(.pp-main)で、ヘッダーも同軸に揃える。 */
+    .pp-header {
+      background: var(--ink);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .pp-header-inner {
+      max-width: 760px;
+      margin-inline: auto;
+      padding: 22px 32px;
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+    .pp-header-logo { margin-right: auto; }
+    .pp-header-logo img { height: 26px; display: block; }
+    .pp-header-back {
+      color: rgba(255,255,255,0.5);
+      text-decoration: none;
+      font-size: 12px;
+      letter-spacing: 0.15em;
+      font-family: var(--font-en);
+      white-space: nowrap;
+      transition: color 0.25s, transform 0.3s var(--ease-out);
+    }
+    .pp-header-back:hover { color: rgba(255,255,255,0.85); transform: translateY(-2px); }
+
+    /* ── 言語切替（index.htmlと同デザイン・ネイティブ<details>機構） ── */
+    .lang-globe { position: relative; }
+    .lang-globe-btn {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 12px;
+      letter-spacing: 0.1em;
+      color: rgba(255,255,255,0.9);
+      padding: 8px 6px;
+      min-height: 44px;
+      cursor: pointer;
+      list-style: none;
+      transition: color 0.3s, transform 0.3s var(--ease-out);
+    }
+    .lang-globe-btn::-webkit-details-marker,
+    .lang-globe-btn::marker { display: none; content: ''; }
+    .lang-globe-btn:hover { color: #fff; transform: translateY(-2px); }
+    .lang-drop {
+      position: fixed;
+      left: 0;
+      right: 0;
+      top: 0; /* JSで開いた瞬間にヘッダー実高さへ更新（sticky高さがビューポート幅で変わるため） */
+      background: var(--white);
+      border-top: 0.5px solid rgba(35,24,21,0.12);
+      border-bottom: 0.5px solid rgba(35,24,21,0.12);
+      box-shadow: 0 12px 32px rgba(0,0,0,0.10);
+      z-index: 200;
+    }
+    .lang-drop-inner {
+      max-width: 1120px;
+      margin-inline: auto;
+      padding: 20px 32px 24px;
+      display: grid;
+      grid-template-columns: repeat(2, minmax(120px, 1fr));
+      gap: 4px 28px;
+    }
+    .lang-opt {
+      display: flex;
+      align-items: center;
+      width: 100%;
+      text-align: left;
+      padding: 12px 10px;
+      min-height: 44px;
+      font-size: 13px;
+      letter-spacing: 0.08em;
+      color: var(--ink);
+      transition: background 0.15s;
+    }
+    .lang-opt:hover { background: var(--paper); }
+    .lang-opt.is-active { color: var(--red); font-weight: 500; }
+    .lang-dot {
+      display: inline-block;
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      margin-right: 10px;
+      background: transparent;
+      flex-shrink: 0;
+    }
+    .lang-opt.is-active .lang-dot { background: var(--red); }
+    .lang-globe[open] .chevron-ico { transform: rotate(180deg); }
+    .chevron-ico { transition: transform 0.25s; }
+
+    /* キーボードフォーカス（アクセシビリティ）：ブランドの赤い細枠。
+       マウス/タッチでは出ない。index.htmlと方針を統一。 */
+    .lang-globe-btn:focus-visible,
+    .lang-opt:focus-visible,
+    .pp-header-back:focus-visible,
+    .pp-main a:focus-visible {
+      outline: 2px solid var(--red);
+      outline-offset: 3px;
+      border-radius: 2px;
+    }
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+      .pp-header-back, .lang-globe-btn, .lang-opt, .chevron-ico { transition: none; }
+    }
+
+    /* ── Main ── */
+    .pp-main {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 72px 32px 100px;
+    }
+    .pp-eyebrow {
+      font-family: var(--font-en);
+      font-size: 11px;
+      letter-spacing: 0.25em;
+      color: var(--red);
+      margin-bottom: 18px;
+      display: block;
+    }
+    .pp-title {
+      font-size: clamp(22px, 3vw, 30px);
+      font-weight: 500;
+      letter-spacing: 0.05em;
+      margin-bottom: 10px;
+      line-height: 1.4;
+    }
+    .pp-subtitle {
+      font-size: 13px;
+      color: rgba(35,24,21,0.5);
+      letter-spacing: 0.05em;
+      margin-bottom: 52px;
+    }
+    .pp-divider {
+      width: 36px;
+      height: 1px;
+      background: var(--red);
+      margin-bottom: 52px;
+    }
+
+    /* ── Sections ── */
+    .pp-section { margin-bottom: 52px; }
+    .pp-section h2 {
+      font-size: 16px;
+      font-weight: 500;
+      letter-spacing: 0.06em;
+      margin-bottom: 16px;
+      padding-bottom: 10px;
+      border-bottom: 0.5px solid rgba(35,24,21,0.15);
+    }
+    .pp-section p {
+      font-size: 14.5px;
+      line-height: 2;
+      color: rgba(35,24,21,0.85);
+      margin-bottom: 14px;
+    }
+    .pp-section p:last-child { margin-bottom: 0; }
+    .pp-section ul {
+      list-style: none;
+      margin: 8px 0 14px;
+    }
+    .pp-section ul li {
+      font-size: 14.5px;
+      line-height: 2;
+      color: rgba(35,24,21,0.85);
+      padding-left: 1.2em;
+      position: relative;
+    }
+    .pp-section ul li::before {
+      content: '・';
+      position: absolute;
+      left: 0;
+      color: var(--red);
+    }
+
+    /* ── Contact box ── */
+    .pp-contact-box {
+      background: var(--paper);
+      border-left: 2px solid var(--red);
+      padding: 24px 28px;
+      margin-top: 16px;
+      font-size: 14px;
+      line-height: 2;
+      color: rgba(35,24,21,0.85);
+    }
+    .pp-contact-box a {
+      color: var(--ink);
+      text-decoration: underline;
+      text-underline-offset: 3px;
+    }
+    .pp-date {
+      font-size: 13px;
+      color: rgba(35,24,21,0.45);
+      text-align: right;
+      margin-top: 48px;
+    }
+
+    /* ── Footer ── */
+    .pp-footer {
+      text-align: center;
+      font-size: 12px;
+      color: rgba(35,24,21,0.4);
+      letter-spacing: 0.1em;
+      padding: 32px;
+      border-top: 0.5px solid rgba(35,24,21,0.1);
+    }
+    .pp-footer a {
+      color: rgba(35,24,21,0.6);
+      text-decoration: none;
+      margin-right: 20px;
+      transition: color 0.2s;
+    }
+    .pp-footer a:hover { color: var(--ink); }
+
+    @media (max-width: 600px) {
+      .pp-header-inner { padding: 18px 20px; }
+      .pp-main { padding: 48px 20px 72px; }
+    }
+    @media (max-width: 374px) {
+      .pp-header-inner { padding: 16px 14px; gap: 8px; }
+      .lang-globe-btn { font-size: 10.5px; gap: 4px; padding: 8px 2px; }
+      .pp-header-back { font-size: 10px; letter-spacing: 0.08em; }
+    }
+  </style>
+</head>
+<body class="lang-ja">
+
+<header class="pp-header">
+  <div class="pp-header-inner">
+  <a href="index.html" class="pp-header-logo" aria-label="ARTS RESPECT トップへ">
+    <img src="images/logo/A-2-h.png" alt="ARTS RESPECT">
+  </a>
+
+  <details class="lang-globe" id="langGlobe">
+    <summary class="lang-globe-btn" id="langGlobeBtn" aria-label="言語を選択">
+      <svg class="globe-ico" width="15" height="15" viewBox="0 0 15 15" fill="none" aria-hidden="true">
+        <circle cx="7.5" cy="7.5" r="6.5" stroke="currentColor" stroke-width="0.9"/>
+        <ellipse cx="7.5" cy="7.5" rx="3.2" ry="6.5" stroke="currentColor" stroke-width="0.9"/>
+        <line x1="1" y1="7.5" x2="14" y2="7.5" stroke="currentColor" stroke-width="0.9"/>
+        <path d="M2 4.5Q7.5 3 13 4.5" stroke="currentColor" stroke-width="0.7" fill="none"/>
+        <path d="M2 10.5Q7.5 12 13 10.5" stroke="currentColor" stroke-width="0.7" fill="none"/>
+      </svg>
+      <span id="langCur">日本語</span>
+      <svg class="chevron-ico" width="8" height="5" viewBox="0 0 8 5" fill="none" aria-hidden="true">
+        <polyline points="1,1 4,4 7,1" stroke="currentColor" stroke-width="0.9" fill="none"/>
+      </svg>
+    </summary>
+    <div class="lang-drop" id="langDrop" role="listbox">
+      <div class="lang-drop-inner">
+        <button class="lang-opt is-active" data-lang="ja" role="option" aria-selected="true"><span class="lang-dot" aria-hidden="true"></span>日本語</button>
+        <button class="lang-opt" data-lang="en" role="option" aria-selected="false"><span class="lang-dot" aria-hidden="true"></span>English</button>
+        <button class="lang-opt" data-lang="cn" role="option" aria-selected="false"><span class="lang-dot" aria-hidden="true"></span>简体中文</button>
+        <button class="lang-opt" data-lang="tw" role="option" aria-selected="false"><span class="lang-dot" aria-hidden="true"></span>繁體中文</button>
+        <button class="lang-opt" data-lang="ko" role="option" aria-selected="false"><span class="lang-dot" aria-hidden="true"></span>한국어</button>
+        <button class="lang-opt" data-lang="fr" role="option" aria-selected="false"><span class="lang-dot" aria-hidden="true"></span>Français</button>
+        <button class="lang-opt" data-lang="es" role="option" aria-selected="false"><span class="lang-dot" aria-hidden="true"></span>Español</button>
+        <button class="lang-opt" data-lang="de" role="option" aria-selected="false"><span class="lang-dot" aria-hidden="true"></span>Deutsch</button>
+      </div>
+    </div>
+  </details>
+
+  <a href="index.html" class="pp-header-back">
+    <span data-lang="ja">← トップへ戻る</span>
+    <span data-lang="en">← Back to Top</span>
+    <span data-lang="cn">← 返回首页</span>
+    <span data-lang="tw">← 返回首頁</span>
+    <span data-lang="ko">← 홈으로 돌아가기</span>
+    <span data-lang="fr">← Retour à l'accueil</span>
+    <span data-lang="es">← Volver al inicio</span>
+    <span data-lang="de">← Zurück zur Startseite</span>
+  </a>
+  </div>
+</header>
+
+<main class="pp-main">
+
+  <span class="pp-eyebrow">PRIVACY POLICY</span>
+
+  <h1 class="pp-title">
+    <span data-lang="ja">プライバシーポリシー</span>
+    <span data-lang="en">Privacy Policy</span>
+    <span data-lang="cn">隐私政策</span>
+    <span data-lang="tw">隱私政策</span>
+    <span data-lang="ko">개인정보 처리방침</span>
+    <span data-lang="fr">Politique de confidentialité</span>
+    <span data-lang="es">Política de privacidad</span>
+    <span data-lang="de">Datenschutzerklärung</span>
+  </h1>
+  <p class="pp-subtitle">
+    <span data-lang="ja">個人情報保護方針 / Privacy Policy</span>
+    <span data-lang="en">Personal Information Protection Policy</span>
+    <span data-lang="cn">个人信息保护方针</span>
+    <span data-lang="tw">個人資訊保護方針</span>
+    <span data-lang="ko">개인정보 보호방침 / Privacy Policy</span>
+    <span data-lang="fr">Politique de protection des données personnelles</span>
+    <span data-lang="es">Política de protección de datos personales</span>
+    <span data-lang="de">Grundsätze zum Schutz personenbezogener Daten</span>
+  </p>
+  <div class="pp-divider"></div>
+
+  <!-- ── 日本語 ── -->
+  <div class="lang-block" data-lang="ja">
+    <div class="pp-section">
+      <p>株式会社 ARTS&nbsp;RESPECT（以下「当社」といいます）は、お客様をはじめとする皆様の個人情報の保護を重要な責務と考え、以下のとおりプライバシーポリシー（個人情報保護方針）を定めます。本ポリシーは、当社のコーポレートサイト（atspect.co.jp）における個人情報の取り扱いに加え、当社が運営する美術のオンラインプラットフォーム「あつぺくと（ATSPECT）」に関連して当社が取得する個人情報の取り扱いにも適用されます。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>1. 適用範囲</h2>
+      <p>本ポリシーは、次の皆様の個人情報の取り扱いに適用されます。</p>
+      <ul>
+        <li>当社コーポレートサイトをご利用の方、当社にお問い合わせいただく方</li>
+        <li>「あつぺくと」で作品をご購入されるお客様（コレクター）</li>
+        <li>「あつぺくと」にご登録・お申し込みいただく作家、およびその代理人・支援者・所属する法人／事務所の方</li>
+      </ul>
+    </div>
+
+    <div class="pp-section">
+      <h2>2. 取得する個人情報</h2>
+      <p>当社は、適法かつ公正な手段により、以下の個人情報を取得します。</p>
+      <p><strong>(1) コーポレートサイトのお問い合わせに際して</strong></p>
+      <ul>
+        <li>お名前</li>
+        <li>会社名・団体名</li>
+        <li>メールアドレス</li>
+        <li>お問い合わせ内容</li>
+        <li>お問い合わせ種別（ご選択いただいた区分）</li>
+        <li>送信元IPアドレス（迷惑メール・不正利用の防止のため自動的に取得します）</li>
+      </ul>
+      <p><strong>(2) 「あつぺくと」で作品をご購入されるお客様（コレクター）から</strong></p>
+      <ul>
+        <li>お名前</li>
+        <li>ご連絡先（電話番号・メールアドレス）</li>
+        <li>ご住所（配送先を含みます）</li>
+        <li>決済に関する情報</li>
+        <li>ご注文・ご購入の履歴</li>
+      </ul>
+      <p><strong>(3) 「あつぺくと」にご登録・お申し込みいただく作家から</strong></p>
+      <ul>
+        <li>氏名・よみがな・雅号</li>
+        <li>生年月日（年齢確認・本人確認のため）</li>
+        <li>性別（ご紹介における呼称等の判断のため。任意）</li>
+        <li>出身・国籍・居住国・ご住所</li>
+        <li>電話番号・メールアドレス</li>
+        <li>活動歴・発表歴・受賞歴・作品に関する情報・ポートフォリオ等</li>
+        <li>ご提供いただく画像（顔写真（肖像）・作品画像等）</li>
+        <li>代理人・支援者・法人／事務所によるお申し込みの場合は、当該代理人・法人の名称、担当者氏名、連絡先、および作家ご本人との関係</li>
+        <li>ご登録（審査通過）後に取得する情報：送金先口座情報、適格請求書発行事業者（インボイス）登録番号その他課税事業者に関する情報、本人確認のための情報（必要な場合）</li>
+      </ul>
+      <p><strong>(4) サービスのご利用に伴い自動的に取得する情報</strong></p>
+      <ul>
+        <li>Cookie、アクセスログ、IPアドレス、ご利用の端末・ブラウザに関する情報 等</li>
+      </ul>
+      <p>なお、クレジットカード番号等の決済情報は、当社が契約する決済代行会社において処理され、当社がカード番号そのものを保持することはありません。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>3. 利用目的</h2>
+      <p>当社は、取得した個人情報を、以下の目的の範囲内で利用します。</p>
+      <ul>
+        <li>お問い合わせへの回答・ご連絡、当社サービスに関するご案内のため</li>
+        <li>作品のご注文の受付、決済、発送その他のお取引を履行するため</li>
+        <li>作家のご登録の受付・審査およびご連絡のため</li>
+        <li>作家プロフィール・作品情報の作成、編集、掲載および多言語での発信のため</li>
+        <li>サイト・メディアの編集・制作（多言語翻訳、画像の補正・加工、紹介文・紹介動画の作成等）にAIツールを活用するため</li>
+        <li>顔写真（肖像）および作品画像を、サイト・メディアに掲載し、国内外へご紹介するため</li>
+        <li>売上の送金、領収書・請求書・支払明細の発行その他経理・税務上の手続きのため</li>
+        <li>本人確認・年齢確認および不正利用の防止のため</li>
+        <li>迷惑メール・不正アクセスの防止その他サービスの安全な運営のため</li>
+      </ul>
+      <p>当社は、これらの目的の達成に必要な範囲を超えて個人情報を利用しません。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>4. 第三者への提供</h2>
+      <p>当社は、次の場合を除き、あらかじめご本人の同意を得ることなく個人情報を第三者に提供しません。</p>
+      <ul>
+        <li>ご本人の同意がある場合</li>
+        <li>法令に基づく場合</li>
+        <li>人の生命、身体または財産の保護のために必要であり、ご本人の同意を得ることが困難な場合</li>
+        <li>国の機関等への協力のために必要な場合</li>
+      </ul>
+    </div>
+
+    <div class="pp-section">
+      <h2>5. 業務委託</h2>
+      <p>当社は、利用目的の達成に必要な範囲で、個人情報の取り扱いを外部に委託することがあります。委託先には、配送業者、決済代行会社、ならびにサイト・メディアの制作業務（多言語翻訳、画像編集、紹介文・紹介動画の制作等。これらにAIツールを利用する場合を含みます）の委託先等が含まれます。この場合、当社は委託先を適切に選定し、必要かつ適切な監督を行います。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>6. 外国にある第三者への提供（越境移転）</h2>
+      <p>当社が前項の委託等にあたって利用するクラウドサービス、AIツール、決済代行サービス等の提供事業者が外国に所在する場合があります。この場合、当社は、個人情報の保護に関する法令に従い、移転先国の制度や講じられる措置に関する情報提供その他必要な手続きを行ったうえで提供します。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>7. 個人情報の保有期間</h2>
+      <p>当社は、取得した個人情報を、利用目的の達成に必要な期間、および関係法令（税務・会社法等）により保存が義務付けられる期間に限り保有し、その後は遅滞なく消去または匿名化します。本人確認のための情報は、確認の目的を達した後、必要な範囲を超えて保有しません。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>8. 個人情報の安全管理</h2>
+      <p>当社は、取得した個人情報の漏えい、滅失または毀損の防止その他の安全管理のために、必要かつ適切な措置を講じます。個人情報の取り扱いを委託する場合は、委託先においても適切な管理が行われるよう監督します。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>9. 漏えい等への対応</h2>
+      <p>当社は、個人情報の漏えい、滅失、毀損その他の事態が発生し、またはそのおそれを把握した場合、法令に従い、必要な調査・対応を行い、関係機関への報告およびご本人への通知等を適切に実施します。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>10. Cookieおよびアクセス解析</h2>
+      <p>当サイトおよびサービスでは、利便性の向上やサービス改善のため、Cookieおよびアクセス解析ツール（Google Analytics等）を使用する場合があります。これらのツールは、個人を直接特定する情報を含まない形でデータを収集します。ブラウザの設定によりCookieを無効にすることができます。また、当社コーポレートサイト（atspect.co.jp）のお問い合わせフォームでは、スパムや不正な送信を防止するため、Google LLC が提供する「reCAPTCHA」を利用しています。reCAPTCHA は、利用者のIPアドレスや操作・端末に関する情報を自動的に取得し、Google へ送信します。これらの情報の取り扱いには、Google のプライバシーポリシーおよび利用規約が適用されます。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>11. 開示・訂正・利用停止等のご請求</h2>
+      <p>お客様は、当社が保有するご自身の個人情報について、開示、訂正、追加、削除、利用停止、第三者提供の停止等をご請求いただくことができます。ご請求の際は、下記のお問い合わせ窓口までご連絡ください。ご本人であることを確認のうえ、法令に従い、合理的な期間内に対応いたします。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>12. プライバシーポリシーの変更</h2>
+      <p>本ポリシーの内容は、法令の改正や当社の判断により変更することがあります。重要な変更を行う場合は、当サイト上での掲載その他適切な方法によりお知らせします。変更後の内容は、当サイトに掲載した時点から効力を生じます。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>13. お問い合わせ窓口</h2>
+      <div class="pp-contact-box">
+        <strong>株式会社 ARTS&nbsp;RESPECT</strong><br>
+        〒103-0024 東京都中央区日本橋小舟町8-6-202<br>
+        TEL：<a href="tel:07055150202">070-5515-0202</a><br>
+        Email：<a href="mailto:info@atspect.co.jp">info@atspect.co.jp</a>
+      </div>
+    </div>
+
+    <!-- ★実反映日が確定したら改定日を記入すること -->
+    <p class="pp-date">制定日：2026年6月30日　／　最終改定日：</p>
+  </div>
+
+  <!-- ── English ── -->
+  <div class="lang-block" data-lang="en">
+    <div class="pp-section">
+      <p>ARTS&nbsp;RESPECT Co., Ltd. (hereinafter "the Company") regards the protection of the personal information of our customers and all other individuals concerned as an important responsibility, and establishes this Privacy Policy (Personal Information Protection Policy) as set out below. This Policy applies to the handling of personal information on the Company's corporate website (atspect.co.jp), as well as to the handling of personal information that the Company acquires in connection with the art online platform "ATSPECT" operated by the Company.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>1. Scope of Application</h2>
+      <p>This Policy applies to the handling of the personal information of the following individuals:</p>
+      <ul>
+        <li>Those who use the Company's corporate website and those who contact the Company</li>
+        <li>Customers (collectors) who purchase artworks on "ATSPECT"</li>
+        <li>Artists who register or apply for "ATSPECT," as well as their agents, supporters, and the corporations / offices to which they belong</li>
+      </ul>
+    </div>
+
+    <div class="pp-section">
+      <h2>2. Personal Information We Collect</h2>
+      <p>The Company acquires the following personal information by lawful and fair means:</p>
+      <p><strong>(1) When you contact us through the corporate website</strong></p>
+      <ul>
+        <li>Name</li>
+        <li>Company or organization name</li>
+        <li>Email address</li>
+        <li>Content of your inquiry</li>
+        <li>Type of inquiry (the category you select)</li>
+        <li>Sender's IP address (automatically acquired to prevent spam and unauthorized use)</li>
+      </ul>
+      <p><strong>(2) From customers (collectors) who purchase artworks on "ATSPECT"</strong></p>
+      <ul>
+        <li>Name</li>
+        <li>Contact details (telephone number and email address)</li>
+        <li>Address (including shipping address)</li>
+        <li>Payment-related information</li>
+        <li>Order and purchase history</li>
+      </ul>
+      <p><strong>(3) From artists who register or apply for "ATSPECT"</strong></p>
+      <ul>
+        <li>Name, phonetic reading, and artist name (pseudonym)</li>
+        <li>Date of birth (for age verification and identity verification)</li>
+        <li>Gender (to determine forms of address used in introductions; optional)</li>
+        <li>Place of origin, nationality, country of residence, and address</li>
+        <li>Telephone number and email address</li>
+        <li>Activity history, exhibition history, awards, information on works, portfolio, and the like</li>
+        <li>Images you provide (facial photographs (likeness), images of works, etc.)</li>
+        <li>In the case of an application made by an agent, supporter, or corporation / office: the name of such agent or corporation, the name of the person in charge, contact details, and their relationship to the artist</li>
+        <li>Information acquired after registration (passing screening): remittance bank account information, qualified invoice issuer (invoice) registration number and other information concerning taxable enterprises, and information for identity verification (where necessary)</li>
+      </ul>
+      <p><strong>(4) Information automatically acquired through the use of the service</strong></p>
+      <ul>
+        <li>Cookies, access logs, IP addresses, information about the device and browser you use, and the like</li>
+      </ul>
+      <p>Please note that payment information such as credit card numbers is processed by the payment processing company with which the Company contracts, and the Company does not retain card numbers themselves.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>3. Purposes of Use</h2>
+      <p>The Company uses the personal information it acquires within the scope of the following purposes:</p>
+      <ul>
+        <li>To respond to and contact you regarding inquiries, and to provide information about the Company's services</li>
+        <li>To accept orders for artworks and to carry out payment, shipping, and other transactions</li>
+        <li>To accept and screen artist registrations and to contact artists</li>
+        <li>To create, edit, publish, and disseminate artist profiles and information on works in multiple languages</li>
+        <li>To use AI tools in the editing and production of our site and media (multilingual translation, image correction and processing, creation of introductory texts and introductory videos, etc.)</li>
+        <li>To publish facial photographs (likenesses) and images of works on our site and media and to introduce them in Japan and abroad</li>
+        <li>To remit sales proceeds, issue receipts, invoices, and payment statements, and carry out other accounting and tax procedures</li>
+        <li>For identity verification, age verification, and the prevention of unauthorized use</li>
+        <li>To prevent spam and unauthorized access and otherwise operate the service safely</li>
+      </ul>
+      <p>The Company does not use personal information beyond the scope necessary to achieve these purposes.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>4. Provision to Third Parties</h2>
+      <p>Except in the following cases, the Company will not provide personal information to third parties without obtaining the prior consent of the individual:</p>
+      <ul>
+        <li>Where the individual has given consent</li>
+        <li>Where required by law</li>
+        <li>Where it is necessary for the protection of the life, body, or property of a person and it is difficult to obtain the individual's consent</li>
+        <li>Where it is necessary to cooperate with a national government body or the like</li>
+      </ul>
+    </div>
+
+    <div class="pp-section">
+      <h2>5. Outsourcing</h2>
+      <p>The Company may outsource the handling of personal information to external parties within the scope necessary to achieve the purposes of use. Such contractors include delivery companies, payment processing companies, and contractors engaged in the production of our site and media (multilingual translation, image editing, production of introductory texts and introductory videos, etc., including cases where AI tools are used for these). In such cases, the Company appropriately selects its contractors and exercises necessary and appropriate supervision.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>6. Provision to Third Parties in Foreign Countries (Cross-Border Transfer)</h2>
+      <p>The providers of cloud services, AI tools, payment processing services, and the like that the Company uses in connection with the outsourcing described in the preceding section may be located in foreign countries. In such cases, the Company transfers such personal information in accordance with laws and regulations concerning the protection of personal information, after providing information about the systems of the destination country and the measures taken there, and carrying out other necessary procedures.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>7. Retention Period</h2>
+      <p>The Company retains the personal information it acquires only for the period necessary to achieve the purposes of use and for the period during which retention is required by relevant laws and regulations (tax law, the Companies Act, etc.), and thereafter promptly erases or anonymizes it. Information for identity verification is not retained beyond the necessary scope after the purpose of verification has been achieved.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>8. Security Management</h2>
+      <p>The Company takes necessary and appropriate measures to prevent the leakage, loss, or damage of the personal information it acquires and to otherwise manage its security. Where the Company outsources the handling of personal information, it supervises its contractors to ensure that appropriate management is carried out by them as well.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>9. Response to Data Breaches</h2>
+      <p>If a leakage, loss, damage or other incident involving personal information occurs, or if the Company becomes aware of a risk thereof, the Company conducts the necessary investigation and response in accordance with the law and appropriately carries out reporting to the relevant authorities and notification to the individuals concerned.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>10. Cookies and Access Analytics</h2>
+      <p>On our site and service, we may use cookies and access analytics tools (such as Google Analytics) in order to improve convenience and enhance our services. These tools collect data in a form that does not include information that directly identifies an individual. You can disable cookies through your browser settings. In addition, the contact form on our corporate website (atspect.co.jp) uses &ldquo;reCAPTCHA&rdquo; provided by Google LLC to prevent spam and fraudulent submissions. reCAPTCHA automatically collects information such as the user&rsquo;s IP address and information about their actions and device, and transmits it to Google. The handling of such information is governed by Google&rsquo;s Privacy Policy and Terms of Service.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>11. Disclosure, Correction, and Suspension of Use</h2>
+      <p>You may request the disclosure, correction, addition, deletion, suspension of use, or suspension of provision to third parties of your own personal information held by the Company. To make such a request, please contact the inquiry desk below. After verifying your identity, we will respond within a reasonable period in accordance with laws and regulations.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>12. Changes to This Privacy Policy</h2>
+      <p>The content of this Policy may be changed due to amendments to laws and regulations or at the Company's discretion. When making material changes, we will provide notice by posting on our site or by other appropriate means. The revised content takes effect from the time it is posted on our site.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>13. Inquiry Desk</h2>
+      <div class="pp-contact-box">
+        <strong>ARTS&nbsp;RESPECT Co., Ltd.</strong><br>
+        8-6-202 Nihonbashi-Kobunacho, Chuo-ku, Tokyo 103-0024, Japan<br>
+        TEL：<a href="tel:07055150202">070-5515-0202</a><br>
+        Email：<a href="mailto:info@atspect.co.jp">info@atspect.co.jp</a>
+      </div>
+    </div>
+
+    <!-- ★fill in revision date once actually deployed -->
+    <p class="pp-date">Effective date: June 30, 2026　／　Last updated: </p>
+  </div>
+
+  <!-- ── 简体中文 ── -->
+  <div class="lang-block" data-lang="cn">
+    <div class="pp-section">
+      <p>株式会社 ARTS&nbsp;RESPECT（以下简称"本公司"）将保护客户及各位相关人士的个人信息视为重要责任，特此制定如下隐私政策（个人信息保护方针）。本政策不仅适用于本公司企业网站（atspect.co.jp）中个人信息的处理，亦适用于本公司运营的美术在线平台「ATSPECT」（atspect.com）相关业务中本公司所取得的个人信息的处理。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>1. 适用范围</h2>
+      <p>本政策适用于以下各位人士个人信息的处理。</p>
+      <ul>
+        <li>使用本公司企业网站的人士，以及向本公司咨询的人士</li>
+        <li>在「ATSPECT」购买作品的客户（收藏家）</li>
+        <li>在「ATSPECT」进行注册、申请的艺术家，及其代理人、支援者、所属法人／事务所的人士</li>
+      </ul>
+    </div>
+
+    <div class="pp-section">
+      <h2>2. 收集的个人信息</h2>
+      <p>本公司将通过合法、公正的手段，收集以下个人信息。</p>
+      <p><strong>(1) 通过企业网站咨询时</strong></p>
+      <ul>
+        <li>姓名</li>
+        <li>公司名称・团体名称</li>
+        <li>电子邮箱地址</li>
+        <li>咨询内容</li>
+        <li>咨询类别（您所选择的分类）</li>
+        <li>发送来源IP地址（为防止垃圾邮件及不正当使用而自动收集）</li>
+      </ul>
+      <p><strong>(2) 来自在「ATSPECT」购买作品的客户（收藏家）</strong></p>
+      <ul>
+        <li>姓名</li>
+        <li>联系方式（电话号码・电子邮箱地址）</li>
+        <li>地址（含配送地址）</li>
+        <li>支付相关信息</li>
+        <li>下单・购买记录</li>
+      </ul>
+      <p><strong>(3) 来自在「ATSPECT」进行注册、申请的艺术家</strong></p>
+      <ul>
+        <li>姓名・假名读法・雅号</li>
+        <li>出生年月日（用于年龄确认・身份确认）</li>
+        <li>性别（用于介绍时称谓等的判断。属任意提供）</li>
+        <li>出身地・国籍・居住国・地址</li>
+        <li>电话号码・电子邮箱地址</li>
+        <li>活动经历・发表经历・获奖经历・作品相关信息・作品集等</li>
+        <li>所提供的图像（面部照片（肖像）・作品图像等）</li>
+        <li>通过代理人・支援者・法人／事务所申请的情形下，该代理人・法人的名称、负责人姓名、联系方式，以及与艺术家本人的关系</li>
+        <li>注册（审核通过）后所取得的信息：收款账户信息、适格发票开具经营者（Invoice制度）登记号码及其他与纳税经营者相关的信息、身份确认所需信息（必要时）</li>
+      </ul>
+      <p><strong>(4) 伴随服务使用而自动收集的信息</strong></p>
+      <ul>
+        <li>Cookie、访问日志、IP地址、所使用的终端・浏览器相关信息等</li>
+      </ul>
+      <p>此外，信用卡号等支付信息由本公司签约的支付代理公司进行处理，本公司不会保存卡号本身。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>3. 使用目的</h2>
+      <p>本公司将在以下目的范围内使用所收集的个人信息。</p>
+      <ul>
+        <li>用于回复・联络咨询，以及提供本公司服务的相关介绍</li>
+        <li>用于受理作品订单、支付、发货及履行其他交易</li>
+        <li>用于受理・审核艺术家注册及进行联络</li>
+        <li>用于创建、编辑、登载艺术家简介・作品信息，以及以多语言进行发布</li>
+        <li>在网站・媒体的编辑・制作（多语言翻译、图像修正・加工、介绍文・介绍视频的制作等）中运用AI工具</li>
+        <li>用于将面部照片（肖像）及作品图像登载于网站・媒体，并向国内外进行介绍</li>
+        <li>用于销售款项的汇付、收据・发票・付款明细的开具及其他会计・税务上的手续</li>
+        <li>用于身份确认・年龄确认以及防止不正当使用</li>
+        <li>用于防止垃圾邮件・非法访问及其他服务的安全运营</li>
+      </ul>
+      <p>本公司不会超出实现上述目的所必需的范围使用个人信息。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>4. 向第三方提供</h2>
+      <p>除以下情形外，本公司不会在未事先取得本人同意的情况下向第三方提供个人信息。</p>
+      <ul>
+        <li>已取得本人同意的情形</li>
+        <li>基于法令规定的情形</li>
+        <li>为保护人的生命、身体或财产所必需，且难以取得本人同意的情形</li>
+        <li>为协助国家机关等而有必要的情形</li>
+      </ul>
+    </div>
+
+    <div class="pp-section">
+      <h2>5. 业务委托</h2>
+      <p>本公司可能在实现使用目的所必需的范围内，将个人信息的处理委托给外部。受托方包括配送公司、支付代理公司，以及网站・媒体制作业务（多语言翻译、图像编辑、介绍文・介绍视频的制作等，包括其中使用AI工具的情形）的受托方等。在此情形下，本公司将适当地选定受托方，并进行必要且适当的监督。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>6. 向境外第三方提供（跨境转移）</h2>
+      <p>本公司在进行前项委托等时所使用的云服务、AI工具、支付代理服务等的提供事业者，可能位于境外。在此情形下，本公司将依照有关个人信息保护的法令，在提供转移目的地国家制度及所采取措施的相关信息及履行其他必要手续后进行提供。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>7. 个人信息的保存期限</h2>
+      <p>本公司仅在实现使用目的所必需的期间，以及相关法令（税务・公司法等）所规定的强制保存期间内保有所收集的个人信息，之后将不迟延地予以删除或匿名化。身份确认所需信息，在达成确认目的后，不会超出必要范围予以保有。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>8. 安全管理</h2>
+      <p>本公司将为防止所收集个人信息的泄露、灭失或毁损及其他安全管理目的，采取必要且适当的措施。在委托处理个人信息时，本公司将进行监督，以确保受托方亦实施适当的管理。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>9. 泄露等的应对</h2>
+      <p>当发生个人信息泄露、灭失、毁损或其他事态，或本公司知悉其风险时，本公司将依照法令进行必要的调查・应对，并适当地向相关机构报告及向本人通知等。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>10. Cookie与访问分析</h2>
+      <p>本网站及服务为提升便利性及改善服务，可能使用Cookie及访问分析工具（Google Analytics等）。这些工具以不包含可直接识别个人的信息的形式收集数据。您可通过浏览器设置禁用Cookie。此外，本公司企业网站（atspect.co.jp）的联系表单使用 Google LLC 提供的「reCAPTCHA」，以防止垃圾信息及不正当提交。reCAPTCHA 会自动获取用户的IP地址及与操作、设备相关的信息，并发送至 Google。这些信息的处理适用 Google 的隐私政策及使用条款。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>11. 披露·更正·停止使用等请求</h2>
+      <p>客户可就本公司所保有的本人个人信息，请求披露、更正、追加、删除、停止使用、停止向第三方提供等。提出请求时，请联系下列咨询窗口。在确认为本人后，本公司将依照法令，在合理期间内予以应对。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>12. 隐私政策的变更</h2>
+      <p>本政策内容可能因法令修订或本公司的判断而变更。进行重要变更时，本公司将通过在本网站上登载或其他适当方式予以告知。变更后的内容自登载于本网站之时起生效。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>13. 联系窗口</h2>
+      <div class="pp-contact-box">
+        <strong>株式会社 ARTS&nbsp;RESPECT</strong><br>
+        〒103-0024 东京都中央区日本桥小舟町8-6-202<br>
+        TEL：<a href="tel:07055150202">070-5515-0202</a><br>
+        Email：<a href="mailto:info@atspect.co.jp">info@atspect.co.jp</a>
+      </div>
+    </div>
+
+    <!-- ★正式反映后请填写修订日期 -->
+    <p class="pp-date">制定日期：2026年6月30日　／　最终修订日期：</p>
+  </div>
+
+  <!-- ── 繁體中文 ── -->
+  <div class="lang-block" data-lang="tw">
+    <div class="pp-section">
+      <p>株式會社 ARTS&nbsp;RESPECT（以下簡稱「本公司」）將保護包含客戶在內各位人士的個人資訊視為重要職責，並制定如下隱私政策（個人資訊保護方針）。本政策除適用於本公司企業網站（atspect.co.jp）的個人資訊處理外，亦適用於與本公司營運的美術線上平台「ATSPECT」（atspect.com）相關而由本公司取得的個人資訊處理。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>1. 適用範圍</h2>
+      <p>本政策適用於以下各位人士的個人資訊處理。</p>
+      <ul>
+        <li>使用本公司企業網站者、向本公司提出諮詢者</li>
+        <li>於「ATSPECT」購買作品的客戶（收藏家）</li>
+        <li>於「ATSPECT」登錄、申請的藝術家，以及其代理人、支援者、所屬法人／事務所人員</li>
+      </ul>
+    </div>
+
+    <div class="pp-section">
+      <h2>2. 收集的個人資訊</h2>
+      <p>本公司將以合法且公正的方式，收集以下個人資訊。</p>
+      <p><strong>(1) 透過企業網站諮詢時</strong></p>
+      <ul>
+        <li>姓名</li>
+        <li>公司名稱・團體名稱</li>
+        <li>電子郵件地址</li>
+        <li>諮詢內容</li>
+        <li>諮詢類別（您所選擇的分類）</li>
+        <li>來源IP位址（為防止垃圾郵件及不正當使用而自動收集）</li>
+      </ul>
+      <p><strong>(2) 來自於「ATSPECT」購買作品的客戶（收藏家）</strong></p>
+      <ul>
+        <li>姓名</li>
+        <li>聯絡方式（電話號碼・電子郵件地址）</li>
+        <li>地址（包含配送地址）</li>
+        <li>付款相關資訊</li>
+        <li>訂購・購買紀錄</li>
+      </ul>
+      <p><strong>(3) 來自於「ATSPECT」登錄、申請的藝術家</strong></p>
+      <ul>
+        <li>姓名・讀音・雅號</li>
+        <li>出生年月日（為確認年齡・本人身分）</li>
+        <li>性別（為判斷介紹時的稱謂等。屬任意）</li>
+        <li>出身・國籍・居住國・地址</li>
+        <li>電話號碼・電子郵件地址</li>
+        <li>活動經歷・發表經歷・獲獎經歷・作品相關資訊・作品集等</li>
+        <li>所提供的影像（臉部照片（肖像）・作品影像等）</li>
+        <li>由代理人・支援者・法人／事務所提出申請時，該代理人・法人的名稱、承辦人姓名、聯絡方式，以及與藝術家本人的關係</li>
+        <li>登錄（通過審查）後取得的資訊：匯款帳戶資訊、合格請求書開立業者（Invoice制度）登錄號碼及其他課稅業者相關資訊、本人身分確認用資訊（必要時）</li>
+      </ul>
+      <p><strong>(4) 隨服務使用而自動收集的資訊</strong></p>
+      <ul>
+        <li>Cookie、存取紀錄、IP位址、所使用之裝置・瀏覽器相關資訊等</li>
+      </ul>
+      <p>此外，信用卡號碼等付款資訊，係由本公司簽約的付款代理公司處理，本公司不會保有卡號本身。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>3. 使用目的</h2>
+      <p>本公司將於以下目的範圍內使用所收集的個人資訊。</p>
+      <ul>
+        <li>為回覆・聯絡諮詢，以及提供本公司服務相關之資訊</li>
+        <li>為受理作品訂購、付款、配送及履行其他交易</li>
+        <li>為受理・審查藝術家登錄並進行聯絡</li>
+        <li>為製作、編輯、刊載藝術家簡介・作品資訊，並以多語言發布</li>
+        <li>於網站・媒體的編輯・製作（多語言翻譯、影像的修正・加工、介紹文・介紹影片的製作等）中運用AI工具</li>
+        <li>為將臉部照片（肖像）及作品影像刊載於網站・媒體，並向國內外進行介紹</li>
+        <li>為銷售款項的匯款、收據・請款書・付款明細的開立及其他會計・稅務上的手續</li>
+        <li>為確認本人身分・年齡及防止不正當使用</li>
+        <li>為防止垃圾郵件・不正當存取及其他服務的安全營運</li>
+      </ul>
+      <p>本公司不會超出達成上述目的所需的範圍使用個人資訊。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>4. 向第三方提供</h2>
+      <p>除以下情形外，本公司不會在未事先取得本人同意的情況下，向第三方提供個人資訊。</p>
+      <ul>
+        <li>取得本人同意時</li>
+        <li>基於法令規定時</li>
+        <li>為保護人的生命、身體或財產所必要，且難以取得本人同意時</li>
+        <li>為協助國家機關等所必要時</li>
+      </ul>
+    </div>
+
+    <div class="pp-section">
+      <h2>5. 業務委託</h2>
+      <p>本公司可能於達成使用目的所需範圍內，將個人資訊的處理委託予外部。受託方包含配送業者、付款代理公司，以及網站・媒體的製作業務（多語言翻譯、影像編輯、介紹文・介紹影片的製作等，包含於其中運用AI工具的情形）的受託方等。於此情形下，本公司將適當地選定受託方，並進行必要且適當的監督。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>6. 向境外第三方提供（跨境傳輸）</h2>
+      <p>本公司於前項委託等情形所使用的雲端服務、AI工具、付款代理服務等之提供業者，可能位於境外。於此情形下，本公司將依循個人資訊保護相關法令，於提供有關傳輸目的地國家制度及所採行措施之資訊及其他必要手續後，再行提供。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>7. 個人資訊的保存期限</h2>
+      <p>本公司僅於達成使用目的所需期間，以及相關法令（稅務・公司法等）規定有保存義務的期間內，保有所收集的個人資訊，其後將立即予以刪除或匿名化。本人身分確認用資訊於達成確認目的後，不會超出必要範圍保有。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>8. 安全管理</h2>
+      <p>本公司為防止所收集之個人資訊的洩漏、滅失或毀損及其他安全管理事項，將採取必要且適當的措施。委託個人資訊處理時，亦將監督受託方妥善進行管理。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>9. 洩漏等的應對</h2>
+      <p>當發生個人資訊洩漏、滅失、毀損或其他事態，或本公司知悉其風險時，本公司將依照法令進行必要的調查・應對，並適當地向相關機構報告及向本人通知等。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>10. Cookie與存取分析</h2>
+      <p>本網站及服務為提升便利性與改善服務，可能使用Cookie及存取分析工具（Google Analytics等）。這些工具係以不含直接識別個人之資訊的形式收集資料。您可透過瀏覽器設定停用Cookie。此外，本公司企業網站（atspect.co.jp）的聯絡表單使用 Google LLC 提供的「reCAPTCHA」，以防止垃圾訊息與不當提交。reCAPTCHA 會自動取得使用者的IP位址及與操作、裝置相關的資訊，並傳送至 Google。這些資訊的處理適用 Google 的隱私政策及使用條款。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>11. 揭露·更正·停止使用等請求</h2>
+      <p>客戶可就本公司所保有之您本人的個人資訊，請求揭露、更正、追加、刪除、停止使用、停止向第三方提供等。提出請求時，請與下列聯絡窗口聯繫。本公司將於確認您為本人後，依循法令，於合理期間內予以處理。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>12. 隱私政策的變更</h2>
+      <p>本政策的內容，可能因法令修訂或本公司的判斷而變更。進行重要變更時，本公司將透過於本網站刊載或其他適當方式通知。變更後的內容自刊載於本網站之時起生效。</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>13. 聯絡窗口</h2>
+      <div class="pp-contact-box">
+        <strong>株式會社 ARTS&nbsp;RESPECT</strong><br>
+        〒103-0024 東京都中央區日本橋小舟町8-6-202<br>
+        TEL：<a href="tel:07055150202">070-5515-0202</a><br>
+        Email：<a href="mailto:info@atspect.co.jp">info@atspect.co.jp</a>
+      </div>
+    </div>
+
+    <!-- ★正式反映後請填寫修訂日期 -->
+    <p class="pp-date">制定日期：2026年6月30日　／　最終修訂日期：</p>
+  </div>
+
+  <!-- ── 한국어 ── -->
+  <div class="lang-block" data-lang="ko">
+    <div class="pp-section">
+      <p>주식회사 ARTS&nbsp;RESPECT(이하 "당사"라 합니다)는 고객님을 비롯한 여러분의 개인정보 보호를 중요한 책무로 여기며, 다음과 같이 개인정보 처리방침(개인정보 보호방침)을 정합니다. 본 방침은 당사 기업 사이트(atspect.co.jp)에서의 개인정보 취급뿐만 아니라, 당사가 운영하는 미술 온라인 플랫폼 「ATSPECT」(atspect.com)와 관련하여 당사가 취득하는 개인정보의 취급에도 적용됩니다.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>1. 적용 범위</h2>
+      <p>본 방침은 다음 여러분의 개인정보 취급에 적용됩니다.</p>
+      <ul>
+        <li>당사 기업 사이트를 이용하시는 분, 당사에 문의하시는 분</li>
+        <li>「ATSPECT」에서 작품을 구매하시는 고객님(컬렉터)</li>
+        <li>「ATSPECT」에 등록·신청하시는 작가 및 그 대리인·지원자·소속 법인／사무소의 관계자</li>
+      </ul>
+    </div>
+
+    <div class="pp-section">
+      <h2>2. 수집하는 개인정보</h2>
+      <p>당사는 적법하고 공정한 수단으로 다음의 개인정보를 수집합니다.</p>
+      <p><strong>(1) 기업 사이트 문의 시</strong></p>
+      <ul>
+        <li>성명</li>
+        <li>회사명·단체명</li>
+        <li>이메일 주소</li>
+        <li>문의 내용</li>
+        <li>문의 종류(선택하신 구분)</li>
+        <li>발신자 IP 주소(스팸 메일·부정 이용 방지를 위해 자동으로 수집합니다)</li>
+      </ul>
+      <p><strong>(2) 「ATSPECT」에서 작품을 구매하시는 고객님(컬렉터)으로부터</strong></p>
+      <ul>
+        <li>성명</li>
+        <li>연락처(전화번호·이메일 주소)</li>
+        <li>주소(배송지를 포함합니다)</li>
+        <li>결제에 관한 정보</li>
+        <li>주문·구매 내역</li>
+      </ul>
+      <p><strong>(3) 「ATSPECT」에 등록·신청하시는 작가로부터</strong></p>
+      <ul>
+        <li>성명·읽는 법·아호(雅號)</li>
+        <li>생년월일(연령 확인·본인 확인을 위해)</li>
+        <li>성별(소개 시 호칭 등의 판단을 위해. 임의)</li>
+        <li>출신·국적·거주국·주소</li>
+        <li>전화번호·이메일 주소</li>
+        <li>활동 이력·발표 이력·수상 이력·작품에 관한 정보·포트폴리오 등</li>
+        <li>제공해 주시는 이미지(얼굴 사진(초상)·작품 이미지 등)</li>
+        <li>대리인·지원자·법인／사무소에 의한 신청의 경우, 해당 대리인·법인의 명칭, 담당자 성명, 연락처 및 작가 본인과의 관계</li>
+        <li>등록(심사 통과) 후에 취득하는 정보: 송금 계좌 정보, 적격청구서 발행사업자(인보이스) 등록번호 기타 과세사업자에 관한 정보, 본인 확인을 위한 정보(필요한 경우)</li>
+      </ul>
+      <p><strong>(4) 서비스 이용에 따라 자동으로 취득하는 정보</strong></p>
+      <ul>
+        <li>쿠키, 접속 로그, IP 주소, 이용하시는 단말기·브라우저에 관한 정보 등</li>
+      </ul>
+      <p>또한, 신용카드 번호 등의 결제 정보는 당사가 계약하는 결제대행회사에서 처리되며, 당사가 카드 번호 자체를 보유하는 일은 없습니다.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>3. 이용 목적</h2>
+      <p>당사는 취득한 개인정보를 다음 목적의 범위 내에서 이용합니다.</p>
+      <ul>
+        <li>문의에 대한 답변·연락, 당사 서비스에 관한 안내를 위해</li>
+        <li>작품 주문 접수, 결제, 발송 기타 거래를 이행하기 위해</li>
+        <li>작가 등록 접수·심사 및 연락을 위해</li>
+        <li>작가 프로필·작품 정보의 작성, 편집, 게재 및 다국어 발신을 위해</li>
+        <li>사이트·미디어의 편집·제작(다국어 번역, 이미지 보정·가공, 소개문·소개 영상 제작 등)에 AI 도구를 활용하기 위해</li>
+        <li>얼굴 사진(초상) 및 작품 이미지를 사이트·미디어에 게재하여 국내외에 소개하기 위해</li>
+        <li>매출 송금, 영수증·청구서·지급 명세서 발행 기타 경리·세무상의 절차를 위해</li>
+        <li>본인 확인·연령 확인 및 부정 이용 방지를 위해</li>
+        <li>스팸 메일·부정 접속 방지 기타 서비스의 안전한 운영을 위해</li>
+      </ul>
+      <p>당사는 이러한 목적의 달성에 필요한 범위를 넘어 개인정보를 이용하지 않습니다.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>4. 제3자 제공</h2>
+      <p>당사는 다음의 경우를 제외하고, 사전에 본인의 동의를 얻지 않고 개인정보를 제3자에게 제공하지 않습니다.</p>
+      <ul>
+        <li>본인의 동의가 있는 경우</li>
+        <li>법령에 근거하는 경우</li>
+        <li>사람의 생명, 신체 또는 재산의 보호를 위해 필요하며, 본인의 동의를 얻기 곤란한 경우</li>
+        <li>국가 기관 등에 대한 협력을 위해 필요한 경우</li>
+      </ul>
+    </div>
+
+    <div class="pp-section">
+      <h2>5. 업무 위탁</h2>
+      <p>당사는 이용 목적의 달성에 필요한 범위에서 개인정보의 취급을 외부에 위탁하는 경우가 있습니다. 위탁처에는 배송업자, 결제대행회사, 그리고 사이트·미디어 제작 업무(다국어 번역, 이미지 편집, 소개문·소개 영상 제작 등. 이에 AI 도구를 이용하는 경우를 포함합니다)의 위탁처 등이 포함됩니다. 이 경우 당사는 위탁처를 적절히 선정하고, 필요하고 적절한 감독을 시행합니다.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>6. 국외 제3자 제공(국외 이전)</h2>
+      <p>당사가 전항의 위탁 등에 있어 이용하는 클라우드 서비스, AI 도구, 결제대행 서비스 등의 제공 사업자가 외국에 소재하는 경우가 있습니다. 이 경우 당사는 개인정보 보호에 관한 법령에 따라, 이전처 국가의 제도나 강구되는 조치에 관한 정보 제공 기타 필요한 절차를 거친 후 제공합니다.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>7. 개인정보의 보유 기간</h2>
+      <p>당사는 취득한 개인정보를 이용 목적의 달성에 필요한 기간, 및 관계 법령(세무·회사법 등)에 의해 보존이 의무화된 기간에 한하여 보유하며, 그 후에는 지체 없이 삭제 또는 익명화합니다. 본인 확인을 위한 정보는 확인의 목적을 달성한 후, 필요한 범위를 넘어 보유하지 않습니다.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>8. 안전관리</h2>
+      <p>당사는 취득한 개인정보의 누설, 멸실 또는 훼손의 방지 기타 안전관리를 위해 필요하고 적절한 조치를 강구합니다. 개인정보의 취급을 위탁하는 경우에는 위탁처에서도 적절한 관리가 이루어지도록 감독합니다.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>9. 유출 등에 대한 대응</h2>
+      <p>당사는 개인정보의 유출, 멸실, 훼손 그 밖의 사태가 발생하거나 그 우려를 파악한 경우, 법령에 따라 필요한 조사・대응을 실시하고, 관계 기관에 대한 보고 및 본인에 대한 통지 등을 적절히 실시합니다.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>10. 쿠키 및 접속 분석</h2>
+      <p>당 사이트 및 서비스에서는 편의성 향상이나 서비스 개선을 위해 쿠키 및 접속 분석 도구(Google Analytics 등)를 사용하는 경우가 있습니다. 이러한 도구는 개인을 직접 특정하는 정보를 포함하지 않는 형태로 데이터를 수집합니다. 브라우저 설정을 통해 쿠키를 비활성화할 수 있습니다. 또한 당사 기업 사이트(atspect.co.jp)의 문의 양식에서는 스팸 및 부정 송신을 방지하기 위해 Google LLC가 제공하는 「reCAPTCHA」를 이용합니다. reCAPTCHA는 이용자의 IP 주소 및 조작・단말기에 관한 정보를 자동으로 취득하여 Google에 송신합니다. 이러한 정보의 취급에는 Google의 개인정보 처리방침 및 이용약관이 적용됩니다.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>11. 열람·정정·이용정지 등의 청구</h2>
+      <p>고객님은 당사가 보유하는 본인의 개인정보에 대해 열람, 정정, 추가, 삭제, 이용정지, 제3자 제공의 정지 등을 청구하실 수 있습니다. 청구 시에는 아래 문의 창구로 연락해 주시기 바랍니다. 본인임을 확인한 후, 법령에 따라 합리적인 기간 내에 대응해 드립니다.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>12. 개인정보 처리방침의 변경</h2>
+      <p>본 방침의 내용은 법령의 개정이나 당사의 판단에 따라 변경하는 경우가 있습니다. 중요한 변경을 시행하는 경우에는 당 사이트상의 게재 기타 적절한 방법으로 알려드립니다. 변경 후의 내용은 당 사이트에 게재한 시점부터 효력이 발생합니다.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>13. 문의 창구</h2>
+      <div class="pp-contact-box">
+        <strong>주식회사 ARTS&nbsp;RESPECT</strong><br>
+        〒103-0024 도쿄도 주오구 니혼바시코부나초 8-6-202<br>
+        TEL：<a href="tel:07055150202">070-5515-0202</a><br>
+        Email：<a href="mailto:info@atspect.co.jp">info@atspect.co.jp</a>
+      </div>
+    </div>
+
+    <!-- ★실반영일이 확정되면 개정일을 기입할 것 -->
+    <p class="pp-date">제정일: 2026년 6월 30일　／　최종 개정일: </p>
+  </div>
+
+  <!-- ── Français ── -->
+  <div class="lang-block" data-lang="fr">
+    <div class="pp-section">
+      <p>ARTS&nbsp;RESPECT Co., Ltd. (ci-après «&nbsp;la Société&nbsp;» ou «&nbsp;nous&nbsp;») considère la protection des données personnelles de ses clients et de l'ensemble de ses interlocuteurs comme une responsabilité essentielle, et établit en conséquence la présente politique de confidentialité (politique de protection des données personnelles). La présente politique s'applique au traitement des données personnelles réalisé dans le cadre du site institutionnel de la Société (atspect.co.jp), ainsi qu'au traitement des données personnelles que nous collectons en lien avec la plateforme d'art en ligne «&nbsp;ATSPECT&nbsp;» (atspect.com) que nous exploitons.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>1. Champ d'application</h2>
+      <p>La présente politique s'applique au traitement des données personnelles des personnes suivantes&nbsp;:</p>
+      <ul>
+        <li>les personnes qui utilisent le site institutionnel de la Société ou qui nous contactent&nbsp;;</li>
+        <li>les clients (collectionneurs) qui achètent des œuvres sur «&nbsp;ATSPECT&nbsp;»&nbsp;;</li>
+        <li>les artistes qui s'inscrivent ou déposent une candidature sur «&nbsp;ATSPECT&nbsp;», ainsi que leurs représentants, les personnes qui les soutiennent et les personnes morales / agences dont ils relèvent.</li>
+      </ul>
+    </div>
+
+    <div class="pp-section">
+      <h2>2. Données personnelles que nous collectons</h2>
+      <p>La Société collecte les données personnelles suivantes par des moyens licites et loyaux.</p>
+      <p><strong>(1) Lors d'une demande de contact via le site institutionnel</strong></p>
+      <ul>
+        <li>nom</li>
+        <li>nom de la société ou de l'organisation</li>
+        <li>adresse e-mail</li>
+        <li>contenu de la demande</li>
+        <li>type de demande (la catégorie sélectionnée)</li>
+        <li>adresse IP de l'expéditeur (collectée automatiquement afin de prévenir les courriers indésirables et les usages abusifs)</li>
+      </ul>
+      <p><strong>(2) Auprès des clients (collectionneurs) qui achètent des œuvres sur «&nbsp;ATSPECT&nbsp;»</strong></p>
+      <ul>
+        <li>nom</li>
+        <li>coordonnées (numéro de téléphone et adresse e-mail)</li>
+        <li>adresse (y compris l'adresse de livraison)</li>
+        <li>informations relatives au paiement</li>
+        <li>historique des commandes et des achats</li>
+      </ul>
+      <p><strong>(3) Auprès des artistes qui s'inscrivent ou déposent une candidature sur «&nbsp;ATSPECT&nbsp;»</strong></p>
+      <ul>
+        <li>nom, lecture phonétique (furigana) et nom d'artiste</li>
+        <li>date de naissance (à des fins de vérification de l'âge et d'identité)</li>
+        <li>sexe (afin de déterminer les formules d'usage lors de la présentation&nbsp;; facultatif)</li>
+        <li>origine, nationalité, pays de résidence et adresse</li>
+        <li>numéro de téléphone et adresse e-mail</li>
+        <li>parcours d'activité, historique d'expositions, distinctions, informations relatives aux œuvres, portfolio, etc.</li>
+        <li>images fournies (photographie de portrait, images des œuvres, etc.)</li>
+        <li>en cas de candidature déposée par un représentant, un soutien ou une personne morale / agence&nbsp;: la dénomination dudit représentant ou de ladite personne morale, le nom de la personne en charge, ses coordonnées, ainsi que sa relation avec l'artiste concerné</li>
+        <li>informations collectées après l'inscription (réussite de l'examen)&nbsp;: coordonnées du compte bancaire de versement, numéro d'enregistrement d'émetteur de factures qualifiées (facture, dit «&nbsp;invoice&nbsp;») et autres informations relatives aux assujettis, informations de vérification d'identité (le cas échéant)</li>
+      </ul>
+      <p><strong>(4) Informations collectées automatiquement lors de l'utilisation du service</strong></p>
+      <ul>
+        <li>cookies, journaux d'accès, adresse IP, informations relatives au terminal et au navigateur utilisés, etc.</li>
+      </ul>
+      <p>À noter que les informations de paiement, telles que les numéros de carte de crédit, sont traitées par le prestataire de services de paiement avec lequel la Société est sous contrat&nbsp;; la Société ne conserve pas elle-même les numéros de carte.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>3. Finalités d'utilisation</h2>
+      <p>La Société utilise les données personnelles collectées dans la limite des finalités suivantes&nbsp;:</p>
+      <ul>
+        <li>répondre aux demandes et prendre contact, ainsi que communiquer des informations relatives à nos services&nbsp;;</li>
+        <li>traiter les commandes d'œuvres, exécuter les paiements, les expéditions et les autres opérations&nbsp;;</li>
+        <li>réceptionner et examiner les inscriptions d'artistes et prendre contact avec eux&nbsp;;</li>
+        <li>créer, éditer, publier et diffuser en plusieurs langues les profils d'artistes et les informations relatives aux œuvres&nbsp;;</li>
+        <li>recourir à des outils d'intelligence artificielle pour l'édition et la production du site et des médias (traduction multilingue, correction et retouche d'images, rédaction de textes et réalisation de vidéos de présentation, etc.)&nbsp;;</li>
+        <li>publier les photographies de portrait et les images des œuvres sur le site et les médias, et les présenter au Japon comme à l'étranger&nbsp;;</li>
+        <li>effectuer le versement des recettes, l'émission des reçus, factures et relevés de paiement, ainsi que les autres formalités comptables et fiscales&nbsp;;</li>
+        <li>vérifier l'identité et l'âge et prévenir les usages abusifs&nbsp;;</li>
+        <li>prévenir les courriers indésirables et les accès non autorisés et assurer plus généralement l'exploitation sécurisée du service.</li>
+      </ul>
+      <p>La Société n'utilise pas les données personnelles au-delà de la mesure nécessaire à la réalisation de ces finalités.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>4. Communication à des tiers</h2>
+      <p>Sauf dans les cas suivants, la Société ne communique pas de données personnelles à des tiers sans avoir recueilli au préalable le consentement de la personne concernée&nbsp;:</p>
+      <ul>
+        <li>lorsque la personne concernée y consent&nbsp;;</li>
+        <li>lorsque la loi l'exige&nbsp;;</li>
+        <li>lorsque cela est nécessaire à la protection de la vie, de l'intégrité physique ou des biens d'une personne et qu'il est difficile d'obtenir le consentement de la personne concernée&nbsp;;</li>
+        <li>lorsque cela est nécessaire pour coopérer avec un organisme public ou assimilé.</li>
+      </ul>
+    </div>
+
+    <div class="pp-section">
+      <h2>5. Sous-traitance</h2>
+      <p>La Société peut confier à des tiers le traitement de données personnelles dans la mesure nécessaire à la réalisation des finalités d'utilisation. Les sous-traitants comprennent notamment les transporteurs, les prestataires de services de paiement, ainsi que les prestataires chargés de la production du site et des médias (traduction multilingue, retouche d'images, rédaction de textes et réalisation de vidéos de présentation, etc., y compris lorsque des outils d'intelligence artificielle sont utilisés à ces fins). Dans ce cas, la Société sélectionne ses sous-traitants de manière appropriée et exerce sur eux la surveillance nécessaire et adéquate.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>6. Transfert vers des tiers situés à l'étranger (transfert transfrontalier)</h2>
+      <p>Les prestataires de services cloud, d'outils d'intelligence artificielle, de services de paiement et autres auxquels la Société recourt dans le cadre de la sous-traitance visée à l'article précédent peuvent être situés à l'étranger. Dans ce cas, la Société procède au transfert conformément à la législation relative à la protection des données personnelles, après avoir fourni les informations relatives au régime juridique du pays de destination et aux mesures qui y sont mises en œuvre, et accompli les autres formalités nécessaires.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>7. Durée de conservation</h2>
+      <p>La Société conserve les données personnelles collectées uniquement pendant la durée nécessaire à la réalisation des finalités d'utilisation, ainsi que pendant la durée de conservation imposée par les lois et règlements applicables (droit fiscal, droit des sociétés, etc.)&nbsp;; au-delà, elle les supprime ou les anonymise sans délai. Les informations destinées à la vérification d'identité ne sont pas conservées au-delà de la mesure nécessaire une fois la finalité de vérification atteinte.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>8. Sécurité des données</h2>
+      <p>La Société met en œuvre les mesures nécessaires et appropriées afin de prévenir la fuite, la perte ou l'altération des données personnelles collectées et d'en assurer plus généralement la sécurité. Lorsqu'elle confie le traitement de données personnelles à un sous-traitant, elle veille à ce que celui-ci en assure également une gestion appropriée.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>9. Réponse aux violations de données</h2>
+      <p>En cas de fuite, de perte, de dommage ou de tout autre incident concernant des données personnelles, ou si la Société a connaissance d'un risque en la matière, elle procède aux investigations et aux mesures nécessaires conformément à la loi et effectue de manière appropriée les notifications aux autorités compétentes et aux personnes concernées.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>10. Cookies et analyse d'audience</h2>
+      <p>Le présent site et le service peuvent utiliser des cookies et des outils d'analyse d'audience (tels que Google Analytics) afin d'améliorer le confort d'utilisation et le service. Ces outils collectent des données sous une forme ne comportant pas d'informations permettant d'identifier directement une personne. Vous pouvez désactiver les cookies au moyen des paramètres de votre navigateur. Par ailleurs, le formulaire de contact de notre site institutionnel (atspect.co.jp) utilise «&nbsp;reCAPTCHA&nbsp;», fourni par Google LLC, afin de prévenir le spam et les envois frauduleux. reCAPTCHA collecte automatiquement des informations telles que l&rsquo;adresse IP de l&rsquo;utilisateur ainsi que des données relatives à ses actions et à son appareil, puis les transmet à Google. Le traitement de ces informations est régi par la politique de confidentialité et les conditions d&rsquo;utilisation de Google.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>11. Demandes d'accès, de rectification et de suppression</h2>
+      <p>Vous pouvez demander l'accès, la rectification, l'ajout, la suppression, la cessation d'utilisation ou la cessation de communication à des tiers des données personnelles vous concernant que la Société détient. Pour toute demande, veuillez contacter le point de contact ci-dessous. Après avoir vérifié votre identité, nous y répondrons dans un délai raisonnable, conformément à la loi.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>12. Modifications de la présente politique</h2>
+      <p>Le contenu de la présente politique est susceptible d'être modifié en raison de l'évolution de la législation ou d'une décision de la Société. En cas de modification importante, nous en informerons par publication sur le présent site ou par tout autre moyen approprié. Le contenu modifié prend effet à compter de sa publication sur le présent site.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>13. Contact</h2>
+      <div class="pp-contact-box">
+        <strong>ARTS&nbsp;RESPECT Co., Ltd.</strong><br>
+        8-6-202 Nihonbashi-Kobunacho, Chuo-ku, Tokyo 103-0024, Japon<br>
+        Tél.&nbsp;: <a href="tel:07055150202">070-5515-0202</a><br>
+        E-mail&nbsp;: <a href="mailto:info@atspect.co.jp">info@atspect.co.jp</a>
+      </div>
+    </div>
+
+    <!-- ★indiquer la date de révision une fois la mise en ligne effective -->
+    <p class="pp-date">Date d'entrée en vigueur&nbsp;: 30 juin 2026　／　Dernière mise à jour&nbsp;: </p>
+  </div>
+
+  <!-- ── Español ── -->
+  <div class="lang-block" data-lang="es">
+    <div class="pp-section">
+      <p>ARTS&nbsp;RESPECT Co., Ltd. (en adelante, «la Empresa») considera que la protección de los datos personales de nuestros clientes y de todas las personas que se relacionan con nosotros constituye una responsabilidad fundamental, y por ello establece la presente Política de Privacidad (Política de Protección de Datos Personales) en los siguientes términos. Esta política se aplica al tratamiento de los datos personales en el sitio web corporativo de la Empresa (atspect.co.jp), así como al tratamiento de los datos personales que la Empresa recopila en relación con la plataforma de arte en línea «ATSPECT» (atspect.com) que opera.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>1. Ámbito de aplicación</h2>
+      <p>La presente política se aplica al tratamiento de los datos personales de las siguientes personas:</p>
+      <ul>
+        <li>Quienes utilizan el sitio web corporativo de la Empresa y quienes se ponen en contacto con nosotros.</li>
+        <li>Los clientes (coleccionistas) que adquieren obras en «ATSPECT».</li>
+        <li>Los artistas que se registran o presentan su solicitud en «ATSPECT», así como sus representantes, colaboradores y las personas de las entidades o agencias a las que pertenecen.</li>
+      </ul>
+    </div>
+
+    <div class="pp-section">
+      <h2>2. Datos personales que recopilamos</h2>
+      <p>La Empresa recopila los siguientes datos personales por medios lícitos y leales:</p>
+      <p><strong>(1) Al ponerse en contacto a través del sitio web corporativo</strong></p>
+      <ul>
+        <li>Nombre</li>
+        <li>Nombre de la empresa u organización</li>
+        <li>Dirección de correo electrónico</li>
+        <li>Contenido de la consulta</li>
+        <li>Tipo de consulta (la categoría seleccionada)</li>
+        <li>Dirección IP de origen (recopilada automáticamente para prevenir el correo no deseado y el uso indebido)</li>
+      </ul>
+      <p><strong>(2) De los clientes (coleccionistas) que adquieren obras en «ATSPECT»</strong></p>
+      <ul>
+        <li>Nombre</li>
+        <li>Datos de contacto (número de teléfono y dirección de correo electrónico)</li>
+        <li>Domicilio (incluida la dirección de entrega)</li>
+        <li>Información relativa al pago</li>
+        <li>Historial de pedidos y compras</li>
+      </ul>
+      <p><strong>(3) De los artistas que se registran o presentan su solicitud en «ATSPECT»</strong></p>
+      <ul>
+        <li>Nombre, lectura fonética y seudónimo artístico</li>
+        <li>Fecha de nacimiento (para la verificación de la edad y de la identidad)</li>
+        <li>Sexo (para determinar el tratamiento y la forma de referirse a la persona en las presentaciones; facultativo)</li>
+        <li>Lugar de origen, nacionalidad, país de residencia y domicilio</li>
+        <li>Número de teléfono y dirección de correo electrónico</li>
+        <li>Trayectoria de actividad, historial de exposiciones, premios recibidos, información sobre las obras, portafolio, etc.</li>
+        <li>Imágenes proporcionadas (fotografía de rostro [retrato], imágenes de las obras, etc.)</li>
+        <li>En el caso de solicitudes presentadas por un representante, colaborador, entidad o agencia: la denominación de dicho representante o entidad, el nombre de la persona de contacto, los datos de contacto y la relación con el propio artista</li>
+        <li>Información que se recopila tras el registro (una vez superada la evaluación): datos de la cuenta bancaria para las transferencias, número de registro como emisor de facturas cualificadas (factura) y demás información relativa a la condición de sujeto pasivo, e información para la verificación de la identidad (cuando sea necesario)</li>
+      </ul>
+      <p><strong>(4) Información que se recopila automáticamente con el uso del servicio</strong></p>
+      <ul>
+        <li>Cookies, registros de acceso, dirección IP, información sobre el dispositivo y el navegador utilizados, etc.</li>
+      </ul>
+      <p>Cabe señalar que la información de pago, como los números de tarjeta de crédito, es procesada por la empresa de procesamiento de pagos con la que la Empresa mantiene un contrato, y la Empresa no conserva el propio número de la tarjeta.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>3. Finalidad de uso</h2>
+      <p>La Empresa utiliza los datos personales recopilados dentro del alcance de las siguientes finalidades:</p>
+      <ul>
+        <li>Responder a las consultas, ponerse en contacto y ofrecer información sobre los servicios de la Empresa.</li>
+        <li>Recibir los pedidos de obras, gestionar el pago, realizar el envío y ejecutar las demás operaciones.</li>
+        <li>Recibir y evaluar el registro de los artistas y ponerse en contacto con ellos.</li>
+        <li>Crear, editar, publicar y difundir en varios idiomas los perfiles de los artistas y la información sobre las obras.</li>
+        <li>Emplear herramientas de IA en la edición y producción del sitio y los medios (traducción multilingüe, corrección y retoque de imágenes, redacción de textos y producción de vídeos de presentación, etc.).</li>
+        <li>Publicar las fotografías de rostro (retratos) y las imágenes de las obras en el sitio y los medios, y darlas a conocer en el país y en el extranjero.</li>
+        <li>Realizar las transferencias de los ingresos por ventas, emitir recibos, facturas y detalles de pago, y llevar a cabo los demás trámites contables y fiscales.</li>
+        <li>Verificar la identidad y la edad, y prevenir el uso indebido.</li>
+        <li>Prevenir el correo no deseado y los accesos no autorizados, y garantizar la operación segura del servicio.</li>
+      </ul>
+      <p>La Empresa no utilizará los datos personales más allá del alcance necesario para alcanzar estas finalidades.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>4. Cesión a terceros</h2>
+      <p>Salvo en los siguientes casos, la Empresa no cederá datos personales a terceros sin obtener previamente el consentimiento del interesado:</p>
+      <ul>
+        <li>Cuando se cuente con el consentimiento del interesado.</li>
+        <li>Cuando así lo exija la legislación.</li>
+        <li>Cuando sea necesario para proteger la vida, la integridad física o el patrimonio de una persona y resulte difícil obtener el consentimiento del interesado.</li>
+        <li>Cuando sea necesario para cooperar con organismos del Estado u otras entidades análogas.</li>
+      </ul>
+    </div>
+
+    <div class="pp-section">
+      <h2>5. Encargados del tratamiento</h2>
+      <p>La Empresa puede encargar a terceros el tratamiento de los datos personales dentro del alcance necesario para alcanzar las finalidades de uso. Entre los encargados se incluyen las empresas de transporte, las empresas de procesamiento de pagos y los encargados de la producción del sitio y los medios (traducción multilingüe, edición de imágenes, producción de textos y vídeos de presentación, etc., incluidos los casos en que se utilicen herramientas de IA). En tales casos, la Empresa selecciona adecuadamente a los encargados y ejerce la supervisión necesaria y apropiada.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>6. Transferencia a terceros en el extranjero (transferencia transfronteriza)</h2>
+      <p>Los proveedores de los servicios en la nube, las herramientas de IA, los servicios de procesamiento de pagos, etc., que la Empresa utiliza en los encargos mencionados en el apartado anterior pueden estar ubicados en el extranjero. En tales casos, la Empresa procederá a la transferencia tras facilitar información sobre el sistema del país de destino y las medidas adoptadas, y realizar los demás trámites necesarios, de conformidad con la legislación sobre protección de datos personales.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>7. Plazo de conservación</h2>
+      <p>La Empresa conserva los datos personales recopilados únicamente durante el período necesario para alcanzar las finalidades de uso y durante el período cuya conservación exigen las leyes pertinentes (legislación fiscal, mercantil, etc.), y posteriormente los elimina o anonimiza sin demora. La información destinada a la verificación de la identidad no se conserva más allá del alcance necesario una vez cumplido el propósito de la verificación.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>8. Seguridad de los datos</h2>
+      <p>La Empresa adopta las medidas necesarias y apropiadas para prevenir la filtración, la pérdida o el deterioro de los datos personales recopilados, así como para garantizar su gestión segura. Cuando se encarga el tratamiento de los datos personales a terceros, la Empresa supervisa a los encargados para que también lleven a cabo una gestión adecuada.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>9. Respuesta a las violaciones de datos</h2>
+      <p>Si se produce una filtración, pérdida, daño u otro incidente relativo a datos personales, o si la Empresa tiene conocimiento de un riesgo al respecto, la Empresa realiza la investigación y las medidas necesarias conforme a la ley y lleva a cabo de forma adecuada la notificación a las autoridades competentes y a los interesados.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>10. Cookies y análisis de acceso</h2>
+      <p>Este sitio y el servicio pueden utilizar cookies y herramientas de análisis de acceso (como Google Analytics) con el fin de mejorar la facilidad de uso y perfeccionar el servicio. Estas herramientas recopilan datos de una forma que no incluye información que identifique directamente a una persona. Es posible desactivar las cookies mediante la configuración del navegador. Asimismo, el formulario de contacto de nuestro sitio web corporativo (atspect.co.jp) utiliza «reCAPTCHA», proporcionado por Google LLC, para prevenir el spam y los envíos fraudulentos. reCAPTCHA recopila automáticamente información como la dirección IP del usuario y datos sobre sus acciones y su dispositivo, y la transmite a Google. El tratamiento de dicha información se rige por la Política de Privacidad y las Condiciones de Servicio de Google.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>11. Solicitudes de acceso, rectificación y supresión</h2>
+      <p>Usted puede solicitar el acceso, la rectificación, la adición, la supresión, la suspensión del uso o la suspensión de la cesión a terceros, entre otros, respecto de sus propios datos personales en poder de la Empresa. Para ello, póngase en contacto con el punto de atención indicado a continuación. Tras verificar su identidad, atenderemos su solicitud dentro de un plazo razonable y de conformidad con la legislación.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>12. Modificaciones de esta política</h2>
+      <p>El contenido de la presente política puede modificarse a raíz de reformas legislativas o por decisión de la Empresa. Cuando se realicen modificaciones importantes, se anunciarán mediante su publicación en este sitio u otro medio apropiado. El contenido modificado entrará en vigor a partir del momento de su publicación en este sitio.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>13. Contacto</h2>
+      <div class="pp-contact-box">
+        <strong>ARTS&nbsp;RESPECT Co., Ltd.</strong><br>
+        8-6-202 Nihonbashi-Kobunacho, Chuo-ku, Tokio 103-0024, Japón<br>
+        Tel.: <a href="tel:07055150202">070-5515-0202</a><br>
+        Email: <a href="mailto:info@atspect.co.jp">info@atspect.co.jp</a>
+      </div>
+    </div>
+
+    <!-- ★completar la fecha de revisión una vez publicado -->
+    <p class="pp-date">Fecha de entrada en vigor: 30 de junio de 2026　／　Última actualización: </p>
+  </div>
+
+  <!-- ── Deutsch ── -->
+  <div class="lang-block" data-lang="de">
+    <div class="pp-section">
+      <p>Die ARTS&nbsp;RESPECT Co., Ltd. (nachfolgend „wir“ oder „unser Unternehmen“) betrachtet den Schutz der personenbezogenen Daten unserer Kundinnen und Kunden sowie aller weiteren Betroffenen als eine wesentliche Verantwortung und legt hiermit die folgende Datenschutzerklärung (Grundsätze zum Schutz personenbezogener Daten) fest. Diese Erklärung gilt sowohl für den Umgang mit personenbezogenen Daten auf unserer Unternehmenswebsite (atspect.co.jp) als auch für den Umgang mit personenbezogenen Daten, die wir im Zusammenhang mit der von uns betriebenen Kunst-Online-Plattform „ATSPECT“ (atspect.com) erheben.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>1. Geltungsbereich</h2>
+      <p>Diese Erklärung gilt für den Umgang mit den personenbezogenen Daten der folgenden Personengruppen:</p>
+      <ul>
+        <li>Personen, die unsere Unternehmenswebsite nutzen oder sich an uns wenden;</li>
+        <li>Kundinnen und Kunden (Sammlerinnen und Sammler), die über „ATSPECT“ Werke erwerben;</li>
+        <li>Künstlerinnen und Künstler, die sich bei „ATSPECT“ registrieren oder bewerben, sowie deren Vertreterinnen und Vertreter, Unterstützerinnen und Unterstützer oder die Gesellschaften bzw. Agenturen, denen sie angehören.</li>
+      </ul>
+    </div>
+
+    <div class="pp-section">
+      <h2>2. Welche personenbezogenen Daten wir erheben</h2>
+      <p>Wir erheben die folgenden personenbezogenen Daten mit rechtmäßigen und fairen Mitteln:</p>
+      <p><strong>(1) Bei Anfragen über die Unternehmenswebsite</strong></p>
+      <ul>
+        <li>Name</li>
+        <li>Firmen- oder Organisationsname</li>
+        <li>E-Mail-Adresse</li>
+        <li>Inhalt der Anfrage</li>
+        <li>Art der Anfrage (die gewählte Kategorie)</li>
+        <li>Absender-IP-Adresse (wird zur Vermeidung von Spam und Missbrauch automatisch erfasst)</li>
+      </ul>
+      <p><strong>(2) Von Kundinnen und Kunden (Sammlerinnen und Sammlern), die über „ATSPECT“ Werke erwerben</strong></p>
+      <ul>
+        <li>Name</li>
+        <li>Kontaktdaten (Telefonnummer, E-Mail-Adresse)</li>
+        <li>Anschrift (einschließlich Lieferadresse)</li>
+        <li>Zahlungsbezogene Informationen</li>
+        <li>Bestell- und Kaufhistorie</li>
+      </ul>
+      <p><strong>(3) Von Künstlerinnen und Künstlern, die sich bei „ATSPECT“ registrieren oder bewerben</strong></p>
+      <ul>
+        <li>Name, Aussprache des Namens, Künstlername</li>
+        <li>Geburtsdatum (zur Alters- und Identitätsprüfung)</li>
+        <li>Geschlecht (zur Bestimmung der Anrede und Bezeichnung bei der Vorstellung; freiwillig)</li>
+        <li>Herkunft, Staatsangehörigkeit, Wohnsitzland, Anschrift</li>
+        <li>Telefonnummer, E-Mail-Adresse</li>
+        <li>Tätigkeits-, Ausstellungs- und Auszeichnungshistorie, Informationen zu den Werken, Portfolio usw.</li>
+        <li>Von Ihnen bereitgestellte Bilder (Porträtfotos (Bildnis), Werkabbildungen usw.)</li>
+        <li>Bei einer Bewerbung durch Vertreterinnen und Vertreter, Unterstützerinnen und Unterstützer oder eine Gesellschaft bzw. Agentur: Name der betreffenden Vertretung bzw. Gesellschaft, Name der Ansprechperson, Kontaktdaten sowie das Verhältnis zur Künstlerin bzw. zum Künstler selbst</li>
+        <li>Nach der Registrierung (nach bestandener Prüfung) erhobene Informationen: Bankverbindung für Überweisungen, Registrierungsnummer als qualifizierter Rechnungsaussteller im japanischen Invoice-System sowie weitere Informationen zur Steuerpflicht, Informationen zur Identitätsprüfung (sofern erforderlich)</li>
+      </ul>
+      <p><strong>(4) Automatisch im Zuge der Nutzung des Dienstes erhobene Informationen</strong></p>
+      <ul>
+        <li>Cookies, Zugriffsprotokolle, IP-Adressen, Informationen zum verwendeten Endgerät und Browser usw.</li>
+      </ul>
+      <p>Zahlungsinformationen wie Kreditkartennummern werden durch den von uns beauftragten Zahlungsdienstleister verarbeitet; die Kartennummer selbst speichern wir nicht.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>3. Zwecke der Verarbeitung</h2>
+      <p>Wir verwenden die erhobenen personenbezogenen Daten im Rahmen der folgenden Zwecke:</p>
+      <ul>
+        <li>zur Beantwortung von Anfragen und zur Kontaktaufnahme sowie zur Information über unsere Dienstleistungen;</li>
+        <li>zur Annahme von Werkbestellungen, zur Zahlungsabwicklung, zum Versand und zur Erfüllung sonstiger Transaktionen;</li>
+        <li>zur Entgegennahme und Prüfung von Künstlerregistrierungen sowie zur diesbezüglichen Kontaktaufnahme;</li>
+        <li>zur Erstellung, Bearbeitung, Veröffentlichung und mehrsprachigen Verbreitung von Künstlerprofilen und Werkinformationen;</li>
+        <li>zum Einsatz von KI-Werkzeugen bei der Redaktion und Produktion der Website und Medien (mehrsprachige Übersetzung, Bildkorrektur und -bearbeitung, Erstellung von Vorstellungstexten und -videos usw.);</li>
+        <li>um Porträtfotos (Bildnis) und Werkabbildungen auf der Website und in Medien zu veröffentlichen und im In- und Ausland vorzustellen;</li>
+        <li>zur Auszahlung von Erlösen, zur Ausstellung von Quittungen, Rechnungen und Zahlungsbelegen sowie für sonstige buchhalterische und steuerliche Vorgänge;</li>
+        <li>zur Identitäts- und Altersprüfung sowie zur Verhinderung missbräuchlicher Nutzung;</li>
+        <li>zur Vermeidung von Spam und unbefugtem Zugriff sowie zum sicheren Betrieb des Dienstes.</li>
+      </ul>
+      <p>Wir verwenden personenbezogene Daten nicht über den zur Erreichung dieser Zwecke erforderlichen Umfang hinaus.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>4. Weitergabe an Dritte</h2>
+      <p>Wir geben personenbezogene Daten ohne vorherige Einwilligung der betroffenen Person nicht an Dritte weiter, ausgenommen in den folgenden Fällen:</p>
+      <ul>
+        <li>wenn die Einwilligung der betroffenen Person vorliegt;</li>
+        <li>wenn dies aufgrund von Rechtsvorschriften erforderlich ist;</li>
+        <li>wenn dies zum Schutz von Leben, Körper oder Eigentum einer Person erforderlich ist und es schwierig ist, die Einwilligung der betroffenen Person einzuholen;</li>
+        <li>wenn dies zur Unterstützung staatlicher Stellen o. Ä. erforderlich ist.</li>
+      </ul>
+    </div>
+
+    <div class="pp-section">
+      <h2>5. Auftragsverarbeitung</h2>
+      <p>Wir können die Verarbeitung personenbezogener Daten im zur Erreichung der Verarbeitungszwecke erforderlichen Umfang an externe Dienstleister übertragen. Zu den Auftragnehmern zählen unter anderem Versandunternehmen, Zahlungsdienstleister sowie Auftragnehmer für die Produktion der Website und Medien (mehrsprachige Übersetzung, Bildbearbeitung, Erstellung von Vorstellungstexten und -videos usw., einschließlich der Fälle, in denen hierfür KI-Werkzeuge eingesetzt werden). In diesem Fall wählen wir die Auftragnehmer sorgfältig aus und üben die erforderliche und angemessene Aufsicht aus.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>6. Übermittlung in Drittländer</h2>
+      <p>Die Anbieter der Cloud-Dienste, KI-Werkzeuge, Zahlungsdienste usw., die wir im Rahmen der vorgenannten Auftragsverarbeitung nutzen, können sich im Ausland befinden. In diesem Fall nehmen wir die Übermittlung in Übereinstimmung mit den Rechtsvorschriften zum Schutz personenbezogener Daten vor, nachdem wir die erforderlichen Maßnahmen ergriffen haben, einschließlich der Bereitstellung von Informationen über das Rechtssystem des Empfängerlandes und die dort getroffenen Maßnahmen.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>7. Speicherdauer</h2>
+      <p>Wir bewahren die erhobenen personenbezogenen Daten nur für den zur Erreichung der Verarbeitungszwecke erforderlichen Zeitraum sowie für den Zeitraum auf, für den eine Aufbewahrung nach den einschlägigen Rechtsvorschriften (Steuerrecht, Gesellschaftsrecht usw.) vorgeschrieben ist, und löschen oder anonymisieren sie anschließend unverzüglich. Informationen zur Identitätsprüfung bewahren wir nach Erreichung des Prüfungszwecks nicht über den erforderlichen Umfang hinaus auf.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>8. Datensicherheit</h2>
+      <p>Wir treffen die erforderlichen und angemessenen Maßnahmen zur Sicherheit der erhobenen personenbezogenen Daten, insbesondere zur Verhinderung von Verlust, Vernichtung oder Beschädigung sowie unbefugter Offenlegung. Wenn wir die Verarbeitung personenbezogener Daten an Dritte übertragen, üben wir die Aufsicht aus, damit auch beim Auftragnehmer eine angemessene Verwaltung erfolgt.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>9. Umgang mit Datenschutzverletzungen</h2>
+      <p>Tritt eine Offenlegung, ein Verlust, eine Beschädigung oder ein sonstiger Vorfall im Zusammenhang mit personenbezogenen Daten ein oder wird dem Unternehmen ein entsprechendes Risiko bekannt, führt das Unternehmen die erforderlichen Untersuchungen und Maßnahmen nach Maßgabe der Gesetze durch und nimmt in angemessener Weise Meldungen an die zuständigen Behörden sowie Benachrichtigungen der betroffenen Personen vor.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>10. Cookies und Zugriffsanalyse</h2>
+      <p>Auf dieser Website und im Rahmen unserer Dienste setzen wir gegebenenfalls Cookies und Werkzeuge zur Zugriffsanalyse (z. B. Google Analytics) ein, um die Benutzerfreundlichkeit zu erhöhen und den Dienst zu verbessern. Diese Werkzeuge erfassen Daten in einer Form, die keine Informationen zur unmittelbaren Identifizierung einer Person enthält. Über die Einstellungen Ihres Browsers können Sie Cookies deaktivieren. Darüber hinaus verwenden wir auf dem Kontaktformular unserer Unternehmenswebsite (atspect.co.jp) „reCAPTCHA“ von Google LLC, um Spam und missbräuchliche Übermittlungen zu verhindern. reCAPTCHA erfasst automatisch Informationen wie die IP-Adresse sowie Angaben zum Verhalten und Endgerät der Nutzerinnen und Nutzer und übermittelt diese an Google. Für den Umgang mit diesen Informationen gelten die Datenschutzerklärung und die Nutzungsbedingungen von Google.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>11. Auskunft, Berichtigung und Löschung</h2>
+      <p>Sie können in Bezug auf die von uns gespeicherten personenbezogenen Daten Auskunft, Berichtigung, Ergänzung, Löschung, Einschränkung der Nutzung oder die Einstellung der Weitergabe an Dritte verlangen. Wenden Sie sich für solche Anliegen bitte an die unten genannte Kontaktstelle. Nach Bestätigung Ihrer Identität bearbeiten wir Ihr Anliegen gemäß den gesetzlichen Vorschriften innerhalb einer angemessenen Frist.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>12. Änderungen dieser Datenschutzerklärung</h2>
+      <p>Der Inhalt dieser Erklärung kann aufgrund von Gesetzesänderungen oder nach unserem Ermessen geändert werden. Bei wesentlichen Änderungen informieren wir durch Veröffentlichung auf dieser Website oder auf andere geeignete Weise. Der geänderte Inhalt wird ab dem Zeitpunkt seiner Veröffentlichung auf dieser Website wirksam.</p>
+    </div>
+
+    <div class="pp-section">
+      <h2>13. Kontakt</h2>
+      <div class="pp-contact-box">
+        <strong>ARTS&nbsp;RESPECT Co., Ltd.</strong><br>
+        8-6-202 Nihonbashi-Kobunacho, Chuo-ku, Tokio 103-0024, Japan<br>
+        TEL: <a href="tel:07055150202">070-5515-0202</a><br>
+        E-Mail: <a href="mailto:info@atspect.co.jp">info@atspect.co.jp</a>
+      </div>
+    </div>
+
+    <!-- ★Änderungsdatum nach tatsächlicher Veröffentlichung eintragen -->
+    <p class="pp-date">Inkrafttreten: 30. Juni 2026　／　Letzte Aktualisierung: </p>
+  </div>
+
+
+</main>
+
+<footer class="pp-footer">
+  <a href="index.html">
+    <span data-lang="ja">トップページ</span>
+    <span data-lang="en">Top Page</span>
+    <span data-lang="cn">首页</span>
+    <span data-lang="tw">首頁</span>
+    <span data-lang="ko">홈으로</span>
+    <span data-lang="fr">Accueil</span>
+    <span data-lang="es">Inicio</span>
+    <span data-lang="de">Startseite</span>
+  </a>
+  <span>&copy; 2026 ARTS&nbsp;RESPECT Co., Ltd.</span>
+</footer>
+
+<script>
+const LANG_KEY = 'ar_lang';
+const htmlLang = { ja: 'ja', en: 'en', cn: 'zh-CN', tw: 'zh-TW', ko: 'ko', fr: 'fr', es: 'es', de: 'de' };
+const titles = {
+  ja: 'プライバシーポリシー｜ARTS RESPECT',
+  en: 'Privacy Policy | ARTS RESPECT',
+  cn: '隐私政策 | ARTS RESPECT',
+  tw: '隱私政策 | ARTS RESPECT',
+  ko: '개인정보 처리방침 | ARTS RESPECT',
+  fr: 'Politique de Confidentialité | ARTS RESPECT',
+  es: 'Política de Privacidad | ARTS RESPECT',
+  de: 'Datenschutzerklärung | ARTS RESPECT'
+};
+
+function switchLang(lang) {
+  document.body.className = 'lang-' + lang;
+  document.documentElement.lang = htmlLang[lang] || 'ja';
+  const langLabels = { ja: '日本語', en: 'English', cn: '简体中文', tw: '繁體中文', ko: '한국어', fr: 'Français', es: 'Español', de: 'Deutsch' };
+  document.getElementById('langCur').textContent = langLabels[lang] || '日本語';
+  document.querySelectorAll('.lang-opt').forEach(o => {
+    const active = o.dataset.lang === lang;
+    o.classList.toggle('is-active', active);
+    o.setAttribute('aria-selected', active ? 'true' : 'false');
+  });
+  document.title = titles[lang] || titles.ja;
+  localStorage.setItem(LANG_KEY, lang);
+}
+
+const langGlobeBtn = document.getElementById('langGlobeBtn');
+const langDrop     = document.getElementById('langDrop');
+const langGlobe    = document.getElementById('langGlobe'); // <details> 本体。開閉はネイティブ機構に一任
+const ppHeaderEl   = document.querySelector('.pp-header');
+
+// パネルはposition:fixedでビューポート基準。sticky祖先(.pp-header)の実高さに合わせて
+// 開くたびにtopを再計算する（幅が変わるとヘッダー高さも変わるため固定値にしない）。
+function positionLangDrop() {
+  if (ppHeaderEl) langDrop.style.top = ppHeaderEl.getBoundingClientRect().bottom + 'px';
+}
+langGlobe.addEventListener('toggle', () => {
+  if (langGlobe.open) positionLangDrop();
+});
+window.addEventListener('resize', () => {
+  if (langGlobe.open) positionLangDrop();
+});
+
+document.addEventListener('pointerdown', e => {
+  if (langGlobe.open && !langGlobe.contains(e.target)) {
+    langGlobe.open = false;
+  }
+});
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape' && langGlobe.open) {
+    langGlobe.open = false;
+    langGlobeBtn.focus();
+  }
+});
+document.querySelectorAll('.lang-opt').forEach(opt => {
+  opt.addEventListener('click', () => {
+    switchLang(opt.dataset.lang);
+    langGlobe.open = false;
+  });
+});
+
+const savedLang = localStorage.getItem(LANG_KEY);
+if (savedLang && savedLang !== 'ja') switchLang(savedLang);
+</script>
+</body>
+</html>
