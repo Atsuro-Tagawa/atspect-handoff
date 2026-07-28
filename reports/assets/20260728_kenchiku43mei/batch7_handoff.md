@@ -9,7 +9,7 @@
 - [x] 木島安史：Codexレビューで大幅是正（孤風院の国登録有形文化財答申〔2026年7月17日〕は文化庁公式資料で再現できず全面削除。出身地表記を簡潔化。日本建築学会賞の受賞年を本文から削除〔資料間相違のため〕。熊本大学教授昇任年1982年は確認済みとして採用）
 - [x] 石井修：Codexレビューで是正（大林組の在籍期間「1940-1956年」は誤りと判明＝正しくは1946年退職・1950年石井工務店自営が実際の経歴。戦時中の応召先〔海軍建築部・陸軍航空隊〕は一次資料で裏付けられず削除。淡路景観園芸学校の在職終了年〔2002年〕・没年月日〔9月12日〕も一次資料で確認できず簡略化。目神山の家8の吉田五十八賞受賞年は下書きの1987年が正しいと確認）
 - [x] 水谷頴介：Codexレビューで是正（四国物産本社ビルの竣工年を「1968-1969年実現」に精緻化。竹原市町並み保存センターの竣工月〔1982年4月〕を確認し、建物単体は文化財指定なしだが国選定「竹原市竹原地区」重要伝統的建造物群保存地区内に立地することを追加。六甲アイランド等の都市計画関与を代表作から除外した理由を「関与不明」ではなく「地区スケールの計画は個別建物の4点セット形式に適合しないため」に訂正）
-- [ ] 山本忠司
+- [x] 山本忠司：Codexレビューで是正（DOCOMOMO Japan選定年を2013年に確定〔香川県立ミュージアム公式資料で確認、DOCOMOMO Japan公式サイト自体の「2012」表記は誤記の可能性〕。復学月・入庁時の職名「土木部営繕課技師」・校長就任年など一次資料で裏付けられない細部を簡略化。瀬戸大橋記念館は竣工月・文化財指定状況とも確認できないため代表作欄から除外し本文のみで言及）
 - [ ] 渡辺豊和
 
 ---
@@ -128,3 +128,42 @@ es_viewpoint: Un arquitecto activo tanto en el diseño arquitectónico como en l
 
 de_bio: Geboren in Tokio. Er schloss die Präfektur-Oberschule Ashiya in der Präfektur Hyogo ab, studierte anschließend an der Architekturabteilung der Ingenieurfakultät der Universität Kobe und schloss einen Masterstudiengang mit Schwerpunkt Stadtplanung an der Graduiertenschule für Ingenieurwesen der Städtischen Universität Osaka ab. 1959 trat er in das Kume-Architekturbüro ein und war von 1960 bis 1970 wissenschaftlicher Assistent an der Ingenieurfakultät der Städtischen Universität Osaka. Von 1970 bis 1981 arbeitete er am Institut für Stadt- und Regionalplanung und -gestaltung, und von 1972 bis 1986 war er Direktor und Präsident der Stiftung Institut für Sozialsystemforschung. Er lehrte an der Kunstuniversität Osaka, dem Designinstitut Kyushu, der Universität Kobe und der Designuniversität Kobe. Er arbeitete am Hauptsitzgebäude von Shikoku Bussan (entworfen von Eisuke Mizutani und Akiko Kozuki / Team UR) und am Zentrum für Stadtbilderhaltung Takehara (entworfen von Eisuke Mizutani + Institut für Stadt- und Regionalplanung und -gestaltung). Im Geschäftsjahr 1965 erhielt er den Ishikawa-Preis (Kategorie Planung und Entwurf) des japanischen Instituts für Stadtplanung für den Masterplan zur Entwicklung des Bezirks Suzurandai. Er starb am 4. Februar 1993 im Alter von 57 Jahren.
 de_viewpoint: Ein Architekt, der sowohl in der Architekturplanung als auch im Städtebau tätig war. Architekturzeichnungen zum Hauptsitzgebäude von Shikoku Bussan wurden 2011 vom Centre Pompidou in Frankreich erworben.
+
+---
+
+## 山本忠司（1923-1998）
+
+**Codex是正**：①瀬戸内海歴史民俗資料館のDOCOMOMO Japan選定年を「2013年」に確定（香川県立ミュージアム公式資料・開館50周年記念特集号・年報の3資料が2013年で一致。DOCOMOMO Japan公式サイト自体の「2012」表記との相違は選定候補時期との混同の可能性）。②復学月「1945年10月」・入庁時の職名「土木部営繕課技師」・校長就任年「1981年」はいずれも一次資料で裏付けられず簡略化。③瀬戸大橋記念館は竣工月・文化財指定状況とも確認できないため、代表作欄（masterworks_text）からは除外し、bio_ja本文でのみ言及するにとどめた。④日本建築学会賞は「1974年度受賞・1975年授賞」という年度と授賞年の違いとして整理。
+
+**bio_ja**：香川県大川郡志度町（現・さぬき市志度）の生まれ。1943年に京都高等工芸学校図案科に入学し、同年12月に徴兵された。戦後、京都工業専門学校建築科に復学し、1948年に卒業した。同年、香川県庁に入庁し、公共建築の設計に携わった。1952年、ヘルシンキオリンピックの三段跳びに日本代表として出場した。香川県職業訓練短期大学校の初代校長を務め、1985年に山本忠司建築綜合研究室を開設した。瀬戸内海歴史民俗資料館（香川県高松市、1973年竣工）や瀬戸大橋記念館（香川県坂出市、1988年）などを手がけた。瀬戸内海歴史民俗資料館により1974年度日本建築学会賞（作品）を受賞した（授賞は1975年）。1998年7月28日に死去した。
+
+**viewpoint_ja**：香川県庁の技師として公共建築の設計に携わった建築家。山本が設計した瀬戸内海歴史民俗資料館は、2024年に国の重要文化財に指定された。
+
+**masterworks_text**：瀬戸内海歴史民俗資料館（香川県高松市亀水町1412番2・1973年竣工・設計：香川県技師山本忠司・現存・国指定重要文化財〔2024年12月9日指定、附：石積擁壁4所、図面108枚〕・DOCOMOMO Japan選定〔2013年〕）
+
+**collection_places**：重要文化財1件（瀬戸内海歴史民俗資料館、2024年12月9日指定）。専用の記念館・アーカイブは未確認。
+
+**groups**：官庁：香川県庁（1948年入庁）／設計事務所：山本忠司建築綜合研究室（1985年開設）／教育：香川県職業訓練短期大学校初代校長／建築運動：なし（確認できず）
+
+**8言語訳（bio／viewpoint）**：
+
+en_bio: Born in Shido-cho, Okawa District, Kagawa Prefecture (present-day Shido, Sanuki City). In 1943 he enrolled in the Design Department of Kyoto Higher Technical School, and was conscripted into the military that December. After the war he returned to the Department of Architecture, Kyoto Technical College, graduating in 1948. That same year he joined the Kagawa Prefectural Government and was involved in the design of public buildings. In 1952 he competed as Japan's representative in the triple jump at the Helsinki Olympics. He served as the first principal of Kagawa Prefectural Vocational Training Junior College, and in 1985 opened the Tadashi Yamamoto Architectural Research Laboratory. He worked on the Setouchi Historical Folk Museum (Takamatsu, Kagawa Prefecture; completed 1973) and the Great Seto Bridge Memorial Hall (Sakaide, Kagawa Prefecture; 1988), among others. He received the Architectural Institute of Japan Prize (Design Category) for fiscal year 1974 (awarded in 1975) for the Setouchi Historical Folk Museum. He died on July 28, 1998.
+en_viewpoint: An architect who, as an engineer for the Kagawa Prefectural Government, was involved in the design of public buildings. The Setouchi Historical Folk Museum, designed by Yamamoto, was designated a National Important Cultural Property in 2024.
+
+zh_cn_bio: 生于香川县大川郡志度町（现・讃岐市志度）。1943年入读京都高等工艺学校图案科，同年12月被征兵。战后复学于京都工业专门学校建筑科，1948年毕业。同年进入香川县厅，参与公共建筑的设计。1952年作为日本代表参加赫尔辛基奥运会三级跳远项目。曾任香川县职业训练短期大学校首任校长，1985年开设山本忠司建筑综合研究室。经手了濑户内海历史民俗资料馆（香川县高松市，1973年竣工）、濑户大桥纪念馆（香川县坂出市，1988年）等建筑。凭濑户内海历史民俗资料馆获1974年度日本建筑学会奖（作品，1975年颁奖）。1998年7月28日去世。
+zh_cn_viewpoint: 作为香川县厅技师参与公共建筑设计的建筑师。山本设计的濑户内海历史民俗资料馆，2024年被指定为国家重要文化财。
+
+zh_tw_bio: 生於香川縣大川郡志度町（現・讚岐市志度）。1943年入讀京都高等工藝學校圖案科，同年12月被徵兵。戰後復學於京都工業專門學校建築科，1948年畢業。同年進入香川縣廳，參與公共建築的設計。1952年作為日本代表參加赫爾辛基奧運會三級跳遠項目。曾任香川縣職業訓練短期大學校首任校長，1985年開設山本忠司建築綜合研究室。經手了瀨戶內海歷史民俗資料館（香川縣高松市，1973年竣工）、瀨戶大橋紀念館（香川縣坂出市，1988年）等建築。憑瀨戶內海歷史民俗資料館獲1974年度日本建築學會獎（作品，1975年頒獎）。1998年7月28日去世。
+zh_tw_viewpoint: 作為香川縣廳技師參與公共建築設計的建築師。山本設計的瀨戶內海歷史民俗資料館，2024年被指定為國家重要文化財。
+
+ko_bio: 가가와현 오카와군 시도초(현 사누키시 시도) 출신. 1943년 교토고등공예학교 도안과에 입학했고, 같은 해 12월 징병되었다. 전후 교토공업전문학교 건축과에 복학하여 1948년 졸업했다. 같은 해 가가와현청에 입청하여 공공건축 설계에 종사했다. 1952년 헬싱키올림픽 삼단뛰기 일본대표로 출전했다. 가가와현직업훈련단기대학교 초대 교장을 지냈고, 1985년 야마모토 다다시 건축종합연구실을 열었다. 세토나이카이역사민속자료관(가가와현 다카마쓰시, 1973년 준공), 세토대교기념관(가가와현 사카이데시, 1988년) 등을 다루었다. 세토나이카이역사민속자료관으로 1974년도 일본건축학회상(작품, 수상은 1975년)을 받았다. 1998년 7월 28일 별세했다.
+ko_viewpoint: 가가와현청 기사로서 공공건축 설계에 종사한 건축가. 야마모토가 설계한 세토나이카이역사민속자료관은 2024년 국가 중요문화재로 지정되었다.
+
+fr_bio: Né à Shido-cho, district d'Okawa, préfecture de Kagawa (aujourd'hui Shido, ville de Sanuki). En 1943, il entre au département de design de l'École supérieure technique de Kyoto, puis est enrôlé dans l'armée en décembre de la même année. Après la guerre, il reprend ses études au département d'architecture du Collège technique de Kyoto, dont il sort diplômé en 1948. La même année, il entre au gouvernement de la préfecture de Kagawa et participe à la conception de bâtiments publics. En 1952, il concourt comme représentant du Japon au triple saut aux Jeux olympiques d'Helsinki. Il est le premier directeur du Collège junior de formation professionnelle de la préfecture de Kagawa, et ouvre en 1985 le Laboratoire de recherche architecturale Tadashi Yamamoto. Il travaille sur le Musée d'histoire et de folklore de Setouchi (Takamatsu, préfecture de Kagawa ; achevé en 1973) et le mémorial du Grand pont de Seto (Sakaide, préfecture de Kagawa ; 1988). Il reçoit le prix de l'Institut d'architecture du Japon (catégorie design) au titre de l'exercice 1974 (décerné en 1975) pour le Musée d'histoire et de folklore de Setouchi. Il meurt le 28 juillet 1998.
+fr_viewpoint: Un architecte qui, en tant qu'ingénieur du gouvernement de la préfecture de Kagawa, participa à la conception de bâtiments publics. Le Musée d'histoire et de folklore de Setouchi, conçu par Yamamoto, fut désigné Bien culturel important national en 2024.
+
+es_bio: Nacido en Shido-cho, distrito de Okawa, prefectura de Kagawa (actual Shido, ciudad de Sanuki). En 1943 ingresó en el Departamento de Diseño de la Escuela Superior Técnica de Kioto, y fue reclutado por el ejército en diciembre de ese mismo año. Tras la guerra, regresó al Departamento de Arquitectura del Colegio Técnico de Kioto, graduándose en 1948. Ese mismo año se incorporó al Gobierno de la Prefectura de Kagawa y participó en el diseño de edificios públicos. En 1952 compitió como representante de Japón en triple salto en los Juegos Olímpicos de Helsinki. Fue el primer director del Colegio Universitario de Formación Profesional de la Prefectura de Kagawa, y en 1985 abrió el Laboratorio de Investigación Arquitectónica Tadashi Yamamoto. Trabajó en el Museo de Historia y Folclore de Setouchi (Takamatsu, prefectura de Kagawa; terminado en 1973) y el Salón Conmemorativo del Gran Puente de Seto (Sakaide, prefectura de Kagawa; 1988). Recibió el Premio del Instituto de Arquitectura de Japón (categoría diseño) del año fiscal 1974 (otorgado en 1975) por el Museo de Historia y Folclore de Setouchi. Falleció el 28 de julio de 1998.
+es_viewpoint: Un arquitecto que, como ingeniero del Gobierno de la Prefectura de Kagawa, participó en el diseño de edificios públicos. El Museo de Historia y Folclore de Setouchi, diseñado por Yamamoto, fue declarado Bien Cultural Importante Nacional en 2024.
+
+de_bio: Geboren in Shido-cho, Bezirk Okawa, Präfektur Kagawa (heute Shido, Stadt Sanuki). 1943 trat er in die Designabteilung der Höheren Technischen Schule Kyoto ein und wurde im Dezember desselben Jahres zum Militärdienst eingezogen. Nach dem Krieg kehrte er an die Architekturabteilung des Technischen Kollegs Kyoto zurück und schloss sein Studium 1948 ab. Im selben Jahr trat er in die Präfekturverwaltung Kagawa ein und war an der Gestaltung öffentlicher Gebäude beteiligt. 1952 nahm er als japanischer Vertreter im Dreisprung an den Olympischen Spielen in Helsinki teil. Er war der erste Direktor des Kurzstudiengangs für Berufsausbildung der Präfektur Kagawa und eröffnete 1985 das Architekturforschungslabor Tadashi Yamamoto. Er arbeitete am Historischen Volkskundemuseum Setouchi (Takamatsu, Präfektur Kagawa; fertiggestellt 1973) und an der Gedenkhalle der Großen Seto-Brücke (Sakaide, Präfektur Kagawa; 1988). Für das Historische Volkskundemuseum Setouchi erhielt er den Preis des Architekturinstituts von Japan (Kategorie Entwurf) für das Geschäftsjahr 1974 (verliehen 1975). Er starb am 28. Juli 1998.
+de_viewpoint: Ein Architekt, der als Ingenieur der Präfekturverwaltung Kagawa an der Gestaltung öffentlicher Gebäude beteiligt war. Das von Yamamoto entworfene Historische Volkskundemuseum Setouchi wurde 2024 zum nationalen wichtigen Kulturgut erklärt.
