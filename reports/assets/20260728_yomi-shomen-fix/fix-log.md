@@ -31,3 +31,30 @@
 **残留点検（3ステップ）**：①削除した文字列そのものの全文検索＝実施（上記）②構成語「国内配送」「送料」「負担」の組み合わせ検索＝実施、他に生きた顧客向け文書での残留なし③削除理由（送料負担の誤情報）に該当する記述の読解確認＝実施、対象文書内・関連文書内に同種の記述なし。
 
 **変更ファイル**：`_ご案内の書面_類型0無料招待_20260704_ATSPECT.md`（Vaultローカル・2箇所）
+
+---
+
+## 是正2｜B型返信後・郵送版の申込URL（完了）
+
+**対象**：`_ご案内の書面_B型返信後_20260704_ATSPECT.md` 郵送用・1枚版
+
+**是正内容**：`https://atspect.com/pages/artist-registration`（HTTP 301で`/pages/artist-guide`へリダイレクト＝申込フォーム非到達）を`https://atspect.com/pages/artist-registration-form`（メール版と同一・HTTP 200で直接到達）へ修正。
+
+**全対外文書のURL全数抽出＋実測（2026-07-28実施）**：
+対象＝`_ご案内の書面_B型返信後`・`_ご案内の書面_類型0無料招待`・`_打診文面_対面紹介経由`・`_打診実文面_一般招待_メールLINE`・`_想定問答_対面営業23問`・F02-A/F02-B/AR-P1/F03の各HTML・パンフレット印刷用ビルドスクリプト（QR行き先2種）・料金のご案内(標準条件)PDF・08入稿依頼メモ・AR-H1（作品販売の条件）。
+
+| URL | 用途 | 実測結果 |
+|---|---|---|
+| `https://atspect.com/` | パンフ表紙QR | HTTP 200 |
+| `https://atspect.com/pages/entry-14ffd27c805f` | パンフP3「お申込フォームはこちら」QR | HTTP 200 |
+| `https://atspect.com/pages/artist-guide` | 打診文面複数箇所 | HTTP 200 |
+| `https://atspect.com/pages/artist/suzuki-chikako` | 実例作家ページ（打診文面各種） | HTTP 200 |
+| `https://atspect.com/pages/terms-artist` | 類型0無料招待メール版（規約確認） | HTTP 200 |
+| `https://atspect.com/pages/artist-registration-form` | B型返信後メール版・打診実文面文面5/6等 | HTTP 200 |
+| `https://atspect.com/pages/artist-registration`（旧） | B型返信後郵送版（是正前） | **HTTP 301→artist-guide（申込フォーム非到達）** |
+
+**是正前に301だったのは上記1件のみ**。他のURLはすべて200で正常。料金のご案内(標準条件)PDF・08入稿依頼メモ・AR-H1・F02-A/B・AR-P1・F03の各HTMLにはURL自体が含まれていない（テキスト抽出で0件）ことを確認済み。
+
+**残留点検（3ステップ）**：①削除した旧URL文字列の全文検索＝実施、生きた顧客向け文書での残留はこの1箇所のみだった②構成語「artist-registration」（-formなし）の検索＝実施、他はすべて履歴ログ・設計文書内の記述（現在の運用URLの記述ではない）③「URLが実際の到達先と食い違う」という理由に該当する記述の確認＝上記の全数実測でカバー。
+
+**変更ファイル**：`_ご案内の書面_B型返信後_20260704_ATSPECT.md`（Vaultローカル・1箇所）
