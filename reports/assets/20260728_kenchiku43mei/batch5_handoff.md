@@ -10,7 +10,7 @@
 - [x] 白井晟一：Codexレビューで是正（親和銀行本店本館・懐霄館は国登録有形文化財として2025年度中に答申・登録されていたことを発見。日本建築学会賞は1968年度が正確と判明〔渋谷区立松濤美術館公式に明記〕。松濤美術館の竣工年〔1980年5月8日〕・開館年〔1981年10月1日〕・設計者名〔白井晟一研究所〕を精緻化）
 - [x] 山口文象：Codexレビューで是正（分離派建築会への参加を「1921年から客員として」に精緻化・カールスルーエ工科大学でのダム技術研究は一次資料未到達のため削除・黒部川第二発電所の竣工年を関西電力社史に基づき1936年10月に確定〔1938年説は注記に格下げ〕・清洲橋の記述を「解説文」形式に整理）
 - [x] 池辺陽：Codexレビューで大幅是正（★内之浦宇宙空間観測所を「国登録有形文化財」としていたのは誤り＝法的な文化財指定・登録は確認できず、文化庁の近代建築調査ページ掲載は指定・登録そのものではないと判明・削除。正式名称を「東京大学鹿児島宇宙空間観測所〔現・内之浦宇宙空間観測所〕」に精緻化し、竣工年「1963年」は単年では不適切〔1962年開設・施設建設は複数年〕と修正。出身地の「釜山対東京都」という論争を本文に持ち込まず釜山で簡潔に記載するよう整理）
-- [ ] 西澤文隆
+- [x] 西澤文隆：Codexレビューで是正（前橋市庁舎の設計主体について、坂倉建築研究所公式サイトのほか竣工当時の主要建築専門誌2誌〔『近代建築』『新建築』各1982年1月号〕が「坂倉建築研究所東京事務所」と明記していることを発見。大阪支所長だった西澤文隆個人の具体的な設計関与を裏付ける一次資料はなく、東京文化財研究所の物故者記事が代表作に挙げている事実と、同時代資料上の設計主体が異なるという二重構造を明記する形に整理。5/5で第5便完了）
 
 ---
 
@@ -167,3 +167,54 @@ es_viewpoint: Un arquitecto que trabajó en la industrialización y estandarizac
 
 de_bio: Geboren am 8. April 1920 in Busan. Er schloss 1942 sein Studium an der Architekturabteilung der Ingenieurfakultät der Kaiserlichen Universität Tokio ab und trat 1944 in das Sakakura-Architekturforschungsinstitut ein. 1946 wurde er Dozent an der Zweiten Ingenieurfakultät der Kaiserlichen Universität Tokio und 1949 außerordentlicher Professor an derselben Fakultät der Universität Tokio. Er beteiligte sich 1947 an der Gründung der New Japan Architects Group (NAU) und 1948 an der Gründung der Architekturabteilung der Shinseisaku-Vereinigung. 1965 wurde er Professor am Institut für Industriewissenschaften der Universität Tokio und gründete die DNIAS (eine Organisation, die Umwelt und Industrie verbindet). Er war an Projekten wie Haus Nr. 32 (Bezirk Higashisumiyoshi, Stadt Osaka, Präfektur Osaka; fertiggestellt 1955; Entwurf: Ikebe Kiyoshi, verantwortlich: Nishizawa Fumitaka) und den Einrichtungen des Kagoshima-Weltraumbeobachtungszentrums der Universität Tokio (heute Uchinoura-Weltraumzentrum; Kimotsuki, Bezirk Kimotsuki, Präfektur Kagoshima; eröffnet 1962; Entwurf: Ikebe Kiyoshi mit dem Institut für Industriewissenschaften der Universität Tokio) beteiligt. 1978 erhielt er den Preis des Ministers für internationalen Handel und Industrie für seine Anleitung zur Standardisierung und industriellen Fertigung von Bauteilen. Er starb am 10. Februar 1979 im Alter von 58 Jahren.
 de_viewpoint: Ein Architekt, der sich am Institut für Industriewissenschaften der Universität Tokio mit der Industrialisierung und Standardisierung des Wohnungsbaus befasste. Er entwarf eine Wohnhausserie mit dem Namen „Dreidimensionales Minimalhaus", von der Haus Nr. 32 bis heute erhalten ist.
+
+---
+
+## 西澤文隆（1915-1986、NDL標目表記は「西沢」）
+
+**★Codex最重要是正**：前橋市庁舎の唯一の代表作候補について、竣工当時の主要建築専門誌2誌（『近代建築』『新建築』各1982年1月号）が設計主体を「坂倉建築研究所東京事務所」と明記していることを発見。西澤文隆は当時大阪支所長（のち代表取締役）であり、東京文化財研究所の物故者記事は前橋市庁舎を西澤の代表作の一つに挙げているが、同時代の一次資料は東京事務所設計としており、西澤個人の具体的な設計関与を示す資料（署名入り図面・担当者表・本人の説明等）は発見できなかった。捏造ゼロの観点から、「公的な人物記事による代表作扱い」と「同時代資料上は東京事務所設計」という二つの事実を併記する形に整理。
+
+**bio_ja**：1915年、滋賀県愛知郡の生まれ。1940年に東京帝国大学工学部建築学科を卒業し、同年、坂倉準三建築研究所に入所した。1948年に開設された同研究所大阪支所で支所長を務めた。坂倉準三の死去後、1969年に株式会社坂倉建築研究所が設立され、代表取締役となった。前橋市庁舎（群馬県前橋市、1981年竣工）は、東京文化財研究所の物故者記事で西澤文隆の代表作の一つに挙げられている一方、竣工当時の建築専門誌（『近代建築』『新建築』各1982年1月号）は設計主体を「坂倉建築研究所東京事務所」と記載しており、西澤個人の具体的な設計関与は確認できていない。著書に『コート・ハウス論―その親密なる空間』（1974年）、『庭園論―庭・その華麗なるもの』全3巻（1975-1976年）、『西沢文隆―伝統の合理主義』（1981年）などがある。1986年、71歳で没した。
+
+**viewpoint_ja**：坂倉準三建築研究所大阪支所の支所長を務め、のちに株式会社坂倉建築研究所の代表取締役を務めた建築家。建築・庭園に関する著作を複数刊行し、設計実務と執筆活動を並行して行った。
+
+**masterworks_text**：前橋市庁舎（群馬県前橋市・1981年竣工・現存し市役所本庁舎として使用・文化財指定・登録を確認できず〔国・群馬県・前橋市の公開資料を2026年7月確認〕・東京文化財研究所の物故者記事では西澤文隆の代表作に挙げられるが、竣工当時の建築専門誌は設計主体を「坂倉建築研究所東京事務所」と記載しており、西澤個人の具体的な設計関与は確認できていない）
+
+**collection_places**：文化財指定・登録は確認できず（国・群馬県・前橋市の公開資料を2026年7月確認）。専用の記念館・アーカイブは未確認。
+
+**groups**：設計事務所：坂倉準三建築研究所（1940年入所）→大阪支所長(1948年)→株式会社坂倉建築研究所代表取締役(1969年)／大学：教員歴は確認できず／建築運動：なし（確認できず）
+
+**8言語訳（bio／viewpoint）**：
+
+en_bio: Born in 1915 in Echi District, Shiga Prefecture. He graduated from the Department of Architecture, Faculty of Engineering, Tokyo Imperial University, in 1940, and joined the Junzo Sakakura Architectural Research Institute the same year. He served as head of the institute's Osaka branch office, opened in 1948. After Junzo Sakakura's death, the Sakakura Architectural Research Institute Co., Ltd. was established in 1969, and he became its representative director. The Maebashi City Hall (Maebashi, Gunma Prefecture; completed 1981) is listed as one of Nishizawa Fumitaka's representative works in the Tokyo National Research Institute for Cultural Properties' obituary record, while architectural trade journals from the time of its completion (Kindai Kenchiku and Shinkenchiku, both January 1982 issues) record the design entity as the "Sakakura Architectural Research Institute Tokyo Office," and Nishizawa's specific personal involvement in the design has not been confirmed. His writings include "On the Court House: Its Intimate Space" (1974), the three-volume "On Gardens: Their Splendor" (1975-1976), and "Nishizawa Fumitaka: The Rationalism of Tradition" (1981). He died in 1986 at the age of 71.
+en_viewpoint: An architect who served as head of the Osaka branch office of the Junzo Sakakura Architectural Research Institute and later as representative director of Sakakura Architectural Research Institute Co., Ltd. He published multiple writings on architecture and gardens, engaging in design practice and writing in parallel.
+
+zh_cn_bio: 1915年生于滋贺县爱知郡。1940年毕业于东京帝国大学工学部建筑学科，同年进入坂仓准三建筑研究所。1948年该研究所大阪支所开设，担任支所长。坂仓准三去世后，1969年成立株式会社坂仓建筑研究所，出任代表取缔役（相当于总裁）。前桥市厅舍（群马县前桥市，1981年竣工）在东京文化财研究所的物故者记事中被列为西泽文隆的代表作之一，而竣工当时的建筑专业杂志（《近代建筑》《新建筑》各1982年1月号）则将设计主体记载为「坂仓建筑研究所东京事务所」，西泽个人的具体设计参与情况未能确认。著作有《廊院论——其亲密的空间》（1974年）、《庭园论——庭・其华丽者》全3卷（1975-1976年）、《西泽文隆——传统的合理主义》（1981年）等。1986年以71岁去世。
+zh_cn_viewpoint: 曾任坂仓准三建筑研究所大阪支所所长，后任株式会社坂仓建筑研究所代表取缔役的建筑师。刊行了多部关于建筑与庭园的著作，设计实务与写作活动并行进行。
+
+zh_tw_bio: 1915年生於滋賀縣愛知郡。1940年畢業於東京帝國大學工學部建築學科，同年進入坂倉準三建築研究所。1948年該研究所大阪支所開設，擔任支所長。坂倉準三去世後，1969年成立株式會社坂倉建築研究所，出任代表取締役（相當於總裁）。前橋市廳舍（群馬縣前橋市，1981年竣工）在東京文化財研究所的物故者記事中被列為西澤文隆的代表作之一，而竣工當時的建築專業雜誌（《近代建築》《新建築》各1982年1月號）則將設計主體記載為「坂倉建築研究所東京事務所」，西澤個人的具體設計參與情況未能確認。著作有《廊院論——其親密的空間》（1974年）、《庭園論——庭・其華麗者》全3卷（1975-1976年）、《西澤文隆——傳統的合理主義》（1981年）等。1986年以71歲去世。
+zh_tw_viewpoint: 曾任坂倉準三建築研究所大阪支所所長，後任株式會社坂倉建築研究所代表取締役的建築師。刊行了多部關於建築與庭園的著作，設計實務與寫作活動並行進行。
+
+ko_bio: 1915년 시가현 에치군 출신. 1940년 도쿄제국대학 공학부 건축학과를 졸업하고, 같은 해 사카쿠라 준조 건축연구소에 입소했다. 1948년 개설된 동 연구소 오사카지소에서 지소장을 지냈다. 사카쿠라 준조 사망 후, 1969년 주식회사 사카쿠라 건축연구소가 설립되어 대표이사가 되었다. 마에바시시청사(군마현 마에바시시, 1981년 준공)는 도쿄문화재연구소의 물고자 기사에서 니시자와 후미타카의 대표작 중 하나로 꼽히는 한편, 준공 당시의 건축전문지(『긴다이켄치쿠』『신켄치쿠』각 1982년 1월호)는 설계주체를 「사카쿠라건축연구소 도쿄사무소」로 기재하고 있어, 니시자와 개인의 구체적인 설계 관여는 확인되지 않았다. 저서로 『코트하우스론―그 친밀한 공간』(1974년), 『정원론―정원・그 화려한 것』전3권(1975-1976년), 『니시자와 후미타카―전통의 합리주의』(1981년) 등이 있다. 1986년 71세로 별세했다.
+ko_viewpoint: 사카쿠라 준조 건축연구소 오사카지소 지소장을 지내고, 이후 주식회사 사카쿠라 건축연구소 대표이사를 지낸 건축가. 건축·정원에 관한 저작을 여러 권 간행하며 설계 실무와 집필 활동을 병행했다.
+
+fr_bio: Né en 1915 dans le district d'Echi, préfecture de Shiga. Diplômé en 1940 du département d'architecture de la faculté d'ingénierie de l'université impériale de Tokyo, il rejoint la même année l'Institut de recherche architecturale Junzo Sakakura. Il dirige l'agence d'Osaka de l'institut, ouverte en 1948. Après le décès de Junzo Sakakura, la société Sakakura Architectural Research Institute Co., Ltd. est fondée en 1969, et il en devient administrateur délégué. L'hôtel de ville de Maebashi (Maebashi, préfecture de Gunma ; achevé en 1981) est cité comme l'une des œuvres représentatives de Nishizawa Fumitaka dans la notice nécrologique de l'Institut national de recherche sur les biens culturels de Tokyo, tandis que les revues professionnelles d'architecture de l'époque de son achèvement (Kindai Kenchiku et Shinkenchiku, numéros de janvier 1982) mentionnent comme concepteur « l'agence de Tokyo de l'Institut de recherche architecturale Sakakura », et l'implication personnelle concrète de Nishizawa dans la conception n'a pas été confirmée. Parmi ses écrits figurent « De la cour-jardin : cet espace intime » (1974), « Des jardins : leur splendeur » en trois volumes (1975-1976), et « Nishizawa Fumitaka : le rationalisme de la tradition » (1981). Il meurt en 1986 à l'âge de 71 ans.
+fr_viewpoint: Un architecte qui dirigea l'agence d'Osaka de l'Institut de recherche architecturale Junzo Sakakura, puis fut administrateur délégué de la société Sakakura Architectural Research Institute. Il publia plusieurs écrits sur l'architecture et les jardins, menant de front la pratique de la conception et l'écriture.
+
+es_bio: Nacido en 1915 en el distrito de Echi, prefectura de Shiga. Se graduó en 1940 en el Departamento de Arquitectura de la Facultad de Ingeniería de la Universidad Imperial de Tokio y se incorporó ese mismo año al Instituto de Investigación Arquitectónica Junzo Sakakura. Dirigió la sucursal de Osaka del instituto, abierta en 1948. Tras el fallecimiento de Junzo Sakakura, en 1969 se fundó la empresa Sakakura Architectural Research Institute Co., Ltd., de la que fue nombrado consejero delegado. El ayuntamiento de Maebashi (Maebashi, prefectura de Gunma; terminado en 1981) figura como una de las obras representativas de Nishizawa Fumitaka en el obituario del Instituto Nacional de Investigación de Bienes Culturales de Tokio, mientras que las revistas especializadas en arquitectura de la época de su finalización (Kindai Kenchiku y Shinkenchiku, ambas del número de enero de 1982) registran como entidad de diseño a la «Oficina de Tokio del Instituto de Investigación Arquitectónica Sakakura», sin que se haya confirmado la implicación personal concreta de Nishizawa en el diseño. Entre sus escritos se incluyen «Sobre la casa patio: ese espacio íntimo» (1974), «Sobre los jardines: su esplendor», en tres volúmenes (1975-1976), y «Nishizawa Fumitaka: el racionalismo de la tradición» (1981). Falleció en 1986 a los 71 años.
+es_viewpoint: Un arquitecto que dirigió la sucursal de Osaka del Instituto de Investigación Arquitectónica Junzo Sakakura y posteriormente fue consejero delegado de Sakakura Architectural Research Institute Co., Ltd. Publicó varios escritos sobre arquitectura y jardines, combinando la práctica del diseño con la actividad literaria.
+
+de_bio: Geboren 1915 im Bezirk Echi, Präfektur Shiga. Er schloss 1940 sein Studium an der Architekturabteilung der Ingenieurfakultät der Kaiserlichen Universität Tokio ab und trat im selben Jahr in das Junzo-Sakakura-Architekturforschungsinstitut ein. Er leitete die 1948 eröffnete Filiale des Instituts in Osaka. Nach dem Tod von Junzo Sakakura wurde 1969 die Sakakura Architectural Research Institute Co., Ltd. gegründet, deren geschäftsführender Direktor er wurde. Das Rathaus von Maebashi (Maebashi, Präfektur Gunma; fertiggestellt 1981) wird im Nachruf des Tokioter Nationalen Forschungsinstituts für Kulturgüter als eines von Nishizawa Fumitakas repräsentativen Werken genannt, während die Fachzeitschriften für Architektur zur Zeit seiner Fertigstellung (Kindai Kenchiku und Shinkenchiku, jeweils Ausgabe Januar 1982) als Entwurfsträger das „Tokioter Büro des Sakakura-Architekturforschungsinstituts" angeben; Nishizawas konkrete persönliche Beteiligung an der Gestaltung konnte nicht bestätigt werden. Zu seinen Schriften zählen „Über das Hofhaus: dieser intime Raum" (1974), das dreibändige Werk „Über Gärten: ihre Pracht" (1975-1976) und „Nishizawa Fumitaka: der Rationalismus der Tradition" (1981). Er starb 1986 im Alter von 71 Jahren.
+de_viewpoint: Ein Architekt, der die Osaka-Filiale des Junzo-Sakakura-Architekturforschungsinstituts leitete und später geschäftsführender Direktor der Sakakura Architectural Research Institute Co., Ltd. war. Er veröffentlichte mehrere Schriften über Architektur und Gärten und verband Entwurfspraxis mit schriftstellerischer Tätigkeit.
+
+---
+
+## まとめ（第5便・5名完了）
+
+5名（岸田日出刀・白井晟一・山口文象・池辺陽・西澤文隆）全員でCodexの是正が入った。★最重要の発見＝岸田日出刀の東大安田講堂について「岸田の関与は二次資料の逸話にとどまる」としていた当初の判断が誤りで、東京大学自身の大学史資料に「内田祥三が基本設計・岸田日出刀の実施案採用」という具体的記録があるとCodexが発見（二次資料の伝聞と大学公式資料は区別すべきという教訓）。逆に池辺陽の内之浦宇宙空間観測所は「国登録有形文化財」という誤った文化財指定情報を記載していたことをCodexが発見・是正（文化庁の近代建築調査ページ掲載と正式な文化財指定・登録を混同しない、という教訓）。西澤文隆の前橋市庁舎は、公的な人物記事による代表作扱いと、同時代の建築専門誌が示す設計主体（坂倉建築研究所東京事務所）が食い違うという複雑な事例で、両論併記の形に整理した。ハングは0件（全5名とも単一チャンクで正常完了）。
+
+## やらなかったこと
+- Shopify・CSVへの実反映はしていない（制作Tへの引き渡しまで）。
+- 実行はリサーチTでは行わない。
+
+<!-- created: 2026-07-29 by terminal=あつぺくとリサーチ model=Sonnet 5 work=建築残り23名第5便(5名)完成原稿 -->
