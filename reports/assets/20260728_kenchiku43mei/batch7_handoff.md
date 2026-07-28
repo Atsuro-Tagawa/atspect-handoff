@@ -10,7 +10,7 @@
 - [x] 石井修：Codexレビューで是正（大林組の在籍期間「1940-1956年」は誤りと判明＝正しくは1946年退職・1950年石井工務店自営が実際の経歴。戦時中の応召先〔海軍建築部・陸軍航空隊〕は一次資料で裏付けられず削除。淡路景観園芸学校の在職終了年〔2002年〕・没年月日〔9月12日〕も一次資料で確認できず簡略化。目神山の家8の吉田五十八賞受賞年は下書きの1987年が正しいと確認）
 - [x] 水谷頴介：Codexレビューで是正（四国物産本社ビルの竣工年を「1968-1969年実現」に精緻化。竹原市町並み保存センターの竣工月〔1982年4月〕を確認し、建物単体は文化財指定なしだが国選定「竹原市竹原地区」重要伝統的建造物群保存地区内に立地することを追加。六甲アイランド等の都市計画関与を代表作から除外した理由を「関与不明」ではなく「地区スケールの計画は個別建物の4点セット形式に適合しないため」に訂正）
 - [x] 山本忠司：Codexレビューで是正（DOCOMOMO Japan選定年を2013年に確定〔香川県立ミュージアム公式資料で確認、DOCOMOMO Japan公式サイト自体の「2012」表記は誤記の可能性〕。復学月・入庁時の職名「土木部営繕課技師」・校長就任年など一次資料で裏付けられない細部を簡略化。瀬戸大橋記念館は竣工月・文化財指定状況とも確認できないため代表作欄から除外し本文のみで言及）
-- [ ] 渡辺豊和
+- [x] 渡辺豊和：Codexレビューで是正（学位「工学博士（東京大学）」は単一の出版社サイトのみの情報で独立した裏付けがないため原稿に不記載を維持。大学教員歴〔京都芸術短期大学・京都造形芸術大学の各年〕は一次資料で確認できず本文から除外。3代表作の文化財指定・登録状況を「有無は未確認」に統一し、粒度を揃えた。5/5で第7便完了）
 
 ---
 
@@ -167,3 +167,54 @@ es_viewpoint: Un arquitecto que, como ingeniero del Gobierno de la Prefectura de
 
 de_bio: Geboren in Shido-cho, Bezirk Okawa, Präfektur Kagawa (heute Shido, Stadt Sanuki). 1943 trat er in die Designabteilung der Höheren Technischen Schule Kyoto ein und wurde im Dezember desselben Jahres zum Militärdienst eingezogen. Nach dem Krieg kehrte er an die Architekturabteilung des Technischen Kollegs Kyoto zurück und schloss sein Studium 1948 ab. Im selben Jahr trat er in die Präfekturverwaltung Kagawa ein und war an der Gestaltung öffentlicher Gebäude beteiligt. 1952 nahm er als japanischer Vertreter im Dreisprung an den Olympischen Spielen in Helsinki teil. Er war der erste Direktor des Kurzstudiengangs für Berufsausbildung der Präfektur Kagawa und eröffnete 1985 das Architekturforschungslabor Tadashi Yamamoto. Er arbeitete am Historischen Volkskundemuseum Setouchi (Takamatsu, Präfektur Kagawa; fertiggestellt 1973) und an der Gedenkhalle der Großen Seto-Brücke (Sakaide, Präfektur Kagawa; 1988). Für das Historische Volkskundemuseum Setouchi erhielt er den Preis des Architekturinstituts von Japan (Kategorie Entwurf) für das Geschäftsjahr 1974 (verliehen 1975). Er starb am 28. Juli 1998.
 de_viewpoint: Ein Architekt, der als Ingenieur der Präfekturverwaltung Kagawa an der Gestaltung öffentlicher Gebäude beteiligt war. Das von Yamamoto entworfene Historische Volkskundemuseum Setouchi wurde 2024 zum nationalen wichtigen Kulturgut erklärt.
+
+---
+
+## 渡辺豊和（1938-2025）
+
+**Codex是正**：①学位「工学博士（東京大学）」は出版社の著者紹介ページ1件のみの情報で、独立した一次資料での裏付けがないため原稿には引き続き記載しない。②京都芸術短期大学客員教授（1980年）・同教授（1981年）・京都造形芸術大学教授（1991年）・2007年退任等の大学教員歴は、いずれも一次資料（大学公式アーカイブ・人事記録）で確認できず本文から削除。③3代表作の文化財指定・登録状況を「未確認」に統一し、粒度を揃えた（従来は龍神村民体育館のみ市指定一覧との突合結果を記載し、他2件は完全未確認という不統一な状態だった）。④2025年4月20日の死去（老衰、86歳、奈良県自宅）は日本経済新聞・東京新聞・琉球新報・沖縄タイムスの独立した4紙の訃報記事で一致確認済み。
+
+**bio_ja**：秋田県仙北郡角館町（現・仙北市）の生まれ。1961年に福井大学工学部建築学科を卒業し、RIA建築総合研究所に勤務した。1970年に渡辺豊和アトリエを開設し、1972年に渡辺豊和建築工房に改称した。龍神村民体育館（現・田辺市林業者等健康増進センター、和歌山県田辺市、1987年）、秋田市立体育館（現・CNAアリーナ★あきた、秋田県秋田市、1994年）、加茂文化ホール ラメール（島根県雲南市、1994年竣工、1995年開館）などを設計した。龍神村民体育館により1987年日本建築学会賞（作品）を受賞した。2025年4月20日、奈良県の自宅で老衰のため死去した。86歳。
+
+**viewpoint_ja**：福井大学卒業後、RIA建築総合研究所勤務を経て独立した建築家。龍神村民体育館は、和歌山県龍神村に建設された木造と鉄筋コンクリート造による体育館で、1987年日本建築学会賞（作品）の受賞作となった。
+
+**masterworks_text**：龍神村民体育館〔現・田辺市林業者等健康増進センター〕（和歌山県田辺市龍神村安井822・1987年竣工・文化財指定・登録の有無は未確認）、秋田市立体育館〔現・CNAアリーナ★あきた〕（秋田県秋田市八橋本町六丁目12番20号・1994年竣工・文化財指定・登録の有無は未確認）、加茂文化ホール ラメール（島根県雲南市加茂町宇治303・1994年12月竣工・文化財指定・登録の有無は未確認）
+
+**collection_places**：文化財指定・登録は確認できず。専用の記念館・アーカイブは未確認。
+
+**groups**：設計事務所：RIA建築総合研究所→渡辺豊和アトリエ（1970年開設）→渡辺豊和建築工房（1972年改称）／大学：教員歴は一次資料で確認できず／建築運動：イワクラ（磐座）学会会長との記載あり（在任期間・発足年は一次資料未確認）
+
+**8言語訳（bio／viewpoint）**：
+
+en_bio: Born in Kakunodate-cho, Senboku District, Akita Prefecture (present-day Senboku City). He graduated from the Department of Architecture, Faculty of Engineering, Fukui University, in 1961, and worked at the RIA Architectural and Engineering Institute. In 1970 he opened the Toyokazu Watanabe Atelier, renamed the Toyokazu Watanabe Architectural Workshop in 1972. He designed the Ryujin Village Gymnasium (present-day Tanabe City Forestry Workers' Health Promotion Center, Tanabe, Wakayama Prefecture; 1987), the Akita City Gymnasium (present-day CNA Arena Akita, Akita City, Akita Prefecture; 1994), and the Kamo Culture Hall Ramere (Unnan, Shimane Prefecture; completed 1994, opened 1995), among others. He received the Architectural Institute of Japan Prize (Design Category) in 1987 for the Ryujin Village Gymnasium. He died on April 20, 2025, at his home in Nara Prefecture, of old age, at 86.
+en_viewpoint: An architect who became independent after graduating from Fukui University and working at the RIA Architectural and Engineering Institute. The Ryujin Village Gymnasium, a gymnasium built of wood and reinforced concrete in Ryujin Village, Wakayama Prefecture, became the winning work for the 1987 Architectural Institute of Japan Prize (Design Category).
+
+zh_cn_bio: 生于秋田县仙北郡角馆町（现・仙北市）。1961年毕业于福井大学工学部建筑学科，进入RIA建筑综合研究所工作。1970年开设渡边丰和工作室，1972年更名为渡边丰和建筑工坊。设计了龙神村民体育馆（现・田边市林业者等健康增进中心，和歌山县田边市，1987年）、秋田市立体育馆（现・CNA竞技场★秋田，秋田县秋田市，1994年）、加茂文化会馆 拉梅尔（岛根县云南市，1994年竣工，1995年开馆）等建筑。凭龙神村民体育馆获1987年日本建筑学会奖（作品）。2025年4月20日，因老衰在奈良县自宅去世，享年86岁。
+zh_cn_viewpoint: 福井大学毕业后，历经RIA建筑综合研究所工作而独立的建筑师。龙神村民体育馆是建于和歌山县龙神村的木造与钢筋混凝土结构体育馆，成为1987年日本建筑学会奖（作品）的获奖之作。
+
+zh_tw_bio: 生於秋田縣仙北郡角館町（現・仙北市）。1961年畢業於福井大學工學部建築學科，進入RIA建築綜合研究所工作。1970年開設渡邊豐和工作室，1972年更名為渡邊豐和建築工坊。設計了龍神村民體育館（現・田邊市林業者等健康增進中心，和歌山縣田邊市，1987年）、秋田市立體育館（現・CNA競技場★秋田，秋田縣秋田市，1994年）、加茂文化會館 拉梅爾（島根縣雲南市，1994年竣工，1995年開館）等建築。憑龍神村民體育館獲1987年日本建築學會獎（作品）。2025年4月20日，因老衰在奈良縣自宅去世，享年86歲。
+zh_tw_viewpoint: 福井大學畢業後，歷經RIA建築綜合研究所工作而獨立的建築師。龍神村民體育館是建於和歌山縣龍神村的木造與鋼筋混凝土結構體育館，成為1987年日本建築學會獎（作品）的獲獎之作。
+
+ko_bio: 아키타현 센보쿠군 가쿠노다테초(현 센보쿠시) 출신. 1961년 후쿠이대학 공학부 건축학과를 졸업하고 RIA건축종합연구소에 근무했다. 1970년 와타나베 도요카즈 아틀리에를 열었고, 1972년 와타나베 도요카즈 건축공방으로 개칭했다. 류진촌민체육관(현 다나베시 임업자등건강증진센터, 와카야마현 다나베시, 1987년), 아키타시립체육관(현 CNA아레나★아키타, 아키타현 아키타시, 1994년), 가모문화홀 라메르(시마네현 운난시, 1994년 준공, 1995년 개관) 등을 설계했다. 류진촌민체육관으로 1987년 일본건축학회상(작품)을 받았다. 2025년 4월 20일, 나라현 자택에서 노쇠로 별세했다. 향년 86세.
+ko_viewpoint: 후쿠이대학 졸업 후 RIA건축종합연구소 근무를 거쳐 독립한 건축가. 류진촌민체육관은 와카야마현 류진무라에 건설된 목조 및 철근콘크리트조 체육관으로, 1987년 일본건축학회상(작품) 수상작이 되었다.
+
+fr_bio: Né à Kakunodate-cho, district de Senboku, préfecture d'Akita (aujourd'hui ville de Senboku). Diplômé en 1961 du département d'architecture de la faculté d'ingénierie de l'université de Fukui, il travaille à l'Institut d'architecture et d'ingénierie RIA. En 1970, il ouvre l'atelier Toyokazu Watanabe, rebaptisé atelier d'architecture Toyokazu Watanabe en 1972. Il conçoit notamment le gymnase du village de Ryujin (aujourd'hui centre de promotion de la santé des travailleurs forestiers de la ville de Tanabe, Tanabe, préfecture de Wakayama ; 1987), le gymnase municipal d'Akita (aujourd'hui CNA Arena Akita, ville d'Akita, préfecture d'Akita ; 1994), et le hall culturel de Kamo Ramere (Unnan, préfecture de Shimane ; achevé en 1994, ouvert en 1995). Il reçoit le prix de l'Institut d'architecture du Japon (catégorie design) en 1987 pour le gymnase du village de Ryujin. Il meurt le 20 avril 2025 à son domicile de la préfecture de Nara, de vieillesse, à l'âge de 86 ans.
+fr_viewpoint: Un architecte devenu indépendant après avoir été diplômé de l'université de Fukui et avoir travaillé à l'Institut d'architecture et d'ingénierie RIA. Le gymnase du village de Ryujin, un gymnase en bois et en béton armé construit dans le village de Ryujin, préfecture de Wakayama, devint l'œuvre lauréate du prix de l'Institut d'architecture du Japon (catégorie design) de 1987.
+
+es_bio: Nacido en Kakunodate-cho, distrito de Senboku, prefectura de Akita (actual ciudad de Senboku). Se graduó en 1961 en el Departamento de Arquitectura de la Facultad de Ingeniería de la Universidad de Fukui y trabajó en el Instituto de Arquitectura e Ingeniería RIA. En 1970 abrió el taller Toyokazu Watanabe, renombrado como taller de arquitectura Toyokazu Watanabe en 1972. Diseñó, entre otras obras, el Gimnasio del Pueblo de Ryujin (actual Centro de Promoción de la Salud de los Trabajadores Forestales de la Ciudad de Tanabe, Tanabe, prefectura de Wakayama; 1987), el Gimnasio Municipal de Akita (actual CNA Arena Akita, ciudad de Akita, prefectura de Akita; 1994), y el Salón Cultural de Kamo Ramere (Unnan, prefectura de Shimane; terminado en 1994, inaugurado en 1995). Recibió el Premio del Instituto de Arquitectura de Japón (categoría diseño) en 1987 por el Gimnasio del Pueblo de Ryujin. Falleció el 20 de abril de 2025 en su domicilio de la prefectura de Nara, de vejez, a los 86 años.
+es_viewpoint: Un arquitecto que se independizó tras graduarse en la Universidad de Fukui y trabajar en el Instituto de Arquitectura e Ingeniería RIA. El Gimnasio del Pueblo de Ryujin, un gimnasio de madera y hormigón armado construido en el pueblo de Ryujin, prefectura de Wakayama, se convirtió en la obra ganadora del Premio del Instituto de Arquitectura de Japón (categoría diseño) de 1987.
+
+de_bio: Geboren in Kakunodate-cho, Bezirk Senboku, Präfektur Akita (heute Stadt Senboku). Er schloss 1961 sein Studium an der Architekturabteilung der Ingenieurfakultät der Universität Fukui ab und arbeitete am RIA-Institut für Architektur und Ingenieurwesen. 1970 eröffnete er das Atelier Toyokazu Watanabe, das 1972 in Architekturwerkstatt Toyokazu Watanabe umbenannt wurde. Er entwarf unter anderem die Sporthalle des Dorfes Ryujin (heute Gesundheitsförderungszentrum für Forstarbeiter der Stadt Tanabe, Tanabe, Präfektur Wakayama; 1987), die Städtische Sporthalle Akita (heute CNA Arena Akita, Stadt Akita, Präfektur Akita; 1994) und die Kamo-Kulturhalle Ramere (Unnan, Präfektur Shimane; fertiggestellt 1994, eröffnet 1995). 1987 erhielt er den Preis des Architekturinstituts von Japan (Kategorie Entwurf) für die Sporthalle des Dorfes Ryujin. Er starb am 20. April 2025 in seinem Zuhause in der Präfektur Nara an Altersschwäche im Alter von 86 Jahren.
+de_viewpoint: Ein Architekt, der nach seinem Abschluss an der Universität Fukui und einer Tätigkeit am RIA-Institut für Architektur und Ingenieurwesen selbstständig wurde. Die Sporthalle des Dorfes Ryujin, eine Halle aus Holz und Stahlbeton im Dorf Ryujin, Präfektur Wakayama, wurde das preisgekrönte Werk des Preises des Architekturinstituts von Japan (Kategorie Entwurf) von 1987.
+
+---
+
+## まとめ（第7便・5名完了）
+
+5名（木島安史・石井修・水谷頴介・山本忠司・渡辺豊和）全員でCodexの是正が入った。★最も重大な是正＝木島安史の孤風院について「2026年7月17日文化審議会答申」という一次資料調査エージェントが発見した情報を、Codexが文化庁公式の一覧ページで再現できず、答申の事実そのものが未確認と判明・全面削除した。石井修は大林組在籍期間の誤り（1940-1956年→実際は1946年退職）を発見・訂正。水谷頴介・山本忠司・渡辺豊和は、代表作の文化財指定状況の確認粒度を統一する是正が中心だった（一部だけ詳細確認・他は未確認という不統一を解消）。渡辺豊和は2025年4月20日没という直近の物故者で、4紙の独立した訃報記事により死去情報を確認した。ハングは0件（全5名とも単一チャンクで正常完了）。
+
+## やらなかったこと
+- Shopify・CSVへの実反映はしていない（制作Tへの引き渡しまで）。
+- 実行はリサーチTでは行わない。
+
+<!-- created: 2026-07-29 by terminal=あつぺくとリサーチ model=Sonnet 5 work=建築残り23名第7便(5名)完成原稿 -->
