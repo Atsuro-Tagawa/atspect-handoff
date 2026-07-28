@@ -1,0 +1,58 @@
+Codexハング切り分け・独立レビュー実施ログ（2026-07-28・あつぺくとリサーチ）
+
+■ クォータ実測（codex app-server / account/rateLimits/read・JSON-RPC直接呼び出し）
+{
+  "rateLimits": {
+    "primary": {"usedPercent": 10, "windowDurationMins": 10080},
+    "secondary": null,
+    "credits": {"hasCredits": false, "unlimited": false, "balance": "0"},
+    "planType": "plus",
+    "rateLimitReachedType": null
+  },
+  "rateLimitResetCredits": {"availableCount": 2}
+}
+→ 週次枠使用率10%のみ・rateLimitReachedType=null（利用上限に達していない）・reset=2026-08-03 14:48:11。
+→ 結論：クォータ切れではない。
+
+■ 段階的再現テスト（codex exec --json --sandbox read-only、6件・すべて15秒〜2分で完了）
+1. "Reply with exactly: OK" → 即成功
+2. 数値整合性チェック（テキストのみ） → 即成功（reasoning_output_tokens:65）
+3. Vault内.mdファイルの行数報告 → 即成功（PowerShell Get-Content|Measure-Object、21行と正答）
+4. 11MB PDFのファイルサイズのみ報告 → 即成功（11,284,542 bytesと正答）
+5. pypdf/PyMuPDFでPDFのTrimBoxを報告
+   → 1回目：PowerShellヒアドキュメント(@'...'@|python -)内の日本語パスが「?????」に文字化けし
+     pymupdf.FileNotFoundError発生（実行時間約0.5〜0.7秒で即失敗）
+   → Codex自身が原因を自己診断「PowerShellから標準入力へ渡す際に日本語パスが文字化けしました」
+   → 2回目：$env:TASK_PDF_PATH経由でパスを渡す方式に切替 → 成功
+     結果：pages=2, TrimBox=[34.015748, 34.015748, 875.905512, 1224.56693]pt（両ページとも自己検証値と一致）
+6. 新旧PDFの/Contentsストリームをpage単位でMD5比較（前便でハングしたレビューと同型のタスク）
+   → 1回目：同じ日本語パス文字化けパターンで失敗
+   → 2回目：環境変数経由で成功
+     結果：
+     page=1 match=True md5_1=7862e9fa6a253359cb01a58d57ba65fe md5_2=7862e9fa6a253359cb01a58d57ba65fe len=9618139
+     page=2 match=True md5_1=6fc481d3c648c569ed246ec619f5f44c md5_2=6fc481d3c648c569ed246ec619f5f44c len=1664802
+     all_pages_match=True
+     → 自己検証（add_boxes2.py実行時の値）と完全一致。
+
+■ 原因の結論（推測で断定しない）
+実在バグ＝Codex内部のPowerShellヒアドキュメント経由Python実行での日本語パス文字化け（2回とも再現）。
+ただしこのバグは毎回1分以内に自己回復しており、6件のテストいずれも数分間の完全無応答を再現できなかった。
+→「原因特定」でも「特定不能」でもない中間の結論：有力な原因候補ではあるが、
+  過去3回の数分間ハングを完全に説明する直接証拠はない。
+→ 実務対処：依頼を単一ファイル・単一観点に分割すると安定して成功することを確認（下記レビューで実証）。
+  複合依頼（複数ファイル・複数観点を1回にまとめた依頼）を1件試したところ2分でタイムアウトし、
+  ハングと同型の症状を確認。
+
+■ 分割依頼によるCodex独立レビュー結果（作業2・全6件成功）
+1. TrimBox=[34.015748,34.015748,875.905512,1224.56693]pt（両ページ）=12mm inset=297×420mm 目標一致
+2. BleedBox=[25.511811,25.511811,884.409449,1233.07087]pt（両ページ）=9mm inset=303×426mm 目標一致=YES
+3. 画素不変性：page1/page2ともMD5完全一致（上記6と同値）
+4. 台本(08_v2)記載のファイル名「23_パンフ_印刷用_v214_ボックス追加版_リサーチT.pdf」実在確認=OK
+5. 00_入稿一覧：新ファイル名の言及=True、「トンボ付き」の残存=False
+6. _README_どれで刷るか：冒頭近くに23_版が最新入稿対象と明記=YES
+7. フォルダ全体（_入稿データ_アクセア_修正版_20260724\の全.txt/.html）で「トンボ付き」横断検索=ヒット0件
+
+■ 指示範囲外の見落とし（自己読解で発見・Codexの検索結果ではない）
+22_パンフA3_印刷入稿仕様書_リサーチT.pdf/html（前便作成）がボックス追加前（20_ファイル参照・「未設定」の記述）
+のまま更新されておらず、台本(08_v2)とは整合していたが仕様書自体は実データと食い違っていた。
+この場で23_版・ボックス設定済みの記述に是正（1ページ収まりを再確認・page_count=1）。
