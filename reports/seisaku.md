@@ -2,6 +2,19 @@
 
 最終更新：2026-07-29
 
+## 直近の完了作業：apply-fixes.mjs dry-run実行（第3便）
+
+詳細＝[reports/assets/20260729_seisei/dryrun-report_seisaku.md](assets/20260729_seisei/dryrun-report_seisaku.md)
+
+- SNS運用T作成の`apply-fixes.mjs`到着を確認しdry-runのみ実行＝実行対象46件すべて「OK」（0件・2件以上は0件）。
+- **applyは実行していない**。A-1a（about.liquid）にSNS運用T自身の警告あり＝過去の代表確定「確定タグラインを流用しない」と今回の司令塔確定が食い違うため、司令塔・代表の再確認が必要。
+
+## 直近の完了作業：建築原稿10名の裏取り再検証（第2便）
+
+- 10名×8言語＝80ページをpage-audit.mjsで実測、HTTP200/4xx-5xx0件。
+- masterworks/bioの年号をAdmin GraphQLで日本語↔7言語を機械照合＝内容上の不一致0件（槇文彦zh-cn「1960」は中国語の慣用表現「20世纪60年代」による見かけ上の不一致で、内容確認の結果は一致）。
+- 槇文彦ヒルサイドテラス1969-1992は全8言語で確認・再発なし。
+
 ## 直近の完了作業：サイト名重複（あつぺくと／ATSPECT）の是正
 
 詳細＝[reports/assets/20260729_sitename/report.md](assets/20260729_sitename/report.md)
