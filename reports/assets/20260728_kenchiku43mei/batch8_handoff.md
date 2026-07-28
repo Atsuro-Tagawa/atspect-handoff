@@ -11,7 +11,7 @@
 - [x] 林雅子：Codexレビューで是正（自邸「私たちの家」の増築経緯を精緻化＝第Ⅰ期1955年〔林昌二単独〕→1965年頃の中間増築→第Ⅱ期1978年〔林昌二・林雅子共同〕の3段階。海のギャラリーの竣工年〔1966年〕・登録有形文化財〔2019年3月29日登録〕は文化庁国指定文化財等データベースで一次確認済み。「未確認」の多用が読者に不信感を与えるとの指摘を受け、確度の高い事項〔生没年・卒業年・設計同人設立年〕は複数の独立した二次資料〔没後作品集の正式書名等〕で裏付けられるとして本文に残す一方、「享年72とされる」等の不要な限定は削除）
 - [x] 土浦信子：Codexレビューで是正（★土浦邸における信子の役割を「台所設計・収納を担当した」という断定から「信子は同邸を例に台所改善や収納の工夫について発表した」という、より確度の高い表現に訂正＝共同設計・信子自身の発信は確認できるが、夫妻間の具体的な設計分担〔誰が何を設計したか〕までは一次資料で確認できないと判明。夫・亀城との出会いの年〔1921年説・1922年説が資料内で相違〕を「1922年に結婚」で確定させず「別荘設計をきっかけに知り合い、1922年に結婚」に整理。夫・土浦亀城の既存プロフィールとの重複を避け、信子固有の経歴を中心に構成）
 - [x] 圓堂政嘉：Codexレビューで是正（★没年月日を「日本時間9月29日・現地〔ニューヨーク〕時間9月28日」として確定＝出典間の「相違」は時差によるものと判明。改名年〔1962年〕はWikipedia単独ではなく東京文化財研究所の物故者記事にも明記されていると判明し出典を明示。建築業協会賞の対象を「大洋漁業本社ビル〔1980年〕」「花巻『佳松園』〔1965年〕」という別年の受賞と整理〔下書きの「信松園」は誤記と判明、正しくは「佳松園」〕。盛岡市役所本庁舎の竣工月「10月」は未確認のため年のみに弱める）
-- [ ] 星野昌一
+- [x] 星野昌一：Codexレビューで是正（★千葉市役所旧本庁舎の竣工時期を「1970年落成〔千葉市史一次資料〕」に確定＝東京文化財研究所の物故者記事「昭和37年〔1962年〕」は千葉市史の一次資料〔1968年12月起工・1970年2月11日落成〕と一致せず不採用。千葉県庁舎中庁舎の竣工年を「1962年」に確定〔県の建物管理資料に基づく〕。松阪市庁舎本館は設計者クレジットが「東京大学生産技術研究所」名義であり星野個人への直接クレジットは一次資料で確認できないと明記。研究歴の列挙は出典表が伴わないため縮小。5/5で第8便（最終便）完了・建築20名すべて完了）
 
 ---
 
@@ -168,3 +168,56 @@ es_viewpoint: Un arquitecto que trabajó en la oficina de arquitectura Togo Mura
 
 de_bio: Geboren in Minami-Ota-cho, Yokohama, Präfektur Kanagawa. Sein Vater, Masanao Endo, hatte einen Doktortitel in Ingenieurwissenschaften und war Professor an der Höheren Technischen Schule Yokohama. Er schloss im September 1945 sein Studium an der Architekturabteilung der Ersten Fakultät für Naturwissenschaften und Ingenieurwesen der Waseda-Universität ab, trat 1946 in das Architekturbüro Togo Murano ein und verließ es 1949. Im November 1952 gründete er das Architekturbüro Endo. Laut der vom Tokioter Nationalen Forschungsinstitut für Kulturgüter verzeichneten Biografie änderte er 1962 die Kanji-Schreibweise seines Namens. 1991 eröffnete er ein Büro in New York im Seagram Building. Im Mai 1994 wandelte er das Büro in die Endo Associates Co., Ltd. um. Er entwarf den Hauptsitz der Yamaguchi Bank (Takezaki-cho, Shimonoseki, Präfektur Yamaguchi; fertiggestellt 1965) und das Hauptgebäude des Rathauses von Morioka (Morioka, Präfektur Iwate; fertiggestellt 1962). Für den Entwurf des Hauptsitzes der Yamaguchi Bank erhielt er im Mai 1966 den Preis des Architekturinstituts von Japan. Von 1968 bis 1975 war er Direktor des Japanischen Instituts der Architekten, von 1982 bis 1986 dessen Präsident. Er starb am 29. September 1994 japanischer Zeit (28. September Ortszeit) in New York City an Herzversagen im Alter von 73 Jahren.
 de_viewpoint: Ein Architekt, der beim Architekturbüro Togo Murano arbeitete, bevor er sich selbstständig machte, und später Präsident des Japanischen Instituts der Architekten wurde. DOCOMOMO Japan beschreibt den Hauptsitz der Yamaguchi Bank als weitgehend unverändert erhaltenen modernistischen architektonischen Raum.
+
+---
+
+## 星野昌一（1908-1991）
+
+**★Codex最重要是正**：千葉市役所旧本庁舎の竣工時期について、東京文化財研究所の物故者記事が記す「昭和37年（1962年）」は、千葉市地域情報デジタルアーカイブ『千葉市史』（一次資料）が記録する「1968年12月起工・1970年2月11日落成」と一致せず、後者（千葉市史）を採用すべきと判定。千葉県庁舎中庁舎の竣工年は県の建物管理資料に基づき「1962年」に確定。松阪市庁舎本館は、確認できた設計者クレジットが「東京大学生産技術研究所」名義であり、星野個人への直接クレジットを示す一次資料（設計図書・工事記録等）は確認できていないと明記（東京文化財研究所の物故者記事のみが星野の作品として掲載）。研究歴（防空迷彩・軽量プレハブ住宅等）の具体例列挙は、下書き全体を一括して裏付ける出典表がないため簡略化。
+
+**bio_ja**：京都府舞鶴の生まれ。1931年に東京帝国大学工学部建築学科を卒業し、同学科助手となった。1938年に助教授、1942年に教授となり、1969年に停年退官した。1969年から1986年まで東京理科大学教授を務め、同年、星野研究室一級建築士事務所を設立した。建築の防火・安全、色彩調節、建築材料などに関する研究に取り組んだ。東京文化財研究所の物故者記事では、千葉県庁舎、千葉市役所、松阪市庁舎などが作品として挙げられている。ただし、千葉市役所について同記事が記す1962年は、千葉市史が記録する千葉港の旧本庁舎の1970年落成とは一致しない。また、松阪市庁舎本館について確認できた設計者クレジットは東京大学生産技術研究所名義である。1991年11月24日、83歳で没した。
+
+**viewpoint_ja**：東京大学で建築の防火・安全、色彩調節、建築材料などの研究に取り組んだ建築家。東京文化財研究所の物故者記事では、千葉県庁舎、千葉市役所、松阪市庁舎などが作品として挙げられている。
+
+**masterworks_text**：千葉県庁中庁舎（千葉県千葉市中央区市場町1番1号・1962年竣工・現存〔県庁舎再整備を検討中〕・文化財指定状況は未確認）、千葉市役所旧本庁舎（千葉県千葉市中央区千葉港1番1号・1970年落成〔1968年12月起工、1970年2月11日落成〕・解体済み〔旧庁舎解体は2024年7月終了〕・文化財指定状況は未確認）、松阪市庁舎本館（三重県松阪市殿町1340番地1・1969年竣工・現存〔2011年度に本館耐震改修工事を実施〕・文化財指定状況は未確認。設計者クレジットは東京大学生産技術研究所名義で、東京文化財研究所の物故者記事が星野の作品として掲載）
+
+**collection_places**：文化財指定は確認できず。専用の記念館・アーカイブは未確認。
+
+**groups**：大学：東京帝国大学助手→助教授(1938年)→教授(1942年)→停年退官(1969年)、東京理科大学教授(1969-1986年)／設計事務所：星野研究室一級建築士事務所（1969年設立）／建築運動：なし（確認できず）
+
+**8言語訳（bio／viewpoint）**：
+
+en_bio: Born in Maizuru, Kyoto Prefecture. He graduated from the Department of Architecture, Faculty of Engineering, Tokyo Imperial University, in 1931, becoming an assistant in the same department. He became an associate professor in 1938 and a professor in 1942, retiring in 1969. He served as a professor at Tokyo University of Science from 1969 to 1986, and in 1969 established the Hoshino Laboratory first-class architect's office. He conducted research on fire safety, color coordination, and building materials, among other topics. The Tokyo National Research Institute for Cultural Properties' obituary record lists the Chiba Prefectural Government Office, Chiba City Hall, and the Matsusaka City Hall, among others, as his works. However, the year 1962 given by that record for Chiba City Hall does not match the 1970 completion of the former main building at Chiba Port recorded in the official history of Chiba City. Furthermore, the design credit confirmed for the Matsusaka City Hall Main Building is in the name of the Institute of Industrial Science, University of Tokyo. He died on November 24, 1991, at the age of 83.
+en_viewpoint: An architect who conducted research at the University of Tokyo on fire safety, color coordination, and building materials in architecture. The Tokyo National Research Institute for Cultural Properties' obituary record lists the Chiba Prefectural Government Office, Chiba City Hall, and the Matsusaka City Hall, among others, as his works.
+
+zh_cn_bio: 生于京都府舞鹤。1931年毕业于东京帝国大学工学部建筑学科，任该学科助手。1938年任副教授，1942年任教授，1969年退休。1969年至1986年任东京理科大学教授，同年创立星野研究室一级建筑师事务所。致力于建筑防火·安全、色彩调节、建筑材料等方面的研究。东京文化财研究所的物故者记事中，将千叶县厅舍、千叶市役所、松阪市厅舍等列为其作品。但该记事所记千叶市役所的1962年，与千叶市史所记千叶港旧本厅舍1970年落成的记录不一致。此外，可确认的松阪市厅舍本馆设计者署名为东京大学生产技术研究所。1991年11月24日，以83岁去世。
+zh_cn_viewpoint: 在东京大学致力于建筑防火·安全、色彩调节、建筑材料等研究的建筑师。东京文化财研究所的物故者记事中，将千叶县厅舍、千叶市役所、松阪市厅舍等列为其作品。
+
+zh_tw_bio: 生於京都府舞鶴。1931年畢業於東京帝國大學工學部建築學科，任該學科助手。1938年任副教授，1942年任教授，1969年退休。1969年至1986年任東京理科大學教授，同年創立星野研究室一級建築師事務所。致力於建築防火・安全、色彩調節、建築材料等方面的研究。東京文化財研究所的物故者記事中，將千葉縣廳舍、千葉市役所、松阪市廳舍等列為其作品。但該記事所記千葉市役所的1962年，與千葉市史所記千葉港舊本廳舍1970年落成的記錄不一致。此外，可確認的松阪市廳舍本館設計者署名為東京大學生產技術研究所。1991年11月24日，以83歲去世。
+zh_tw_viewpoint: 在東京大學致力於建築防火・安全、色彩調節、建築材料等研究的建築師。東京文化財研究所的物故者記事中，將千葉縣廳舍、千葉市役所、松阪市廳舍等列為其作品。
+
+ko_bio: 교토부 마이즈루 출신. 1931년 도쿄제국대학 공학부 건축학과를 졸업하고 동 학과 조수가 되었다. 1938년 조교수, 1942년 교수가 되었고, 1969년 정년퇴임했다. 1969년부터 1986년까지 도쿄이과대학 교수를 지냈고, 같은 해 호시노연구실 1급건축사사무소를 설립했다. 건축의 방화·안전, 색채조절, 건축재료 등에 관한 연구에 힘썼다. 도쿄문화재연구소의 물고자 기사에는 지바현청사, 지바시청, 마쓰사카시청사 등이 그의 작품으로 열거되어 있다. 다만 지바시청에 대해 동 기사가 기재한 1962년은, 지바시사가 기록하는 지바항 옛 본청사의 1970년 낙성과 일치하지 않는다. 또한 마쓰사카시청사 본관에 대해 확인된 설계자 크레딧은 도쿄대학 생산기술연구소 명의이다. 1991년 11월 24일, 83세로 별세했다.
+ko_viewpoint: 도쿄대학에서 건축의 방화·안전, 색채조절, 건축재료 등의 연구에 힘쓴 건축가. 도쿄문화재연구소의 물고자 기사에는 지바현청사, 지바시청, 마쓰사카시청사 등이 그의 작품으로 열거되어 있다.
+
+fr_bio: Né à Maizuru, préfecture de Kyoto. Diplômé en 1931 du département d'architecture de la faculté d'ingénierie de l'université impériale de Tokyo, il devient assistant dans le même département. Il devient professeur associé en 1938 et professeur titulaire en 1942, prenant sa retraite en 1969. Il est professeur à l'université des sciences de Tokyo de 1969 à 1986, et fonde la même année le cabinet d'architecte de première classe Hoshino. Il mène des recherches sur la sécurité incendie, la coordination des couleurs et les matériaux de construction, entre autres sujets. La notice nécrologique de l'Institut national de recherche sur les biens culturels de Tokyo cite l'hôtel du gouvernement de la préfecture de Chiba, l'hôtel de ville de Chiba et l'hôtel de ville de Matsusaka, entre autres, comme ses œuvres. Cependant, l'année 1962 indiquée par cette notice pour l'hôtel de ville de Chiba ne correspond pas à l'achèvement en 1970 de l'ancien bâtiment principal du port de Chiba, tel que consigné dans l'histoire officielle de la ville de Chiba. En outre, le crédit de conception confirmé pour le bâtiment principal de l'hôtel de ville de Matsusaka est au nom de l'Institut des sciences industrielles de l'université de Tokyo. Il meurt le 24 novembre 1991 à l'âge de 83 ans.
+fr_viewpoint: Un architecte qui mena à l'université de Tokyo des recherches sur la sécurité incendie, la coordination des couleurs et les matériaux de construction en architecture. La notice nécrologique de l'Institut national de recherche sur les biens culturels de Tokyo cite l'hôtel du gouvernement de la préfecture de Chiba, l'hôtel de ville de Chiba et l'hôtel de ville de Matsusaka, entre autres, comme ses œuvres.
+
+es_bio: Nacido en Maizuru, prefectura de Kioto. Se graduó en 1931 en el Departamento de Arquitectura de la Facultad de Ingeniería de la Universidad Imperial de Tokio, convirtiéndose en asistente del mismo departamento. Se convirtió en profesor adjunto en 1938 y en catedrático en 1942, jubilándose en 1969. Fue profesor en la Universidad de Ciencias de Tokio de 1969 a 1986, y ese mismo año fundó el despacho de arquitecto de primera clase Hoshino. Realizó investigaciones sobre seguridad contra incendios, coordinación del color y materiales de construcción, entre otros temas. El obituario del Instituto Nacional de Investigación de Bienes Culturales de Tokio menciona la sede del gobierno de la prefectura de Chiba, el ayuntamiento de Chiba y el ayuntamiento de Matsusaka, entre otros, como obras suyas. Sin embargo, el año 1962 que indica dicho registro para el ayuntamiento de Chiba no coincide con la finalización en 1970 del antiguo edificio principal del puerto de Chiba, según consta en la historia oficial de la ciudad de Chiba. Además, el crédito de diseño confirmado para el edificio principal del ayuntamiento de Matsusaka figura a nombre del Instituto de Ciencia Industrial de la Universidad de Tokio. Falleció el 24 de noviembre de 1991 a los 83 años.
+es_viewpoint: Un arquitecto que realizó en la Universidad de Tokio investigaciones sobre seguridad contra incendios, coordinación del color y materiales de construcción en arquitectura. El obituario del Instituto Nacional de Investigación de Bienes Culturales de Tokio menciona la sede del gobierno de la prefectura de Chiba, el ayuntamiento de Chiba y el ayuntamiento de Matsusaka, entre otros, como obras suyas.
+
+de_bio: Geboren in Maizuru, Präfektur Kyoto. Er schloss 1931 sein Studium an der Architekturabteilung der Ingenieurfakultät der Kaiserlichen Universität Tokio ab und wurde Assistent an derselben Abteilung. 1938 wurde er außerordentlicher Professor, 1942 ordentlicher Professor, und trat 1969 in den Ruhestand. Von 1969 bis 1986 war er Professor an der Tokyo University of Science und gründete im selben Jahr das Architekturbüro erster Klasse Hoshino. Er forschte unter anderem zu Brandschutz, Farbabstimmung und Baumaterialien. Der Nachruf des Tokioter Nationalen Forschungsinstituts für Kulturgüter nennt das Regierungsgebäude der Präfektur Chiba, das Rathaus von Chiba und das Rathaus von Matsusaka unter anderem als seine Werke. Das dort für das Rathaus von Chiba angegebene Jahr 1962 stimmt jedoch nicht mit der 1970 erfolgten Fertigstellung des ehemaligen Hauptgebäudes am Hafen von Chiba überein, wie sie in der offiziellen Stadtgeschichte von Chiba verzeichnet ist. Zudem lautet der bestätigte Entwurfsvermerk für das Hauptgebäude des Rathauses von Matsusaka auf das Institut für Industriewissenschaften der Universität Tokio. Er starb am 24. November 1991 im Alter von 83 Jahren.
+de_viewpoint: Ein Architekt, der an der Universität Tokio zu Brandschutz, Farbabstimmung und Baumaterialien in der Architektur forschte. Der Nachruf des Tokioter Nationalen Forschungsinstituts für Kulturgüter nennt das Regierungsgebäude der Präfektur Chiba, das Rathaus von Chiba und das Rathaus von Matsusaka unter anderem als seine Werke.
+
+---
+
+## まとめ（第8便・最終便・5名完了＝建築残り23名20名すべて完了）
+
+5名（浜口ミホ・林雅子・土浦信子・圓堂政嘉・星野昌一）全員でCodexの是正が入った。★最も重大な是正＝圓堂政嘉の没年月日「9月28日・29日で資料間相違」という認識が誤りで、日本時間9月29日・現地〔ニューヨーク〕時間9月28日という時差による見かけ上の相違だったと判明。次いで重大＝星野昌一の千葉市役所旧本庁舎の竣工時期について、東京文化財研究所の物故者記事「1962年」と千葉市史の一次資料「1970年落成」という8年の食い違いを、より確度の高い千葉市史側を採用する形で解消。土浦信子は、土浦邸における役割を「台所設計を担当した」という断定から「同邸を例に台所改善について発表した」という確度の高い表現に訂正（第4便掲載の夫・土浦亀城のプロフィールとの重複を避け、信子固有の経歴を中心に構成）。浜口ミホ・林雅子は「日本初の女性一級建築士」「女性初の日本建築学会賞」等の伝記的な「初」の主張について、複数の伝記的資料・機関資料での一致は確認できるが公的原簿そのものへの到達はできていないため、無留保の断定を避ける表現に統一。ハングは0件（全5名とも単一チャンクで正常完了）。
+
+これにより、建築・残り43名のうち計40名（第1便〜第8便）が完了。候補プール全51名から既完了8名（辰野金吾・伊東忠太・片山東熊・丹下健三・清家清・磯崎新・槇文彦・内田祥三）を加えると48名完了。残り3名（金剛よしゑ・大野美代子・西岡常一）は、いずれも近代的資格の「建築家」ではなく伝統工匠・宮大工・橋梁デザイナーという性格を持ち、建築分野への掲載区分そのものに代表の判断が必要なため、今回の第5便〜第8便の対象からは意図的に除外した。
+
+## やらなかったこと
+- Shopify・CSVへの実反映はしていない（制作Tへの引き渡しまで）。
+- 実行はリサーチTでは行わない。
+
+<!-- created: 2026-07-29 by terminal=あつぺくとリサーチ model=Sonnet 5 work=建築残り23名第8便(最終便5名)完成原稿・建築20名完了 -->
