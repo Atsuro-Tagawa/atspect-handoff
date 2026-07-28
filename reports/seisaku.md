@@ -2,7 +2,16 @@
 
 最終更新：2026-07-29
 
-## 直近の完了作業：apply-fixes.mjs dry-run実行（第3便）
+## 直近の完了作業：apply-fixes.mjs実行＋プライバシーポリシー1本化
+
+詳細＝[reports/assets/20260729_seisei/apply-execution-report.md](assets/20260729_seisei/apply-execution-report.md)
+
+- 第1便＝代表承認のうえapply-fixes.mjs実行。A-1a・A-1b（タグライン統一2件）を代表裁定どおり除外し、残り44件を全件apply＝**失敗0・ロールバック0**。影響9ページ+トップを160件page-audit実測・エラー0。
+- 第2便＝プライバシーポリシーをコーポレート正本（.co.jp）へ13節構成で全面差し替え。日本語本文は.com/.co.jp間で機械突き合わせ差分ゼロを確認。
+- **★正本の6言語（zh-cn/zh-tw/ko/fr/es/de）冒頭に「(atspect.com)」という取り残し誤記を発見・.com側はja/enに合わせて除去。コーポレートサイト本体に同じ誤記が残っているかは権限外のため未確認＝他ターミナルへ申し送り（Vault判断待ちマスターA-24）**。
+- Codex2回（1ファイル1観点）ともGO。
+
+## 前便：apply-fixes.mjs dry-run実行（第3便）
 
 詳細＝[reports/assets/20260729_seisei/dryrun-report_seisaku.md](assets/20260729_seisei/dryrun-report_seisaku.md)
 

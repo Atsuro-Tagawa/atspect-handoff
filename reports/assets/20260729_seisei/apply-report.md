@@ -1,21 +1,13 @@
 # 是正スクリプト実行結果
 
-実行日時：2026-07-28T17:30:47.433Z　モード：dry-run
+実行日時：2026-07-28T17:42:03.900Z　モード：apply
 
 ## 実行対象の内訳
-- 収録件数：62件（実行対象 46件／除外 16件）
+- 収録件数：62件（実行対象 44件／除外 18件）
 
 ## dry-run判定
 | ID | ファイル | 判定 | 件数 | 備考 |
 |---|---|---|---|---|
-| A-1a | sections/atspect-about.liquid | OK | 1 |  |
-| B-11 | sections/atspect-about.liquid | OK | 1 |  |
-| B-12 | sections/atspect-about.liquid | OK | 1 |  |
-| B-13 | sections/atspect-about.liquid | OK | 1 |  |
-| B-14 | sections/atspect-about.liquid | OK | 1 |  |
-| A-1b | sections/atspect-press-page.liquid | OK | 1 |  |
-| A-67-cn | sections/atspect-press-page.liquid | OK | 1 |  |
-| A-67-tw | sections/atspect-press-page.liquid | OK | 1 |  |
 | A-1c | sections/atspect-artist-registration.liquid | OK | 1 |  |
 | B-17b | sections/atspect-artist-registration.liquid | OK | 1 |  |
 | B-22 | sections/atspect-artist-registration.liquid | OK | 1 |  |
@@ -43,7 +35,13 @@
 | B-50 | sections/atspect-terms-artist.liquid | OK | 1 |  |
 | B-60 | sections/atspect-terms-artist.liquid | OK | 1 |  |
 | A-65 | sections/atspect-footer.liquid | OK | 1 |  |
+| A-67-cn | sections/atspect-press-page.liquid | OK | 1 |  |
+| A-67-tw | sections/atspect-press-page.liquid | OK | 1 |  |
 | A-69 | sections/atspect-artwork-detail.liquid | OK | 1 |  |
+| B-11 | sections/atspect-about.liquid | OK | 1 |  |
+| B-12 | sections/atspect-about.liquid | OK | 1 |  |
+| B-13 | sections/atspect-about.liquid | OK | 1 |  |
+| B-14 | sections/atspect-about.liquid | OK | 1 |  |
 | B-25 | sections/atspect-artist-cancellation.liquid | OK | 1 |  |
 | B-26_27a | sections/atspect-artist-cancellation.liquid | OK | 1 |  |
 | B-61 | sections/atspect-tokushoho.liquid | OK | 1 |  |
@@ -55,9 +53,59 @@
 | B-64b | sections/atspect-tokushoho.liquid | OK | 1 |  |
 | B-64c | sections/atspect-tokushoho.liquid | OK | 1 |  |
 
+## apply結果
+| ID | ファイル | 結果 | 備考 |
+|---|---|---|---|
+| A-1c | sections/atspect-artist-registration.liquid | APPLIED |  |
+| B-17b | sections/atspect-artist-registration.liquid | APPLIED |  |
+| B-22 | sections/atspect-artist-registration.liquid | APPLIED |  |
+| B-23 | sections/atspect-artist-registration.liquid | APPLIED |  |
+| B-26_27b | sections/atspect-artist-registration.liquid | APPLIED |  |
+| A-2 | sections/atspect-artist-guide.liquid | APPLIED |  |
+| B-16 | sections/atspect-artist-guide.liquid | APPLIED |  |
+| B-17a | sections/atspect-artist-guide.liquid | APPLIED |  |
+| B-19 | sections/atspect-artist-guide.liquid | APPLIED |  |
+| A-3a | sections/atspect-faq.liquid | APPLIED |  |
+| A-10 | sections/atspect-terms-artist.liquid | APPLIED |  |
+| A-46 | sections/atspect-terms-artist.liquid | APPLIED |  |
+| B-29_30 | sections/atspect-terms-artist.liquid | APPLIED |  |
+| B-31 | sections/atspect-terms-artist.liquid | APPLIED |  |
+| B-32_51 | sections/atspect-terms-artist.liquid | APPLIED |  |
+| B-33 | sections/atspect-terms-artist.liquid | APPLIED |  |
+| B-56 | sections/atspect-terms-artist.liquid | APPLIED |  |
+| B-34 | sections/atspect-terms-artist.liquid | APPLIED |  |
+| B-47_48_49 | sections/atspect-terms-artist.liquid | APPLIED |  |
+| B-37_58 | sections/atspect-terms-artist.liquid | APPLIED |  |
+| B-59 | sections/atspect-terms-artist.liquid | APPLIED |  |
+| B-38_52 | sections/atspect-terms-artist.liquid | APPLIED |  |
+| B-40 | sections/atspect-terms-artist.liquid | APPLIED |  |
+| B-41 | sections/atspect-terms-artist.liquid | APPLIED |  |
+| B-50 | sections/atspect-terms-artist.liquid | APPLIED |  |
+| B-60 | sections/atspect-terms-artist.liquid | APPLIED |  |
+| A-65 | sections/atspect-footer.liquid | APPLIED |  |
+| A-67-cn | sections/atspect-press-page.liquid | APPLIED |  |
+| A-67-tw | sections/atspect-press-page.liquid | APPLIED |  |
+| A-69 | sections/atspect-artwork-detail.liquid | APPLIED |  |
+| B-11 | sections/atspect-about.liquid | APPLIED |  |
+| B-12 | sections/atspect-about.liquid | APPLIED |  |
+| B-13 | sections/atspect-about.liquid | APPLIED |  |
+| B-14 | sections/atspect-about.liquid | APPLIED |  |
+| B-25 | sections/atspect-artist-cancellation.liquid | APPLIED |  |
+| B-26_27a | sections/atspect-artist-cancellation.liquid | APPLIED |  |
+| B-61 | sections/atspect-tokushoho.liquid | APPLIED |  |
+| B-62_63a | sections/atspect-tokushoho.liquid | APPLIED |  |
+| B-62_63b | sections/atspect-tokushoho.liquid | APPLIED |  |
+| B-62_63c | sections/atspect-tokushoho.liquid | APPLIED |  |
+| B-62_63d | sections/atspect-tokushoho.liquid | APPLIED |  |
+| B-64a | sections/atspect-tokushoho.liquid | APPLIED |  |
+| B-64b | sections/atspect-tokushoho.liquid | APPLIED |  |
+| B-64c | sections/atspect-tokushoho.liquid | APPLIED |  |
+
 ## 除外件（fixes.json内・excluded:true）
 | ID | 出典 | 除外理由 |
 |---|---|---|
+| A-1a | master-findings#1 / fix-orders.md #1-a | ★2026-07-29代表裁定＝SNS運用Tの警告どおり除外。確定タグライン「作家とともに築く日本の美術のプラットフォームです。」は作家さまに向けた名乗りの一文であり、about.liquidの紹介ページ説明文に流し込むと名乗りが説明文に埋もれる。タグライン統一は作家さま向けの面（artist-guide・artist-registration-form）に限り、about・press-pageは据え置く（2026-07-25の既存コメントにある代表確定どおり）。原文：「あつぺくとは、日本の美術作家の情報と作品を集め、作家を知ることから、作品を手にすることまでを支えるプラットフォームです。日本語、英語、中国語（簡体・繁体）、韓国語、フランス語、スペイン語、ドイツ語の8言語に対応し、国内外の方がご自身の言葉で日本の作家と作品に触れられるようにしています。」 |
+| A-1b | master-findings#1 / fix-orders.md #1-b | ★2026-07-29代表裁定＝A-1aと同じ理由で除外。press-pageも据え置く対象（about・press-pageはタグライン統一の対象外、作家さま向けの面のみに限る）。原文：「あつぺくとは、日本の美術作家と作品を紹介するアートプラットフォームです。作家や作品の情報提供、取材のご協力など、メディアの皆さまからのお問い合わせをお待ちしております。」 |
 | B-66 | master-findings#66 | 対応不要と訂正済み＝Vault確定事項マスター381行目に代表指定・一字一句固定の確定文言と明記されている。収録しない。 |
 | A-3c | master-findings#3 / fix-orders.md #3-c | artwork-detail.liquidの「ご購入の流れ」5項目リスト（8言語）を1文の誘導文へ置き換える構造変更。7言語の確定訳がまだ届いておらず、日本語だけ部分適用すると8言語構造が壊れるため、翻訳到着まで収録しない。 |
 | B-15 | master-findings#15 / fix-orders-B.md #15 | ★司令塔判断待ち＝2箇所の重複（常時表示/結果0件時のみ表示）が意図的な補強か単純な重複か未確定のため、確定文が無い。 |
