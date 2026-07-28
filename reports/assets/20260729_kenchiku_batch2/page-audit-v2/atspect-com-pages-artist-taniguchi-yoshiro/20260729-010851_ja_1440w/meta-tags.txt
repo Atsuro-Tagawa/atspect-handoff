@@ -1,0 +1,38 @@
+<title> 谷口 吉郎（Taniguchi Yoshiro）
+ – あつぺくと／ATSPECT
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="">
+<meta property="og:site_name" content="あつぺくと／ATSPECT">
+<meta property="og:url" content="https://atspect.com/pages/artist/taniguchi-yoshiro">
+<meta property="og:title" content="谷口 吉郎（Taniguchi Yoshiro）">
+<meta property="og:type" content="website">
+<meta property="og:description" content="あつぺくとは、日本の美術を知り、出会い、求めることができる場所です。世界中の人が、それぞれの言語で日本の美術に出会えます。運営：株式会社ARTS RESPECT">
+<meta property="og:image" content="https://atspect.com/cdn/shop/t/3/assets/ogp-atspect.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:locale:alternate" content="en_US">
+<meta property="og:locale:alternate" content="zh_CN">
+<meta property="og:locale:alternate" content="zh_TW">
+<meta property="og:locale:alternate" content="ko_KR">
+<meta property="og:locale:alternate" content="fr_FR">
+<meta property="og:locale:alternate" content="es_ES">
+<meta property="og:locale:alternate" content="de_DE">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@AtsuroTagawa">
+<meta name="twitter:title" content="谷口 吉郎（Taniguchi Yoshiro）">
+<meta name="twitter:description" content="あつぺくとは、日本の美術を知り、出会い、求めることができる場所です。世界中の人が、それぞれの言語で日本の美術に出会えます。運営：株式会社ARTS RESPECT">
+<meta name="twitter:image" content="https://atspect.com/cdn/shop/t/3/assets/ogp-atspect.png">
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/81235869954/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="caee2900578754200fae0057b0ea3aa5">
+<meta id="in-context-paypal-metadata" data-shop-id="81235869954" data-venmo-supported="false" data-environment="production" data-locale="ja_JP" data-paypal-v4="true" data-currency="JPY">
+<meta name="shopify-y" content="52c48f0b-45fa-40e8-a222-bff43a53fe51">
+<meta http-equiv="origin-trial" content="A1duO9QWZ/3h+eq5jQsvYqOTVq5h5q2AoGInpwNr4FT22/JUt3BxFERXHAo5iKhs6doOavi6G5hno0oBANPzSgIAAABxeyJvcmlnaW4iOiJodHRwczovL2Nkbi5zaG9waWZ5LmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJlcmVuZGVyVW50aWxTY3JpcHQiLCJleHBpcnkiOjE3ODg4MjU2MDAsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=">
+<meta http-equiv="origin-trial" content="AwnTE1hYg9Bsa5x0wEDsbG6tOdZ3j6ebKzXxbr/2TnTilsCRK9FwndlhAyFVnnBH1qQAqpOPJxVWiKGUqBnOmAYAAAB8eyJvcmlnaW4iOiJodHRwczovL2Nkbi5zaG9waWZ5LmNvbTo0NDMiLCJmZWF0dXJlIjoiTG9uZ0FuaW1hdGlvbkZyYW1lU3R5bGVEdXJhdGlvbiIsImV4cGlyeSI6MTc5MTI0NDgwMCwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
+<meta http-equiv="origin-trial" content="A1cNj7yeFpBT/ETqZHRgUfM9tToLwOpBySTd4C9Eya3JtQo/BEQegM6MMV7BZESSyAjQJJXYgH/ovHY1UHmB8woAAABjeyJvcmlnaW4iOiJodHRwczovL2Nkbi5zaG9waWZ5LmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViTUNQIiwiZXhwaXJ5IjoxNzk0ODczNjAwLCJpc1RoaXJkUGFydHkiOnRydWV9">
+<meta http-equiv="origin-trial" content="A1XQljJxk3U4c44gueu4vlIeDofyyWFswfVKbUiNw4itZx4Yy8Uw3nIhtzBePIrv1bSXqzHGDfYymYF5W7TKKAoAAABzeyJvcmlnaW4iOiJodHRwczovL2Nkbi5zaG9waWZ5LmNvbTo0NDMiLCJmZWF0dXJlIjoiU3BlY3VsYXRpb25NZWFzdXJlbWVudCIsImV4cGlyeSI6MTc5MzY2NDAwMCwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
+<link rel="canonical" href="https://atspect.com/pages/artist/taniguchi-yoshiro">
+html[data-lang] = ja
+html[lang] = ja
