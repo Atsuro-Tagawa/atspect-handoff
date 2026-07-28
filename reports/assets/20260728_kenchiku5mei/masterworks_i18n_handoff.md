@@ -11,7 +11,7 @@
 - [x] 丹下健三：Codex独立レビュー完了・「本館」欠落を発見し8言語で是正
 - [x] 清家清：Codex独立レビュー完了・「登録有形文化財」の年号表記を是正
 - [x] 磯崎新：Codex独立レビュー完了・「登録有形文化財」の年号表記を是正
-- [ ] 槇文彦
+- [x] 槇文彦：Codex独立レビュー完了・ヒルサイドテラスの竣工年範囲の誤りを一次資料で発見・是正
 - [ ] 内田祥三
 
 ## 丹下健三（完了）
@@ -77,4 +77,27 @@
 }
 ```
 
-<!-- created: 2026-07-28 by terminal=あつぺくとリサーチ model=Sonnet 5 work=建築5名masterworks再検証・是正・制作T引き渡し（進捗:丹下健三・清家清・磯崎新完了） -->
+## 槇文彦（完了）
+
+**★是正（重要・事実誤りの発見）**：「ヒルサイドテラス（東京都渋谷区・1969-1998年にかけて段階的に竣工・現存）」の竣工年範囲が誤り。設計者自身の事務所「マキ アンド アソシエイツ」公式サイト（`maki-and-associates.co.jp/projects/HST`）を確認したところ、ヒルサイドテラス（I〜VI期）の竣工年は**1969-1992年**であり、同社サイトは1998年の「ヒルサイドウエスト」を別プロジェクト（`HTW`）として扱っている。1969-1998年という表記は、この2つのプロジェクトを混同したものと判断し、日本語原文ごと「1969-1992年」に是正した（ヒルサイドウエストは範囲を広げて含めず、確実に一次資料と一致する期間のみ採用）。**この誤りはCSVの`masterworks_text`（日本語原文）自体に存在しており、8言語訳だけの問題ではない**。あわせてCodex指摘により英語の「Chiba, Chiba Prefecture」を「Chiba City, Chiba Prefecture」に精緻化。
+
+```json
+{
+  "槇文彦": {
+    "masterworks": {
+      "ja": "ヒルサイドテラス（東京都渋谷区・1969-1992年にかけて段階的に竣工・現存）、スパイラル（東京都港区・1985年竣工・現存）、幕張メッセ（千葉県千葉市・1989年竣工・現存）",
+      "en": "Hillside Terrace (Tokyo, Shibuya Ward; completed in stages 1969–1992; extant), Spiral (Tokyo, Minato Ward; completed 1985; extant), Makuhari Messe (Chiba City, Chiba Prefecture; completed 1989; extant)",
+      "zh_cn": "Hillside Terrace（东京都涩谷区·1969-1992年分阶段竣工·现存）、Spiral（东京都港区·1985年竣工·现存）、Makuhari Messe（千叶县千叶市·1989年竣工·现存）",
+      "zh_tw": "Hillside Terrace（東京都澀谷區·1969-1992年分階段竣工·現存）、Spiral（東京都港區·1985年竣工·現存）、Makuhari Messe（千葉縣千葉市·1989年竣工·現存）",
+      "ko": "힐사이드 테라스(도쿄도 시부야구·1969-1992년에 걸쳐 단계적으로 준공·현존), 스파이럴(도쿄도 미나토구·1985년 준공·현존), 마쿠하리 멧세(지바현 지바시·1989년 준공·현존)",
+      "fr": "Hillside Terrace (Tokyo, arrondissement de Shibuya; achevé par étapes entre 1969 et 1992; existant), Spiral (Tokyo, arrondissement de Minato; achevé en 1985; existant), Makuhari Messe (Chiba, préfecture de Chiba; achevé en 1989; existant)",
+      "es": "Hillside Terrace (Tokio, distrito de Shibuya; terminado por etapas entre 1969 y 1992; existente), Spiral (Tokio, distrito de Minato; terminado en 1985; existente), Makuhari Messe (Chiba, prefectura de Chiba; terminado en 1989; existente)",
+      "de": "Hillside Terrace (Tokio, Bezirk Shibuya; in Etappen zwischen 1969 und 1992 fertiggestellt; erhalten), Spiral (Tokio, Bezirk Minato; fertiggestellt 1985; erhalten), Makuhari Messe (Chiba, Präfektur Chiba; fertiggestellt 1989; erhalten)"
+    }
+  }
+}
+```
+
+**Codexが提案したが不採用とした点**：①文化財指定欄の追加＝DOCOMOMO Japan選定等は文化財保護法上の法的指定・登録とは別制度のため、他の建築家分と同じ「未確認は欄自体を省略」の規則を適用し追加しなかった。②「不訳」方針の説明の言い換え＝「公式のラテン文字表記の維持」という表現の方が正確、との指摘を上記の方針欄に反映した。
+
+<!-- created: 2026-07-28 by terminal=あつぺくとリサーチ model=Sonnet 5 work=建築5名masterworks再検証・是正・制作T引き渡し（進捗:丹下健三・清家清・磯崎新・槇文彦完了） -->
