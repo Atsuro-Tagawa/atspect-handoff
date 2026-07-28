@@ -10,7 +10,7 @@
 ## 進捗
 - [x] 丹下健三：Codex独立レビュー完了・「本館」欠落を発見し8言語で是正
 - [x] 清家清：Codex独立レビュー完了・「登録有形文化財」の年号表記を是正
-- [ ] 磯崎新
+- [x] 磯崎新：Codex独立レビュー完了・「登録有形文化財」の年号表記を是正
 - [ ] 槇文彦
 - [ ] 内田祥三
 
@@ -56,4 +56,25 @@
 }
 ```
 
-<!-- created: 2026-07-28 by terminal=あつぺくとリサーチ model=Sonnet 5 work=建築5名masterworks再検証・是正・制作T引き渡し（進捗:丹下健三・清家清完了） -->
+## 磯崎新（完了）
+
+**是正**：清家清と同様、「登録有形文化財2022年指定」→「2022年登録」に是正（法令上の動詞誤り）。カタカナ由来の建物名（つくばセンタービル・水戸芸術館）を不訳とする方針はCodexレビューで妥当と確認（「不訳」ではなく「公式のラテン文字表記の維持」という理解が正確、との指摘を注記に反映）。
+
+```json
+{
+  "磯崎新": {
+    "masterworks": {
+      "ja": "旧大分県立大分図書館（現アートプラザ）（大分県大分市・1966年竣工・現存・登録有形文化財2022年登録）、つくばセンタービル（茨城県つくば市・1983年竣工・現存）、水戸芸術館（茨城県水戸市・1990年竣工・現存）",
+      "en": "former Oita Prefectural Library (now Art Plaza) (Oita, Oita Prefecture; completed 1966; extant; Registered Tangible Cultural Property, registered 2022), Tsukuba Center Building (Tsukuba, Ibaraki Prefecture; completed 1983; extant), Art Tower Mito (Mito, Ibaraki Prefecture; completed 1990; extant)",
+      "zh_cn": "旧大分县立大分图书馆（现Art Plaza）（大分县大分市·1966年竣工·现存·登记有形文化财2022年登记）、筑波中心大厦（茨城县筑波市·1983年竣工·现存）、水户艺术馆（茨城县水户市·1990年竣工·现存）",
+      "zh_tw": "舊大分縣立大分圖書館（現Art Plaza）（大分縣大分市·1966年竣工·現存·登錄有形文化財2022年登錄）、筑波中心大廈（茨城縣筑波市·1983年竣工·現存）、水戶藝術館（茨城縣水戶市·1990年竣工·現存）",
+      "ko": "구 오이타현립 오이타도서관(현 아트플라자)(오이타현 오이타시·1966년 준공·현존·등록유형문화재 2022년 등록), 쓰쿠바 센터 빌딩(이바라키현 쓰쿠바시·1983년 준공·현존), 미토 예술관(이바라키현 미토시·1990년 준공·현존)",
+      "fr": "ancienne bibliothèque préfectorale d'Ōita (aujourd'hui Art Plaza) (Ōita, préfecture d'Ōita; achevée en 1966; existante; bien culturel tangible enregistré en 2022), Tsukuba Center Building (Tsukuba, préfecture d'Ibaraki; achevé en 1983; existant), Art Tower Mito (Mito, préfecture d'Ibaraki; achevé en 1990; existant)",
+      "es": "antigua Biblioteca Prefectural de Oita (actualmente Art Plaza) (Oita, prefectura de Oita; terminada en 1966; existente; Bien Cultural Tangible Registrado en 2022), Tsukuba Center Building (Tsukuba, prefectura de Ibaraki; terminado en 1983; existente), Art Tower Mito (Mito, prefectura de Ibaraki; terminado en 1990; existente)",
+      "de": "ehemalige Präfekturbibliothek Ōita (heute Art Plaza) (Ōita, Präfektur Ōita; fertiggestellt 1966; erhalten; registriertes materielles Kulturgut, eingetragen 2022), Tsukuba Center Building (Tsukuba, Präfektur Ibaraki; fertiggestellt 1983; erhalten), Art Tower Mito (Mito, Präfektur Ibaraki; fertiggestellt 1990; erhalten)"
+    }
+  }
+}
+```
+
+<!-- created: 2026-07-28 by terminal=あつぺくとリサーチ model=Sonnet 5 work=建築5名masterworks再検証・是正・制作T引き渡し（進捗:丹下健三・清家清・磯崎新完了） -->
