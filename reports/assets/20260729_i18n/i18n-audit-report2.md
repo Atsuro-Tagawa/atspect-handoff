@@ -1,8 +1,68 @@
-# 8言語突き合わせ検査 結果2（コーポレートサイト対応版）
+# 8言語突き合わせ検査 結果2（全体実行・4分類版）
 
-実行日時：2026-07-28T17:08:51.669Z
+実行日時：2026-07-28T17:20:57.037Z
 
 読み取りのみ。是正はしていません。新規に見つかった件も一覧にするところまでです。
+
+## この検査で見つけられないもの（限界・冒頭に明記）
+
+1. **対象範囲の外側**＝走査したのは`atspect-theme/sections/*.liquid`（テーマの静的マークアップ）と`atspect.co.jp/privacy.html`の1ページのみです。作家個人ページ597名分の本文（略歴・作家のことば等、`assets/artists.json`等のデータに由来する動的コンテンツ）、`snippets/`配下、corp.html側のprivacy.html以外のページ（index.html等）は、今回の走査対象に含まれていません。存在しないことの確認にはなりません。
+2. **クラス方式・data-lang属性方式以外の実装**＝Liquid側の条件分岐（`{%- if orig_lang == ... -%}`等）で表示を切り替えている箇所や、本検査が知らない第3・第4の方式は「未知の構造」として検出はしますが、正誤の判定はできません（下記④参照）。
+3. **グルーピングの精度**＝出現順の連続性に基づく簡易ヒューリスティックで、DOM階層は見ていません。同じクラス名が別々の意味グループで再利用されている場合、誤って統合・分割される可能性があります（Codex独立レビューで指摘済み・詳細は各レポート内の「既知の限界」参照）。
+4. **固有名詞の判別**＝カナ混入検出の許可リストは現在「あつぺくと」のみです。未登録の固有名詞（作家名・作品名等）で誤って違反として拾われる可能性、逆に許可リストの範囲を広げすぎて本物の混入を見逃す可能性の両方があります。
+5. **「0件」の意味**＝以下の結果で0件だった項目は、「その検査方式が対象範囲内でその型の問題を検出しなかった」ことを示すのみです。対象範囲外・検出方式外に問題が存在しないことの証明ではありません。
+
+## 4分類（背景にある「今日1日で5回見つかった取り残し」への対応）
+
+背景の5件＝①zh-twフッターの日本語助詞②zh-cn/zh-twのpress冒頭③作品詳細の決済文言④pv-jaonly構造の母集団漏れ⑤コーポレート前文のURLが6言語だけに残存、のうち①②③④は本検査で再検出できることを確認済みです（詳細は下記）。⑤については、実測の結果**現行のprivacy.htmlの本文（lang-block内）にはhrefが1件も存在せず**、この具体的な事故が別のcorp.htmlページ（index.html等・今回の走査対象外）で起きたものである可能性があります。この点は「対象範囲の外側」として上記の限界1に明記しました。断定はしていません。
+
+### ① 既知（今日すでにfix-orders.md／fix-orders-B.mdに載せたもの）
+
+| # | ファイル | 行 | 該当文字列（抜粋） | 出典 |
+|---|---|---|---|---|
+| 1 | sections/atspect-artwork-detail.liquid | 298 | その他の決済方法もご利用いただけます。（7言語すべて空欄） | fix-orders.md A-69 |
+| 2 | sections/atspect-footer.liquid | 61 | 基於特定商業交易法の標示（zh-twに日本語助詞混入） | fix-orders.md A-65 |
+| 3 | sections/atspect-press-page.liquid | 21 | あつぺくとは日本美术家...（zh-cn文頭が未翻訳） | fix-orders.md A-67 |
+| 4 | sections/atspect-press-page.liquid | 22 | あつぺくとは日本藝術家...（zh-tw文頭が未翻訳） | fix-orders.md A-67 |
+
+加えて、下記「③意図的に日本語のみ」のpv-jaonly構造2件（`atspect-privacy.liquid`81・147行目）も、母集団漏れを起こさず今回の走査で正しく検出できています（詳細は③）。
+
+### ② 新規（今回はじめて見つかったもの）
+
+**該当0件です。** 今回の走査（テーマ89ファイル＋privacy.html）で新たに検出した項目のうち、「日本語側・外国語側のどちらかが明確に欠落している」と確信を持って言えるものは見つかりませんでした。判断がつかなかった11件は②ではなく④（判断できなかったもの）に分類しています。無理に②へ振り分けていません。
+
+### ③ 意図的に日本語のみのもの（違反ではない・別枠一覧）
+
+| # | ファイル | 行 | クラス | 内容 |
+|---|---|---|---|---|
+| 1 | sections/atspect-privacy.liquid | 81 | pv-jaonly | 利用目的リスト内・作家利用規約への言及（記録資料化の目的） |
+| 2 | sections/atspect-privacy.liquid | 147 | pv-jaonly | 掲載継続のお申し出がない場合の扱い（規約条文への言及） |
+
+両方とも、プライバシーポリシー1本化の提案（`reports/assets/20260729_privacy/privacy-final.md`）で該当段落ごと削除対象として扱い済みです。
+
+### ④ ツールが判断できなかったもの（★空にしない・11件）
+
+未知の多言語風構造として検出された11件です。目視で文脈を確認しましたが、「翻訳漏れ」か「意図的な別方式」かを本検査だけでは断定できません。日本語側・外国語側のどちらが正しいかも、この2パターンについては「正誤」という枠組み自体が当てはまらない可能性があります（下記説明参照）。
+
+| # | ファイル | 行 | クラス | 存在する言語 | 判断できなかった理由 |
+|---|---|---|---|---|---|
+| - | sections/atspect-artwork-detail.liquid | 98 | awt-l--latin | en,zh-cn,zh-tw,ko,fr,es,de | awt-l--latin/cawt--latin：作品・作家名のラテン文字表示。8言語個別翻訳ではなく「非日本語UIは英語→ローマ字→原題の単一フォールバック」という2026-07-23代表確定の別方式である可能性が高いが、本検査は「8言語それぞれに翻訳があるべき」という前提のため、この設計そのものを正しく評価できない |
+| - | sections/atspect-collection.liquid | 403 | awt-l--latin | en,zh-cn,zh-tw,ko,fr,es,de | awt-l--latin/cawt--latin：作品・作家名のラテン文字表示。8言語個別翻訳ではなく「非日本語UIは英語→ローマ字→原題の単一フォールバック」という2026-07-23代表確定の別方式である可能性が高いが、本検査は「8言語それぞれに翻訳があるべき」という前提のため、この設計そのものを正しく評価できない |
+| - | sections/atspect-collection.liquid | 407 | awt-l--latin | en,zh-cn,zh-tw,ko,fr,es,de | awt-l--latin/cawt--latin：作品・作家名のラテン文字表示。8言語個別翻訳ではなく「非日本語UIは英語→ローマ字→原題の単一フォールバック」という2026-07-23代表確定の別方式である可能性が高いが、本検査は「8言語それぞれに翻訳があるべき」という前提のため、この設計そのものを正しく評価できない |
+| - | sections/atspect-collector-cta.liquid | 62 | cawt--latin | en,zh-cn,zh-tw,ko,fr,es,de | awt-l--latin/cawt--latin：作品・作家名のラテン文字表示。8言語個別翻訳ではなく「非日本語UIは英語→ローマ字→原題の単一フォールバック」という2026-07-23代表確定の別方式である可能性が高いが、本検査は「8言語それぞれに翻訳があるべき」という前提のため、この設計そのものを正しく評価できない |
+| - | sections/atspect-collector-cta.liquid | 64 | cawt--latin | en,zh-cn,zh-tw,ko,fr,es,de | awt-l--latin/cawt--latin：作品・作家名のラテン文字表示。8言語個別翻訳ではなく「非日本語UIは英語→ローマ字→原題の単一フォールバック」という2026-07-23代表確定の別方式である可能性が高いが、本検査は「8言語それぞれに翻訳があるべき」という前提のため、この設計そのものを正しく評価できない |
+| - | sections/atspect-search.liquid | 95 | awt-l--latin | en,zh-cn,zh-tw,ko,fr,es,de | awt-l--latin/cawt--latin：作品・作家名のラテン文字表示。8言語個別翻訳ではなく「非日本語UIは英語→ローマ字→原題の単一フォールバック」という2026-07-23代表確定の別方式である可能性が高いが、本検査は「8言語それぞれに翻訳があるべき」という前提のため、この設計そのものを正しく評価できない |
+| - | sections/atspect-search.liquid | 98 | awt-l--latin | en,zh-cn,zh-tw,ko,fr,es,de | awt-l--latin/cawt--latin：作品・作家名のラテン文字表示。8言語個別翻訳ではなく「非日本語UIは英語→ローマ字→原題の単一フォールバック」という2026-07-23代表確定の別方式である可能性が高いが、本検査は「8言語それぞれに翻訳があるべき」という前提のため、この設計そのものを正しく評価できない |
+| - | sections/atspect-ticker.liquid | 136 | atspect-qb__original | en,zh-cn,zh-tw,ko,fr,es,de,ja,default | atspect-qb__original：引用ブロックの原文併記。CSSのdata-lang条件分岐ではなくLiquid側の`{%- if orig_lang == ... -%}`で表示を切り替えており、本検査の検出方式（CSSのdisplay:none切替）の前提が当てはまらない |
+| - | sections/atspect-ticker.liquid | 136 | atspect-qb__original | en,zh-cn,zh-tw,ko,fr,es,de,ja,default | atspect-qb__original：引用ブロックの原文併記。CSSのdata-lang条件分岐ではなくLiquid側の`{%- if orig_lang == ... -%}`で表示を切り替えており、本検査の検出方式（CSSのdisplay:none切替）の前提が当てはまらない |
+| - | sections/atspect-ticker.liquid | 138 | atspect-qb__original | en,zh-cn,zh-tw,ko,fr,es,de,ja,default | atspect-qb__original：引用ブロックの原文併記。CSSのdata-lang条件分岐ではなくLiquid側の`{%- if orig_lang == ... -%}`で表示を切り替えており、本検査の検出方式（CSSのdisplay:none切替）の前提が当てはまらない |
+| - | sections/atspect-ticker.liquid | 138 | atspect-qb__original | en,zh-cn,zh-tw,ko,fr,es,de,ja,default | atspect-qb__original：引用ブロックの原文併記。CSSのdata-lang条件分岐ではなくLiquid側の`{%- if orig_lang == ... -%}`で表示を切り替えており、本検査の検出方式（CSSのdisplay:none切替）の前提が当てはまらない |
+
+**この11件は是正していません。一覧化のみです。** 制作T・司令塔による目視確認をお願いします。
+
+---
+
+## 以下、機械的な検出結果の詳細（上記4分類の根拠データ）
 
 ## 対象
 
