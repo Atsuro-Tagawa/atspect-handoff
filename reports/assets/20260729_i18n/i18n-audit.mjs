@@ -412,7 +412,7 @@ async function auditCorpHtml() {
   // ---- 要素レベルの突き合わせ（2）：見出しの節番号（<h2>N. ...</h2> のN） ----
   const numsByLang = {};
   for (const [lang, block] of Object.entries(blocks)) {
-    numsByLang[lang] = new Set([...block.matchAll(/<h2>(\d+)\./g)].map((m) => m[1]));
+    numsByLang[lang] = new Set([...block.matchAll(/<h2[^>]*>(\d+)\./g)].map((m) => m[1]));
   }
   const allNums = new Set(Object.values(numsByLang).flatMap((s) => [...s]));
   for (const num of allNums) {
@@ -569,11 +569,14 @@ md2.push(`- 実行時点でのcorp.html側の検出＝href欠落${corpResult.hre
 md2.push(`- 背景にあった「消えたURLが6言語に残る」という具体的な事故のチケットは、本セッションの記録（reports/*.md）内に見つからなかったため、既知リストには含めていません。検出された件はすべて新規として扱っています。`);
 md2.push("- 新規の分は是正していません。一覧化のみです。");
 md2.push("");
-md2.push("### この追加検査の既知の限界（正直な記載）");
+md2.push("### この追加検査の既知の限界（正直な記載・Codex独立レビュー反映済み）");
 md2.push("");
 md2.push("- href・節番号の比較は「完全一致」で行っています。意図的に言語ごとURLが異なる設計（多言語別ページ等）がもしあれば、それも誤検出として一覧に出ます（privacy.htmlの現行構造ではそのような設計は確認していません）。");
 md2.push("- 比較対象はhrefと節番号のみです。本文の文言そのものの突き合わせ（文単位の翻訳漏れ）は、lang-block方式では要素境界が取りにくいため今回のスコープに含めていません。");
 md2.push("- corp.htmlは毎回ライブから取得しています。実行タイミングにより結果が変わり得ます（本レポートは実行日時のスナップショットです）。");
+md2.push("- `<div class=\"lang-block\" data-lang=\"X\">`の開始タグ自体が想定と異なる形（属性順序の変更・追加属性等）になった場合、そのブロックはlang-block検出そのものに失敗し、8件に満たない検出数として「未知の構造」警告に現れます（href・節番号の比較対象からは静かに漏れるのではなく、まず構造チェックの段階で顕在化する設計です）。");
+md2.push("- 見出し番号の抽出は`<h2[^>]*>N.`（属性付きも許容）で行っています。ある言語だけ`<h2>`以外の見出しタグ（`<h3>`等）や、数字＋ピリオド以外の書式を使っていた場合は検出できません（Codex独立レビューで指摘。現行の全8言語は`<h2>N. `形式で統一されていることを実測確認済み）。");
+md2.push("- data-langグループ単位のチェック（3.）は、テーマ側と同じ「出現順の連続性」に基づく簡易グルーピングです。同じbase（タグ+クラス名）の論理的に別々のグループが、互いに異なる言語だけを持つ形で隣接していた場合、誤って1つに統合され欠落を見逃す可能性があります（Codex独立レビューで指摘・`i18n-audit-report.md`のテーマ側と同種の限界）。現行の6グループはいずれも単純な構造（1グループ=1箇所のみの出現）であることを実測確認済みです。");
 
 writeFileSync(join(OUT_DIR, "i18n-audit-report2.md"), md2.join("\n") + "\n", "utf-8");
 console.log("report written: i18n-audit-report2.md");
