@@ -2,6 +2,10 @@
 
 最終更新：2026-07-29
 
+## ★コンテキストクリア前の引き継ぎメモ
+
+[reports/assets/20260729_insatsu-reissue/handoff.md](assets/20260729_insatsu-reissue/handoff.md)＝次にこのターミナルを再開する際は、司令塔からの新しい是正指示とあわせて必ずこれを先に読むこと（パンフレット/申込書/入稿フォルダ/デスクトップ確認フォルダの現在地・使用スクリプトの所在・未解決の申し送りをまとめてある）。
+
 ## 直近の完了作業：パンフレット文言を確定版へ差し替え
 
 詳細＝[reports/assets/20260729_insatsu-reissue/report4.md](assets/20260729_insatsu-reissue/report4.md)
