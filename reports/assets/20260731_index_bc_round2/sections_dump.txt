@@ -1,0 +1,150 @@
+########## unit 8 (L282) ##########
+[ja] 美術作品には、作家の並々ならぬ情熱と魂が宿っています。私たちは、その真の価値が正しく評価され、求める人のもとへまっすぐ届く環境を築きます。 情報と流通の仕組みを整え誰もが信頼できる市場をつくることで、作家が安心して創作に集中し鑑賞者が迷いなく心惹かれる美術と出会える世界を実現します。 美術と人、そして社会をつなぐ架け橋となり、新たな美術市場を創出していくことをお約束いたします。
+[en] Every work of art carries the extraordinary passion and soul of its creator. We build an environment where that true value is properly recognized and delivered directly to those who seek it. By establishing reliable systems for information and distribution and creating a market that everyone can trust, we realize a world where artists can focus on their craft with peace of mind, and where viewers can encounter art that moves them without hesitation. We serve as a bridge connecting art, people, and society, and we are committed to creating a new market for the arts.
+[cn] 每一件美术作品，都凝聚着艺术家无与伦比的热情与灵魂。我们致力于构建一个让作品真正的价值得到正确评价、并直接送达每一位有缘人的环境。 通过完善信息与流通机制、建立值得所有人信赖的市场，我们将实现一个让艺术家安心专注创作、让欣赏者能够毫不迷茫地邂逅心仪之作的世界。 我们将成为连接美术、人与社会的桥梁，我们承诺将致力于开创全新的美术市场。
+[tw] 每一件美術作品，都凝聚著藝術家無與倫比的熱情與靈魂。我們致力於構建一個讓作品真正的價值得到正確評價、並直接送達每一位有緣人的環境。 透過完善資訊與流通機制、建立值得所有人信賴的市場，我們將實現一個讓藝術家安心專注創作、讓欣賞者能夠毫不迷惘地邂逅心儀之作的世界。 我們將成為連結美術、人與社會的橋樑，我們承諾將致力於開創全新的美術市場。
+[ko] 미술 작품에는 작가의 남다른 열정과 혼이 깃들어 있습니다. 우리는 그 진정한 가치가 올바르게 평가받고, 원하는 이에게 곧바로 전해지는 환경을 만들어 갑니다. 정보와 유통의 구조를 정비하여 누구나 신뢰할 수 있는 시장을 만듦으로써, 작가가 안심하고 창작에 집중하고 감상자가 망설임 없이 마음이 이끌리는 미술과 만날 수 있는 세계를 실현합니다. 미술과 사람, 그리고 사회를 잇는 다리가 되어, 새로운 미술 시장을 창출해 나갈 것을 약속드립니다.
+[fr] Chaque œuvre d&rsquo;art porte en elle la passion et l&rsquo;âme incomparables de son créateur. Nous construisons un environnement où cette vraie valeur est reconnue à sa juste mesure et transmise directement à ceux qui la recherchent. En organisant les flux d&rsquo;information et de distribution pour bâtir un marché digne de confiance pour tous, nous réalisons un monde où les artistes peuvent se consacrer sereinement à leur création, et où les amateurs d&rsquo;art peuvent rencontrer sans hésitation les œuvres qui les touchent. Nous sommes le pont qui relie l&rsquo;art, les hommes et la société, et nous nous engageons à créer un nouveau marché pour les arts.
+[es] Cada obra de arte alberga la extraordinaria pasión y el alma de su creador. Construimos un entorno donde ese verdadero valor se reconoce debidamente y se entrega directamente a quienes lo buscan. Al establecer sistemas fiables de información y distribución para crear un mercado en el que todos puedan confiar, hacemos realidad un mundo donde los artistas pueden concentrarse con tranquilidad en su creación y el público puede encontrar sin vacilar el arte que lo conmueve. Seremos el puente que une el arte, las personas y la sociedad, y nos comprometemos a crear un nuevo mercado para el arte.
+[de] In jedem Kunstwerk wohnen die außergewöhnliche Leidenschaft und die Seele der Kunstschaffenden. Wir schaffen ein Umfeld, in dem dieser wahre Wert angemessen gewürdigt wird und unmittelbar zu jenen gelangt, die ihn suchen. Indem wir verlässliche Strukturen für Information und Vertrieb schaffen und einen Markt aufbauen, dem alle vertrauen können, verwirklichen wir eine Welt, in der Künstler sich beruhigt ihrem Schaffen widmen und Betrachter ohne Zögern der Kunst begegnen, die sie berührt. Wir verstehen uns als Brücke zwischen Kunst, Menschen und Gesellschaft und verpflichten uns, einen neuen Kunstmarkt zu schaffen.
+
+########## unit 12 (L374) ##########
+[ja] 作家の活動を多角的にサポートする情報プラットフォームです。公式プロフィール・動画・SNSを通じ世界中へ作家と作品の魅力を発信し、信頼ある情報基盤によって作家と鑑賞者をつなぎます。
+[en] An information platform that supports artists&rsquo; activities from multiple angles. Through official profiles, video, and social media, it shares the appeal of artists and their work with the world &mdash; connecting artists and audiences through a trusted information foundation.
+[cn] 这是一个从多角度支持艺术家活动的信息平台。通过官方简介、视频及社交媒体，将艺术家与作品的魅力传递至全球，以可靠的信息基础将艺术家与欣赏者紧密相连。
+[tw] 這是一個從多角度支持藝術家活動的資訊平台。透過官方簡介、影片及社群媒體，將藝術家與作品的魅力傳遞至全球，以可靠的資訊基礎將藝術家與欣賞者緊密相連。
+[ko] 작가의 활동을 다각적으로 지원하는 정보 플랫폼입니다. 공식 프로필・동영상・SNS를 통해 전 세계로 작가와 작품의 매력을 발신하고, 신뢰할 수 있는 정보 기반으로 작가와 감상자를 이어줍니다.
+[fr] Une plateforme d&rsquo;information qui soutient les activités des artistes sous de multiples angles. À travers des profils officiels, des vidéos et les réseaux sociaux, elle partage l&rsquo;attrait des artistes et de leurs œuvres avec le monde entier &mdash; reliant artistes et amateurs d&rsquo;art grâce à une base d&rsquo;information fiable.
+[es] Una plataforma de información que apoya las actividades de los artistas desde múltiples ángulos. A través de perfiles oficiales, vídeos y redes sociales, difunde el atractivo de los artistas y sus obras por todo el mundo, conectando a artistas y público mediante una base de información fiable.
+[de] Eine Informationsplattform, die das Schaffen der Künstler aus vielfältigen Perspektiven unterstützt. Über offizielle Profile, Videos und soziale Medien trägt sie die Faszination der Künstler und ihrer Werke in die ganze Welt &mdash; und verbindet so Künstler und Publikum auf einer vertrauenswürdigen Informationsbasis.
+
+########## unit 14 (L400) ##########
+[ja] ITの力で美術業界の課題を解決し、利便性と効率を高める仕組みを構築します。多面的な視点から最適なテクノロジーを追求し、業界全体の未来を変えていきます。
+[en] We harness the power of IT to solve challenges facing the art industry, building systems that improve convenience and efficiency. Pursuing the best technology from multiple perspectives, we work to transform the future of everyone involved in the arts.
+[cn] 借助IT的力量解决美术行业面临的挑战，构建提升便利性与效率的机制。从多维视角追求最优技术，致力于改变整个行业的未来。
+[tw] 藉助IT的力量解決美術行業面臨的挑戰，構建提升便利性與效率的機制。從多元視角追求最優技術，致力於改變整個行業的未來。
+[ko] IT의 힘으로 미술 업계의 과제를 해결하고, 편리성과 효율을 높이는 구조를 구축합니다. 다각적인 관점에서 최적의 기술을 추구하여 업계 전체의 미래를 바꾸어 갑니다.
+[fr] Nous mettons la puissance de l&rsquo;IT au service de la résolution des défis du monde de l&rsquo;art, en construisant des systèmes qui améliorent la commodité et l&rsquo;efficacité. En poursuivant les meilleures technologies sous des angles multiples, nous travaillons à transformer l&rsquo;avenir de l&rsquo;ensemble du secteur.
+[es] Aprovechamos el poder de las TI para resolver los retos del sector del arte y construimos sistemas que mejoran la comodidad y la eficiencia. Buscando la mejor tecnología desde múltiples perspectivas, trabajamos para transformar el futuro de todo el sector.
+[de] Mit der Kraft der IT lösen wir die Herausforderungen der Kunstbranche und schaffen Systeme, die Komfort und Effizienz steigern. Indem wir aus vielfältigen Blickwinkeln nach der besten Technologie streben, gestalten wir die Zukunft der gesamten Branche neu.
+
+########## unit 16 (L426) ##########
+[ja] 作品に刻まれた歴史と記録を未来へ継承するため、デジタル化・出版を通じた体系的な保存と整理を行います。作家が歩んできた軌跡を確かな形で残し、文化的価値の持続に貢献します。
+[en] To pass on the history and records embedded in artworks to future generations, we carry out systematic preservation and organization through digitization and publishing. We preserve the journey each artist has walked and contribute to the continuity of cultural value.
+[cn] 为将刻印于作品中的历史与记录传承至未来，我们通过数字化与出版进行系统性的保存与整理。将艺术家走过的历程以确切的形式留存，为文化价值的延续贡献力量。
+[tw] 為將刻印於作品中的歷史與記錄傳承至未來，我們透過數位化與出版進行系統性的保存與整理。將藝術家走過的歷程以確切的形式留存，為文化價值的延續貢獻力量。
+[ko] 작품에 새겨진 역사와 기록을 미래로 계승하기 위해, 디지털화・출판을 통한 체계적인 보존과 정리를 진행합니다. 작가가 걸어온 발자취를 확실한 형태로 남기고, 문화적 가치의 지속에 기여합니다.
+[fr] Pour transmettre aux générations futures l&rsquo;histoire et les témoignages gravés dans les œuvres d&rsquo;art, nous assurons une conservation et une organisation systématiques par la numérisation et l&rsquo;édition. Nous préservons le parcours de chaque artiste de manière fiable et contribuons à la pérennité des valeurs culturelles.
+[es] Para transmitir a las generaciones futuras la historia y los registros grabados en las obras, llevamos a cabo una conservación y organización sistemáticas mediante la digitalización y la publicación. Preservamos la trayectoria de cada artista de forma tangible y contribuimos a la continuidad del valor cultural.
+[de] Um die in den Werken eingeschriebene Geschichte und Überlieferung an künftige Generationen weiterzugeben, bewahren und ordnen wir sie systematisch durch Digitalisierung und Verlagsarbeit. So halten wir den Weg jedes Künstlers in beständiger Form fest und tragen zum Fortbestand kultureller Werte bei.
+
+########## unit 19 (L469) ##########
+[ja] 古物営業法に基づき美術品を適切に取り扱い、信頼を第一とした売買・仲介を行います。作品の適正な流通を支え、安心して取引できる環境づくりに取り組みます。
+[en] We handle artworks appropriately in accordance with the secondhand goods business law, conducting sales and brokerage with trust as our top priority. We support the proper distribution of works and strive to create an environment where transactions can be made with confidence.
+[cn] 依据旧物营业法妥善处理美术品，以诚信为本开展买卖与中介业务。支持作品的合理流通，致力于营造安心交易的环境。
+[tw] 依據舊物營業法妥善處理美術品，以誠信為本開展買賣與仲介業務。支持作品的合理流通，致力於營造安心交易的環境。
+[ko] 고물영업법에 근거하여 미술품을 적절하게 취급하고, 신뢰를 최우선으로 한 매매・중개를 진행합니다. 작품의 적정한 유통을 지원하고, 안심하고 거래할 수 있는 환경 조성에 힘씁니다.
+[fr] Nous traitons les œuvres d&rsquo;art de manière appropriée conformément à la loi sur le commerce des antiquités, en menant des ventes et des courtages avec la confiance comme priorité absolue. Nous soutenons la distribution appropriée des œuvres et nous efforçons de créer un environnement de transactions serein.
+[es] Tratamos las obras de arte de forma adecuada conforme a la ley de comercio de antigüedades, realizando ventas e intermediación con la confianza como máxima prioridad. Apoyamos la distribución justa de las obras y nos esforzamos por crear un entorno donde las transacciones se realicen con tranquilidad.
+[de] Im Einklang mit dem Altwarenhandelsgesetz gehen wir sachgerecht mit Kunstwerken um und betreiben Handel und Vermittlung, bei denen Vertrauen oberste Priorität hat. Wir fördern den geordneten Vertrieb von Werken und schaffen ein Umfeld, in dem Transaktionen mit Zuversicht getätigt werden können.
+
+########## unit 22 (L509) ##########
+[ja] 作家・美術団体・企業が抱える課題に対し、実務的な相談とアドバイスを行います。活動支援から権利関係の整理まで幅広く対応します。
+[en] We provide practical advice and consultation for challenges faced by artists, art organizations, and corporations. We offer wide-ranging support, from activity assistance to the organization of rights-related matters.
+[cn] 针对艺术家、美术团体及企业所面临的各类课题，提供切实可行的咨询与建议。从活动支援到权利整理，提供全方位的支持服务。
+[tw] 針對藝術家、美術團體及企業所面臨的各類課題，提供切實可行的諮詢與建議。從活動支援到權利整理，提供全方位的支持服務。
+[ko] 작가・미술 단체・기업이 안고 있는 과제에 대해, 실무적인 상담과 조언을 제공합니다. 활동 지원부터 권리 관계 정리까지 폭넓게 대응합니다.
+[fr] Nous offrons des conseils pratiques et des consultations pour les défis rencontrés par les artistes, les organisations artistiques et les entreprises. Nous proposons un accompagnement complet, de l&rsquo;aide aux activités à l&rsquo;organisation des questions liées aux droits.
+[es] Ofrecemos asesoramiento y consultas prácticas para los retos que afrontan artistas, organizaciones artísticas y empresas. Brindamos un apoyo integral, desde la asistencia en las actividades hasta la organización de las cuestiones relacionadas con los derechos.
+[de] Für die Herausforderungen von Künstlern, Kunstorganisationen und Unternehmen bieten wir praxisnahe Beratung und Unterstützung. Unser Spektrum reicht von der Begleitung der künstlerischen Tätigkeit bis zur Klärung rechtlicher Fragen.
+
+########## unit 28 (L594) ##########
+[ja] これまで数え切れないほどの素晴らしい作品と、それを生み出す魅力ある作家の方々に出会ってまいりました。 私が何より強く惹かれたのは、目に見える美しさだけでなく、その背景にある制作プロセスやストーリーです。純粋で真っすぐな姿勢と凄まじい熱量に触れるたび、深い敬意を抱いてまいりました。 美術作品には「作品や作家が好き」という心からの感動と、それを「資産として所有する」という確かな喜びがございます。 この美術が持つ本来の魅力と可能性をより多くの人に届けたい。その強い決意のもとARTS RESPECTをスタートいたしました。 作品の持つ力と熱量を世界へ発信し、美術に関わるすべての人の支えとなれるよう、私たちは新たな挑戦を続けてまいります。
+[en] Over the years, I have had the privilege of encountering countless remarkable works of art and the talented artists who create them. What captivated me most was not only the visible beauty of the works themselves, but the creative processes and stories behind them. Each time I witnessed the pure, unwavering dedication and tremendous passion of these artists, I have held a deep and abiding sense of reverence. Art holds two distinct joys &mdash; the heartfelt emotion of loving a work or its creator, and the profound satisfaction of owning it as a cherished asset. With a strong determination to bring the true appeal and potential of art to more people, I established ARTS RESPECT. We shall continue to take on new challenges, sharing the power and energy of art with the world and serving as a steadfast support for everyone connected to the arts.
+[cn] 多年来，我有幸与无数精彩的作品及创作这些作品的魅力艺术家们相遇。 令我最为深深着迷的，不仅是作品本身可见的美，更是其背后的创作过程与故事。每当感受到艺术家们纯粹而坚定的态度与惊人的热情，我心中都深怀着崇高的敬意。 美术作品兼具两种价值——对作品与艺术家发自内心的感动，以及将其作为资产拥有的深切荣幸与喜悦。 怀着将美术本有的魅力与可能性传递给更多人的坚定决心，我创办了ARTS RESPECT。 我们将始终迎接新的挑战，向世界传递作品所蕴含的力量与热情，成为所有与美术相关之人的坚实后盾。
+[tw] 多年來，我有幸與無數精彩的作品及創作這些作品的魅力藝術家們相遇。 令我最為深深著迷的，不僅是作品本身可見的美，更是其背後的創作過程與故事。每當感受到藝術家們純粹而堅定的態度與驚人的熱情，我心中都深懷著崇高的敬意。 美術作品兼具兩種價值——對作品與藝術家發自內心的感動，以及將其作為資產擁有的深切榮幸與喜悅。 懷著將美術本有的魅力與可能性傳遞給更多人的堅定決心，我創辦了ARTS RESPECT。 我們將始終迎接新的挑戰，向世界傳遞作品所蘊含的力量與熱情，成為所有與美術相關之人的堅實後盾。
+[ko] 지금까지 헤아릴 수 없을 만큼 많은 훌륭한 작품과, 그것을 만들어 내는 매력 있는 작가분들을 만나 왔습니다. 제가 무엇보다 강하게 이끌린 것은, 눈에 보이는 아름다움뿐만 아니라 그 배경에 있는 제작 과정과 이야기입니다. 순수하고 올곧은 자세와 엄청난 열정을 접할 때마다 깊은 경의를 품어 왔습니다. 미술 작품에는 「작품이나 작가를 좋아한다」는 진심 어린 감동과, 그것을 「자산으로서 소유한다」는 확실한 기쁨이 있습니다. 이 미술이 지닌 본래의 매력과 가능성을 더 많은 사람에게 전하고 싶다. 그 강한 결의 아래 ARTS RESPECT를 시작했습니다. 작품이 지닌 힘과 열정을 세계로 발신하고, 미술에 관련된 모든 사람의 버팀목이 될 수 있도록, 우리는 새로운 도전을 계속해 나가겠습니다.
+[fr] Au fil des années, j&rsquo;ai eu l&rsquo;honneur de rencontrer d&rsquo;innombrables œuvres remarquables et les artistes talentueux qui les créent. Ce qui m&rsquo;a le plus profondément touché, ce n&rsquo;est pas seulement la beauté visible des œuvres, mais les processus de création et les histoires qui se cachent derrière. Chaque fois que je ressentais la sincérité, la droiture et la passion intense des artistes, j&rsquo;ai éprouvé une profonde vénération à leur égard. L&rsquo;art recèle deux joies distinctes &mdash; l&rsquo;émotion sincère d&rsquo;aimer une œuvre ou son créateur, et la joie profonde et authentique de la posséder comme un bien précieux. Avec la ferme volonté de partager la vraie valeur et le potentiel de l&rsquo;art avec le plus grand nombre et de le faire rayonner, j&rsquo;ai eu l&rsquo;honneur de fonder ARTS RESPECT. Nous nous engageons à poursuivre de nouveaux défis, en partageant avec le monde la force et l&rsquo;énergie des œuvres d&rsquo;art, et en nous efforçant d&rsquo;être un soutien indéfectible pour tous ceux qui sont liés à l&rsquo;art.
+[es] A lo largo de los años, he tenido el honor de encontrarme con innumerables obras extraordinarias y con los cautivadores artistas que las crean. Lo que más me cautivó no fue solo la belleza visible de las obras, sino los procesos de creación y las historias que hay detrás. Cada vez que percibía la actitud pura y honesta y la inmensa pasión de los artistas, sentía un profundo respeto hacia ellos. Una obra de arte encierra dos alegrías distintas: la emoción sincera de amar una obra o a su creador, y la auténtica satisfacción de poseerla como un activo. Con la firme determinación de transmitir a más personas el verdadero atractivo y el potencial del arte, fundé ARTS RESPECT. Seguiremos asumiendo nuevos desafíos, transmitiendo al mundo la fuerza y la energía de las obras, y esforzándonos por ser un apoyo firme para todas las personas vinculadas al arte.
+[de] Im Laufe der Jahre durfte ich unzähligen herausragenden Kunstwerken und den begabten Künstlern begegnen, die sie erschaffen. Was mich am stärksten in den Bann zog, war nicht allein die sichtbare Schönheit der Werke, sondern der Schaffensprozess und die Geschichten dahinter. Jedes Mal, wenn ich der reinen, aufrichtigen Hingabe und der gewaltigen Leidenschaft dieser Künstler begegnete, erfüllte mich tiefer Respekt. Kunst birgt zwei ganz eigene Freuden &mdash; die von Herzen kommende Begeisterung, ein Werk oder seinen Schöpfer zu lieben, und die tiefe Genugtuung, es als wertvollen Besitz sein Eigen zu nennen. Mit dem festen Entschluss, die wahre Anziehungskraft und das Potenzial der Kunst mehr Menschen nahezubringen, habe ich ARTS RESPECT gegründet. Wir werden uns weiterhin neuen Herausforderungen stellen, die Kraft und Energie der Kunst in die Welt tragen und allen, die mit der Kunst verbunden sind, ein verlässlicher Rückhalt sein.
+
+########## unit 45 (L832) ##########
+[ja] 適格請求書発行事業者 登録番号
+[en] Qualified Invoice Issuer Registration No.
+[cn] 适格发票开具 事业者登记编号
+[tw] 適格發票開立 事業者登記編號
+[ko] 적격청구서 발행사업자 등록번호
+[fr] N° d&rsquo;enregistrement émetteur de factures qualifié
+[es] N.º de registro de emisor de facturas cualificado
+[de] Registrierungsnr. des qualifizierten Rechnungsausstellers
+
+########## unit 47 (L881) ##########
+[ja] ご質問やご相談など、いつでもお気軽にお問い合わせください。内容を確認のうえ、担当者よりご連絡いたします。
+[en] Feel free to reach out with any questions or inquiries. We will review your message and get back to you.
+[cn] 如有任何问题或咨询，欢迎随时与我们联系。我们将确认您的留言内容后，由负责人与您取得联系。
+[tw] 如有任何問題或諮詢，歡迎隨時與我們聯繫。我們將確認您的留言內容後，由負責人與您取得聯繫。
+[ko] 질문이나 상담 등 언제든지 편하게 문의해 주세요. 내용을 확인한 후 담당자가 연락드리겠습니다.
+[fr] N&rsquo;hésitez pas à nous contacter pour toute question ou demande. Nous examinerons votre message et vous répondrons.
+[es] No dude en escribirnos ante cualquier pregunta o consulta. Revisaremos su mensaje y le responderemos.
+[de] Bei Fragen oder Anliegen können Sie sich jederzeit gern an uns wenden. Wir prüfen Ihre Nachricht und melden uns bei Ihnen.
+
+########## unit 48 (L892) ##########
+[ja] お問い合わせを受け付けました。内容を確認のうえ、担当者よりご連絡いたします。
+[en] Your message has been received. We will review it and get back to you.
+[cn] 您的咨询已收到。我们将确认内容后与您联系。
+[tw] 您的諮詢已收到。我們將確認內容後與您聯繫。
+[ko] 문의가 접수되었습니다. 내용을 확인한 후 담당자가 연락드리겠습니다.
+[fr] Votre message a bien été reçu. Nous le traiterons et vous répondrons.
+[es] Hemos recibido su mensaje. Lo revisaremos y le responderemos.
+[de] Ihre Nachricht ist bei uns eingegangen. Wir prüfen sie und melden uns bei Ihnen.
+
+########## unit 49 (L902) ##########
+[ja] 送信に失敗しました。時間をおいて再度お試しいただくか、メールにて直接ご連絡ください。
+[en] Sending failed. Please try again later or contact us directly by email.
+[cn] 发送失败。请稍后重试，或直接通过邮件与我们联系。
+[tw] 發送失敗。請稍後重試，或直接透過郵件與我們聯繫。
+[ko] 전송에 실패했습니다. 잠시 후 다시 시도하시거나 이메일로 직접 연락해 주세요.
+[fr] L&rsquo;envoi a échoué. Veuillez réessayer plus tard ou nous contacter directement par e-mail.
+[es] El envío ha fallado. Vuelva a intentarlo más tarde o contáctenos directamente por correo electrónico.
+[de] Das Senden ist fehlgeschlagen. Bitte versuchen Sie es später erneut oder kontaktieren Sie uns direkt per E-Mail.
+
+########## unit 56 (L981) ##########
+[ja] その他
+[en] Other
+[cn] 其他
+[tw] 其他
+[ko] 기타
+[fr] Autre
+[es] Otro
+[de] Sonstiges
+
+########## unit 61 (L1037) ##########
+[ja] メールアドレス
+[en] Email Address
+[cn] 邮箱地址
+[tw] 電子郵件地址
+[ko] 이메일 주소
+[fr] Adresse e-mail
+[es] Dirección de correo electrónico
+[de] E-Mail-Adresse
+
+########## unit 68 (L1101) ##########
+[ja] 「私はロボットではありません」にチェックしてください。
+[en] Please check the box to confirm that you are not a robot.
+[cn] 请勾选"我不是机器人"。
+[tw] 請勾選「我不是機器人」。
+[ko] "로봇이 아닙니다"에 체크해 주세요.
+[fr] Veuillez confirmer que vous n&rsquo;êtes pas un robot.
+[es] Confirme que no es un robot.
+[de] Bitte bestätigen Sie, dass Sie kein Roboter sind.
+
+########## unit 71 (L1205) ##########
+[ja] サービスサイト
+[en] Our Service
+[cn] 服务网站
+[tw] 服務網站
+[ko] 서비스 사이트
+[fr] Notre service
+[es] Nuestro servicio
+[de] Unser Service
+
