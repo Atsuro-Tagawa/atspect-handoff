@@ -6,6 +6,7 @@ Shopifyの更新は `C:\Users\ataga\atspect-system\scripts\artist-i18n-update.mj
 | スクリプト | 何をするか | 使い方 |
 |---|---|---|
 | `csv-set.mjs` | 正本CSVの1作家・複数列を安全に差し替える。**BOM・CRLF・他フィールドの引用形式をすべて保持**（物理行＝データ行を利用し、該当フィールドだけを文字列置換） | `node csv-set.mjs <出力先CSV> <ジョブJSON>`<br>ジョブJSON＝`[{"name":"松田権六","set":{"代表作":"…","bio_ja":"…"}}]`<br>★出力後に `vault-file-update.mjs` でバックアップ＋反映すること |
+| `i18n-to-csvjob.mjs` | **指示書JSONからCSV同期用ジョブJSONを機械生成**する。`i18n.<欄>.ja` と `flat` をCSVの列名へ対応づける（★手で書き起こすと写し間違いが出る） | `node i18n-to-csvjob.mjs <指示書.json> <ジョブ.json>` |
 | `csv-diff-verify.mjs` | 旧CSVと新CSVを機械照合し、**意図した列以外が変わっていないか**を確認する | `node csv-diff-verify.mjs <旧CSV> <新CSV>` |
 | `rank-words-extract.mjs` | 610名の全欄から**序列を感じさせる語**をA/B/Cに仕分けて抽出し、前後の文脈つきでMarkdownに出す | `node rank-words-extract.mjs <出力.md> <出力.json>` |
 | `rank-words-worklist.mjs` | 同じ抽出を、**ライブに出る欄（statement/bio/viewpoint/肩書き）とCSVのみの欄に分けて**作業リスト化する | `node rank-words-worklist.mjs <出力.json>` |
