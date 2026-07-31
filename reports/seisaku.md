@@ -1,8 +1,7 @@
-パンフレット最終修正＋申込書・規約・料金表の是正＝完遂（書類一式を完成）。★パンフはこれで最後の修正。
-A＝表紙裏表紙に藍色縦ライン追加・料金欄注意書き根本是正（前便の字下げ無効バグを発見・修正）。
-B＝契約規約書6点是正＋携行用廃止（番号詰め04〜06へ）。C＝登録申込書レイアウト9点是正（1ページ化は実測不可能と確認・正直に報告）。D＝料金のご案内を大幅簡素化。E＝3書類を藍の濃淡で視覚差別化。
-Codex5観点＝連帯責任条文は専門家確認推奨・料金表簡素化は本番サイトの解約ページで大部分カバー済みと追加確認・4書類間の実害1件是正。
-layout_check.py全PASS（P1/P4も新規に判定対象化）・verify_before_print.py 7項目全PASS・check_doc_text_v3.py全PASS。
-詳細：reports/assets/20260729_insatsu-reissue/report13.md
-Vault正本：_実装ログ_パンフ最終修正と書類3種是正_20260731_ATSPECT.md
+書類の最終修正2点＝完遂。
+1＝登録申込書「4 サイトに掲載するお名前」を削除・項目番号繰り上げ・余白再調整。★全文検索でShopifyテーマ161(atspect-terms-artist.liquid)に同じ選択項目が必須のまま実在すると発見。是正はせず司令塔へ申し送り。
+2＝料金のご案内AR-P1/P2の枠右辺が切れる問題を実測で原因特定＝パンフとは別原因（CSSボーダーのサブピクセル位置でコア色が消えていた）。border-width+margin調整で是正・4辺途切れ0件・正の安全マージンを実測確認。
+layout_check.py全PASS（パンフ回帰なし）・verify_before_print.py 7項目全PASS・check_doc_text_v3.py全PASS。
+詳細：reports/assets/20260729_insatsu-reissue/report14.md
+Vault正本：_実装ログ_書類最終修正2点_20260731_ATSPECT.md
 最終更新：2026-07-31
