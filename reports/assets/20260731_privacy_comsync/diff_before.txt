@@ -1,0 +1,168 @@
+
+===== ja (com:ja) corp=71 com=73 =====
+ COM-ONLY  [30] (li) "『あつぺくと』をお知りになったきっかけ"
+ CHANGED corp[70] -> com[71] (p)
+    @0: corp="制定日：2026年6月30日 ／ 最終改定日：2026年7月29日" | com="本ポリシーは日本語を正文とします。外国語版を提供する場合、外国語版は参考訳であり、日本語版と相違がある場合は日本語版が優先します。"
+ COM-ONLY  [72] (date) "制定日：2026年8月1日 ／ 最終改定日：2026年8月1日"
+ => diff units: 3
+
+===== en (com:en) corp=71 com=73 =====
+ CHANGED corp[5] -> com[5] (li)
+    @86: corp="orters, and persons at the corporat" | com="orters, and the corporat"
+ COM-ONLY  [30] (li) "How you learned about \"ATSPECT\""
+ CHANGED corp[49] -> com[50] (li)
+    @6: corp="Where based on laws and regulations" | com="Where required by law"
+ CORP-ONLY [64] "11. Disclosure, Correction, Suspension of Use, and Other Requests"
+ CHANGED corp[65] -> com[65] (h2)
+    @0: corp="You may request the disclosure, correction, addition, deletion, suspension of use, suspension of provision to third parties, or other related measures regarding your own personal information held by the Company. To make such a request, please contact the inquiry desk below. After verifying your identity, we will respond within a reasonable period in accordance with laws and regulations." | com="11. Disclosure, Correction, and Suspension of Use"
+ COM-ONLY  [66] (p) "You may request the disclosure, correction, addition, deletion, suspension of use, or suspension of provision to third parties of your own personal information
+ CHANGED corp[70] -> com[71] (p)
+    @0: corp="Effective date: June 30, 2026 ／ Last updated: July 29, 2026" | com="The Japanese text of this Policy is authoritative. Where versions in other languages are provided, they are reference translations; in case of any discrepancy, the Japanese version prevails."
+ COM-ONLY  [72] (date) "Effective date: August 1, 2026 ／ Last updated: August 1, 2026"
+ => diff units: 8
+
+===== cn (com:zh-cn) corp=71 com=73 =====
+ CHANGED corp[10] -> com[10] (li)
+    @4: corp="公司名称、团体名称" | com="公司名称・团体名称"
+ CHANGED corp[17] -> com[17] (li)
+    @9: corp="联系方式（电话号码、电子邮箱地址）" | com="联系方式（电话号码・电子邮箱地址）"
+ CHANGED corp[20] -> com[20] (li)
+    @2: corp="下单、购买记录" | com="下单・购买记录"
+ CORP-ONLY [22] "姓名、假名读法、雅号"
+ CHANGED corp[23] -> com[22] (li)
+    @0: corp="出生年月日（用于年龄确认、身份确认）" | com="姓名・假名读法・雅号"
+ COM-ONLY  [23] (li) "出生年月日（用于年龄确认・身份确认）"
+ CORP-ONLY [25] "出身地、国籍、居住国、地址"
+ CORP-ONLY [26] "电话号码、电子邮箱地址"
+ CORP-ONLY [27] "活动经历、发表经历、获奖经历、作品相关信息、作品集等"
+ CORP-ONLY [28] "所提供的图像（面部照片（肖像）、作品图像等）"
+ CHANGED corp[29] -> com[25] (li)
+    @0: corp="通过代理人、支援者、法人／事务所申请的情形下，该代理人、法人的名称、负责人姓名、联系方式，以及与艺术家本人的关系" | com="出身地・国籍・居住国・地址"
+ COM-ONLY  [26] (li) "电话号码・电子邮箱地址"
+ COM-ONLY  [27] (li) "活动经历・发表经历・获奖经历・作品相关信息・作品集等"
+ COM-ONLY  [28] (li) "所提供的图像（面部照片（肖像）・作品图像等）"
+ COM-ONLY  [29] (span) "通过代理人・支援者・法人／事务所申请的情形下，该代理人・法人的名称、负责人姓名、联系方式，以及与艺术家本人的关系"
+ COM-ONLY  [30] (li) "您得知「ATSPECT」的渠道"
+ CHANGED corp[32] -> com[33] (li)
+    @23: corp="、IP地址、所使用的终端、浏览器相关信息等" | com="、IP地址、所使用的终端・浏览器相关信息等"
+ CHANGED corp[36] -> com[37] (li)
+    @4: corp="用于回复、联络咨询，以及提供本公司" | com="用于回复・联络咨询，以及提供本公司"
+ CORP-ONLY [38] "用于受理、审核艺术家注册及进行联络"
+ CORP-ONLY [39] "用于创建、编辑、登载艺术家简介、作品信息，以及以多语言进行发布"
+ CORP-ONLY [40] "在网站、媒体的编辑、制作（多语言翻译、图像修正、加工、介绍文、介绍视频的制作等）中运用AI工具"
+ CORP-ONLY [41] "用于将面部照片（肖像）及作品图像登载于网站、媒体，并向国内外进行介绍"
+ CORP-ONLY [42] "用于销售款项的汇付、收据、发票、付款明细的开具及其他会计、税务上的手续"
+ CORP-ONLY [43] "用于身份确认、年龄确认以及防止不正当使用"
+ CHANGED corp[44] -> com[39] (li)
+    @2: corp="用于防止垃圾邮件、非法访问及其他服务的安全运营" | com="用于受理・审核艺术家注册及进行联络"
+ COM-ONLY  [40] (li) "用于创建、编辑、登载艺术家简介・作品信息，以及以多语言进行发布"
+ COM-ONLY  [41] (span) "在网站・媒体的编辑・制作（多语言翻译、图像修正・加工、介绍文・介绍视频的制作等）中运用AI工具"
+ COM-ONLY  [42] (li) "用于将面部照片（肖像）及作品图像登载于网站・媒体，并向国内外进行介绍"
+ COM-ONLY  [43] (li) "用于销售款项的汇付、收据・发票・付款明细的开具及其他会计・税务上的手续"
+ COM-ONLY  [44] (li) "用于身份确认・年龄确认以及防止不正当使用"
+ COM-ONLY  [45] (li) "用于防止垃圾邮件・非法访问及其他服务的安全运营"
+ CHANGED corp[53] -> com[54] (span)
+    @55: corp="、支付代理公司，以及网站、媒体制作业务（多语言翻译、图像编辑、介绍文、介绍视频的制作等，包括其" | com="、支付代理公司，以及网站・媒体制作业务（多语言翻译、图像编辑、介绍文・介绍视频的制作等，包括其"
+ CHANGED corp[57] -> com[58] (span)
+    @27: corp="期间，以及相关法令（税务、公司法等）所规定的强制保" | com="期间，以及相关法令（税务・公司法等）所规定的强制保"
+ CHANGED corp[61] -> com[62] (span)
+    @47: corp="将依照法令进行必要的调查、应对，并适当地向相关机构" | com="将依照法令进行必要的调查・应对，并适当地向相关机构"
+ CHANGED corp[70] -> com[71] (span)
+    @0: corp="制定日期：2026年6月30日 ／ 最终修订日期：2026年7月29日" | com="本政策以日语版本为正本。如提供其他语言版本，均为参考译文；如有不一致，以日语版本为准。"
+ COM-ONLY  [72] (date) "制定日期：2026年8月1日 ／ 最终修订日期：2026年8月1日"
+ => diff units: 36
+
+===== tw (com:zh-tw) corp=71 com=73 =====
+ CHANGED corp[10] -> com[10] (li)
+    @4: corp="公司名稱、團體名稱" | com="公司名稱・團體名稱"
+ CHANGED corp[17] -> com[17] (li)
+    @9: corp="聯絡方式（電話號碼、電子郵件地址）" | com="聯絡方式（電話號碼・電子郵件地址）"
+ CHANGED corp[20] -> com[20] (li)
+    @2: corp="訂購、購買紀錄" | com="訂購・購買紀錄"
+ CORP-ONLY [22] "姓名、讀音、雅號"
+ CHANGED corp[23] -> com[22] (li)
+    @0: corp="出生年月日（為確認年齡、本人身分）" | com="姓名・讀音・雅號"
+ COM-ONLY  [23] (li) "出生年月日（為確認年齡・本人身分）"
+ CORP-ONLY [25] "出身、國籍、居住國、地址"
+ CORP-ONLY [26] "電話號碼、電子郵件地址"
+ CORP-ONLY [27] "活動經歷、發表經歷、獲獎經歷、作品相關資訊、作品集等"
+ CORP-ONLY [28] "所提供的影像（臉部照片（肖像）、作品影像等）"
+ CHANGED corp[29] -> com[25] (li)
+    @0: corp="由代理人、支援者、法人／事務所提出申請時，該代理人、法人的名稱、承辦人姓名、聯絡方式，以及與藝術家本人的關係" | com="出身・國籍・居住國・地址"
+ COM-ONLY  [26] (li) "電話號碼・電子郵件地址"
+ COM-ONLY  [27] (li) "活動經歷・發表經歷・獲獎經歷・作品相關資訊・作品集等"
+ COM-ONLY  [28] (li) "所提供的影像（臉部照片（肖像）・作品影像等）"
+ COM-ONLY  [29] (span) "由代理人・支援者・法人／事務所提出申請時，該代理人・法人的名稱、承辦人姓名、聯絡方式，以及與藝術家本人的關係"
+ COM-ONLY  [30] (li) "您得知「ATSPECT」的管道"
+ CHANGED corp[32] -> com[33] (li)
+    @23: corp="、IP位址、所使用之裝置、瀏覽器相關資訊等" | com="、IP位址、所使用之裝置・瀏覽器相關資訊等"
+ CHANGED corp[36] -> com[37] (li)
+    @3: corp="為回覆、聯絡諮詢，以及提供本公司" | com="為回覆・聯絡諮詢，以及提供本公司"
+ CORP-ONLY [38] "為受理、審查藝術家登錄並進行聯絡"
+ CORP-ONLY [39] "為製作、編輯、刊載藝術家簡介、作品資訊，並以多語言發布"
+ CORP-ONLY [40] "於網站、媒體的編輯、製作（多語言翻譯、影像的修正、加工、介紹文、介紹影片的製作等）中運用AI工具"
+ CORP-ONLY [41] "為將臉部照片（肖像）及作品影像刊載於網站、媒體，並向國內外進行介紹"
+ CORP-ONLY [42] "為銷售款項的匯款、收據、請款書、付款明細的開立及其他會計、稅務上的手續"
+ CORP-ONLY [43] "為確認本人身分、年齡及防止不正當使用"
+ CHANGED corp[44] -> com[39] (li)
+    @1: corp="為防止垃圾郵件、不正當存取及其他服務的安全營運" | com="為受理・審查藝術家登錄並進行聯絡"
+ COM-ONLY  [40] (li) "為製作、編輯、刊載藝術家簡介・作品資訊，並以多語言發布"
+ COM-ONLY  [41] (span) "於網站・媒體的編輯・製作（多語言翻譯、影像的修正・加工、介紹文・介紹影片的製作等）中運用AI工具"
+ COM-ONLY  [42] (span) "為將臉部照片（肖像）及作品影像刊載於網站・媒體，並向國內外進行介紹"
+ COM-ONLY  [43] (span) "為銷售款項的匯款、收據・請款書・付款明細的開立及其他會計・稅務上的手續"
+ COM-ONLY  [44] (li) "為確認本人身分・年齡及防止不正當使用"
+ COM-ONLY  [45] (li) "為防止垃圾郵件・不正當存取及其他服務的安全營運"
+ CHANGED corp[53] -> com[54] (span)
+    @53: corp="、付款代理公司，以及網站、媒體的製作業務（多語言翻譯、影像編輯、介紹文、介紹影片的製作等，包含於" | com="、付款代理公司，以及網站・媒體的製作業務（多語言翻譯、影像編輯、介紹文・介紹影片的製作等，包含於"
+ CHANGED corp[57] -> com[58] (span)
+    @25: corp="期間，以及相關法令（稅務、公司法等）規定有保存義務" | com="期間，以及相關法令（稅務・公司法等）規定有保存義務"
+ CHANGED corp[61] -> com[62] (span)
+    @47: corp="將依照法令進行必要的調查、應對，並適當地向相關機構" | com="將依照法令進行必要的調查・應對，並適當地向相關機構"
+ CHANGED corp[70] -> com[71] (span)
+    @0: corp="制定日期：2026年6月30日 ／ 最終修訂日期：2026年7月29日" | com="本政策以日語版本為正本。如提供其他語言版本，均為參考譯文；如有不一致，以日語版本為準。"
+ COM-ONLY  [72] (date) "制定日期：2026年8月1日 ／ 最終修訂日期：2026年8月1日"
+ => diff units: 36
+
+===== ko (com:ko) corp=71 com=73 =====
+ COM-ONLY  [30] (li) "「ATSPECT」를 알게 되신 경위"
+ CHANGED corp[61] -> com[62] (span)
+    @63: corp="령에 따라 필요한 조사·대응을 실시하고, 관계" | com="령에 따라 필요한 조사・대응을 실시하고, 관계"
+ CHANGED corp[63] -> com[64] (span)
+    @284: corp="의 IP 주소 및 조작·단말기에 관한 정보를 " | com="의 IP 주소 및 조작・단말기에 관한 정보를 "
+ CHANGED corp[70] -> com[71] (span)
+    @0: corp="제정일: 2026년 6월 30일 ／ 최종 개정일: 2026년 7월 29일" | com="본 방침은 일본어를 정본으로 합니다. 다른 언어판을 제공하는 경우 이는 참고 번역이며, 일본어판과 차이가 있는 경우 일본어판이 우선합니다."
+ COM-ONLY  [72] (date) "제정일: 2026년 8월 1일 ／ 최종 개정일: 2026년 8월 1일"
+ => diff units: 5
+
+===== fr (com:fr) corp=71 com=73 =====
+ CHANGED corp[5] -> com[5] (span)
+    @157: corp="s personnes appartenant aux personnes morales / ag" | com="s personnes morales / ag"
+ COM-ONLY  [30] (li) "comment vous avez connu « ATSPECT »"
+ CHANGED corp[49] -> com[50] (li)
+    @8: corp="lorsque cela est fondé sur la loi ;" | com="lorsque la loi l'exige ;"
+ CHANGED corp[55] -> com[56] (span)
+    @135: corp="iété recourt, notamment dans le cadre de la sous-traitance visée à l'article précédent, peuvent êtr" | com="iété recourt dans le cadre de la sous-traitance visée à l'article précédent peuvent êtr"
+ CHANGED corp[70] -> com[71] (span)
+    @0: corp="Date d'entrée en vigueur : 30 juin 2026 ／ Dernière mise à jour : 29 juillet 2026" | com="La version japonaise de la présente politique fait foi. Les versions dans d'autres langues, lorsqu'elles sont proposées, sont des traductions de référence ; en cas de divergence, la version japonaise prévaut."
+ COM-ONLY  [72] (date) "Date d'entrée en vigueur : 1er août 2026 ／ Dernière mise à jour : 1er août 2026"
+ => diff units: 6
+
+===== es (com:es) corp=71 com=73 =====
+ COM-ONLY  [30] (span) "Cómo conoció «ATSPECT»"
+ CHANGED corp[70] -> com[71] (span)
+    @0: corp="Fecha de entrada en vigor: 30 de junio de 2026 ／ Última actualización: 29 de julio de 2026" | com="La versión japonesa de esta política es la auténtica. Las versiones en otros idiomas, cuando se ofrezcan, son traducciones de referencia; en caso de discrepancia, prevalece la versión japonesa."
+ COM-ONLY  [72] (date) "Fecha de entrada en vigor: 1 de agosto de 2026 ／ Última actualización: 1 de agosto de 2026"
+ => diff units: 3
+
+===== de (com:de) corp=71 com=73 =====
+ COM-ONLY  [30] (span) "Wie Sie von „ATSPECT\" erfahren haben"
+ CHANGED corp[49] -> com[50] (span)
+    @13: corp="enn dies auf Rechtsvorschriften beruht;" | com="enn dies aufgrund von Rechtsvorschriften erforderlich ist;"
+ CHANGED corp[65] -> com[66] (span)
+    @123: corp="schung, Einstellung der Nutz" | com="schung, Einschränkung der Nutz"
+ CHANGED corp[70] -> com[71] (span)
+    @0: corp="Inkrafttreten: 30. Juni 2026 ／ Letzte Aktualisierung: 29. Juli 2026" | com="Maßgeblich ist die japanische Fassung dieser Erklärung. Werden Fassungen in anderen Sprachen bereitgestellt, dienen sie als Referenzübersetzungen; bei Abweichungen hat die japanische Fassung Vorrang."
+ COM-ONLY  [72] (date) "Inkrafttreten: 1. August 2026 ／ Letzte Aktualisierung: 1. August 2026"
+ => diff units: 5
+
+TOTAL diff units: 102
