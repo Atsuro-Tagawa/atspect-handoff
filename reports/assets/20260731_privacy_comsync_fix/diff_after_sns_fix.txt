@@ -1,0 +1,26 @@
+
+===== ja (com:ja) corp=73 com=73 =====
+ => diff units: 0
+
+===== en (com:en) corp=73 com=73 =====
+ => diff units: 0
+
+===== cn (com:zh-cn) corp=73 com=73 =====
+ => diff units: 0
+
+===== tw (com:zh-tw) corp=73 com=73 =====
+ => diff units: 0
+
+===== ko (com:ko) corp=73 com=73 =====
+ => diff units: 0
+
+===== fr (com:fr) corp=73 com=73 =====
+ => diff units: 0
+
+===== es (com:es) corp=73 com=73 =====
+ => diff units: 0
+
+===== de (com:de) corp=73 com=73 =====
+ => diff units: 0
+
+TOTAL diff units: 0
