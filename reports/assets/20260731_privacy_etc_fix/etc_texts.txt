@@ -1,0 +1,110 @@
+########## unit 18 ##########
+[ja] ご住所（配送先を含みます）
+[en] Address (including shipping address)
+[zh-cn] 地址（含配送地址）
+[zh-tw] 地址（包含配送地址）
+[ko] 주소(배송지를 포함합니다)
+[fr] adresse (y compris l'adresse de livraison)
+[es] Domicilio (incluida la dirección de entrega)
+[de] Anschrift (einschließlich Lieferadresse)
+
+########## unit 24 ##########
+[ja] 性別（ご紹介における呼称等の判断のため。任意）
+[en] Gender (to determine forms of address used in introductions; optional)
+[zh-cn] 性别（用于介绍时称谓等的判断。属任意提供）
+[zh-tw] 性別（為判斷介紹時的稱謂等。屬任意）
+[ko] 성별(소개 시 호칭 등의 판단을 위해. 임의)
+[fr] sexe (afin de déterminer les formules d'usage lors de la présentation ; facultatif)
+[es] Sexo (para determinar el tratamiento y la forma de referirse a la persona en las presentaciones; facultativo)
+[de] Geschlecht (zur Bestimmung der Anrede und Bezeichnung bei der Vorstellung; freiwillig)
+
+########## unit 27 ##########
+[ja] 活動歴・発表歴・受賞歴・作品に関する情報・ポートフォリオ等
+[en] Activity history, exhibition history, awards, information on works, portfolio, and the like
+[zh-cn] 活动经历、发表经历、获奖经历、作品相关信息、作品集等
+[zh-tw] 活動經歷、發表經歷、獲獎經歷、作品相關資訊、作品集等
+[ko] 활동 이력·발표 이력·수상 이력·작품에 관한 정보·포트폴리오 등
+[fr] parcours d'activité, historique d'expositions, distinctions, informations relatives aux œuvres, portfolio, etc.
+[es] Trayectoria de actividad, historial de exposiciones, premios recibidos, información sobre las obras, portafolio, etc.
+[de] Tätigkeits-, Ausstellungs- und Auszeichnungshistorie, Informationen zu den Werken, Portfolio usw.
+
+########## unit 33 ##########
+[ja] Cookie、アクセスログ、IPアドレス、ご利用の端末・ブラウザに関する情報 等
+[en] Cookies, access logs, IP addresses, information about the device and browser you use, and the like
+[zh-cn] Cookie、访问日志、IP地址、所使用的终端、浏览器相关信息等
+[zh-tw] Cookie、存取紀錄、IP位址、所使用之裝置、瀏覽器相關資訊等
+[ko] 쿠키, 접속 로그, IP 주소, 이용하시는 단말기·브라우저에 관한 정보 등
+[fr] cookies, journaux d'accès, adresse IP, informations relatives au terminal et au navigateur utilisés, etc.
+[es] Cookies, registros de acceso, dirección IP, información sobre el dispositivo y el navegador utilizados, etc.
+[de] Cookies, Zugriffsprotokolle, IP-Adressen, Informationen zum verwendeten Endgerät und Browser usw.
+
+########## unit 34 ##########
+[ja] なお、クレジットカード番号等の決済情報は、当社が契約する決済代行会社において処理され、当社がカード番号そのものを保持することはありません。
+[en] Please note that payment information such as credit card numbers is processed by the payment processing company with which the Company contracts, and the Company does not retain card numbers themselves.
+[zh-cn] 此外，信用卡号等支付信息由本公司签约的支付代理公司进行处理，本公司不会保存卡号本身。
+[zh-tw] 此外，信用卡號碼等付款資訊，係由本公司簽約的付款代理公司處理，本公司不會保有卡號本身。
+[ko] 또한, 신용카드 번호 등의 결제 정보는 당사가 계약하는 결제대행회사에서 처리되며, 당사가 카드 번호 자체를 보유하는 일은 없습니다.
+[fr] À noter que les informations de paiement, telles que les numéros de carte de crédit, sont traitées par le prestataire de services de paiement avec lequel la Société est sous contrat ; la Société ne conserve pas elle-même les numéros de carte.
+[es] Cabe señalar que la información de pago, como los números de tarjeta de crédito, es procesada por la empresa de procesamiento de pagos con la que la Empresa mantiene un contrato, y la Empresa no conserva el propio número de la tarjeta.
+[de] Zahlungsinformationen wie Kreditkartennummern werden durch den von uns beauftragten Zahlungsdienstleister verarbeitet; die Kartennummer selbst speichern wir nicht.
+
+########## unit 45 ##########
+[ja] 迷惑メール・不正アクセスの防止その他サービスの安全な運営のため
+[en] To prevent spam and unauthorized access and otherwise operate the service safely
+[zh-cn] 用于防止垃圾邮件、非法访问及其他服务的安全运营
+[zh-tw] 為防止垃圾郵件、不正當存取及其他服務的安全營運
+[ko] 스팸 메일·부정 접속 방지 기타 서비스의 안전한 운영을 위해
+[fr] prévenir les courriers indésirables et les accès non autorisés et assurer plus généralement l'exploitation sécurisée du service.
+[es] Prevenir el correo no deseado y los accesos no autorizados, y garantizar la operación segura del servicio.
+[de] zur Vermeidung von Spam und unbefugtem Zugriff sowie zum sicheren Betrieb des Dienstes.
+
+########## unit 52 ##########
+[ja] 国の機関等への協力のために必要な場合
+[en] Where it is necessary to cooperate with a national government body or the like
+[zh-cn] 为协助国家机关等而有必要的情形
+[zh-tw] 為協助國家機關等所必要時
+[ko] 국가 기관 등에 대한 협력을 위해 필요한 경우
+[fr] lorsque cela est nécessaire pour coopérer avec un organisme public ou assimilé.
+[es] Cuando sea necesario para cooperar con organismos del Estado u otras entidades análogas.
+[de] wenn dies zur Unterstützung staatlicher Stellen o. Ä. erforderlich ist.
+
+########## unit 56 ##########
+[ja] 当社が前項の委託等にあたって利用するクラウドサービス、AIツール、決済代行サービス等の提供事業者が外国に所在する場合があります。この場合、当社は、個人情報の保護に関する法令に従い、移転先国の制度や講じられる措置に関する情報提供その他必要な手続きを行ったうえで提供します。
+[en] The providers of cloud services, AI tools, payment processing services, and the like that the Company uses in connection with the outsourcing described in the preceding section may be located in foreign countries. In such cases, the Company transfers such personal information in accordance with laws and regulations concerning the protection of personal information, after providing information about the systems of the destination country and the measures taken there, and carrying out other necessary procedures.
+[zh-cn] 本公司在进行前项委托等时所使用的云服务、AI工具、支付代理服务等的提供事业者，可能位于境外。在此情形下，本公司将依照有关个人信息保护的法令，在提供转移目的地国家制度及所采取措施的相关信息及履行其他必要手续后进行提供。
+[zh-tw] 本公司於前項委託等情形所使用的雲端服務、AI工具、付款代理服務等之提供業者，可能位於境外。於此情形下，本公司將依循個人資訊保護相關法令，於提供有關傳輸目的地國家制度及所採行措施之資訊及其他必要手續後，再行提供。
+[ko] 당사가 전항의 위탁 등에 있어 이용하는 클라우드 서비스, AI 도구, 결제대행 서비스 등의 제공 사업자가 외국에 소재하는 경우가 있습니다. 이 경우 당사는 개인정보 보호에 관한 법령에 따라, 이전처 국가의 제도나 강구되는 조치에 관한 정보 제공 기타 필요한 절차를 거친 후 제공합니다.
+[fr] Les prestataires de services cloud, d'outils d'intelligence artificielle, de services de paiement et autres auxquels la Société recourt, notamment dans le cadre de la sous-traitance visée à l'article précédent, peuvent être situés à l'étranger. Dans ce cas, la Société procède au transfert conformément à la législation relative à la protection des données personnelles, après avoir fourni les informations relatives au régime juridique du pays de destination et aux mesures qui y sont mises en œuvre, et accompli les autres formalités nécessaires.
+[es] Los proveedores de los servicios en la nube, las herramientas de IA, los servicios de procesamiento de pagos, etc., que la Empresa utiliza en los encargos mencionados en el apartado anterior pueden estar ubicados en el extranjero. En tales casos, la Empresa procederá a la transferencia tras facilitar información sobre el sistema del país de destino y las medidas adoptadas, y realizar los demás trámites necesarios, de conformidad con la legislación sobre protección de datos personales.
+[de] Die Anbieter der Cloud-Dienste, KI-Werkzeuge, Zahlungsdienste usw., die wir im Rahmen der vorgenannten Auftragsverarbeitung nutzen, können sich im Ausland befinden. In diesem Fall nehmen wir die Übermittlung in Übereinstimmung mit den Rechtsvorschriften zum Schutz personenbezogener Daten vor, nachdem wir die erforderlichen Maßnahmen ergriffen haben, einschließlich der Bereitstellung von Informationen über das Rechtssystem des Empfängerlandes und die dort getroffenen Maßnahmen.
+
+########## unit 60 ##########
+[ja] 当社は、取得した個人情報の漏えい、滅失または毀損の防止その他の安全管理のために、必要かつ適切な措置を講じます。個人情報の取り扱いを委託する場合は、委託先においても適切な管理が行われるよう監督します。
+[en] The Company takes necessary and appropriate measures to prevent the leakage, loss, or damage of the personal information it acquires and to otherwise manage its security. Where the Company outsources the handling of personal information, it supervises its contractors to ensure that appropriate management is carried out by them as well.
+[zh-cn] 本公司将为防止所收集个人信息的泄露、灭失或毁损及其他安全管理目的，采取必要且适当的措施。在委托处理个人信息时，本公司将进行监督，以确保受托方亦实施适当的管理。
+[zh-tw] 本公司為防止所收集之個人資訊的洩漏、滅失或毀損及其他安全管理事項，將採取必要且適當的措施。委託個人資訊處理時，亦將監督受託方妥善進行管理。
+[ko] 당사는 취득한 개인정보의 누설, 멸실 또는 훼손의 방지 기타 안전관리를 위해 필요하고 적절한 조치를 강구합니다. 개인정보의 취급을 위탁하는 경우에는 위탁처에서도 적절한 관리가 이루어지도록 감독합니다.
+[fr] La Société met en œuvre les mesures nécessaires et appropriées afin de prévenir la fuite, la perte ou l'altération des données personnelles collectées et d'en assurer plus généralement la sécurité. Lorsqu'elle confie le traitement de données personnelles à un sous-traitant, elle veille à ce que celui-ci en assure également une gestion appropriée.
+[es] La Empresa adopta las medidas necesarias y apropiadas para prevenir la filtración, la pérdida o el deterioro de los datos personales recopilados, así como para garantizar su gestión segura. Cuando se encarga el tratamiento de los datos personales a terceros, la Empresa supervisa a los encargados para que también lleven a cabo una gestión adecuada.
+[de] Wir treffen die erforderlichen und angemessenen Maßnahmen zur Sicherheit der erhobenen personenbezogenen Daten, insbesondere zur Verhinderung von Verlust, Vernichtung oder Beschädigung sowie unbefugter Offenlegung. Wenn wir die Verarbeitung personenbezogener Daten an Dritte übertragen, üben wir die Aufsicht aus, damit auch beim Auftragnehmer eine angemessene Verwaltung erfolgt.
+
+########## unit 61 ##########
+[ja] 漏えい等への対応
+[en] Response to Data Breaches
+[zh-cn] 泄露等的应对
+[zh-tw] 洩漏等的應對
+[ko] 유출 등에 대한 대응
+[fr] Réponse aux violations de données
+[es] Respuesta a las violaciones de datos
+[de] Umgang mit Datenschutzverletzungen
+
+########## unit 64 ##########
+[ja] 当サイトおよびサービスでは、利便性の向上やサービス改善のため、Cookieおよびアクセス解析ツール（Google Analytics等）を使用する場合があります。これらのツールは、個人を直接特定する情報を含まない形でデータを収集します。ブラウザの設定によりCookieを無効にすることができます。また、当社コーポレートサイト（atspect.co.jp）のお問い合わせフォームでは、スパムや不正な送信を防止するため、Google LLC が提供する「reCAPTCHA」を利用しています。reCAPTCHA は、利用者のIPアドレスや操作・端末に関する情報を自動的に取得し、Google へ送信します。これらの情報の取り扱いには、Google のプライバシーポリシーおよび利用規約が適用されます。
+[en] On our site and service, we may use cookies and access analytics tools (such as Google Analytics) in order to improve convenience and enhance our services. These tools collect data in a form that does not include information that directly identifies an individual. You can disable cookies through your browser settings. In addition, the contact form on our corporate website (atspect.co.jp) uses &ldquo;reCAPTCHA&rdquo; provided by Google LLC to prevent spam and fraudulent submissions. reCAPTCHA automatically collects information such as the user&rsquo;s IP address and information about their actions and device, and transmits it to Google. The handling of such information is governed by Google&rsquo;s Privacy Policy and Terms of Service.
+[zh-cn] 本网站及服务为提升便利性及改善服务，可能使用Cookie及访问分析工具（Google Analytics等）。这些工具以不包含可直接识别个人的信息的形式收集数据。您可通过浏览器设置禁用Cookie。此外，本公司企业网站（atspect.co.jp）的联系表单使用 Google LLC 提供的「reCAPTCHA」，以防止垃圾信息及不正当提交。reCAPTCHA 会自动获取用户的IP地址及与操作、设备相关的信息，并发送至 Google。这些信息的处理适用 Google 的隐私政策及使用条款。
+[zh-tw] 本網站及服務為提升便利性與改善服務，可能使用Cookie及存取分析工具（Google Analytics等）。這些工具係以不含直接識別個人之資訊的形式收集資料。您可透過瀏覽器設定停用Cookie。此外，本公司企業網站（atspect.co.jp）的聯絡表單使用 Google LLC 提供的「reCAPTCHA」，以防止垃圾訊息與不當提交。reCAPTCHA 會自動取得使用者的IP位址及與操作、裝置相關的資訊，並傳送至 Google。這些資訊的處理適用 Google 的隱私政策及使用條款。
+[ko] 당 사이트 및 서비스에서는 편의성 향상이나 서비스 개선을 위해 쿠키 및 접속 분석 도구(Google Analytics 등)를 사용하는 경우가 있습니다. 이러한 도구는 개인을 직접 특정하는 정보를 포함하지 않는 형태로 데이터를 수집합니다. 브라우저 설정을 통해 쿠키를 비활성화할 수 있습니다. 또한 당사 기업 사이트(atspect.co.jp)의 문의 양식에서는 스팸 및 부정 송신을 방지하기 위해 Google LLC가 제공하는 「reCAPTCHA」를 이용합니다. reCAPTCHA는 이용자의 IP 주소 및 조작·단말기에 관한 정보를 자동으로 취득하여 Google에 송신합니다. 이러한 정보의 취급에는 Google의 개인정보 처리방침 및 이용약관이 적용됩니다.
+[fr] Le présent site et le service peuvent utiliser des cookies et des outils d'analyse d'audience (tels que Google Analytics) afin d'améliorer le confort d'utilisation et le service. Ces outils collectent des données sous une forme ne comportant pas d'informations permettant d'identifier directement une personne. Vous pouvez désactiver les cookies au moyen des paramètres de votre navigateur. Par ailleurs, le formulaire de contact de notre site institutionnel (atspect.co.jp) utilise « reCAPTCHA », fourni par Google LLC, afin de prévenir le spam et les envois frauduleux. reCAPTCHA collecte automatiquement des informations telles que l&rsquo;adresse IP de l&rsquo;utilisateur ainsi que des données relatives à ses actions et à son appareil, puis les transmet à Google. Le traitement de ces informations est régi par la politique de confidentialité et les conditions d&rsquo;utilisation de Google.
+[es] Este sitio y el servicio pueden utilizar cookies y herramientas de análisis de acceso (como Google Analytics) con el fin de mejorar la facilidad de uso y perfeccionar el servicio. Estas herramientas recopilan datos de una forma que no incluye información que identifique directamente a una persona. Es posible desactivar las cookies mediante la configuración del navegador. Asimismo, el formulario de contacto de nuestro sitio web corporativo (atspect.co.jp) utiliza «reCAPTCHA», proporcionado por Google LLC, para prevenir el spam y los envíos fraudulentos. reCAPTCHA recopila automáticamente información como la dirección IP del usuario y datos sobre sus acciones y su dispositivo, y la transmite a Google. El tratamiento de dicha información se rige por la Política de Privacidad y las Condiciones de Servicio de Google.
+[de] Auf dieser Website und im Rahmen unserer Dienste setzen wir gegebenenfalls Cookies und Werkzeuge zur Zugriffsanalyse (z. B. Google Analytics) ein, um die Benutzerfreundlichkeit zu erhöhen und den Dienst zu verbessern. Diese Werkzeuge erfassen Daten in einer Form, die keine Informationen zur unmittelbaren Identifizierung einer Person enthält. Über die Einstellungen Ihres Browsers können Sie Cookies deaktivieren. Darüber hinaus verwenden wir auf dem Kontaktformular unserer Unternehmenswebsite (atspect.co.jp) „reCAPTCHA“ von Google LLC, um Spam und missbräuchliche Übermittlungen zu verhindern. reCAPTCHA erfasst automatisch Informationen wie die IP-Adresse sowie Angaben zum Verhalten und Endgerät der Nutzerinnen und Nutzer und übermittelt diese an Google. Für den Umgang mit diesen Informationen gelten die Datenschutzerklärung und die Nutzungsbedingungen von Google.
+
