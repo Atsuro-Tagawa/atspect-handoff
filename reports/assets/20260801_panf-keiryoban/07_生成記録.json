@@ -1,0 +1,149 @@
+{
+  "run_id": "20260801_145347",
+  "generated_by": "build_panf_all.py",
+  "source_sha256": {
+    "hi1_v218_制作T.png": "bd352986abeaad0b0a0ef2de636b63ba71f0ecdb46995598f4ebaab6c6fcbe2f",
+    "hi2_v218_制作T.png": "bd952a412d240e0b5b4870671c1df301ce5d1ad2f6035b8146bf0688d98c829e",
+    "hi3_v218_制作T.png": "67452eef5bee8f80c9e7e2dc031c10d1c33f963c427a0976840a9defad92b331",
+    "hi4_v218_制作T.png": "00f941e1f6fb38b41f439926d8ddc92bae369cf34aeffc109f72c65fc3bd9680"
+  },
+  "light_jpeg_quality": 89,
+  "light_bytes": 2894032,
+  "budget_bytes": 3000000,
+  "outputs": {
+    "A": {
+      "path": "C:\\Vault\\ARTS-RESPECT\\_入稿データ_アクセア_修正版_20260724\\A_トンボなし版（まず提出）\\01_パンフ_印刷用_トンボなし.pdf",
+      "bytes": 13980134,
+      "sha256": "df03835d7e6ba6f9d8a8dce9cac23eb5ed638cad2703c40eb9b43847f6014159"
+    },
+    "B": {
+      "path": "C:\\Vault\\ARTS-RESPECT\\_入稿データ_アクセア_修正版_20260724\\B_トンボあり版（求められた場合）\\01_パンフ_印刷用_トンボあり.pdf",
+      "bytes": 13981708,
+      "sha256": "92a5c77ac5730fbcc609ea907127afec6f884c842950708a5e7fbc43e313dfd1"
+    },
+    "light": {
+      "path": "C:\\Vault\\ARTS-RESPECT\\_入稿データ_アクセア_修正版_20260724\\02_パンフ_配布用.pdf",
+      "bytes": 2894032,
+      "sha256": "4047076bda8f65c967ab001d59263a242b33eb324975e92ff9e0e75222fd402f"
+    }
+  },
+  "install": [
+    {
+      "target": "印刷用A版",
+      "status": "UNCHANGED",
+      "note": "既存と画素完全一致のため書き換えなし (13,980,134B)"
+    },
+    {
+      "target": "印刷用B版",
+      "status": "UNCHANGED",
+      "note": "既存と画素完全一致のため書き換えなし (13,981,708B)"
+    },
+    {
+      "target": "画面用軽量版",
+      "status": "UNCHANGED",
+      "note": "既存と画素完全一致のため書き換えなし (2,894,032B)"
+    }
+  ],
+  "checks": [
+    {
+      "id": "V6-1",
+      "pass": true,
+      "note": "軽量版のページ数=4（期待4）"
+    },
+    {
+      "id": "V2-p1",
+      "pass": true,
+      "note": "ソースPNGとの画素差 平均1.227 最大31 PSNR42.28dB"
+    },
+    {
+      "id": "V3-p1",
+      "pass": true,
+      "note": "濃い文字の消失0px・発生0px / インク914,915px = 0.0000%"
+    },
+    {
+      "id": "V3b-p1",
+      "pass": true,
+      "note": "淡い文字（輝度100〜190）の消失0px / 304,503px = 0.0000%"
+    },
+    {
+      "id": "V2-p2",
+      "pass": true,
+      "note": "ソースPNGとの画素差 平均0.827 最大46 PSNR44.71dB"
+    },
+    {
+      "id": "V3-p2",
+      "pass": true,
+      "note": "濃い文字の消失0px・発生0px / インク582,239px = 0.0000%"
+    },
+    {
+      "id": "V3b-p2",
+      "pass": true,
+      "note": "淡い文字（輝度100〜190）の消失0px / 66,228px = 0.0000%"
+    },
+    {
+      "id": "V2-p3",
+      "pass": true,
+      "note": "ソースPNGとの画素差 平均0.816 最大50 PSNR44.03dB"
+    },
+    {
+      "id": "V3-p3",
+      "pass": true,
+      "note": "濃い文字の消失0px・発生0px / インク525,553px = 0.0000%"
+    },
+    {
+      "id": "V3b-p3",
+      "pass": true,
+      "note": "淡い文字（輝度100〜190）の消失0px / 99,738px = 0.0000%"
+    },
+    {
+      "id": "V2-p4",
+      "pass": true,
+      "note": "ソースPNGとの画素差 平均0.685 最大35 PSNR48.77dB"
+    },
+    {
+      "id": "V3-p4",
+      "pass": true,
+      "note": "濃い文字の消失0px・発生0px / インク276,644px = 0.0000%"
+    },
+    {
+      "id": "V3b-p4",
+      "pass": true,
+      "note": "淡い文字（輝度100〜190）の消失0px / 19,751px = 0.0000%"
+    },
+    {
+      "id": "V4-p1",
+      "pass": true,
+      "note": "軽量版からのQRデコード='https://atspect.com/'（期待'https://atspect.com/'）"
+    },
+    {
+      "id": "V4-p3",
+      "pass": true,
+      "note": "軽量版からのQRデコード='https://atspect.com/apply'（期待'https://atspect.com/apply'）"
+    },
+    {
+      "id": "V5-p1",
+      "pass": true,
+      "note": "印刷用A版1枚目top面との照合 ぼかし後PSNR 41.41dB / 相関 0.99936"
+    },
+    {
+      "id": "V5-p4",
+      "pass": true,
+      "note": "印刷用A版1枚目bottom面との照合 ぼかし後PSNR 39.24dB / 相関 0.99115"
+    },
+    {
+      "id": "V5-p2",
+      "pass": true,
+      "note": "印刷用A版2枚目top面との照合 ぼかし後PSNR 29.56dB / 相関 0.96845"
+    },
+    {
+      "id": "V5-p3",
+      "pass": true,
+      "note": "印刷用A版2枚目bottom面との照合 ぼかし後PSNR 30.46dB / 相関 0.96800"
+    },
+    {
+      "id": "V6-2",
+      "pass": true,
+      "note": "軽量版のページ寸法 297.00x210.00mm"
+    }
+  ]
+}
