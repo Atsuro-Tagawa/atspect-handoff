@@ -1,0 +1,18 @@
+{
+ "note": "★機械抽出の語リストでは拾えず、8言語を並べて読んで初めて見つかった語。本体（Opus）と下請けの報告で確定したものだけを入れる。",
+ "why": "1つの日本語表現が、言語によってまったく違う言い回しに訳されている。日本語から訳す方向でも、各言語の側から洗い出す方向でも取りこぼす。『1言語だけ丸ごと検出から漏れる』という抜け方が実際に3件見つかった（2026-08-01）。",
+ "history": [
+  { "date": "2026-08-01", "by": "本体（Opus）", "found": "杉浦非水の8言語を並べて読んだところ、ja『切り開いた』zh『开创/开辟』ko『길을 열』fr『ouvrit la voie』es『abrió el camino』は検出されたのに、同じ意味の en『opened the path』de『bahnte …den Weg』だけが検出できていなかった", "words": ["en:opened the path", "en:opened the way", "de:bahnte", "de:den Weg bahnte"] },
+  { "date": "2026-08-01", "by": "下請けA（Sonnet）", "found": "久保田成子の en『opened up video sculpture』／de『den Weg eröffnete』／早川良雄の ko『중심적 존재』＝いずれも他言語では検出されているのに、その言語だけ丸ごと検出リストから漏れていた", "words": ["en:opened up", "de:eröffnete", "de:den Weg eröffnete", "ko:중심적 존재"] },
+  { "date": "2026-08-01", "by": "下請けB（Sonnet）", "found": "原弘の ja『礎を築いた』は ja だけ検出されたが、同じ主張が8言語すべてにあった（en『laid the foundations』zh『奠定…基石』ko『토대를 닦은』fr『posa les fondations』es『puso los cimientos』de『schuf die Grundlagen』）", "words": ["en:laid the foundations", "zh_cn:奠定", "zh_cn:基石", "zh_tw:奠定", "zh_tw:基石", "ko:토대를 닦", "fr:posa les fondations", "fr:jeta les bases", "es:puso los cimientos", "es:sentó los cimientos", "de:schuf die Grundlagen", "de:legte die Grundlagen"] }
+ ],
+ "detect": {
+  "en": { "opened the path": "always", "opened the way": "always", "opened up": "context", "laid the foundations": "always" },
+  "de": { "bahnte": "always", "den Weg bahnte": "always", "eröffnete": "context", "den Weg eröffnete": "always", "schuf die Grundlagen": "always", "legte die Grundlagen": "always" },
+  "ko": { "중심적 존재": "always", "토대를 닦": "always" },
+  "zh_cn": { "奠定": "context", "基石": "context" },
+  "zh_tw": { "奠定": "context", "基石": "context" },
+  "fr": { "posa les fondations": "always", "jeta les bases": "always" },
+  "es": { "puso los cimientos": "always", "sentó los cimientos": "always" }
+ }
+}
