@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>会場の入力票（あつぺくと）</title>
+<!--
+  会場でお会いした方の控えを、スマートフォンで打つための1ファイル。
+  ★通信がなくても動きます（外部への読み込みも送信も一切ありません）。
+  ★どこにも送信しません。打った内容を「コピー」して、メールやLINEに貼ってお使いください。
+  ★端末に残るのは、この端末の中だけです（下の「この端末に一時保存」を押したときのみ）。
+-->
+<style>
+:root{color-scheme:light dark}
+*{box-sizing:border-box}
+body{font-family:-apple-system,"Hiragino Sans","Yu Gothic UI",sans-serif;margin:0;padding:14px 14px 60px;
+     line-height:1.6;font-size:16px;background:#fff;color:#111;max-width:640px;margin-inline:auto}
+h1{font-size:19px;margin:0 0 4px;border-bottom:2px solid #111;padding-bottom:6px}
+p.note{font-size:13px;color:#555;margin:6px 0 14px}
+label{display:block;margin:12px 0 3px;font-size:14px;font-weight:700}
+input,textarea,select{width:100%;font-size:16px;padding:9px 10px;border:1px solid #999;border-radius:6px;background:#fff;color:#111}
+textarea{min-height:76px}
+fieldset{border:1px solid #ccc;border-radius:8px;margin:14px 0;padding:8px 12px 14px}
+legend{font-size:14px;font-weight:700;padding:0 6px}
+.row{display:flex;gap:8px}
+.row>div{flex:1}
+/* ★2026-08-03・画像を見て直した点＝下に固定していたため、ボタン帯が入力欄を覆っていた。
+   上から順に打って最後に押す紙なので、固定をやめて末尾に置く。 */
+.btns{background:#fff;padding:12px 0 6px;border-top:1px solid #ddd;margin-top:20px}
+button{font-size:16px;padding:12px 14px;border:0;border-radius:8px;background:#111;color:#fff;width:100%;margin-bottom:8px}
+button.sub{background:#fff;color:#111;border:1.5px solid #111}
+#out{white-space:pre-wrap;background:#f6f6f4;border:1px solid #ddd;border-radius:8px;padding:10px;font-size:14px;margin-top:10px}
+.ok{color:#1a6b2a;font-weight:700}
+@media (prefers-color-scheme: dark){
+  body{background:#111;color:#eee} input,textarea,select{background:#1c1c1c;color:#eee;border-color:#666}
+  .btns{background:#111;border-top-color:#333} #out{background:#1a1a1a;border-color:#333}
+  button.sub{background:#111;color:#eee;border-color:#eee}
+}
+</style>
+</head>
+<body>
+<h1>会場の入力票</h1>
+<p class="note">★どこにも送信しません。打ち終わったら<b>「コピー」</b>を押して、メールやLINEに貼ってください。<br>
+★通信がなくても使えます。</p>
+
+<label>日付</label><input id="f_date" type="date">
+<label>会場</label><input id="f_place" placeholder="例：◯◯美術館　◯◯展">
+
+<fieldset><legend>お相手</legend>
+  <label>お名前</label><input id="f_name" placeholder="姓 名">
+  <label>お名前の読み（ひらがな）</label><input id="f_kana" placeholder="せい めい">
+  <label>雅号など、普段お使いのお名前があれば</label><input id="f_go" placeholder="分からなければ空欄のまま">
+  <label>ご所属・団体</label><input id="f_group">
+  <label>ご出品の作品</label><input id="f_work" placeholder="題名・分野など">
+</fieldset>
+
+<fieldset><legend>ご連絡先（伺えた分だけで構いません）</legend>
+  <label>ご住所</label><textarea id="f_addr" placeholder="郵便番号から"></textarea>
+  <div class="row">
+    <div><label>お電話</label><input id="f_tel" inputmode="tel"></div>
+    <div><label>メール</label><input id="f_mail" inputmode="email"></div>
+  </div>
+</fieldset>
+
+<fieldset><legend>当社側</legend>
+  <label>担当（当社の誰が）</label><input id="f_staff">
+  <label>次の一手</label>
+  <select id="f_next">
+    <option value="">選んでください</option>
+    <option>資料をお送りする</option>
+    <option>改めてご連絡する</option>
+    <option>今回は見送り</option>
+    <option>その他</option>
+  </select>
+  <label>パンフレットをお渡ししたか</label>
+  <select id="f_panf"><option value="">選んでください</option><option>お渡しした</option><option>お渡ししていない</option></select>
+  <label>おぼえ書き</label><textarea id="f_memo" placeholder="話したこと・気になったこと"></textarea>
+</fieldset>
+
+<div class="btns">
+  <button id="b_copy">この内容をコピーする</button>
+  <button id="b_save" class="sub">この端末に一時保存する</button>
+  <button id="b_clear" class="sub">入力をぜんぶ消す</button>
+  <div id="msg"></div>
+</div>
+
+<div id="out"></div>
+
+<script>
+const F = ['date','place','name','kana','go','group','work','addr','tel','mail','staff','next','panf','memo'];
+const LABEL = {date:'日付',place:'会場',name:'お名前',kana:'読み',go:'雅号など',group:'ご所属・団体',
+  work:'ご出品の作品',addr:'ご住所',tel:'お電話',mail:'メール',staff:'担当',next:'次の一手',
+  panf:'パンフレット',memo:'おぼえ書き'};
+const el = k => document.getElementById('f_'+k);
+const msg = document.getElementById('msg');
+
+function text(){
+  const lines = ['【会場の控え】'];
+  for (const k of F){
+    const v = (el(k).value||'').trim();
+    if (v) lines.push(LABEL[k] + '：' + v);
+  }
+  return lines.join('\n');
+}
+function render(){ document.getElementById('out').textContent = text(); }
+F.forEach(k => el(k).addEventListener('input', render));
+
+document.getElementById('b_copy').onclick = async () => {
+  const t = text();
+  try { await navigator.clipboard.writeText(t); msg.innerHTML = '<span class="ok">コピーしました。メールやLINEに貼ってください。</span>'; }
+  catch { // clipboard が使えない端末では選択できる形にする
+    const ta = document.createElement('textarea'); ta.value = t; document.body.appendChild(ta);
+    ta.select(); try { document.execCommand('copy'); msg.innerHTML = '<span class="ok">コピーしました。</span>'; }
+    catch { msg.textContent = 'コピーできませんでした。下の枠を長押しして選んでください。'; }
+    ta.remove();
+  }
+  setTimeout(()=>msg.textContent='', 4000);
+};
+document.getElementById('b_save').onclick = () => {
+  const o = {}; F.forEach(k => o[k] = el(k).value);
+  try { localStorage.setItem('atspect_kaijo', JSON.stringify(o));
+        msg.innerHTML = '<span class="ok">この端末に保存しました（次に開くと戻ります）。</span>'; }
+  catch { msg.textContent = '保存できませんでした（この端末では使えない設定です）。'; }
+  setTimeout(()=>msg.textContent='', 4000);
+};
+document.getElementById('b_clear').onclick = () => {
+  if (!confirm('入力をぜんぶ消します。よろしいですか。')) return;
+  F.forEach(k => el(k).value = '');
+  try { localStorage.removeItem('atspect_kaijo'); } catch {}
+  render();
+};
+// 前回の続き
+try {
+  const s = localStorage.getItem('atspect_kaijo');
+  if (s) { const o = JSON.parse(s); F.forEach(k => { if (o[k]) el(k).value = o[k]; }); }
+} catch {}
+if (!el('date').value) { /* 日付は端末側で選んでいただく（自動で入れない） */ }
+render();
+</script>
+</body>
+</html>
