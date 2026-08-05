@@ -13,3 +13,4 @@
 - 確認用紙＝`reports/assets/artist-audit/20260805_suzuki-chikako/確認用紙_鈴木千賀子さま.md`
 - 画面の証拠（8言語）＝`reports/assets/artist-audit/20260805_suzuki-chikako/screens/after_*.png`
 - 進捗の正＝`reports/assets/artist-audit/progress.md`（末尾に1名1ブロックで追記）
+- **「やらないと決めたこと」12件を起票**（理由つき）＝`reports/assets/deferred-master.md` 末尾。うち #5「販売作品の素材・寸法が独語ページ等で英語のまま出る」は**商品(product)側の多言語で当Tの担当範囲外＝システム開発Tへ申し送り**。Vault側（判断待ちマスター・全社ボード）にも同内容を末尾追記済み。
