@@ -1,0 +1,77 @@
+=== 取得結果 ===
+  top: HTTP 200 283ms len=217000
+  artists: HTTP 200 459ms len=234004
+  all: HTTP 200 255ms len=209041
+  about: HTTP 200 182ms len=154127
+  contact: HTTP 200 201ms len=155707
+  guide: HTTP 200 188ms len=139730
+  faq: HTTP 200 187ms len=177777
+  press: HTTP 200 185ms len=147657
+  privacyP: HTTP 200 191ms len=215636
+  privacyPol: HTTP 200 190ms len=136358
+  tokushoho: HTTP 200 198ms len=200262
+  legal: HTTP 200 196ms len=135945
+  terms: HTTP 200 179ms len=175465
+  cart: HTTP 200 179ms len=143337
+  prod1: HTTP 200 207ms len=218124
+  prod2: HTTP 200 236ms len=217971
+  prod3: HTTP 200 205ms len=217974
+  entry: HTTP 200 191ms len=186536
+
+===== D. 既知の食い違い＝いまも残っているか（今夜の実測） =====
+D-1 「委託」: terms-artist=0 / legal-notice=1 / tokushoho=0
+    「所有権」: terms=0
+D-2 お支払い時期: legal-notice=「原則として最大2営業日以内」 / tokushoho=「原則として3営業日以内」
+    「作家さまへの確認に日数を要する場合」の一文: legal=0 / tokushoho=1
+D-3 プライバシー2本: /policies版=3264文字 / /pages版=43714文字 / 空白無視で同一=false
+    制定日行: /policies=「制定日：2026年6月30日／最終改定日：2026年7月22日」 / /pages=「制定日：2026年8月1日　／　最終改定日：2026年8月1日」
+D-4 販売作品の独語「素材」欄（aw-l--deスパンの実値）: 「Balsa wood, polychromy, gold leaf」 ← 英語のままなら既知の残存
+D-5 作家数: artists.json=610（artists配列=610） / sitemapのmetaobjectページ=625 / metaobject定義611は管理画面でしか読めず未確認
+D-6 /pages/sales-terms: HTTP 404（404のままか）
+
+--- D-7 新規の突き合わせ ---
+FAQで規約に触れる箇所: 1回 / 「作家利用規約」の旧名称=0回
+利用規約(policies/tos)は取得対象外→朝の実測で「作家利用規約」1回・「現存作家」1回あり（本日昼の実測記録どおり）
+top: 「作家利用規約」=0 / 「契約規約書」=0 / 「料金のご案内」=0
+faq: 「作家利用規約」=0 / 「契約規約書」=0 / 「料金のご案内」=0
+guide: 「作家利用規約」=0 / 「契約規約書」=0 / 「料金のご案内」=0
+about: 「作家利用規約」=0 / 「契約規約書」=0 / 「料金のご案内」=0
+
+===== E. 機械の健全性 =====
+E-1 内部リンクの種類数=431（主要18ページから抽出・cdn/カート追加は除外）
+E-1 結果: 4xx/5xx・転送=8件
+   //atspect.com/cdn/fonts/assistant/assistant_n4.9120912a469cad1cc292572851508ca49d12e768.woff2 => HTTP 404
+   //atspect.com/cdn/shop/t/4/assets/atspect-materials-guide.pdf?v=12923648718526919911785727185 => HTTP 404
+   //atspect.com/cdn/shop/t/4/assets/atspect-pamphlet.pdf?v=85923300460546512971785561907 => HTTP 404
+   //atspect.com/cdn/shop/t/4/assets/favicon-final-16.png?v=101455148824581769031783096676 => HTTP 404
+   //atspect.com/cdn/shop/t/4/assets/favicon-final-180.png?v=435348682261321741783096681 => HTTP 404
+   //atspect.com/cdn/shop/t/4/assets/favicon-final-32.png?v=154329408112491373061783096677 => HTTP 404
+   //atspect.com/cdn/shop/t/4/assets/favicon-final-96.png?v=56090068774156399421783096680 => HTTP 404
+   //atspect.com/cdn/shop/t/4/assets/hero-enso.jpg?v=181556447435620721761782826198 => HTTP 404
+
+E-2 OGP（主要ページ）
+  top: og:title=あり / og:image=あり / og:description=あり
+  artists: og:title=あり / og:image=あり / og:description=あり
+  all: og:title=あり / og:image=あり / og:description=あり
+  about: og:title=あり / og:image=あり / og:description=あり
+  guide: og:title=あり / og:image=あり / og:description=あり
+  faq: og:title=あり / og:image=あり / og:description=あり
+  prod1: og:title=あり / og:image=あり / og:description=あり
+
+E-3 画像alt（本文側のimgのみ・SVGアイコン除く概算）
+  top: img=8 / alt属性なし=0 / alt空=1（空altは装飾画像なら正常）
+  artists: img=3 / alt属性なし=0 / alt空=0（空altは装飾画像なら正常）
+  all: img=6 / alt属性なし=0 / alt空=0（空altは装飾画像なら正常）
+  about: img=3 / alt属性なし=0 / alt空=0（空altは装飾画像なら正常）
+  guide: img=5 / alt属性なし=0 / alt空=2（空altは装飾画像なら正常）
+  prod1: img=6 / alt属性なし=0 / alt空=0（空altは装飾画像なら正常）
+
+E-4 表示速度（HTML取得時間・3回の中央値・ブラウザ描画時間ではない）
+  top: 159/167/171ms → 中央値 167ms
+  artists: 166/178/184ms → 中央値 178ms
+  all: 155/161/174ms → 中央値 161ms
+  prod1: 165/170/173ms → 中央値 170ms
+  faq: 157/175/190ms → 中央値 175ms
+★訂正（実測済み）：上のE-1の8件の「404」は、走査スクリプトがプロトコル相対URL（//atspect.com/…）に
+ドメインを二重に付けた自分のバグによる誤検出。正しいURLで再検証した結果、8件すべてHTTP 200＝
+**リンク切れは0件が正**（materials-guide.pdf・pamphlet.pdf・フォント・favicon・hero画像すべて生きている）。
