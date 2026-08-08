@@ -1,0 +1,119 @@
+
+■ トップ  /
+   og:title       : あつぺくと｜日本の美術と世界をつなぐ
+   og:description : 個別 ｜ 『あつぺくと』は、作家とともに築く日本の美術のプラットフォームです。作家の経歴と作品の情報を8言語で掲載し、世界のどこからでも日本の美術に出会えます。
+   og:image       : ★会社ロゴの既定画像 ｜ ogp-atspect.png
+   og:type        : website ／ twitter:card summary_large_image
+
+■ 作品を探す  /collections/all
+   og:title       : すべての作品
+   og:description : 個別 ｜ 『あつぺくと』に掲載している作品をご覧いただけます。作品の情報は8言語で掲載しています。
+   og:image       : ★会社ロゴの既定画像 ｜ ogp-atspect.png
+   og:type        : website ／ twitter:card summary_large_image
+
+■ 作家を探す  /pages/artists
+   og:title       : 作家
+   og:description : 個別 ｜ 『あつぺくと』に登録されている作家をお探しいただけます。経歴と作品の情報を8言語で掲載しています。
+   og:image       : ★会社ロゴの既定画像 ｜ ogp-atspect.png
+   og:type        : website ／ twitter:card summary_large_image
+
+■ あつぺくとについて  /pages/about
+   og:title       : あつぺくとについて
+   og:description : 個別 ｜ 『あつぺくと』の考え方と、私たちが大切にしていることをご紹介します。作家とともに築く日本の美術のプラットフォームです。
+   og:image       : ★会社ロゴの既定画像 ｜ ogp-atspect.png
+   og:type        : website ／ twitter:card summary_large_image
+
+■ よくある質問  /pages/faq
+   og:title       : よくある質問
+   og:description : 個別 ｜ 『あつぺくと』のご利用について、よくいただくご質問とお答えをまとめています。
+   og:image       : ★会社ロゴの既定画像 ｜ ogp-atspect.png
+   og:type        : website ／ twitter:card summary_large_image
+
+■ プレス・メディア  /pages/press
+   og:title       : プレス・メディア
+   og:description : 個別 ｜ 報道関係の皆さまへ。『あつぺくと』の取材・掲載に関するお問い合わせをお受けしています。
+   og:image       : ★会社ロゴの既定画像 ｜ ogp-atspect.png
+   og:type        : website ／ twitter:card summary_large_image
+
+■ お問い合わせ  /pages/contact
+   og:title       : お問い合わせ
+   og:description : 個別 ｜ 『あつぺくと』へのご相談・お問い合わせはこちらから承ります。作家さま・施設のご担当者さま・報道関係の皆さまからのご連絡をお待ちしています。
+   og:image       : ★会社ロゴの既定画像 ｜ ogp-atspect.png
+   og:type        : website ／ twitter:card summary_large_image
+
+■ 作品の寄贈について  /pages/donation
+   og:title       : 作品の寄贈について
+   og:description : 個別 ｜ 作品の寄贈について、『あつぺくと』でできることをまとめました。作家さまと、美術館・文化施設などのご担当者さまへ。
+   og:image       : ★会社ロゴの既定画像 ｜ ogp-atspect.png
+   og:type        : website ／ twitter:card summary_large_image
+
+■ 作家の方へ（ご案内）  /pages/artist-guide
+   og:title       : あつぺくとのご案内（作家の方へ）
+   og:description : 個別 ｜ 作家さま向けのご案内です。『あつぺくと』でできること、ご登録の流れ、よくいただくご質問をまとめています。
+   og:image       : ★会社ロゴの既定画像 ｜ ogp-atspect.png
+   og:type        : website ／ twitter:card summary_large_image
+
+■ 作家登録フォーム  /pages/artist-registration-form
+   og:title       : 作家登録フォーム
+   og:description : 個別 ｜ 『あつぺくと』へのご登録のお申し込みフォームです。ご入力いただいた内容をもとに、担当者より改めてご連絡いたします。
+   og:image       : ★会社ロゴの既定画像 ｜ ogp-atspect.png
+   og:type        : website ／ twitter:card summary_large_image
+
+■ 登録の停止・解約  /pages/artist-cancellation
+   og:title       : 登録の停止・解約
+   og:description : 個別 ｜ 『あつぺくと』のご登録の停止・解約のお手続きについてご案内します。
+   og:image       : ★会社ロゴの既定画像 ｜ ogp-atspect.png
+   og:type        : website ／ twitter:card summary_large_image
+
+■ プライバシーポリシー  /pages/privacy
+   og:title       : プライバシーポリシー
+   og:description : 個別 ｜ 株式会社ARTS RESPECTの個人情報の取り扱いについてご説明します。
+   og:image       : ★会社ロゴの既定画像 ｜ ogp-atspect.png
+   og:type        : website ／ twitter:card summary_large_image
+
+■ 特定商取引法に基づく表記  /pages/tokushoho
+   og:title       : 特定商取引法に基づく表記
+   og:description : 個別 ｜ 特定商取引法に基づく表記です。事業者の情報、お支払い・お届け・返品についてご案内します。
+   og:image       : ★会社ロゴの既定画像 ｜ ogp-atspect.png
+   og:type        : website ／ twitter:card summary_large_image
+
+■ 契約規約書  /pages/terms-artist
+   og:title       : 『あつぺくと』 作家登録契約規約書
+   og:description : 個別 ｜ 『あつぺくと』の作家登録契約規約書の全文です。
+   og:image       : ★会社ロゴの既定画像 ｜ ogp-atspect.png
+   og:type        : website ／ twitter:card summary_large_image
+
+■ お気に入り  /pages/wishlist
+   og:title       : お気に入り
+   og:description : 個別 ｜ お気に入りに登録された作品をまとめてご覧いただけます。
+   og:image       : ★会社ロゴの既定画像 ｜ ogp-atspect.png
+   og:type        : website ／ twitter:card summary_large_image
+
+■ 作家ページ（近影あり）  /pages/artist/suzuki-chikako
+   og:title       : 鈴木 千賀子（Suzuki Chikako）
+   og:description : 個別 ｜ 祈りの造形・愛しき動物たち｜造形作家・埼玉県
+   og:image       : 個別 ｜ suzuki-portrait-kinei.jpg
+   og:type        : website ／ twitter:card summary_large_image
+
+■ 作家ページ（物故A）  /pages/artist/yokoyama-taikan
+   og:title       : 横山 大観（Yokoyama Taikan）
+   og:description : 個別 ｜ 近代日本画の革新を進め、日本美術院を再興した画家｜日本画家・常陸国水戸(茨城県)
+   og:image       : 個別 ｜ hero-enso.jpg
+   og:type        : website ／ twitter:card summary_large_image
+
+■ 作家ページ（物故B）  /pages/artist/tomioka-tessai
+   og:title       : 富岡 鉄斎（Tomioka Tessai）
+   og:description : 個別 ｜ 深い学識に支えられた、最後の文人画家｜文人画家・京都
+   og:image       : 個別 ｜ hero-enso.jpg
+   og:type        : website ／ twitter:card summary_large_image
+
+■ 作家ページ（物故C）  /pages/artist/kano-hogai
+   og:title       : 狩野 芳崖（Kano Hogai）
+   og:description : 個別 ｜ 日本画を近代へと導いた、狩野派最後の画人｜日本画家・長門国長府(山口県)
+   og:image       : 個別 ｜ hero-enso.jpg
+   og:type        : website ／ twitter:card summary_large_image
+
+========================================
+測ったページ 19件
+★説明文が定型文のまま ＝ 0件： なし
+★画像が会社ロゴの既定 ＝ 15件： トップ / 作品を探す / 作家を探す / あつぺくとについて / よくある質問 / プレス・メディア / お問い合わせ / 作品の寄贈について / 作家の方へ（ご案内） / 作家登録フォーム / 登録の停止・解約 / プライバシーポリシー / 特定商取引法に基づく表記 / 契約規約書 / お気に入り
