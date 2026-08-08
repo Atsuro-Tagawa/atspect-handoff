@@ -1,0 +1,18 @@
+○ ja     data-lang=ja     表示45/360 字数 1356 仮名727 高さ5617px  「作品の寄贈について」
+         冒頭: 作品の寄贈について 作家さまと、美術館・文化施設などのご担当者さまへ。作品の寄贈について、『あつぺくと』でできることをまとめました。 このページについて 長く制作を続けてこられた作
+○ en     data-lang=en     表示45/360 字数 3320 仮名0 高さ6197px  「Donating Artworks」
+         冒頭: Donating Artworks For artists, and for those responsible at museums and cultural instituti
+○ zh-cn  data-lang=zh-cn  表示45/360 字数 1029 仮名0 高さ5130px  「关于作品的捐赠」
+         冒頭: 关于作品的捐赠 致艺术家，以及美术馆、文化设施等机构的负责人。本页面整理了 ATSPECT 在作品捐赠方面能够提供的事项。 关于本页面 长年坚持创作的艺术家有时会向我们谈起：“在我
+○ zh-tw  data-lang=zh-tw  表示45/360 字数 1029 仮名0 高さ5130px  「關於作品的捐贈」
+         冒頭: 關於作品的捐贈 致藝術家，以及美術館、文化設施等機構的負責人。本頁面整理了 ATSPECT 在作品捐贈方面能夠提供的事項。 關於本頁面 長年堅持創作的藝術家有時會向我們談起：「在我
+○ ko     data-lang=ko     表示45/360 字数 1194 仮名0 高さ5311px  「작품 기증에 대하여」
+         冒頭: 작품 기증에 대하여 작가님과 미술관·문화 시설 등의 담당자님께. 작품 기증과 관련하여 ATSPECT가 할 수 있는 일을 정리했습니다. 이 페이지에 대하여 오랜 세
+○ fr     data-lang=fr     表示45/360 字数 3839 仮名0 高さ6648px  「Le don d'œuvres」
+         冒頭: Le don d'œuvres À l'attention des artistes ainsi que des responsables de musées et d'insti
+○ es     data-lang=es     表示45/360 字数 3742 仮名0 高さ6559px  「La donación de obras」
+         冒頭: La donación de obras Dirigido a los artistas y a las personas responsables de museos e ins
+○ de     data-lang=de     表示45/360 字数 3824 仮名0 高さ6725px  「Über die Schenkung von Werken」
+         冒頭: Über die Schenkung von Werken Für Künstlerinnen und Künstler sowie für die Verantwortliche
+
+★8言語すべて合格（未訳0・原文残り0・欠け0）
