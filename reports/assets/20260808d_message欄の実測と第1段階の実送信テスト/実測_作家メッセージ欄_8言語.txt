@@ -1,0 +1,10 @@
+■ 作家ページ（suzuki-chikako）の「作家メッセージ」欄を8言語で実測
+
+ja     メッセージ欄: [103字] 私が彫るのは、動物や子どもたちなど愛らしいものです。木からエネルギーをいただきながら、作品を通して私自身も癒されてきました。 ひとすじの愛の光を多くの人の心に届けたい。平和への祈りを込めて創
+en     メッセージ欄: [313字] Artist Statement What I carve are gentle, beloved things — animals, children, and the like. Rec
+zh-cn  メッセージ欄: [83字] 艺术家寄语 我所雕刻的，是动物和孩子们这样可爱的存在。一边从木中汲取能量，我也通过作品获得了疗愈。 我愿将一缕爱的光，送入更多人的心中。怀着对和平的祈愿，我持续创作。
+zh-tw  メッセージ欄: [83字] 藝術家寄語 我所雕刻的，是動物與孩子們這樣可愛的存在。一邊從木中汲取能量，我也透過作品獲得了療癒。 我願將一縷愛的光，送入更多人的心中。懷著對和平的祈願，我持續創作。
+ko     メッセージ欄: [138字] 작가의 말 제가 새기는 것은 동물과 아이들처럼 사랑스러운 존재들입니다. 나무로부터 에너지를 받으며, 작품을 통해 저 또한 치유를 받아 왔습니다. 한 줄기 사랑의 빛을 많은
+fr     メッセージ欄: [329字] Mot de l’artiste Je sculpte des êtres doux et aimés : des animaux, des enfants, et d'autres pré
+es     メッセージ欄: [266字] Mensaje del artista Tallo seres tiernos y entrañables, como animales y niños. Al recibir la ene
+de     メッセージ欄: [362字] Künstlerstatement Was ich schnitze, sind zarte, geliebte Wesen – Tiere, Kinder und dergleichen.
