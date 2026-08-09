@@ -1,0 +1,256 @@
+[
+  {
+    "case": "A4シート切出し/f1",
+    "variant": "real",
+    "expect": "https://atspect.com/pages/FORM-1",
+    "cv2": [
+      "https://atspect.com/pages/FORM-1"
+    ],
+    "bit_mismatch": 0,
+    "pass_": true
+  },
+  {
+    "case": "A4シート切出し/f2",
+    "variant": "real",
+    "expect": "https://atspect.com/pages/FORM-2",
+    "cv2": [
+      "https://atspect.com/pages/FORM-2"
+    ],
+    "bit_mismatch": 0,
+    "pass_": true
+  },
+  {
+    "case": "A4シート切出し/f3",
+    "variant": "real",
+    "expect": "https://atspect.com/pages/FORM-3",
+    "cv2": [
+      "https://atspect.com/pages/FORM-3"
+    ],
+    "bit_mismatch": 0,
+    "pass_": true
+  },
+  {
+    "case": "A4シート切出し/f4",
+    "variant": "real",
+    "expect": "https://atspect.com/pages/FORM-4",
+    "cv2": [
+      "https://atspect.com/pages/FORM-4"
+    ],
+    "bit_mismatch": 0,
+    "pass_": true
+  },
+  {
+    "case": "A4シート切出し/f5",
+    "variant": "real",
+    "expect": "https://atspect.com/pages/FORM-5",
+    "cv2": [
+      "https://atspect.com/pages/FORM-5"
+    ],
+    "bit_mismatch": 0,
+    "pass_": true
+  },
+  {
+    "case": "A4シート切出し/f6",
+    "variant": "real",
+    "expect": "https://atspect.com/pages/FORM-6",
+    "cv2": [
+      "https://atspect.com/pages/FORM-6"
+    ],
+    "bit_mismatch": 0,
+    "pass_": true
+  },
+  {
+    "case": "A4シート全体まとめ読み",
+    "variant": "real",
+    "decoded": 6,
+    "total": 6,
+    "pass_": true
+  },
+  {
+    "case": "画面提示用/f1",
+    "variant": "real",
+    "expect": "https://atspect.com/pages/FORM-1",
+    "cv2": [
+      "https://atspect.com/pages/FORM-1"
+    ],
+    "bit_mismatch": 0,
+    "pass_": true
+  },
+  {
+    "case": "画面提示用/f2",
+    "variant": "real",
+    "expect": "https://atspect.com/pages/FORM-2",
+    "cv2": [
+      "https://atspect.com/pages/FORM-2"
+    ],
+    "bit_mismatch": 0,
+    "pass_": true
+  },
+  {
+    "case": "画面提示用/f3",
+    "variant": "real",
+    "expect": "https://atspect.com/pages/FORM-3",
+    "cv2": [
+      "https://atspect.com/pages/FORM-3"
+    ],
+    "bit_mismatch": 0,
+    "pass_": true
+  },
+  {
+    "case": "画面提示用/f4",
+    "variant": "real",
+    "expect": "https://atspect.com/pages/FORM-4",
+    "cv2": [
+      "https://atspect.com/pages/FORM-4"
+    ],
+    "bit_mismatch": 0,
+    "pass_": true
+  },
+  {
+    "case": "画面提示用/f5",
+    "variant": "real",
+    "expect": "https://atspect.com/pages/FORM-5",
+    "cv2": [
+      "https://atspect.com/pages/FORM-5"
+    ],
+    "bit_mismatch": 0,
+    "pass_": true
+  },
+  {
+    "case": "画面提示用/f6",
+    "variant": "real",
+    "expect": "https://atspect.com/pages/FORM-6",
+    "cv2": [
+      "https://atspect.com/pages/FORM-6"
+    ],
+    "bit_mismatch": 0,
+    "pass_": true
+  },
+  {
+    "case": "A4シート切出し/f1",
+    "variant": "mask",
+    "expect": "https://example.invalid/masked/f1/xxxxxxxxxxxxxxxx",
+    "cv2": [
+      "https://example.invalid/masked/f1/xxxxxxxxxxxxxxxx"
+    ],
+    "bit_mismatch": 0,
+    "pass_": true
+  },
+  {
+    "case": "A4シート切出し/f2",
+    "variant": "mask",
+    "expect": "https://example.invalid/masked/f2/xxxxxxxxxx",
+    "cv2": [
+      "https://example.invalid/masked/f2/xxxxxxxxxx"
+    ],
+    "bit_mismatch": 0,
+    "pass_": true
+  },
+  {
+    "case": "A4シート切出し/f3",
+    "variant": "mask",
+    "expect": "https://example.invalid/masked/f3/xxxxxxxxxxxxxxxxxxxx",
+    "cv2": [
+      "https://example.invalid/masked/f3/xxxxxxxxxxxxxxxxxxxx"
+    ],
+    "bit_mismatch": 0,
+    "pass_": true
+  },
+  {
+    "case": "A4シート切出し/f4",
+    "variant": "mask",
+    "expect": "https://example.invalid/masked/f4/xxxxxxxxxxxxxxxxxxx",
+    "cv2": [
+      "https://example.invalid/masked/f4/xxxxxxxxxxxxxxxxxxx"
+    ],
+    "bit_mismatch": 0,
+    "pass_": true
+  },
+  {
+    "case": "A4シート切出し/f5",
+    "variant": "mask",
+    "expect": "https://example.invalid/masked/f5/xxxxxxxxxxxxxxxx",
+    "cv2": [
+      "https://example.invalid/masked/f5/xxxxxxxxxxxxxxxx"
+    ],
+    "bit_mismatch": 0,
+    "pass_": true
+  },
+  {
+    "case": "A4シート切出し/f6",
+    "variant": "mask",
+    "expect": "https://example.invalid/masked/f6/xxxxxxxxxxxx",
+    "cv2": [
+      "https://example.invalid/masked/f6/xxxxxxxxxxxx"
+    ],
+    "bit_mismatch": 0,
+    "pass_": true
+  },
+  {
+    "case": "A4シート全体まとめ読み",
+    "variant": "mask",
+    "decoded": 6,
+    "total": 6,
+    "pass_": true
+  },
+  {
+    "case": "画面提示用/f1",
+    "variant": "mask",
+    "expect": "https://example.invalid/masked/f1/xxxxxxxxxxxxxxxx",
+    "cv2": [
+      "https://example.invalid/masked/f1/xxxxxxxxxxxxxxxx"
+    ],
+    "bit_mismatch": 0,
+    "pass_": true
+  },
+  {
+    "case": "画面提示用/f2",
+    "variant": "mask",
+    "expect": "https://example.invalid/masked/f2/xxxxxxxxxx",
+    "cv2": [
+      "https://example.invalid/masked/f2/xxxxxxxxxx"
+    ],
+    "bit_mismatch": 0,
+    "pass_": true
+  },
+  {
+    "case": "画面提示用/f3",
+    "variant": "mask",
+    "expect": "https://example.invalid/masked/f3/xxxxxxxxxxxxxxxxxxxx",
+    "cv2": [
+      "https://example.invalid/masked/f3/xxxxxxxxxxxxxxxxxxxx"
+    ],
+    "bit_mismatch": 0,
+    "pass_": true
+  },
+  {
+    "case": "画面提示用/f4",
+    "variant": "mask",
+    "expect": "https://example.invalid/masked/f4/xxxxxxxxxxxxxxxxxxx",
+    "cv2": [
+      "https://example.invalid/masked/f4/xxxxxxxxxxxxxxxxxxx"
+    ],
+    "bit_mismatch": 0,
+    "pass_": true
+  },
+  {
+    "case": "画面提示用/f5",
+    "variant": "mask",
+    "expect": "https://example.invalid/masked/f5/xxxxxxxxxxxxxxxx",
+    "cv2": [
+      "https://example.invalid/masked/f5/xxxxxxxxxxxxxxxx"
+    ],
+    "bit_mismatch": 0,
+    "pass_": true
+  },
+  {
+    "case": "画面提示用/f6",
+    "variant": "mask",
+    "expect": "https://example.invalid/masked/f6/xxxxxxxxxxxx",
+    "cv2": [
+      "https://example.invalid/masked/f6/xxxxxxxxxxxx"
+    ],
+    "bit_mismatch": 0,
+    "pass_": true
+  }
+]
