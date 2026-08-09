@@ -1,0 +1,31 @@
+ここのファイルは使わないでください（古い版です）。
+
+作家マスターCSVの正本は、次の1か所だけです。
+  C:\Users\ataga\Desktop\作家リサーチ\artists_master_cleaned.csv
+
+このフォルダに入れた理由（2026-08-09 リサーチT）
+  この階層（_DATA_TO_PRODUCTION）に、3週間〜7週間ぶん古い作家マスターCSVが3本、
+  正本と同じ顔をして置かれていました。とくに
+  「artists_master_cleaned.csv」と「artists_master_cleaned_CANONICAL_20260725.csv」は
+  名前だけ見ると正本に見えます（CANONICAL＝正本、という意味の語が入っています）。
+  実測では、ここにあった全ファイルが正本と一致しませんでした（一致=0件）。
+  古い版が正本の顔をしている状態そのものが事故のもとなので、使用禁止として隔離しました。
+
+削除はしていません（元に戻せます）。中身の記録は下の一覧のとおりです。
+
+  artists_master_cleaned.csv                              2026-07-21  597行（正本は611行）
+  artists_master_cleaned_CANONICAL_20260725.csv           2026-07-25  600行
+  artists_master_cleaned.csv.pre-axis-classification_...  2026-07-21  597行
+  i18n_（デザイン/絵画/現代美術/工芸/写真/書/彫刻）.json     2026-06-22〜23  8言語データの旧書き出し
+  section_label_viewpoint_i18n.json                       2026-06-22  旧作業ファイル
+  suzuki_chikako_de.json                                  2026-06-23  一度きりの投入用ファイル
+  西川寧_統合情報.md                                       2026-06-21  旧調査メモ
+  _backup_de_20260623\ / _backup_keigetsu_role_20260623\ / _de_work\   2026-06-22〜23 の作業バックアップ
+
+★このフォルダへ動かさなかったもの（現役なので、親フォルダにそのまま置いています）
+  de_term_ledger.json / kanshou_dict.json / genre_labels_i18n.json
+  ＝スキル atspect-8lang-quality が「台帳が正」として今も参照しています。動かすと翻訳の作業が壊れます。
+
+作家データの現在の姿を知りたいときは、CSVではなくライブから取り直してください。
+  cd C:\Users\ataga\atspect-system
+  node scripts\artist-csv-sync.mjs pull
