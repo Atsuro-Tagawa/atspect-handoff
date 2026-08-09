@@ -84,7 +84,8 @@
    "重要作家": "always",
    "切り拓いた": "always",
    "育ての親": "always",
-   "中核": "always"
+   "中核": "always",
+   "中心的": "context"
   },
   "en": {
    "leading": "context",
@@ -796,5 +797,6 @@
    "schuf die Grundlagen": "always",
    "legte die Grundlagen": "always"
   }
- }
+ },
+ "note2": "2026-08-09 リサーチT: ja「中心的」をcontextで追加（前便の語リストの穴3語のうち、実測で唯一未収載だった語。第一線=always・de maßgeblich=always は既に収載済みであることを実測で確認）"
 }
