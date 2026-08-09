@@ -75,3 +75,53 @@ metaobjectの最終更新は2026-08-05＝8/8夕以降に直された形跡なし
 ガードを追加（該当は625名中0名だが構造で塞いだ）。
 ★是正しなかったもの＝page_imageのある経路（測定範囲に無く動作を確かめられないため）／ページの題名
 （データ側で範囲外）／非公開導線ページ／twitter:site（範囲外）。SNSの実物には貼っていません。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【セッション終了】2026-08-09 ／ SNS運用T ／ model=Opus 5 (1M context)
+
+■ このセッションで完了したこと（1行）
+申込フォーム3本の是正／寄贈ページの新設・作り直し・作家ページの寄贈枠の実装／合格ライン①-4のライブ実測（再現せず・データ無変更）と第1段階フォームの実送信テスト／OGP是正の総仕上げ——計6便、すべて証拠つきでpush済み。
+
+■ ★未完了のまま残るもの（次のセッションが引き取るもの）
+1. 【法務確認待ち】寄贈ページの免責の一文「当社は場の提供とお取り次ぎのみを行い、条件・成約・作品の状態について責任を負いません。」＝唐澤先生の確認待ちのままページに掲載中。古物営業等の規制の確認も同じ。規約への追補は未実施。
+2. 【司令塔へ差し戻し中】合格ライン①-4「現存作家のmessage欄が独語のみ」＝現在のライブで再現せず。データは1バイトも変更していない。元判定の対象・日時・判定ロジックの再確認をお願いしている。あわせて `artist_i18n.message` の言語キーが `de` だけという片側欠落が実在（`artist_i18n.bio` は8言語）。埋めるかは作家データ担当の判断。
+3. 【判断待ち】近影をお持ちでない作家さま624名のOGP既定画像に `hero-enso.jpg`（トップのヒーロー）を採用したが、墨の円相を含むため書・日本画の作家さまで作品と読まれる可能性がゼロではない。専用の1200x630画像を作るかは制作Tの領域。
+4. 【別便】寄贈専用のお問い合わせフォーム／印刷用の1枚（ご検討用資料）＝未着手。フォームが無いあいだ「無償の寄贈／条件のあるご相談」を設問で分ける仕組みは働かない。
+5. 【不可逆のため未実施】第1段階フォームのテスト送信1件（作家名「テスト 確認用」／識別文字列「送信テスト-20260808-SNS」）と、寄贈枠の動作確認用ダミー1件（掲載しない設定）を削除していない。ご指示があれば消す。
+6. 【範囲外・未着手】合格ライン①-5（訳が未了の15欄）／`page_image` のある経路のOGP（測定範囲に該当ページが無く動作を確かめられない）／ページの題名（データ側）／`twitter:site` の削除／OGP説明文の8言語化。
+7. 【当方では実施できない】実機（実物のスマートフォン）での確認／SNSの実物へ貼っての確認（外部への投稿は承認事項）。
+※そのほかの繰り越しは `reports/assets/deferred-master.md` の 2026-08-07 追記／2026-08-08 追記〜追記⑤ に全件あり。
+
+■ 次のセッションが最初に読むべきファイル（フルパス）
+C:\Users\ataga\Desktop\SNS運用\_責任者_SNS.md
+C:\Users\ataga\atspect-handoff\reports\assets\deferred-master.md
+C:\Vault\ARTS-RESPECT\_繰り越しマスター_ATSPECT.md
+C:\Vault\ARTS-RESPECT\_実装ログ_申込フォーム3本の是正_20260807_ATSPECT.md
+C:\Vault\ARTS-RESPECT\_実装ログ_寄贈ページ新設_20260808_ATSPECT.md
+C:\Vault\ARTS-RESPECT\_実装ログ_寄贈の入口の実装_20260808_ATSPECT.md
+C:\Vault\ARTS-RESPECT\_実装ログ_寄贈を必要最低限へ作り直し_20260808_ATSPECT.md
+C:\Vault\ARTS-RESPECT\_実装ログ_合格ライン①-4の実測と第1段階の実送信テスト_20260808_ATSPECT.md
+C:\Vault\ARTS-RESPECT\_実装ログ_OGP是正の総仕上げ_20260808_ATSPECT.md
+C:\Users\ataga\atspect-handoff\reports\assets\20260808e_OGPの是正\記録.md
+C:\Users\ataga\atspect-handoff\reports\assets\20260808d_message欄の実測と第1段階の実送信テスト\記録.md
+C:\Users\ataga\atspect-handoff\reports\assets\20260808c_寄贈_必要最低限へ作り直し\作り直しの記録.md
+
+■ 手元の未pushの確認（実測）
+・atspect-handoff＝作業ツリーは clean・未pushのcommitなし（本追記のぶんを除く）。
+・atspect-system＝未コミットが55件あるが、**大半は他ターミナルの作業中のもの**。当方が本セッションで作った読み取り用スクリプト9本もこの中にある（`scripts/_readonly-grep-20260807.mjs`／`create-donation-page.mjs`／`create-donation-work-definition.mjs`／`_readonly-metaobject-def-20260808.mjs`／`_readonly-suzuki-detail-20260808.mjs`／`_readonly-message-audit-20260808.mjs`／`_readonly-message-8lang-20260808.mjs`／`_readonly-outlook-find-testmark-20260808.ps1`／`_readonly-artist-desc-gap-20260808.mjs`）。★**他ターミナルの作業中のファイルを巻き込む恐れがあるため、当方はcommit・pushしていない**（過去に同じ事故を起こしているため）。使い方は各Vault実装ログに書いてある。
+・atspect-theme＝未コミット多数。**当ターミナルの担当外**のローカルクローンで、ライブとの同期が保証されない既知の状態。触っていない。
+・未完成の成果物＝なし（6便すべて完了・push済み）。Vaultへ退避すべきものもなし。
+
+■ 本番（Shopifyテーマ161）へ反映済みのファイル
+sections/atspect-artist-registration.liquid ／ sections/atspect-artist-onboarding.liquid ／
+sections/atspect-donation.liquid（新規）／ sections/atspect-donation-preview.liquid（新規）／
+snippets/atspect-donation-works.liquid（新規）／ snippets/meta-tags.liquid ／
+sections/atspect-artist-detail.liquid ／ sections/atspect-artist-guide.liquid ／ sections/atspect-footer.liquid ／
+templates/page.donation.json（新規）／ templates/page.donation-preview.json（新規）
+※すべて theme161-update.mjs 経由（バックアップ＋並行編集の検知＋読み戻し検証つき）。
+
+■ ★ご指示と恒久ルールの食い違いを1件（黙って処理しないため明記）
+プロジェクトの恒久ルールでは、終了時に `reports/sns.md` を3行だけの固定書式へ**上書き**することになっています。
+本便のご指示は「**末尾に1行足す／過去のエントリを消さない（履歴は残す）**」でしたので、**ご指示に従って追記**しました。
+どちらを恒久とするかのご確認をお願いします。
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
