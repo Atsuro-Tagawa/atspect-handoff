@@ -1,0 +1,127 @@
+{
+  "handle": "kano-hogai",
+  "patchNotes": [
+    {
+      "url": "https://atspect.com/pages/artist/kano-hogai?lang=ja",
+      "note": "3件に見本6言語を足した"
+    },
+    {
+      "url": "https://atspect.com/web-pixels@8b4bdd91w657eaa09pa445a201m797ba740/custom/web-pixel-shopify-custom-pixel@0501/sandbox/modern/pages/artist/kano-hogai?lang=ja",
+      "note": "JSONの埋め込みが見つからない"
+    },
+    {
+      "url": "https://atspect.com/pages/artist/kano-hogai?lang=en",
+      "note": "3件に見本6言語を足した"
+    },
+    {
+      "url": "https://atspect.com/web-pixels@8b4bdd91w657eaa09pa445a201m797ba740/custom/web-pixel-shopify-custom-pixel@0501/sandbox/modern/pages/artist/kano-hogai?lang=en",
+      "note": "JSONの埋め込みが見つからない"
+    },
+    {
+      "url": "https://atspect.com/pages/artist/kano-hogai?lang=zh-cn",
+      "note": "3件に見本6言語を足した"
+    },
+    {
+      "url": "https://atspect.com/web-pixels@8b4bdd91w657eaa09pa445a201m797ba740/custom/web-pixel-shopify-custom-pixel@0501/sandbox/modern/pages/artist/kano-hogai?lang=zh-cn",
+      "note": "JSONの埋め込みが見つからない"
+    },
+    {
+      "url": "https://atspect.com/pages/artist/kano-hogai?lang=zh-tw",
+      "note": "3件に見本6言語を足した"
+    },
+    {
+      "url": "https://atspect.com/web-pixels@8b4bdd91w657eaa09pa445a201m797ba740/custom/web-pixel-shopify-custom-pixel@0501/sandbox/modern/pages/artist/kano-hogai?lang=zh-tw",
+      "note": "JSONの埋め込みが見つからない"
+    },
+    {
+      "url": "https://atspect.com/pages/artist/kano-hogai?lang=ko",
+      "note": "3件に見本6言語を足した"
+    },
+    {
+      "url": "https://atspect.com/web-pixels@8b4bdd91w657eaa09pa445a201m797ba740/custom/web-pixel-shopify-custom-pixel@0501/sandbox/modern/pages/artist/kano-hogai?lang=ko",
+      "note": "JSONの埋め込みが見つからない"
+    },
+    {
+      "url": "https://atspect.com/pages/artist/kano-hogai?lang=fr",
+      "note": "3件に見本6言語を足した"
+    },
+    {
+      "url": "https://atspect.com/web-pixels@8b4bdd91w657eaa09pa445a201m797ba740/custom/web-pixel-shopify-custom-pixel@0501/sandbox/modern/pages/artist/kano-hogai?lang=fr",
+      "note": "JSONの埋め込みが見つからない"
+    },
+    {
+      "url": "https://atspect.com/pages/artist/kano-hogai?lang=es",
+      "note": "3件に見本6言語を足した"
+    },
+    {
+      "url": "https://atspect.com/web-pixels@8b4bdd91w657eaa09pa445a201m797ba740/custom/web-pixel-shopify-custom-pixel@0501/sandbox/modern/pages/artist/kano-hogai?lang=es",
+      "note": "JSONの埋め込みが見つからない"
+    },
+    {
+      "url": "https://atspect.com/pages/artist/kano-hogai?lang=de",
+      "note": "3件に見本6言語を足した"
+    },
+    {
+      "url": "https://atspect.com/web-pixels@8b4bdd91w657eaa09pa445a201m797ba740/custom/web-pixel-shopify-custom-pixel@0501/sandbox/modern/pages/artist/kano-hogai?lang=de",
+      "note": "JSONの埋め込みが見つからない"
+    }
+  ],
+  "rows": [
+    {
+      "handle": "kano-hogai",
+      "lang": "ja",
+      "ある": true,
+      "見出し": "代表作",
+      "値": "悲母観音、不動明王図、仁王捉鬼図"
+    },
+    {
+      "handle": "kano-hogai",
+      "lang": "en",
+      "ある": true,
+      "見出し": "Selected Works",
+      "値": "Merciful Mother Kannon, Fudō Myōō (Acala), Niō Capturing a Demon"
+    },
+    {
+      "handle": "kano-hogai",
+      "lang": "zh-cn",
+      "ある": true,
+      "見出し": "代表作",
+      "値": "【见本1】简体中文の代表作、【见本2】简体中文の代表作、【见本3】简体中文の代表作"
+    },
+    {
+      "handle": "kano-hogai",
+      "lang": "zh-tw",
+      "ある": true,
+      "見出し": "代表作",
+      "値": "【見本1】繁體中文の代表作、【見本2】繁體中文の代表作、【見本3】繁體中文の代表作"
+    },
+    {
+      "handle": "kano-hogai",
+      "lang": "ko",
+      "ある": true,
+      "見出し": "대표작",
+      "値": "【견본1】한국어 대표작, 【견본2】한국어 대표작, 【견본3】한국어 대표작"
+    },
+    {
+      "handle": "kano-hogai",
+      "lang": "fr",
+      "ある": true,
+      "見出し": "Œuvres choisies",
+      "値": "[Échantillon 1] Œuvre en français, [Échantillon 2] Œuvre en français, [Échantillon 3] Œuvre en français"
+    },
+    {
+      "handle": "kano-hogai",
+      "lang": "es",
+      "ある": true,
+      "見出し": "Obras destacadas",
+      "値": "[Muestra 1] Obra en español, [Muestra 2] Obra en español, [Muestra 3] Obra en español"
+    },
+    {
+      "handle": "kano-hogai",
+      "lang": "de",
+      "ある": true,
+      "見出し": "Ausgewählte Werke",
+      "値": "[Muster 1] Werk auf Deutsch, [Muster 2] Werk auf Deutsch, [Muster 3] Werk auf Deutsch"
+    }
+  ]
+}

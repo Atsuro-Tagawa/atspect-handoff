@@ -1,0 +1,762 @@
+[
+  {
+    "handle": "kano-hogai",
+    "name": "狩野 芳崖",
+    "kind": "型A・作品3点",
+    "lang": "ja",
+    "ある": true,
+    "見出し": "代表作",
+    "値": "悲母観音、不動明王図、仁王捉鬼図",
+    "小見出し一覧": [
+      "代表作",
+      "収蔵先・記念館",
+      "所属していた美術団体"
+    ]
+  },
+  {
+    "handle": "kano-hogai",
+    "name": "狩野 芳崖",
+    "kind": "型A・作品3点",
+    "lang": "en",
+    "ある": true,
+    "見出し": "Selected Works",
+    "値": "Merciful Mother Kannon, Fudō Myōō (Acala), Niō Capturing a Demon",
+    "小見出し一覧": [
+      "Selected Works",
+      "Collections",
+      "Art Groups"
+    ]
+  },
+  {
+    "handle": "kano-hogai",
+    "name": "狩野 芳崖",
+    "kind": "型A・作品3点",
+    "lang": "zh-cn",
+    "ある": true,
+    "見出し": "代表作",
+    "値": "Merciful Mother Kannon, Fudō Myōō (Acala), Niō Capturing a Demon",
+    "小見出し一覧": [
+      "代表作",
+      "收藏机构",
+      "所属团体"
+    ]
+  },
+  {
+    "handle": "kano-hogai",
+    "name": "狩野 芳崖",
+    "kind": "型A・作品3点",
+    "lang": "zh-tw",
+    "ある": true,
+    "見出し": "代表作",
+    "値": "Merciful Mother Kannon, Fudō Myōō (Acala), Niō Capturing a Demon",
+    "小見出し一覧": [
+      "代表作",
+      "收藏機構",
+      "所屬團體"
+    ]
+  },
+  {
+    "handle": "kano-hogai",
+    "name": "狩野 芳崖",
+    "kind": "型A・作品3点",
+    "lang": "ko",
+    "ある": true,
+    "見出し": "대표작",
+    "値": "Merciful Mother Kannon, Fudō Myōō (Acala), Niō Capturing a Demon",
+    "小見出し一覧": [
+      "대표작",
+      "소장처",
+      "소속 단체"
+    ]
+  },
+  {
+    "handle": "kano-hogai",
+    "name": "狩野 芳崖",
+    "kind": "型A・作品3点",
+    "lang": "fr",
+    "ある": true,
+    "見出し": "Œuvres choisies",
+    "値": "Merciful Mother Kannon, Fudō Myōō (Acala), Niō Capturing a Demon",
+    "小見出し一覧": [
+      "Œuvres choisies",
+      "Collections",
+      "Groupes artistiques"
+    ]
+  },
+  {
+    "handle": "kano-hogai",
+    "name": "狩野 芳崖",
+    "kind": "型A・作品3点",
+    "lang": "es",
+    "ある": true,
+    "見出し": "Obras destacadas",
+    "値": "Merciful Mother Kannon, Fudō Myōō (Acala), Niō Capturing a Demon",
+    "小見出し一覧": [
+      "Obras destacadas",
+      "Colecciones",
+      "Grupos artísticos"
+    ]
+  },
+  {
+    "handle": "kano-hogai",
+    "name": "狩野 芳崖",
+    "kind": "型A・作品3点",
+    "lang": "de",
+    "ある": true,
+    "見出し": "Ausgewählte Werke",
+    "値": "Merciful Mother Kannon, Fudō Myōō (Acala), Niō Capturing a Demon",
+    "小見出し一覧": [
+      "Ausgewählte Werke",
+      "Sammlungen",
+      "Künstlergruppen"
+    ]
+  },
+  {
+    "handle": "yokoyama-taikan",
+    "name": "横山 大観",
+    "kind": "型A・作品4点",
+    "lang": "ja",
+    "ある": true,
+    "見出し": "代表作",
+    "値": "無我、生々流転、夜桜、紅葉",
+    "小見出し一覧": [
+      "代表作",
+      "収蔵先・記念館",
+      "所属していた美術団体"
+    ]
+  },
+  {
+    "handle": "yokoyama-taikan",
+    "name": "横山 大観",
+    "kind": "型A・作品4点",
+    "lang": "en",
+    "ある": true,
+    "見出し": "Selected Works",
+    "値": "Selflessness, The Wheel of Life, Cherry Blossoms at Night, Autumn Leaves",
+    "小見出し一覧": [
+      "Selected Works",
+      "Collections",
+      "Art Groups"
+    ]
+  },
+  {
+    "handle": "yokoyama-taikan",
+    "name": "横山 大観",
+    "kind": "型A・作品4点",
+    "lang": "zh-cn",
+    "ある": true,
+    "見出し": "代表作",
+    "値": "Selflessness, The Wheel of Life, Cherry Blossoms at Night, Autumn Leaves",
+    "小見出し一覧": [
+      "代表作",
+      "收藏机构",
+      "所属团体"
+    ]
+  },
+  {
+    "handle": "yokoyama-taikan",
+    "name": "横山 大観",
+    "kind": "型A・作品4点",
+    "lang": "zh-tw",
+    "ある": true,
+    "見出し": "代表作",
+    "値": "Selflessness, The Wheel of Life, Cherry Blossoms at Night, Autumn Leaves",
+    "小見出し一覧": [
+      "代表作",
+      "收藏機構",
+      "所屬團體"
+    ]
+  },
+  {
+    "handle": "yokoyama-taikan",
+    "name": "横山 大観",
+    "kind": "型A・作品4点",
+    "lang": "ko",
+    "ある": true,
+    "見出し": "대표작",
+    "値": "Selflessness, The Wheel of Life, Cherry Blossoms at Night, Autumn Leaves",
+    "小見出し一覧": [
+      "대표작",
+      "소장처",
+      "소속 단체"
+    ]
+  },
+  {
+    "handle": "yokoyama-taikan",
+    "name": "横山 大観",
+    "kind": "型A・作品4点",
+    "lang": "fr",
+    "ある": true,
+    "見出し": "Œuvres choisies",
+    "値": "Selflessness, The Wheel of Life, Cherry Blossoms at Night, Autumn Leaves",
+    "小見出し一覧": [
+      "Œuvres choisies",
+      "Collections",
+      "Groupes artistiques"
+    ]
+  },
+  {
+    "handle": "yokoyama-taikan",
+    "name": "横山 大観",
+    "kind": "型A・作品4点",
+    "lang": "es",
+    "ある": true,
+    "見出し": "Obras destacadas",
+    "値": "Selflessness, The Wheel of Life, Cherry Blossoms at Night, Autumn Leaves",
+    "小見出し一覧": [
+      "Obras destacadas",
+      "Colecciones",
+      "Grupos artísticos"
+    ]
+  },
+  {
+    "handle": "yokoyama-taikan",
+    "name": "横山 大観",
+    "kind": "型A・作品4点",
+    "lang": "de",
+    "ある": true,
+    "見出し": "Ausgewählte Werke",
+    "値": "Selflessness, The Wheel of Life, Cherry Blossoms at Night, Autumn Leaves",
+    "小見出し一覧": [
+      "Ausgewählte Werke",
+      "Sammlungen",
+      "Künstlergruppen"
+    ]
+  },
+  {
+    "handle": "saigo-kogetsu",
+    "name": "西郷 孤月",
+    "kind": "型A・作品1点",
+    "lang": "ja",
+    "ある": true,
+    "見出し": "代表作",
+    "値": "台湾風景",
+    "小見出し一覧": [
+      "代表作",
+      "収蔵先・記念館",
+      "所属していた美術団体"
+    ]
+  },
+  {
+    "handle": "saigo-kogetsu",
+    "name": "西郷 孤月",
+    "kind": "型A・作品1点",
+    "lang": "en",
+    "ある": true,
+    "見出し": "Selected Works",
+    "値": "Taiwan Landscape",
+    "小見出し一覧": [
+      "Selected Works",
+      "Collections",
+      "Art Groups"
+    ]
+  },
+  {
+    "handle": "saigo-kogetsu",
+    "name": "西郷 孤月",
+    "kind": "型A・作品1点",
+    "lang": "zh-cn",
+    "ある": true,
+    "見出し": "代表作",
+    "値": "Taiwan Landscape",
+    "小見出し一覧": [
+      "代表作",
+      "收藏机构",
+      "所属团体"
+    ]
+  },
+  {
+    "handle": "saigo-kogetsu",
+    "name": "西郷 孤月",
+    "kind": "型A・作品1点",
+    "lang": "zh-tw",
+    "ある": true,
+    "見出し": "代表作",
+    "値": "Taiwan Landscape",
+    "小見出し一覧": [
+      "代表作",
+      "收藏機構",
+      "所屬團體"
+    ]
+  },
+  {
+    "handle": "saigo-kogetsu",
+    "name": "西郷 孤月",
+    "kind": "型A・作品1点",
+    "lang": "ko",
+    "ある": true,
+    "見出し": "대표작",
+    "値": "Taiwan Landscape",
+    "小見出し一覧": [
+      "대표작",
+      "소장처",
+      "소속 단체"
+    ]
+  },
+  {
+    "handle": "saigo-kogetsu",
+    "name": "西郷 孤月",
+    "kind": "型A・作品1点",
+    "lang": "fr",
+    "ある": true,
+    "見出し": "Œuvres choisies",
+    "値": "Taiwan Landscape",
+    "小見出し一覧": [
+      "Œuvres choisies",
+      "Collections",
+      "Groupes artistiques"
+    ]
+  },
+  {
+    "handle": "saigo-kogetsu",
+    "name": "西郷 孤月",
+    "kind": "型A・作品1点",
+    "lang": "es",
+    "ある": true,
+    "見出し": "Obras destacadas",
+    "値": "Taiwan Landscape",
+    "小見出し一覧": [
+      "Obras destacadas",
+      "Colecciones",
+      "Grupos artísticos"
+    ]
+  },
+  {
+    "handle": "saigo-kogetsu",
+    "name": "西郷 孤月",
+    "kind": "型A・作品1点",
+    "lang": "de",
+    "ある": true,
+    "見出し": "Ausgewählte Werke",
+    "値": "Taiwan Landscape",
+    "小見出し一覧": [
+      "Ausgewählte Werke",
+      "Sammlungen",
+      "Künstlergruppen"
+    ]
+  },
+  {
+    "handle": "azuma-kenjiro",
+    "name": "吾妻 兼治郎",
+    "kind": "型A・作品名がラテン文字",
+    "lang": "ja",
+    "ある": true,
+    "見出し": "代表作",
+    "値": "MU、YU",
+    "小見出し一覧": [
+      "代表作",
+      "収蔵先・記念館"
+    ]
+  },
+  {
+    "handle": "azuma-kenjiro",
+    "name": "吾妻 兼治郎",
+    "kind": "型A・作品名がラテン文字",
+    "lang": "en",
+    "ある": true,
+    "見出し": "Selected Works",
+    "値": "MU, YU",
+    "小見出し一覧": [
+      "Selected Works",
+      "Collections"
+    ]
+  },
+  {
+    "handle": "azuma-kenjiro",
+    "name": "吾妻 兼治郎",
+    "kind": "型A・作品名がラテン文字",
+    "lang": "zh-cn",
+    "ある": true,
+    "見出し": "代表作",
+    "値": "MU, YU",
+    "小見出し一覧": [
+      "代表作",
+      "收藏机构"
+    ]
+  },
+  {
+    "handle": "azuma-kenjiro",
+    "name": "吾妻 兼治郎",
+    "kind": "型A・作品名がラテン文字",
+    "lang": "zh-tw",
+    "ある": true,
+    "見出し": "代表作",
+    "値": "MU, YU",
+    "小見出し一覧": [
+      "代表作",
+      "收藏機構"
+    ]
+  },
+  {
+    "handle": "azuma-kenjiro",
+    "name": "吾妻 兼治郎",
+    "kind": "型A・作品名がラテン文字",
+    "lang": "ko",
+    "ある": true,
+    "見出し": "대표작",
+    "値": "MU, YU",
+    "小見出し一覧": [
+      "대표작",
+      "소장처"
+    ]
+  },
+  {
+    "handle": "azuma-kenjiro",
+    "name": "吾妻 兼治郎",
+    "kind": "型A・作品名がラテン文字",
+    "lang": "fr",
+    "ある": true,
+    "見出し": "Œuvres choisies",
+    "値": "MU, YU",
+    "小見出し一覧": [
+      "Œuvres choisies",
+      "Collections"
+    ]
+  },
+  {
+    "handle": "azuma-kenjiro",
+    "name": "吾妻 兼治郎",
+    "kind": "型A・作品名がラテン文字",
+    "lang": "es",
+    "ある": true,
+    "見出し": "Obras destacadas",
+    "値": "MU, YU",
+    "小見出し一覧": [
+      "Obras destacadas",
+      "Colecciones"
+    ]
+  },
+  {
+    "handle": "azuma-kenjiro",
+    "name": "吾妻 兼治郎",
+    "kind": "型A・作品名がラテン文字",
+    "lang": "de",
+    "ある": true,
+    "見出し": "Ausgewählte Werke",
+    "値": "MU, YU",
+    "小見出し一覧": [
+      "Ausgewählte Werke",
+      "Sammlungen"
+    ]
+  },
+  {
+    "handle": "tange-kenzo",
+    "name": "丹下 健三",
+    "kind": "型B・8言語オブジェクト",
+    "lang": "ja",
+    "ある": true,
+    "見出し": "代表作",
+    "値": "広島平和記念資料館本館（広島県広島市・1955年竣工・現存・重要文化財2006年指定）、香川県庁舎東館（香川県高松市・1958年竣工・現存・重要文化財2022年指定）、国立代々木競技場（東京都渋谷区・1964年竣工・現存・重要文化財2021年指定）",
+    "小見出し一覧": [
+      "代表作",
+      "収蔵先・記念館",
+      "所属していた美術団体"
+    ]
+  },
+  {
+    "handle": "tange-kenzo",
+    "name": "丹下 健三",
+    "kind": "型B・8言語オブジェクト",
+    "lang": "en",
+    "ある": true,
+    "見出し": "Selected Works",
+    "値": "Hiroshima Peace Memorial Museum Main Building (Hiroshima, Hiroshima Prefecture; completed 1955; extant; Important Cultural Property, designated 2006), Kagawa Prefectural Government Office East Building (Takamatsu, Kagawa Prefecture; completed 1958; extant; Important Cultural Property, designated 2022), Yoyogi National Gymnasium (Tokyo, Shibuya Ward; completed 1964; extant; Important Cultural Property, designated 2021)",
+    "小見出し一覧": [
+      "Selected Works",
+      "Collections",
+      "Art Groups"
+    ]
+  },
+  {
+    "handle": "tange-kenzo",
+    "name": "丹下 健三",
+    "kind": "型B・8言語オブジェクト",
+    "lang": "zh-cn",
+    "ある": true,
+    "見出し": "代表作",
+    "値": "广岛和平纪念资料馆本馆（广岛县广岛市·1955年竣工·现存·重要文化财2006年指定）、香川县厅舍东馆（香川县高松市·1958年竣工·现存·重要文化财2022年指定）、国立代代木竞技场（东京都涩谷区·1964年竣工·现存·重要文化财2021年指定）",
+    "小見出し一覧": [
+      "代表作",
+      "收藏机构",
+      "所属团体"
+    ]
+  },
+  {
+    "handle": "tange-kenzo",
+    "name": "丹下 健三",
+    "kind": "型B・8言語オブジェクト",
+    "lang": "zh-tw",
+    "ある": true,
+    "見出し": "代表作",
+    "値": "廣島和平紀念資料館本館（廣島縣廣島市·1955年竣工·現存·重要文化財2006年指定）、香川縣廳舍東館（香川縣高松市·1958年竣工·現存·重要文化財2022年指定）、國立代代木競技場（東京都澀谷區·1964年竣工·現存·重要文化財2021年指定）",
+    "小見出し一覧": [
+      "代表作",
+      "收藏機構",
+      "所屬團體"
+    ]
+  },
+  {
+    "handle": "tange-kenzo",
+    "name": "丹下 健三",
+    "kind": "型B・8言語オブジェクト",
+    "lang": "ko",
+    "ある": true,
+    "見出し": "대표작",
+    "値": "히로시마 평화기념자료관 본관(히로시마현 히로시마시·1955년 준공·현존·중요문화재 2006년 지정), 가가와현청사 동관(가가와현 다카마쓰시·1958년 준공·현존·중요문화재 2022년 지정), 국립요요기경기장(도쿄도 시부야구·1964년 준공·현존·중요문화재 2021년 지정)",
+    "小見出し一覧": [
+      "대표작",
+      "소장처",
+      "소속 단체"
+    ]
+  },
+  {
+    "handle": "tange-kenzo",
+    "name": "丹下 健三",
+    "kind": "型B・8言語オブジェクト",
+    "lang": "fr",
+    "ある": true,
+    "見出し": "Œuvres choisies",
+    "値": "bâtiment principal du Musée commémoratif de la paix d'Hiroshima (Hiroshima, préfecture de Hiroshima; achevé en 1955; existant; Bien culturel important, classé en 2006), aile est de l'hôtel de la préfecture de Kagawa (Takamatsu, préfecture de Kagawa; achevée en 1958; existante; Bien culturel important, classé en 2022), Gymnase national de Yoyogi (Tokyo, arrondissement de Shibuya; achevé en 1964; existant; Bien culturel important, classé en 2021)",
+    "小見出し一覧": [
+      "Œuvres choisies",
+      "Collections",
+      "Groupes artistiques"
+    ]
+  },
+  {
+    "handle": "tange-kenzo",
+    "name": "丹下 健三",
+    "kind": "型B・8言語オブジェクト",
+    "lang": "es",
+    "ある": true,
+    "見出し": "Obras destacadas",
+    "値": "edificio principal del Museo Conmemorativo de la Paz de Hiroshima (Hiroshima, prefectura de Hiroshima; terminado en 1955; existente; Bien Cultural Importante, declarado en 2006), ala este de la sede del gobierno de la prefectura de Kagawa (Takamatsu, prefectura de Kagawa; terminada en 1958; existente; Bien Cultural Importante, declarado en 2022), Gimnasio Nacional de Yoyogi (Tokio, distrito de Shibuya; terminado en 1964; existente; Bien Cultural Importante, declarado en 2021)",
+    "小見出し一覧": [
+      "Obras destacadas",
+      "Colecciones",
+      "Grupos artísticos"
+    ]
+  },
+  {
+    "handle": "tange-kenzo",
+    "name": "丹下 健三",
+    "kind": "型B・8言語オブジェクト",
+    "lang": "de",
+    "ある": true,
+    "見出し": "Ausgewählte Werke",
+    "値": "Hauptgebäude des Hiroshima-Friedensgedenkmuseums (Hiroshima, Präfektur Hiroshima; fertiggestellt 1955; erhalten; Wichtiges Kulturgut, ausgewiesen 2006), Ostflügel des Regierungsgebäudes der Präfektur Kagawa (Takamatsu, Präfektur Kagawa; fertiggestellt 1958; erhalten; Wichtiges Kulturgut, ausgewiesen 2022), Yoyogi-Nationalsportstätte (Tokio, Bezirk Shibuya; fertiggestellt 1964; erhalten; Wichtiges Kulturgut, ausgewiesen 2021)",
+    "小見出し一覧": [
+      "Ausgewählte Werke",
+      "Sammlungen",
+      "Künstlergruppen"
+    ]
+  },
+  {
+    "handle": "fukayama-ryudo",
+    "name": "深山 龍洞",
+    "kind": "型D・配列が空＝日本語が残る",
+    "lang": "ja",
+    "ある": true,
+    "見出し": "代表作",
+    "値": "紫式部集抄（東京国立博物館蔵）",
+    "小見出し一覧": [
+      "代表作",
+      "収蔵先・記念館",
+      "所属していた美術団体"
+    ]
+  },
+  {
+    "handle": "fukayama-ryudo",
+    "name": "深山 龍洞",
+    "kind": "型D・配列が空＝日本語が残る",
+    "lang": "en",
+    "ある": true,
+    "見出し": "Selected Works",
+    "値": "紫式部集抄（東京国立博物館蔵）",
+    "小見出し一覧": [
+      "Selected Works",
+      "Collections",
+      "Art Groups"
+    ]
+  },
+  {
+    "handle": "fukayama-ryudo",
+    "name": "深山 龍洞",
+    "kind": "型D・配列が空＝日本語が残る",
+    "lang": "zh-cn",
+    "ある": true,
+    "見出し": "代表作",
+    "値": "紫式部集抄（東京国立博物館蔵）",
+    "小見出し一覧": [
+      "代表作",
+      "收藏机构",
+      "所属团体"
+    ]
+  },
+  {
+    "handle": "fukayama-ryudo",
+    "name": "深山 龍洞",
+    "kind": "型D・配列が空＝日本語が残る",
+    "lang": "zh-tw",
+    "ある": true,
+    "見出し": "代表作",
+    "値": "紫式部集抄（東京国立博物館蔵）",
+    "小見出し一覧": [
+      "代表作",
+      "收藏機構",
+      "所屬團體"
+    ]
+  },
+  {
+    "handle": "fukayama-ryudo",
+    "name": "深山 龍洞",
+    "kind": "型D・配列が空＝日本語が残る",
+    "lang": "ko",
+    "ある": true,
+    "見出し": "대표작",
+    "値": "紫式部集抄（東京国立博物館蔵）",
+    "小見出し一覧": [
+      "대표작",
+      "소장처",
+      "소속 단체"
+    ]
+  },
+  {
+    "handle": "fukayama-ryudo",
+    "name": "深山 龍洞",
+    "kind": "型D・配列が空＝日本語が残る",
+    "lang": "fr",
+    "ある": true,
+    "見出し": "Œuvres choisies",
+    "値": "紫式部集抄（東京国立博物館蔵）",
+    "小見出し一覧": [
+      "Œuvres choisies",
+      "Collections",
+      "Groupes artistiques"
+    ]
+  },
+  {
+    "handle": "fukayama-ryudo",
+    "name": "深山 龍洞",
+    "kind": "型D・配列が空＝日本語が残る",
+    "lang": "es",
+    "ある": true,
+    "見出し": "Obras destacadas",
+    "値": "紫式部集抄（東京国立博物館蔵）",
+    "小見出し一覧": [
+      "Obras destacadas",
+      "Colecciones",
+      "Grupos artísticos"
+    ]
+  },
+  {
+    "handle": "fukayama-ryudo",
+    "name": "深山 龍洞",
+    "kind": "型D・配列が空＝日本語が残る",
+    "lang": "de",
+    "ある": true,
+    "見出し": "Ausgewählte Werke",
+    "値": "紫式部集抄（東京国立博物館蔵）",
+    "小見出し一覧": [
+      "Ausgewählte Werke",
+      "Sammlungen",
+      "Künstlergruppen"
+    ]
+  },
+  {
+    "handle": "kageyama-koyo",
+    "name": "影山 光洋",
+    "kind": "型C・代表作の欄が出ない",
+    "lang": "ja",
+    "ある": false,
+    "見出し": null,
+    "値": null,
+    "小見出し一覧": [
+      "収蔵先・記念館"
+    ]
+  },
+  {
+    "handle": "kageyama-koyo",
+    "name": "影山 光洋",
+    "kind": "型C・代表作の欄が出ない",
+    "lang": "en",
+    "ある": false,
+    "見出し": null,
+    "値": null,
+    "小見出し一覧": [
+      "Collections"
+    ]
+  },
+  {
+    "handle": "kageyama-koyo",
+    "name": "影山 光洋",
+    "kind": "型C・代表作の欄が出ない",
+    "lang": "zh-cn",
+    "ある": false,
+    "見出し": null,
+    "値": null,
+    "小見出し一覧": [
+      "收藏机构"
+    ]
+  },
+  {
+    "handle": "kageyama-koyo",
+    "name": "影山 光洋",
+    "kind": "型C・代表作の欄が出ない",
+    "lang": "zh-tw",
+    "ある": false,
+    "見出し": null,
+    "値": null,
+    "小見出し一覧": [
+      "收藏機構"
+    ]
+  },
+  {
+    "handle": "kageyama-koyo",
+    "name": "影山 光洋",
+    "kind": "型C・代表作の欄が出ない",
+    "lang": "ko",
+    "ある": false,
+    "見出し": null,
+    "値": null,
+    "小見出し一覧": [
+      "소장처"
+    ]
+  },
+  {
+    "handle": "kageyama-koyo",
+    "name": "影山 光洋",
+    "kind": "型C・代表作の欄が出ない",
+    "lang": "fr",
+    "ある": false,
+    "見出し": null,
+    "値": null,
+    "小見出し一覧": [
+      "Collections"
+    ]
+  },
+  {
+    "handle": "kageyama-koyo",
+    "name": "影山 光洋",
+    "kind": "型C・代表作の欄が出ない",
+    "lang": "es",
+    "ある": false,
+    "見出し": null,
+    "値": null,
+    "小見出し一覧": [
+      "Colecciones"
+    ]
+  },
+  {
+    "handle": "kageyama-koyo",
+    "name": "影山 光洋",
+    "kind": "型C・代表作の欄が出ない",
+    "lang": "de",
+    "ある": false,
+    "見出し": null,
+    "値": null,
+    "小見出し一覧": [
+      "Sammlungen"
+    ]
+  }
+]

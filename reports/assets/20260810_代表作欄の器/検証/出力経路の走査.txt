@@ -1,0 +1,45 @@
+テーマ内ファイル総数=529 ／ 走査対象（liquid/json/js）=290
+
+sections/atspect-artist-detail.liquid: 「masterworks」× 8
+    L36: {%- assign masterworks_text = mo.masterworks_text.value -%}
+    L242: {%- if masterworks_text != blank or collection_places != blank or groups != blank -%}
+    L246: {%- if masterworks_text != blank -%}<dt data-aad-i18n="mw">代表作</dt><dd data-aad-prof="masterworks">{{ masterworks_text | escape | newline_to_br }}</dd>{%- endif -%}
+    L669: /* プロフィール値の多言語化：masterworks(配列)/collection/groups を artist_i18n から */
+    L673: if(key==='masterworks'&&Array.isArray(v)){
+sections/atspect-artist-detail.liquid: 「masterworks_text」× 5
+    L36: {%- assign masterworks_text = mo.masterworks_text.value -%}
+    L242: {%- if masterworks_text != blank or collection_places != blank or groups != blank -%}
+    L246: {%- if masterworks_text != blank -%}<dt data-aad-i18n="mw">代表作</dt><dd data-aad-prof="masterworks">{{ masterworks_text | escape | newline_to_br }}</dd>{%- endif -%}
+sections/atspect-artist-detail.liquid: 「data-aad-prof」× 5
+    L246: {%- if masterworks_text != blank -%}<dt data-aad-i18n="mw">代表作</dt><dd data-aad-prof="masterworks">{{ masterworks_text | escape | newline_to_br }}</dd>{%- endif -%}
+    L247: {%- if collection_places != blank -%}<dt data-aad-i18n="cp">収蔵先・記念館</dt><dd data-aad-prof="collection">{{ collection_places | escape | newline_to_br }}</dd>{%- endif -%}
+    L248: {%- if groups != blank -%}<dt data-aad-i18n="gr">所属していた美術団体</dt><dd data-aad-prof="groups">{{ groups | escape | newline_to_br }}</dd>{%- endif -%}
+    L670: root.querySelectorAll('[data-aad-prof]').forEach(function(el){
+    L671: var key=el.getAttribute('data-aad-prof'), v=AAD_DATA[key];
+sections/atspect-artist-detail.liquid: 「代表作」× 15
+    L33: {%- comment %} 画像公開ガード：代表作画像は image_rights.cleared==true（許諾確認済み）でなければ表示しない。物故画像の無断掲載を防ぐ（artist_i18n内に権利メタを保持＝定義40フィールド上限のため） {%- endcomment -%}
+    L114: {%- comment %} ── 代表作キャプションを「タイトル ／ 素材」に分割 ── {%- endcomment -%}
+    L204: <div class="aad-lead__art aad-zoom" role="button" tabindex="0" aria-label="代表作を拡大して見る" data-full="{{ m1_img | image_url: width: 1800 | escape }}">
+    L213: {%- comment %} 代表作2（任意・物故作家も画像を入れられる器）。1点しか無ければ表示されない＝空欄を作らない {%- endcomment -%}
+    L216: <div class="aad-lead__art aad-zoom" role="button" tabindex="0" aria-label="代表作を拡大して見る" data-full="{{ m2_img | image_url: width: 1800 | escape }}">
+    L243: {%- comment %} 親見出し「プロフィール」は削除（略歴と意味重複）。代表作/収蔵先/団体の小見出し(dt)を略歴→功績に続けて直接並べる {%- endcomment -%}
+    L246: {%- if masterworks_text != blank -%}<dt data-aad-i18n="mw">代表作</dt><dd data-aad-prof="masterworks">{{ masterworks_text | escape | newline_to_br }}</dd>{%- endif -%}
+    L342: {%- comment %} 代表作ズーム {%- endcomment -%}
+    L343: <div class="aad-lb" data-aad-lb role="dialog" aria-modal="true" aria-label="代表作の拡大表示"><img data-aad-lbimg alt=""></div>
+    L556: /* 代表作ズーム */
+    L575: /* 代表作ライトボックスの Esc */
+    L614: mw:{'ja':'代表作','en':'Selected Works','zh-cn':'代表作','zh-tw':'代表作','ko':'대표작','fr':'Œuvres choisies','es':'Obras destacadas','de':'Ausgewählte Werke'},
+    L684: /* B案：代表作タイトルも言語連動・単一表示。日本語＝原題（cap-t）／非日本語＝en→romaji（cap-sub）。原題と併記しない。ラテン無ければ原題にフォールバック（cap-t維持） */
+sections/atspect-artist-detail.liquid: 「Selected Works」× 1
+    L614: mw:{'ja':'代表作','en':'Selected Works','zh-cn':'代表作','zh-tw':'代表作','ko':'대표작','fr':'Œuvres choisies','es':'Obras destacadas','de':'Ausgewählte Werke'},
+sections/atspect-artist-detail.liquid: 「대표작」× 1
+    L614: mw:{'ja':'代表作','en':'Selected Works','zh-cn':'代表作','zh-tw':'代表作','ko':'대표작','fr':'Œuvres choisies','es':'Obras destacadas','de':'Ausgewählte Werke'},
+sections/atspect-artist-detail.liquid: 「Ausgewählte Werke」× 1
+    L614: mw:{'ja':'代表作','en':'Selected Works','zh-cn':'代表作','zh-tw':'代表作','ko':'대표작','fr':'Œuvres choisies','es':'Obras destacadas','de':'Ausgewählte Werke'},
+sections/atspect-artist-detail.liquid: 「Œuvres choisies」× 1
+    L614: mw:{'ja':'代表作','en':'Selected Works','zh-cn':'代表作','zh-tw':'代表作','ko':'대표작','fr':'Œuvres choisies','es':'Obras destacadas','de':'Ausgewählte Werke'},
+sections/atspect-artist-detail.liquid: 「Obras destacadas」× 1
+    L614: mw:{'ja':'代表作','en':'Selected Works','zh-cn':'代表作','zh-tw':'代表作','ko':'대표작','fr':'Œuvres choisies','es':'Obras destacadas','de':'Ausgewählte Werke'},
+
+★当たったファイル数＝1
+  - sections/atspect-artist-detail.liquid
