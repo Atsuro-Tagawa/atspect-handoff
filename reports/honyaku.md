@@ -774,3 +774,11 @@ Codexに1言語ずつ独立判定させて確かめました。**
   杉山寧さまの `造形主義` は画風の呼び名の可能性があることを、申し送りに残します。
 
 **次便のカーソル＝`kato-takuo`（189番目）の次から。通読累計＝189名／625名。**
+
+## 第27便＝連続日課 第14束 着手前の先出し宣言（2026-08-10 23:25）
+
+**導線順＝`kato-takuo`（189番目）の次から10名**（190〜199番目）。
+
+加藤 東一（kato-toichi）／加藤 唐九郎（kato-tokuro）／香取 秀真（katori-hotsuma）／香取 正彦（katori-masahiko）／成田 克彦（katsuhiko-narita）／山口 勝弘（katsuhiro-yamaguchi）／勝井 三雄（katsui-mitsuo）／桂 由美（katsura-yumi）／吉田 克朗（katsuro-yoshida）／川端 玉章（kawabata-gyokusho）／
+
+**触る欄＝略歴／一言紹介／功績／所属団体のみ。★代表作欄・鈴木千賀子さまの5欄には触りません。**
