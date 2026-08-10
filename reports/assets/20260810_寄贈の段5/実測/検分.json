@@ -1,0 +1,1189 @@
+{
+  "real404": {
+    "title": "404 Not Found｜あつぺくと",
+    "h1": "お探しのページが見つかりませんでした。",
+    "hasGifts": false,
+    "giftNav": [
+      "none",
+      "none"
+    ]
+  },
+  "scans": [
+    {
+      "lang": "ja",
+      "width": 390,
+      "pass": true,
+      "langOk": true,
+      "hasRoot": true,
+      "chars": 594,
+      "placeholder": "作品名・作家名で検索",
+      "placeholderHasKana": true,
+      "hintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+      "hintHasKana": true,
+      "spanTotal": 192,
+      "spanShown": 24,
+      "banned": [],
+      "cartLinks": [],
+      "links": [
+        "/pages/donation",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy"
+      ],
+      "buttons": [
+        "×",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "送信するSend发送送出보내기EnvoyerEnviarSenden"
+      ],
+      "formActions": [
+        "/contact#atspect-gifts-contact"
+      ],
+      "yenOrPrice": false,
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "giftNavDisplays": [
+        "none",
+        "none"
+      ],
+      "docW": 390,
+      "winW": 390,
+      "overflow": false
+    },
+    {
+      "lang": "ja",
+      "width": 768,
+      "pass": true,
+      "langOk": true,
+      "hasRoot": true,
+      "chars": 594,
+      "placeholder": "作品名・作家名で検索",
+      "placeholderHasKana": true,
+      "hintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+      "hintHasKana": true,
+      "spanTotal": 192,
+      "spanShown": 24,
+      "banned": [],
+      "cartLinks": [],
+      "links": [
+        "/pages/donation",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy"
+      ],
+      "buttons": [
+        "×",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "送信するSend发送送出보내기EnvoyerEnviarSenden"
+      ],
+      "formActions": [
+        "/contact#atspect-gifts-contact"
+      ],
+      "yenOrPrice": false,
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "giftNavDisplays": [
+        "none",
+        "none"
+      ],
+      "docW": 768,
+      "winW": 768,
+      "overflow": false
+    },
+    {
+      "lang": "ja",
+      "width": 1440,
+      "pass": true,
+      "langOk": true,
+      "hasRoot": true,
+      "chars": 594,
+      "placeholder": "作品名・作家名で検索",
+      "placeholderHasKana": true,
+      "hintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+      "hintHasKana": true,
+      "spanTotal": 192,
+      "spanShown": 24,
+      "banned": [],
+      "cartLinks": [],
+      "links": [
+        "/pages/donation",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy"
+      ],
+      "buttons": [
+        "×",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "送信するSend发送送出보내기EnvoyerEnviarSenden"
+      ],
+      "formActions": [
+        "/contact#atspect-gifts-contact"
+      ],
+      "yenOrPrice": false,
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "giftNavDisplays": [
+        "none",
+        "none"
+      ],
+      "docW": 1440,
+      "winW": 1440,
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "pass": true,
+      "langOk": true,
+      "hasRoot": true,
+      "chars": 1176,
+      "placeholder": "Search by title or artist",
+      "placeholderHasKana": false,
+      "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+      "hintHasKana": false,
+      "spanTotal": 192,
+      "spanShown": 24,
+      "banned": [],
+      "cartLinks": [],
+      "links": [
+        "/pages/donation",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy"
+      ],
+      "buttons": [
+        "×",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "送信するSend发送送出보내기EnvoyerEnviarSenden"
+      ],
+      "formActions": [
+        "/contact#atspect-gifts-contact"
+      ],
+      "yenOrPrice": false,
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "giftNavDisplays": [
+        "none",
+        "none"
+      ],
+      "docW": 390,
+      "winW": 390,
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "width": 768,
+      "pass": true,
+      "langOk": true,
+      "hasRoot": true,
+      "chars": 1176,
+      "placeholder": "Search by title or artist",
+      "placeholderHasKana": false,
+      "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+      "hintHasKana": false,
+      "spanTotal": 192,
+      "spanShown": 24,
+      "banned": [],
+      "cartLinks": [],
+      "links": [
+        "/pages/donation",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy"
+      ],
+      "buttons": [
+        "×",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "送信するSend发送送出보내기EnvoyerEnviarSenden"
+      ],
+      "formActions": [
+        "/contact#atspect-gifts-contact"
+      ],
+      "yenOrPrice": false,
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "giftNavDisplays": [
+        "none",
+        "none"
+      ],
+      "docW": 768,
+      "winW": 768,
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "pass": true,
+      "langOk": true,
+      "hasRoot": true,
+      "chars": 1176,
+      "placeholder": "Search by title or artist",
+      "placeholderHasKana": false,
+      "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+      "hintHasKana": false,
+      "spanTotal": 192,
+      "spanShown": 24,
+      "banned": [],
+      "cartLinks": [],
+      "links": [
+        "/pages/donation",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy"
+      ],
+      "buttons": [
+        "×",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "送信するSend发送送出보내기EnvoyerEnviarSenden"
+      ],
+      "formActions": [
+        "/contact#atspect-gifts-contact"
+      ],
+      "yenOrPrice": false,
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "giftNavDisplays": [
+        "none",
+        "none"
+      ],
+      "docW": 1440,
+      "winW": 1440,
+      "overflow": false
+    },
+    {
+      "lang": "zh-cn",
+      "width": 390,
+      "pass": true,
+      "langOk": true,
+      "hasRoot": true,
+      "chars": 500,
+      "placeholder": "按作品名称或艺术家姓名搜索",
+      "placeholderHasKana": false,
+      "hintText": "艺术家姓名可以用罗马字搜索（小写亦可）。",
+      "hintHasKana": false,
+      "spanTotal": 192,
+      "spanShown": 24,
+      "banned": [],
+      "cartLinks": [],
+      "links": [
+        "/pages/donation",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy"
+      ],
+      "buttons": [
+        "×",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "送信するSend发送送出보내기EnvoyerEnviarSenden"
+      ],
+      "formActions": [
+        "/contact#atspect-gifts-contact"
+      ],
+      "yenOrPrice": false,
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "giftNavDisplays": [
+        "none",
+        "none"
+      ],
+      "docW": 390,
+      "winW": 390,
+      "overflow": false
+    },
+    {
+      "lang": "zh-cn",
+      "width": 768,
+      "pass": true,
+      "langOk": true,
+      "hasRoot": true,
+      "chars": 500,
+      "placeholder": "按作品名称或艺术家姓名搜索",
+      "placeholderHasKana": false,
+      "hintText": "艺术家姓名可以用罗马字搜索（小写亦可）。",
+      "hintHasKana": false,
+      "spanTotal": 192,
+      "spanShown": 24,
+      "banned": [],
+      "cartLinks": [],
+      "links": [
+        "/pages/donation",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy"
+      ],
+      "buttons": [
+        "×",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "送信するSend发送送出보내기EnvoyerEnviarSenden"
+      ],
+      "formActions": [
+        "/contact#atspect-gifts-contact"
+      ],
+      "yenOrPrice": false,
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "giftNavDisplays": [
+        "none",
+        "none"
+      ],
+      "docW": 768,
+      "winW": 768,
+      "overflow": false
+    },
+    {
+      "lang": "zh-cn",
+      "width": 1440,
+      "pass": true,
+      "langOk": true,
+      "hasRoot": true,
+      "chars": 500,
+      "placeholder": "按作品名称或艺术家姓名搜索",
+      "placeholderHasKana": false,
+      "hintText": "艺术家姓名可以用罗马字搜索（小写亦可）。",
+      "hintHasKana": false,
+      "spanTotal": 192,
+      "spanShown": 24,
+      "banned": [],
+      "cartLinks": [],
+      "links": [
+        "/pages/donation",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy"
+      ],
+      "buttons": [
+        "×",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "送信するSend发送送出보내기EnvoyerEnviarSenden"
+      ],
+      "formActions": [
+        "/contact#atspect-gifts-contact"
+      ],
+      "yenOrPrice": false,
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "giftNavDisplays": [
+        "none",
+        "none"
+      ],
+      "docW": 1440,
+      "winW": 1440,
+      "overflow": false
+    },
+    {
+      "lang": "zh-tw",
+      "width": 390,
+      "pass": true,
+      "langOk": true,
+      "hasRoot": true,
+      "chars": 495,
+      "placeholder": "依作品名稱或藝術家姓名搜尋",
+      "placeholderHasKana": false,
+      "hintText": "藝術家姓名可以用羅馬字搜尋（小寫亦可）。",
+      "hintHasKana": false,
+      "spanTotal": 192,
+      "spanShown": 24,
+      "banned": [],
+      "cartLinks": [],
+      "links": [
+        "/pages/donation",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy"
+      ],
+      "buttons": [
+        "×",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "送信するSend发送送出보내기EnvoyerEnviarSenden"
+      ],
+      "formActions": [
+        "/contact#atspect-gifts-contact"
+      ],
+      "yenOrPrice": false,
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "giftNavDisplays": [
+        "none",
+        "none"
+      ],
+      "docW": 390,
+      "winW": 390,
+      "overflow": false
+    },
+    {
+      "lang": "zh-tw",
+      "width": 768,
+      "pass": true,
+      "langOk": true,
+      "hasRoot": true,
+      "chars": 495,
+      "placeholder": "依作品名稱或藝術家姓名搜尋",
+      "placeholderHasKana": false,
+      "hintText": "藝術家姓名可以用羅馬字搜尋（小寫亦可）。",
+      "hintHasKana": false,
+      "spanTotal": 192,
+      "spanShown": 24,
+      "banned": [],
+      "cartLinks": [],
+      "links": [
+        "/pages/donation",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy"
+      ],
+      "buttons": [
+        "×",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "送信するSend发送送出보내기EnvoyerEnviarSenden"
+      ],
+      "formActions": [
+        "/contact#atspect-gifts-contact"
+      ],
+      "yenOrPrice": false,
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "giftNavDisplays": [
+        "none",
+        "none"
+      ],
+      "docW": 768,
+      "winW": 768,
+      "overflow": false
+    },
+    {
+      "lang": "zh-tw",
+      "width": 1440,
+      "pass": true,
+      "langOk": true,
+      "hasRoot": true,
+      "chars": 495,
+      "placeholder": "依作品名稱或藝術家姓名搜尋",
+      "placeholderHasKana": false,
+      "hintText": "藝術家姓名可以用羅馬字搜尋（小寫亦可）。",
+      "hintHasKana": false,
+      "spanTotal": 192,
+      "spanShown": 24,
+      "banned": [],
+      "cartLinks": [],
+      "links": [
+        "/pages/donation",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy"
+      ],
+      "buttons": [
+        "×",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "送信するSend发送送出보내기EnvoyerEnviarSenden"
+      ],
+      "formActions": [
+        "/contact#atspect-gifts-contact"
+      ],
+      "yenOrPrice": false,
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "giftNavDisplays": [
+        "none",
+        "none"
+      ],
+      "docW": 1440,
+      "winW": 1440,
+      "overflow": false
+    },
+    {
+      "lang": "ko",
+      "width": 390,
+      "pass": true,
+      "langOk": true,
+      "hasRoot": true,
+      "chars": 624,
+      "placeholder": "작품명 또는 작가 이름으로 검색",
+      "placeholderHasKana": false,
+      "hintText": "작가 이름은 로마자로 검색할 수 있습니다(소문자도 가능합니다).",
+      "hintHasKana": false,
+      "spanTotal": 192,
+      "spanShown": 24,
+      "banned": [],
+      "cartLinks": [],
+      "links": [
+        "/pages/donation",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy"
+      ],
+      "buttons": [
+        "×",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "送信するSend发送送出보내기EnvoyerEnviarSenden"
+      ],
+      "formActions": [
+        "/contact#atspect-gifts-contact"
+      ],
+      "yenOrPrice": false,
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "giftNavDisplays": [
+        "none",
+        "none"
+      ],
+      "docW": 390,
+      "winW": 390,
+      "overflow": false
+    },
+    {
+      "lang": "ko",
+      "width": 768,
+      "pass": true,
+      "langOk": true,
+      "hasRoot": true,
+      "chars": 624,
+      "placeholder": "작품명 또는 작가 이름으로 검색",
+      "placeholderHasKana": false,
+      "hintText": "작가 이름은 로마자로 검색할 수 있습니다(소문자도 가능합니다).",
+      "hintHasKana": false,
+      "spanTotal": 192,
+      "spanShown": 24,
+      "banned": [],
+      "cartLinks": [],
+      "links": [
+        "/pages/donation",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy"
+      ],
+      "buttons": [
+        "×",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "送信するSend发送送出보내기EnvoyerEnviarSenden"
+      ],
+      "formActions": [
+        "/contact#atspect-gifts-contact"
+      ],
+      "yenOrPrice": false,
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "giftNavDisplays": [
+        "none",
+        "none"
+      ],
+      "docW": 768,
+      "winW": 768,
+      "overflow": false
+    },
+    {
+      "lang": "ko",
+      "width": 1440,
+      "pass": true,
+      "langOk": true,
+      "hasRoot": true,
+      "chars": 624,
+      "placeholder": "작품명 또는 작가 이름으로 검색",
+      "placeholderHasKana": false,
+      "hintText": "작가 이름은 로마자로 검색할 수 있습니다(소문자도 가능합니다).",
+      "hintHasKana": false,
+      "spanTotal": 192,
+      "spanShown": 24,
+      "banned": [],
+      "cartLinks": [],
+      "links": [
+        "/pages/donation",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy"
+      ],
+      "buttons": [
+        "×",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "送信するSend发送送出보내기EnvoyerEnviarSenden"
+      ],
+      "formActions": [
+        "/contact#atspect-gifts-contact"
+      ],
+      "yenOrPrice": false,
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "giftNavDisplays": [
+        "none",
+        "none"
+      ],
+      "docW": 1440,
+      "winW": 1440,
+      "overflow": false
+    },
+    {
+      "lang": "fr",
+      "width": 390,
+      "pass": true,
+      "langOk": true,
+      "hasRoot": true,
+      "chars": 1370,
+      "placeholder": "Rechercher par titre ou artiste",
+      "placeholderHasKana": false,
+      "hintText": "Les noms d'artistes peuvent se rechercher en romaji (minuscules acceptées).",
+      "hintHasKana": false,
+      "spanTotal": 192,
+      "spanShown": 24,
+      "banned": [],
+      "cartLinks": [],
+      "links": [
+        "/pages/donation",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy"
+      ],
+      "buttons": [
+        "×",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "送信するSend发送送出보내기EnvoyerEnviarSenden"
+      ],
+      "formActions": [
+        "/contact#atspect-gifts-contact"
+      ],
+      "yenOrPrice": false,
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "giftNavDisplays": [
+        "none",
+        "none"
+      ],
+      "docW": 390,
+      "winW": 390,
+      "overflow": false
+    },
+    {
+      "lang": "fr",
+      "width": 768,
+      "pass": true,
+      "langOk": true,
+      "hasRoot": true,
+      "chars": 1370,
+      "placeholder": "Rechercher par titre ou artiste",
+      "placeholderHasKana": false,
+      "hintText": "Les noms d'artistes peuvent se rechercher en romaji (minuscules acceptées).",
+      "hintHasKana": false,
+      "spanTotal": 192,
+      "spanShown": 24,
+      "banned": [],
+      "cartLinks": [],
+      "links": [
+        "/pages/donation",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy"
+      ],
+      "buttons": [
+        "×",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "送信するSend发送送出보내기EnvoyerEnviarSenden"
+      ],
+      "formActions": [
+        "/contact#atspect-gifts-contact"
+      ],
+      "yenOrPrice": false,
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "giftNavDisplays": [
+        "none",
+        "none"
+      ],
+      "docW": 768,
+      "winW": 768,
+      "overflow": false
+    },
+    {
+      "lang": "fr",
+      "width": 1440,
+      "pass": true,
+      "langOk": true,
+      "hasRoot": true,
+      "chars": 1370,
+      "placeholder": "Rechercher par titre ou artiste",
+      "placeholderHasKana": false,
+      "hintText": "Les noms d'artistes peuvent se rechercher en romaji (minuscules acceptées).",
+      "hintHasKana": false,
+      "spanTotal": 192,
+      "spanShown": 24,
+      "banned": [],
+      "cartLinks": [],
+      "links": [
+        "/pages/donation",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy"
+      ],
+      "buttons": [
+        "×",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "送信するSend发送送出보내기EnvoyerEnviarSenden"
+      ],
+      "formActions": [
+        "/contact#atspect-gifts-contact"
+      ],
+      "yenOrPrice": false,
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "giftNavDisplays": [
+        "none",
+        "none"
+      ],
+      "docW": 1440,
+      "winW": 1440,
+      "overflow": false
+    },
+    {
+      "lang": "es",
+      "width": 390,
+      "pass": true,
+      "langOk": true,
+      "hasRoot": true,
+      "chars": 1337,
+      "placeholder": "Buscar por título o artista",
+      "placeholderHasKana": false,
+      "hintText": "Los nombres de artistas se pueden buscar en romaji (en minúsculas está bien).",
+      "hintHasKana": false,
+      "spanTotal": 192,
+      "spanShown": 24,
+      "banned": [],
+      "cartLinks": [],
+      "links": [
+        "/pages/donation",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy"
+      ],
+      "buttons": [
+        "×",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "送信するSend发送送出보내기EnvoyerEnviarSenden"
+      ],
+      "formActions": [
+        "/contact#atspect-gifts-contact"
+      ],
+      "yenOrPrice": false,
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "giftNavDisplays": [
+        "none",
+        "none"
+      ],
+      "docW": 390,
+      "winW": 390,
+      "overflow": false
+    },
+    {
+      "lang": "es",
+      "width": 768,
+      "pass": true,
+      "langOk": true,
+      "hasRoot": true,
+      "chars": 1337,
+      "placeholder": "Buscar por título o artista",
+      "placeholderHasKana": false,
+      "hintText": "Los nombres de artistas se pueden buscar en romaji (en minúsculas está bien).",
+      "hintHasKana": false,
+      "spanTotal": 192,
+      "spanShown": 24,
+      "banned": [],
+      "cartLinks": [],
+      "links": [
+        "/pages/donation",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy"
+      ],
+      "buttons": [
+        "×",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "送信するSend发送送出보내기EnvoyerEnviarSenden"
+      ],
+      "formActions": [
+        "/contact#atspect-gifts-contact"
+      ],
+      "yenOrPrice": false,
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "giftNavDisplays": [
+        "none",
+        "none"
+      ],
+      "docW": 768,
+      "winW": 768,
+      "overflow": false
+    },
+    {
+      "lang": "es",
+      "width": 1440,
+      "pass": true,
+      "langOk": true,
+      "hasRoot": true,
+      "chars": 1337,
+      "placeholder": "Buscar por título o artista",
+      "placeholderHasKana": false,
+      "hintText": "Los nombres de artistas se pueden buscar en romaji (en minúsculas está bien).",
+      "hintHasKana": false,
+      "spanTotal": 192,
+      "spanShown": 24,
+      "banned": [],
+      "cartLinks": [],
+      "links": [
+        "/pages/donation",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy"
+      ],
+      "buttons": [
+        "×",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "送信するSend发送送出보내기EnvoyerEnviarSenden"
+      ],
+      "formActions": [
+        "/contact#atspect-gifts-contact"
+      ],
+      "yenOrPrice": false,
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "giftNavDisplays": [
+        "none",
+        "none"
+      ],
+      "docW": 1440,
+      "winW": 1440,
+      "overflow": false
+    },
+    {
+      "lang": "de",
+      "width": 390,
+      "pass": true,
+      "langOk": true,
+      "hasRoot": true,
+      "chars": 1309,
+      "placeholder": "Nach Titel oder Künstler suchen",
+      "placeholderHasKana": false,
+      "hintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+      "hintHasKana": false,
+      "spanTotal": 192,
+      "spanShown": 24,
+      "banned": [],
+      "cartLinks": [],
+      "links": [
+        "/pages/donation",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy"
+      ],
+      "buttons": [
+        "×",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "送信するSend发送送出보내기EnvoyerEnviarSenden"
+      ],
+      "formActions": [
+        "/contact#atspect-gifts-contact"
+      ],
+      "yenOrPrice": false,
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "giftNavDisplays": [
+        "none",
+        "none"
+      ],
+      "docW": 390,
+      "winW": 390,
+      "overflow": false
+    },
+    {
+      "lang": "de",
+      "width": 768,
+      "pass": true,
+      "langOk": true,
+      "hasRoot": true,
+      "chars": 1309,
+      "placeholder": "Nach Titel oder Künstler suchen",
+      "placeholderHasKana": false,
+      "hintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+      "hintHasKana": false,
+      "spanTotal": 192,
+      "spanShown": 24,
+      "banned": [],
+      "cartLinks": [],
+      "links": [
+        "/pages/donation",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy"
+      ],
+      "buttons": [
+        "×",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "送信するSend发送送出보내기EnvoyerEnviarSenden"
+      ],
+      "formActions": [
+        "/contact#atspect-gifts-contact"
+      ],
+      "yenOrPrice": false,
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "giftNavDisplays": [
+        "none",
+        "none"
+      ],
+      "docW": 768,
+      "winW": 768,
+      "overflow": false
+    },
+    {
+      "lang": "de",
+      "width": 1440,
+      "pass": true,
+      "langOk": true,
+      "hasRoot": true,
+      "chars": 1309,
+      "placeholder": "Nach Titel oder Künstler suchen",
+      "placeholderHasKana": false,
+      "hintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+      "hintHasKana": false,
+      "spanTotal": 192,
+      "spanShown": 24,
+      "banned": [],
+      "cartLinks": [],
+      "links": [
+        "/pages/donation",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy",
+        "/pages/privacy"
+      ],
+      "buttons": [
+        "×",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "寄贈のご相談Enquire about a donation关于捐赠的咨询捐贈諮詢기증 문의Nous contacter au sujet d'un donConsulta sobre la donaciónAnfrage zur Schenkung",
+        "送信するSend发送送出보내기EnvoyerEnviarSenden"
+      ],
+      "formActions": [
+        "/contact#atspect-gifts-contact"
+      ],
+      "yenOrPrice": false,
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "giftNavDisplays": [
+        "none",
+        "none"
+      ],
+      "docW": 1440,
+      "winW": 1440,
+      "overflow": false
+    }
+  ],
+  "empty": [
+    {
+      "lang": "ja",
+      "hasRoot": true,
+      "cards": 0,
+      "preparing": "寄贈をご検討の作品は、現在ご紹介の準備中です。",
+      "formPresent": false
+    },
+    {
+      "lang": "en",
+      "hasRoot": true,
+      "cards": 0,
+      "preparing": "The presentation of works being considered for donation is currently being prepared.",
+      "formPresent": false
+    }
+  ],
+  "ask": {
+    "found": true,
+    "target": "夏の記憶／見本 太郎",
+    "subject": "寄贈のご相談：夏の記憶／見本 太郎",
+    "targetReadonly": true,
+    "formAction": "https://atspect.com/contact#atspect-gifts-contact"
+  },
+  "ng": []
+}
