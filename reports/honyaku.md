@@ -314,3 +314,10 @@ Codexに1言語ずつ独立判定させて確かめました。**
 （`genpei-akasegawa` `gocho-shigeo` `gokura-senjin` `goseda-yoshimatsu` `goto-sumio` `haga-hideo` `hamada-chimei` `hamada-shoji` `hamaya-hiroshi` `hanamori-yasuji`）
 
 **触る欄＝略歴／一言紹介／功績／所属団体の7言語の訳文のみ。★代表作欄（masterworks）には触りません。**
+
+## ★第15便 完了（2026-08-10 19:15）
+
+工程1＝型1の残存確認（Codex独立判定で**本当の断片0欄**）／工程2＝連続日課第2束10名・44置換／35箇所。
+②走査枠＝韓国語の肩書きの分かち書きを全625名走査し**台帳違反0件**（型として成立せず＝台帳の議題へ起票）。
+記録＝`reports/assets/20260810e_翻訳品質_第15便/第15便_記録.md`
+★**次便のカーソル＝`hanamori-yasuji`（79番目）の次から。**
