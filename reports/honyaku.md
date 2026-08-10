@@ -245,3 +245,24 @@ higashiyama-kaii kayama-matazo hirayama-ikuo tanaka-isson takahashi-sadatsugu ya
 ```
 hara-hiromu awazu-kiyoshi tanaka-ikko nobuo-sekine yamana-ayao yorozu-tetsugoro hidai-nankoku
 ```
+
+---
+
+# 第14便＝連続日課（第1束）着手前の先出し宣言（2026-08-10 15:00／翻訳品質T／model=Opus 5）
+
+**導線順＝`fukuda-shigeo`（59番目）の次から10名**（60〜69番目）。
+
+| # | handle | 作家 |
+|---|---|---|
+| 60 | `fukuda-toyoshiro` | 福田 豊四郎 さま |
+| 61 | `fukuhara-roso` | 福原 路草 さま |
+| 62 | `fukuhara-shinzo` | 福原 信三 さま |
+| 63 | `fukuoji-horin` | 福王寺 法林 さま |
+| 64 | `fukushima-hideko` | 福島 秀子 さま |
+| 65 | `fukushima-kikujiro` | 福島 菊次郎 さま |
+| 66 | `fukuzawa-ichiro` | 福沢 一郎 さま |
+| 67 | `funakoshi-yasutake` | 舟越 保武 さま |
+| 68 | `fusen-tetsu` | 不染 鉄 さま |
+| 69 | `futagawa-yukio` | 二川 幸夫 さま |
+
+**触る欄＝略歴／一言紹介／功績／所属団体の7言語の訳文のみ。★代表作欄（masterworks）には触りません。**
