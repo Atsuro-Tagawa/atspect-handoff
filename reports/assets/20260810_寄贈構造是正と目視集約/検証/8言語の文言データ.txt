@@ -1,0 +1,170 @@
+/* 段5＝寄贈の一覧（/pages/gifts）の文言データ。
+   ★方針＝新しい訳をできるだけ増やさない。既に本番で使われ、Codexの通読を通した訳はそのまま写す（reused: true）。
+     新しく作った訳（reused: false）だけを、各言語の読者としてCodexに通読させる。
+   ★写した元：
+     - donation-works（作家ページの寄贈枠・2026-08-08 反映済み）＝h1 / lead / cond / visit / aboutLink
+     - donation（説明ページ・2026-08-08 反映済み）＝note
+     - artist-archive（統合検索・2026-08-09 反映済み）＝searchPh / searchHint
+     - collection（作品一覧・反映済み）＝none
+     - contact（お問い合わせ・反映済み）＝form* 一式
+   ★zh-cn「作品捐赠」/ zh-tw「作品捐贈」＝寄贈の呼称は一次資料が未確認の暫定。
+     本ページは非公開のまま置くため、暫定のまま公開対象にはならない。 */
+
+export const LANGS = ["ja", "en", "zh-cn", "zh-tw", "ko", "fr", "es", "de"];
+
+export const T = {
+  /* ── 写した訳（本番で使用中・通読済み） ───────────────────────── */
+  /* ★2026-08-10（代表決定・構造是正）＝「検討」はもう通過している。見出しを
+     「寄贈のご相談を承っている作品」の趣旨に変えた。7言語ともCodexの関所を通した
+     （en・zh-cn は指摘を受けて差し替え＝「受け取る側からの相談」だと分かる言い方に）。 */
+  h1: { reused: false, v: {
+    ja: "寄贈のご相談を承っている作品", en: "Works Available for Donation",
+    "zh-cn": "可洽谈捐赠事宜的作品", "zh-tw": "正在接受捐贈諮詢的作品", ko: "기증 문의를 받고 있는 작품",
+    fr: "Œuvres proposées au don", es: "Obras disponibles para donación",
+    de: "Werke, die zur Schenkung stehen" } },
+
+  /* ★★一覧の冒頭の一文＝確定の核（2026-08-09決定）。**日本語は一字一句そのまま。変更禁止。**
+     募集ではなく「当社が選んでご紹介している」というキュレーションの宣言。 */
+  lead: { reused: false, v: {
+    ja: "あつぺくとが後世に繋ぎたいと願う作品を、ご紹介しています。",
+    en: "We present works that ATSPECT wishes to pass on to future generations.",
+    "zh-cn": "我们介绍 ATSPECT 希望传承给后世的作品。",
+    "zh-tw": "我們介紹 ATSPECT 希望傳承給後世的作品。",
+    ko: "ATSPECT가 후세에 전하고 싶은 작품을 소개하고 있습니다.",
+    fr: "Nous présentons les œuvres qu'ATSPECT souhaite transmettre aux générations futures.",
+    es: "Presentamos las obras que ATSPECT desea transmitir a las generaciones futuras.",
+    de: "Wir stellen Werke vor, die ATSPECT an künftige Generationen weitergeben möchte." } },
+
+  cond: { reused: "donation-works の条件行", v: {
+    ja: "条件：個別にご相談ください", en: "Terms: to be discussed individually",
+    "zh-cn": "条件：请个别商议", "zh-tw": "條件：請個別商議", ko: "조건: 개별적으로 상담해 주십시오",
+    fr: "Conditions&nbsp;: à examiner au cas par cas", es: "Condiciones: a tratar de forma individual",
+    de: "Konditionen: im Einzelfall zu besprechen" } },
+
+  visit: { reused: "donation-works / donation の一行", v: {
+    ja: "実物のご確認を歓迎します。ご相談ください。",
+    en: "You are most welcome to see the work in person. Please get in touch.",
+    "zh-cn": "欢迎您实地查看实物。敬请与我们联系。", "zh-tw": "歡迎您實地查看實物。敬請與我們聯繫。",
+    ko: "실물 확인을 환영합니다. 문의해 주십시오.",
+    fr: "Nous vous invitons volontiers à voir l'œuvre sur place. N'hésitez pas à nous contacter.",
+    es: "Le invitamos con gusto a ver la obra en persona. Póngase en contacto con nosotros.",
+    de: "Sie sind herzlich eingeladen, das Werk vor Ort zu sehen. Bitte sprechen Sie uns an." } },
+
+  aboutLink: { reused: "donation-works のリンク文言", v: {
+    ja: "寄贈の取り組みについて", en: "About our approach to donations",
+    "zh-cn": "关于捐赠的相关事宜", "zh-tw": "關於捐贈的相關事宜", ko: "기증에 관한 안내",
+    fr: "Notre démarche en matière de don", es: "Nuestro planteamiento sobre las donaciones",
+    de: "Unser Vorgehen bei Schenkungen" } },
+
+  note: { reused: "donation の非保証の一文", v: {
+    ja: "行き先が見つかることをお約束するものではありません。ご相談の結果は、施設さまのご検討によります。",
+    en: "This is not a promise that a destination will be found. The outcome of an enquiry rests on the institution's own consideration.",
+    "zh-cn": "我们并不承诺一定能为作品找到去处。咨询的结果取决于机构方的考虑与判断。",
+    "zh-tw": "我們並不承諾一定能為作品找到去處。諮詢的結果取決於機構方的考慮與判斷。",
+    ko: "갈 곳을 찾아 드린다고 약속하는 것은 아닙니다. 상담의 결과는 시설의 검토에 달려 있습니다.",
+    fr: "Il ne s'agit pas d'une promesse qu'une destination sera trouvée. L'issue d'une demande dépend de l'examen mené par l'institution.",
+    es: "Esto no constituye una promesa de que se encontrará un destino. El resultado de una consulta depende del estudio que realice la institución.",
+    de: "Dies ist kein Versprechen, dass sich ein Ort finden wird. Das Ergebnis einer Anfrage hängt von der Prüfung durch die Einrichtung ab." } },
+
+  searchPh: { reused: "artist-archive の検索窓", v: {
+    ja: "作品名・作家名で検索", en: "Search by title or artist",
+    "zh-cn": "按作品名称或艺术家姓名搜索", "zh-tw": "依作品名稱或藝術家姓名搜尋",
+    ko: "작품명 또는 작가 이름으로 검색", fr: "Rechercher par titre ou artiste",
+    es: "Buscar por título o artista", de: "Nach Titel oder Künstler suchen" } },
+
+  searchHint: { reused: "artist-archive の注記", v: {
+    ja: "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+    en: "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "zh-cn": "艺术家姓名可以用罗马字搜索（小写亦可）。", "zh-tw": "藝術家姓名可以用羅馬字搜尋（小寫亦可）。",
+    ko: "작가 이름은 로마자로 검색할 수 있습니다(소문자도 가능합니다).",
+    fr: "Les noms d'artistes peuvent se rechercher en romaji (minuscules acceptées).",
+    es: "Los nombres de artistas se pueden buscar en romaji (en minúsculas está bien).",
+    de: "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt)." } },
+
+  none: { reused: "collection の0件文言", v: {
+    ja: "条件に一致する作品が見つかりませんでした。", en: "No artworks match your criteria.",
+    "zh-cn": "没有符合条件的作品。", "zh-tw": "沒有符合條件的作品。", ko: "조건에 맞는 작품이 없습니다.",
+    fr: "Aucune œuvre ne correspond à vos critères.", es: "No hay obras que coincidan con los criterios.",
+    de: "Keine Werke entsprechen Ihren Kriterien." } },
+
+  fName: { reused: "contact のお名前", v: {
+    ja: "お名前", en: "Name", "zh-cn": "姓名", "zh-tw": "姓名", ko: "성함",
+    fr: "Nom", es: "Nombre", de: "Name" } },
+  fOrg: { reused: "contact の会社・団体名", v: {
+    ja: "会社・団体名", en: "Company / organisation", "zh-cn": "公司・团体名称", "zh-tw": "公司・團體名稱",
+    ko: "회사・단체명", fr: "Société / organisation", es: "Empresa u organización", de: "Firma / Organisation" } },
+  fEmail: { reused: "contact のメール", v: {
+    ja: "メールアドレス", en: "Email", "zh-cn": "电子邮箱", "zh-tw": "電子郵件", ko: "이메일 주소",
+    fr: "Adresse e-mail", es: "Correo electrónico", de: "E-Mail-Adresse" } },
+  fBody: { reused: "contact のお問い合わせ内容", v: {
+    ja: "お問い合わせ内容", en: "Message", "zh-cn": "咨询内容", "zh-tw": "諮詢內容", ko: "문의 내용",
+    fr: "Message", es: "Mensaje", de: "Nachricht" } },
+  fSubmit: { reused: "contact の送信ボタン", v: {
+    ja: "送信する", en: "Send", "zh-cn": "发送", "zh-tw": "送出", ko: "보내기",
+    fr: "Envoyer", es: "Enviar", de: "Senden" } },
+  fErr: { reused: "contact のエラー文", v: {
+    ja: "入力内容をご確認ください。", en: "Please check your entries.", "zh-cn": "请检查输入内容。",
+    "zh-tw": "請檢查輸入內容。", ko: "입력 내용을 확인해 주세요.", fr: "Veuillez vérifier votre saisie.",
+    es: "Por favor, revise los datos introducidos.", de: "Bitte überprüfen Sie Ihre Eingaben." } },
+  fOkT: { reused: "contact の送信完了（見出し）", v: {
+    ja: "送信が完了しました", en: "Your message has been sent.", "zh-cn": "已成功发送", "zh-tw": "已成功送出",
+    ko: "전송이 완료되었습니다", fr: "Votre message a bien été envoyé.", es: "Su mensaje ha sido enviado.",
+    de: "Ihre Nachricht wurde gesendet." } },
+  fOkB: { reused: "contact の送信完了（本文）", v: {
+    ja: "お問い合わせありがとうございます。担当者よりご連絡いたします。",
+    en: "Thank you for contacting us. We will get back to you shortly.",
+    "zh-cn": "感谢您的咨询。负责人将尽快与您联系。", "zh-tw": "感謝您的諮詢。負責人將盡快與您聯繫。",
+    ko: "문의해 주셔서 감사합니다. 담당자가 연락드리겠습니다.",
+    fr: "Merci de nous avoir contactés. Nous vous répondrons rapidement.",
+    es: "Gracias por contactarnos. Nos pondremos en contacto con usted en breve.",
+    de: "Vielen Dank für Ihre Nachricht. Wir melden uns in Kürze bei Ihnen." } },
+
+  /* ── 新しく作った訳（★Codexの通読が必要） ─────────────────────── */
+  /* ★2026-08-10 Codex（各言語の読者として通読）の指摘を反映済み。
+     反映の方針＝指摘の要点だけを採る。案文をまるごと貼らない。
+     ・en の preparing は「will be listed here soon」を提案されたが、**時期の約束は書かない**方針のため採らず、
+       「ご紹介（presentation）が準備中」という要点だけを採った。
+     ・ko は既存ページが「相談＝문의」で統一されているとの指摘に合わせ、상담→문의 に統一した。
+     ・zh-cn と zh-tw で giftAsk の言い回しが揃っていないのは、各言語の読者として独立に判定した結果
+       （zh-cn は現案でOK・zh-tw は短く硬くない形へ）。無理に片方へ寄せていない。 */
+  giftAsk: { reused: false, v: {
+    ja: "寄贈のご相談", en: "Enquire about a donation",
+    "zh-cn": "关于捐赠的咨询", "zh-tw": "捐贈諮詢", ko: "기증 문의",
+    fr: "Nous contacter au sujet d'un don", es: "Consulta sobre la donación", de: "Anfrage zur Schenkung" } },
+
+  targetWork: { reused: false, v: {
+    ja: "対象の作品", en: "Work",
+    "zh-cn": "咨询的作品", "zh-tw": "諮詢對象作品", ko: "대상 작품",
+    fr: "Œuvre concernée", es: "Obra en cuestión", de: "Betreffendes Werk" } },
+
+  targetHelp: { reused: false, v: {
+    ja: "上の一覧で「寄贈のご相談」を押すと、この欄に作品名と作家名が入ります。",
+    en: "When you select “Enquire about a donation” from the list above, the work's title and artist's name will appear here.",
+    "zh-cn": "在上方列表中点击“关于捐赠的咨询”后，作品名称与艺术家姓名会自动填入此栏。",
+    "zh-tw": "在上方列表中點選「捐贈諮詢」後，作品名稱與藝術家姓名會自動填入此欄。",
+    ko: "위 목록에서 ‘기증 문의’를 누르시면 이 칸에 작품명과 작가명이 입력됩니다.",
+    fr: "Lorsque vous cliquez sur «&nbsp;Nous contacter au sujet d'un don&nbsp;» dans la liste ci-dessus, le titre de l'œuvre et le nom de l'artiste s'affichent dans ce champ.",
+    es: "Al pulsar «Consulta sobre la donación» en la lista anterior, este campo se rellenará con el título de la obra y el nombre del artista.",
+    de: "Wenn Sie in der Liste oben „Anfrage zur Schenkung“ wählen, werden hier der Titel des Werkes und der Name der Künstlerin oder des Künstlers eingetragen." } },
+
+  /* ★7言語すべてで同じ誤りを指摘された＝「作品そのものが準備中」と読める形になっていた。
+     原文の意味は「作品のご紹介が準備中」。8言語すべてを直した。 */
+  preparing: { reused: false, v: {
+    ja: "寄贈のご相談を承っている作品は、現在ご紹介の準備中です。",
+    en: "Information about works available for donation is currently being prepared.",
+    "zh-cn": "可洽谈捐赠事宜的作品，其相关介绍目前正在准备中。", "zh-tw": "目前正準備介紹可洽詢捐贈事宜的作品。",
+    ko: "기증 문의를 받고 있는 작품은 현재 작품 소개를 준비 중입니다.",
+    fr: "La présentation des œuvres proposées au don est en cours de préparation.",
+    es: "La presentación de las obras disponibles para donación está actualmente en preparación.",
+    de: "Die Vorstellung der Werke, die zur Schenkung stehen, wird derzeit vorbereitet." } },
+
+  formLead: { reused: false, v: {
+    ja: "この作品について、下のフォームからご相談を承ります。窓口は『あつぺくと』です。",
+    en: "You are welcome to enquire about this work using the form below. ATSPECT is your point of contact.",
+    "zh-cn": "关于这件作品，请通过下方表单向 ATSPECT 咨询。",
+    "zh-tw": "關於這件作品，您可以透過下方的表單向我們諮詢。窗口為 ATSPECT。",
+    ko: "이 작품에 관한 문의는 아래 양식을 통해 받습니다. 문의 창구는 ATSPECT입니다.",
+    fr: "Pour toute question concernant cette œuvre, contactez-nous à l'aide du formulaire ci-dessous. Votre interlocuteur est ATSPECT.",
+    es: "Puede dirigirnos su consulta sobre esta obra mediante el formulario que figura a continuación. ATSPECT es su punto de contacto.",
+    de: "Über das untenstehende Formular können Sie uns Ihre Anfrage zu diesem Werk senden. ATSPECT ist Ihr Ansprechpartner." } },
+};
