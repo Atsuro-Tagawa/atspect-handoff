@@ -321,3 +321,13 @@ Codexに1言語ずつ独立判定させて確かめました。**
 ②走査枠＝韓国語の肩書きの分かち書きを全625名走査し**台帳違反0件**（型として成立せず＝台帳の議題へ起票）。
 記録＝`reports/assets/20260810e_翻訳品質_第15便/第15便_記録.md`
 ★**次便のカーソル＝`hanamori-yasuji`（79番目）の次から。**
+
+## 第16便＝連続日課 第3束 着手前の先出し宣言（2026-08-10 19:25／翻訳品質T／model=Opus 5）
+
+**導線順＝`hanamori-yasuji`（79番目）の次から10名**（80〜89番目）。
+
+原弘／原田直次郎／原田治／橋口五葉／橋本雅邦／橋本平八／橋本関雪／橋本明治／蓮田修吾郎／羽田登喜男 の各さま
+（`hara-hiromu` `harada-naojiro` `harada-osamu` `hashiguchi-goyo` `hashimoto-gaho` `hashimoto-heihachi` `hashimoto-kansetsu` `hashimoto-meiji` `hasuda-shugoro` `hata-tokio`）
+
+**触る欄＝略歴／一言紹介／功績／所属団体の7言語の訳文のみ。★代表作欄には触りません。**
+★**鈴木千賀子さま（現存作家）の5欄は引き続き保留のままにします。**
