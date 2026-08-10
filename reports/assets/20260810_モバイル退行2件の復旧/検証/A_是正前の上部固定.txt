@@ -1,0 +1,39 @@
+# 上部固定の切り分け https://atspect.com/pages/artist/suzuki-chikako?lang=ja
+
+## scrollY=0（画面高 844）
+  見える <div class="shopify-section shopify-section-group-header-group"> sticky top=auto 上0 下65 高65 透明度1 変形none z=3
+  見えない <div class="aad-minibar"> fixed top=40px 上0 下0 高0 透明度1 変形none z=50
+  見えない <div class="aad-wlb"> fixed top=0px 上0 下0 高0 透明度1 変形none z=9000
+  見えない <div class="aad-lb"> fixed top=0px 上0 下0 高0 透明度1 変形none z=9000
+  見えない <div class="aad-qr"> fixed top=0px 上0 下0 高0 透明度1 変形none z=9100
+  見える <div class="atspect-lang-toast is-on"> fixed top=715.812px 上716 下826 高110 透明度1 変形あり z=1200
+  見える <button class=""> fixed top=764px 上772 下824 高52 透明度0 変形あり z=100
+  見えない <div class=""> fixed top=0px 上0 下0 高0 透明度1 変形none z=-100
+
+## scrollY=400（画面高 844）
+  見えない <div class="shopify-section shopify-section-group-header-group"> sticky top=-65px 上-65 下0 高65 透明度1 変形none z=3
+  見える <div class="aad-minibar is-on"> fixed top=40px 上40 下78 高38 透明度1 変形none z=50
+  見えない <div class="aad-wlb"> fixed top=0px 上0 下0 高0 透明度1 変形none z=9000
+  見えない <div class="aad-lb"> fixed top=0px 上0 下0 高0 透明度1 変形none z=9000
+  見えない <div class="aad-qr"> fixed top=0px 上0 下0 高0 透明度1 変形none z=9100
+  見える <div class="atspect-lang-toast"> fixed top=715.812px 上724 下834 高110 透明度0.317693 変形あり z=1200
+  見える <button class=""> fixed top=764px 上772 下824 高52 透明度0 変形あり z=100
+  見えない <div class=""> fixed top=0px 上0 下0 高0 透明度1 変形none z=-100
+
+## scrollY=1200（画面高 844）
+  見えない <div class="shopify-section shopify-section-group-header-group"> sticky top=-65px 上-65 下0 高65 透明度1 変形none z=3
+  見える <div class="aad-minibar is-on"> fixed top=40px 上40 下78 高38 透明度1 変形none z=50
+  見えない <div class="aad-wlb"> fixed top=0px 上0 下0 高0 透明度1 変形none z=9000
+  見えない <div class="aad-lb"> fixed top=0px 上0 下0 高0 透明度1 変形none z=9000
+  見えない <div class="aad-qr"> fixed top=0px 上0 下0 高0 透明度1 変形none z=9100
+  見える <button class=""> fixed top=764px 上764 下816 高52 透明度1 変形あり z=100
+  見えない <div class=""> fixed top=0px 上0 下0 高0 透明度1 変形none z=-100
+
+## scrollY=2400（画面高 844）
+  見えない <div class="shopify-section shopify-section-group-header-group"> sticky top=-65px 上-65 下0 高65 透明度1 変形none z=3
+  見える <div class="aad-minibar is-on"> fixed top=40px 上40 下78 高38 透明度1 変形none z=50
+  見えない <div class="aad-wlb"> fixed top=0px 上0 下0 高0 透明度1 変形none z=9000
+  見えない <div class="aad-lb"> fixed top=0px 上0 下0 高0 透明度1 変形none z=9000
+  見えない <div class="aad-qr"> fixed top=0px 上0 下0 高0 透明度1 変形none z=9100
+  見える <button class=""> fixed top=764px 上764 下816 高52 透明度1 変形あり z=100
+  見えない <div class=""> fixed top=0px 上0 下0 高0 透明度1 変形none z=-100
