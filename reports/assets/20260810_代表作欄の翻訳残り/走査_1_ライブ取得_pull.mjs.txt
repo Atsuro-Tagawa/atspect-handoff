@@ -1,0 +1,61 @@
+/* 読み取り専用：ライブ(Shopify metaobject:artist)の全件を取得して生JSONで保存する。書き込みは一切しない。 */
+import { readFileSync, writeFileSync } from 'node:fs';
+
+function loadEnv() {
+  const env = {};
+  for (const p of ['C:/Users/ataga/atspect-system/.env', 'C:/Users/ataga/atspect-theme/.env']) {
+    try {
+      for (const line of readFileSync(p, 'utf8').split(/\r?\n/)) {
+        const m = line.match(/^\s*([A-Z0-9_]+)\s*=\s*(.*)\s*$/);
+        if (!m) continue;
+        let v = m[2].trim();
+        if ((v.startsWith('"') && v.endsWith('"')) || (v.startsWith("'") && v.endsWith("'"))) v = v.slice(1, -1);
+        if (env[m[1]] === undefined || env[m[1]] === '') env[m[1]] = v;
+      }
+    } catch {}
+  }
+  return env;
+}
+const ENV = loadEnv();
+const STORE = ENV.SHOPIFY_STORE || 'arts-respcet.myshopify.com';
+const API_VERSION = ENV.SHOPIFY_API_VERSION || '2026-07';
+const TOKEN = ENV.SHOPIFY_ADMIN_API_TOKEN;
+if (!TOKEN) { console.error('[ERROR] トークンが読めません'); process.exit(1); }
+
+async function gql(query, variables = {}) {
+  for (let attempt = 0; attempt < 5; attempt++) {
+    const res = await fetch(`https://${STORE}/admin/api/${API_VERSION}/graphql.json`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'X-Shopify-Access-Token': TOKEN },
+      body: JSON.stringify({ query, variables }),
+    });
+    const json = await res.json();
+    if (json.errors?.some(e => e.extensions?.code === 'THROTTLED')) { await new Promise(r => setTimeout(r, 2000 * (attempt + 1))); continue; }
+    if (json.errors?.length) throw new Error('GraphQL: ' + json.errors.map(e => e.message).join(' / '));
+    return json.data;
+  }
+  throw new Error('throttled');
+}
+
+const Q = `query ($cursor: String) {
+  metaobjects(type: "artist", first: 100, after: $cursor) {
+    pageInfo { hasNextPage endCursor }
+    nodes { id handle fields { key value } }
+  }
+}`;
+
+const out = [];
+let cursor = null;
+for (;;) {
+  const d = await gql(Q, { cursor });
+  for (const n of d.metaobjects.nodes) {
+    const f = {};
+    for (const x of n.fields) f[x.key] = x.value;
+    out.push({ gid: n.id, handle: n.handle, fields: f });
+  }
+  if (!d.metaobjects.pageInfo.hasNextPage) break;
+  cursor = d.metaobjects.pageInfo.endCursor;
+}
+writeFileSync(process.argv[2], JSON.stringify(out, null, 1), 'utf8');
+console.log(`取得件数=${out.length} → ${process.argv[2]}`);
+console.log('取得時刻(ローカル)=' + new Date().toString());

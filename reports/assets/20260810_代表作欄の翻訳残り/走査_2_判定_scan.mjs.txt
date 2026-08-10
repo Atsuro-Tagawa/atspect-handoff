@@ -1,0 +1,109 @@
+/* 読み取り専用：ライブ取得済みJSONから「代表作欄が、そのページの言語で表示されているか」を8言語×全作家で判定する。
+   テーマ atspect-artist-detail.liquid の実装をそのまま再現する（L246 SSR / L657-665 JS上書き）。 */
+import { readFileSync, writeFileSync } from 'node:fs';
+
+const LANGS = ['ja', 'en', 'zh-cn', 'zh-tw', 'ko', 'fr', 'es', 'de'];
+const rows = JSON.parse(readFileSync(process.argv[2], 'utf8'));
+
+/* テーマ L619 */
+function aadPick(obj, lang) { if (!obj) return ''; const u = String(lang).replace('-', '_'); return obj[lang] || obj[u] || obj['en'] || obj['ja'] || ''; }
+
+/* テーマ L658-665 を再現。戻り値＝{text, src} src=画面に出た値の出どころ */
+function rendered(i18n, masterworksText, lang) {
+  const ssr = (masterworksText || '').trim();
+  if (!ssr) return { text: '', src: '欄そのものが出ない(SSRが空)' };   // L246：masterworks_text が空だと dd 要素ごと出力されない
+  const v = i18n ? i18n.masterworks : undefined;
+  if (!v) return { text: ssr, src: 'SSRのまま(artist_i18n.masterworks が無い)' };
+  if (Array.isArray(v)) {
+    const sep = (lang === 'ja') ? '、' : ', ';
+    const picks = [];
+    for (const w of v) {
+      if (lang === 'ja') { const t = (w && (w.ja || w.en)); if (t) picks.push({ t, k: w.ja ? 'ja' : 'en' }); }
+      else { const t = (w && (w.en || w.romaji || w.ja)); if (t) picks.push({ t, k: w.en ? 'en' : (w.romaji ? 'romaji' : 'ja') }); }
+    }
+    if (!picks.length) return { text: ssr, src: 'SSRのまま(配列が空)' };
+    const ks = [...new Set(picks.map(p => p.k))].join('+');
+    return { text: picks.map(p => p.t).join(sep), src: '配列→' + ks };
+  }
+  if (typeof v === 'object') {
+    const u = String(lang).replace('-', '_');
+    const t = aadPick(v, lang);
+    if (!t) return { text: ssr, src: 'SSRのまま(オブジェクトが空)' };
+    const k = v[lang] ? lang : (v[u] ? u : (v['en'] ? 'en' : 'ja'));
+    return { text: t, src: 'オブジェクト→' + k };
+  }
+  return { text: ssr, src: 'SSRのまま(想定外の型)' };
+}
+
+/* 文字種の判定（内容そのものから見る＝構造だけで決めない） */
+/* ★カタカナ中黒「・」U+30FB はカタカナブロックに入っているが中国語の並列記号としても使われる。
+   これを かな とみなすと簡体字・繁体字の正しい訳文を「日本語のまま」と誤検出する（初回実行で13件の誤検出が出た）。
+   よって U+30FB を除外する。長音符 U+30FC は残す。 */
+const reKana = /[ぁ-ゖァ-ヺー-ヿ]/;   // ひらがな・カタカナ（・を除く）
+const reHan = /[一-鿿㐀-䶿]/;          // 漢字
+const reHangul = /[가-힯ᄀ-ᇿ]/;       // ハングル
+const reLatin = /[A-Za-z]/;
+/* 簡体/繁体の判別に使う、実データに出る対の一部（両方に無い場合は不明とする） */
+function scriptOf(s) {
+  const has = { kana: reKana.test(s), han: reHan.test(s), hangul: reHangul.test(s), latin: reLatin.test(s) };
+  if (has.hangul) return 'ハングル';
+  if (has.kana) return '日本語(かな)';
+  if (has.han && !has.latin) return '漢字のみ';
+  if (has.han && has.latin) return '漢字＋ラテン';
+  if (has.latin) return 'ラテン';
+  return '判別不能';
+}
+
+const out = [];
+for (const r of rows) {
+  let i18n = null; try { i18n = JSON.parse(r.fields.artist_i18n || 'null'); } catch { }
+  const mwText = r.fields.masterworks_text || '';
+  const jaRef = rendered(i18n, mwText, 'ja').text;
+  const enRef = rendered(i18n, mwText, 'en').text;
+  for (const lang of LANGS) {
+    const { text, src } = rendered(i18n, mwText, lang);
+    const sc = scriptOf(text);
+    let verdict = 'OK', why = '';
+    if (!text) { verdict = '欄なし'; why = src; }
+    else if (lang === 'ja') { verdict = (sc === 'ラテン') ? 'NG' : 'OK'; if (verdict === 'NG') why = '英語のまま'; }
+    else if (lang === 'en') { verdict = (sc === 'ラテン' || sc === '漢字＋ラテン') ? 'OK' : 'NG'; if (verdict === 'NG') why = (sc === '日本語(かな)' || sc === '漢字のみ') ? '日本語のまま' : 'その他(' + sc + ')'; }
+    else if (lang === 'ko') {
+      if (sc === 'ハングル') verdict = 'OK';
+      else { verdict = 'NG'; why = (text === enRef && sc === 'ラテン') ? '英語のまま' : (sc === 'ラテン' ? 'ラテン文字のまま' : ((sc === '日本語(かな)' || sc === '漢字のみ' || sc === '漢字＋ラテン') ? '日本語のまま' : 'その他(' + sc + ')')); }
+    }
+    else if (lang === 'zh-cn' || lang === 'zh-tw') {
+      /* ★中国語の訳文は固有名詞として日本語のかな（例＝大学セミナーハウス）を残すことがある。
+         かなが1字でも出たらNGにすると正しい訳文を誤検出するので、
+         ①日本語の値とそのまま同一か ②かなの比率が高いか の2点で見る。 */
+      const kana = (text.match(/[ぁ-ゖァ-ヺー-ヿ]/g) || []).length;
+      const ratio = kana / Math.max(1, text.length);
+      if (text === jaRef) { verdict = 'NG'; why = '日本語のまま'; }
+      else if (text === enRef) { verdict = 'NG'; why = '英語のまま'; }
+      else if (sc === 'ラテン') { verdict = 'NG'; why = 'ラテン文字のまま'; }
+      else if (ratio >= 0.05) { verdict = 'NG'; why = '日本語のまま(かな比率' + (ratio * 100).toFixed(1) + '%)'; }
+      else if (sc === '漢字のみ' || sc === '漢字＋ラテン' || sc === '日本語(かな)') verdict = 'OK';
+      else { verdict = 'NG'; why = 'その他(' + sc + ')'; }
+    }
+    else { /* fr / es / de */
+      if (sc === 'ラテン') { verdict = (text === enRef) ? 'NG' : 'OK'; if (verdict === 'NG') why = '英語のまま'; }
+      else { verdict = 'NG'; why = (sc === '日本語(かな)' || sc === '漢字のみ' || sc === '漢字＋ラテン') ? '日本語のまま' : 'その他(' + sc + ')'; }
+    }
+    out.push({ handle: r.handle, name: r.fields.name_ja || '', lang, verdict, why, src, script: sc, text });
+  }
+}
+writeFileSync(process.argv[3], JSON.stringify(out, null, 1), 'utf8');
+
+/* 集計を画面に出す */
+const byLang = {};
+for (const o of out) {
+  byLang[o.lang] ||= { OK: 0, NG: 0, 欄なし: 0, 内訳: {} };
+  byLang[o.lang][o.verdict]++;
+  if (o.verdict === 'NG') byLang[o.lang].内訳[o.why] = (byLang[o.lang].内訳[o.why] || 0) + 1;
+}
+console.log('作家数=' + rows.length + '  判定セル数=' + out.length);
+for (const l of LANGS) console.log(l.padEnd(6), 'OK=' + String(byLang[l].OK).padStart(4), 'NG=' + String(byLang[l].NG).padStart(4), '欄なし=' + String(byLang[l].欄なし).padStart(3), JSON.stringify(byLang[l].内訳));
+const ngArtists = new Set(out.filter(o => o.verdict === 'NG').map(o => o.handle));
+console.log('NGを1言語でも持つ作家さま=' + ngArtists.size);
+const srcCount = {};
+for (const o of out) srcCount[o.src] = (srcCount[o.src] || 0) + 1;
+console.log('出どころ別（セル数）', srcCount);
