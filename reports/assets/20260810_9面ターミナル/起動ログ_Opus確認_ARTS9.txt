@@ -1,0 +1,14 @@
+﻿[2026-08-10T10:39:26.9237272+09:00] launch start window=ARTS9-edc19969205e4728ad4e0091bb50b463
+[2026-08-10T10:39:26.9998317+09:00] ok: wt -w ARTS9-edc19969205e4728ad4e0091bb50b463 -M new-tab -p {a7599999-0000-0000-0000-000000000001} --title あつぺくと制作 --suppressApplicationTitle
+[2026-08-10T10:39:29.4890357+09:00] ok: wt -w ARTS9-edc19969205e4728ad4e0091bb50b463 split-pane -V -s 0.667 -p {a7599999-0000-0000-0000-000000000004} --title あつぺくとリサーチ --suppressApplicationTitle
+[2026-08-10T10:39:30.4597527+09:00] ok: wt -w ARTS9-edc19969205e4728ad4e0091bb50b463 split-pane -V -s 0.5 -p {a7599999-0000-0000-0000-000000000003} --title あつぺくとシステム開発 --suppressApplicationTitle
+[2026-08-10T10:39:31.4213000+09:00] ok: wt -w ARTS9-edc19969205e4728ad4e0091bb50b463 split-pane -H -s 0.667 -p {a7599999-0000-0000-0000-000000000009} --title あつぺくと翻訳品質 --suppressApplicationTitle
+[2026-08-10T10:39:32.3916918+09:00] ok: wt -w ARTS9-edc19969205e4728ad4e0091bb50b463 split-pane -H -s 0.5 -p {a7599999-0000-0000-0000-000000000008} --title 紙紋特許 --suppressApplicationTitle
+[2026-08-10T10:39:33.3687651+09:00] ok: wt -w ARTS9-edc19969205e4728ad4e0091bb50b463 move-focus left
+[2026-08-10T10:39:34.3549332+09:00] ok: wt -w ARTS9-edc19969205e4728ad4e0091bb50b463 split-pane -H -s 0.667 -p {a7599999-0000-0000-0000-000000000006} --title SNS運用 --suppressApplicationTitle
+[2026-08-10T10:39:35.3484559+09:00] ok: wt -w ARTS9-edc19969205e4728ad4e0091bb50b463 split-pane -H -s 0.5 -p {a7599999-0000-0000-0000-000000000007} --title 紙紋UI --suppressApplicationTitle
+[2026-08-10T10:39:36.3797756+09:00] ok: wt -w ARTS9-edc19969205e4728ad4e0091bb50b463 move-focus left
+[2026-08-10T10:39:37.4238683+09:00] ok: wt -w ARTS9-edc19969205e4728ad4e0091bb50b463 split-pane -H -s 0.667 -p {a7599999-0000-0000-0000-000000000005} --title あつぺくと営業戦略 --suppressApplicationTitle
+[2026-08-10T10:39:38.4621813+09:00] ok: wt -w ARTS9-edc19969205e4728ad4e0091bb50b463 split-pane -H -s 0.5 -p {a7599999-0000-0000-0000-000000000002} --title コーポサイト制作 --suppressApplicationTitle
+[2026-08-10T10:39:39.6155551+09:00] ok: wt -w ARTS9-edc19969205e4728ad4e0091bb50b463 move-focus first
+[2026-08-10T10:39:40.5282053+09:00] launch finished OK
