@@ -230,3 +230,11 @@ amemiya-keiko suwa-sozan uno-soyo yamada-hikaru tokuda-yasokichi taira-toshiko y
 yamazaki-kakutaro katori-masahiko eri-sayoko iizuka-shokansai ono-showasai nakadai-zuishin noguchi-mitsuhiko amata-akitsugu
 osumi-toshihira katayama-tokuma seike-kiyoshi maki-fumihiko yoshizaka-takamasa kishida-hideto
 ```
+
+## ★追加宣言（第13便 第2束＝型1の残り・確定分）2026-08-10 14:40
+
+**触る欄＝`viewpoint`（功績）の1文目のみ。35欄・16名。**
+```
+higashiyama-kaii kayama-matazo hirayama-ikuo tanaka-isson takahashi-sadatsugu yamana-ayao kamekura-yusaku ekuan-kenji nobuo-sekine toshimitsu-imai nakagawa-kigen sato-taisei sasamura-sokajin rokkaku-shisui saji-tadasu ito-chuta
+```
+★**Codexに残量211件を1言語ずつ判定させ、「文として完成していない」と出た49欄だけを対象にしました**（残りは当Tの検出器の誤検出）。
