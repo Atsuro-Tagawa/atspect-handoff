@@ -1,0 +1,50 @@
+テーマ内ファイル総数=529 ／ 走査対象（liquid/json/js）=290
+[クラス] sections/atspect-artist-archive.liquid: none-hint × 5
+[クラス] sections/atspect-artist-archive.liquid: aad-arch__hint × 2
+★[同じ文が2回以上] sections/atspect-artist-archive.liquid: 「読みがな（ひらがな）でも検索可能です」× 3
+★[同じ文が2回以上] sections/atspect-artist-archive.liquid: 「can be searched in romaji」× 2
+★[同じ文が2回以上] sections/atspect-artist-archive.liquid: 「可以用罗马字搜索」× 2
+★[同じ文が2回以上] sections/atspect-artist-archive.liquid: 「可以用羅馬字搜尋」× 2
+★[同じ文が2回以上] sections/atspect-artist-archive.liquid: 「로마자로 검색할 수 있습니다」× 2
+★[同じ文が2回以上] sections/atspect-artist-archive.liquid: 「se rechercher en romaji」× 2
+★[同じ文が2回以上] sections/atspect-artist-archive.liquid: 「se pueden buscar en romaji」× 2
+★[同じ文が2回以上] sections/atspect-artist-archive.liquid: 「in Romaji gesucht werden」× 2
+[クラス] sections/atspect-collection.liquid: no-results-hint × 5
+[クラス] sections/atspect-collection.liquid: searchbar-hint × 2
+★[同じ文が2回以上] sections/atspect-collection.liquid: 「読みがな（ひらがな）でも検索可能です」× 3
+[文] sections/atspect-collection.liquid: 「can be searched in romaji」× 1
+[文] sections/atspect-collection.liquid: 「可以用罗马字搜索」× 1
+[文] sections/atspect-collection.liquid: 「可以用羅馬字搜尋」× 1
+[文] sections/atspect-collection.liquid: 「로마자로 검색할 수 있습니다」× 1
+[文] sections/atspect-collection.liquid: 「se rechercher en romaji」× 1
+[文] sections/atspect-collection.liquid: 「se pueden buscar en romaji」× 1
+[文] sections/atspect-collection.liquid: 「in Romaji gesucht werden」× 1
+[クラス] sections/atspect-gifts.liquid: none-hint × 3
+[クラス] sections/atspect-gifts.liquid: atspect-gifts__hint × 2
+★[同じ文が2回以上] sections/atspect-gifts.liquid: 「読みがな（ひらがな）でも検索可能です」× 2
+★[同じ文が2回以上] sections/atspect-gifts.liquid: 「can be searched in romaji」× 2
+★[同じ文が2回以上] sections/atspect-gifts.liquid: 「可以用罗马字搜索」× 2
+★[同じ文が2回以上] sections/atspect-gifts.liquid: 「可以用羅馬字搜尋」× 2
+★[同じ文が2回以上] sections/atspect-gifts.liquid: 「로마자로 검색할 수 있습니다」× 2
+★[同じ文が2回以上] sections/atspect-gifts.liquid: 「se rechercher en romaji」× 2
+★[同じ文が2回以上] sections/atspect-gifts.liquid: 「se pueden buscar en romaji」× 2
+★[同じ文が2回以上] sections/atspect-gifts.liquid: 「in Romaji gesucht werden」× 2
+
+★同じ文が1ファイル内に2回以上出るもの＝17 件
+  - sections/atspect-artist-archive.liquid: 「読みがな（ひらがな）でも検索可能です」が 3 回
+  - sections/atspect-artist-archive.liquid: 「can be searched in romaji」が 2 回
+  - sections/atspect-artist-archive.liquid: 「可以用罗马字搜索」が 2 回
+  - sections/atspect-artist-archive.liquid: 「可以用羅馬字搜尋」が 2 回
+  - sections/atspect-artist-archive.liquid: 「로마자로 검색할 수 있습니다」が 2 回
+  - sections/atspect-artist-archive.liquid: 「se rechercher en romaji」が 2 回
+  - sections/atspect-artist-archive.liquid: 「se pueden buscar en romaji」が 2 回
+  - sections/atspect-artist-archive.liquid: 「in Romaji gesucht werden」が 2 回
+  - sections/atspect-collection.liquid: 「読みがな（ひらがな）でも検索可能です」が 3 回
+  - sections/atspect-gifts.liquid: 「読みがな（ひらがな）でも検索可能です」が 2 回
+  - sections/atspect-gifts.liquid: 「can be searched in romaji」が 2 回
+  - sections/atspect-gifts.liquid: 「可以用罗马字搜索」が 2 回
+  - sections/atspect-gifts.liquid: 「可以用羅馬字搜尋」が 2 回
+  - sections/atspect-gifts.liquid: 「로마자로 검색할 수 있습니다」が 2 回
+  - sections/atspect-gifts.liquid: 「se rechercher en romaji」が 2 回
+  - sections/atspect-gifts.liquid: 「se pueden buscar en romaji」が 2 回
+  - sections/atspect-gifts.liquid: 「in Romaji gesucht werden」が 2 回

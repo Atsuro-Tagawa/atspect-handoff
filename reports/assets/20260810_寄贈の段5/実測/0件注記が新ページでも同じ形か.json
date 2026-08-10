@@ -1,0 +1,62 @@
+[
+  {
+    "lang": "ja",
+    "width": 390,
+    "expectNoneHint": true,
+    "pass": true,
+    "mado": true,
+    "uke": true,
+    "chokka": true,
+    "cards": 0
+  },
+  {
+    "lang": "de",
+    "width": 390,
+    "expectNoneHint": true,
+    "pass": true,
+    "mado": true,
+    "uke": true,
+    "chokka": true,
+    "cards": 0
+  },
+  {
+    "lang": "ja",
+    "width": 768,
+    "expectNoneHint": false,
+    "pass": true,
+    "mado": true,
+    "uke": true,
+    "chokka": false,
+    "cards": 0
+  },
+  {
+    "lang": "de",
+    "width": 768,
+    "expectNoneHint": false,
+    "pass": true,
+    "mado": true,
+    "uke": true,
+    "chokka": false,
+    "cards": 0
+  },
+  {
+    "lang": "ja",
+    "width": 1440,
+    "expectNoneHint": false,
+    "pass": true,
+    "mado": true,
+    "uke": true,
+    "chokka": false,
+    "cards": 0
+  },
+  {
+    "lang": "de",
+    "width": 1440,
+    "expectNoneHint": false,
+    "pass": true,
+    "mado": true,
+    "uke": true,
+    "chokka": false,
+    "cards": 0
+  }
+]
