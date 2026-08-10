@@ -1,0 +1,74 @@
+/* CSV正本の「対象1行の、指定した欄だけ」を差し替える。
+   ★他の行はもちろん、同じ行の他の欄も1バイト触らない（引用符の付き方も元のまま保つ）。
+   使い方: node csv-set3.mjs <入力CSV> <出力先> <作家名(日本語)> <列名>=<新値> ... */
+import { readFileSync, writeFileSync } from 'node:fs';
+
+const [inPath, outPath, targetName, ...pairs] = process.argv.slice(2);
+const raw = readFileSync(inPath, 'utf8');
+const bom = raw.startsWith('﻿') ? '﻿' : '';
+const body = raw.replace(/^﻿/, '');
+
+/* 行を、生の文字列のまま切り出す（引用符の中の改行を考慮） */
+function splitRowsRaw(t) {
+  const rows = []; let q = false, start = 0;
+  for (let i = 0; i < t.length; i++) {
+    const c = t[i];
+    if (c === '"') { if (q && t[i + 1] === '"') i++; else q = !q; }
+    else if (c === '\n' && !q) { rows.push({ raw: t.slice(start, i + 1), start, end: i + 1 }); start = i + 1; }
+  }
+  if (start < t.length) rows.push({ raw: t.slice(start), start, end: t.length });
+  return rows;
+}
+/* 1行の中の、欄の生の文字列の範囲を返す */
+function fieldSpans(line) {
+  const spans = []; let q = false, s = 0;
+  for (let i = 0; i < line.length; i++) {
+    const c = line[i];
+    if (c === '"') { if (q && line[i + 1] === '"') i++; else q = !q; }
+    else if (c === ',' && !q) { spans.push([s, i]); s = i + 1; }
+    else if ((c === '\r' || c === '\n') && !q) { spans.push([s, i]); s = -1; break; }
+  }
+  if (s >= 0) spans.push([s, line.length]);
+  return spans;
+}
+const unq = v => v.startsWith('"') && v.endsWith('"') ? v.slice(1, -1).replace(/""/g, '"') : v;
+const norm = s => String(s || '').replace(/[\s　]/g, '');
+
+const rows = splitRowsRaw(body);
+const headSpans = fieldSpans(rows[0].raw);
+const head = headSpans.map(([a, b]) => unq(rows[0].raw.slice(a, b)).replace(/^﻿/, ''));
+
+const targets = pairs.map(p => {
+  const i = p.indexOf('='); const col = p.slice(0, i), val = p.slice(i + 1);
+  const ci = head.indexOf(col);
+  if (ci < 0) { console.error(`[停止] 列が見つかりません: ${col}`); process.exit(1); }
+  return { col, ci, val };
+});
+
+const hits = [];
+for (let r = 1; r < rows.length; r++) {
+  const sp = fieldSpans(rows[r].raw);
+  if (sp.length < 2) continue;
+  if (norm(unq(rows[r].raw.slice(sp[1][0], sp[1][1]))) === norm(targetName)) hits.push({ r, sp });
+}
+if (hits.length !== 1) { console.error(`[停止] 対象行が ${hits.length} 件（1件でないと流しません）`); process.exit(1); }
+const { r: ri, sp } = hits[0];
+const line = rows[ri].raw;
+
+/* 元の欄が引用符付きだったかを見て、同じ流儀で書く */
+let newLine = line;
+const edits = targets.map(t => ({ ...t, span: sp[t.ci] })).sort((a, b) => b.span[0] - a.span[0]);
+for (const e of edits) {
+  const oldRaw = line.slice(e.span[0], e.span[1]);
+  const wasQuoted = oldRaw.startsWith('"');
+  const needQuote = /[",\r\n]/.test(e.val);
+  const newRaw = (wasQuoted || needQuote) ? '"' + e.val.replace(/"/g, '""') + '"' : e.val;
+  console.log(`[${targetName}] 行${ri + 1} 列「${e.col}」`);
+  console.log(`   旧(生): ${JSON.stringify(oldRaw)}`);
+  console.log(`   新(生): ${JSON.stringify(newRaw)}`);
+  newLine = newLine.slice(0, e.span[0]) + newRaw + newLine.slice(e.span[1]);
+}
+
+const out = bom + body.slice(0, rows[ri].start) + newLine + body.slice(rows[ri].end);
+writeFileSync(outPath, out, 'utf8');
+console.log(`[出力] ${outPath}  全体の長さ ${raw.length} → ${out.length} 文字`);
