@@ -131,3 +131,54 @@ yoshizaka-takamasa imai-kenji kurokawa-kisho shinohara-kazuo azuma-takamitsu tsu
 shirai-seiichi yamaguchi-bunzo ikebe-kiyoshi nishizawa-fumitaka
 
 ★**鈴木千賀子さま（現存作家）は対象外**＝時制の扱いが違うため、機械の一括からは外して保留に記録します。
+
+## ★追加宣言（第12便 工程2b＝型1・功績）2026-08-10 13:35／翻訳品質T／model=Opus 5
+
+**触る欄＝`viewpoint`（功績）の1文目のみ。言語＝en / fr / es / de / ko。1,131欄・317名。**
+代表作欄・収蔵先欄・肩書き欄・略歴・日本語原文には触りません。
+
+```
+hayami-gyoshu nakamura-gakuryo kawabata-ryushi yokoyama-misao takeuchi-seiho kikuchi-keigetsu nishiyama-suisho murakami-kagaku
+ono-chikkyo irie-hako sakakibara-shiho domoto-insho tokuoka-shinsen yamaguchi-kayo nishimura-goun nakamura-daizaburo
+hashimoto-kansetsu kitano-tsunetomi kainosho-tadaoto ito-shinsui kawai-gyokudo katayama-nampu yamaguchi-hoshun gokura-senjin
+kawasaki-shoko kodama-kibo fukuda-toyoshiro yoshioka-kenji sugiyama-yasushi takayama-tatsuo hashimoto-meiji moriya-tadashi
+kataoka-tamako ogura-yuki ikeda-yoson iwahashi-eien tanaka-isson uemura-shoko goto-sumio maruki-toshi
+nakamura-masayoshi fusen-tetsu goseda-yoshimatsu yamamoto-hosui harada-naojiro kume-keiichiro okada-saburosuke sakamoto-hanjiro
+nakamura-tsune yorozu-tetsugoro kimura-shohachi sekine-shoji murayama-kaita saeki-yuzo maeda-kanji koide-narashige
+suda-kunitaro kuniyoshi-yasuo koga-harue migishi-kotaro migishi-setsuko hayashi-takeshi nakagawa-kazumasa kojima-zenzaburo
+inokuma-genichiro kazuki-yasuo matsumoto-shunsuke togo-seiji kumagai-morikazu aso-saburo tsuruoka-masao yamashita-kikuji
+kamoi-rei tanaka-yasushi nakamura-fusetsu hidai-tenrai bundo-shunkai tsujimoto-shiyu suzuki-suiken nishikawa-yasushi
+hibino-goho aoyama-san-u ueda-sokyu kaneko-otei matsumoto-hosui hidai-nankoku kawamura-kizan uno-setsuson
+sumiyama-nanboku murakami-santo hirotsu-unsen kobayashi-toan sugioka-kason onoe-saishu iijima-shunkei kumagai-tsuneko
+kuwata-sasafune tanaka-kaido nakabayashi-gochiku kusakabe-meikaku yamaoka-tesshu kitaoji-rosanjin sakaki-bakuzan takamura-kotaro
+kitamura-seibo sato-gengyo hashimoto-heihachi nakahara-teijiro tobari-kogan ishii-tsuruzo yonehara-unkai yamazaki-choun
+tatehata-taimu kitamura-shikai naito-shin shimizu-takashi kinouchi-yoshi sato-churyo funakoshi-yasutake yanagihara-yoshitatsu
+hongo-shin sawada-seiko entsuba-katsuzo yodoi-toshio kikuchi-kazuo takata-hiroatsu hori-shinji sakurai-yuichi
+yamamoto-toyoichi horiuchi-masakazu mukai-ryokichi ueki-shigeru iida-yoshikuni wakabayashi-isamu nagare-masayuki isamu-noguchi
+kinoshita-shigeru kasagi-sueo yasuda-ryumon itaya-hazan tomimoto-kenkichi kawai-kanjiro kaneshige-toyo ishiguro-munemaro
+kato-hajime kusube-yaichi kawakita-handeishi miwa-kyuwa miwa-jusetsu yamamoto-toshu kondo-yuzo shimizu-uichi
+kato-takuo tsukamoto-kaiji matsui-kosei shimaoka-tatsuzo kato-kozo kamoda-shoji yagi-kazuo serizawa-keisuke
+inagaki-toshijiro kimura-uzan ueno-tameji moriguchi-kako komiya-kosuke komiya-yasutaka munehiro-rikizo kamakura-yoshitaro
+tatsumura-heizo matsuda-gonroku takano-shozan otomaru-kodo masumura-mashiki terai-naoji taguchi-yoshikuni oba-shogyo
+shioda-keishiro kuroda-tatsuaki himi-kodo katori-hotsuma takamura-toyochika sasaki-shodo unno-kiyoshi naito-shiro
+kashima-ikkoku sekiya-shiro hasuda-shugoro shono-shounsai iizuka-rokansai hirata-goyo hori-ryujo kagoshima-juzo
+kagami-kozo namikawa-yasuyuki namikawa-sosuke miyairi-yukihira sumitani-masamine tomishige-rihei fukuhara-shinzo nojima-yasuzo
+yasui-nakaji horino-masao domon-ken natori-yonosuke hamaya-hiroshi kuwabara-kineo otsuji-kiyoji nakahira-takuma
+ishimoto-yasuhiro maeda-shinzo kamekura-yusaku tanaka-ikko hayakawa-yoshio hanamori-yasuji kenmochi-isamu yanagi-sori
+miyake-issey jiro-yoshihara hisao-domoto yasunao-tone araki-kanpo terazaki-kogyo hirafuku-hyakusui yamamoto-shunkyo
+konoshima-okoku minami-kunzo kurata-hakuyo morita-tsunetomo kosugi-hoan kawashima-riichiro tsuda-seifu masamune-tokusaburo
+kuroda-jutaro nakayama-takashi hayashi-shigeyoshi ihara-usaburo osawa-shosuke okuda-genso kato-eizo fukuoji-horin
+nakamura-teii iwasaki-hajin shinkai-takezo miki-sosaku numata-ichiga hinago-jitsuzo takeishi-kozaburo fujikawa-yuzo
+nakamura-naondo kitamura-haruyoshi tada-minami tsuchitani-takeshi azuma-kenjiro eguchi-shu suwa-sozan ito-tozan
+uno-soyo kato-tokuro kawamoto-goro yamada-hikaru kumakura-junkichi tokuda-yasokichi kitamura-takeshi yamada-mitsugi
+hata-tokio taira-toshiko yonamine-sada kodama-hiroshi nambu-yoshimatsu isoi-joshin isoi-masami saji-tadasu
+katori-masahiko eri-sayoko iizuka-shokansai ono-showasai nakadai-zuishin noguchi-mitsuhiko osumi-toshihira fukuhara-roso
+sonobe-kiyoshi nishikawa-shundo niwa-kaikaku matsui-joryu nakamura-sodo namai-shika takagi-seikaku morita-shiryu
+naito-rune tatsuno-kingo ito-chuta katayama-tokuma tange-kenzo seike-kiyoshi isozaki-arata maki-fumihiko
+uchida-yoshikazu murano-togo maekawa-kunio yoshida-isoya taniguchi-yoshiro sano-toshikata kikutake-kiyonori ashihara-yoshinobu
+otaka-masato sakakura-junzo yoshizaka-takamasa imai-kenji kurokawa-kisho shinohara-kazuo azuma-takamitsu tsuchiura-kameki
+kishida-hideto shirai-seiichi yamaguchi-bunzo ikebe-kiyoshi nishizawa-fumitaka
+```
+
+★**性別は当該作家自身の他言語データ（仏 Un/Une・独 Ein/Eine・中国語 他/她・英語の代名詞）から判定し、
+信号が食い違う／無い45件は当てずに飛ばしました**（外からの推測はしていません）。
