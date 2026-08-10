@@ -1,0 +1,30 @@
+テーマ内ファイル総数=529 ／ 走査対象（liquid/json/js）=290
+
+[②語＝romaji を挟む三段落ち（Liquid）] sections/atspect-artist-archive.liquid L92
+    {%- assign w_latin = w_pi.title.en | default: w_pi.title.romaji | default: wp.title -%}
+[①旧い式そのもの] sections/atspect-artist-detail.liquid L681
+    ja以外  … w.en || w.romaji || w.ja        （従来どおり）
+[①旧い式そのもの] sections/atspect-artist-detail.liquid L689
+    return (lang==='ja')?(w.ja||w.en):(w.en||w.romaji||w.ja);
+[②語＝romaji を挟む三段落ち（JS）] sections/atspect-artist-detail.liquid L681
+    ja以外  … w.en || w.romaji || w.ja        （従来どおり）
+[②語＝romaji を挟む三段落ち（JS）] sections/atspect-artist-detail.liquid L689
+    return (lang==='ja')?(w.ja||w.en):(w.en||w.romaji||w.ja);
+[②語＝romaji を挟む三段落ち（JS）] sections/atspect-artist-detail.liquid L708
+    var wlatin=w.title?(w.title.en||w.title.romaji||''):'';
+[②語＝romaji を挟む三段落ち（Liquid）] sections/atspect-artist-detail.liquid L302
+    {%- assign wp_latin = wp_pi.title.en | default: wp_pi.title.romaji | default: wp.title -%}
+[③言語を見ずにラテンへ落とす形] sections/atspect-artist-detail.liquid L689
+    return (lang==='ja')?(w.ja||w.en):(w.en||w.romaji||w.ja);
+[②語＝romaji を挟む三段落ち（Liquid）] sections/atspect-artwork-detail.liquid L95
+    {%- assign title_latin = pi.title.en | default: pi.title.romaji | default: product.title -%}
+[②語＝romaji を挟む三段落ち（Liquid）] sections/atspect-collection.liquid L317
+    {%- assign card_latin = card_pi.title.en | default: card_pi.title.romaji | default: product.title -%}
+[②語＝romaji を挟む三段落ち（Liquid）] sections/atspect-collector-cta.liquid L55
+    {%- assign c_latin = cpi.title.en | default: cpi.title.romaji | default: product.title -%}
+[②語＝romaji を挟む三段落ち（Liquid）] sections/atspect-search.liquid L91
+    {%- assign sr_latin = sr_pi.title.en | default: sr_pi.title.romaji | default: result.title -%}
+[②語＝romaji を挟む三段落ち（Liquid）] snippets/atspect-wishlist-button.liquid L12
+    assign w_latin = wpi.title.en | default: wpi.title.romaji | default: p.title
+
+★当たり＝13 行（当たり＝欠陥ではない。意図した設計かどうかは行を読んで判定する）
