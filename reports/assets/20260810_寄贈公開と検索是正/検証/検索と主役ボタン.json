@@ -1,0 +1,523 @@
+[
+  {
+    "lang": "ja",
+    "ok": true,
+    "タブ数": 2,
+    "タブの文字": [
+      "作家",
+      "作品"
+    ],
+    "選ばれているタブ": [
+      "artists"
+    ],
+    "ariaSelected": [
+      "true",
+      "false"
+    ],
+    "索引が見える": true,
+    "索引の文字数": 11,
+    "索引の中身": [
+      "ALL",
+      "あ",
+      "か",
+      "さ",
+      "た",
+      "な",
+      "は",
+      "ま",
+      "や",
+      "ら",
+      "わ"
+    ],
+    "見出し": "作家と作品を探す",
+    "説明文": "作家名を入力するか、ジャンルのボタンをお選びください。作品もご覧いただけます。",
+    "注記": "※作家名は、よみがな（ひらがな）やローマ字でも検索できます",
+    "検索窓の文字": "作家名で検索"
+  },
+  {
+    "lang": "en",
+    "ok": true,
+    "タブ数": 2,
+    "タブの文字": [
+      "Artists",
+      "Works"
+    ],
+    "選ばれているタブ": [
+      "artists"
+    ],
+    "ariaSelected": [
+      "true",
+      "false"
+    ],
+    "索引が見える": true,
+    "索引の文字数": 27,
+    "索引の中身": [
+      "ALL",
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "J",
+      "K",
+      "L",
+      "M",
+      "N",
+      "O",
+      "P",
+      "Q",
+      "R",
+      "S",
+      "T",
+      "U",
+      "V",
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ],
+    "見出し": "Find Artists & Works",
+    "説明文": "Enter an artist’s name, or choose a genre button. Works are also shown.",
+    "注記": "Artist names can be searched in romaji (lowercase is fine).",
+    "検索窓の文字": "Search by artist"
+  },
+  {
+    "lang": "zh-cn",
+    "ok": true,
+    "タブ数": 2,
+    "タブの文字": [
+      "艺术家",
+      "作品"
+    ],
+    "選ばれているタブ": [
+      "artists"
+    ],
+    "ariaSelected": [
+      "true",
+      "false"
+    ],
+    "索引が見える": true,
+    "索引の文字数": 27,
+    "索引の中身": [
+      "ALL",
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "J",
+      "K",
+      "L",
+      "M",
+      "N",
+      "O",
+      "P",
+      "Q",
+      "R",
+      "S",
+      "T",
+      "U",
+      "V",
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ],
+    "見出し": "查找艺术家与作品",
+    "説明文": "请输入艺术家姓名，或选择门类按钮。也可浏览作品。",
+    "注記": "艺术家姓名可以用罗马字搜索（小写亦可）。",
+    "検索窓の文字": "按艺术家姓名搜索"
+  },
+  {
+    "lang": "zh-tw",
+    "ok": true,
+    "タブ数": 2,
+    "タブの文字": [
+      "藝術家",
+      "作品"
+    ],
+    "選ばれているタブ": [
+      "artists"
+    ],
+    "ariaSelected": [
+      "true",
+      "false"
+    ],
+    "索引が見える": true,
+    "索引の文字数": 27,
+    "索引の中身": [
+      "ALL",
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "J",
+      "K",
+      "L",
+      "M",
+      "N",
+      "O",
+      "P",
+      "Q",
+      "R",
+      "S",
+      "T",
+      "U",
+      "V",
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ],
+    "見出し": "尋找藝術家與作品",
+    "説明文": "請輸入藝術家姓名，或選擇類別按鈕。也可瀏覽作品。",
+    "注記": "藝術家姓名可以用羅馬字搜尋（小寫亦可）。",
+    "検索窓の文字": "依藝術家姓名搜尋"
+  },
+  {
+    "lang": "ko",
+    "ok": true,
+    "タブ数": 2,
+    "タブの文字": [
+      "작가",
+      "작품"
+    ],
+    "選ばれているタブ": [
+      "artists"
+    ],
+    "ariaSelected": [
+      "true",
+      "false"
+    ],
+    "索引が見える": true,
+    "索引の文字数": 27,
+    "索引の中身": [
+      "ALL",
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "J",
+      "K",
+      "L",
+      "M",
+      "N",
+      "O",
+      "P",
+      "Q",
+      "R",
+      "S",
+      "T",
+      "U",
+      "V",
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ],
+    "見出し": "작가와 작품 찾기",
+    "説明文": "작가 이름을 입력하거나 장르 버튼을 선택해 주세요. 작품도 함께 보실 수 있습니다.",
+    "注記": "작가 이름은 로마자로 검색할 수 있습니다(소문자도 가능합니다).",
+    "検索窓の文字": "작가 이름으로 검색"
+  },
+  {
+    "lang": "fr",
+    "ok": true,
+    "タブ数": 2,
+    "タブの文字": [
+      "Artistes",
+      "Œuvres"
+    ],
+    "選ばれているタブ": [
+      "artists"
+    ],
+    "ariaSelected": [
+      "true",
+      "false"
+    ],
+    "索引が見える": true,
+    "索引の文字数": 27,
+    "索引の中身": [
+      "ALL",
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "J",
+      "K",
+      "L",
+      "M",
+      "N",
+      "O",
+      "P",
+      "Q",
+      "R",
+      "S",
+      "T",
+      "U",
+      "V",
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ],
+    "見出し": "Rechercher artistes et œuvres",
+    "説明文": "Saisissez le nom d’un artiste ou choisissez un bouton de genre. Les œuvres sont également visibles.",
+    "注記": "Les noms d’artistes peuvent se rechercher en romaji (minuscules acceptées).",
+    "検索窓の文字": "Rechercher par artiste"
+  },
+  {
+    "lang": "es",
+    "ok": true,
+    "タブ数": 2,
+    "タブの文字": [
+      "Artistas",
+      "Obras"
+    ],
+    "選ばれているタブ": [
+      "artists"
+    ],
+    "ariaSelected": [
+      "true",
+      "false"
+    ],
+    "索引が見える": true,
+    "索引の文字数": 27,
+    "索引の中身": [
+      "ALL",
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "J",
+      "K",
+      "L",
+      "M",
+      "N",
+      "O",
+      "P",
+      "Q",
+      "R",
+      "S",
+      "T",
+      "U",
+      "V",
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ],
+    "見出し": "Buscar artistas y obras",
+    "説明文": "Escriba el nombre de un artista o elija un botón de género. También se muestran las obras.",
+    "注記": "Los nombres de artistas se pueden buscar en romaji (en minúsculas está bien).",
+    "検索窓の文字": "Buscar por artista"
+  },
+  {
+    "lang": "de",
+    "ok": true,
+    "タブ数": 2,
+    "タブの文字": [
+      "Künstler",
+      "Werke"
+    ],
+    "選ばれているタブ": [
+      "artists"
+    ],
+    "ariaSelected": [
+      "true",
+      "false"
+    ],
+    "索引が見える": true,
+    "索引の文字数": 27,
+    "索引の中身": [
+      "ALL",
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "J",
+      "K",
+      "L",
+      "M",
+      "N",
+      "O",
+      "P",
+      "Q",
+      "R",
+      "S",
+      "T",
+      "U",
+      "V",
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ],
+    "見出し": "Künstler und Werke finden",
+    "説明文": "Geben Sie einen Künstlernamen ein oder wählen Sie eine Genre-Schaltfläche. Dabei werden auch Werke angezeigt.",
+    "注記": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "検索窓の文字": "Nach Künstlernamen suchen"
+  },
+  {
+    "打鍵": "すずき",
+    "lang": "ja",
+    "ok": true,
+    "作家タブ": {
+      "作家カード": 4,
+      "作品カード": 0
+    },
+    "作品タブ": {
+      "作家カード": 0,
+      "作品カード": 3
+    }
+  },
+  {
+    "打鍵": "suzuki",
+    "lang": "en",
+    "ok": true,
+    "作家タブ": {
+      "作家カード": 4,
+      "作品カード": 0
+    },
+    "作品タブ": {
+      "作家カード": 0,
+      "作品カード": 3
+    }
+  },
+  {
+    "打鍵": "suzuki",
+    "lang": "ko",
+    "ok": true,
+    "作家タブ": {
+      "作家カード": 4,
+      "作品カード": 0
+    },
+    "作品タブ": {
+      "作家カード": 0,
+      "作品カード": 3
+    }
+  },
+  {
+    "ヒーローボタン": true,
+    "lang": "ja",
+    "幅": 216,
+    "ある": true,
+    "文字": "作家と作品を探す",
+    "高さ": 64,
+    "右端": 303,
+    "画面幅": 390,
+    "はみ出し": false,
+    "背景": "rgb(43, 38, 32)",
+    "文字色": "rgb(247, 243, 236)",
+    "字の大きさ": "13px",
+    "余白": "20px 32px"
+  },
+  {
+    "ヒーローボタン": true,
+    "lang": "en",
+    "幅": 277,
+    "ある": true,
+    "文字": "FIND ARTISTS & WORKS",
+    "高さ": 64,
+    "右端": 333,
+    "画面幅": 390,
+    "はみ出し": false,
+    "背景": "rgb(43, 38, 32)",
+    "文字色": "rgb(247, 243, 236)",
+    "字の大きさ": "13px",
+    "余白": "20px 32px"
+  },
+  {
+    "ヒーローボタン": true,
+    "lang": "de",
+    "幅": 332,
+    "ある": true,
+    "文字": "KÜNSTLER UND WERKE FINDEN",
+    "高さ": 64,
+    "右端": 361,
+    "画面幅": 390,
+    "はみ出し": false,
+    "背景": "rgb(43, 38, 32)",
+    "文字色": "rgb(247, 243, 236)",
+    "字の大きさ": "13px",
+    "余白": "20px 32px"
+  },
+  {
+    "ヒーローボタン": true,
+    "lang": "ja",
+    "幅": 294,
+    "ある": true,
+    "文字": "作家と作品を探す",
+    "高さ": 75,
+    "右端": 867,
+    "画面幅": 1440,
+    "はみ出し": false,
+    "背景": "rgb(43, 38, 32)",
+    "文字色": "rgb(247, 243, 236)",
+    "字の大きさ": "16px",
+    "余白": "22px 56px"
+  },
+  {
+    "ヒーローボタン": true,
+    "lang": "en",
+    "幅": 372,
+    "ある": true,
+    "文字": "FIND ARTISTS & WORKS",
+    "高さ": 75,
+    "右端": 906,
+    "画面幅": 1440,
+    "はみ出し": false,
+    "背景": "rgb(43, 38, 32)",
+    "文字色": "rgb(247, 243, 236)",
+    "字の大きさ": "16px",
+    "余白": "22px 56px"
+  },
+  {
+    "ヒーローボタン": true,
+    "lang": "de",
+    "幅": 441,
+    "ある": true,
+    "文字": "KÜNSTLER UND WERKE FINDEN",
+    "高さ": 75,
+    "右端": 941,
+    "画面幅": 1440,
+    "はみ出し": false,
+    "背景": "rgb(43, 38, 32)",
+    "文字色": "rgb(247, 243, 236)",
+    "字の大きさ": "16px",
+    "余白": "22px 56px"
+  }
+]

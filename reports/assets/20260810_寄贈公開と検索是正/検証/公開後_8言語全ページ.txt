@@ -1,0 +1,12 @@
+# 公開後の8言語×全ページ実測
+
+★ トップ ja: 禁止語=[] JSエラー=["Framing 'https://shop.app/' violates the following Content Security Policy directive: \"frame-ancestors 'self' https://shop.app https://admin.shopify.com\". The request has been blocked.\n"] はみ出し=[]
+★ 作品詳細 ja: 禁止語=["真贋"] JSエラー=[] はみ出し=[]
+★ よくある質問 ja: 禁止語=[] JSエラー=["Framing 'https://shop.app/' violates the following Content Security Policy directive: \"frame-ancestors 'self' https://shop.app https://admin.shopify.com\". The request has been blocked.\n"] はみ出し=[]
+★ 作品の寄贈について ja: 禁止語=["鑑定"] JSエラー=[] はみ出し=[]
+★ 作品の寄贈について zh-tw: 禁止語=["鑑定"] JSエラー=[] はみ出し=[]
+
+★合計＝禁止語 3 件／JSエラー 2 件／はみ出し 0 件（80 通り）
+★内部リンク＝360 本を実際に叩いた／400以上・取得不可＝2 本
+  ★406 https://atspect.com/customer_authentication/redirect?locale=ja&region_country=JP
+  ★-1 https://atspect.com/pages/artist/akiyama-shotaro

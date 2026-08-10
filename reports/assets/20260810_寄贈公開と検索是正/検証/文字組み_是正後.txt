@@ -1,0 +1,42 @@
+# 390px 文字組みの走査（言語＝ja）
+
+## トップ  https://atspect.com/
+- 1文字しか無い行＝0件 ／ 中央寄せの長文＝0件 ／ はみ出し＝0件
+
+## 作家と作品を探す  https://atspect.com/pages/artists
+- 1文字しか無い行＝0件 ／ 中央寄せの長文＝0件 ／ はみ出し＝0件
+
+## 作品一覧  https://atspect.com/collections/all
+- 1文字しか無い行＝0件 ／ 中央寄せの長文＝0件 ／ はみ出し＝0件
+
+## 作品詳細  https://atspect.com/products/kakekurabe
+- 1文字しか無い行＝0件 ／ 中央寄せの長文＝0件 ／ はみ出し＝0件
+
+## 作家ページ  https://atspect.com/pages/artist/suzuki-chikako
+- 1文字しか無い行＝0件 ／ 中央寄せの長文＝0件 ／ はみ出し＝0件
+
+## あつぺくとについて  https://atspect.com/pages/about
+- 1文字しか無い行＝0件 ／ 中央寄せの長文＝0件 ／ はみ出し＝0件
+
+## お問い合わせ  https://atspect.com/pages/contact
+- 1文字しか無い行＝0件 ／ 中央寄せの長文＝0件 ／ はみ出し＝0件
+
+## よくある質問  https://atspect.com/pages/faq
+- 1文字しか無い行＝0件 ／ 中央寄せの長文＝0件 ／ はみ出し＝0件
+
+## プレス  https://atspect.com/pages/press
+- 1文字しか無い行＝0件 ／ 中央寄せの長文＝0件 ／ はみ出し＝0件
+
+## 寄贈をご検討の作品  https://atspect.com/pages/gifts
+- 1文字しか無い行＝0件 ／ 中央寄せの長文＝0件 ／ はみ出し＝0件
+
+## 作品の寄贈について  https://atspect.com/pages/donation
+- 1文字しか無い行＝0件 ／ 中央寄せの長文＝0件 ／ はみ出し＝0件
+
+## 作家の方へ  https://atspect.com/pages/artist-guide
+- 1文字しか無い行＝0件 ／ 中央寄せの長文＝0件 ／ はみ出し＝0件
+
+## お気に入り  https://atspect.com/pages/wishlist
+- 1文字しか無い行＝0件 ／ 中央寄せの長文＝0件 ／ はみ出し＝0件
+
+★合計＝1文字しか無い行 0 件／中央寄せの長文 0 件／はみ出し 0 件

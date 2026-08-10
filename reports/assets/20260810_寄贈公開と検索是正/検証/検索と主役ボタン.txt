@@ -1,0 +1,76 @@
+# 検索の是正と主役ボタンの実測
+
+## ja
+- タブ＝["作家","作品"]（2個・既定＝["artists"]・aria-selected=["true","false"]）
+- 索引＝出ている／文字数 11／["ALL","あ","か","さ","た","な","は","ま","や","ら","わ"]
+- 見出し＝「作家と作品を探す」
+- 説明文＝「作家名を入力するか、ジャンルのボタンをお選びください。作品もご覧いただけます。」
+- 注記＝「※作家名は、よみがな（ひらがな）やローマ字でも検索できます」
+- 検索窓＝「作家名で検索」
+
+## en
+- タブ＝["Artists","Works"]（2個・既定＝["artists"]・aria-selected=["true","false"]）
+- 索引＝出ている／文字数 27／["ALL","A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"]
+- 見出し＝「Find Artists & Works」
+- 説明文＝「Enter an artist’s name, or choose a genre button. Works are also shown.」
+- 注記＝「Artist names can be searched in romaji (lowercase is fine).」
+- 検索窓＝「Search by artist」
+
+## zh-cn
+- タブ＝["艺术家","作品"]（2個・既定＝["artists"]・aria-selected=["true","false"]）
+- 索引＝出ている／文字数 27／["ALL","A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"]
+- 見出し＝「查找艺术家与作品」
+- 説明文＝「请输入艺术家姓名，或选择门类按钮。也可浏览作品。」
+- 注記＝「艺术家姓名可以用罗马字搜索（小写亦可）。」
+- 検索窓＝「按艺术家姓名搜索」
+
+## zh-tw
+- タブ＝["藝術家","作品"]（2個・既定＝["artists"]・aria-selected=["true","false"]）
+- 索引＝出ている／文字数 27／["ALL","A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"]
+- 見出し＝「尋找藝術家與作品」
+- 説明文＝「請輸入藝術家姓名，或選擇類別按鈕。也可瀏覽作品。」
+- 注記＝「藝術家姓名可以用羅馬字搜尋（小寫亦可）。」
+- 検索窓＝「依藝術家姓名搜尋」
+
+## ko
+- タブ＝["작가","작품"]（2個・既定＝["artists"]・aria-selected=["true","false"]）
+- 索引＝出ている／文字数 27／["ALL","A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"]
+- 見出し＝「작가와 작품 찾기」
+- 説明文＝「작가 이름을 입력하거나 장르 버튼을 선택해 주세요. 작품도 함께 보실 수 있습니다.」
+- 注記＝「작가 이름은 로마자로 검색할 수 있습니다(소문자도 가능합니다).」
+- 検索窓＝「작가 이름으로 검색」
+
+## fr
+- タブ＝["Artistes","Œuvres"]（2個・既定＝["artists"]・aria-selected=["true","false"]）
+- 索引＝出ている／文字数 27／["ALL","A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"]
+- 見出し＝「Rechercher artistes et œuvres」
+- 説明文＝「Saisissez le nom d’un artiste ou choisissez un bouton de genre. Les œuvres sont également visibles.」
+- 注記＝「Les noms d’artistes peuvent se rechercher en romaji (minuscules acceptées).」
+- 検索窓＝「Rechercher par artiste」
+
+## es
+- タブ＝["Artistas","Obras"]（2個・既定＝["artists"]・aria-selected=["true","false"]）
+- 索引＝出ている／文字数 27／["ALL","A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"]
+- 見出し＝「Buscar artistas y obras」
+- 説明文＝「Escriba el nombre de un artista o elija un botón de género. También se muestran las obras.」
+- 注記＝「Los nombres de artistas se pueden buscar en romaji (en minúsculas está bien).」
+- 検索窓＝「Buscar por artista」
+
+## de
+- タブ＝["Künstler","Werke"]（2個・既定＝["artists"]・aria-selected=["true","false"]）
+- 索引＝出ている／文字数 27／["ALL","A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"]
+- 見出し＝「Künstler und Werke finden」
+- 説明文＝「Geben Sie einen Künstlernamen ein oder wählen Sie eine Genre-Schaltfläche. Dabei werden auch Werke angezeigt.」
+- 注記＝「Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).」
+- 検索窓＝「Nach Künstlernamen suchen」
+
+## 打鍵 ja「すずき」 作家タブ＝{"作家カード":4,"作品カード":0} ／ 作品タブへ切替＝{"作家カード":0,"作品カード":3} → ○
+## 打鍵 en「suzuki」 作家タブ＝{"作家カード":4,"作品カード":0} ／ 作品タブへ切替＝{"作家カード":0,"作品カード":3} → ○
+## 打鍵 ko「suzuki」 作家タブ＝{"作家カード":4,"作品カード":0} ／ 作品タブへ切替＝{"作家カード":0,"作品カード":3} → ○
+## ヒーローボタン ja sp390＝「作家と作品を探す」 216×64px ／ 背景 rgb(43, 38, 32) ／ 文字色 rgb(247, 243, 236) ／ 字 13px ／ 余白 20px 32px ／ はみ出し false
+## ヒーローボタン en sp390＝「FIND ARTISTS & WORKS」 277×64px ／ 背景 rgb(43, 38, 32) ／ 文字色 rgb(247, 243, 236) ／ 字 13px ／ 余白 20px 32px ／ はみ出し false
+## ヒーローボタン de sp390＝「KÜNSTLER UND WERKE FINDEN」 332×64px ／ 背景 rgb(43, 38, 32) ／ 文字色 rgb(247, 243, 236) ／ 字 13px ／ 余白 20px 32px ／ はみ出し false
+## ヒーローボタン ja pc1440＝「作家と作品を探す」 294×75px ／ 背景 rgb(43, 38, 32) ／ 文字色 rgb(247, 243, 236) ／ 字 16px ／ 余白 22px 56px ／ はみ出し false
+## ヒーローボタン en pc1440＝「FIND ARTISTS & WORKS」 372×75px ／ 背景 rgb(43, 38, 32) ／ 文字色 rgb(247, 243, 236) ／ 字 16px ／ 余白 22px 56px ／ はみ出し false
+## ヒーローボタン de pc1440＝「KÜNSTLER UND WERKE FINDEN」 441×75px ／ 背景 rgb(43, 38, 32) ／ 文字色 rgb(247, 243, 236) ／ 字 16px ／ 余白 22px 56px ／ はみ出し false
+★NG 0 件

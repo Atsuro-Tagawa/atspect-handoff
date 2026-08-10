@@ -1,0 +1,84 @@
+# 390px 文字組みの走査（言語＝ja）
+
+## トップ  https://atspect.com/
+- 1文字しか無い行＝0件 ／ 中央寄せの長文＝0件 ／ はみ出し＝1件
+  ・[はみ出し] <button class="atspect-lang-toast__close"> left=380 right=393（画面幅390）
+
+## 作家と作品を探す  https://atspect.com/pages/artists
+- 1文字しか無い行＝0件 ／ 中央寄せの長文＝0件 ／ はみ出し＝1件
+  ・[はみ出し] <button class="atspect-lang-toast__close"> left=380 right=393（画面幅390）
+
+## 作品一覧  https://atspect.com/collections/all
+- 1文字しか無い行＝8件 ／ 中央寄せの長文＝0件 ／ はみ出し＝1件
+  ★[1文字の行] <span class="aw-fav__sr visually-hidden"> 「お気に入りに追加」 → 行1/8が「お」だけ ／ 各行＝["お","気","に","入","り","に","追","加"]
+  ★[1文字の行] <span class="aw-fav__sr visually-hidden"> 「お気に入りに追加」 → 行2/8が「気」だけ ／ 各行＝["お","気","に","入","り","に","追","加"]
+  ★[1文字の行] <span class="aw-fav__sr visually-hidden"> 「お気に入りに追加」 → 行3/8が「に」だけ ／ 各行＝["お","気","に","入","り","に","追","加"]
+  ★[1文字の行] <span class="aw-fav__sr visually-hidden"> 「お気に入りに追加」 → 行4/8が「入」だけ ／ 各行＝["お","気","に","入","り","に","追","加"]
+  ★[1文字の行] <span class="aw-fav__sr visually-hidden"> 「お気に入りに追加」 → 行5/8が「り」だけ ／ 各行＝["お","気","に","入","り","に","追","加"]
+  ★[1文字の行] <span class="aw-fav__sr visually-hidden"> 「お気に入りに追加」 → 行6/8が「に」だけ ／ 各行＝["お","気","に","入","り","に","追","加"]
+  ★[1文字の行] <span class="aw-fav__sr visually-hidden"> 「お気に入りに追加」 → 行7/8が「追」だけ ／ 各行＝["お","気","に","入","り","に","追","加"]
+  ★[1文字の行] <span class="aw-fav__sr visually-hidden"> 「お気に入りに追加」 → 行8/8が「加」だけ ／ 各行＝["お","気","に","入","り","に","追","加"]
+  ・[はみ出し] <button class="atspect-lang-toast__close"> left=380 right=393（画面幅390）
+
+## 作品詳細  https://atspect.com/products/kakekurabe
+- 1文字しか無い行＝8件 ／ 中央寄せの長文＝0件 ／ はみ出し＝4件
+  ★[1文字の行] <span class="aw-fav__sr visually-hidden"> 「お気に入りに追加」 → 行1/8が「お」だけ ／ 各行＝["お","気","に","入","り","に","追","加"]
+  ★[1文字の行] <span class="aw-fav__sr visually-hidden"> 「お気に入りに追加」 → 行2/8が「気」だけ ／ 各行＝["お","気","に","入","り","に","追","加"]
+  ★[1文字の行] <span class="aw-fav__sr visually-hidden"> 「お気に入りに追加」 → 行3/8が「に」だけ ／ 各行＝["お","気","に","入","り","に","追","加"]
+  ★[1文字の行] <span class="aw-fav__sr visually-hidden"> 「お気に入りに追加」 → 行4/8が「入」だけ ／ 各行＝["お","気","に","入","り","に","追","加"]
+  ★[1文字の行] <span class="aw-fav__sr visually-hidden"> 「お気に入りに追加」 → 行5/8が「り」だけ ／ 各行＝["お","気","に","入","り","に","追","加"]
+  ★[1文字の行] <span class="aw-fav__sr visually-hidden"> 「お気に入りに追加」 → 行6/8が「に」だけ ／ 各行＝["お","気","に","入","り","に","追","加"]
+  ★[1文字の行] <span class="aw-fav__sr visually-hidden"> 「お気に入りに追加」 → 行7/8が「追」だけ ／ 各行＝["お","気","に","入","り","に","追","加"]
+  ★[1文字の行] <span class="aw-fav__sr visually-hidden"> 「お気に入りに追加」 → 行8/8が「加」だけ ／ 各行＝["お","気","に","入","り","に","追","加"]
+  ・[はみ出し] <div class="atspect-artwork__inq-hp"> left=-9999 right=-9998（画面幅390）
+  ・[はみ出し] <label class=""> left=-9999 right=-9822（画面幅390）
+  ・[はみ出し] <input class=""> left=-9999 right=-9822（画面幅390）
+  ・[はみ出し] <button class="atspect-lang-toast__close"> left=380 right=393（画面幅390）
+
+## 作家ページ  https://atspect.com/pages/artist/suzuki-chikako
+- 1文字しか無い行＝8件 ／ 中央寄せの長文＝0件 ／ はみ出し＝1件
+  ★[1文字の行] <span class="aw-fav__sr visually-hidden"> 「お気に入りに追加」 → 行1/8が「お」だけ ／ 各行＝["お","気","に","入","り","に","追","加"]
+  ★[1文字の行] <span class="aw-fav__sr visually-hidden"> 「お気に入りに追加」 → 行2/8が「気」だけ ／ 各行＝["お","気","に","入","り","に","追","加"]
+  ★[1文字の行] <span class="aw-fav__sr visually-hidden"> 「お気に入りに追加」 → 行3/8が「に」だけ ／ 各行＝["お","気","に","入","り","に","追","加"]
+  ★[1文字の行] <span class="aw-fav__sr visually-hidden"> 「お気に入りに追加」 → 行4/8が「入」だけ ／ 各行＝["お","気","に","入","り","に","追","加"]
+  ★[1文字の行] <span class="aw-fav__sr visually-hidden"> 「お気に入りに追加」 → 行5/8が「り」だけ ／ 各行＝["お","気","に","入","り","に","追","加"]
+  ★[1文字の行] <span class="aw-fav__sr visually-hidden"> 「お気に入りに追加」 → 行6/8が「に」だけ ／ 各行＝["お","気","に","入","り","に","追","加"]
+  ★[1文字の行] <span class="aw-fav__sr visually-hidden"> 「お気に入りに追加」 → 行7/8が「追」だけ ／ 各行＝["お","気","に","入","り","に","追","加"]
+  ★[1文字の行] <span class="aw-fav__sr visually-hidden"> 「お気に入りに追加」 → 行8/8が「加」だけ ／ 各行＝["お","気","に","入","り","に","追","加"]
+  ・[はみ出し] <button class="atspect-lang-toast__close"> left=380 right=393（画面幅390）
+
+## あつぺくとについて  https://atspect.com/pages/about
+- 1文字しか無い行＝0件 ／ 中央寄せの長文＝0件 ／ はみ出し＝1件
+  ・[はみ出し] <button class="atspect-lang-toast__close"> left=380 right=393（画面幅390）
+
+## お問い合わせ  https://atspect.com/pages/contact
+- 1文字しか無い行＝0件 ／ 中央寄せの長文＝0件 ／ はみ出し＝1件
+  ・[はみ出し] <button class="atspect-lang-toast__close"> left=380 right=393（画面幅390）
+
+## よくある質問  https://atspect.com/pages/faq
+- 1文字しか無い行＝0件 ／ 中央寄せの長文＝0件 ／ はみ出し＝1件
+  ・[はみ出し] <button class="atspect-lang-toast__close"> left=380 right=393（画面幅390）
+
+## プレス  https://atspect.com/pages/press
+- 1文字しか無い行＝0件 ／ 中央寄せの長文＝0件 ／ はみ出し＝1件
+  ・[はみ出し] <button class="atspect-lang-toast__close"> left=380 right=393（画面幅390）
+
+## 寄贈をご検討の作品  https://atspect.com/pages/gifts
+- 1文字しか無い行＝0件 ／ 中央寄せの長文＝1件 ／ はみ出し＝1件
+  ・[中央寄せの長文] <span class="gf-l gf-l--ja"> 3行/56字 「寄贈のご相談を承っている作品です。ご検討をお考えの施設のご担当者さまは、『あつぺくと』までお問い合わせください。」
+  ・[はみ出し] <button class="atspect-lang-toast__close"> left=380 right=393（画面幅390）
+
+## 作品の寄贈について  https://atspect.com/pages/donation
+- 1文字しか無い行＝0件 ／ 中央寄せの長文＝0件 ／ はみ出し＝1件
+  ・[はみ出し] <button class="atspect-lang-toast__close"> left=380 right=393（画面幅390）
+
+## 作家の方へ  https://atspect.com/pages/artist-guide
+- 1文字しか無い行＝1件 ／ 中央寄せの長文＝0件 ／ はみ出し＝1件
+  ★[1文字の行] <h2 class="agdw__h2"> 「世界とつながる、あなたの専用ページ」 → 行2/2が「ジ」だけ ／ 各行＝["世界とつながる、あなたの専用ペー","ジ"]
+  ・[はみ出し] <button class="atspect-lang-toast__close"> left=380 right=393（画面幅390）
+
+## お気に入り  https://atspect.com/pages/wishlist
+- 1文字しか無い行＝0件 ／ 中央寄せの長文＝0件 ／ はみ出し＝1件
+  ・[はみ出し] <button class="atspect-lang-toast__close"> left=380 right=393（画面幅390）
+
+★合計＝1文字しか無い行 25 件／中央寄せの長文 1 件／はみ出し 16 件
