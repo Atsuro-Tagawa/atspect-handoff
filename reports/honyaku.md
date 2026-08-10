@@ -266,3 +266,9 @@ hara-hiromu awazu-kiyoshi tanaka-ikko nobuo-sekine yamana-ayao yorozu-tetsugoro 
 | 69 | `futagawa-yukio` | 二川 幸夫 さま |
 
 **触る欄＝略歴／一言紹介／功績／所属団体の7言語の訳文のみ。★代表作欄（masterworks）には触りません。**
+
+## ★第14便 完了（2026-08-10 17:30）
+
+連続日課 第1束＝10名・50置換／37箇所。全件読み戻し一致・序列語増分0・仏語単純過去の残存0。
+記録＝`reports/assets/20260810d_翻訳品質_第14便/第14便_記録.md`
+★**次便のカーソル＝`futagawa-yukio`（69番目）の次から。**
