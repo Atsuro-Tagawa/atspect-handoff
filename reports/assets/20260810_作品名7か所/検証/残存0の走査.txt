@@ -1,0 +1,132 @@
+テーマ内ファイル総数=529 ／ 走査対象（liquid）=147
+
+## sections/atspect-artist-plan.liquid（4件）
+   L5: {{ plan.title }}   ←   <section class="atspect-ap" aria-label="{{ plan.title }}">
+   L12: {{ plan.title }}   ←   <h1 class="atspect-ap__heading">{{ plan.title }}</h1>
+   L96: {{ plan.title }}   ←   <p class="atspect-ap__plan-label">{{ plan.title }}</p>
+   L141: {{ variant.title }}   ←   {{ variant.title }}
+
+## sections/atspect-collection.liquid（5件）
+   L36: {{ collection.title }}   ←   <h1 class="atspect-collection__hero-title">{%- if coll_generic -%}<span data-col-i18n="browse_heading">作品を探す</span>{%- else -%}{{ collection.title }}{%- endif -
+   L47: {{ collection.title }}   ←   <h1 class="atspect-collection__title">{%- if coll_generic -%}<span data-col-i18n="browse_heading">作品を探す</span>{%- else -%}{{ collection.title }}{%- endif -%}</h
+   L449: {{ part.title }}   ←   <a href="{{ part.url }}" class="atspect-collection__page-num">{{ part.title }}</a>
+   L452: {{ part.title }}   ←   <span class="atspect-collection__page-num atspect-collection__page-num--active">{{ part.title }}</span>
+   L454: {{ part.title }}   ←   <span class="atspect-collection__page-num atspect-collection__page-num--ellipsis">{{ part.title }}</span>
+
+## sections/atspect-press.liquid（1件）
+   L63: {{ block.settings.title }}   ←   <p class="atspect-press__item-title">{{ block.settings.title }}</p>
+
+## sections/cart-notification-product.liquid（1件）
+   L17: {{ item.product.vendor }}   ←   <p class="caption-with-letter-spacing light">{{ item.product.vendor }}</p>
+
+## sections/collection-list.liquid（1件）
+   L35: {{ section.settings.title }}   ←   {{ section.settings.title }}
+
+## sections/contact-form.liquid（1件）
+   L24: {{ 'templates.contact.form.title' | t }}   ←   <h2 class="visually-hidden">{{ 'templates.contact.form.title' | t }}</h2>
+
+## sections/featured-collection.liquid（1件）
+   L78: {{ section.settings.title }}   ←   {{ section.settings.title }}
+
+## sections/featured-product.liquid（2件）
+   L349: {{ 'products.product.volume_pricing.title' | t }}   ←   <span class="caption-large">{{ 'products.product.volume_pricing.title' | t }}</span>
+   L1481: {{ section.settings.product.vendor }}   ←   "text": "{{ section.settings.product.vendor }}",
+
+## sections/main-account.liquid（8件）
+   L19: {{ 'customer.account.title' | t }}   ←   <h1 class="customer__title">{{ 'customer.account.title' | t }}</h1>
+   L30: {{ 'customer.orders.title' | t }}   ←   <h2>{{ 'customer.orders.title' | t }}</h2>
+   L36: {{ 'customer.orders.title' | t }}   ←   {{ 'customer.orders.title' | t }}
+   L110: {{ 'general.pagination.page' | t: number: part.title }}   ←   <a href="{{ part.url }}" aria-label="{{ 'general.pagination.page' | t: number: part.title }}">
+   L111: {{- part.title -}}   ←   {{- part.title -}}
+   L115: {{ 'general.pagination.page' | t: number: part.title }}   ←   <span aria-current="page" aria-label="{{ 'general.pagination.page' | t: number: part.title }}">
+   L116: {{- part.title -}}   ←   {{- part.title -}}
+   L119: {{ part.title }}   ←   <span>{{ part.title }}</span>
+
+## sections/main-activate-account.liquid（1件）
+   L19: {{ 'customer.activate_account.title' | t }}   ←   {{ 'customer.activate_account.title' | t }}
+
+## sections/main-addresses.liquid（6件）
+   L21: {{ 'customer.addresses.title' | t }}   ←   <h1>{{ 'customer.addresses.title' | t }}</h1>
+   L354: {{ 'general.pagination.page' | t: number: part.title }}   ←   <a href="{{ part.url }}" aria-label="{{ 'general.pagination.page' | t: number: part.title }}">
+   L355: {{- part.title -}}   ←   {{- part.title -}}
+   L359: {{ 'general.pagination.page' | t: number: part.title }}   ←   <span aria-current="page" aria-label="{{ 'general.pagination.page' | t: number: part.title }}">
+   L360: {{- part.title -}}   ←   {{- part.title -}}
+   L363: {{ part.title }}   ←   <span>{{ part.title }}</span>
+
+## sections/main-cart-items.liquid（5件）
+   L31: {{ 'sections.cart.title' | t }}   ←   <h1 class="title title--primary">{{ 'sections.cart.title' | t }}</h1>
+   L44: {{ 'sections.cart.login.title' | t }}   ←   <h2 class="cart__login-title">{{ 'sections.cart.login.title' | t }}</h2>
+   L57: {{ 'sections.cart.title' | t }}   ←   {{ 'sections.cart.title' | t }}
+   L108: {{ item.product.vendor }}   ←   <p class="caption-with-letter-spacing">{{ item.product.vendor }}</p>
+   L337: {{- 'products.product.volume_pricing.title' | t -}}   ←   {{- 'products.product.volume_pricing.title' | t -}}
+
+## sections/main-collection-banner.liquid（1件）
+   L16: {{ 'sections.collection_template.title' | t }}   ←   <span class="visually-hidden">{{ 'sections.collection_template.title' | t }}: </span>
+
+## sections/main-list-collections.liquid（1件）
+   L6: {{ section.settings.title }}   ←   {{ section.settings.title }}
+
+## sections/main-login.liquid（2件）
+   L23: {{ 'customer.recover_password.title' | t }}   ←   {{ 'customer.recover_password.title' | t }}
+   L72: {{ 'customer.login_page.title' | t }}   ←   {{ 'customer.login_page.title' | t }}
+
+## sections/main-order.liquid（3件）
+   L19: {{ 'customer.account.title' | t }}   ←   <h1 class="customer__title">{{ 'customer.account.title' | t }}</h1>
+   L25: {{ 'customer.order.title' | t: name: order.name }}   ←   <h2>{{ 'customer.order.title' | t: name: order.name }}</h2>
+   L36: {{ 'customer.order.title' | t: name: order.name }}   ←   {{ 'customer.order.title' | t: name: order.name }}
+
+## sections/main-product.liquid（1件）
+   L416: {{ 'products.product.volume_pricing.title' | t }}   ←   <span class="caption-large">{{ 'products.product.volume_pricing.title' | t }}</span>
+
+## sections/main-register.liquid（1件）
+   L19: {{ 'customer.register.title' | t }}   ←   {{ 'customer.register.title' | t }}
+
+## sections/main-reset-password.liquid（1件）
+   L19: {{ 'customer.reset_password.title' | t }}   ←   {{ 'customer.reset_password.title' | t }}
+
+## sections/main-search.liquid（1件）
+   L71: {{- 'templates.search.title' | t -}}   ←   {{- 'templates.search.title' | t -}}
+
+## sections/multicolumn.liquid（2件）
+   L36: {{ section.settings.title }}   ←   {{ section.settings.title }}
+   L123: {{ block.settings.title }}   ←   <h3 class="inline-richtext">{{ block.settings.title }}</h3>
+
+## sections/page.liquid（1件）
+   L23: {{ 'sections.page.title' | t }}   ←   {{ 'sections.page.title' | t }}
+
+## sections/predictive-search.liquid（2件）
+   L155: {{ 'accessibility.vendor' | t }}   ←   <span class="visually-hidden">{{ 'accessibility.vendor' | t }}</span>
+   L157: {{ product.vendor }}   ←   {{ product.vendor }}
+
+## snippets/card-product.liquid（4件）
+   L165: {{ 'accessibility.vendor' | t }}   ←   <span class="visually-hidden">{{ 'accessibility.vendor' | t }}</span>
+   L166: {{ card_product.vendor }}   ←   <div class="caption-with-letter-spacing light">{{ card_product.vendor }}</div>
+   L615: {{ 'accessibility.vendor' | t }}   ←   <span class="visually-hidden">{{ 'accessibility.vendor' | t }}</span>
+   L616: {{ 'products.product.vendor' | t }}   ←   <div class="caption-with-letter-spacing light">{{ 'products.product.vendor' | t }}</div>
+
+## snippets/cart-drawer.liquid（6件）
+   L27: {{ 'sections.cart.title' | t }}   ←   aria-label="{{ 'sections.cart.title' | t }}"
+   L50: {{ 'sections.cart.login.title' | t }}   ←   <p class="cart__login-title h3">{{ 'sections.cart.login.title' | t }}</p>
+   L65: {{ 'sections.cart.title' | t }}   ←   <h2 class="drawer__heading">{{ 'sections.cart.title' | t }}</h2>
+   L150: {{ item.product.vendor }}   ←   <p class="caption-with-letter-spacing light">{{ item.product.vendor }}</p>
+   L230: {{ discount.discount_application.title }}   ←   {{ discount.discount_application.title }}
+   L392: {{- 'products.product.volume_pricing.title' | t -}}   ←   {{- 'products.product.volume_pricing.title' | t -}}
+
+## snippets/pagination.liquid（5件）
+   L40: {{ 'general.pagination.page' | t: number: part.title }}   ←   aria-label="{{ 'general.pagination.page' | t: number: part.title }}"
+   L42: {{- part.title -}}   ←   {{- part.title -}}
+   L51: {{ 'general.pagination.page' | t: number: part.title }}   ←   aria-label="{{ 'general.pagination.page' | t: number: part.title }}"
+   L53: {{- part.title -}}   ←   {{- part.title -}}
+   L56: {{ part.title }}   ←   <span class="pagination__item">{{ part.title }}</span>
+
+## snippets/quick-order-list-row.liquid（2件）
+   L218: {{ 'products.product.volume_pricing.title' | t }}   ←   <span class="volume-pricing-label caption">{{ 'products.product.volume_pricing.title' | t }}</span>
+   L285: {{ 'sections.cart.remove_title' | t: title: item.title }}   ←   aria-label="{{ 'sections.cart.remove_title' | t: title: item.title }}"
+
+## snippets/quick-order-list.liquid（1件）
+   L35: {{ 'sections.cart.title' | t }}   ←   {{ 'sections.cart.title' | t }}
+
+## templates/gift_card.liquid（1件）
+   L24: {{ 'gift_cards.issued.title' | t: value: formatted_balance, shop: 'あつぺくと' }}   ←   <title>{{ 'gift_cards.issued.title' | t: value: formatted_balance, shop: 'あつぺくと' }}</title>
+
+★作品名・作家名を出していて escape 等が付いていない出力＝71 件

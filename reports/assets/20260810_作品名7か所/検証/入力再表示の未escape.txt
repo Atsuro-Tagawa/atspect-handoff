@@ -1,0 +1,8 @@
+sections/atspect-contact.liquid L71: {{ form.name }}   ←   value="{% if form.name %}{{ form.name }}{% endif %}"
+sections/atspect-contact.liquid L103: {{ form.email }}   ←   value="{% if form.email %}{{ form.email }}{% endif %}"
+sections/atspect-contact.liquid L119: {{ form.body }}   ←   >{% if form.body %}{{ form.body }}{% endif %}</textarea>
+sections/atspect-gifts.liquid L162: {{ form.name }}   ←   <input type="text" id="GiftName" name="contact[name]" class="atspect-gifts__input" required value="{% if form.name %}{{ form.name }}{% endif
+sections/atspect-gifts.liquid L170: {{ form.email }}   ←   <input type="email" id="GiftEmail" name="contact[email]" class="atspect-gifts__input" required value="{% if form.email %}{{ form.email }}{% 
+sections/atspect-gifts.liquid L174: {{ form.body }}   ←   <textarea id="GiftBody" name="contact[body]" class="atspect-gifts__textarea" rows="6" required>{% if form.body %}{{ form.body }}{% endif %}<
+
+★あつぺくと製ファイルで form.* を未escapeで出している箇所＝6 件（本便の対象外・起票用）
