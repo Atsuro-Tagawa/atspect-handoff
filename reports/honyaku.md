@@ -398,3 +398,12 @@ Codexに1言語ずつ独立判定させて確かめました。**
 ★**新しい型は出ていません**（②走査枠の発動なし）。★**鈴木千賀子さまの5欄は保留のまま。**
 
 **次便のカーソル＝`hidai-shokin`（99番目）の次から。**
+
+## 第18便＝連続日課 第5束 着手前の先出し宣言（2026-08-10 19:40）
+
+**導線順＝`hidai-shokin`（99番目）の次から10名**（100〜109番目）。
+
+比田井天来／日高長太郎／東山魁夷／氷見晃堂／日名子実三／平福百穂／平井輝七／平櫛田中／平田郷陽／平山郁夫 の各さま
+（`hidai-tenrai` `hidaka-chotaro` `higashiyama-kaii` `himi-kodo` `hinago-jitsuzo` `hirafuku-hyakusui` `hirai-terushichi` `hirakushi-denchu` `hirata-goyo` `hirayama-ikuo`）
+
+**触る欄＝略歴／一言紹介／功績／所属団体のみ。★代表作欄には触りません。**
