@@ -1,0 +1,30 @@
+# 言語トーストと html lang の検証
+
+○ トップ en sp390: トースト=true html lang=en（期待 en） 下余白=96px 重なった押せる物=0 うち触れない=0
+○ トップ ja sp390: トースト=true html lang=ja（期待 ja） 下余白=96px 重なった押せる物=0 うち触れない=0
+○ 作家一覧 en sp390: トースト=true html lang=en（期待 en） 下余白=96px 重なった押せる物=0 うち触れない=0
+○ 作家一覧 ja sp390: トースト=true html lang=ja（期待 ja） 下余白=96px 重なった押せる物=0 うち触れない=0
+○ あつぺくとについて en sp390: トースト=true html lang=en（期待 en） 下余白=96px 重なった押せる物=0 うち触れない=0
+× あつぺくとについて ja sp390: トースト=true html lang=ja（期待 ja） 下余白=96px 重なった押せる物=3 うち触れない=1
+    [{"tag":"a","文":"よくある質問FAQ常见问题常見問題자주 묻는","触れない":false},{"tag":"a","文":"プレスPress媒体媒體프레스PresseP","触れない":true},{"tag":"a","文":"プライバシーポリシーPrivacy Poli","触れない":false}]
+○ トップ en tb768: トースト=true html lang=en（期待 en） 下余白=96px 重なった押せる物=4 うち触れない=0
+    [{"tag":"a","文":"写真\n            Photogr","触れない":false},{"tag":"a","文":"デザイン\n            Desig","触れない":false},{"tag":"a","文":"現代美術\n            Conte","触れない":false},{"tag":"a","文":"建築\n            Archite","触れない":false}]
+○ トップ ja tb768: トースト=true html lang=ja（期待 ja） 下余白=96px 重なった押せる物=4 うち触れない=0
+    [{"tag":"a","文":"写真\n            Photogr","触れない":false},{"tag":"a","文":"デザイン\n            Desig","触れない":false},{"tag":"a","文":"現代美術\n            Conte","触れない":false},{"tag":"a","文":"建築\n            Archite","触れない":false}]
+○ 作家一覧 en tb768: トースト=true html lang=en（期待 en） 下余白=96px 重なった押せる物=0 うち触れない=0
+○ 作家一覧 ja tb768: トースト=true html lang=ja（期待 ja） 下余白=96px 重なった押せる物=0 うち触れない=0
+○ あつぺくとについて en tb768: トースト=true html lang=en（期待 en） 下余白=96px 重なった押せる物=0 うち触れない=0
+○ あつぺくとについて ja tb768: トースト=true html lang=ja（期待 ja） 下余白=96px 重なった押せる物=0 うち触れない=0
+○ トップ en pc1440: トースト=true html lang=en（期待 en） 下余白=96px 重なった押せる物=2 うち触れない=0
+    [{"tag":"a","文":"彫刻\n            Sculptu","触れない":false},{"tag":"a","文":"工芸\n            Craft A","触れない":false}]
+○ トップ ja pc1440: トースト=true html lang=ja（期待 ja） 下余白=96px 重なった押せる物=2 うち触れない=0
+    [{"tag":"a","文":"彫刻\n            Sculptu","触れない":false},{"tag":"a","文":"工芸\n            Craft A","触れない":false}]
+○ 作家一覧 en pc1440: トースト=true html lang=en（期待 en） 下余白=96px 重なった押せる物=0 うち触れない=0
+○ 作家一覧 ja pc1440: トースト=true html lang=ja（期待 ja） 下余白=96px 重なった押せる物=0 うち触れない=0
+○ あつぺくとについて en pc1440: トースト=true html lang=en（期待 en） 下余白=96px 重なった押せる物=0 うち触れない=0
+○ あつぺくとについて ja pc1440: トースト=true html lang=ja（期待 ja） 下余白=96px 重なった押せる物=2 うち触れない=0
+    [{"tag":"input","文":"","触れない":false},{"tag":"button","文":"登録するSubscribe订阅訂閱구독하기S","触れない":false}]
+
+## D-3＝作品一覧でジャンルを押したときの「技法」の案内（8ジャンルすべて）
+
+★触れない押せる物＝1 件／html lang が合っていない＝0 通り
