@@ -109,3 +109,25 @@
 - **仏語の単純過去722欄**＝代表指示により**別便**。本便では触りません。
 - **代表作欄（masterworks）・収蔵先（collection）・肩書き（role）・日本語原文**＝触りません。
 - **序列語**＝司令塔預かり。触りません。
+
+## ★追加宣言（第12便 工程2a＝型1・略歴）2026-08-10 13:15／翻訳品質T／model=Opus 5
+
+**触る欄＝`bio`（略歴）の1文目のみ。言語＝en / fr / es / de / ko。417欄・101名。**
+代表作欄・収蔵先欄・肩書き欄・日本語原文には触りません。
+
+fukuda-toyoshiro yoshioka-kenji sugiyama-yasushi takayama-tatsuo higashiyama-kaii hashimoto-meiji kayama-matazo
+hirayama-ikuo moriya-tadashi kataoka-tamako ogura-yuki akino-fuku ikeda-yoson iwahashi-eien tanaka-isson
+uemura-shoko goto-sumio maruki-iri maruki-toshi nakamura-masayoshi fusen-tetsu takahashi-yuichi goseda-yoshimatsu
+asai-chu yamamoto-hosui harada-naojiro kuroda-seiki kume-keiichiro okada-saburosuke satomi-katsuzo hayashi-shizue
+hazama-inosuke somiya-ichinen suzuki-shintaro terauchi-manjiro nakamura-kenichi miyake-kokki oshita-tojiro
+yoshida-hiroshi yamaguchi-kaoru murai-masanari nambata-tatsuoki aso-saburo tsuruoka-masao sugiura-hisui
+yamana-ayao hara-hiromu kono-takashi kamekura-yusaku tanaka-ikko hayakawa-yoshio awazu-kiyoshi katsui-mitsuo
+yamashiro-ryuichi nakajo-masayoshi ishioka-eiko manabe-hiroshi kimura-tsunehisa kawashima-riichiro tsuda-seifu
+masamune-tokusaburo nakagawa-kigen kuroda-jutaro saburi-makoto kito-nabesaburo nakayama-takashi hayashi-shigeyoshi
+makino-torao ihara-usaburo osawa-shosuke nakamura-takuji okuda-genso sato-taisei tatsuno-kingo ito-chuta
+katayama-tokuma tange-kenzo seike-kiyoshi isozaki-arata maki-fumihiko uchida-yoshikazu murano-togo maekawa-kunio
+yoshida-isoya taniguchi-yoshiro sano-toshikata kikutake-kiyonori ashihara-yoshinobu otaka-masato sakakura-junzo
+yoshizaka-takamasa imai-kenji kurokawa-kisho shinohara-kazuo azuma-takamitsu tsuchiura-kameki kishida-hideto
+shirai-seiichi yamaguchi-bunzo ikebe-kiyoshi nishizawa-fumitaka
+
+★**鈴木千賀子さま（現存作家）は対象外**＝時制の扱いが違うため、機械の一括からは外して保留に記録します。
