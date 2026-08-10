@@ -209,3 +209,24 @@ kishida-hideto shirai-seiichi yamaguchi-bunzo ikebe-kiyoshi nishizawa-fumitaka
 **★日課（連続版）は本便では再開していません。導線順のカーソルは `fukuda-shigeo`（59番目）のままです。**
 
 最終更新：2026-08-10（第12便 完了）
+
+---
+
+# 第13便＝型1の仕上げ横断（2026-08-10 14:05／翻訳品質T／model=Opus 5）
+
+**触る欄＝`viewpoint`（功績）の1文目のみ。言語＝en / fr / es / de。111欄・70名。**
+代表作欄・収蔵先欄・肩書き欄・略歴・日本語原文には触りません。
+
+重なり確認＝リサーチTは代表作欄（別の欄）、SNS運用Tはテーマの liquid、システム開発Tはダッシュボード。**作家の訳文欄への書き込み宣言は当Tのみ。**
+
+```
+ito-shinsui fukuda-toyoshiro yoshioka-kenji sugiyama-yasushi takayama-tatsuo hashimoto-meiji moriya-tadashi kataoka-tamako
+ogura-yuki ikeda-yoson iwahashi-eien saeki-yuzo aso-saburo tsuruoka-masao hibino-goho hidai-nankoku
+sato-gengyo kinouchi-yoshi yamamoto-toyoichi yasuda-ryumon kaneshige-toyo tsukamoto-kaiji matsui-kosei kato-kozo
+komiya-kosuke otomaru-kodo masumura-mashiki shono-shounsai hori-ryujo kagami-kozo hirafuku-hyakusui yamamoto-shunkyo
+konoshima-okoku minami-kunzo kurata-hakuyo morita-tsunetomo kosugi-hoan shinkai-takezo miki-sosaku numata-ichiga
+hinago-jitsuzo takeishi-kozaburo fujikawa-yuzo nakamura-naondo sasamura-sokajin koga-tadao kitamura-haruyoshi tada-minami
+amemiya-keiko suwa-sozan uno-soyo yamada-hikaru tokuda-yasokichi taira-toshiko yonamine-sada isoi-masami
+yamazaki-kakutaro katori-masahiko eri-sayoko iizuka-shokansai ono-showasai nakadai-zuishin noguchi-mitsuhiko amata-akitsugu
+osumi-toshihira katayama-tokuma seike-kiyoshi maki-fumihiko yoshizaka-takamasa kishida-hideto
+```
