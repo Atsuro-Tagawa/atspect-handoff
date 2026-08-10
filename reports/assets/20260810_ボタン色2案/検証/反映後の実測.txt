@@ -1,0 +1,22 @@
+# 主役ボタンの色の実測
+
+- (B) ja sp390＝背景 #5d678b ／ 文字 #ffffff ／ 対比 5.56:1 ／ 216×64px ／ はみ出し false
+- (B) en sp390＝背景 #5d678b ／ 文字 #ffffff ／ 対比 5.56:1 ／ 277×64px ／ はみ出し false
+- (B) zh-cn sp390＝背景 #5d678b ／ 文字 #ffffff ／ 対比 5.56:1 ／ 216×64px ／ はみ出し false
+- (B) zh-tw sp390＝背景 #5d678b ／ 文字 #ffffff ／ 対比 5.56:1 ／ 216×64px ／ はみ出し false
+- (B) ko sp390＝背景 #5d678b ／ 文字 #ffffff ／ 対比 5.56:1 ／ 206×64px ／ はみ出し false
+- (B) fr sp390＝背景 #5d678b ／ 文字 #ffffff ／ 対比 5.56:1 ／ 335×86px ／ はみ出し false
+- (B) es sp390＝背景 #5d678b ／ 文字 #ffffff ／ 対比 5.56:1 ／ 303×64px ／ はみ出し false
+- (B) de sp390＝背景 #5d678b ／ 文字 #ffffff ／ 対比 5.56:1 ／ 332×64px ／ はみ出し false
+- (B) ja pc1440＝背景 #5d678b ／ 文字 #ffffff ／ 対比 5.56:1 ／ 294×75px ／ はみ出し false
+- (B) en pc1440＝背景 #5d678b ／ 文字 #ffffff ／ 対比 5.56:1 ／ 372×75px ／ はみ出し false
+- (B) zh-cn pc1440＝背景 #5d678b ／ 文字 #ffffff ／ 対比 5.56:1 ／ 294×75px ／ はみ出し false
+- (B) zh-tw pc1440＝背景 #5d678b ／ 文字 #ffffff ／ 対比 5.56:1 ／ 294×75px ／ はみ出し false
+- (B) ko pc1440＝背景 #5d678b ／ 文字 #ffffff ／ 対比 5.56:1 ／ 281×75px ／ はみ出し false
+- (B) fr pc1440＝背景 #5d678b ／ 文字 #ffffff ／ 対比 5.56:1 ／ 480×75px ／ はみ出し false
+- (B) es pc1440＝背景 #5d678b ／ 文字 #ffffff ／ 対比 5.56:1 ／ 406×75px ／ はみ出し false
+- (B) de pc1440＝背景 #5d678b ／ 文字 #ffffff ／ 対比 5.56:1 ／ 441×75px ／ はみ出し false
+- (A見本) ja sp390＝背景 #6f6a63 ／ 文字 #ffffff ／ 対比 5.36:1 ★ライブには反映していない（ブラウザの中だけ）
+- (A見本) ja pc1440＝背景 #6f6a63 ／ 文字 #ffffff ／ 対比 5.36:1 ★ライブには反映していない（ブラウザの中だけ）
+
+★NG 0 件（8言語×2幅＝16通り／対比4.5:1以上・はみ出し0）
