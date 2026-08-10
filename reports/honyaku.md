@@ -238,3 +238,10 @@ osumi-toshihira katayama-tokuma seike-kiyoshi maki-fumihiko yoshizaka-takamasa k
 higashiyama-kaii kayama-matazo hirayama-ikuo tanaka-isson takahashi-sadatsugu yamana-ayao kamekura-yusaku ekuan-kenji nobuo-sekine toshimitsu-imai nakagawa-kigen sato-taisei sasamura-sokajin rokkaku-shisui saji-tadasu ito-chuta
 ```
 ★**Codexに残量211件を1言語ずつ判定させ、「文として完成していない」と出た49欄だけを対象にしました**（残りは当Tの検出器の誤検出）。
+
+## ★追加宣言（第13便 第3束＝型1の最後の15欄）2026-08-10 14:50
+
+**触る欄＝`viewpoint` の1文目のみ。15欄・7名。**
+```
+hara-hiromu awazu-kiyoshi tanaka-ikko nobuo-sekine yamana-ayao yorozu-tetsugoro hidai-nankoku
+```
