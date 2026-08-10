@@ -1,0 +1,82 @@
+{
+  "results": [
+    {
+      "file": "QR_あつぺくとトップ",
+      "expected_url": "https://atspect.com/",
+      "png_size": [
+        1080,
+        1920
+      ],
+      "routeA_decoded": "https://atspect.com/",
+      "routeA_match": true,
+      "routeB_shape_expected": [
+        33,
+        33
+      ],
+      "routeB_shape_got": [
+        33,
+        33
+      ],
+      "routeB_mismatch_bits": 0,
+      "routeB_match": true,
+      "qr_rect_px": {
+        "x": 160,
+        "y": 650.34375,
+        "w": 760,
+        "h": 760
+      },
+      "px_per_module": 23.03,
+      "PASS": true
+    },
+    {
+      "file": "QR_申込フォーム",
+      "expected_url": "https://atspect.com/pages/artist-registration-form",
+      "png_size": [
+        1080,
+        1920
+      ],
+      "routeA_decoded": "https://atspect.com/pages/artist-registration-form",
+      "routeA_match": true,
+      "routeB_shape_expected": [
+        41,
+        41
+      ],
+      "routeB_shape_got": [
+        41,
+        41
+      ],
+      "routeB_mismatch_bits": 0,
+      "routeB_match": true,
+      "qr_rect_px": {
+        "x": 160,
+        "y": 650.34375,
+        "w": 760,
+        "h": 760
+      },
+      "px_per_module": 18.537,
+      "PASS": true
+    }
+  ],
+  "karaburi": [
+    {
+      "test": "topの画像をformのURLという誤った期待値で検査",
+      "routeA_match": false,
+      "shape_expected": [
+        41,
+        41
+      ],
+      "shape_got": [
+        33,
+        33
+      ],
+      "detects_as_FAIL": true
+    },
+    {
+      "test": "topの画像の1モジュールを反転した改ざん版",
+      "routeA_decoded_equals_expected": true,
+      "routeB_mismatch_bits": 1,
+      "routeB_detects_as_FAIL": true
+    }
+  ],
+  "all_pass": true
+}

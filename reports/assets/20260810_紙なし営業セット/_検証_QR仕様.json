@@ -1,0 +1,32 @@
+[
+  {
+    "key": "top",
+    "file": "QR_あつぺくとトップ",
+    "name": "サイトのトップ",
+    "url": "https://atspect.com/",
+    "version": 2,
+    "error_correction": "M",
+    "modules": 25,
+    "border": 4,
+    "total_modules": 33,
+    "src_px": 660,
+    "bytes_len": 20,
+    "render_qr_css_px": 760,
+    "px_per_module_rendered": 23.03
+  },
+  {
+    "key": "form",
+    "file": "QR_申込フォーム",
+    "name": "登録審査のお申し込み",
+    "url": "https://atspect.com/pages/artist-registration-form",
+    "version": 4,
+    "error_correction": "M",
+    "modules": 33,
+    "border": 4,
+    "total_modules": 41,
+    "src_px": 820,
+    "bytes_len": 50,
+    "render_qr_css_px": 760,
+    "px_per_module_rendered": 18.537
+  }
+]
