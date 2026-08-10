@@ -1,0 +1,2522 @@
+[
+  {
+    "page": "作家と作品を探す",
+    "lang": "ja",
+    "width": 360,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+    "noneHintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+    "sameText": true,
+    "hint": {
+      "top": 402,
+      "bottom": 445,
+      "h": 43
+    },
+    "msg": {
+      "top": 906,
+      "bottom": 1005,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 1020,
+      "bottom": 1120,
+      "h": 101
+    },
+    "span": 718,
+    "docH": 2306
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "ja",
+    "width": 390,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+    "noneHintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+    "sameText": true,
+    "hint": {
+      "top": 405,
+      "bottom": 427,
+      "h": 22
+    },
+    "msg": {
+      "top": 836,
+      "bottom": 935,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 950,
+      "bottom": 1050,
+      "h": 101
+    },
+    "span": 645,
+    "docH": 2197
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "ja",
+    "width": 430,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+    "noneHintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+    "sameText": true,
+    "hint": {
+      "top": 411,
+      "bottom": 432,
+      "h": 22
+    },
+    "msg": {
+      "top": 841,
+      "bottom": 940,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 955,
+      "bottom": 1035,
+      "h": 80
+    },
+    "span": 624,
+    "docH": 2182
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "ja",
+    "width": 480,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+    "noneHintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+    "sameText": true,
+    "hint": {
+      "top": 411,
+      "bottom": 432,
+      "h": 22
+    },
+    "msg": {
+      "top": 841,
+      "bottom": 940,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 955,
+      "bottom": 1035,
+      "h": 80
+    },
+    "span": 624,
+    "docH": 2182
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "ja",
+    "width": 560,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+    "noneHintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+    "sameText": true,
+    "hint": {
+      "top": 383,
+      "bottom": 405,
+      "h": 22
+    },
+    "msg": {
+      "top": 765,
+      "bottom": 864,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 879,
+      "bottom": 959,
+      "h": 80
+    },
+    "span": 576,
+    "docH": 2106
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "ja",
+    "width": 640,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+    "noneHintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+    "sameText": true,
+    "hint": {
+      "top": 396,
+      "bottom": 417,
+      "h": 22
+    },
+    "msg": {
+      "top": 777,
+      "bottom": 876,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 891,
+      "bottom": 972,
+      "h": 80
+    },
+    "span": 576,
+    "docH": 2079
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "ja",
+    "width": 700,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+    "noneHintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+    "sameText": true,
+    "hint": {
+      "top": 399,
+      "bottom": 420,
+      "h": 22
+    },
+    "msg": {
+      "top": 728,
+      "bottom": 827,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 842,
+      "bottom": 922,
+      "h": 80
+    },
+    "span": 523,
+    "docH": 2030
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "ja",
+    "width": 749,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+    "noneHintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+    "sameText": true,
+    "hint": {
+      "top": 401,
+      "bottom": 423,
+      "h": 22
+    },
+    "msg": {
+      "top": 730,
+      "bottom": 829,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 844,
+      "bottom": 925,
+      "h": 80
+    },
+    "span": 524,
+    "docH": 2032
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "ja",
+    "width": 768,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+    "noneHintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+    "sameText": true,
+    "hint": {
+      "top": 454,
+      "bottom": 476,
+      "h": 22
+    },
+    "msg": {
+      "top": 767,
+      "bottom": 866,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 881,
+      "bottom": 962,
+      "h": 80
+    },
+    "span": 508,
+    "docH": 1885
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "ja",
+    "width": 860,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+    "noneHintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+    "sameText": true,
+    "hint": {
+      "top": 456,
+      "bottom": 477,
+      "h": 22
+    },
+    "msg": {
+      "top": 769,
+      "bottom": 868,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 883,
+      "bottom": 963,
+      "h": 80
+    },
+    "span": 507,
+    "docH": 1887
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "ja",
+    "width": 900,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+    "noneHintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+    "sameText": true,
+    "hint": {
+      "top": 456,
+      "bottom": 477,
+      "h": 22
+    },
+    "msg": {
+      "top": 769,
+      "bottom": 868,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 883,
+      "bottom": 963,
+      "h": 80
+    },
+    "span": 507,
+    "docH": 1887
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "ja",
+    "width": 989,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+    "noneHintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+    "sameText": true,
+    "hint": {
+      "top": 456,
+      "bottom": 477,
+      "h": 22
+    },
+    "msg": {
+      "top": 769,
+      "bottom": 868,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 883,
+      "bottom": 963,
+      "h": 80
+    },
+    "span": 507,
+    "docH": 1887
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "ja",
+    "width": 1024,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+    "noneHintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+    "sameText": true,
+    "hint": {
+      "top": 472,
+      "bottom": 493,
+      "h": 22
+    },
+    "msg": {
+      "top": 785,
+      "bottom": 884,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 899,
+      "bottom": 979,
+      "h": 80
+    },
+    "span": 507,
+    "docH": 1867
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "ja",
+    "width": 1200,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+    "noneHintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+    "sameText": true,
+    "hint": {
+      "top": 472,
+      "bottom": 493,
+      "h": 22
+    },
+    "msg": {
+      "top": 785,
+      "bottom": 884,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 899,
+      "bottom": 979,
+      "h": 80
+    },
+    "span": 507,
+    "docH": 1838
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "ja",
+    "width": 1440,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+    "noneHintText": "※作家名・作品名は読みがな（ひらがな）でも検索可能です",
+    "sameText": true,
+    "hint": {
+      "top": 472,
+      "bottom": 493,
+      "h": 22
+    },
+    "msg": {
+      "top": 785,
+      "bottom": 884,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 899,
+      "bottom": 979,
+      "h": 80
+    },
+    "span": 507,
+    "docH": 1838
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "en",
+    "width": 360,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "noneHintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "sameText": true,
+    "hint": {
+      "top": 402,
+      "bottom": 445,
+      "h": 43
+    },
+    "msg": {
+      "top": 1055,
+      "bottom": 1154,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 1169,
+      "bottom": 1269,
+      "h": 101
+    },
+    "span": 867,
+    "docH": 2455
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "en",
+    "width": 390,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "noneHintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "sameText": true,
+    "hint": {
+      "top": 405,
+      "bottom": 448,
+      "h": 43
+    },
+    "msg": {
+      "top": 1009,
+      "bottom": 1108,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 1123,
+      "bottom": 1224,
+      "h": 101
+    },
+    "span": 819,
+    "docH": 2351
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "en",
+    "width": 430,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "noneHintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "sameText": true,
+    "hint": {
+      "top": 381,
+      "bottom": 402,
+      "h": 22
+    },
+    "msg": {
+      "top": 911,
+      "bottom": 1010,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 1025,
+      "bottom": 1105,
+      "h": 80
+    },
+    "span": 724,
+    "docH": 2232
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "en",
+    "width": 480,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "noneHintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "sameText": true,
+    "hint": {
+      "top": 381,
+      "bottom": 402,
+      "h": 22
+    },
+    "msg": {
+      "top": 911,
+      "bottom": 1010,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 1025,
+      "bottom": 1105,
+      "h": 80
+    },
+    "span": 724,
+    "docH": 2232
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "en",
+    "width": 560,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "noneHintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "sameText": true,
+    "hint": {
+      "top": 383,
+      "bottom": 405,
+      "h": 22
+    },
+    "msg": {
+      "top": 813,
+      "bottom": 912,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 927,
+      "bottom": 1007,
+      "h": 80
+    },
+    "span": 624,
+    "docH": 2134
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "en",
+    "width": 640,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "noneHintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "sameText": true,
+    "hint": {
+      "top": 396,
+      "bottom": 417,
+      "h": 22
+    },
+    "msg": {
+      "top": 825,
+      "bottom": 924,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 939,
+      "bottom": 1020,
+      "h": 80
+    },
+    "span": 624,
+    "docH": 2084
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "en",
+    "width": 700,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "noneHintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "sameText": true,
+    "hint": {
+      "top": 399,
+      "bottom": 420,
+      "h": 22
+    },
+    "msg": {
+      "top": 828,
+      "bottom": 927,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 942,
+      "bottom": 1022,
+      "h": 80
+    },
+    "span": 623,
+    "docH": 2087
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "en",
+    "width": 749,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "noneHintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "sameText": true,
+    "hint": {
+      "top": 401,
+      "bottom": 423,
+      "h": 22
+    },
+    "msg": {
+      "top": 830,
+      "bottom": 929,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 944,
+      "bottom": 1025,
+      "h": 80
+    },
+    "span": 624,
+    "docH": 2089
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "en",
+    "width": 768,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "noneHintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "sameText": true,
+    "hint": {
+      "top": 454,
+      "bottom": 476,
+      "h": 22
+    },
+    "msg": {
+      "top": 846,
+      "bottom": 945,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 960,
+      "bottom": 1041,
+      "h": 80
+    },
+    "span": 587,
+    "docH": 1976
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "en",
+    "width": 860,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "noneHintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "sameText": true,
+    "hint": {
+      "top": 456,
+      "bottom": 477,
+      "h": 22
+    },
+    "msg": {
+      "top": 848,
+      "bottom": 947,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 962,
+      "bottom": 1042,
+      "h": 80
+    },
+    "span": 586,
+    "docH": 1978
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "en",
+    "width": 900,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "noneHintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "sameText": true,
+    "hint": {
+      "top": 456,
+      "bottom": 477,
+      "h": 22
+    },
+    "msg": {
+      "top": 848,
+      "bottom": 947,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 962,
+      "bottom": 1042,
+      "h": 80
+    },
+    "span": 586,
+    "docH": 1978
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "en",
+    "width": 989,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "noneHintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "sameText": true,
+    "hint": {
+      "top": 456,
+      "bottom": 477,
+      "h": 22
+    },
+    "msg": {
+      "top": 848,
+      "bottom": 947,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 962,
+      "bottom": 1042,
+      "h": 80
+    },
+    "span": 586,
+    "docH": 1936
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "en",
+    "width": 1024,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "noneHintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "sameText": true,
+    "hint": {
+      "top": 472,
+      "bottom": 493,
+      "h": 22
+    },
+    "msg": {
+      "top": 864,
+      "bottom": 963,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 978,
+      "bottom": 1058,
+      "h": 80
+    },
+    "span": 586,
+    "docH": 1956
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "en",
+    "width": 1200,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "noneHintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "sameText": true,
+    "hint": {
+      "top": 472,
+      "bottom": 493,
+      "h": 22
+    },
+    "msg": {
+      "top": 782,
+      "bottom": 881,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 896,
+      "bottom": 976,
+      "h": 80
+    },
+    "span": 504,
+    "docH": 1874
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "en",
+    "width": 1440,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "noneHintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "sameText": true,
+    "hint": {
+      "top": 472,
+      "bottom": 493,
+      "h": 22
+    },
+    "msg": {
+      "top": 782,
+      "bottom": 881,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 896,
+      "bottom": 976,
+      "h": 80
+    },
+    "span": 504,
+    "docH": 1874
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "de",
+    "width": 360,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "noneHintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "sameText": true,
+    "hint": {
+      "top": 402,
+      "bottom": 445,
+      "h": 43
+    },
+    "msg": {
+      "top": 1107,
+      "bottom": 1206,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 1221,
+      "bottom": 1321,
+      "h": 101
+    },
+    "span": 919,
+    "docH": 2513
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "de",
+    "width": 390,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "noneHintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "sameText": true,
+    "hint": {
+      "top": 405,
+      "bottom": 448,
+      "h": 43
+    },
+    "msg": {
+      "top": 1009,
+      "bottom": 1108,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 1123,
+      "bottom": 1224,
+      "h": 101
+    },
+    "span": 819,
+    "docH": 2351
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "de",
+    "width": 430,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "noneHintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "sameText": true,
+    "hint": {
+      "top": 411,
+      "bottom": 454,
+      "h": 43
+    },
+    "msg": {
+      "top": 1015,
+      "bottom": 1114,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 1129,
+      "bottom": 1229,
+      "h": 101
+    },
+    "span": 818,
+    "docH": 2356
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "de",
+    "width": 480,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "noneHintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "sameText": true,
+    "hint": {
+      "top": 411,
+      "bottom": 432,
+      "h": 22
+    },
+    "msg": {
+      "top": 941,
+      "bottom": 1040,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 1055,
+      "bottom": 1135,
+      "h": 80
+    },
+    "span": 724,
+    "docH": 2262
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "de",
+    "width": 560,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "noneHintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "sameText": true,
+    "hint": {
+      "top": 413,
+      "bottom": 435,
+      "h": 22
+    },
+    "msg": {
+      "top": 895,
+      "bottom": 994,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 1009,
+      "bottom": 1089,
+      "h": 80
+    },
+    "span": 676,
+    "docH": 2216
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "de",
+    "width": 640,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "noneHintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "sameText": true,
+    "hint": {
+      "top": 426,
+      "bottom": 447,
+      "h": 22
+    },
+    "msg": {
+      "top": 855,
+      "bottom": 954,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 969,
+      "bottom": 1050,
+      "h": 80
+    },
+    "span": 624,
+    "docH": 2114
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "de",
+    "width": 700,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "noneHintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "sameText": true,
+    "hint": {
+      "top": 399,
+      "bottom": 420,
+      "h": 22
+    },
+    "msg": {
+      "top": 828,
+      "bottom": 927,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 942,
+      "bottom": 1022,
+      "h": 80
+    },
+    "span": 623,
+    "docH": 2087
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "de",
+    "width": 749,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "noneHintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "sameText": true,
+    "hint": {
+      "top": 401,
+      "bottom": 423,
+      "h": 22
+    },
+    "msg": {
+      "top": 830,
+      "bottom": 929,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 944,
+      "bottom": 1025,
+      "h": 80
+    },
+    "span": 624,
+    "docH": 2089
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "de",
+    "width": 768,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "noneHintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "sameText": true,
+    "hint": {
+      "top": 454,
+      "bottom": 476,
+      "h": 22
+    },
+    "msg": {
+      "top": 846,
+      "bottom": 945,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 960,
+      "bottom": 1041,
+      "h": 80
+    },
+    "span": 587,
+    "docH": 1976
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "de",
+    "width": 860,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "noneHintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "sameText": true,
+    "hint": {
+      "top": 456,
+      "bottom": 477,
+      "h": 22
+    },
+    "msg": {
+      "top": 848,
+      "bottom": 947,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 962,
+      "bottom": 1042,
+      "h": 80
+    },
+    "span": 586,
+    "docH": 1978
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "de",
+    "width": 900,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "noneHintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "sameText": true,
+    "hint": {
+      "top": 456,
+      "bottom": 477,
+      "h": 22
+    },
+    "msg": {
+      "top": 848,
+      "bottom": 947,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 962,
+      "bottom": 1042,
+      "h": 80
+    },
+    "span": 586,
+    "docH": 1978
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "de",
+    "width": 989,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "noneHintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "sameText": true,
+    "hint": {
+      "top": 456,
+      "bottom": 477,
+      "h": 22
+    },
+    "msg": {
+      "top": 848,
+      "bottom": 947,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 962,
+      "bottom": 1042,
+      "h": 80
+    },
+    "span": 586,
+    "docH": 1966
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "de",
+    "width": 1024,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "noneHintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "sameText": true,
+    "hint": {
+      "top": 472,
+      "bottom": 493,
+      "h": 22
+    },
+    "msg": {
+      "top": 864,
+      "bottom": 963,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 978,
+      "bottom": 1058,
+      "h": 80
+    },
+    "span": 586,
+    "docH": 1986
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "de",
+    "width": 1200,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "noneHintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "sameText": true,
+    "hint": {
+      "top": 472,
+      "bottom": 493,
+      "h": 22
+    },
+    "msg": {
+      "top": 782,
+      "bottom": 881,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 896,
+      "bottom": 976,
+      "h": 80
+    },
+    "span": 504,
+    "docH": 1874
+  },
+  {
+    "page": "作家と作品を探す",
+    "lang": "de",
+    "width": 1440,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "noneHintText": "Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "sameText": true,
+    "hint": {
+      "top": 472,
+      "bottom": 493,
+      "h": 22
+    },
+    "msg": {
+      "top": 782,
+      "bottom": 881,
+      "h": 99
+    },
+    "noneHint": {
+      "top": 896,
+      "bottom": 976,
+      "h": 80
+    },
+    "span": 504,
+    "docH": 1874
+  },
+  {
+    "page": "作品一覧",
+    "lang": "ja",
+    "width": 360,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "※作品名・作家名は読みがな（ひらがな）でも検索可能です",
+    "noneHintText": "※作品名・作家名は読みがな（ひらがな）でも検索可能です",
+    "sameText": true,
+    "hint": {
+      "top": 406,
+      "bottom": 449,
+      "h": 43
+    },
+    "msg": {
+      "top": 900,
+      "bottom": 958,
+      "h": 58
+    },
+    "noneHint": {
+      "top": 992,
+      "bottom": 1033,
+      "h": 41
+    },
+    "span": 627,
+    "docH": 2345
+  },
+  {
+    "page": "作品一覧",
+    "lang": "ja",
+    "width": 390,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "※作品名・作家名は読みがな（ひらがな）でも検索可能です",
+    "noneHintText": "※作品名・作家名は読みがな（ひらがな）でも検索可能です",
+    "sameText": true,
+    "hint": {
+      "top": 409,
+      "bottom": 431,
+      "h": 22
+    },
+    "msg": {
+      "top": 834,
+      "bottom": 863,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 897,
+      "bottom": 938,
+      "h": 41
+    },
+    "span": 529,
+    "docH": 2211
+  },
+  {
+    "page": "作品一覧",
+    "lang": "ja",
+    "width": 430,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "※作品名・作家名は読みがな（ひらがな）でも検索可能です",
+    "noneHintText": "※作品名・作家名は読みがな（ひらがな）でも検索可能です",
+    "sameText": true,
+    "hint": {
+      "top": 415,
+      "bottom": 436,
+      "h": 22
+    },
+    "msg": {
+      "top": 818,
+      "bottom": 846,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 880,
+      "bottom": 901,
+      "h": 20
+    },
+    "span": 486,
+    "docH": 2174
+  },
+  {
+    "page": "作品一覧",
+    "lang": "ja",
+    "width": 480,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "※作品名・作家名は読みがな（ひらがな）でも検索可能です",
+    "noneHintText": "※作品名・作家名は読みがな（ひらがな）でも検索可能です",
+    "sameText": true,
+    "hint": {
+      "top": 415,
+      "bottom": 436,
+      "h": 22
+    },
+    "msg": {
+      "top": 818,
+      "bottom": 846,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 880,
+      "bottom": 901,
+      "h": 20
+    },
+    "span": 486,
+    "docH": 2174
+  },
+  {
+    "page": "作品一覧",
+    "lang": "ja",
+    "width": 560,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "※作品名・作家名は読みがな（ひらがな）でも検索可能です",
+    "noneHintText": "※作品名・作家名は読みがな（ひらがな）でも検索可能です",
+    "sameText": true,
+    "hint": {
+      "top": 387,
+      "bottom": 409,
+      "h": 22
+    },
+    "msg": {
+      "top": 791,
+      "bottom": 819,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 853,
+      "bottom": 874,
+      "h": 20
+    },
+    "span": 487,
+    "docH": 2147
+  },
+  {
+    "page": "作品一覧",
+    "lang": "ja",
+    "width": 640,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "※作品名・作家名は読みがな（ひらがな）でも検索可能です",
+    "noneHintText": "※作品名・作家名は読みがな（ひらがな）でも検索可能です",
+    "sameText": true,
+    "hint": {
+      "top": 400,
+      "bottom": 421,
+      "h": 22
+    },
+    "msg": {
+      "top": 803,
+      "bottom": 832,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 866,
+      "bottom": 886,
+      "h": 20
+    },
+    "span": 486,
+    "docH": 2121
+  },
+  {
+    "page": "作品一覧",
+    "lang": "ja",
+    "width": 700,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "※作品名・作家名は読みがな（ひらがな）でも検索可能です",
+    "noneHintText": "※作品名・作家名は読みがな（ひらがな）でも検索可能です",
+    "sameText": true,
+    "hint": {
+      "top": 403,
+      "bottom": 424,
+      "h": 22
+    },
+    "msg": {
+      "top": 758,
+      "bottom": 787,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 821,
+      "bottom": 841,
+      "h": 20
+    },
+    "span": 438,
+    "docH": 2076
+  },
+  {
+    "page": "作品一覧",
+    "lang": "ja",
+    "width": 749,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "※作品名・作家名は読みがな（ひらがな）でも検索可能です",
+    "noneHintText": "※作品名・作家名は読みがな（ひらがな）でも検索可能です",
+    "sameText": true,
+    "hint": {
+      "top": 405,
+      "bottom": 427,
+      "h": 22
+    },
+    "msg": {
+      "top": 760,
+      "bottom": 789,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 823,
+      "bottom": 843,
+      "h": 20
+    },
+    "span": 438,
+    "docH": 2078
+  },
+  {
+    "page": "作品一覧",
+    "lang": "ja",
+    "width": 768,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "※作品名・作家名は読みがな（ひらがな）でも検索可能です",
+    "noneHintText": "※作品名・作家名は読みがな（ひらがな）でも検索可能です",
+    "sameText": true,
+    "hint": {
+      "top": 458,
+      "bottom": 480,
+      "h": 22
+    },
+    "msg": {
+      "top": 829,
+      "bottom": 858,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 892,
+      "bottom": 912,
+      "h": 20
+    },
+    "span": 454,
+    "docH": 1973
+  },
+  {
+    "page": "作品一覧",
+    "lang": "ja",
+    "width": 860,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "※作品名・作家名は読みがな（ひらがな）でも検索可能です",
+    "noneHintText": "※作品名・作家名は読みがな（ひらがな）でも検索可能です",
+    "sameText": true,
+    "hint": {
+      "top": 460,
+      "bottom": 481,
+      "h": 22
+    },
+    "msg": {
+      "top": 831,
+      "bottom": 859,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 893,
+      "bottom": 914,
+      "h": 20
+    },
+    "span": 454,
+    "docH": 1974
+  },
+  {
+    "page": "作品一覧",
+    "lang": "ja",
+    "width": 900,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "※作品名・作家名は読みがな（ひらがな）でも検索可能です",
+    "noneHintText": "※作品名・作家名は読みがな（ひらがな）でも検索可能です",
+    "sameText": true,
+    "hint": {
+      "top": 460,
+      "bottom": 481,
+      "h": 22
+    },
+    "msg": {
+      "top": 831,
+      "bottom": 859,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 893,
+      "bottom": 914,
+      "h": 20
+    },
+    "span": 454,
+    "docH": 1974
+  },
+  {
+    "page": "作品一覧",
+    "lang": "ja",
+    "width": 989,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "※作品名・作家名は読みがな（ひらがな）でも検索可能です",
+    "noneHintText": "※作品名・作家名は読みがな（ひらがな）でも検索可能です",
+    "sameText": true,
+    "hint": {
+      "top": 460,
+      "bottom": 481,
+      "h": 22
+    },
+    "msg": {
+      "top": 831,
+      "bottom": 859,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 893,
+      "bottom": 914,
+      "h": 20
+    },
+    "span": 454,
+    "docH": 1974
+  },
+  {
+    "page": "作品一覧",
+    "lang": "ja",
+    "width": 1024,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "※作品名・作家名は読みがな（ひらがな）でも検索可能です",
+    "noneHintText": "※作品名・作家名は読みがな（ひらがな）でも検索可能です",
+    "sameText": true,
+    "hint": {
+      "top": 476,
+      "bottom": 497,
+      "h": 22
+    },
+    "msg": {
+      "top": 847,
+      "bottom": 875,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 909,
+      "bottom": 930,
+      "h": 20
+    },
+    "span": 454,
+    "docH": 1954
+  },
+  {
+    "page": "作品一覧",
+    "lang": "ja",
+    "width": 1200,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "※作品名・作家名は読みがな（ひらがな）でも検索可能です",
+    "noneHintText": "※作品名・作家名は読みがな（ひらがな）でも検索可能です",
+    "sameText": true,
+    "hint": {
+      "top": 476,
+      "bottom": 497,
+      "h": 22
+    },
+    "msg": {
+      "top": 847,
+      "bottom": 875,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 909,
+      "bottom": 930,
+      "h": 20
+    },
+    "span": 454,
+    "docH": 1925
+  },
+  {
+    "page": "作品一覧",
+    "lang": "ja",
+    "width": 1440,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "※作品名・作家名は読みがな（ひらがな）でも検索可能です",
+    "noneHintText": "※作品名・作家名は読みがな（ひらがな）でも検索可能です",
+    "sameText": true,
+    "hint": {
+      "top": 476,
+      "bottom": 497,
+      "h": 22
+    },
+    "msg": {
+      "top": 847,
+      "bottom": 875,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 909,
+      "bottom": 930,
+      "h": 20
+    },
+    "span": 454,
+    "docH": 1925
+  },
+  {
+    "page": "作品一覧",
+    "lang": "en",
+    "width": 360,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "noneHintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "sameText": true,
+    "hint": {
+      "top": 406,
+      "bottom": 449,
+      "h": 43
+    },
+    "msg": {
+      "top": 921,
+      "bottom": 950,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 984,
+      "bottom": 1025,
+      "h": 41
+    },
+    "span": 619,
+    "docH": 2336
+  },
+  {
+    "page": "作品一覧",
+    "lang": "en",
+    "width": 390,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "noneHintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "sameText": true,
+    "hint": {
+      "top": 409,
+      "bottom": 452,
+      "h": 43
+    },
+    "msg": {
+      "top": 925,
+      "bottom": 954,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 988,
+      "bottom": 1029,
+      "h": 41
+    },
+    "span": 620,
+    "docH": 2281
+  },
+  {
+    "page": "作品一覧",
+    "lang": "en",
+    "width": 430,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "noneHintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "sameText": true,
+    "hint": {
+      "top": 415,
+      "bottom": 436,
+      "h": 22
+    },
+    "msg": {
+      "top": 862,
+      "bottom": 890,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 924,
+      "bottom": 945,
+      "h": 20
+    },
+    "span": 530,
+    "docH": 2197
+  },
+  {
+    "page": "作品一覧",
+    "lang": "en",
+    "width": 480,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "noneHintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "sameText": true,
+    "hint": {
+      "top": 415,
+      "bottom": 436,
+      "h": 22
+    },
+    "msg": {
+      "top": 862,
+      "bottom": 890,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 924,
+      "bottom": 945,
+      "h": 20
+    },
+    "span": 530,
+    "docH": 2197
+  },
+  {
+    "page": "作品一覧",
+    "lang": "en",
+    "width": 560,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "noneHintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "sameText": true,
+    "hint": {
+      "top": 387,
+      "bottom": 409,
+      "h": 22
+    },
+    "msg": {
+      "top": 788,
+      "bottom": 816,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 850,
+      "bottom": 871,
+      "h": 20
+    },
+    "span": 484,
+    "docH": 2123
+  },
+  {
+    "page": "作品一覧",
+    "lang": "en",
+    "width": 640,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "noneHintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "sameText": true,
+    "hint": {
+      "top": 400,
+      "bottom": 421,
+      "h": 22
+    },
+    "msg": {
+      "top": 800,
+      "bottom": 829,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 863,
+      "bottom": 883,
+      "h": 20
+    },
+    "span": 483,
+    "docH": 2073
+  },
+  {
+    "page": "作品一覧",
+    "lang": "en",
+    "width": 700,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "noneHintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "sameText": true,
+    "hint": {
+      "top": 403,
+      "bottom": 424,
+      "h": 22
+    },
+    "msg": {
+      "top": 803,
+      "bottom": 832,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 866,
+      "bottom": 886,
+      "h": 20
+    },
+    "span": 483,
+    "docH": 2076
+  },
+  {
+    "page": "作品一覧",
+    "lang": "en",
+    "width": 749,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "noneHintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "sameText": true,
+    "hint": {
+      "top": 405,
+      "bottom": 427,
+      "h": 22
+    },
+    "msg": {
+      "top": 805,
+      "bottom": 834,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 868,
+      "bottom": 888,
+      "h": 20
+    },
+    "span": 483,
+    "docH": 2079
+  },
+  {
+    "page": "作品一覧",
+    "lang": "en",
+    "width": 768,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "noneHintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "sameText": true,
+    "hint": {
+      "top": 458,
+      "bottom": 480,
+      "h": 22
+    },
+    "msg": {
+      "top": 874,
+      "bottom": 903,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 937,
+      "bottom": 957,
+      "h": 20
+    },
+    "span": 499,
+    "docH": 2029
+  },
+  {
+    "page": "作品一覧",
+    "lang": "en",
+    "width": 860,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "noneHintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "sameText": true,
+    "hint": {
+      "top": 460,
+      "bottom": 481,
+      "h": 22
+    },
+    "msg": {
+      "top": 876,
+      "bottom": 904,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 938,
+      "bottom": 959,
+      "h": 20
+    },
+    "span": 499,
+    "docH": 2030
+  },
+  {
+    "page": "作品一覧",
+    "lang": "en",
+    "width": 900,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "noneHintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "sameText": true,
+    "hint": {
+      "top": 460,
+      "bottom": 481,
+      "h": 22
+    },
+    "msg": {
+      "top": 876,
+      "bottom": 904,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 938,
+      "bottom": 959,
+      "h": 20
+    },
+    "span": 499,
+    "docH": 2030
+  },
+  {
+    "page": "作品一覧",
+    "lang": "en",
+    "width": 989,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "noneHintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "sameText": true,
+    "hint": {
+      "top": 460,
+      "bottom": 481,
+      "h": 22
+    },
+    "msg": {
+      "top": 876,
+      "bottom": 904,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 938,
+      "bottom": 959,
+      "h": 20
+    },
+    "span": 499,
+    "docH": 1989
+  },
+  {
+    "page": "作品一覧",
+    "lang": "en",
+    "width": 1024,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "noneHintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "sameText": true,
+    "hint": {
+      "top": 476,
+      "bottom": 497,
+      "h": 22
+    },
+    "msg": {
+      "top": 892,
+      "bottom": 920,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 954,
+      "bottom": 975,
+      "h": 20
+    },
+    "span": 499,
+    "docH": 2009
+  },
+  {
+    "page": "作品一覧",
+    "lang": "en",
+    "width": 1200,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "noneHintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "sameText": true,
+    "hint": {
+      "top": 476,
+      "bottom": 497,
+      "h": 22
+    },
+    "msg": {
+      "top": 892,
+      "bottom": 920,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 954,
+      "bottom": 975,
+      "h": 20
+    },
+    "span": 499,
+    "docH": 2009
+  },
+  {
+    "page": "作品一覧",
+    "lang": "en",
+    "width": 1440,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "noneHintText": "Titles and artist names can be searched in romaji (lowercase is fine).",
+    "sameText": true,
+    "hint": {
+      "top": 476,
+      "bottom": 497,
+      "h": 22
+    },
+    "msg": {
+      "top": 892,
+      "bottom": 920,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 954,
+      "bottom": 975,
+      "h": 20
+    },
+    "span": 499,
+    "docH": 2009
+  },
+  {
+    "page": "作品一覧",
+    "lang": "de",
+    "width": 360,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titel und Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "noneHintText": "Titel und Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "sameText": true,
+    "hint": {
+      "top": 436,
+      "bottom": 479,
+      "h": 43
+    },
+    "msg": {
+      "top": 998,
+      "bottom": 1027,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 1061,
+      "bottom": 1102,
+      "h": 41
+    },
+    "span": 666,
+    "docH": 2419
+  },
+  {
+    "page": "作品一覧",
+    "lang": "de",
+    "width": 390,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titel und Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "noneHintText": "Titel und Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "sameText": true,
+    "hint": {
+      "top": 409,
+      "bottom": 452,
+      "h": 43
+    },
+    "msg": {
+      "top": 925,
+      "bottom": 954,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 988,
+      "bottom": 1029,
+      "h": 41
+    },
+    "span": 620,
+    "docH": 2281
+  },
+  {
+    "page": "作品一覧",
+    "lang": "de",
+    "width": 430,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titel und Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "noneHintText": "Titel und Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "sameText": true,
+    "hint": {
+      "top": 415,
+      "bottom": 458,
+      "h": 43
+    },
+    "msg": {
+      "top": 930,
+      "bottom": 959,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 993,
+      "bottom": 1034,
+      "h": 41
+    },
+    "span": 619,
+    "docH": 2286
+  },
+  {
+    "page": "作品一覧",
+    "lang": "de",
+    "width": 480,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titel und Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "noneHintText": "Titel und Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "sameText": true,
+    "hint": {
+      "top": 415,
+      "bottom": 458,
+      "h": 43
+    },
+    "msg": {
+      "top": 883,
+      "bottom": 912,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 946,
+      "bottom": 987,
+      "h": 41
+    },
+    "span": 572,
+    "docH": 2239
+  },
+  {
+    "page": "作品一覧",
+    "lang": "de",
+    "width": 560,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titel und Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "noneHintText": "Titel und Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "sameText": true,
+    "hint": {
+      "top": 417,
+      "bottom": 439,
+      "h": 22
+    },
+    "msg": {
+      "top": 865,
+      "bottom": 893,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 927,
+      "bottom": 948,
+      "h": 20
+    },
+    "span": 531,
+    "docH": 2200
+  },
+  {
+    "page": "作品一覧",
+    "lang": "de",
+    "width": 640,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titel und Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "noneHintText": "Titel und Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "sameText": true,
+    "hint": {
+      "top": 430,
+      "bottom": 451,
+      "h": 22
+    },
+    "msg": {
+      "top": 830,
+      "bottom": 859,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 893,
+      "bottom": 913,
+      "h": 20
+    },
+    "span": 483,
+    "docH": 2103
+  },
+  {
+    "page": "作品一覧",
+    "lang": "de",
+    "width": 700,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titel und Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "noneHintText": "Titel und Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "sameText": true,
+    "hint": {
+      "top": 403,
+      "bottom": 424,
+      "h": 22
+    },
+    "msg": {
+      "top": 803,
+      "bottom": 832,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 866,
+      "bottom": 886,
+      "h": 20
+    },
+    "span": 483,
+    "docH": 2076
+  },
+  {
+    "page": "作品一覧",
+    "lang": "de",
+    "width": 749,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titel und Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "noneHintText": "Titel und Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "sameText": true,
+    "hint": {
+      "top": 405,
+      "bottom": 427,
+      "h": 22
+    },
+    "msg": {
+      "top": 805,
+      "bottom": 834,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 868,
+      "bottom": 888,
+      "h": 20
+    },
+    "span": 483,
+    "docH": 2079
+  },
+  {
+    "page": "作品一覧",
+    "lang": "de",
+    "width": 768,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titel und Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "noneHintText": "Titel und Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "sameText": true,
+    "hint": {
+      "top": 458,
+      "bottom": 480,
+      "h": 22
+    },
+    "msg": {
+      "top": 874,
+      "bottom": 903,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 937,
+      "bottom": 957,
+      "h": 20
+    },
+    "span": 499,
+    "docH": 2029
+  },
+  {
+    "page": "作品一覧",
+    "lang": "de",
+    "width": 860,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titel und Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "noneHintText": "Titel und Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "sameText": true,
+    "hint": {
+      "top": 460,
+      "bottom": 481,
+      "h": 22
+    },
+    "msg": {
+      "top": 876,
+      "bottom": 904,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 938,
+      "bottom": 959,
+      "h": 20
+    },
+    "span": 499,
+    "docH": 2030
+  },
+  {
+    "page": "作品一覧",
+    "lang": "de",
+    "width": 900,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titel und Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "noneHintText": "Titel und Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "sameText": true,
+    "hint": {
+      "top": 460,
+      "bottom": 481,
+      "h": 22
+    },
+    "msg": {
+      "top": 876,
+      "bottom": 904,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 938,
+      "bottom": 959,
+      "h": 20
+    },
+    "span": 499,
+    "docH": 2030
+  },
+  {
+    "page": "作品一覧",
+    "lang": "de",
+    "width": 989,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titel und Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "noneHintText": "Titel und Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "sameText": true,
+    "hint": {
+      "top": 460,
+      "bottom": 481,
+      "h": 22
+    },
+    "msg": {
+      "top": 876,
+      "bottom": 904,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 938,
+      "bottom": 959,
+      "h": 20
+    },
+    "span": 499,
+    "docH": 2018
+  },
+  {
+    "page": "作品一覧",
+    "lang": "de",
+    "width": 1024,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titel und Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "noneHintText": "Titel und Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "sameText": true,
+    "hint": {
+      "top": 476,
+      "bottom": 497,
+      "h": 22
+    },
+    "msg": {
+      "top": 892,
+      "bottom": 920,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 954,
+      "bottom": 975,
+      "h": 20
+    },
+    "span": 499,
+    "docH": 2038
+  },
+  {
+    "page": "作品一覧",
+    "lang": "de",
+    "width": 1200,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titel und Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "noneHintText": "Titel und Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "sameText": true,
+    "hint": {
+      "top": 476,
+      "bottom": 497,
+      "h": 22
+    },
+    "msg": {
+      "top": 892,
+      "bottom": 920,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 954,
+      "bottom": 975,
+      "h": 20
+    },
+    "span": 499,
+    "docH": 2009
+  },
+  {
+    "page": "作品一覧",
+    "lang": "de",
+    "width": 1440,
+    "hintVisible": true,
+    "msgVisible": true,
+    "noneHintVisible": true,
+    "hintText": "Titel und Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "noneHintText": "Titel und Künstlernamen können in Romaji gesucht werden (Kleinschreibung genügt).",
+    "sameText": true,
+    "hint": {
+      "top": 476,
+      "bottom": 497,
+      "h": 22
+    },
+    "msg": {
+      "top": 892,
+      "bottom": 920,
+      "h": 29
+    },
+    "noneHint": {
+      "top": 954,
+      "bottom": 975,
+      "h": 20
+    },
+    "span": 499,
+    "docH": 2009
+  }
+]
