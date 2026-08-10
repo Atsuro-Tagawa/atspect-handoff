@@ -360,3 +360,12 @@ Codexに1言語ずつ独立判定させて確かめました。**
 ★**鈴木千賀子さま（現存作家）の5欄は保留のまま。触っていません。**
 
 **次便のカーソル＝`hata-tokio`（89番目）の次から。**
+
+## 第17便＝連続日課 第4束 着手前の先出し宣言（2026-08-10 19:35）
+
+**導線順＝`hata-tokio`（89番目）の次から10名**（90〜99番目）。
+
+早川良雄／速水御舟／林重義／林倭衛／林忠彦／林武／硲伊之助／日比野五鳳／比田井南谷／比田井小琴 の各さま
+（`hayakawa-yoshio` `hayami-gyoshu` `hayashi-shigeyoshi` `hayashi-shizue` `hayashi-tadahiko` `hayashi-takeshi` `hazama-inosuke` `hibino-goho` `hidai-nankoku` `hidai-shokin`）
+
+**触る欄＝略歴／一言紹介／功績／所属団体のみ。★代表作欄には触りません。**
