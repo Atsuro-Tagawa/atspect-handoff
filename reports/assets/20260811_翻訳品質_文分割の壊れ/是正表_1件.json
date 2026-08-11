@@ -1,0 +1,9 @@
+{
+  "reason": "文の分割処理が壊した生年月日の是正（岸田日出刀さまで見つけた型を全625名×4言語で走査し、池辺陽さま1件を検出）",
+  "enteredBy": "翻訳品質T",
+  "enteredDate": "2026-08-11",
+  "note": "「8.」の句点を文末と誤認し、geboren が日付の途中に押し込まれていた。岸田日出刀さまと同一の壊れ方。",
+  "patches": [
+    { "handle": "ikebe-kiyoshi", "lang": "de", "field": "bio", "from": "Ikebe Kiyoshi wurde am 8 geboren. April 1920 in Busan.", "to": "Ikebe Kiyoshi wurde am 8. April 1920 in Busan geboren." }
+  ]
+}
