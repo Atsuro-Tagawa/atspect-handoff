@@ -1,0 +1,295 @@
+{
+  "reason": "日課 第17束（導線順220〜229番の10名）＝Codexの7言語検品のうち、日本語原文と突き合わせて事実の誤り・脱落・原文にない追加と確認できたものだけを是正",
+  "enteredBy": "翻訳品質T",
+  "enteredDate": "2026-08-11",
+  "note": "★岸田日出刀さまの独語の略歴で、生年月日が『am 6 geboren. Februar 1899』と壊れていた（文の分割処理で『6.』の句点を文末と誤認したものと見られる）。Codexの指摘ではなく、本文を目で読んで見つけた。",
+  "patches": [
+    {
+      "handle": "kishida-hideto",
+      "lang": "de",
+      "field": "bio",
+      "from": "Kishida Hideto wurde am 6 geboren. Februar 1899 in der Stadt Fukuoka",
+      "to": "Kishida Hideto wurde am 6. Februar 1899 in der Stadt Fukuoka geboren"
+    },
+    {
+      "handle": "kishida-hideto",
+      "lang": "de",
+      "field": "bio",
+      "from": "1923 wurde er Dozent an der Universität",
+      "to": "1923 wurde er Dozent an der Ingenieurfakultät der Universität"
+    },
+    {
+      "handle": "kishida-hideto",
+      "lang": "ko",
+      "field": "bio",
+      "from": "1923년 동 대학 강사",
+      "to": "1923년 동 대학 공학부 강사"
+    },
+    {
+      "handle": "kishida-hideto",
+      "lang": "es",
+      "field": "bio",
+      "from": "la región de origen de su familia era la prefectura de Tottori",
+      "to": "su lugar de origen era la prefectura de Tottori"
+    },
+    {
+      "handle": "kishida-hideto",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "verzeichnen die eigenen historischen Archive der Universität, dass Uchida Yoshikazu den Grundentwurf erstellte und der Ausführungsplan von Kishida Hideto übernommen wurde",
+      "to": "geht aus den historischen Unterlagen der Universität hervor, dass Uchida Yoshikazu den Grundentwurf erstellte und Kishida Hidetos Ausführungsentwurf angenommen wurde"
+    },
+    {
+      "handle": "kishida-hideto",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "1929年至1959年任教于东京大学",
+      "to": "1929年至1959年任东京大学教授"
+    },
+    {
+      "handle": "kishida-hideto",
+      "lang": "zh_tw",
+      "field": "viewpoint",
+      "from": "1929年至1959年任教於東京大學",
+      "to": "1929年至1959年於東京大學擔任教授"
+    },
+    {
+      "handle": "kimura-ihei",
+      "lang": "ko",
+      "field": "bio",
+      "from": "일본사진가협회(Japan Professional Photographers Society)의 초대 회장",
+      "to": "일본사진가협회의 초대 회장"
+    },
+    {
+      "handle": "kimura-ihei",
+      "lang": "ko",
+      "field": "bio",
+      "from": "스스럼없이 재빠르게 포착하는",
+      "to": "자연스럽고 재빠르게 포착하는"
+    },
+    {
+      "handle": "kimura-tsunehisa",
+      "lang": "ko",
+      "field": "groups",
+      "from": "일본그래픽디자이너협회(JAGDA)",
+      "to": "일본그래픽디자이너협회"
+    },
+    {
+      "handle": "kimura-tsunehisa",
+      "lang": "zh_cn",
+      "field": "groups",
+      "from": "日本平面设计师协会（JAGDA）",
+      "to": "日本平面设计师协会"
+    },
+    {
+      "handle": "kimura-tsunehisa",
+      "lang": "zh_tw",
+      "field": "groups",
+      "from": "日本平面設計師協會（JAGDA）",
+      "to": "日本平面設計師協會"
+    },
+    {
+      "handle": "kimura-shohachi",
+      "lang": "es",
+      "field": "bio",
+      "from": "sus ilustraciones de novelas por entregas",
+      "to": "sus ilustraciones de novelas publicadas por entregas en periódicos"
+    },
+    {
+      "handle": "kimura-shohachi",
+      "lang": "es",
+      "field": "bio",
+      "from": "las costumbres del viejo Edo",
+      "to": "las costumbres de Edo"
+    },
+    {
+      "handle": "kimura-shohachi",
+      "lang": "es",
+      "field": "bio",
+      "from": "Gyūnikuten chōba (En el mostrador de una carnicería)",
+      "to": "Gyūnikuten chōba (En la caja de un restaurante especializado en carne de vacuno)"
+    },
+    {
+      "handle": "kimura-shohachi",
+      "lang": "fr",
+      "field": "bio",
+      "from": "les mœurs du vieil Edo",
+      "to": "les mœurs d'Edo"
+    },
+    {
+      "handle": "kimura-shohachi",
+      "lang": "fr",
+      "field": "bio",
+      "from": "Gyūnikuten chōba (Au comptoir d'une boucherie)",
+      "to": "Gyūnikuten chōba (Le comptoir d'un restaurant spécialisé dans le bœuf)"
+    },
+    {
+      "handle": "kimura-uzan",
+      "lang": "en",
+      "field": "bio",
+      "from": "he turned to yūzen (silk dyeing), a technique",
+      "to": "he turned to yūzen, a technique"
+    },
+    {
+      "handle": "kimura-uzan",
+      "lang": "es",
+      "field": "bio",
+      "from": "se orientó hacia el yūzen (teñido de seda), técnica",
+      "to": "se orientó hacia el yūzen, técnica"
+    },
+    {
+      "handle": "kimura-uzan",
+      "lang": "fr",
+      "field": "bio",
+      "from": "il se tourna vers le yūzen (teinture sur soie), technique",
+      "to": "il se tourna vers le yūzen, technique"
+    },
+    {
+      "handle": "kimura-uzan",
+      "lang": "ko",
+      "field": "bio",
+      "from": "기법인 유젠(비단 염색)의 길로",
+      "to": "기법인 유젠의 길로"
+    },
+    {
+      "handle": "kimura-uzan",
+      "lang": "en",
+      "field": "bio",
+      "from": "producing many dignified formal kimono",
+      "to": "producing many dignified hōmongi (formal visiting kimono)"
+    },
+    {
+      "handle": "kimura-uzan",
+      "lang": "en",
+      "field": "viewpoint",
+      "from": "In his yūzen formal kimono",
+      "to": "In his yūzen hōmongi (formal visiting kimono)"
+    },
+    {
+      "handle": "kimura-uzan",
+      "lang": "zh_tw",
+      "field": "viewpoint",
+      "from": "展現如日本畫般的寫實與氣韻",
+      "to": "展現如日本畫般的寫實與高雅氣質"
+    },
+    {
+      "handle": "kinoshita-shigeru",
+      "lang": "de",
+      "field": "bio",
+      "from": "Als Juror tätig, trug er die Bildhauerei der Nitten",
+      "to": "Als Juror und in weiteren Funktionen tätig, trug er die Bildhauerei der Nitten"
+    },
+    {
+      "handle": "kinoshita-shigeru",
+      "lang": "en",
+      "field": "bio",
+      "from": "Serving as a juror and supporting sculpture at the Nitten,",
+      "to": "Supporting the Nitten's sculpture division in roles including that of juror,"
+    },
+    {
+      "handle": "kinoshita-shigeru",
+      "lang": "es",
+      "field": "viewpoint",
+      "from": "la belleza del cuerpo bien proporcionado",
+      "to": "la belleza del cuerpo humano bien proporcionado"
+    },
+    {
+      "handle": "kinoshita-shigeru",
+      "lang": "ko",
+      "field": "viewpoint",
+      "from": "정성스러운 사실로 표현하려 한",
+      "to": "세심한 사실 묘사로 표현하려 한"
+    },
+    {
+      "handle": "kinouchi-yoshi",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "den Blick auf die körnige Oberfläche der Erde",
+      "to": "den Blick auf die körnige Oberfläche des Tons"
+    },
+    {
+      "handle": "kinouchi-yoshi",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "便能体味一种胜过光滑修饰、珍视泥土这一材料本身的温润与素朴生命感的风格",
+      "to": "便能体味一种不追求光滑修饰、而珍视泥土这一材料本身的温润与素朴生命感的风格"
+    },
+    {
+      "handle": "kinouchi-yoshi",
+      "lang": "zh_tw",
+      "field": "viewpoint",
+      "from": "便能體味一種勝過光滑修飾、珍視泥土這一材料本身的溫潤與素樸生命感的風格",
+      "to": "便能體味一種不追求光滑修飾、而珍視泥土這一材料本身的溫潤與素樸生命感的風格"
+    },
+    {
+      "handle": "kishida-ryusei",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "das unheimliche Lächeln und die bis ins Haar und in den Kimono präzise wiedergegebenen Einzelheiten",
+      "to": "das rätselhafte Lächeln und die bis in die Haare und den Kimono hinein präzise ausgearbeiteten Einzelheiten"
+    },
+    {
+      "handle": "kishida-ryusei",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "den Gegenstand bis zum Letzten zu durchschauen",
+      "to": "den Gegenstand mit äußerster Beharrlichkeit zu betrachten"
+    },
+    {
+      "handle": "kishida-ryusei",
+      "lang": "es",
+      "field": "viewpoint",
+      "from": "la inquietante sonrisa",
+      "to": "la enigmática sonrisa"
+    },
+    {
+      "handle": "kitadai-shozo",
+      "lang": "de",
+      "field": "bio",
+      "from": "konstruktivistische Fotografien",
+      "to": "konstruktiv aufgebaute Fotografien"
+    },
+    {
+      "handle": "kitadai-shozo",
+      "lang": "fr",
+      "field": "bio",
+      "from": "photographies constructivistes",
+      "to": "photographies composées"
+    },
+    {
+      "handle": "kitade-tojiro",
+      "lang": "de",
+      "field": "bio",
+      "from": "Er trat in einen Kutani-Brennofen ein und wurde einer seiner Hersteller.",
+      "to": "Er trat in eine Kutani-Töpferei ein und wurde dort als Keramiker tätig."
+    },
+    {
+      "handle": "kitade-tojiro",
+      "lang": "de",
+      "field": "bio",
+      "from": "Aktiv in der Kokugakai (einer Künstlervereinigung für bildende Kunst) und der Nitten (der staatlichen Jahresausstellung)",
+      "to": "Aktiv in der Kokugakai und der Nitten"
+    },
+    {
+      "handle": "kitade-tojiro",
+      "lang": "es",
+      "field": "bio",
+      "from": "Entró en un horno de cerámica de Kutani y se convirtió en uno de sus artífices.",
+      "to": "Entró a trabajar en un taller de cerámica de Kutani y se convirtió en uno de sus artífices."
+    },
+    {
+      "handle": "kitade-tojiro",
+      "lang": "en",
+      "field": "bio",
+      "from": "He entered a Kutani-ware kiln and became one of its makers.",
+      "to": "He joined a Kutani-ware workshop and became one of its artisans."
+    },
+    {
+      "handle": "kitade-tojiro",
+      "lang": "en",
+      "field": "bio",
+      "from": "trained younger artists",
+      "to": "trained the next generation"
+    }
+  ]
+}
