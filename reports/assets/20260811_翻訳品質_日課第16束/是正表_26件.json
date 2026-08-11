@@ -1,0 +1,190 @@
+{
+  "reason": "日課 第16束（導線順210〜219番の10名）＝Codexの7言語検品のうち、日本語原文と突き合わせて事実の誤り・脱落・原文にない限定と確認できたものだけを是正。あわせて、本日の作業Aで自分が入れた訳語2件を是正する。",
+  "enteredBy": "翻訳品質T",
+  "enteredDate": "2026-08-11",
+  "note": "★自己是正2件＝本日の作業Aで『気品』を『气韵／氣韻』に置き換えたが、別のCodex検品2回とも『气韵は作品の趣・余韻であって、気品（上品さ・品位）とは意味がずれる』と判定されたため直す。",
+  "patches": [
+    {
+      "handle": "kikuchi-kazuo",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "于不矫不躁的自然写实之中，蕴含静谧的气韵",
+      "to": "于不加矫饰的自然写实之中，流露出沉静高雅的气质"
+    },
+    {
+      "handle": "kikuchi-kazuo",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "於不矯不躁的自然寫實之中，蘊含靜謐的氣韻",
+      "to": "於不加矯飾的自然寫實之中，流露出沉靜高雅的氣質"
+    },
+    {
+      "handle": "tominaga-naoki",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "准确与气韵来传达人物之姿",
+      "to": "精准表达与高雅格调来传达人物之姿"
+    },
+    {
+      "handle": "tominaga-naoki",
+      "lang": "zh_tw",
+      "field": "viewpoint",
+      "from": "準確與氣韻來傳達人物之姿",
+      "to": "精準表達與高雅格調來傳達人物之姿"
+    },
+    {
+      "handle": "kikutake-kiyonori",
+      "lang": "de",
+      "field": "bio",
+      "from": "Ab 1959 war er Dozent an der Architekturabteilung der Waseda-Universität.",
+      "to": "Ab 1959 war er Dozent an der Architekturabteilung der Fakultät für Naturwissenschaften und Ingenieurwesen der Waseda-Universität."
+    },
+    {
+      "handle": "kikutake-kiyonori",
+      "lang": "en",
+      "field": "bio",
+      "from": "From 1959 he served as a lecturer in the Department of Architecture at Waseda University.",
+      "to": "From 1959 he served as a lecturer in the Department of Architecture, School of Science and Engineering, Waseda University."
+    },
+    {
+      "handle": "kikutake-kiyonori",
+      "lang": "fr",
+      "field": "bio",
+      "from": "il est chargé de cours au département d'architecture de l'université Waseda",
+      "to": "il est chargé de cours au département d'architecture de la faculté des sciences et de l'ingénierie de l'université Waseda"
+    },
+    {
+      "handle": "kikuchi-keigetsu",
+      "lang": "de",
+      "field": "bio",
+      "from": "sein Rufname war Kanji",
+      "to": "sein bürgerlicher Name war Kanji"
+    },
+    {
+      "handle": "kikuchi-keigetsu",
+      "lang": "en",
+      "field": "bio",
+      "from": "his given name was Kanji",
+      "to": "his real name was Kanji"
+    },
+    {
+      "handle": "keiji-usami",
+      "lang": "ko",
+      "field": "statement",
+      "from": "군중의 인형을 계속 그린 화가",
+      "to": "군중 속 인물 형상을 계속 그린 화가"
+    },
+    {
+      "handle": "keiji-usami",
+      "lang": "ko",
+      "field": "viewpoint",
+      "from": "군중의 인형을 계속 그린 화가이다. 인형을 반복하는 그림에서는",
+      "to": "군중 속 인물 형상을 계속 그린 화가이다. 인물 형상을 반복해서 그린 그림에서는"
+    },
+    {
+      "handle": "keiji-usami",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "也製作過運用雷射的作品",
+      "to": "也製作過運用雷射光的作品"
+    },
+    {
+      "handle": "kikuchi-shunkichi",
+      "lang": "de",
+      "field": "bio",
+      "from": "das Alltagsleben gewöhnlicher Menschen",
+      "to": "das Alltagsleben der Menschen"
+    },
+    {
+      "handle": "kikuchi-shunkichi",
+      "lang": "en",
+      "field": "bio",
+      "from": "the everyday lives of ordinary people",
+      "to": "the everyday lives of people"
+    },
+    {
+      "handle": "kikuchi-shunkichi",
+      "lang": "fr",
+      "field": "bio",
+      "from": "la vie quotidienne des gens ordinaires",
+      "to": "la vie quotidienne des gens"
+    },
+    {
+      "handle": "kikuchi-shunkichi",
+      "lang": "de",
+      "field": "groups",
+      "from": "Tōhōsha, eine fotografische Vereinigung",
+      "to": "Tōhōsha"
+    },
+    {
+      "handle": "kikuchi-hobun",
+      "lang": "es",
+      "field": "bio",
+      "from": "formó a pintores más jóvenes",
+      "to": "formó a las nuevas generaciones"
+    },
+    {
+      "handle": "kikuchi-hobun",
+      "lang": "fr",
+      "field": "bio",
+      "from": "forma de jeunes peintres",
+      "to": "forma la génération suivante de peintres"
+    },
+    {
+      "handle": "kimura-buzan",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "Gemeinsam mit den um Tenshin versammelten Malern verfeinerte er in Izura seine Kunst und arbeitete vielseitig in der buddhistischen und der Vogel-und-Blumen-Malerei.",
+      "to": "Er war ein Nihonga-Maler, der gemeinsam mit den um Tenshin versammelten Malern in Izura seine Kunst verfeinerte und vielseitig in der buddhistischen und der Vogel-und-Blumen-Malerei arbeitete."
+    },
+    {
+      "handle": "kimura-buzan",
+      "lang": "en",
+      "field": "viewpoint",
+      "from": "Together with the painters gathered around Tenshin, he honed his art at Izura and worked widely in Buddhist and bird-and-flower painting.",
+      "to": "He was a Nihonga painter who, together with the painters gathered around Tenshin, honed his art at Izura and worked widely in Buddhist and bird-and-flower painting."
+    },
+    {
+      "handle": "kimura-buzan",
+      "lang": "es",
+      "field": "viewpoint",
+      "from": "Junto a los pintores reunidos en torno a Tenshin, perfeccionó su arte en Izura y trabajó ampliamente la pintura budista y la de flores y aves.",
+      "to": "Fue un pintor nihonga que, junto a los pintores reunidos en torno a Tenshin, perfeccionó su arte en Izura y trabajó ampliamente la pintura budista y la de flores y aves."
+    },
+    {
+      "handle": "kimura-buzan",
+      "lang": "fr",
+      "field": "viewpoint",
+      "from": "Avec les peintres rassemblés autour de Tenshin, il aiguisa son art à Izura et travailla largement la peinture bouddhique et celle de fleurs et d'oiseaux.",
+      "to": "Peintre de nihonga, il aiguisa son art à Izura avec les peintres rassemblés autour de Tenshin et travailla largement la peinture bouddhique et celle de fleurs et d'oiseaux."
+    },
+    {
+      "handle": "kimura-buzan",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "他与聚集于天心门下的画家们一同在五浦砥砺画艺，广涉佛画与花鸟画。",
+      "to": "他是与聚集于天心门下的画家们一同在五浦砥砺画艺、广涉佛画与花鸟画的日本画家。"
+    },
+    {
+      "handle": "kimura-buzan",
+      "lang": "zh_tw",
+      "field": "viewpoint",
+      "from": "他與聚集於天心門下的畫家們一同在五浦砥礪畫藝，廣涉佛畫與花鳥畫。",
+      "to": "他是與聚集於天心門下的畫家們一同在五浦砥礪畫藝、廣涉佛畫與花鳥畫的日本畫家。"
+    },
+    {
+      "handle": "keiichi-tanaami",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "anstatt die Dinge in ein einziges ordentliches Bild aufzulösen",
+      "to": "anstatt alles zu einem einzigen, in sich geschlossenen Bild zusammenzufügen"
+    },
+    {
+      "handle": "kazuo-shiraga",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "die rohe Energie des menschlichen Lebens in die Bildfläche einzuschreiben",
+      "to": "die Lebensenergie des Menschen in die Bildoberfläche einzuschreiben"
+    }
+  ]
+}
