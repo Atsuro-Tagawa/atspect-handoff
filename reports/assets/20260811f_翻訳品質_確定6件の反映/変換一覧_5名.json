@@ -1,0 +1,7 @@
+{ "converted": [
+ { "handle":"saito-shinichi",   "name":"斎藤 真一",   "kana":"さいとう しんいち",   "from":"Saito Shinichi",   "to":"Saitō Shin'ichi" },
+ { "handle":"shioda-keishiro",  "name":"塩多 慶四郎", "kana":"しおた けいしろう", "from":"Shioda Keishiro",  "to":"Shiota Keishirō" },
+ { "handle":"nakamura-kenichi", "name":"中村 研一",   "kana":"なかむら けんいち",   "from":"Nakamura Kenichi", "to":"Nakamura Ken'ichi" },
+ { "handle":"otaka-masato",     "name":"大高正人",    "kana":"おおたか まさと",    "from":"Otaka Masato",     "to":"Ōtaka Masato" },
+ { "handle":"kishida-hideto",   "name":"岸田日出刀",  "kana":"きしだ ひでとう",    "from":"Kishida Hideto",   "to":"Kishida Hidetō" }
+], "nochange": [], "hold": [] }
