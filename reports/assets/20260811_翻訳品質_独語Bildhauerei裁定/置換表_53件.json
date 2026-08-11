@@ -1,0 +1,379 @@
+{
+  "reason": "独語 Bildhauerei の横断裁定＝分野ラベルとしての用法のみ Skulptur へ是正（台帳 de_term_ledger.json：彫刻の分野ラベル=Skulptur／人の肩書き=Bildhauer）",
+  "enteredBy": "翻訳品質T",
+  "enteredDate": "2026-08-11",
+  "note": "Codexに作家ごと1依頼で1文ずつ A(ジャンル名)/B(営み・技法・専攻)/C(決めがたい) を判定させ、Aと判定した文の中だけを置換した。BとCは触らない。",
+  "patches": [
+    {
+      "handle": "amada-kohei",
+      "lang": "de",
+      "field": "statement",
+      "from": "Bildhauerei",
+      "to": "Skulptur"
+    },
+    {
+      "handle": "amada-kohei",
+      "lang": "de",
+      "field": "bio",
+      "from": "figürliche Bildhauerei",
+      "to": "figürliche Skulptur"
+    },
+    {
+      "handle": "amada-kohei",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "r Bildhauerei u",
+      "to": "r Skulptur u"
+    },
+    {
+      "handle": "amemiya-jiro",
+      "lang": "de",
+      "field": "bio",
+      "from": "die Bildhauerei der Nitten",
+      "to": "die Skulptur der Nitten"
+    },
+    {
+      "handle": "asakura-fumio",
+      "lang": "de",
+      "field": "bio",
+      "from": "für Bildhauerei",
+      "to": "für Skulptur"
+    },
+    {
+      "handle": "asakura-fumio",
+      "lang": "de",
+      "field": "collection",
+      "from": "für Bildhauerei",
+      "to": "für Skulptur"
+    },
+    {
+      "handle": "azuma-kenjiro",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "der westlichen modernen Bildhauerei",
+      "to": "der westlichen modernen Skulptur"
+    },
+    {
+      "handle": "entsuba-katsuzo",
+      "lang": "de",
+      "field": "statement",
+      "from": "poetische figürliche Bildhauerei",
+      "to": "poetische figürliche Skulptur"
+    },
+    {
+      "handle": "entsuba-katsuzo",
+      "lang": "de",
+      "field": "bio",
+      "from": "figürliche Bildhauerei",
+      "to": "figürliche Skulptur"
+    },
+    {
+      "handle": "entsuba-katsuzo",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "poetische figürliche Bildhauerei",
+      "to": "poetische figürliche Skulptur"
+    },
+    {
+      "handle": "fujikawa-yuzo",
+      "lang": "de",
+      "field": "bio",
+      "from": "die moderne Bildhauerei",
+      "to": "die moderne Skulptur"
+    },
+    {
+      "handle": "fujikawa-yuzo",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "die Bildhauerei",
+      "to": "die Skulptur"
+    },
+    {
+      "handle": "hinago-jitsuzo",
+      "lang": "de",
+      "field": "bio",
+      "from": "die Bildhauerei",
+      "to": "die Skulptur"
+    },
+    {
+      "handle": "hongo-shin",
+      "lang": "de",
+      "field": "collection",
+      "from": "für Bildhauerei",
+      "to": "für Skulptur"
+    },
+    {
+      "handle": "hori-shinji",
+      "lang": "de",
+      "field": "collection",
+      "from": "Bildhauereimuseum",
+      "to": "Skulpturenmuseum"
+    },
+    {
+      "handle": "isamu-noguchi",
+      "lang": "de",
+      "field": "statement",
+      "from": "von der Bildhauerei",
+      "to": "von der Skulptur"
+    },
+    {
+      "handle": "isamu-noguchi",
+      "lang": "de",
+      "field": "bio",
+      "from": "von der Bildhauerei ausgehend",
+      "to": "von der Skulptur ausgehend"
+    },
+    {
+      "handle": "isamu-noguchi",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "von der Bildhauerei",
+      "to": "von der Skulptur"
+    },
+    {
+      "handle": "isamu-noguchi",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "wie Bildhauerei und Raum",
+      "to": "wie Skulptur und Raum"
+    },
+    {
+      "handle": "ishii-tsuruzo",
+      "lang": "de",
+      "field": "statement",
+      "from": "Bildhauerei",
+      "to": "Skulptur"
+    },
+    {
+      "handle": "ishii-tsuruzo",
+      "lang": "de",
+      "field": "bio",
+      "from": ") Bildhauerei z",
+      "to": ") Skulptur z"
+    },
+    {
+      "handle": "ishii-tsuruzo",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "von der Bildhauerei",
+      "to": "von der Skulptur"
+    },
+    {
+      "handle": "kasagi-sueo",
+      "lang": "de",
+      "field": "bio",
+      "from": "der abstrakten Bildhauerei",
+      "to": "der abstrakten Skulptur"
+    },
+    {
+      "handle": "kasagi-sueo",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "a der Bildhauerei z",
+      "to": "a der Skulptur z"
+    },
+    {
+      "handle": "kitamura-haruyoshi",
+      "lang": "de",
+      "field": "statement",
+      "from": "feine figürliche Bildhauerei",
+      "to": "feine figürliche Skulptur"
+    },
+    {
+      "handle": "kitamura-haruyoshi",
+      "lang": "de",
+      "field": "bio",
+      "from": "feine, realistische figürliche Bildhauerei",
+      "to": "feine, realistische figürliche Skulptur"
+    },
+    {
+      "handle": "kitamura-seibo",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "die Bildhauerei",
+      "to": "die Skulptur"
+    },
+    {
+      "handle": "nakahara-teijiro",
+      "lang": "de",
+      "field": "bio",
+      "from": "für Bildhauerei",
+      "to": "für Skulptur"
+    },
+    {
+      "handle": "nakahara-teijiro",
+      "lang": "de",
+      "field": "collection",
+      "from": "Bildhauereimuseum",
+      "to": "Skulpturenmuseum"
+    },
+    {
+      "handle": "nakamura-naondo",
+      "lang": "de",
+      "field": "bio",
+      "from": "von der Bildhauerei",
+      "to": "von der Skulptur"
+    },
+    {
+      "handle": "nakamura-naondo",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "der Bildhauerei",
+      "to": "der Skulptur"
+    },
+    {
+      "handle": "numata-ichiga",
+      "lang": "de",
+      "field": "bio",
+      "from": "der Bildhauerei",
+      "to": "der Skulptur"
+    },
+    {
+      "handle": "numata-ichiga",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "in der Bildhauerei",
+      "to": "in der Skulptur"
+    },
+    {
+      "handle": "ogiwara-morie",
+      "lang": "de",
+      "field": "statement",
+      "from": "der modernen Bildhauerei",
+      "to": "der modernen Skulptur"
+    },
+    {
+      "handle": "ogiwara-morie",
+      "lang": "de",
+      "field": "bio",
+      "from": "die eigentliche moderne Bildhauerei",
+      "to": "die eigentliche moderne Skulptur"
+    },
+    {
+      "handle": "ogiwara-morie",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "eine moderne Bildhauerei",
+      "to": "eine moderne Skulptur"
+    },
+    {
+      "handle": "sasamura-sokajin",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "der modernen Bildhauerei",
+      "to": "der modernen Skulptur"
+    },
+    {
+      "handle": "sato-churyo",
+      "lang": "de",
+      "field": "bio",
+      "from": "der Bildhauerei-Abteilung",
+      "to": "der Skulptur-Abteilung"
+    },
+    {
+      "handle": "shinkai-taketaro",
+      "lang": "de",
+      "field": "statement",
+      "from": "die Bildhauerei der staatlichen Ausstellungen",
+      "to": "die Skulptur der staatlichen Ausstellungen"
+    },
+    {
+      "handle": "shinkai-taketaro",
+      "lang": "de",
+      "field": "bio",
+      "from": "der modernen Bildhauerei",
+      "to": "der modernen Skulptur"
+    },
+    {
+      "handle": "shinkai-taketaro",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "die Bildhauerei der staatlichen Ausstellungen",
+      "to": "die Skulptur der staatlichen Ausstellungen"
+    },
+    {
+      "handle": "takamura-kotaro",
+      "lang": "de",
+      "field": "bio",
+      "from": "In der Bildhauerei",
+      "to": "In der Skulptur"
+    },
+    {
+      "handle": "takamura-kotaro",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "für die moderne Bildhauerei",
+      "to": "für die moderne Skulptur"
+    },
+    {
+      "handle": "takamura-koun",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "die moderne Bildhauerei",
+      "to": "die moderne Skulptur"
+    },
+    {
+      "handle": "tatehata-taimu",
+      "lang": "de",
+      "field": "bio",
+      "from": "in der Bildhauerei",
+      "to": "in der Skulptur"
+    },
+    {
+      "handle": "tominaga-naoki",
+      "lang": "de",
+      "field": "bio",
+      "from": "ihrer Bildhauerei",
+      "to": "ihrer Skulptur"
+    },
+    {
+      "handle": "ueki-shigeru",
+      "lang": "de",
+      "field": "bio",
+      "from": "abstrakter Bildhauerei",
+      "to": "abstrakter Skulptur"
+    },
+    {
+      "handle": "ueki-shigeru",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "der abstrakten Bildhauerei",
+      "to": "der abstrakten Skulptur"
+    },
+    {
+      "handle": "wakabayashi-isamu",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "als Bildhauerei",
+      "to": "als Skulptur"
+    },
+    {
+      "handle": "yanagihara-yoshitatsu",
+      "lang": "de",
+      "field": "bio",
+      "from": "die moderne europäische Bildhauerei",
+      "to": "die moderne europäische Skulptur"
+    },
+    {
+      "handle": "yasuda-ryumon",
+      "lang": "de",
+      "field": "statement",
+      "from": "der Bildhauerei",
+      "to": "der Skulptur"
+    },
+    {
+      "handle": "yasuda-ryumon",
+      "lang": "de",
+      "field": "bio",
+      "from": "d Bildhauerei z",
+      "to": "d Skulptur z"
+    },
+    {
+      "handle": "yasuda-ryumon",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "Bildhauerei",
+      "to": "Skulptur"
+    }
+  ]
+}

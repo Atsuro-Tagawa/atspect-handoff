@@ -1,0 +1,112 @@
+OpenAI Codex v0.144.1
+--------
+workdir: C:\Users\ataga\AppData\Local\Temp\claude\C--Users-ataga-Desktop----------\8b0a45e4-b676-476c-be8e-81d9fc203d98\scratchpad\de
+model: gpt-5.6-sol
+provider: openai
+approval: never
+sandbox: read-only
+reasoning effort: none
+reasoning summaries: none
+session id: 019feea7-306c-7c91-b9f8-a4f87782a49d
+--------
+user
+あなたはドイツ語のネイティブ編集者で、美術の専門用語に詳しい方です。美術館の作家紹介文の校閲をしています。
+
+【取り決め】芸術のジャンル名としての「彫刻」＝Skulptur／人の肩書き＝Bildhauer／営み・技法・専攻＝Bildhauerei のまま残す。
+
+下は、ジャンル名だと判定して Bildhauerei → Skulptur に直した箇所です。★直した語だけを見てください。
+★他の箇所の改善提案は不要です（今回の作業範囲外のため）。
+
+1：
+  旧：Bildhauerei
+  新：Skulptur
+2：
+  旧：für Bildhauerei
+  新：für Skulptur
+3：
+  旧：figürliche Bildhauerei
+  新：figürliche Skulptur
+4：
+  旧：die Bildhauerei
+  新：die Skulptur
+5：
+  旧：von der Bildhauerei ausgehend
+  新：von der Skulptur ausgehend
+6：
+  旧：) Bildhauerei z
+  新：) Skulptur z
+7：
+  旧：feine figürliche Bildhauerei
+  新：feine figürliche Skulptur
+8：
+  旧：Bildhauereimuseum
+  新：Skulpturenmuseum
+9：
+  旧：in der Bildhauerei
+  新：in der Skulptur
+10：
+  旧：der modernen Bildhauerei
+  新：der modernen Skulptur
+11：
+  旧：die Bildhauerei der staatlichen Ausstellungen
+  新：die Skulptur der staatlichen Ausstellungen
+12：
+  旧：in der Bildhauerei
+  新：in der Skulptur
+13：
+  旧：als Bildhauerei
+  新：als Skulptur
+14：
+  旧：Bildhauerei
+  新：Skulptur
+
+質問：
+(1) 各番号について、直した語形（冠詞・格・複合語の作り方）がドイツ語として正しいか、○か×で答えてください。
+(2) ×があれば正しい形を短く示してください。
+(3) ★このなかに「ジャンル名ではなく営み・技法だったので Bildhauerei に戻すべき」ものがあれば番号を挙げてください。
+
+日本語で簡潔に答えてください。
+
+codex
+(1) 語形の正否：
+
+1 ○  
+2 ○  
+3 ○  
+4 ○  
+5 ○  
+6 ○  
+7 ○  
+8 ○  
+9 ○  
+10 ○  
+11 ○  
+12 ○  
+13 ○  
+14 ○  
+
+(2) ×はありません。特に複合語 **Skulpturenmuseum** も正しい形です。
+
+(3) 提示された断片だけを見る限り、明確に **Bildhauerei** に戻すべきものはありません。ただし、2・6・14は文脈が短いため、ジャンルか専攻・営みかの最終判定まではできません。
+tokens used
+1,793
+(1) 語形の正否：
+
+1 ○  
+2 ○  
+3 ○  
+4 ○  
+5 ○  
+6 ○  
+7 ○  
+8 ○  
+9 ○  
+10 ○  
+11 ○  
+12 ○  
+13 ○  
+14 ○  
+
+(2) ×はありません。特に複合語 **Skulpturenmuseum** も正しい形です。
+
+(3) 提示された断片だけを見る限り、明確に **Bildhauerei** に戻すべきものはありません。ただし、2・6・14は文脈が短いため、ジャンルか専攻・営みかの最終判定まではできません。
