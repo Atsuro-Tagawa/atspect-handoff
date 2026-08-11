@@ -1,0 +1,360 @@
+{
+  "reason": "日課 第20束（導線順250〜259番の10名）＝二重検品（140依頼）の両方を突き合わせ、日本語原文と照合して誤りと確認できたものだけを是正",
+  "enteredBy": "翻訳品質T",
+  "enteredDate": "2026-08-11",
+  "note": "which＝拾った回。1/2/B。★採らなかったもの＝①近藤悠三さま『金を加えた染付など』の『など』は原文にあるので other means は正しい ②児島善三郎さま ko『독립미술협회』は略歴に協会の創立が書かれており正しい ③人間国宝の独語（ausgezeichnet17名/anerkannt4名/ernannt2名）と繁体『西洋畫家/洋畫家』はサイト全体が割れている横断型のため個別に触らない。",
+  "patches": [
+    {
+      "which": "B",
+      "handle": "kojima-zenzaburo",
+      "lang": "zh_cn",
+      "field": "statement",
+      "from": "追求日本式油彩的独立美术派画家",
+      "to": "追求日本式油画的独立美术协会画家"
+    },
+    {
+      "which": "B",
+      "handle": "kojima-zenzaburo",
+      "lang": "zh_tw",
+      "field": "statement",
+      "from": "追求日本式油彩的獨立美術派畫家",
+      "to": "追求日本式油畫、隸屬獨立美術協會的畫家"
+    },
+    {
+      "which": "B",
+      "handle": "komai-tetsuro",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "他与诗人及文学界亲近",
+      "to": "他与诗人交往密切，也与文学关系密切"
+    },
+    {
+      "which": "B",
+      "handle": "komai-tetsuro",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "他與詩人及文學界親近",
+      "to": "他與詩人往來密切，也與文學關係密切"
+    },
+    {
+      "which": "2",
+      "handle": "komai-tetsuro",
+      "lang": "fr",
+      "field": "bio",
+      "from": "la technique de l'eau-forte — épreuves tirées d'une plaque de cuivre mordue à l'acide",
+      "to": "la technique de l'eau-forte, qui consiste à imprimer à partir d'une plaque de cuivre mordue"
+    },
+    {
+      "which": "1",
+      "handle": "komai-tetsuro",
+      "lang": "fr",
+      "field": "bio",
+      "from": "à former ses successeurs",
+      "to": "à former les jeunes générations"
+    },
+    {
+      "which": "1",
+      "handle": "komai-tetsuro",
+      "lang": "ko",
+      "field": "statement",
+      "from": "시정 넘치는 동판화를 추구한 판화가",
+      "to": "시정이 넘치는 동판화를 깊이 탐구한 판화가"
+    },
+    {
+      "which": "1",
+      "handle": "komai-tetsuro",
+      "lang": "en",
+      "field": "viewpoint",
+      "from": "delicate scratched-out lines",
+      "to": "delicate, scratch-like lines"
+    },
+    {
+      "which": "2",
+      "handle": "komai-tetsuro",
+      "lang": "es",
+      "field": "viewpoint",
+      "from": "finas líneas rasgadas",
+      "to": "finas líneas que parecen arañadas"
+    },
+    {
+      "which": "B",
+      "handle": "komiya-kosuke",
+      "lang": "es",
+      "field": "bio",
+      "from": "derivada del kamishimo, traje de gala de los samuráis",
+      "to": "derivada del kamishimo de los samuráis"
+    },
+    {
+      "which": "B",
+      "handle": "komiya-kosuke",
+      "lang": "ko",
+      "field": "bio",
+      "from": "사메(상어 가죽)나 교기",
+      "to": "사메나 교기"
+    },
+    {
+      "which": "1",
+      "handle": "komiya-kosuke",
+      "lang": "zh_tw",
+      "field": "viewpoint",
+      "from": "近觀竟連成整飭有序的文樣",
+      "to": "近觀則連成整飭有序的文樣"
+    },
+    {
+      "which": "1",
+      "handle": "komiya-yasutaka",
+      "lang": "es",
+      "field": "viewpoint",
+      "from": "una hondura de matiz que parece lisa pero es profunda",
+      "to": "una riqueza de matices que se revela tras una apariencia de color uniforme"
+    },
+    {
+      "which": "2",
+      "handle": "komiya-yasutaka",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "eine Tiefe des Geschmacks, die schlicht wirkt und doch tief reicht",
+      "to": "eine tiefgründige ästhetische Wirkung, obwohl das Gewebe auf den ersten Blick einfarbig erscheint"
+    },
+    {
+      "which": "1",
+      "handle": "komiya-yasutaka",
+      "lang": "ko",
+      "field": "viewpoint",
+      "from": "그의 에도 고몬 기모노에서",
+      "to": "에도 고몬 기모노에서"
+    },
+    {
+      "which": "2",
+      "handle": "komiya-yasutaka",
+      "lang": "zh_tw",
+      "field": "viewpoint",
+      "from": "看似素色卻意味深長的韻味",
+      "to": "看似素色，卻有深厚韻味"
+    },
+    {
+      "which": "1",
+      "handle": "kondo-sechiku",
+      "lang": "en",
+      "field": "statement",
+      "from": "A calligrapher of the Meikaku school who excelled in clerical script",
+      "to": "A calligrapher who studied under Kusakabe Meikaku and excelled in clerical script"
+    },
+    {
+      "which": "1",
+      "handle": "kondo-sechiku",
+      "lang": "en",
+      "field": "viewpoint",
+      "from": "He was a calligrapher of the Meikaku school who excelled in clerical script.",
+      "to": "He was a calligrapher who studied under Kusakabe Meikaku and excelled in clerical script."
+    },
+    {
+      "which": "1",
+      "handle": "kondo-sechiku",
+      "lang": "en",
+      "field": "viewpoint",
+      "from": "the characters that stand solidly to left and right",
+      "to": "the broad, solidly grounded forms of the characters"
+    },
+    {
+      "which": "1",
+      "handle": "kondo-sechiku",
+      "lang": "fr",
+      "field": "viewpoint",
+      "from": "aux caractères qui se tiennent solidement à gauche et à droite",
+      "to": "à la structure ample et solidement assise des caractères"
+    },
+    {
+      "which": "2",
+      "handle": "kondo-sechiku",
+      "lang": "es",
+      "field": "viewpoint",
+      "from": "el final de un trazo horizontal se eleva en un giro",
+      "to": "el final de un trazo horizontal asciende con un movimiento de barrido"
+    },
+    {
+      "which": "1",
+      "handle": "kondo-sechiku",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "留意那横画收笔如波磔般上扬的独特形态",
+      "to": "留意那横画收笔像向外撇出一般上扬的独特形态"
+    },
+    {
+      "which": "2",
+      "handle": "kondo-sechiku",
+      "lang": "zh_tw",
+      "field": "viewpoint",
+      "from": "留意那橫畫收筆如波磔般上揚的獨特形態",
+      "to": "留意那橫畫收筆如向外撇出般上揚的獨特形態"
+    },
+    {
+      "which": "1",
+      "handle": "kondo-yuzo",
+      "lang": "es",
+      "field": "viewpoint",
+      "from": "Gran plato con diseño de flor de ciruelo en azul bajo cubierta",
+      "to": "Gran plato con diseño de ciruelo en azul bajo cubierta"
+    },
+    {
+      "which": "1",
+      "handle": "kondo-yuzo",
+      "lang": "zh_tw",
+      "field": "statement",
+      "from": "究極豪快染付繪飾的人間國寶",
+      "to": "鑽研豪放染付彩繪的人間國寶"
+    },
+    {
+      "which": "1",
+      "handle": "kondo-yuzo",
+      "lang": "zh_tw",
+      "field": "viewpoint",
+      "from": "究極豪快染付繪飾的陶藝家",
+      "to": "鑽研豪放染付彩繪的陶藝家"
+    },
+    {
+      "which": "1",
+      "handle": "kono-takashi",
+      "lang": "en",
+      "field": "viewpoint",
+      "from": "the very domain of the designer's work",
+      "to": "the very scope of design as a profession"
+    },
+    {
+      "which": "2",
+      "handle": "kono-takashi",
+      "lang": "fr",
+      "field": "viewpoint",
+      "from": "Dans son travail de publicité cinématographique et d'affiches",
+      "to": "Dans son travail de promotion cinématographique et de publicité"
+    },
+    {
+      "which": "2",
+      "handle": "kono-takashi",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "便能感受到一种自由的想象",
+      "to": "便能感受到一种自由的构思"
+    },
+    {
+      "which": "B",
+      "handle": "kono-takashi",
+      "lang": "ko",
+      "field": "bio",
+      "from": "일선미(일본선전미술회) 결성",
+      "to": "일본선전미술회 결성"
+    },
+    {
+      "which": "1",
+      "handle": "kono-takashi",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "战前他自在松竹从事电影宣传美术起步，活跃于",
+      "to": "战前，他曾在松竹从事电影宣传美术，并活跃于"
+    },
+    {
+      "which": "1",
+      "handle": "kono-takashi",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "戰前他自在松竹從事電影宣傳美術起步，活躍於",
+      "to": "戰前，他曾在松竹從事電影宣傳美術，並活躍於"
+    },
+    {
+      "which": "2",
+      "handle": "kono-takashi",
+      "lang": "de",
+      "field": "bio",
+      "from": "für seine geistreichen Einfälle und sein feines Formgefühl",
+      "to": "für seine geistreichen Einfälle und seine raffinierte Formgestaltung"
+    },
+    {
+      "which": "2",
+      "handle": "kono-takashi",
+      "lang": "es",
+      "field": "bio",
+      "from": "uno de quienes sostuvieron los años fundacionales del diseño gráfico en Japón",
+      "to": "una de las personas que impulsaron el diseño gráfico japonés en sus inicios"
+    },
+    {
+      "which": "2",
+      "handle": "konoshima-okoku",
+      "lang": "es",
+      "field": "bio",
+      "from": "que representa a un solo zorro de pie en silencio en un bosquecillo de bambú a la luz de la luna",
+      "to": "que representa, en un tono sereno, a un solo zorro de pie en un bosquecillo de bambú a la luz de la luna"
+    },
+    {
+      "which": "2",
+      "handle": "kosaka-kiseki",
+      "lang": "fr",
+      "field": "bio",
+      "from": "Il prit part aux associations calligraphiques du Kansai",
+      "to": "Il prit part à une association calligraphique du Kansai"
+    },
+    {
+      "which": "2",
+      "handle": "kosaka-kiseki",
+      "lang": "es",
+      "field": "bio",
+      "from": "Participó en las asociaciones caligráficas de Kansai",
+      "to": "Participó en una asociación caligráfica de Kansai"
+    },
+    {
+      "which": "1",
+      "handle": "kosaka-kiseki",
+      "lang": "es",
+      "field": "bio",
+      "from": "mediante la publicación de una revista y la enseñanza",
+      "to": "mediante la publicación de una revista de caligrafía y la enseñanza"
+    },
+    {
+      "which": "1",
+      "handle": "kosaka-kiseki",
+      "lang": "ko",
+      "field": "viewpoint",
+      "from": "당당히 버틴 글자의 자세",
+      "to": "당당한 글자의 자태"
+    },
+    {
+      "which": "1",
+      "handle": "kosaka-kiseki",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "留意粗放从容的运笔",
+      "to": "留意粗重而从容的运笔"
+    },
+    {
+      "which": "1",
+      "handle": "kosaka-kiseki",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "不如以饱蘸浓墨之笔所生的豁达力度，来呈现书法风骨",
+      "to": "不如以饱蘸墨汁之笔所生的豁达力度，来呈现书法风格"
+    },
+    {
+      "which": "1",
+      "handle": "kosaka-kiseki",
+      "lang": "zh_tw",
+      "field": "viewpoint",
+      "from": "留意粗放從容的運筆",
+      "to": "留意粗重而從容的運筆"
+    },
+    {
+      "which": "1",
+      "handle": "kosaka-kiseki",
+      "lang": "zh_tw",
+      "field": "viewpoint",
+      "from": "不如以飽蘸濃墨之筆所生的豁達力度，來呈現書法風骨",
+      "to": "不如以飽蘸墨汁之筆所生的豁達力度，來呈現書法風格"
+    },
+    {
+      "which": "1",
+      "handle": "kokuta-suda",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "ein kräftiger Appetit auf das Schaffen",
+      "to": "ein unbändiger Schaffensdrang"
+    }
+  ]
+}
