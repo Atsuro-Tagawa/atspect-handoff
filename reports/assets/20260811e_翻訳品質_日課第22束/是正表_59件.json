@@ -1,0 +1,480 @@
+{
+  "reason": "日課 第22束（270〜279番）＝二重検品140依頼＋用語注入つき。あわせて、独語『Rufname』（本名の誤訳）の横断是正15名",
+  "enteredBy": "翻訳品質T",
+  "enteredDate": "2026-08-11",
+  "note": "★台帳の肩書き語（Yōga Painter 等）を本文の言い回しにまで当てよという指摘は、辞書B5により不採用。★『Rufname』は日本語原文が15名とも「本名」で、すでに14名が『bürgerlicher Name』になっており、サイトが割れていた。横断で揃える。",
+  "patches": [
+    {
+      "which": "B",
+      "handle": "kurata-hakuyo",
+      "lang": "de",
+      "field": "bio",
+      "from": "übernahm er, im Einklang mit der von Yamamoto Kanae vertretenen Bauernkunstbewegung, die Leitung des Japanischen Instituts für Bauernkunst",
+      "to": "wirkte er, im Einklang mit der von Yamamoto Kanae vertretenen Bauernkunstbewegung, an der Leitung des Japanischen Instituts für Bauernkunst mit"
+    },
+    {
+      "which": "2",
+      "handle": "kurata-hakuyo",
+      "lang": "en",
+      "field": "bio",
+      "from": "in sympathy with the folk craft art movement championed by Yamamoto Kanae, he took charge of running the Japan Folk Craft Art Institute",
+      "to": "in sympathy with the peasant art movement championed by Yamamoto Kanae, he became involved in running the Japan Peasant Art Institute"
+    },
+    {
+      "which": "B",
+      "handle": "kurata-hakuyo",
+      "lang": "es",
+      "field": "bio",
+      "from": "asumió la dirección del Instituto Japonés de Arte Popular Campesino",
+      "to": "participó en la gestión del Instituto Japonés de Arte Campesino"
+    },
+    {
+      "which": "2",
+      "handle": "kurata-hakuyo",
+      "lang": "de",
+      "field": "statement",
+      "from": "der sich auch der Bauernkunst widmete",
+      "to": "der sich auch mit der Bauernkunst befasste"
+    },
+    {
+      "which": "1",
+      "handle": "kurata-hakuyo",
+      "lang": "zh_cn",
+      "field": "statement",
+      "from": "亦投身农民美术的写实派风景画家",
+      "to": "也参与农民美术活动的写实派风景画家"
+    },
+    {
+      "which": "B",
+      "handle": "kurata-hakuyo",
+      "lang": "ko",
+      "field": "viewpoint",
+      "from": "과장 없는 솔직한 사실과",
+      "to": "과장 없이 꾸밈없는 사실적 표현과"
+    },
+    {
+      "which": "B",
+      "handle": "kurata-hakuyo",
+      "lang": "zh_tw",
+      "field": "viewpoint",
+      "from": "他一面描繪寫實的風景畫，一面也傾力於農民美術運動。",
+      "to": "他是描繪寫實風景畫，同時也致力於農民美術運動的畫家。"
+    },
+    {
+      "which": "2",
+      "handle": "kurata-seiji",
+      "lang": "fr",
+      "field": "bio",
+      "from": "dans les quartiers de plaisir nocturnes",
+      "to": "dans les quartiers animés la nuit"
+    },
+    {
+      "which": "B",
+      "handle": "kurata-seiji",
+      "lang": "zh_cn",
+      "field": "statement",
+      "from": "拍摄都市街头与人间的摄影家",
+      "to": "拍摄都市街头与人们的摄影家"
+    },
+    {
+      "which": "B",
+      "handle": "kurata-seiji",
+      "lang": "zh_tw",
+      "field": "statement",
+      "from": "拍攝都市街頭與人間的攝影家",
+      "to": "拍攝都市街頭與人們的攝影家"
+    },
+    {
+      "which": "B",
+      "handle": "kurata-seiji",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "他是拍摄都市街头与人间的摄影家",
+      "to": "他是拍摄都市街头与人们的摄影家"
+    },
+    {
+      "which": "2",
+      "handle": "kurata-seiji",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "而是正面闯入在都市角落涌动的人间生猛现实",
+      "to": "而是正面闯入在都市角落涌动的人们的鲜活而赤裸的现实"
+    },
+    {
+      "which": "2",
+      "handle": "kurata-seiji",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "他以刺目的生猛感，写出了在都市边缘与社会角落生活的人们身影",
+      "to": "他以刺目的生猛感，拍出了生活在都市边缘与社会角落的人们的身影"
+    },
+    {
+      "which": "2",
+      "handle": "kurata-seiji",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "他以刺目的生猛感，寫出了在都市邊緣與社會角落生活的人們身影",
+      "to": "他以刺目的生猛感，拍出了生活在都市邊緣與社會角落的人們身影"
+    },
+    {
+      "which": "1",
+      "handle": "kurata-seiji",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "auf die bloßen Ausdrücke und Gesten",
+      "to": "auf die unverstellten Ausdrücke und Gesten"
+    },
+    {
+      "which": "1",
+      "handle": "kurihara-rosui",
+      "lang": "en",
+      "field": "bio",
+      "from": "Serving as chairman of the Japan Calligraphy Academy",
+      "to": "Serving in roles including that of chairman of the Japan Calligraphy Academy"
+    },
+    {
+      "which": "2",
+      "handle": "kurihara-rosui",
+      "lang": "fr",
+      "field": "bio",
+      "from": "Président de l'Académie de calligraphie du Japon, il se consacra",
+      "to": "Il occupa notamment le poste de président de l'Académie de calligraphie du Japon et se consacra"
+    },
+    {
+      "which": "2",
+      "handle": "kurihara-rosui",
+      "lang": "es",
+      "field": "bio",
+      "from": "Su nombre de nacimiento era Yasushi.",
+      "to": "Su nombre real era Yasushi."
+    },
+    {
+      "which": "B",
+      "handle": "kurihara-rosui",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "其书笔致确实、格调高雅",
+      "to": "其书笔致稳健、格调高雅"
+    },
+    {
+      "which": "2",
+      "handle": "kurihara-rosui",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "其書筆致確實、格調高雅",
+      "to": "其書筆致穩健、格調高雅"
+    },
+    {
+      "which": "2",
+      "handle": "kurihara-rosui",
+      "lang": "ko",
+      "field": "viewpoint",
+      "from": "고전에 학습한 흐름 있는 선",
+      "to": "고전에서 배운 흐름 있는 선"
+    },
+    {
+      "which": "1",
+      "handle": "kuroda-jutaro",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "die über den bloßen Realismus hinausgehen",
+      "to": "die nicht auf realistische Darstellung beschränkt waren"
+    },
+    {
+      "which": "1",
+      "handle": "kuroda-jutaro",
+      "lang": "es",
+      "field": "bio",
+      "from": "Abordó lienzos en los que figuras e interiores",
+      "to": "Abordó composiciones en las que figuras e interiores"
+    },
+    {
+      "which": "2",
+      "handle": "kuroda-jutaro",
+      "lang": "fr",
+      "field": "viewpoint",
+      "from": "Il est gratifiant de suivre",
+      "to": "Il convient d'observer"
+    },
+    {
+      "which": "1",
+      "handle": "kuroda-seiki",
+      "lang": "de",
+      "field": "bio",
+      "from": "brachte mit seinem lichten Stil eine neue Strömung in die japanische Yōga",
+      "to": "gab der japanischen Malerei im westlichen Stil (Yōga) mit seinem hellen Malstil neue Impulse"
+    },
+    {
+      "which": "2",
+      "handle": "kuroda-seiki",
+      "lang": "ko",
+      "field": "viewpoint",
+      "from": "느긋한 필치로",
+      "to": "부드러운 필치로"
+    },
+    {
+      "which": "B",
+      "handle": "kuroda-tatsuaki",
+      "lang": "de",
+      "field": "bio",
+      "from": "die von Yanagi Sōetsu und anderen angeführt wurde",
+      "to": "der sich Yanagi Sōetsu und andere angeschlossen hatten"
+    },
+    {
+      "which": "B",
+      "handle": "kuroda-tatsuaki",
+      "lang": "es",
+      "field": "bio",
+      "from": "al movimiento Mingei (artesanía popular) liderado por Yanagi Sōetsu y otros",
+      "to": "al movimiento Mingei (artesanía popular) de Yanagi Sōetsu y otros"
+    },
+    {
+      "which": "B",
+      "handle": "kuroda-tatsuaki",
+      "lang": "ko",
+      "field": "bio",
+      "from": "야나기 무네요시 등이 이끈 민예 운동에",
+      "to": "야나기 무네요시 등의 민예 운동에"
+    },
+    {
+      "which": "2",
+      "handle": "kuroda-tatsuaki",
+      "lang": "fr",
+      "field": "bio",
+      "from": "des meubles et des objets massifs et imposants",
+      "to": "des meubles et des récipients massifs et imposants"
+    },
+    {
+      "which": "2",
+      "handle": "kuroda-tatsuaki",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "意欲将素材的力量与工艺的风骨融为一体",
+      "to": "意欲将素材的力量与工艺的格调融为一体"
+    },
+    {
+      "which": "2",
+      "handle": "kusakabe-kimbei",
+      "lang": "es",
+      "field": "bio",
+      "from": "nacido en la provincia de Kai (prefectura de Yamanashi)",
+      "to": "nacido en la provincia de Kai (actual prefectura de Yamanashi)"
+    },
+    {
+      "which": "B",
+      "handle": "kusakabe-kimbei",
+      "lang": "ko",
+      "field": "viewpoint",
+      "from": "세계 사람들에게 보낼 기념품으로",
+      "to": "세계 사람들을 위한 기념품으로"
+    },
+    {
+      "which": "1",
+      "handle": "kusakabe-kimbei",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "以及那些迎合外国人想象之「日本风情」的题材",
+      "to": "以及那些取材自外国人想象中「日本风情」的题材"
+    },
+    {
+      "which": "2",
+      "handle": "kusakabe-kimbei",
+      "lang": "zh_tw",
+      "field": "viewpoint",
+      "from": "以及那些迎合外國人想像之「日本風情」的題材",
+      "to": "以及那些取材自外國人想像中「日本風情」的題材"
+    },
+    {
+      "which": "B",
+      "handle": "kusakabe-meikaku",
+      "lang": "de",
+      "field": "bio",
+      "from": "Als früher Vertreter der „Stelenkunde“ (Higaku)",
+      "to": "Er griff früh die „Stelenkunde“ (Higaku) auf"
+    },
+    {
+      "which": "B",
+      "handle": "kusakabe-meikaku",
+      "lang": "fr",
+      "field": "bio",
+      "from": "il établit une manière puissante et dense de calligraphie de kanji",
+      "to": "il établit, dans la calligraphie des kanji, un style puissant et empreint de gravité"
+    },
+    {
+      "which": "B",
+      "handle": "kusakabe-meikaku",
+      "lang": "ko",
+      "field": "bio",
+      "from": "많은 문인을 길러",
+      "to": "많은 제자를 길러"
+    },
+    {
+      "which": "B",
+      "handle": "kusube-yaichi",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "anders als die lebhafte Malerei",
+      "to": "anders als eine leuchtend bunte Bemalung"
+    },
+    {
+      "which": "1",
+      "handle": "kusube-yaichi",
+      "lang": "en",
+      "field": "viewpoint",
+      "from": "unlike vivid painting",
+      "to": "unlike vivid painted decoration"
+    },
+    {
+      "which": "2",
+      "handle": "kusube-yaichi",
+      "lang": "es",
+      "field": "viewpoint",
+      "from": "a diferencia de una pintura vívida",
+      "to": "a diferencia de una decoración pictórica de colores vivos"
+    },
+    {
+      "which": "1",
+      "handle": "kusube-yaichi",
+      "lang": "ko",
+      "field": "viewpoint",
+      "from": "선명한 그림과는 다른",
+      "to": "선명한 그림 장식과는 다른"
+    },
+    {
+      "which": "1",
+      "handle": "kusube-yaichi",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "他有别于鲜明绘彩",
+      "to": "他不同于鲜艳的彩绘装饰风格"
+    },
+    {
+      "which": "1",
+      "handle": "kusube-yaichi",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "die feuchte Tonqualität",
+      "to": "die ruhige, satte Farbtönung"
+    },
+    {
+      "which": "横断",
+      "handle": "saigo-kogetsu",
+      "lang": "de",
+      "field": "bio",
+      "from": "Sein Rufname war Tadasu.",
+      "to": "Sein bürgerlicher Name war Tadasu."
+    },
+    {
+      "which": "横断",
+      "handle": "nishiyama-suisho",
+      "lang": "de",
+      "field": "bio",
+      "from": "sein Rufname war Usaburō",
+      "to": "sein bürgerlicher Name war Usaburō"
+    },
+    {
+      "which": "横断",
+      "handle": "irie-hako",
+      "lang": "de",
+      "field": "bio",
+      "from": "sein Rufname war Ikujirō",
+      "to": "sein bürgerlicher Name war Ikujirō"
+    },
+    {
+      "which": "横断",
+      "handle": "tokuoka-shinsen",
+      "lang": "de",
+      "field": "bio",
+      "from": "sein Rufname war Tokijirō",
+      "to": "sein bürgerlicher Name war Tokijirō"
+    },
+    {
+      "which": "横断",
+      "handle": "yamaguchi-kayo",
+      "lang": "de",
+      "field": "bio",
+      "from": "sein Rufname war Yonejirō",
+      "to": "sein bürgerlicher Name war Yonejirō"
+    },
+    {
+      "which": "横断",
+      "handle": "nishimura-goun",
+      "lang": "de",
+      "field": "bio",
+      "from": "sein Rufname war Genjirō",
+      "to": "sein bürgerlicher Name war Genjirō"
+    },
+    {
+      "which": "横断",
+      "handle": "kitano-tsunetomi",
+      "lang": "de",
+      "field": "bio",
+      "from": "Sein Rufname war Tomitarō.",
+      "to": "Sein bürgerlicher Name war Tomitarō."
+    },
+    {
+      "which": "横断",
+      "handle": "uemura-shoko",
+      "lang": "de",
+      "field": "bio",
+      "from": "Sein Rufname war Shintarō.",
+      "to": "Sein bürgerlicher Name war Shintarō."
+    },
+    {
+      "which": "横断",
+      "handle": "watanabe-sao",
+      "lang": "de",
+      "field": "bio",
+      "from": "sein Rufname war Amane",
+      "to": "sein bürgerlicher Name war Amane"
+    },
+    {
+      "which": "横断",
+      "handle": "hidai-shokin",
+      "lang": "de",
+      "field": "bio",
+      "from": "Ihr Rufname war Motoko.",
+      "to": "Ihr bürgerlicher Name war Motoko."
+    },
+    {
+      "which": "横断",
+      "handle": "namai-shika",
+      "lang": "de",
+      "field": "bio",
+      "from": "Sein Rufname war Shigeru.",
+      "to": "Sein bürgerlicher Name war Shigeru."
+    },
+    {
+      "which": "横断",
+      "handle": "kurihara-rosui",
+      "lang": "de",
+      "field": "bio",
+      "from": "Sein Rufname war Yasushi.",
+      "to": "Sein bürgerlicher Name war Yasushi."
+    },
+    {
+      "which": "横断",
+      "handle": "morita-shiryu",
+      "lang": "de",
+      "field": "bio",
+      "from": "Sein Rufname war Kiyoshi.",
+      "to": "Sein bürgerlicher Name war Kiyoshi."
+    },
+    {
+      "which": "横断",
+      "handle": "shinoda-toko",
+      "lang": "de",
+      "field": "bio",
+      "from": "Ihr Rufname war Masuko.",
+      "to": "Ihr bürgerlicher Name war Masuko."
+    },
+    {
+      "which": "横断",
+      "handle": "aida-mitsuo",
+      "lang": "de",
+      "field": "bio",
+      "from": "Sein Rufname war Mitsuo.",
+      "to": "Sein bürgerlicher Name war Mitsuo."
+    }
+  ]
+}
