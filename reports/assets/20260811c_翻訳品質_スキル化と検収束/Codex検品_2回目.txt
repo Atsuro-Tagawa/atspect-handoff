@@ -1,0 +1,1184 @@
+########## koshino-ayako__de
+- 功績／「auf den dem Leben der Menschen vor Ort zugewandten Schnitt」／「仕立て」を「Schnitt（裁断・シルエット）」としており、意味がずれている。また「dem Leben … zugewandt」も不自然／「auf die am Leben der Menschen vor Ort orientierte Anfertigung der Kleidung」などに直す。
+- 功績／「ihre ganze Leidenschaft」／原文にない「ganze（余すところのない）」という強調・評価が加わっている／「ihre Leidenschaft」に直す。
+- 略歴／「von ihrer örtlichen Gemeinde aus」／「地域に根ざして」の訳として不自然で、「Gemeinde」は自治体・共同体を想起させる／「in ihrer Region verwurzelt」に直す。
+- 略歴／「zum Stoff einer Fernsehserie」／「テレビドラマ」の「ドラマ」に当たる情報が弱まり、一般的なテレビシリーズになっている／「zum Stoff einer Fernseh-Dramaserie」に直す。
+########## koshino-ayako__en
+功績／“attending to the tailoring attuned to the lives of local people and to her keen curiosity in taking up new trends reveals her wholehearted passion for making”／主語が長く、論理関係も不自然で、「注目すると、情熱が感じられる」が明確に伝わらない。／“When we consider her tailoring, which was attuned to the lives of local people, and her eager exploration of new trends, we sense her wholehearted passion for making clothes.”
+略歴／“She ran a dressmaking shop from before World War II”／“from before” が英語として不自然。／“Beginning before World War II, she ran a dressmaking shop and devoted her whole life to making clothes.”
+########## koshino-ayako__es
+- 功績／「atender a la sastrería atenta a la vida de la gente del lugar」／「atender a」と「sastrería atenta」の組み合わせが不自然で、「仕立てと探究心に注目すると」という構造も正確に表せていない／「al prestar atención a una confección adaptada a la vida de la gente de la comunidad」と直す。
+- 略歴／「desde antes de la Segunda Guerra Mundial」／原文の「戦前」を「第二次世界大戦前」と限定し、原文にない特定を加えている／「desde antes de la guerra」と直す。
+- 略歴／「una de quienes apoyaron」／人を受ける表現として不自然／「una de las personas que contribuyeron a la difusión de la indumentaria occidental en Japón」と直す。
+########## koshino-ayako__fr
+- 功績／「une styliste」／指定訳「Styliste de mode」と不一致。／「une styliste de mode」に直す。
+- 功績／「Dans ses longues années de couture, prêter attention à la confection attentive à la vie des gens du pays」／主語のない不定詞構文が不自然で、「地域の人々の暮らしに寄り添った仕立て」の意味も明確に表せていない。／「Lorsque l'on considère ses longues années de création vestimentaire, en particulier une confection adaptée à la vie des habitants de la région」に直す。
+- 功績／「sa passion entière」／「ひたむきな情熱」の訳として不自然。／「sa passion indéfectible」に直す。
+- 略歴／「depuis sa communauté locale」／「地域に根ざして」の誤訳。「depuis」は起点を表し、地域に根ざした活動という意味にならない。／「enracinée dans sa communauté locale」に直す。
+- 略歴／「trois filles devenues toutes stylistes」／原文の「いずれもファッションデザイナー」の「ファッション」が落ち、指定訳とも不一致。／「trois filles qui devinrent toutes stylistes de mode」に直す。
+- 一言紹介／「Une styliste」／指定訳「Styliste de mode」と不一致。／「Une styliste de mode」に直す。
+########## koshino-ayako__ko
+- 功績／「오랜 세월의 옷 만들기에서는 지역 사람들의 삶에 다가간 봉제와」／「삶에 다가간 봉제」は韓国語として不自然で、「仕立て」が「봉제（縫製）」に狭められている／「오랜 세월 옷을 만들면서 지역 사람들의 삶에 맞춘 옷 만들기와」に直す。
+- 功績／「고령이 되어서도 계속 만든, 만들기를 향한 한결같은 열정」／「계속 만든」は目的語がなく、「ものづくり」を単に「만들기」としたため不自然／「고령이 되어서도 옷을 계속 만들었던, 옷 만들기를 향한 한결같은 열정」に直す。
+- 略歴／「알려져 있다」／故人について現在形になっている／「알려졌다」に直す。
+- 略歴／「유명하며」／原文の「知られ」に対して「有名だ」という評価が加わっている／「알려졌으며」に直す。
+- 略歴／「평가된다」／故人について現在形であり、原文の「一人とされる」を「評価される」としている／「인물 가운데 한 사람으로 여겨졌다」に直す。
+########## koshino-ayako__zh_cn
+- 功績／「年迈仍持续创作的对手艺一心一意的热情」／修飾関係が不明瞭で、「对手艺一心一意的热情」も中国語として不自然です。また「手艺」は「ものづくり」より技能・技術に偏ります。／「即使年事已高仍坚持服装制作的执着热情」に直す。
+- 略歴／「她以扎根地方推广洋装、长年活跃于一线的身姿而知名」／「以……身姿而知名」は日本語を直訳した不自然な表現です。「一线」も原文の「現役」にはない意味を加えています。／「她因扎根当地推广洋装，并长期保持活跃而为人所知」に直す。
+########## koshino-ayako__zh_tw
+功績／「年邁仍持續創作的對手藝一心一意的熱情」／修飾関係が不明瞭で、「年邁仍持續創作」が「熱情」に自然につながっていない。／「即使年事已高仍持續製作服裝、對服裝製作一心一意的熱情」に直す。
+略歴／「長年活躍於一線的身姿」／「活躍於一線」は第一線で活躍したという原文にない評価を含み得るうえ、「身姿」もこの文脈では不自然。／「長年持續活躍的形象」に直す。
+########## kosugi-hoan__de
+功績／「offenbart sich, wie das in der westlichen Malerei geschulte Auge auf den Geist der ostasiatischen Literatenmalerei trifft」／「offenbart sich」は原文の「感じられる」より断定が強く、不自然です。また、故人の作家活動を現在形「trifft」で述べています。／「lässt sich nachvollziehen, wie das in der westlichen Malerei geschulte Auge dem Geist der ostasiatischen Literatenmalerei begegnete」
+略歴／「malte er sein Leben lang auch im japanischen Stil」／「日本画」が指定訳の「Nihonga」でなく「im japanischen Stil」と訳され、用語が不統一です。／「malte er sein Leben lang auch weiterhin Nihonga」
+略歴／「eine Art neues Nanga, das der Nanga-Tradition der späten Edo-Zeit eine moderne Sensibilität verlieh」／近代的な感覚を南画の伝統に「取り入れた」という関係が、伝統に感覚を「与えた」とずれており、関係代名詞「das」の受け方も不自然です。／「eine Art neues Nanga, in dem die Tradition des Nanga aus der späten Edo-Zeit mit einer modernen Sensibilität verbunden wurde」
+一言紹介／「zum ostasiatischen Tuschausdruck」／「Tuschausdruck」はドイツ語として不自然です。／「zu Ausdrucksformen der ostasiatischen Tuschemalerei」
+########## kosugi-hoan__en
+略歴／“A painter of both Yōga (Western-style painting) and Nihonga born in Nikkō, Tochigi Prefecture”／指定用語と一致せず、冒頭も修飾関係が不自然。「洋画家・日本画家」という肩書きが正確に表されていない。／“Kosugi Hoan was a Yōga (Western-style) Painter and Nihonga Painter born in Nikkō, Tochigi Prefecture.” とする。
+略歴／“had the given name Kunitarō”／「本名」を “given name” とすると「名」に限定され、原文の意味と異なる。／“had the real name Kunitarō” とする。
+略歴／“paint in Japanese style”／原文の「日本画」が指定用語の “Nihonga” ではなく、一般的な「日本風」であるかのように訳されている。／“paint Nihonga” とする。
+功績／“set out from Western-style painting”／“set out from” はこの文脈では不自然。／“began his career in Western-style painting” とする。
+功績／“deepened a world of East Asian ink”／“deepen a world” と “East Asian ink” の組み合わせが英語として不自然。／“deepened his exploration of the world of East Asian ink painting” とする。
+功績／“attending to the spare line, the generous open space, and the bleeding of the ink reveals”／“attending to” の動名詞句に対して “reveals” と断定するため、「注目すると～感じられる」より意味が強く、不自然でもある。／“By attending to the spare lines, generous open spaces, and bleeding ink, one can sense” とする。
+略歴／“deepening a world of ink and light color”／“deepening a world” が英語として不自然。／“deepening his exploration of ink and light color” とする。
+########## kosugi-hoan__es
+略歴／「continuó pintando al estilo japonés toda su vida」／「日本画」が「日本風に描く」と訳され、分野名の nihonga と一致していない／「continuó pintando nihonga durante toda su vida」に直す。
+########## kosugi-hoan__fr
+- 功績／「approfondit un monde d'encre d'Asie orientale」／単純過去であり、「monde d'encre」も不自然。／「a approfondi l'univers de la peinture à l'encre d'Asie orientale」とする。
+- 功績／「prêter attention à la ligne sobre, aux amples espaces vides et au fondu de l'encre révèle」／「墨のにじみ」に対する「fondu」は不適切で、文の構造も不自然。／「si l'on prête attention à la ligne sobre, aux amples espaces vides et à la diffusion de l'encre, on peut sentir」とする。
+- 略歴／「Peintre à la fois de style occidental (yōga) et nihonga né à Nikkō, dans la préfecture de Tochigi, Kosugi Hoan avait pour nom de naissance Kunitarō.」／動詞のない同格句で始まっており、指定語「Peintre nihonga」も正確に用いられていない。／「Kosugi Hoan, né à Nikkō, dans la préfecture de Tochigi, était peintre de style occidental et peintre nihonga. Son nom de naissance était Kunitarō.」とする。
+- 略歴／「peignit」「prit part」「dirigea」「participa」「continua」「prit plus tard」／略歴の過去の出来事に単純過去が使われている。／それぞれ「a peint」「a pris part」「a dirigé」「a participé」「a continué」「a pris plus tard」とする。
+########## kosugi-hoan__ko
+- 功績／「화가이다」／故人について現在形になっている／「화가였다」に直す。
+- 略歴／「서양화가·니혼가 화가이다」／故人について現在形になっている／「서양화가·니혼가 화가였다」に直す。
+########## kosugi-hoan__zh_cn
+- 功績／「由西画出发、晚年深化东方水墨世界的画家。」／動詞のない文の断片であり、また故人について現在形相当の表現になっている。／「他曾是一位从西洋画起步、晚年深入探索东方水墨世界的画家。」とする。
+- 略歴／「小杉放庵是出生于栃木县日光的西画家、日本画家。」／指定呼称「洋画家」の訳が「西画家」になっており、台帳指定の「西洋画家」と不一致。また故人なので過去の表現にする必要がある。／「小杉放庵曾是出生于栃木县日光的西洋画家、日本画家。」とする。
+- 略歴／「后来号「放庵」。」／「号」の動詞としての使い方が現代中国語としてやや不自然。／「后取号「放庵」。」とする。
+########## kosugi-hoan__zh_tw
+- 功績／「由西畫出發、晚年深化東方水墨世界的畫家。」／主語と述語を欠く文の断片になっている。／「他是由西畫出發、晚年深化東方水墨世界的畫家。」に直す。
+- 略歴／「西畫家」／指定された呼称「洋画家」の訳語と一致しない。／「西洋畫家」に直す。
+########## koyama-keizo__de
+- 功績／「helle Farbe und stabile Komposition」／「Farbe」は数が不自然で、「stabile Komposition」もドイツ語として硬い表現です。／「helle Farben und ausgewogene Kompositionen」に直す。
+- 功績／「tragen helle Farbe und stabile Komposition die Formen von Bergen und Burgen」／「tragen die Formen」は不自然な直訳調です。／「geben helle Farben und ausgewogene Kompositionen den Bergen und Burgen ihre klare Form」に直す。
+- 功績／「Es hilft, den Bergkamm des Berges Asama, die weißen Flächen einer Burg und die Klarheit der Luft miteinander zu vergleichen.」／「Es hilft」はこの文脈では不自然で、「Bergkamm des Berges」も冗長です。／「Es lohnt sich, die Kammlinie des Berges Asama, die weißen Flächen einer Burg und die Klarheit der Luft miteinander zu vergleichen.」に直す。
+- 略歴／「sind unter seinen Werken verzeichnet」／「verzeichnet」は、作品が目録などに登録されているという原文にない事実を含意します。／「finden sich unter seinen Werken」に直す。
+- 一言紹介／「Yōga-Maler」／指定された「洋画家」の訳語と一致していません。／「Maler im westlichen Stil (Yōga), der den Berg Asama und Burgen in hellen Farben darstellte」に直す。
+########## koyama-keizo__en
+- 略歴／“Western-style painter”／指定訳「Yōga (Western-style) Painter」と一致しない／“Yōga (Western-style) Painter”に直す。
+- 一言紹介／“A Western-style painter”／指定訳「Yōga (Western-style) Painter」と一致しない／“A Yōga (Western-style) Painter”に直す。
+########## koyama-keizo__es
+指摘なし
+########## koyama-keizo__fr
+略歴／「Il reçut l'ordre de la Culture.」／単純過去は本文の時制として不自然。／「Il a reçu l'ordre de la Culture.」に直す。
+一言紹介／「qui représenta le mont Asama et des châteaux en couleurs vives」／単純過去が不自然で、「en couleurs vives」も自然な言い回しではない。／「qui peignait le mont Asama et des châteaux avec des couleurs vives」に直す。
+########## koyama-keizo__ko
+略歴／「《아사마산》 《시라사기 성》 《붉은 아사마》」／作品名の区切りがない／「《아사마산》, 《시라사기 성》, 《붉은 아사마》」に直す。
+########## koyama-keizo__zh_cn
+- 略歴／「西画家」／指定訳「西洋画家」と一致しない。／「西洋画家」に直す。
+- 一言紹介／「西画家」／指定訳「西洋画家」と一致しない。／「西洋画家」に直す。
+- 功績／「在小山的风景中」／「小山」が地名のように読め、「小山の風景（画）」という意味が不明瞭。／「在小山笔下的风景画中」に直す。
+- 略歴／「可确认有以山与城为主题的明亮风景画」／中国語として不自然な言い回し。／「在其作品中，可以看到以山与城为主题的明亮风景画」に直す。
+########## koyama-keizo__zh_tw
+- 略歴／「小山敬三是出生於長野縣小諸的西畫家，活躍於春陽會。」／指定語「洋画家」と一致せず、故人について現在形の「是」を用いている／「小山敬三出生於長野縣小諸，曾是活躍於春陽會的西洋畫家。」に直す。
+- 一言紹介／「以明亮色彩描繪淺間山與城郭的西畫家」／指定語「洋画家」と一致しない／「以明亮色彩描繪淺間山與城郭的西洋畫家」に直す。
+########## kumagai-morikazu__de
+- 功績／「Yōga-Maler」／指定訳「Maler im westlichen Stil (Yōga)」と不一致。／「Maler im westlichen Stil (Yōga)」に直す。
+- 功績／「einen eigenen Stil aufbaute」／ドイツ語として不自然な連語。／「einen eigenen Stil entwickelte」に直す。
+- 功績／「vermittelt die Aufmerksamkeit für die dicken, klaren Konturen und die flach aufgetragenen Farbflächen einen großzügigen, limpiden Gemütszustand, der nichts als das Wesen der Dinge bewahren wollte」／「注目すると、境地が感じられる」の構造が誤訳され、「Gemütszustand」が意志をもって本質を残そうとしたかのようになっている。「limpide」もここでは不自然。／「Wenn man auf die kräftigen, klaren Konturen und die flächig aufgetragenen Farbflächen achtet, wird eine gelassene, klare Haltung spürbar, die nur das Wesen der Dinge bestehen lassen wollte」などに直す。
+- 略歴／「zu klaren Konturen und flachen Farbflächen vereinfachte」／対象を輪郭線や色面そのものへ「単純化した」という不自然な結び付き。／「auf klare Konturen und flache Farbflächen reduzierte」に直す。
+- 略歴／「es würde ihn beschweren」／「困る」の訳として不自然で、「彼を重荷に感じさせる」という意味になっている。／「es würde ihm Schwierigkeiten bereiten」などに直す。
+- 略歴／「dadurch」／文化勲章の辞退理由について、原文にない因果関係を明示的に足している。／削除し、「wenn noch mehr Menschen ihn besuchen kämen」とする。
+- 一言紹介／「Yōga-Maler」／指定訳「Maler im westlichen Stil (Yōga)」と不一致。／「Maler im westlichen Stil (Yōga)」に直す。
+- 一言紹介／「in klarer Kontur und flacher Farbe arbeitete」／「in … Kontur」「flache Farbe」はドイツ語として不自然で、「描いた」の意味も弱い。／「der mit klaren Konturen und flächig aufgetragenen Farben malte」に直す。
+########## kumagai-morikazu__en
+- 功績／“Western-style painter”／指定訳「Yōga (Western-style) Painter」と不一致。／“Yōga (Western-style) Painter”に直す。
+- 功績／“attending to the thick, clear outlines and the flatly applied fields of color conveys a generous, limpid state of mind”／「輪郭線などに注目すること」が境地を伝えるという不自然な構文。／“when one attends to the thick, clear outlines and the flatly applied fields of color, one senses a generous, limpid state of mind”などに直す。
+- 略歴／“Western-style painter”／指定訳「Yōga (Western-style) Painter」と不一致。／“Yōga (Western-style) Painter”に直す。
+- 略歴／“He spent long years gazing at the garden of his home”／原文の「長く」を“long years”とし、年単位で過ごしたという意味を加えている。／“He spent long periods gazing at his garden”などに直す。
+- 一言紹介／“A Western-style painter”／指定訳「Yōga (Western-style) Painter」と不一致。／“A Yōga (Western-style) Painter”に直す。
+########## kumagai-morikazu__es
+功績／「los planos de color aplicados llanamente」／「llanamente」は「率直に、簡素に」の意味に取られやすく、平面的に塗られた色面の表現として不自然。／「los planos de color aplicados de manera uniforme」に直す。
+略歴／「Pasando de los tonos oscuros de sus inicios por una manera de expresión fauvista」／「pasar de A por B」は不自然で、「初期の暗い色調からフォービスム風の表現をへて」という変遷が明確に表されていない。／「Tras pasar de los tonos oscuros de sus inicios a una expresión de estilo fauvista」に直す。
+略歴／「flores, insectos y gatos cercanos」／「cercanos」が動植物そのものを「近くにいる」と形容する不自然な表現になっており、「身近な」の意味を適切に表していない。／「flores, insectos y gatos de su entorno」に直す。
+########## kumagai-morikazu__fr
+- 功績／「prêter attention aux contours épais et nets et aux aplats de couleur fait sentir un état d'esprit」／主語となる不定詞句が重く、「境地が感じられる」の表現として不自然。／「l'attention portée aux contours épais et nets et aux aplats de couleur permet de percevoir un état d'esprit」と直す。
+- 略歴／「Passant des tons sombres de ses débuts par une manière d'expression fauve」／「passer de … par …」は不自然。／「Après les tons sombres de ses débuts et une période d'expression fauve」と直す。
+- 略歴／「des fleurs, des insectes et des chats familiers」／「身近な」が猫だけを修飾する形になっており、「chats familiers」は「飼い慣らされた猫」の意味にも取れる。／「des fleurs, des insectes et des chats de son environnement quotidien」と直す。
+- 一言紹介／「qui travailla en contours nets et en couleurs plates」／「travailler en contours」はフランス語として不自然で、「描いた」の意味も明確でない。／「qui peignait avec des contours nets et des couleurs en aplats」と直す。
+########## kumagai-morikazu__ko
+- 功績／「서양화가이다」／故人について現在形になっている／「서양화가였다」に直す。
+- 略歴／「가까운 꽃과 벌레」／「身近な」が「近くにある」という意味になり、不自然／「주변의 꽃과 벌레」に直す。
+- 略歴／「오랫동안 자택의 정원을 바라보며 지내 「화단의 선인」이라고도 불렸다」／「지내」と後続部分の接続がなく、文法的に不自然／「오랫동안 자택의 정원을 바라보며 지냈으며, 「화단의 선인」이라고도 불렸다」に直す。
+- 略歴／「97세까지 그림을 그렸다」／「描き続けた」の継続の意味が落ちている／「97세까지 계속 그림을 그렸다」に直す。
+########## kumagai-morikazu__zh_cn
+- 功績／「西画家」／指定訳「洋画家 → 西洋画家」と不一致。／「西洋画家」に直す。
+- 略歴／「西画家」／指定訳「洋画家 → 西洋画家」と不一致。／「西洋画家」に直す。
+- 略歴／「被称为「画坛的仙人」」／原文の「とも」に当たる「也」が落ちている。／「也被称为「画坛的仙人」」に直す。
+- 一言紹介／「西画家」／指定訳「洋画家 → 西洋画家」と不一致。／「西洋画家」に直す。
+########## kumagai-morikazu__zh_tw
+- 功績／「他是一位晚年建立起將對象還原為簡單形體與平面色彩之獨特樣式的西畫家」／指定語「洋画家」の訳と異なり、故人が現在形で書かれている／「他曾是一位晚年建立起將對象還原為簡單形體與平面色彩之獨特樣式的西洋畫家」に直す。
+- 略歴／「熊谷守一是出生於岐阜縣付知的西畫家」／指定語「洋画家」の訳と異なり、故人が現在形で書かれている／「熊谷守一曾是出生於岐阜縣付知的西洋畫家」に直す。
+- 一言紹介／「以明快輪廓與平面色彩作畫的西畫家」／指定語「洋画家」の訳と異なる／「以明快輪廓與平面色彩作畫的西洋畫家」に直す。
+########## kumagai-tsuneko__de
+- 功績／「eine in den Klassikern verwurzelte Kana meisterte」／「Kana」が略歴・一言紹介の「Kana-Kalligrafie」と不統一で、ドイツ語としても目的語が不自然。／「die in den Klassikern verwurzelte Kana-Kalligrafie meisterte」
+- 功績／「Achtet man in ihrer Kana auf Waka-Gedichten und Tanzaku-Gedichtstreifen」／「Waka-Gedichten」が「Kana」に誤って係り、「和歌や短冊のかな書」という意味が明確に伝わらない。／「Betrachtet man ihre Kana-Kalligrafien von Waka sowie auf Tanzaku-Gedichtstreifen」
+- 功績／「die Kette feiner, weicher Linien」／「Kette」は線の連なりを表す語として不自然。／「die Abfolge feiner, weicher Linien」
+- 功績／「die, während sie die an den Heian-Kohitsu gelernte Anmut hegte」／「Anmut lernen」「Anmut hegen」という結び付きが不自然で、構文も重い。／「die die an den Heian-Kohitsu geschulte Anmut bewahrte und zugleich danach strebte」
+- 功績／「in der das Prunkvolle zurückgehalten ist」／直訳調で不自然。／「deren Pracht bewusst zurückgenommen war」
+- 略歴／「war als Kalligrafin in der Ausstellungskalligrafie tätig」／「Ausstellungskalligrafie」は不自然な造語で、「展覧会の書で活躍した」の意味も十分に表していない。／「war als Kalligrafin mit ihren Werken auf Ausstellungen aktiv」
+- 略歴／「eine an den Heian-Kohitsu gelernte anmutige und würdevolle Kana-Kalligrafie」／「an … gelernte Kalligrafie」は文法・語法上不自然。／「anmutige und würdevolle Kana-Kalligrafien, die an den Heian-Kohitsu geschult waren」
+- 略歴／「In Ōta in Tokio steht ein ihr gewidmetes Gedächtnismuseum.“」／末尾の引用符が開きのない余分な記号になっている。また、施設の所在に「steht」はやや不自然。／「In Ōta in Tokio befindet sich ein ihr gewidmetes Gedächtnismuseum.“」ではなく、余分な引用符を除き「In Ōta in Tokio befindet sich ein ihr gewidmetes Gedächtnismuseum.」とする。
+########## kumagai-tsuneko__en
+- 功績／“In her kana on waka poems and tanzaku poem-strips”／「和歌や短冊のかな書」の関係が不明瞭で、“kana on waka poems” も不自然。／“In her kana calligraphy of waka poems and on tanzaku poem strips” とする。
+- 功績／“attending to the chain of delicate, soft lines and to the restrained, refined empty space reveals a stance that”／“attending ... reveals a stance” は英語として硬く不自然で、誰の姿勢かも曖昧。／“the chain of delicate, soft lines and the restrained, refined use of empty space convey her commitment to” などとする。
+- 略歴／“She learned calligraphy within the home”／“within the home” はこの文脈では不自然。／“She studied calligraphy at home” とする。
+- 略歴／“She produced graceful and dignified kana calligraphy learned from the Heian kohitsu.”／“kana calligraphy learned from” では、かな書そのものが学習したように読める。／“She produced graceful and dignified kana calligraphy inspired by the Heian kohitsu.” とする。
+########## kumagai-tsuneko__es
+- 略歴／「una calígrafa de kana」「como mujer calígrafa」／原文はいずれも「かな書家」であり、指定訳「Calígrafa (kana)」と不統一。／それぞれ「una calígrafa (kana)」「como calígrafa (kana)」とする。
+- 略歴／「destacó en la caligrafía de exposición」／「活躍した」に対して「destacó」は卓越性を示す評価がやや加わる。／「desarrolló su actividad en exposiciones de caligrafía」とする。
+- 略歴／「Realizó una caligrafía kana grácil y digna, aprendida de los kohitsu de Heian.」／「aprendida」が「caligrafía」を修飾し、書そのものが古筆から学んだように読めて不自然。／「Realizó obras de caligrafía kana gráciles y dignas, basadas en su estudio de los kohitsu de Heian.」とする。
+- 略歴／「sirvió también a la Casa Imperial」／皇室に仕えたという意味にもなり、原文の「皇室の用にも携わった」より事実関係が強い。／「también realizó trabajos para la Casa Imperial」とする。
+########## kumagai-tsuneko__fr
+- 功績・一言紹介／「porta à sa maîtrise un kana」／フランス語として不自然な言い回し。／「maîtrisa le kana enraciné dans les classiques」とする。
+- 功績／「des bandes-poèmes tanzaku」／「bandes-poèmes」は不自然で、短冊と和歌の関係も不明瞭。／「des poèmes waka et des bandes tanzaku」とする。
+- 功績／「une élégance silencieuse」／「静かな気品」の「気品」が「élégance」に弱められている。／「une dignité sereine」とする。
+- 略歴／「une calligraphe de kana」／指定語「かな書家 → Calligraphe (kana)」と不一致。／「une calligraphe (kana)」とする。
+- 略歴／「apprise des kohitsu de Heian」／「書」が古筆から学んだという不自然な係り受けになっている。／「inspirée des kohitsu de l'époque de Heian」とする。
+- 略歴／「elle servit aussi la Maison impériale」／皇室に「仕えた」という、原文にない所属・奉仕関係を加えている。／「elle aurait également réalisé des travaux pour la Maison impériale」とする。
+########## kumagai-tsuneko__ko
+- 功績・一言紹介／「가나를 깊이 이룬」／「究めた」の訳として不自然で、「가나を深く成し遂げた」という意味になる／「가나를 깊이 탐구한」に直す。
+- 功績・略歴／「가나서에서는」「가나서를 제작했다」／「かな書」が、指定語「書＝서예」と異なる「가나서」になっている／「가나 서예에서는」「가나 서예 작품을 제작했다」に直す。
+########## kumagai-tsuneko__zh_cn
+- 功績／「穷究根植古典之假名的书法家。」／動詞のない文断片で、指定呼称「假名书法家」も使われていない。／「她是穷究根植于古典的假名书法的假名书法家。」に直す。
+- 略歴／「熊谷恒子是出生于京都府的假名书法家。」／故人について現在形で記述している。／「熊谷恒子曾是出生于京都府的假名书法家。」に直す。
+- 略歴／「作为女性假名书法家在展览书道中活跃。」／「展览书道」は中国語として不自然で、「展覧会の書」の意味も正確に伝わらない。／「作为女性假名书法家活跃于书法展览会。」に直す。
+- 略歴／「制作取法平安古笔的优美而高雅的假名书。」／故人の制作活動が現在形になっており、「制作……假名书」も不自然。／「曾创作取法平安古笔、优美而高雅的假名书法作品。」に直す。
+########## kumagai-tsuneko__zh_tw
+- 功績／「窮究根植古典之假名的書法家。」／文として述語がなく、断片になっている。／「她是窮究根植於古典之假名書法的書法家。」に直す。
+- 功績／「感受到一種既珍視取法平安古筆之優美、又力圖在一紙之上呈現斂去華麗的靜謐氣韻的姿態」／修飾関係が重く、「感受到一種……姿態」は繁体字中国語（台湾）として不自然。／「便能感受到她珍視取法平安古筆的優美，同時力求在一紙之上呈現斂去華麗的靜謐氣韻。」に直す。
+- 略歴／「熊谷恆子是出生於京都府的假名書法家。」／故人について現在形で書かれている。／「熊谷恆子曾是出生於京都府的假名書法家。」に直す。
+- 略歴／「作為女性假名書法家在展覽書道中活躍」／「展覽書道」は不自然で、「展覧会の書」を一つの分野名のように誤って表している。／「並以女性假名書法家的身分，活躍於展覽會的書法領域。」に直す。
+- 略歴／「製作取法平安古筆的優美而高雅的假名書。」／芸術作品の制作に「製作」を用いるのは不自然で、故人の過去の活動であることも明確でない。／「她曾創作取法平安古筆、優美而高雅的假名書法作品。」に直す。
+- 略歴／「相傳亦曾承擔皇室之用。」／「承擔皇室之用」は繁体字中国語（台湾）として不自然で、何に携わったのか伝わりにくい。／「相傳她亦曾參與皇室所用的書法工作。」に直す。
+########## kumakura-junkichi__de
+- 功績／「darin zeigt sich ein Empfinden, anders als bei schwerer Skulptur – eines, das」／「ein Empfinden」と「eines」が重複し、文の構造が不自然。また「schwere Skulptur」は「重々しい造形」を彫刻分野と取り違えている／「darin zeigt sich – im Gegensatz zu schwer und gewichtig wirkenden Formgestaltungen – ein Empfinden, das」に直す。
+- 略歴／「die über den Rahmen des Gefäßes hinausgingen」／「器の枠をこえた」の逐語訳で、ドイツ語として不自然／「die über die Gefäßform hinausgingen」に直す。
+########## kumakura-junkichi__en
+- 功績／“unlike weighty sculpture”／「造形」を彫刻という分野名の “sculpture” と取り違えている。／“unlike weighty forms” に直す。
+- 略歴／“went beyond the frame of the vessel”／「器の枠をこえた」の逐語訳で、英語として不自然。／“went beyond the conventions of vessels” に直す。
+########## kumakura-junkichi__es
+スペイン語の文法・定型判断に必要な範囲で、サイト内の類例が作業領域にあるか確認します。原文との事実対応も併せて点検します。
+exec
+"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -Command 'rg --files' in C:\Users\ataga\AppData\Local\Temp\claude\C--Users-ataga-Desktop----------\8b0a45e4-b676-476c-be8e-81d9fc203d98\scratchpad\bin21
+ succeeded in 1728ms:
+a_kumagai-tsuneko__fr.txt
+a_kumagai-tsuneko__es.txt
+a_kumagai-tsuneko__en.txt
+a_kumagai-tsuneko__de.txt
+a_kumagai-morikazu__zh_tw.txt
+a_kumagai-morikazu__zh_cn.txt
+a_kumagai-morikazu__ko.txt
+a_kumagai-morikazu__fr.txt
+a_kumagai-morikazu__es.txt
+a_kumagai-morikazu__en.txt
+a_kumagai-morikazu__de.txt
+a_koyama-keizo__zh_tw.txt
+a_koyama-keizo__zh_cn.txt
+a_koyama-keizo__ko.txt
+a_koyama-keizo__en.txt
+a_koyama-keizo__fr.txt
+a_koyama-keizo__es.txt
+a_koyama-keizo__de.txt
+a_kosugi-hoan__zh_tw.txt
+a_kosugi-hoan__zh_cn.txt
+a_kosugi-hoan__ko.txt
+a_kosugi-hoan__fr.txt
+a_kosugi-hoan__es.txt
+a_kosugi-hoan__en.txt
+a_kosugi-hoan__de.txt
+a_koshino-ayako__zh_tw.txt
+a_koshino-ayako__zh_cn.txt
+a_koshino-ayako__ko.txt
+a_koshino-ayako__fr.txt
+a_koshino-ayako__es.txt
+a_koshino-ayako__en.txt
+a_koshino-ayako__de.txt
+a_kume-keiichiro__ko.txt
+a_kume-keiichiro__fr.txt
+a_kume-keiichiro__es.txt
+a_kume-keiichiro__en.txt
+a_kume-keiichiro__de.txt
+a_kumakura-junkichi__zh_tw.txt
+a_kumakura-junkichi__zh_cn.txt
+a_kumakura-junkichi__ko.txt
+a_kumakura-junkichi__fr.txt
+a_kumakura-junkichi__es.txt
+a_kumakura-junkichi__en.txt
+a_kumakura-junkichi__de.txt
+a_kumagai-tsuneko__zh_tw.txt
+a_kumagai-tsuneko__zh_cn.txt
+a_kumagai-tsuneko__ko.txt
+a_kumi-sugai__ko.txt
+a_kumi-sugai__fr.txt
+a_kumi-sugai__es.txt
+a_kumi-sugai__en.txt
+a_kumi-sugai__de.txt
+a_kume-keiichiro__zh_tw.txt
+a_kume-keiichiro__zh_cn.txt
+a_kuniyoshi-yasuo__en.txt
+a_kuniyoshi-yasuo__de.txt
+a_kumi-sugai__zh_tw.txt
+a_kumi-sugai__zh_cn.txt
+a_kuniyoshi-yasuo__fr.txt
+a_kuniyoshi-yasuo__es.txt
+a_kuniyoshi-yasuo__ko.txt
+b_kosugi-hoan__en.txt
+b_kosugi-hoan__de.txt
+b_koshino-ayako__zh_tw.txt
+b_koshino-ayako__zh_cn.txt
+b_koshino-ayako__ko.txt
+b_koshino-ayako__fr.txt
+b_koshino-ayako__es.txt
+b_koshino-ayako__en.txt
+b_koshino-ayako__de.txt
+a_kuramata-shiro__zh_tw.txt
+a_kuramata-shiro__zh_cn.txt
+a_kuramata-shiro__ko.txt
+a_kuramata-shiro__fr.txt
+a_kuramata-shiro__es.txt
+a_kuramata-shiro__en.txt
+a_kuramata-shiro__de.txt
+a_kuniyoshi-yasuo__zh_tw.txt
+a_kuniyoshi-yasuo__zh_cn.txt
+b_koyama-keizo__ko.txt
+b_koyama-keizo__fr.txt
+b_koyama-keizo__es.txt
+b_koyama-keizo__en.txt
+b_kumagai-morikazu__es.txt
+b_koyama-keizo__de.txt
+b_kumagai-morikazu__en.txt
+b_kosugi-hoan__zh_tw.txt
+b_kumagai-morikazu__de.txt
+b_kosugi-hoan__zh_cn.txt
+b_koyama-keizo__zh_tw.txt
+b_kosugi-hoan__ko.txt
+b_koyama-keizo__zh_cn.txt
+b_kosugi-hoan__fr.txt
+b_kosugi-hoan__es.txt
+b_kumagai-morikazu__fr.txt
+b_kumagai-morikazu__ko.txt
+b_kumagai-tsuneko__de.txt
+b_kumagai-morikazu__zh_tw.txt
+b_kumagai-tsuneko__en.txt
+b_kumagai-morikazu__zh_cn.txt
+b_kumagai-tsuneko__es.txt
+q1_koshino-ayako__en.txt
+q1_kosugi-hoan__zh_tw.txt
+q1_kume-keiichiro__fr.txt
+q1_kosugi-hoan__en.txt
+q1_kosugi-hoan__fr.txt
+q1_koshino-ayako__de.txt
+g2.lst
+g1.lst
+f3.lst
+f2.lst
+f1.lst
+b_kume-keiichiro__zh_cn.txt
+b_kume-keiichiro__ko.txt
+b_kume-keiichiro__fr.txt
+b_kume-keiichiro__es.txt
+b_kume-keiichiro__en.txt
+b_kume-keiichiro__de.txt
+b_kumakura-junkichi__zh_tw.txt
+b_kumakura-junkichi__zh_cn.txt
+b_kumakura-junkichi__ko.txt
+b_kumakura-junkichi__fr.txt
+b_kumakura-junkichi__es.txt
+b_kumakura-junkichi__en.txt
+q1_kosugi-hoan__zh_cn.txt
+b_kumakura-junkichi__de.txt
+b_kumagai-tsuneko__zh_tw.txt
+b_kumagai-tsuneko__zh_cn.txt
+q1_kosugi-hoan__ko.txt
+b_kumagai-tsuneko__ko.txt
+b_kumagai-tsuneko__fr.txt
+q1_kosugi-hoan__es.txt
+q1_kumagai-tsuneko__en.txt
+q1_kumagai-tsuneko__de.txt
+q1_kumagai-morikazu__zh_tw.txt
+q1_kumagai-morikazu__zh_cn.txt
+q1_kumagai-morikazu__ko.txt
+q1_kumagai-morikazu__fr.txt
+q1_kumagai-morikazu__es.txt
+q1_kumagai-morikazu__en.txt
+q1_kumagai-morikazu__de.txt
+q1_koyama-keizo__zh_tw.txt
+q1_kume-keiichiro__es.txt
+q1_koyama-keizo__zh_cn.txt
+q2_kosugi-hoan__de.txt
+q1_kume-keiichiro__en.txt
+q1_koyama-keizo__ko.txt
+q2_koshino-ayako__zh_tw.txt
+q1_kume-keiichiro__de.txt
+q1_koyama-keizo__fr.txt
+q2_koshino-ayako__zh_cn.txt
+q1_koyama-keizo__es.txt
+q2_koshino-ayako__ko.txt
+q1_kumakura-junkichi__zh_tw.txt
+q2_koshino-ayako__fr.txt
+q2_koshino-ayako__es.txt
+q2_koshino-ayako__en.txt
+q2_koshino-ayako__de.txt
+q1_kuramata-shiro__zh_tw.txt
+q1_kuramata-shiro__zh_cn.txt
+q1_kuramata-shiro__ko.txt
+q1_kuramata-shiro__fr.txt
+q1_kuramata-shiro__es.txt
+q1_kuramata-shiro__en.txt
+q1_kuramata-shiro__de.txt
+q1_kuniyoshi-yasuo__zh_tw.txt
+q1_kuniyoshi-yasuo__zh_cn.txt
+q1_kuniyoshi-yasuo__ko.txt
+q1_koyama-keizo__en.txt
+q1_kuniyoshi-yasuo__fr.txt
+q1_koyama-keizo__de.txt
+q1_kuniyoshi-yasuo__es.txt
+q1_kuniyoshi-yasuo__en.txt
+q1_kumagai-tsuneko__zh_tw.txt
+q1_kuniyoshi-yasuo__de.txt
+q1_kumi-sugai__zh_tw.txt
+q1_kumagai-tsuneko__zh_cn.txt
+q1_kumi-sugai__zh_cn.txt
+q1_kumakura-junkichi__zh_cn.txt
+q1_kumi-sugai__ko.txt
+q1_kumagai-tsuneko__ko.txt
+q1_kumi-sugai__fr.txt
+q1_kumagai-tsuneko__fr.txt
+q1_kumi-sugai__es.txt
+q1_kumagai-tsuneko__es.txt
+q1_kumakura-junkichi__ko.txt
+q1_kumakura-junkichi__en.txt
+q1_kumakura-junkichi__fr.txt
+q1_kumi-sugai__en.txt
+q1_kumakura-junkichi__es.txt
+q1_kumakura-junkichi__de.txt
+q1_kumi-sugai__de.txt
+q1_kume-keiichiro__zh_tw.txt
+q1_kume-keiichiro__zh_cn.txt
+q1_kume-keiichiro__ko.txt
+q1_koshino-ayako__ko.txt
+q1_koshino-ayako__fr.txt
+q1_koshino-ayako__es.txt
+q1_koshino-ayako__zh_tw.txt
+q1_kosugi-hoan__de.txt
+q1_koshino-ayako__zh_cn.txt
+q2_kumagai-tsuneko__es.txt
+q2_kumagai-tsuneko__en.txt
+q2_kumagai-tsuneko__de.txt
+q2_kumagai-morikazu__zh_tw.txt
+q2_kumagai-morikazu__zh_cn.txt
+q2_kumagai-morikazu__ko.txt
+q2_kumagai-morikazu__fr.txt
+q2_kumagai-morikazu__es.txt
+q2_kumagai-morikazu__en.txt
+q2_kuniyoshi-yasuo__zh_tw.txt
+q2_kumagai-morikazu__de.txt
+q2_kuniyoshi-yasuo__zh_cn.txt
+q2_koyama-keizo__zh_tw.txt
+q2_kuniyoshi-yasuo__ko.txt
+q2_koyama-keizo__zh_cn.txt
+q2_kuniyoshi-yasuo__fr.txt
+q2_kuniyoshi-yasuo__es.txt
+q2_kuniyoshi-yasuo__en.txt
+q2_kuniyoshi-yasuo__de.txt
+q2_kumi-sugai__zh_tw.txt
+q2_kumi-sugai__zh_cn.txt
+q2_kumi-sugai__ko.txt
+q2_kumi-sugai__fr.txt
+q2_kumi-sugai__es.txt
+q2_kumi-sugai__en.txt
+q2_kumi-sugai__de.txt
+q2_kume-keiichiro__zh_tw.txt
+q2_kume-keiichiro__zh_cn.txt
+q2_kume-keiichiro__ko.txt
+q2_kume-keiichiro__fr.txt
+q2_kume-keiichiro__es.txt
+q2_kume-keiichiro__en.txt
+q2_kume-keiichiro__de.txt
+q2_kumakura-junkichi__zh_tw.txt
+q2_kumakura-junkichi__zh_cn.txt
+q2_kumakura-junkichi__ko.txt
+q2_kumakura-junkichi__fr.txt
+q2_kumakura-junkichi__es.txt
+q2_kumakura-junkichi__en.txt
+q2_kumakura-junkichi__de.txt
+q2_kumagai-tsuneko__zh_tw.txt
+q2_kumagai-tsuneko__zh_cn.txt
+q2_kumagai-tsuneko__ko.txt
+q2_kumagai-tsuneko__fr.txt
+q2_kosugi-hoan__zh_cn.txt
+q2_kosugi-hoan__ko.txt
+q2_koyama-keizo__ko.txt
+q2_kosugi-hoan__fr.txt
+q2_koyama-keizo__fr.txt
+q2_kosugi-hoan__es.txt
+q2_koyama-keizo__es.txt
+q2_kosugi-hoan__en.txt
+q2_koyama-keizo__en.txt
+q2_koyama-keizo__de.txt
+q2_kosugi-hoan__zh_tw.txt
+q2_kuramata-shiro__en.txt
+q2_kuramata-shiro__de.txt
+terms\kosugi-hoan__fr.txt
+terms\kosugi-hoan__es.txt
+terms\kosugi-hoan__en.txt
+terms\kosugi-hoan__de.txt
+terms\koshino-ayako__zh_tw.txt
+terms\koshino-ayako__zh_cn.txt
+terms\koshino-ayako__ko.txt
+terms\koshino-ayako__fr.txt
+terms\koshino-ayako__es.txt
+terms\koshino-ayako__en.txt
+terms\koshino-ayako__de.txt
+q2_kuramata-shiro__zh_tw.txt
+q2_kuramata-shiro__zh_cn.txt
+q2_kuramata-shiro__ko.txt
+q2_kuramata-shiro__fr.txt
+q2_kuramata-shiro__es.txt
+terms\koyama-keizo__zh_cn.txt
+terms\koyama-keizo__ko.txt
+terms\koyama-keizo__fr.txt
+terms\koyama-keizo__es.txt
+terms\koyama-keizo__en.txt
+terms\koyama-keizo__de.txt
+terms\kosugi-hoan__zh_tw.txt
+terms\kosugi-hoan__zh_cn.txt
+terms\kosugi-hoan__ko.txt
+terms\kumagai-morikazu__ko.txt
+terms\kumagai-morikazu__fr.txt
+terms\kumagai-morikazu__es.txt
+terms\kumagai-morikazu__en.txt
+terms\kumagai-morikazu__de.txt
+terms\koyama-keizo__zh_tw.txt
+terms\kumagai-tsuneko__de.txt
+terms\kumagai-morikazu__zh_tw.txt
+terms\kumagai-morikazu__zh_cn.txt
+terms\kumagai-tsuneko__en.txt
+terms\kumagai-tsuneko__es.txt
+terms\kumagai-tsuneko__fr.txt
+terms\_counts.txt
+terms\kumi-sugai__en.txt
+terms\kumi-sugai__de.txt
+terms\kume-keiichiro__zh_tw.txt
+terms\kume-keiichiro__zh_cn.txt
+terms\kume-keiichiro__ko.txt
+terms\kume-keiichiro__fr.txt
+terms\kume-keiichiro__es.txt
+terms\kume-keiichiro__en.txt
+terms\kume-keiichiro__de.txt
+terms\kumakura-junkichi__zh_tw.txt
+terms\kumakura-junkichi__zh_cn.txt
+terms\kumi-sugai__zh_cn.txt
+terms\kuniyoshi-yasuo__fr.txt
+terms\kuniyoshi-yasuo__zh_tw.txt
+terms\kuniyoshi-yasuo__zh_cn.txt
+terms\kuniyoshi-yasuo__ko.txt
+terms\kuniyoshi-yasuo__de.txt
+terms\kumi-sugai__zh_tw.txt
+terms\kuniyoshi-yasuo__en.txt
+terms\kumakura-junkichi__de.txt
+terms\kumagai-tsuneko__zh_tw.txt
+terms\kumagai-tsuneko__zh_cn.txt
+terms\kumagai-tsuneko__ko.txt
+terms\kumakura-junkichi__es.txt
+terms\kumakura-junkichi__en.txt
+terms\kumakura-junkichi__fr.txt
+terms\kumi-sugai__es.txt
+terms\kumi-sugai__fr.txt
+terms\kuramata-shiro__es.txt
+terms\kuramata-shiro__en.txt
+terms\kuramata-shiro__de.txt
+terms\kuramata-shiro__ko.txt
+terms\kuramata-shiro__fr.txt
+terms\kuramata-shiro__zh_cn.txt
+terms\kuniyoshi-yasuo__es.txt
+terms\kuramata-shiro__zh_tw.txt
+terms\kumakura-junkichi__ko.txt
+terms\kumi-sugai__ko.txt
+exec
+"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -Command 'Get-Content -Raw a_kumakura-junkichi__es.txt; Get-Content -Raw b_kumakura-junkichi__es.txt; Get-Content -Raw q1_kumakura-junkichi__es.txt; Get-Content -Raw q2_kumakura-junkichi__es.txt; Get-Content -Raw a_kumagai-morikazu__es.txt; Get-Content -Raw a_kume-keiichiro__es.txt' in C:\Users\ataga\AppData\Local\Temp\claude\C--Users-ataga-Desktop----------\8b0a45e4-b676-476c-be8e-81d9fc203d98\scratchpad\bin21
+ succeeded in 421ms:
+OpenAI Codex v0.144.1
+--------
+workdir: C:\Users\ataga\AppData\Local\Temp\claude\C--Users-ataga-Desktop----------\8b0a45e4-b676-476c-be8e-81d9fc203d98\scratchpad\bin21
+model: gpt-5.6-sol
+provider: openai
+approval: never
+sandbox: read-only
+reasoning effort: none
+reasoning summaries: none
+session id: 019fef12-c501-7e43-a4e5-360b78414a4a
+--------
+user
+縺ゅ↑縺溘・繧ｹ繝壹う繝ｳ隱槭・繝阪う繝・ぅ繝也ｷｨ髮・・〒縲∵律譛ｬ霑台ｻ｣鄒手｡薙↓隧ｳ縺励＞譁ｹ縺ｧ縺吶・鄒手｡馴､ｨ繧ｵ繧､繝医・菴懷ｮｶ邏ｹ莉区枚・育・蛟・鬆・翠縺輔∪・峨↓縺､縺・※縲∵律譛ｬ隱槭ｒ蜴滓枚縺ｨ縺励√せ繝壹う繝ｳ隱槭・險ｳ譁・□縺代ｒ譬｡髢ｲ縺励※縺上□縺輔＞縲・
+笘・％縺ｮ鄒手｡馴､ｨ縺ｮ豎ｺ縺ｾ繧翫＃縺ｨ・亥ｮ医▲縺ｦ縺上□縺輔＞・会ｼ・繝ｻ菴懷ｮｶ繧貞ｺ丞・縺･縺代ｋ隱橸ｼ育ｬｬ荳莠ｺ閠・・蟾ｨ蛹繝ｻ譛鬮伜ｳｰ繝ｻ莉｣陦ｨ譬ｼ 遲会ｼ峨・菴ｿ繧上↑縺・ょ次譁・↓辟｡縺・ｩ穂ｾ｡繧定ｶｳ縺輔↑縺・・繝ｻ蜴滓枚縺ｫ辟｡縺・ｺ句ｮ滂ｼ亥女雉槭・蜿手鳩繝ｻ蟷ｴ蜿ｷ繝ｻ閧ｩ譖ｸ縺搾ｼ峨ｒ雜ｳ縺輔↑縺・ょ次譁・↓縺ゅｋ莠句ｮ溘ｒ關ｽ縺ｨ縺輔↑縺・・繝ｻ縲悟ｽｫ蛻ｻ螳ｶ縲咲ｭ峨・閧ｩ譖ｸ縺阪→縲∝・驥主錐・亥ｽｫ蛻ｻ縺ｨ縺・≧繧ｸ繝｣繝ｳ繝ｫ・峨ｒ豺ｷ蜷後＠縺ｪ縺・・繝ｻ謨・ｺｺ縺ｮ譁ｹ縺ｯ驕主悉蠖｢縺ｧ譖ｸ縺上・
+縲千畑隱槭・謖・ｮ夲ｼ医せ繝壹う繝ｳ隱橸ｼ峨鯛・縺薙・菴懷ｮｶ縺ｮ譛ｬ譁・↓螳滄圀縺ｫ蜃ｺ縺ｦ縺上ｋ隱槭□縺代ｒ霈峨○縺ｦ縺・∪縺吶・
+笆 蜻ｼ遘ｰ・亥床蟶ｳ縺梧ｭ｣縲ゅ％縺薙↓縺ゅｋ隱槭・蠢・★縺薙・險ｳ繧剃ｽｿ縺・ｼ・  繝ｻ髯ｶ闃ｸ螳ｶ 竊・Ceramista
+  繝ｻ菴懷ｮｶ 竊・Artista
+  ・域里蟄倥・蛻､螳夲ｼ晉塙諤ｧ縲や・譛ｬ譁・〒遒ｺ縺九ａ縺ｦ縺九ｉ菴ｿ縺｣縺ｦ縺上□縺輔＞・・
+笆 逶ｴ縺励※繧医＞蝙具ｼ・莉ｶ・・  繝ｻ[A3] 蜈ｨ隗堤ｩｺ逋ｽ繝ｻ蜈ｨ隗堤ｴ・黄・茨ｼ茨ｼ峨後阪√ゑｼ峨・谿句ｭ・竊・蜊願ｧ偵∈
+  繝ｻ[A4] 蝙・・晏粥邵ｾ(viewpoint)縺ｾ縺溘・逡･豁ｴ(bio)縺ｮ1譁・岼縺悟・隧槭〒蟋九∪繧句虚隧槭・縺ｪ縺・妙迚・竊・荳ｻ隱橸ｼ誼e蜍戊ｩ槭ｒ陬懊≧・・e was a・終l ﾃｩtait un・洲ue un・拾r war ein・丈ｻ匁弍繝ｻ螂ｹ譏ｯ・上懍擽・､・峨ら塙螂ｳ縺ｯ譛ｬ譁・・莉｣蜷崎ｩ槭〒蛻､螳・  繝ｻ[A9] 譏ｯ豁｣菴懈･ｭ縺檎函繧薙□讖滓｢ｰ逧・↑蛯ｷ・井ｺ碁㍾遨ｺ逋ｽ繝ｻ驥崎､・唱隱ｭ轤ｹ・・竊・豁｣隕丞喧
+  繝ｻ[A13] 譁・ｳ輔・譏守區縺ｪ隱､繧奇ｼ域ｧ繝ｻ譬ｼ繝ｻ荳閾ｴ繝ｻ蜀隧槭・豢ｻ逕ｨ・・竊・縺昴・險隱槭・豁｣縺励＞蠖｢縺ｸ逶ｴ縺吶や・縺溘□縺励後し繧､繝亥・縺ｮ莉悶・菴懷ｮｶ縺後←縺・嶌縺・※縺・ｋ縺九阪ｒ蜈医↓螳滓ｸｬ縺励∝ｮ壼梛縺後≠繧後・螳壼梛縺ｫ蜷医ｏ縺帙ｋ
+  繝ｻ[A18] 笘・枚縺ｮ蛻・牡蜃ｦ逅・′螢翫＠縺滓枚・育峡隱槭・縲梧律.縲阪ｒ譁・忰縺ｨ隱､隱阪＠縺ｦ蜍戊ｩ槭′譌･莉倥・騾比ｸｭ縺ｫ蜈･繧具ｼ・竊・蜈・・1譁・↓蠕ｩ蜈・☆繧九ゆｾ具ｼ昴詣urde am 6 geboren. Februar 1899 in der Stadt Fukuoka縲坂・縲詣urde am 6. Februar 1899 in der Stadt Fukuoka geboren縲・
+笆 笘・峩縺励※縺ｯ縺・￠縺ｪ縺・梛・・莉ｶ・会ｼ晄欠鞫倥＆繧後※繧よ治繧峨↑縺・  繝ｻ[B1] 蝗ｺ譛牙錐隧槭・譖ｸ縺肴婿縺ｸ縺ｮ謖・遭・昜ｺｺ蜷阪・菴懷ｮｶ蜷阪・鄒手｡馴､ｨ蜷阪・髮題ｪ悟錐繝ｻ菴懷刀蜷阪・蟄ｦ驛ｨ蜷阪・蝗｣菴灘錐縺ｮ陦ｨ險假ｼ上Ο繝ｼ繝槫ｭ怜喧・城聞髻ｳ險伜捷・剰ｨｳ蜷榊喧・郁ｪｭ縺ｿ繝ｻ豁｣蠑丞錐縺ｮ遒ｺ隱阪′隕√ｋ・昜ｺ句ｮ溘・譁ｭ螳壹りｪｭ縺ｿ譛ｪ遒ｺ隱阪・莠ｺ蜷搾ｼ郁廠逕ｰ螳乗ｲｻ繝ｻ蜷崎ｶ願ｩ泌昇・峨・繝ｪ繧ｵ繝ｼ繝ゝ辣ｧ莨壻ｸｭ・・  繝ｻ[B2] 縲手ｨｳ蜷搾ｼ亥次蜷・ 繝ｭ繝ｼ繝槫ｭ暦ｼ峨上・菴ｵ險伜ｽ｢縺後守焚迚ｩ繝ｻ譛ｪ蜃ｦ逅・上□縺ｨ縺・≧謖・遭・域枚菴灘渕貅悶・豁｣縺励＞蠖｢・亥ｮ夊ｨｳ縺ｪ縺苓ｪ橸ｼ昴Ο繝ｼ繝槫ｭ暦ｼ玖ｪｬ譏弱・蜴溷錐縺ｯ谿九☆・峨ら峡隱・05谺・・螳滓ｸｬ・昴☆縺ｹ縺ｦ縺薙・蠖｢縺ｧ豁｣縺励°縺｣縺滂ｼ・  繝ｻ[B3] 菴懷ｮｶ譛ｬ莠ｺ縺ｮ縺薙→縺ｰ・・essage谺・ｼ峨・豈泌湊繝ｻ逾医ｊ縺後主､ｧ縺偵＆繝ｻ陬・｣ｾ驕主臆縲上□縺ｨ縺・≧謖・遭・亥､ｧ縺偵＆縺ｪ縺ｮ縺ｯ蜴滓枚縺ｧ縺ゅ▲縺ｦ險ｳ縺ｧ縺ｯ縺ｪ縺・ょｹｳ譚ｿ蛹悶☆繧九→譛ｬ莠ｺ縺ｮ螢ｰ縺梧ｶ医∴繧具ｼ医後・縺ｨ縺吶§縺ｮ諢帙・蜈峨搾ｼ・騾壹ｊ險ｳ縺励※蜈ｨ驛ｨ蜷後§謖・遭縺御ｻ倥＞縺滂ｼ会ｼ・  繝ｻ[B4] 邏譚舌・謚豕輔・隱橸ｼ亥ｽｩ濶ｲ繝ｻ邂斐・驥峨・繝偵ヮ繧ｭ菴ｵ險倡ｭ会ｼ峨′縲取尠譏ｧ繝ｻ霎樊嶌逧・上□縺ｨ縺・≧謖・遭・亥次譁・・莠句ｮ溘ょ・菴灘喧縺ｯ莠句ｮ溘・譁ｭ螳壹↓縺ｪ繧具ｼ・  繝ｻ[B5] 閧ｩ譖ｸ縺搾ｼ・ole・峨・隱槭・驕ｸ謚槭∈縺ｮ謖・遭・・anshou_dict 縺梧ｭ｣・・culptural Artist 縺ｯ蜿ｰ蟶ｳ縺ｫ縲手・遘ｰ繧定ｸ剰･ｲ縲上→譏手ｨ假ｼ峨・蜷阪□縺大､峨∴繧九→繧ｵ繧､繝医′蜑ｲ繧後ｋ・・  繝ｻ[B7] 荳險邏ｹ莉九・荳ｦ蛻玲ｧ矩・域嶌蜷咲罰譚･・峨∈縺ｮ謖・遭・域律譛ｬ隱槫次譁・・菴懷刀髮・・譖ｸ蜷阪↓逕ｱ譚･・・n 縺ｯ蜈ｬ蠑剰恭鬘後→荳閾ｴ・会ｼ・  繝ｻ[B8] 讓呎ｺ也噪縺ｪ陦楢ｪ槭ｒ縲惹ｸ闊ｬ諤ｧ縺ｫ荵上＠縺・上→縺吶ｋ隱､謖・遭・亥ｮ滉ｾ具ｼ挾an de metal・磯≡螻樒ｮ費ｼ峨・繧ｹ繝壹う繝ｳ隱樒ｾ手｡鍋畑隱槭→縺励※讓呎ｺ悶よ欠鞫伜・縺ｮ隱､繧奇ｼ・  繝ｻ[B9] 螳滓ｸｬ縺ｧ豎ｺ繧√◆陦ｨ險俶婿驥昴↓蜿阪☆繧区署譯茨ｼ・n 縺ｫ繝槭け繝ｭ繝ｳ繧定ｶｳ縺帷ｭ会ｼ会ｼ郁｡ｨ險俶婿驥昴・繧ｵ繧､繝亥・菴薙・繧ｳ繝ｼ繝代せ螳滓ｸｬ縺ｧ遒ｺ螳壽ｸ医∩縲・蜷阪□縺大､峨∴繧九→蜑ｲ繧後ｋ・・  繝ｻ[B10] 迴ｾ蝨ｨ蠖｢縺ｮ隧募愛險倩ｿｰ・・s known/es conocido/bekannt ist/se conservan 遲会ｼ峨ｒ驕主悉蠖｢縺ｫ縺帙ｈ縺ｨ縺・≧謖・遭・亥ｭ伜多縺ｧ縺ｪ縺・ｽ懷ｮｶ縺ｧ繧ゅ∫樟蝨ｨ繧らｶ壹￥隧穂ｾ｡繝ｻ蜿手鳩迥ｶ諷九・迴ｾ蝨ｨ蠖｢縺梧ｭ｣縺励￥縲√し繧､繝亥・菴薙・諷｣鄙偵〒繧ゅ≠繧九・蜷阪□縺大､峨∴繧九→蜑ｲ繧後ｋ・育ｬｬ6萓ｿ・拌raki-jippo繝ｻasada-takashi繝ｻarishima-ikuma 縺ｧ險・莉ｶ譽・唆・会ｼ・
+笘・％縺薙↓辟｡縺・ｪ槭・蜿ｰ蟶ｳ縺ｫ辟｡縺・ｪ槭〒縺吶ょ享謇九↓險ｳ隱槭ｒ豎ｺ繧√★縲∝愛譁ｭ縺瑚ｦ√ｋ繧ゅ・縺ｯ莠ｺ縺ｫ蝗槭＠縺ｦ縺上□縺輔＞縲・
+縲蝉ｸ險邏ｹ莉九・  譌･譛ｬ隱橸ｼ壼虚諢溘→繝ｦ繝ｼ繝｢繧｢縺ｮ髯ｶ繧ｪ繝悶ず繧ｧ繧堤函繧薙□菴懷ｮｶ
+  繧ｹ繝壹う繝ｳ隱橸ｼ啅n artista que creﾃｳ objetos cerﾃ｡micos llenos de movimiento y humor
+縲千払豁ｴ縲・  譌･譛ｬ隱橸ｼ夂・蛟蛾・翠縺ｯ縲∽ｺｬ驛ｽ縺ｫ逕溘∪繧後◆髯ｶ闃ｸ螳ｶ縲ょ燕陦幃匕闃ｸ縺ｮ繧ｰ繝ｫ繝ｼ繝励瑚ｵｰ豕･遉ｾ縲阪↓蜉繧上ｊ縲∝勣縺ｮ譫繧偵％縺医◆髯ｶ縺ｮ繧ｪ繝悶ず繧ｧ繧貞宛菴懊＠縺溘ゅず繝｣繧ｺ繧・・蟶ゅ・豢ｻ豌励↓逹諠ｳ縺励∝虚縺阪→繝ｦ繝ｼ繝｢繧｢繧偵◆縺溘∴縺溘∬ｻｽ繧・°縺ｧ驕翫・蠢・≠繧矩蠖｢縺ｧ遏･繧峨ｌ繧九よ姶蠕後・蜑崎｡幃匕闃ｸ縺ｫ迢ｬ閾ｪ縺ｮ譏弱ｋ縺輔ｒ蜉縺医◆荳莠ｺ縺ｨ縺輔ｌ繧九・  繧ｹ繝壹う繝ｳ隱橸ｼ哮umakura Junkichi fue un ceramista nacido en Kioto. Se uniﾃｳ a Sﾅ硬eisha, un grupo de cerﾃ｡mica de vanguardia, y produjo objetos cerﾃ｡micos que iban mﾃ｡s allﾃ｡ del marco del recipiente. Inspirado por el jazz y por la vitalidad de la ciudad, se le conoce por formas ligeras y desenfadadas, llenas de movimiento y humor. Se le considera uno de quienes aportaron una luminosidad propia a la cerﾃ｡mica de vanguardia de posguerra.
+縲仙粥邵ｾ縲・  譌･譛ｬ隱橸ｼ壼虚諢溘→繝ｦ繝ｼ繝｢繧｢縺ｮ髯ｶ繧ｪ繝悶ず繧ｧ繧堤函繧薙□髯ｶ闃ｸ螳ｶ縲ゅ翫ず繝｣繧ｺ縺ｮ繝ｪ繧ｺ繝縲九↑縺ｩ縺ｧ縺ｯ縲√・縺倥ｌ霍ｳ縺ｭ繧九ｈ縺・↑霄榊虚逧・↑蠖｢縺ｨ縲・♀縺ｳ蠢・・縺ゅｋ讒区・縺ｫ豕ｨ逶ｮ縺吶ｋ縺ｨ縲・㍾縲・＠縺・蠖｢縺ｨ縺ｯ逡ｰ縺ｪ繧翫・浹讌ｽ繧・・蟶ゅ・豢ｻ豌励ｒ蝨溘↓蜀吶＠縺ｨ繧翫∬ｦ九ｋ莠ｺ繧呈･ｽ縺励∪縺帙ｋ霆ｽ繧・°縺輔ｒ髯ｶ縺ｧ陦ｨ縺昴≧縺ｨ縺励◆諢溯ｦ壹′諢溘§繧峨ｌ繧九・  繧ｹ繝壹う繝ｳ隱橸ｼ哥ue un ceramista que creﾃｳ objetos cerﾃ｡micos llenos de movimiento y humor. En obras como Jazu no Rizumu (Ritmo del jazz), atender a las formas dinﾃ｡micas que parecen retorcerse y saltar y a la composiciﾃｳn desenfadada revela una sensibilidad muy distinta de la escultura pesada: una que transcribﾃｭa a la arcilla la vitalidad de la mﾃｺsica y de la ciudad y buscaba dar a la forma cerﾃ｡mica una ligereza que deleita al espectador.
+縲先園螻槫屮菴薙・  譌･譛ｬ隱橸ｼ夊ｵｰ豕･遉ｾ
+  繧ｹ繝壹う繝ｳ隱橸ｼ售ﾅ硬eisha
+谺｡縺ｮ隕ｳ轤ｹ縺縺代ｒ隕九※縺上□縺輔＞縲や・繧ｹ繝壹う繝ｳ隱樔ｻ･螟悶・險隱槭・縺薙→縺ｯ譖ｸ縺九↑縺・〒縺上□縺輔＞縲・
+(1) 譌･譛ｬ隱槭↓辟｡縺・ｺ句ｮ溘・隧穂ｾ｡縺瑚ｶｳ縺輔ｌ縺ｦ縺・↑縺・°縲ゅ≠繧後・隧ｲ蠖鍋ｮ・園繧貞ｼ慕畑縲・(2) 譌･譛ｬ隱槭↓縺ゅｋ莠句ｮ溘′關ｽ縺｡縺ｦ縺・↑縺・°縲ゅ≠繧後・菴輔′關ｽ縺｡縺溘°縲・(3) 隱､險ｳ繝ｻ隱槭・蜿悶ｊ驕輔∴・井ｺｺ蜷阪・蝨ｰ蜷阪・菴懷刀蜷阪・謚豕募錐繝ｻ蟷ｴ蜿ｷ・峨′縺ｪ縺・°縲・(4) 縺昴・險隱槭→縺励※荳崎・辟ｶ縺ｪ險縺・屓縺励・譁・ｳ輔・隱､繧奇ｼ域凾蛻ｶ繝ｻ諤ｧ繝ｻ謨ｰ繝ｻ蜀隧橸ｼ峨′縺ｪ縺・°縲・(5) 蜷後§隱槭′譁・ｸｭ縺ｧ荳咲ｵｱ荳縺ｫ險ｳ縺輔ｌ縺ｦ縺・↑縺・°縲・
+笘・欠鞫倥′辟｡縺代ｌ縺ｰ縲梧欠鞫倥↑縺励阪→縺縺第嶌縺・※縺上□縺輔＞縲ら┌逅・↓謖・遭繧剃ｽ懊ｉ縺ｪ縺・〒縺上□縺輔＞縲・謖・遭縺後≠繧九ｂ縺ｮ縺縺代√梧ｬ・ｼ剰ｩｲ蠖鍋ｮ・園・丈ｽ輔′蝠城｡後°・上←縺・峩縺吶°縲阪・4轤ｹ繧堤洒縺乗嶌縺・※縺上□縺輔＞縲・笘・ｩｲ蠖鍋ｮ・園縺ｯ縲∬ｨｳ譁・°繧・*縺昴・縺ｾ縺ｾ謚懊″蜃ｺ縺励◆譁・ｭ怜・**繧貞ｼ慕畑隨ｦ縺ｧ蝗ｲ繧薙〒譖ｸ縺・※縺上□縺輔＞・郁ｨ縺・鋤縺医↑縺・〒縺上□縺輔＞・峨・譌･譛ｬ隱槭〒遲斐∴縺ｦ縺上□縺輔＞縲・codex
+蜉溽ｸｾ・上蛍na sensibilidad muy distinta de la escultura pesada縲搾ｼ上碁蠖｢縲阪ｒ縲憩scultura・亥ｽｫ蛻ｻ・峨阪→縺励※縺翫ｊ縲∝・驥主錐縺ｨ縺ｮ蜿悶ｊ驕輔∴縺ｫ縺ｪ縺｣縺ｦ縺・ｋ・上蛍na sensibilidad muy distinta de las formas pesadas縲阪↓逶ｴ縺吶・tokens used
+3,415
+蜉溽ｸｾ・上蛍na sensibilidad muy distinta de la escultura pesada縲搾ｼ上碁蠖｢縲阪ｒ縲憩scultura・亥ｽｫ蛻ｻ・峨阪→縺励※縺翫ｊ縲∝・驥主錐縺ｨ縺ｮ蜿悶ｊ驕輔∴縺ｫ縺ｪ縺｣縺ｦ縺・ｋ・上蛍na sensibilidad muy distinta de las formas pesadas縲阪↓逶ｴ縺吶・
+OpenAI Codex v0.144.1
+--------
+workdir: C:\Users\ataga\AppData\Local\Temp\claude\C--Users-ataga-Desktop----------\8b0a45e4-b676-476c-be8e-81d9fc203d98\scratchpad\bin21
+model: gpt-5.6-sol
+provider: openai
+approval: never
+sandbox: read-only
+reasoning effort: none
+reasoning summaries: none
+session id: 019fef14-6e2d-79f3-b258-9b617cb7bcd3
+--------
+user
+縺ゅ↑縺溘・繧ｹ繝壹う繝ｳ隱槭・繝阪う繝・ぅ繝也ｷｨ髮・・〒縲∵律譛ｬ霑台ｻ｣鄒手｡薙↓隧ｳ縺励＞譁ｹ縺ｧ縺吶・鄒手｡馴､ｨ繧ｵ繧､繝医・菴懷ｮｶ邏ｹ莉区枚・育・蛟・鬆・翠縺輔∪・峨↓縺､縺・※縲∵律譛ｬ隱槭ｒ蜴滓枚縺ｨ縺励√せ繝壹う繝ｳ隱槭・險ｳ譁・□縺代ｒ譬｡髢ｲ縺励※縺上□縺輔＞縲・
+笘・％縺ｮ鄒手｡馴､ｨ縺ｮ豎ｺ縺ｾ繧翫＃縺ｨ・亥ｮ医▲縺ｦ縺上□縺輔＞・会ｼ・繝ｻ菴懷ｮｶ繧貞ｺ丞・縺･縺代ｋ隱橸ｼ育ｬｬ荳莠ｺ閠・・蟾ｨ蛹繝ｻ譛鬮伜ｳｰ繝ｻ莉｣陦ｨ譬ｼ 遲会ｼ峨・菴ｿ繧上↑縺・ょ次譁・↓辟｡縺・ｩ穂ｾ｡繧定ｶｳ縺輔↑縺・・繝ｻ蜴滓枚縺ｫ辟｡縺・ｺ句ｮ滂ｼ亥女雉槭・蜿手鳩繝ｻ蟷ｴ蜿ｷ繝ｻ閧ｩ譖ｸ縺搾ｼ峨ｒ雜ｳ縺輔↑縺・ょ次譁・↓縺ゅｋ莠句ｮ溘ｒ關ｽ縺ｨ縺輔↑縺・・繝ｻ縲悟ｽｫ蛻ｻ螳ｶ縲咲ｭ峨・閧ｩ譖ｸ縺阪→縲∝・驥主錐・亥ｽｫ蛻ｻ縺ｨ縺・≧繧ｸ繝｣繝ｳ繝ｫ・峨ｒ豺ｷ蜷後＠縺ｪ縺・・繝ｻ謨・ｺｺ縺ｮ譁ｹ縺ｯ驕主悉蠖｢縺ｧ譖ｸ縺上・
+縲千畑隱槭・謖・ｮ夲ｼ医せ繝壹う繝ｳ隱橸ｼ峨鯛・縺薙・菴懷ｮｶ縺ｮ譛ｬ譁・↓螳滄圀縺ｫ蜃ｺ縺ｦ縺上ｋ隱槭□縺代ｒ霈峨○縺ｦ縺・∪縺吶・
+笆 蜻ｼ遘ｰ・亥床蟶ｳ縺梧ｭ｣縲ゅ％縺薙↓縺ゅｋ隱槭・蠢・★縺薙・險ｳ繧剃ｽｿ縺・ｼ・  繝ｻ髯ｶ闃ｸ螳ｶ 竊・Ceramista
+  繝ｻ菴懷ｮｶ 竊・Artista
+  ・域里蟄倥・蛻､螳夲ｼ晉塙諤ｧ縲や・譛ｬ譁・〒遒ｺ縺九ａ縺ｦ縺九ｉ菴ｿ縺｣縺ｦ縺上□縺輔＞・・
+笆 逶ｴ縺励※繧医＞蝙具ｼ・莉ｶ・・  繝ｻ[A3] 蜈ｨ隗堤ｩｺ逋ｽ繝ｻ蜈ｨ隗堤ｴ・黄・茨ｼ茨ｼ峨後阪√ゑｼ峨・谿句ｭ・竊・蜊願ｧ偵∈
+  繝ｻ[A4] 蝙・・晏粥邵ｾ(viewpoint)縺ｾ縺溘・逡･豁ｴ(bio)縺ｮ1譁・岼縺悟・隧槭〒蟋九∪繧句虚隧槭・縺ｪ縺・妙迚・竊・荳ｻ隱橸ｼ誼e蜍戊ｩ槭ｒ陬懊≧・・e was a・終l ﾃｩtait un・洲ue un・拾r war ein・丈ｻ匁弍繝ｻ螂ｹ譏ｯ・上懍擽・､・峨ら塙螂ｳ縺ｯ譛ｬ譁・・莉｣蜷崎ｩ槭〒蛻､螳・  繝ｻ[A9] 譏ｯ豁｣菴懈･ｭ縺檎函繧薙□讖滓｢ｰ逧・↑蛯ｷ・井ｺ碁㍾遨ｺ逋ｽ繝ｻ驥崎､・唱隱ｭ轤ｹ・・竊・豁｣隕丞喧
+  繝ｻ[A13] 譁・ｳ輔・譏守區縺ｪ隱､繧奇ｼ域ｧ繝ｻ譬ｼ繝ｻ荳閾ｴ繝ｻ蜀隧槭・豢ｻ逕ｨ・・竊・縺昴・險隱槭・豁｣縺励＞蠖｢縺ｸ逶ｴ縺吶や・縺溘□縺励後し繧､繝亥・縺ｮ莉悶・菴懷ｮｶ縺後←縺・嶌縺・※縺・ｋ縺九阪ｒ蜈医↓螳滓ｸｬ縺励∝ｮ壼梛縺後≠繧後・螳壼梛縺ｫ蜷医ｏ縺帙ｋ
+  繝ｻ[A18] 笘・枚縺ｮ蛻・牡蜃ｦ逅・′螢翫＠縺滓枚・育峡隱槭・縲梧律.縲阪ｒ譁・忰縺ｨ隱､隱阪＠縺ｦ蜍戊ｩ槭′譌･莉倥・騾比ｸｭ縺ｫ蜈･繧具ｼ・竊・蜈・・1譁・↓蠕ｩ蜈・☆繧九ゆｾ具ｼ昴詣urde am 6 geboren. Februar 1899 in der Stadt Fukuoka縲坂・縲詣urde am 6. Februar 1899 in der Stadt Fukuoka geboren縲・
+笆 笘・峩縺励※縺ｯ縺・￠縺ｪ縺・梛・・莉ｶ・会ｼ晄欠鞫倥＆繧後※繧よ治繧峨↑縺・  繝ｻ[B1] 蝗ｺ譛牙錐隧槭・譖ｸ縺肴婿縺ｸ縺ｮ謖・遭・昜ｺｺ蜷阪・菴懷ｮｶ蜷阪・鄒手｡馴､ｨ蜷阪・髮題ｪ悟錐繝ｻ菴懷刀蜷阪・蟄ｦ驛ｨ蜷阪・蝗｣菴灘錐縺ｮ陦ｨ險假ｼ上Ο繝ｼ繝槫ｭ怜喧・城聞髻ｳ險伜捷・剰ｨｳ蜷榊喧・郁ｪｭ縺ｿ繝ｻ豁｣蠑丞錐縺ｮ遒ｺ隱阪′隕√ｋ・昜ｺ句ｮ溘・譁ｭ螳壹りｪｭ縺ｿ譛ｪ遒ｺ隱阪・莠ｺ蜷搾ｼ郁廠逕ｰ螳乗ｲｻ繝ｻ蜷崎ｶ願ｩ泌昇・峨・繝ｪ繧ｵ繝ｼ繝ゝ辣ｧ莨壻ｸｭ・・  繝ｻ[B2] 縲手ｨｳ蜷搾ｼ亥次蜷・ 繝ｭ繝ｼ繝槫ｭ暦ｼ峨上・菴ｵ險伜ｽ｢縺後守焚迚ｩ繝ｻ譛ｪ蜃ｦ逅・上□縺ｨ縺・≧謖・遭・域枚菴灘渕貅悶・豁｣縺励＞蠖｢・亥ｮ夊ｨｳ縺ｪ縺苓ｪ橸ｼ昴Ο繝ｼ繝槫ｭ暦ｼ玖ｪｬ譏弱・蜴溷錐縺ｯ谿九☆・峨ら峡隱・05谺・・螳滓ｸｬ・昴☆縺ｹ縺ｦ縺薙・蠖｢縺ｧ豁｣縺励°縺｣縺滂ｼ・  繝ｻ[B3] 菴懷ｮｶ譛ｬ莠ｺ縺ｮ縺薙→縺ｰ・・essage谺・ｼ峨・豈泌湊繝ｻ逾医ｊ縺後主､ｧ縺偵＆繝ｻ陬・｣ｾ驕主臆縲上□縺ｨ縺・≧謖・遭・亥､ｧ縺偵＆縺ｪ縺ｮ縺ｯ蜴滓枚縺ｧ縺ゅ▲縺ｦ險ｳ縺ｧ縺ｯ縺ｪ縺・ょｹｳ譚ｿ蛹悶☆繧九→譛ｬ莠ｺ縺ｮ螢ｰ縺梧ｶ医∴繧具ｼ医後・縺ｨ縺吶§縺ｮ諢帙・蜈峨搾ｼ・騾壹ｊ險ｳ縺励※蜈ｨ驛ｨ蜷後§謖・遭縺御ｻ倥＞縺滂ｼ会ｼ・  繝ｻ[B4] 邏譚舌・謚豕輔・隱橸ｼ亥ｽｩ濶ｲ繝ｻ邂斐・驥峨・繝偵ヮ繧ｭ菴ｵ險倡ｭ会ｼ峨′縲取尠譏ｧ繝ｻ霎樊嶌逧・上□縺ｨ縺・≧謖・遭・亥次譁・・莠句ｮ溘ょ・菴灘喧縺ｯ莠句ｮ溘・譁ｭ螳壹↓縺ｪ繧具ｼ・  繝ｻ[B5] 閧ｩ譖ｸ縺搾ｼ・ole・峨・隱槭・驕ｸ謚槭∈縺ｮ謖・遭・・anshou_dict 縺梧ｭ｣・・culptural Artist 縺ｯ蜿ｰ蟶ｳ縺ｫ縲手・遘ｰ繧定ｸ剰･ｲ縲上→譏手ｨ假ｼ峨・蜷阪□縺大､峨∴繧九→繧ｵ繧､繝医′蜑ｲ繧後ｋ・・  繝ｻ[B7] 荳險邏ｹ莉九・荳ｦ蛻玲ｧ矩・域嶌蜷咲罰譚･・峨∈縺ｮ謖・遭・域律譛ｬ隱槫次譁・・菴懷刀髮・・譖ｸ蜷阪↓逕ｱ譚･・・n 縺ｯ蜈ｬ蠑剰恭鬘後→荳閾ｴ・会ｼ・  繝ｻ[B8] 讓呎ｺ也噪縺ｪ陦楢ｪ槭ｒ縲惹ｸ闊ｬ諤ｧ縺ｫ荵上＠縺・上→縺吶ｋ隱､謖・遭・亥ｮ滉ｾ具ｼ挾an de metal・磯≡螻樒ｮ費ｼ峨・繧ｹ繝壹う繝ｳ隱樒ｾ手｡鍋畑隱槭→縺励※讓呎ｺ悶よ欠鞫伜・縺ｮ隱､繧奇ｼ・  繝ｻ[B9] 螳滓ｸｬ縺ｧ豎ｺ繧√◆陦ｨ險俶婿驥昴↓蜿阪☆繧区署譯茨ｼ・n 縺ｫ繝槭け繝ｭ繝ｳ繧定ｶｳ縺帷ｭ会ｼ会ｼ郁｡ｨ險俶婿驥昴・繧ｵ繧､繝亥・菴薙・繧ｳ繝ｼ繝代せ螳滓ｸｬ縺ｧ遒ｺ螳壽ｸ医∩縲・蜷阪□縺大､峨∴繧九→蜑ｲ繧後ｋ・・  繝ｻ[B10] 迴ｾ蝨ｨ蠖｢縺ｮ隧募愛險倩ｿｰ・・s known/es conocido/bekannt ist/se conservan 遲会ｼ峨ｒ驕主悉蠖｢縺ｫ縺帙ｈ縺ｨ縺・≧謖・遭・亥ｭ伜多縺ｧ縺ｪ縺・ｽ懷ｮｶ縺ｧ繧ゅ∫樟蝨ｨ繧らｶ壹￥隧穂ｾ｡繝ｻ蜿手鳩迥ｶ諷九・迴ｾ蝨ｨ蠖｢縺梧ｭ｣縺励￥縲√し繧､繝亥・菴薙・諷｣鄙偵〒繧ゅ≠繧九・蜷阪□縺大､峨∴繧九→蜑ｲ繧後ｋ・育ｬｬ6萓ｿ・拌raki-jippo繝ｻasada-takashi繝ｻarishima-ikuma 縺ｧ險・莉ｶ譽・唆・会ｼ・
+笘・％縺薙↓辟｡縺・ｪ槭・蜿ｰ蟶ｳ縺ｫ辟｡縺・ｪ槭〒縺吶ょ享謇九↓險ｳ隱槭ｒ豎ｺ繧√★縲∝愛譁ｭ縺瑚ｦ√ｋ繧ゅ・縺ｯ莠ｺ縺ｫ蝗槭＠縺ｦ縺上□縺輔＞縲・
+縲先園螻槫屮菴薙・  譌･譛ｬ隱橸ｼ夊ｵｰ豕･遉ｾ
+  繧ｹ繝壹う繝ｳ隱橸ｼ售ﾅ硬eisha
+縲仙粥邵ｾ縲・  譌･譛ｬ隱橸ｼ壼虚諢溘→繝ｦ繝ｼ繝｢繧｢縺ｮ髯ｶ繧ｪ繝悶ず繧ｧ繧堤函繧薙□髯ｶ闃ｸ螳ｶ縲ゅ翫ず繝｣繧ｺ縺ｮ繝ｪ繧ｺ繝縲九↑縺ｩ縺ｧ縺ｯ縲√・縺倥ｌ霍ｳ縺ｭ繧九ｈ縺・↑霄榊虚逧・↑蠖｢縺ｨ縲・♀縺ｳ蠢・・縺ゅｋ讒区・縺ｫ豕ｨ逶ｮ縺吶ｋ縺ｨ縲・㍾縲・＠縺・蠖｢縺ｨ縺ｯ逡ｰ縺ｪ繧翫・浹讌ｽ繧・・蟶ゅ・豢ｻ豌励ｒ蝨溘↓蜀吶＠縺ｨ繧翫∬ｦ九ｋ莠ｺ繧呈･ｽ縺励∪縺帙ｋ霆ｽ繧・°縺輔ｒ髯ｶ縺ｧ陦ｨ縺昴≧縺ｨ縺励◆諢溯ｦ壹′諢溘§繧峨ｌ繧九・  繧ｹ繝壹う繝ｳ隱橸ｼ哥ue un ceramista que creﾃｳ objetos cerﾃ｡micos llenos de movimiento y humor. En obras como Jazu no Rizumu (Ritmo del jazz), atender a las formas dinﾃ｡micas que parecen retorcerse y saltar y a la composiciﾃｳn desenfadada revela una sensibilidad muy distinta de la escultura pesada: una que transcribﾃｭa a la arcilla la vitalidad de la mﾃｺsica y de la ciudad y buscaba dar a la forma cerﾃ｡mica una ligereza que deleita al espectador.
+縲千払豁ｴ縲・  譌･譛ｬ隱橸ｼ夂・蛟蛾・翠縺ｯ縲∽ｺｬ驛ｽ縺ｫ逕溘∪繧後◆髯ｶ闃ｸ螳ｶ縲ょ燕陦幃匕闃ｸ縺ｮ繧ｰ繝ｫ繝ｼ繝励瑚ｵｰ豕･遉ｾ縲阪↓蜉繧上ｊ縲∝勣縺ｮ譫繧偵％縺医◆髯ｶ縺ｮ繧ｪ繝悶ず繧ｧ繧貞宛菴懊＠縺溘ゅず繝｣繧ｺ繧・・蟶ゅ・豢ｻ豌励↓逹諠ｳ縺励∝虚縺阪→繝ｦ繝ｼ繝｢繧｢繧偵◆縺溘∴縺溘∬ｻｽ繧・°縺ｧ驕翫・蠢・≠繧矩蠖｢縺ｧ遏･繧峨ｌ繧九よ姶蠕後・蜑崎｡幃匕闃ｸ縺ｫ迢ｬ閾ｪ縺ｮ譏弱ｋ縺輔ｒ蜉縺医◆荳莠ｺ縺ｨ縺輔ｌ繧九・  繧ｹ繝壹う繝ｳ隱橸ｼ哮umakura Junkichi fue un ceramista nacido en Kioto. Se uniﾃｳ a Sﾅ硬eisha, un grupo de cerﾃ｡mica de vanguardia, y produjo objetos cerﾃ｡micos que iban mﾃ｡s allﾃ｡ del marco del recipiente. Inspirado por el jazz y por la vitalidad de la ciudad, se le conoce por formas ligeras y desenfadadas, llenas de movimiento y humor. Se le considera uno de quienes aportaron una luminosidad propia a la cerﾃ｡mica de vanguardia de posguerra.
+縲蝉ｸ險邏ｹ莉九・  譌･譛ｬ隱橸ｼ壼虚諢溘→繝ｦ繝ｼ繝｢繧｢縺ｮ髯ｶ繧ｪ繝悶ず繧ｧ繧堤函繧薙□菴懷ｮｶ
+  繧ｹ繝壹う繝ｳ隱橸ｼ啅n artista que creﾃｳ objetos cerﾃ｡micos llenos de movimiento y humor
+谺｡縺ｮ隕ｳ轤ｹ縺縺代ｒ隕九※縺上□縺輔＞縲や・繧ｹ繝壹う繝ｳ隱樔ｻ･螟悶・險隱槭・縺薙→縺ｯ譖ｸ縺九↑縺・〒縺上□縺輔＞縲・
+(1) 蜷後§隱槭′譁・ｸｭ縺ｧ荳咲ｵｱ荳縺ｫ險ｳ縺輔ｌ縺ｦ縺・↑縺・°縲・(2) 縺昴・險隱槭→縺励※荳崎・辟ｶ縺ｪ險縺・屓縺励・譁・ｳ輔・隱､繧奇ｼ域凾蛻ｶ繝ｻ諤ｧ繝ｻ謨ｰ繝ｻ蜀隧橸ｼ峨′縺ｪ縺・°縲・(3) 隱､險ｳ繝ｻ隱槭・蜿悶ｊ驕輔∴・井ｺｺ蜷阪・蝨ｰ蜷阪・菴懷刀蜷阪・謚豕募錐繝ｻ蟷ｴ蜿ｷ・峨′縺ｪ縺・°縲・(4) 譌･譛ｬ隱槭↓縺ゅｋ莠句ｮ溘′關ｽ縺｡縺ｦ縺・↑縺・°縲ゅ≠繧後・菴輔′關ｽ縺｡縺溘°縲・(5) 譌･譛ｬ隱槭↓辟｡縺・ｺ句ｮ溘・隧穂ｾ｡縺瑚ｶｳ縺輔ｌ縺ｦ縺・↑縺・°縲ゅ≠繧後・隧ｲ蠖鍋ｮ・園繧貞ｼ慕畑縲・
+笘・欠鞫倥′辟｡縺代ｌ縺ｰ縲梧欠鞫倥↑縺励阪→縺縺第嶌縺・※縺上□縺輔＞縲ら┌逅・↓謖・遭繧剃ｽ懊ｉ縺ｪ縺・〒縺上□縺輔＞縲・謖・遭縺後≠繧九ｂ縺ｮ縺縺代√梧ｬ・ｼ剰ｩｲ蠖鍋ｮ・園・丈ｽ輔′蝠城｡後°・上←縺・峩縺吶°縲阪・4轤ｹ繧堤洒縺乗嶌縺・※縺上□縺輔＞縲・笘・ｩｲ蠖鍋ｮ・園縺ｯ縲∬ｨｳ譁・°繧・*縺昴・縺ｾ縺ｾ謚懊″蜃ｺ縺励◆譁・ｭ怜・**繧貞ｼ慕畑隨ｦ縺ｧ蝗ｲ繧薙〒譖ｸ縺・※縺上□縺輔＞・郁ｨ縺・鋤縺医↑縺・〒縺上□縺輔＞・峨・譌･譛ｬ隱槭〒遲斐∴縺ｦ縺上□縺輔＞縲・codex
+繧ｹ繝壹う繝ｳ隱槭・譁・ｳ輔・螳壼梛蛻､譁ｭ縺ｫ蠢・ｦ√↑遽・峇縺ｧ縲√し繧､繝亥・縺ｮ鬘樔ｾ九′菴懈･ｭ鬆伜沺縺ｫ縺ゅｋ縺狗｢ｺ隱阪＠縺ｾ縺吶ょ次譁・→縺ｮ莠句ｮ溷ｯｾ蠢懊ｂ菴ｵ縺帙※轤ｹ讀懊＠縺ｾ縺吶・exec
+"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -Command 'rg --files' in C:\Users\ataga\AppData\Local\Temp\claude\C--Users-ataga-Desktop----------\8b0a45e4-b676-476c-be8e-81d9fc203d98\scratchpad\bin21
+ succeeded in 1728ms:
+a_kumagai-tsuneko__fr.txt
+a_kumagai-tsuneko__es.txt
+a_kumagai-tsuneko__en.txt
+a_kumagai-tsuneko__de.txt
+a_kumagai-morikazu__zh_tw.txt
+a_kumagai-morikazu__zh_cn.txt
+a_kumagai-morikazu__ko.txt
+a_kumagai-morikazu__fr.txt
+a_kumagai-morikazu__es.txt
+a_kumagai-morikazu__en.txt
+a_kumagai-morikazu__de.txt
+a_koyama-keizo__zh_tw.txt
+a_koyama-keizo__zh_cn.txt
+a_koyama-keizo__ko.txt
+a_koyama-keizo__en.txt
+a_koyama-keizo__fr.txt
+a_koyama-keizo__es.txt
+a_koyama-keizo__de.txt
+a_kosugi-hoan__zh_tw.txt
+a_kosugi-hoan__zh_cn.txt
+a_kosugi-hoan__ko.txt
+a_kosugi-hoan__fr.txt
+a_kosugi-hoan__es.txt
+a_kosugi-hoan__en.txt
+a_kosugi-hoan__de.txt
+a_koshino-ayako__zh_tw.txt
+a_koshino-ayako__zh_cn.txt
+a_koshino-ayako__ko.txt
+a_koshino-ayako__fr.txt
+a_koshino-ayako__es.txt
+a_koshino-ayako__en.txt
+a_koshino-ayako__de.txt
+a_kume-keiichiro__ko.txt
+a_kume-keiichiro__fr.txt
+a_kume-keiichiro__es.txt
+a_kume-keiichiro__en.txt
+a_kume-keiichiro__de.txt
+a_kumakura-junkichi__zh_tw.txt
+a_kumakura-junkichi__zh_cn.txt
+a_kumakura-junkichi__ko.txt
+a_kumakura-junkichi__fr.txt
+a_kumakura-junkichi__es.txt
+a_kumakura-junkichi__en.txt
+a_kumakura-junkichi__de.txt
+a_kumagai-tsuneko__zh_tw.txt
+a_kumagai-tsuneko__zh_cn.txt
+a_kumagai-tsuneko__ko.txt
+a_kumi-sugai__ko.txt
+a_kumi-sugai__fr.txt
+a_kumi-sugai__es.txt
+a_kumi-sugai__en.txt
+a_kumi-sugai__de.txt
+a_kume-keiichiro__zh_tw.txt
+a_kume-keiichiro__zh_cn.txt
+a_kuniyoshi-yasuo__en.txt
+a_kuniyoshi-yasuo__de.txt
+a_kumi-sugai__zh_tw.txt
+a_kumi-sugai__zh_cn.txt
+a_kuniyoshi-yasuo__fr.txt
+a_kuniyoshi-yasuo__es.txt
+a_kuniyoshi-yasuo__ko.txt
+b_kosugi-hoan__en.txt
+b_kosugi-hoan__de.txt
+b_koshino-ayako__zh_tw.txt
+b_koshino-ayako__zh_cn.txt
+b_koshino-ayako__ko.txt
+b_koshino-ayako__fr.txt
+b_koshino-ayako__es.txt
+b_koshino-ayako__en.txt
+b_koshino-ayako__de.txt
+a_kuramata-shiro__zh_tw.txt
+a_kuramata-shiro__zh_cn.txt
+a_kuramata-shiro__ko.txt
+a_kuramata-shiro__fr.txt
+a_kuramata-shiro__es.txt
+a_kuramata-shiro__en.txt
+a_kuramata-shiro__de.txt
+a_kuniyoshi-yasuo__zh_tw.txt
+a_kuniyoshi-yasuo__zh_cn.txt
+b_koyama-keizo__ko.txt
+b_koyama-keizo__fr.txt
+b_koyama-keizo__es.txt
+b_koyama-keizo__en.txt
+b_kumagai-morikazu__es.txt
+b_koyama-keizo__de.txt
+b_kumagai-morikazu__en.txt
+b_kosugi-hoan__zh_tw.txt
+b_kumagai-morikazu__de.txt
+b_kosugi-hoan__zh_cn.txt
+b_koyama-keizo__zh_tw.txt
+b_kosugi-hoan__ko.txt
+b_koyama-keizo__zh_cn.txt
+b_kosugi-hoan__fr.txt
+b_kosugi-hoan__es.txt
+b_kumagai-morikazu__fr.txt
+b_kumagai-morikazu__ko.txt
+b_kumagai-tsuneko__de.txt
+b_kumagai-morikazu__zh_tw.txt
+b_kumagai-tsuneko__en.txt
+b_kumagai-morikazu__zh_cn.txt
+b_kumagai-tsuneko__es.txt
+q1_koshino-ayako__en.txt
+q1_kosugi-hoan__zh_tw.txt
+q1_kume-keiichiro__fr.txt
+q1_kosugi-hoan__en.txt
+q1_kosugi-hoan__fr.txt
+q1_koshino-ayako__de.txt
+g2.lst
+g1.lst
+f3.lst
+f2.lst
+f1.lst
+b_kume-keiichiro__zh_cn.txt
+b_kume-keiichiro__ko.txt
+b_kume-keiichiro__fr.txt
+b_kume-keiichiro__es.txt
+b_kume-keiichiro__en.txt
+b_kume-keiichiro__de.txt
+b_kumakura-junkichi__zh_tw.txt
+b_kumakura-junkichi__zh_cn.txt
+b_kumakura-junkichi__ko.txt
+b_kumakura-junkichi__fr.txt
+b_kumakura-junkichi__es.txt
+b_kumakura-junkichi__en.txt
+q1_kosugi-hoan__zh_cn.txt
+b_kumakura-junkichi__de.txt
+b_kumagai-tsuneko__zh_tw.txt
+b_kumagai-tsuneko__zh_cn.txt
+q1_kosugi-hoan__ko.txt
+b_kumagai-tsuneko__ko.txt
+b_kumagai-tsuneko__fr.txt
+q1_kosugi-hoan__es.txt
+q1_kumagai-tsuneko__en.txt
+q1_kumagai-tsuneko__de.txt
+q1_kumagai-morikazu__zh_tw.txt
+q1_kumagai-morikazu__zh_cn.txt
+q1_kumagai-morikazu__ko.txt
+q1_kumagai-morikazu__fr.txt
+q1_kumagai-morikazu__es.txt
+q1_kumagai-morikazu__en.txt
+q1_kumagai-morikazu__de.txt
+q1_koyama-keizo__zh_tw.txt
+q1_kume-keiichiro__es.txt
+q1_koyama-keizo__zh_cn.txt
+q2_kosugi-hoan__de.txt
+q1_kume-keiichiro__en.txt
+q1_koyama-keizo__ko.txt
+q2_koshino-ayako__zh_tw.txt
+q1_kume-keiichiro__de.txt
+q1_koyama-keizo__fr.txt
+q2_koshino-ayako__zh_cn.txt
+q1_koyama-keizo__es.txt
+q2_koshino-ayako__ko.txt
+q1_kumakura-junkichi__zh_tw.txt
+q2_koshino-ayako__fr.txt
+q2_koshino-ayako__es.txt
+q2_koshino-ayako__en.txt
+q2_koshino-ayako__de.txt
+q1_kuramata-shiro__zh_tw.txt
+q1_kuramata-shiro__zh_cn.txt
+q1_kuramata-shiro__ko.txt
+q1_kuramata-shiro__fr.txt
+q1_kuramata-shiro__es.txt
+q1_kuramata-shiro__en.txt
+q1_kuramata-shiro__de.txt
+q1_kuniyoshi-yasuo__zh_tw.txt
+q1_kuniyoshi-yasuo__zh_cn.txt
+q1_kuniyoshi-yasuo__ko.txt
+q1_koyama-keizo__en.txt
+q1_kuniyoshi-yasuo__fr.txt
+q1_koyama-keizo__de.txt
+q1_kuniyoshi-yasuo__es.txt
+q1_kuniyoshi-yasuo__en.txt
+q1_kumagai-tsuneko__zh_tw.txt
+q1_kuniyoshi-yasuo__de.txt
+q1_kumi-sugai__zh_tw.txt
+q1_kumagai-tsuneko__zh_cn.txt
+q1_kumi-sugai__zh_cn.txt
+q1_kumakura-junkichi__zh_cn.txt
+q1_kumi-sugai__ko.txt
+q1_kumagai-tsuneko__ko.txt
+q1_kumi-sugai__fr.txt
+q1_kumagai-tsuneko__fr.txt
+q1_kumi-sugai__es.txt
+q1_kumagai-tsuneko__es.txt
+q1_kumakura-junkichi__ko.txt
+q1_kumakura-junkichi__en.txt
+q1_kumakura-junkichi__fr.txt
+q1_kumi-sugai__en.txt
+q1_kumakura-junkichi__es.txt
+q1_kumakura-junkichi__de.txt
+q1_kumi-sugai__de.txt
+q1_kume-keiichiro__zh_tw.txt
+q1_kume-keiichiro__zh_cn.txt
+q1_kume-keiichiro__ko.txt
+q1_koshino-ayako__ko.txt
+q1_koshino-ayako__fr.txt
+q1_koshino-ayako__es.txt
+q1_koshino-ayako__zh_tw.txt
+q1_kosugi-hoan__de.txt
+q1_koshino-ayako__zh_cn.txt
+q2_kumagai-tsuneko__es.txt
+q2_kumagai-tsuneko__en.txt
+q2_kumagai-tsuneko__de.txt
+q2_kumagai-morikazu__zh_tw.txt
+q2_kumagai-morikazu__zh_cn.txt
+q2_kumagai-morikazu__ko.txt
+q2_kumagai-morikazu__fr.txt
+q2_kumagai-morikazu__es.txt
+q2_kumagai-morikazu__en.txt
+q2_kuniyoshi-yasuo__zh_tw.txt
+q2_kumagai-morikazu__de.txt
+q2_kuniyoshi-yasuo__zh_cn.txt
+q2_koyama-keizo__zh_tw.txt
+q2_kuniyoshi-yasuo__ko.txt
+q2_koyama-keizo__zh_cn.txt
+q2_kuniyoshi-yasuo__fr.txt
+q2_kuniyoshi-yasuo__es.txt
+q2_kuniyoshi-yasuo__en.txt
+q2_kuniyoshi-yasuo__de.txt
+q2_kumi-sugai__zh_tw.txt
+q2_kumi-sugai__zh_cn.txt
+q2_kumi-sugai__ko.txt
+q2_kumi-sugai__fr.txt
+q2_kumi-sugai__es.txt
+q2_kumi-sugai__en.txt
+q2_kumi-sugai__de.txt
+q2_kume-keiichiro__zh_tw.txt
+q2_kume-keiichiro__zh_cn.txt
+q2_kume-keiichiro__ko.txt
+q2_kume-keiichiro__fr.txt
+q2_kume-keiichiro__es.txt
+q2_kume-keiichiro__en.txt
+q2_kume-keiichiro__de.txt
+q2_kumakura-junkichi__zh_tw.txt
+q2_kumakura-junkichi__zh_cn.txt
+q2_kumakura-junkichi__ko.txt
+q2_kumakura-junkichi__fr.txt
+q2_kumakura-junkichi__es.txt
+q2_kumakura-junkichi__en.txt
+q2_kumakura-junkichi__de.txt
+q2_kumagai-tsuneko__zh_tw.txt
+q2_kumagai-tsuneko__zh_cn.txt
+q2_kumagai-tsuneko__ko.txt
+q2_kumagai-tsuneko__fr.txt
+q2_kosugi-hoan__zh_cn.txt
+q2_kosugi-hoan__ko.txt
+q2_koyama-keizo__ko.txt
+q2_kosugi-hoan__fr.txt
+q2_koyama-keizo__fr.txt
+q2_kosugi-hoan__es.txt
+q2_koyama-keizo__es.txt
+q2_kosugi-hoan__en.txt
+q2_koyama-keizo__en.txt
+q2_koyama-keizo__de.txt
+q2_kosugi-hoan__zh_tw.txt
+q2_kuramata-shiro__en.txt
+q2_kuramata-shiro__de.txt
+terms\kosugi-hoan__fr.txt
+terms\kosugi-hoan__es.txt
+terms\kosugi-hoan__en.txt
+terms\kosugi-hoan__de.txt
+terms\koshino-ayako__zh_tw.txt
+terms\koshino-ayako__zh_cn.txt
+terms\koshino-ayako__ko.txt
+terms\koshino-ayako__fr.txt
+terms\koshino-ayako__es.txt
+terms\koshino-ayako__en.txt
+terms\koshino-ayako__de.txt
+q2_kuramata-shiro__zh_tw.txt
+q2_kuramata-shiro__zh_cn.txt
+q2_kuramata-shiro__ko.txt
+q2_kuramata-shiro__fr.txt
+q2_kuramata-shiro__es.txt
+terms\koyama-keizo__zh_cn.txt
+terms\koyama-keizo__ko.txt
+terms\koyama-keizo__fr.txt
+terms\koyama-keizo__es.txt
+terms\koyama-keizo__en.txt
+terms\koyama-keizo__de.txt
+terms\kosugi-hoan__zh_tw.txt
+terms\kosugi-hoan__zh_cn.txt
+terms\kosugi-hoan__ko.txt
+terms\kumagai-morikazu__ko.txt
+terms\kumagai-morikazu__fr.txt
+terms\kumagai-morikazu__es.txt
+terms\kumagai-morikazu__en.txt
+terms\kumagai-morikazu__de.txt
+terms\koyama-keizo__zh_tw.txt
+terms\kumagai-tsuneko__de.txt
+terms\kumagai-morikazu__zh_tw.txt
+terms\kumagai-morikazu__zh_cn.txt
+terms\kumagai-tsuneko__en.txt
+terms\kumagai-tsuneko__es.txt
+terms\kumagai-tsuneko__fr.txt
+terms\_counts.txt
+terms\kumi-sugai__en.txt
+terms\kumi-sugai__de.txt
+terms\kume-keiichiro__zh_tw.txt
+terms\kume-keiichiro__zh_cn.txt
+terms\kume-keiichiro__ko.txt
+terms\kume-keiichiro__fr.txt
+terms\kume-keiichiro__es.txt
+terms\kume-keiichiro__en.txt
+terms\kume-keiichiro__de.txt
+terms\kumakura-junkichi__zh_tw.txt
+terms\kumakura-junkichi__zh_cn.txt
+terms\kumi-sugai__zh_cn.txt
+terms\kuniyoshi-yasuo__fr.txt
+terms\kuniyoshi-yasuo__zh_tw.txt
+terms\kuniyoshi-yasuo__zh_cn.txt
+terms\kuniyoshi-yasuo__ko.txt
+terms\kuniyoshi-yasuo__de.txt
+terms\kumi-sugai__zh_tw.txt
+terms\kuniyoshi-yasuo__en.txt
+terms\kumakura-junkichi__de.txt
+terms\kumagai-tsuneko__zh_tw.txt
+terms\kumagai-tsuneko__zh_cn.txt
+terms\kumagai-tsuneko__ko.txt
+terms\kumakura-junkichi__es.txt
+terms\kumakura-junkichi__en.txt
+terms\kumakura-junkichi__fr.txt
+terms\kumi-sugai__es.txt
+terms\kumi-sugai__fr.txt
+terms\kuramata-shiro__es.txt
+terms\kuramata-shiro__en.txt
+terms\kuramata-shiro__de.txt
+terms\kuramata-shiro__ko.txt
+terms\kuramata-shiro__fr.txt
+terms\kuramata-shiro__zh_cn.txt
+terms\kuniyoshi-yasuo__es.txt
+terms\kuramata-shiro__zh_tw.txt
+terms\kumakura-junkichi__ko.txt
+terms\kumi-sugai__ko.txt
+exec
+"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -Command 'Get-Content -Raw a_kumakura-junkichi__es.txt; Get-Content -Raw b_kumakura-junkichi__es.txt; Get-Content -Raw q1_kumakura-junkichi__es.txt; Get-Content -Raw q2_kumakura-junkichi__es.txt; Get-Content -Raw a_kumagai-morikazu__es.txt; Get-Content -Raw a_kume-keiichiro__es.txt' in C:\Users\ataga\AppData\Local\Temp\claude\C--Users-ataga-Desktop----------\8b0a45e4-b676-476c-be8e-81d9fc203d98\scratchpad\bin21
+縺ゅ↑縺溘・繧ｹ繝壹う繝ｳ隱槭・繝阪う繝・ぅ繝也ｷｨ髮・・〒縲∵律譛ｬ霑台ｻ｣鄒手｡薙↓隧ｳ縺励＞譁ｹ縺ｧ縺吶・鄒手｡馴､ｨ繧ｵ繧､繝医・菴懷ｮｶ邏ｹ莉区枚・育・蛟・鬆・翠縺輔∪・峨↓縺､縺・※縲∵律譛ｬ隱槭ｒ蜴滓枚縺ｨ縺励√せ繝壹う繝ｳ隱槭・險ｳ譁・□縺代ｒ譬｡髢ｲ縺励※縺上□縺輔＞縲・
+笘・％縺ｮ鄒手｡馴､ｨ縺ｮ豎ｺ縺ｾ繧翫＃縺ｨ・亥ｮ医▲縺ｦ縺上□縺輔＞・会ｼ・繝ｻ菴懷ｮｶ繧貞ｺ丞・縺･縺代ｋ隱橸ｼ育ｬｬ荳莠ｺ閠・・蟾ｨ蛹繝ｻ譛鬮伜ｳｰ繝ｻ莉｣陦ｨ譬ｼ 遲会ｼ峨・菴ｿ繧上↑縺・ょ次譁・↓辟｡縺・ｩ穂ｾ｡繧定ｶｳ縺輔↑縺・・繝ｻ蜴滓枚縺ｫ辟｡縺・ｺ句ｮ滂ｼ亥女雉槭・蜿手鳩繝ｻ蟷ｴ蜿ｷ繝ｻ閧ｩ譖ｸ縺搾ｼ峨ｒ雜ｳ縺輔↑縺・ょ次譁・↓縺ゅｋ莠句ｮ溘ｒ關ｽ縺ｨ縺輔↑縺・・繝ｻ縲悟ｽｫ蛻ｻ螳ｶ縲咲ｭ峨・閧ｩ譖ｸ縺阪→縲∝・驥主錐・亥ｽｫ蛻ｻ縺ｨ縺・≧繧ｸ繝｣繝ｳ繝ｫ・峨ｒ豺ｷ蜷後＠縺ｪ縺・・繝ｻ謨・ｺｺ縺ｮ譁ｹ縺ｯ驕主悉蠖｢縺ｧ譖ｸ縺上・
+縲千畑隱槭・謖・ｮ夲ｼ医せ繝壹う繝ｳ隱橸ｼ峨鯛・縺薙・菴懷ｮｶ縺ｮ譛ｬ譁・↓螳滄圀縺ｫ蜃ｺ縺ｦ縺上ｋ隱槭□縺代ｒ霈峨○縺ｦ縺・∪縺吶・
+笆 蜻ｼ遘ｰ・亥床蟶ｳ縺梧ｭ｣縲ゅ％縺薙↓縺ゅｋ隱槭・蠢・★縺薙・險ｳ繧剃ｽｿ縺・ｼ・  繝ｻ髯ｶ闃ｸ螳ｶ 竊・Ceramista
+  繝ｻ菴懷ｮｶ 竊・Artista
+  ・域里蟄倥・蛻､螳夲ｼ晉塙諤ｧ縲や・譛ｬ譁・〒遒ｺ縺九ａ縺ｦ縺九ｉ菴ｿ縺｣縺ｦ縺上□縺輔＞・・
+笆 逶ｴ縺励※繧医＞蝙具ｼ・莉ｶ・・  繝ｻ[A3] 蜈ｨ隗堤ｩｺ逋ｽ繝ｻ蜈ｨ隗堤ｴ・黄・茨ｼ茨ｼ峨後阪√ゑｼ峨・谿句ｭ・竊・蜊願ｧ偵∈
+  繝ｻ[A4] 蝙・・晏粥邵ｾ(viewpoint)縺ｾ縺溘・逡･豁ｴ(bio)縺ｮ1譁・岼縺悟・隧槭〒蟋九∪繧句虚隧槭・縺ｪ縺・妙迚・竊・荳ｻ隱橸ｼ誼e蜍戊ｩ槭ｒ陬懊≧・・e was a・終l ﾃｩtait un・洲ue un・拾r war ein・丈ｻ匁弍繝ｻ螂ｹ譏ｯ・上懍擽・､・峨ら塙螂ｳ縺ｯ譛ｬ譁・・莉｣蜷崎ｩ槭〒蛻､螳・  繝ｻ[A9] 譏ｯ豁｣菴懈･ｭ縺檎函繧薙□讖滓｢ｰ逧・↑蛯ｷ・井ｺ碁㍾遨ｺ逋ｽ繝ｻ驥崎､・唱隱ｭ轤ｹ・・竊・豁｣隕丞喧
+  繝ｻ[A13] 譁・ｳ輔・譏守區縺ｪ隱､繧奇ｼ域ｧ繝ｻ譬ｼ繝ｻ荳閾ｴ繝ｻ蜀隧槭・豢ｻ逕ｨ・・竊・縺昴・險隱槭・豁｣縺励＞蠖｢縺ｸ逶ｴ縺吶や・縺溘□縺励後し繧､繝亥・縺ｮ莉悶・菴懷ｮｶ縺後←縺・嶌縺・※縺・ｋ縺九阪ｒ蜈医↓螳滓ｸｬ縺励∝ｮ壼梛縺後≠繧後・螳壼梛縺ｫ蜷医ｏ縺帙ｋ
+  繝ｻ[A18] 笘・枚縺ｮ蛻・牡蜃ｦ逅・′螢翫＠縺滓枚・育峡隱槭・縲梧律.縲阪ｒ譁・忰縺ｨ隱､隱阪＠縺ｦ蜍戊ｩ槭′譌･莉倥・騾比ｸｭ縺ｫ蜈･繧具ｼ・竊・蜈・・1譁・↓蠕ｩ蜈・☆繧九ゆｾ具ｼ昴詣urde am 6 geboren. Februar 1899 in der Stadt Fukuoka縲坂・縲詣urde am 6. Februar 1899 in der Stadt Fukuoka geboren縲・
+笆 笘・峩縺励※縺ｯ縺・￠縺ｪ縺・梛・・莉ｶ・会ｼ晄欠鞫倥＆繧後※繧よ治繧峨↑縺・  繝ｻ[B1] 蝗ｺ譛牙錐隧槭・譖ｸ縺肴婿縺ｸ縺ｮ謖・遭・昜ｺｺ蜷阪・菴懷ｮｶ蜷阪・鄒手｡馴､ｨ蜷阪・髮題ｪ悟錐繝ｻ菴懷刀蜷阪・蟄ｦ驛ｨ蜷阪・蝗｣菴灘錐縺ｮ陦ｨ險假ｼ上Ο繝ｼ繝槫ｭ怜喧・城聞髻ｳ險伜捷・剰ｨｳ蜷榊喧・郁ｪｭ縺ｿ繝ｻ豁｣蠑丞錐縺ｮ遒ｺ隱阪′隕√ｋ・昜ｺ句ｮ溘・譁ｭ螳壹りｪｭ縺ｿ譛ｪ遒ｺ隱阪・莠ｺ蜷搾ｼ郁廠逕ｰ螳乗ｲｻ繝ｻ蜷崎ｶ願ｩ泌昇・峨・繝ｪ繧ｵ繝ｼ繝ゝ辣ｧ莨壻ｸｭ・・  繝ｻ[B2] 縲手ｨｳ蜷搾ｼ亥次蜷・ 繝ｭ繝ｼ繝槫ｭ暦ｼ峨上・菴ｵ險伜ｽ｢縺後守焚迚ｩ繝ｻ譛ｪ蜃ｦ逅・上□縺ｨ縺・≧謖・遭・域枚菴灘渕貅悶・豁｣縺励＞蠖｢・亥ｮ夊ｨｳ縺ｪ縺苓ｪ橸ｼ昴Ο繝ｼ繝槫ｭ暦ｼ玖ｪｬ譏弱・蜴溷錐縺ｯ谿九☆・峨ら峡隱・05谺・・螳滓ｸｬ・昴☆縺ｹ縺ｦ縺薙・蠖｢縺ｧ豁｣縺励°縺｣縺滂ｼ・  繝ｻ[B3] 菴懷ｮｶ譛ｬ莠ｺ縺ｮ縺薙→縺ｰ・・essage谺・ｼ峨・豈泌湊繝ｻ逾医ｊ縺後主､ｧ縺偵＆繝ｻ陬・｣ｾ驕主臆縲上□縺ｨ縺・≧謖・遭・亥､ｧ縺偵＆縺ｪ縺ｮ縺ｯ蜴滓枚縺ｧ縺ゅ▲縺ｦ險ｳ縺ｧ縺ｯ縺ｪ縺・ょｹｳ譚ｿ蛹悶☆繧九→譛ｬ莠ｺ縺ｮ螢ｰ縺梧ｶ医∴繧具ｼ医後・縺ｨ縺吶§縺ｮ諢帙・蜈峨搾ｼ・騾壹ｊ險ｳ縺励※蜈ｨ驛ｨ蜷後§謖・遭縺御ｻ倥＞縺滂ｼ会ｼ・  繝ｻ[B4] 邏譚舌・謚豕輔・隱橸ｼ亥ｽｩ濶ｲ繝ｻ邂斐・驥峨・繝偵ヮ繧ｭ菴ｵ險倡ｭ会ｼ峨′縲取尠譏ｧ繝ｻ霎樊嶌逧・上□縺ｨ縺・≧謖・遭・亥次譁・・莠句ｮ溘ょ・菴灘喧縺ｯ莠句ｮ溘・譁ｭ螳壹↓縺ｪ繧具ｼ・  繝ｻ[B5] 閧ｩ譖ｸ縺搾ｼ・ole・峨・隱槭・驕ｸ謚槭∈縺ｮ謖・遭・・anshou_dict 縺梧ｭ｣・・culptural Artist 縺ｯ蜿ｰ蟶ｳ縺ｫ縲手・遘ｰ繧定ｸ剰･ｲ縲上→譏手ｨ假ｼ峨・蜷阪□縺大､峨∴繧九→繧ｵ繧､繝医′蜑ｲ繧後ｋ・・  繝ｻ[B7] 荳險邏ｹ莉九・荳ｦ蛻玲ｧ矩・域嶌蜷咲罰譚･・峨∈縺ｮ謖・遭・域律譛ｬ隱槫次譁・・菴懷刀髮・・譖ｸ蜷阪↓逕ｱ譚･・・n 縺ｯ蜈ｬ蠑剰恭鬘後→荳閾ｴ・会ｼ・  繝ｻ[B8] 讓呎ｺ也噪縺ｪ陦楢ｪ槭ｒ縲惹ｸ闊ｬ諤ｧ縺ｫ荵上＠縺・上→縺吶ｋ隱､謖・遭・亥ｮ滉ｾ具ｼ挾an de metal・磯≡螻樒ｮ費ｼ峨・繧ｹ繝壹う繝ｳ隱樒ｾ手｡鍋畑隱槭→縺励※讓呎ｺ悶よ欠鞫伜・縺ｮ隱､繧奇ｼ・  繝ｻ[B9] 螳滓ｸｬ縺ｧ豎ｺ繧√◆陦ｨ險俶婿驥昴↓蜿阪☆繧区署譯茨ｼ・n 縺ｫ繝槭け繝ｭ繝ｳ繧定ｶｳ縺帷ｭ会ｼ会ｼ郁｡ｨ險俶婿驥昴・繧ｵ繧､繝亥・菴薙・繧ｳ繝ｼ繝代せ螳滓ｸｬ縺ｧ遒ｺ螳壽ｸ医∩縲・蜷阪□縺大､峨∴繧九→蜑ｲ繧後ｋ・・  繝ｻ[B10] 迴ｾ蝨ｨ蠖｢縺ｮ隧募愛險倩ｿｰ・・s known/es conocido/bekannt ist/se conservan 遲会ｼ峨ｒ驕主悉蠖｢縺ｫ縺帙ｈ縺ｨ縺・≧謖・遭・亥ｭ伜多縺ｧ縺ｪ縺・ｽ懷ｮｶ縺ｧ繧ゅ∫樟蝨ｨ繧らｶ壹￥隧穂ｾ｡繝ｻ蜿手鳩迥ｶ諷九・迴ｾ蝨ｨ蠖｢縺梧ｭ｣縺励￥縲√し繧､繝亥・菴薙・諷｣鄙偵〒繧ゅ≠繧九・蜷阪□縺大､峨∴繧九→蜑ｲ繧後ｋ・育ｬｬ6萓ｿ・拌raki-jippo繝ｻasada-takashi繝ｻarishima-ikuma 縺ｧ險・莉ｶ譽・唆・会ｼ・
+笘・％縺薙↓辟｡縺・ｪ槭・蜿ｰ蟶ｳ縺ｫ辟｡縺・ｪ槭〒縺吶ょ享謇九↓險ｳ隱槭ｒ豎ｺ繧√★縲∝愛譁ｭ縺瑚ｦ√ｋ繧ゅ・縺ｯ莠ｺ縺ｫ蝗槭＠縺ｦ縺上□縺輔＞縲・
+縲蝉ｸ險邏ｹ莉九・  譌･譛ｬ隱橸ｼ壼虚諢溘→繝ｦ繝ｼ繝｢繧｢縺ｮ髯ｶ繧ｪ繝悶ず繧ｧ繧堤函繧薙□菴懷ｮｶ
+  繧ｹ繝壹う繝ｳ隱橸ｼ啅n artista que creﾃｳ objetos cerﾃ｡micos llenos de movimiento y humor
+縲千払豁ｴ縲・  譌･譛ｬ隱橸ｼ夂・蛟蛾・翠縺ｯ縲∽ｺｬ驛ｽ縺ｫ逕溘∪繧後◆髯ｶ闃ｸ螳ｶ縲ょ燕陦幃匕闃ｸ縺ｮ繧ｰ繝ｫ繝ｼ繝励瑚ｵｰ豕･遉ｾ縲阪↓蜉繧上ｊ縲∝勣縺ｮ譫繧偵％縺医◆髯ｶ縺ｮ繧ｪ繝悶ず繧ｧ繧貞宛菴懊＠縺溘ゅず繝｣繧ｺ繧・・蟶ゅ・豢ｻ豌励↓逹諠ｳ縺励∝虚縺阪→繝ｦ繝ｼ繝｢繧｢繧偵◆縺溘∴縺溘∬ｻｽ繧・°縺ｧ驕翫・蠢・≠繧矩蠖｢縺ｧ遏･繧峨ｌ繧九よ姶蠕後・蜑崎｡幃匕闃ｸ縺ｫ迢ｬ閾ｪ縺ｮ譏弱ｋ縺輔ｒ蜉縺医◆荳莠ｺ縺ｨ縺輔ｌ繧九・  繧ｹ繝壹う繝ｳ隱橸ｼ哮umakura Junkichi fue un ceramista nacido en Kioto. Se uniﾃｳ a Sﾅ硬eisha, un grupo de cerﾃ｡mica de vanguardia, y produjo objetos cerﾃ｡micos que iban mﾃ｡s allﾃ｡ del marco del recipiente. Inspirado por el jazz y por la vitalidad de la ciudad, se le conoce por formas ligeras y desenfadadas, llenas de movimiento y humor. Se le considera uno de quienes aportaron una luminosidad propia a la cerﾃ｡mica de vanguardia de posguerra.
+縲仙粥邵ｾ縲・  譌･譛ｬ隱橸ｼ壼虚諢溘→繝ｦ繝ｼ繝｢繧｢縺ｮ髯ｶ繧ｪ繝悶ず繧ｧ繧堤函繧薙□髯ｶ闃ｸ螳ｶ縲ゅ翫ず繝｣繧ｺ縺ｮ繝ｪ繧ｺ繝縲九↑縺ｩ縺ｧ縺ｯ縲√・縺倥ｌ霍ｳ縺ｭ繧九ｈ縺・↑霄榊虚逧・↑蠖｢縺ｨ縲・♀縺ｳ蠢・・縺ゅｋ讒区・縺ｫ豕ｨ逶ｮ縺吶ｋ縺ｨ縲・㍾縲・＠縺・蠖｢縺ｨ縺ｯ逡ｰ縺ｪ繧翫・浹讌ｽ繧・・蟶ゅ・豢ｻ豌励ｒ蝨溘↓蜀吶＠縺ｨ繧翫∬ｦ九ｋ莠ｺ繧呈･ｽ縺励∪縺帙ｋ霆ｽ繧・°縺輔ｒ髯ｶ縺ｧ陦ｨ縺昴≧縺ｨ縺励◆諢溯ｦ壹′諢溘§繧峨ｌ繧九・  繧ｹ繝壹う繝ｳ隱橸ｼ哥ue un ceramista que creﾃｳ objetos cerﾃ｡micos llenos de movimiento y humor. En obras como Jazu no Rizumu (Ritmo del jazz), atender a las formas dinﾃ｡micas que parecen retorcerse y saltar y a la composiciﾃｳn desenfadada revela una sensibilidad muy distinta de la escultura pesada: una que transcribﾃｭa a la arcilla la vitalidad de la mﾃｺsica y de la ciudad y buscaba dar a la forma cerﾃ｡mica una ligereza que deleita al espectador.
+縲先園螻槫屮菴薙・  譌･譛ｬ隱橸ｼ夊ｵｰ豕･遉ｾ
+  繧ｹ繝壹う繝ｳ隱橸ｼ售ﾅ硬eisha
+谺｡縺ｮ隕ｳ轤ｹ縺縺代ｒ隕九※縺上□縺輔＞縲や・繧ｹ繝壹う繝ｳ隱樔ｻ･螟悶・險隱槭・縺薙→縺ｯ譖ｸ縺九↑縺・〒縺上□縺輔＞縲・
+(1) 譌･譛ｬ隱槭↓辟｡縺・ｺ句ｮ溘・隧穂ｾ｡縺瑚ｶｳ縺輔ｌ縺ｦ縺・↑縺・°縲ゅ≠繧後・隧ｲ蠖鍋ｮ・園繧貞ｼ慕畑縲・(2) 譌･譛ｬ隱槭↓縺ゅｋ莠句ｮ溘′關ｽ縺｡縺ｦ縺・↑縺・°縲ゅ≠繧後・菴輔′關ｽ縺｡縺溘°縲・(3) 隱､險ｳ繝ｻ隱槭・蜿悶ｊ驕輔∴・井ｺｺ蜷阪・蝨ｰ蜷阪・菴懷刀蜷阪・謚豕募錐繝ｻ蟷ｴ蜿ｷ・峨′縺ｪ縺・°縲・(4) 縺昴・險隱槭→縺励※荳崎・辟ｶ縺ｪ險縺・屓縺励・譁・ｳ輔・隱､繧奇ｼ域凾蛻ｶ繝ｻ諤ｧ繝ｻ謨ｰ繝ｻ蜀隧橸ｼ峨′縺ｪ縺・°縲・(5) 蜷後§隱槭′譁・ｸｭ縺ｧ荳咲ｵｱ荳縺ｫ險ｳ縺輔ｌ縺ｦ縺・↑縺・°縲・
+笘・欠鞫倥′辟｡縺代ｌ縺ｰ縲梧欠鞫倥↑縺励阪→縺縺第嶌縺・※縺上□縺輔＞縲ら┌逅・↓謖・遭繧剃ｽ懊ｉ縺ｪ縺・〒縺上□縺輔＞縲・謖・遭縺後≠繧九ｂ縺ｮ縺縺代√梧ｬ・ｼ剰ｩｲ蠖鍋ｮ・園・丈ｽ輔′蝠城｡後°・上←縺・峩縺吶°縲阪・4轤ｹ繧堤洒縺乗嶌縺・※縺上□縺輔＞縲・笘・ｩｲ蠖鍋ｮ・園縺ｯ縲∬ｨｳ譁・°繧・*縺昴・縺ｾ縺ｾ謚懊″蜃ｺ縺励◆譁・ｭ怜・**繧貞ｼ慕畑隨ｦ縺ｧ蝗ｲ繧薙〒譖ｸ縺・※縺上□縺輔＞・郁ｨ縺・鋤縺医↑縺・〒縺上□縺輔＞・峨・譌･譛ｬ隱槭〒遲斐∴縺ｦ縺上□縺輔＞縲
+縺ゅ↑縺溘・繧ｹ繝壹う繝ｳ隱槭・繝阪う繝・ぅ繝也ｷｨ髮・・〒縲∵律譛ｬ霑台ｻ｣鄒手｡薙↓隧ｳ縺励＞譁ｹ縺ｧ縺吶・鄒手｡馴､ｨ繧ｵ繧､繝医・菴懷ｮｶ邏ｹ莉区枚・育・蛟・鬆・翠縺輔∪・峨↓縺､縺・※縲∵律譛ｬ隱槭ｒ蜴滓枚縺ｨ縺励√せ繝壹う繝ｳ隱槭・險ｳ譁・□縺代ｒ譬｡髢ｲ縺励※縺上□縺輔＞縲・
+笘・％縺ｮ鄒手｡馴､ｨ縺ｮ豎ｺ縺ｾ繧翫＃縺ｨ・亥ｮ医▲縺ｦ縺上□縺輔＞・会ｼ・繝ｻ菴懷ｮｶ繧貞ｺ丞・縺･縺代ｋ隱橸ｼ育ｬｬ荳莠ｺ閠・・蟾ｨ蛹繝ｻ譛鬮伜ｳｰ繝ｻ莉｣陦ｨ譬ｼ 遲会ｼ峨・菴ｿ繧上↑縺・ょ次譁・↓辟｡縺・ｩ穂ｾ｡繧定ｶｳ縺輔↑縺・・繝ｻ蜴滓枚縺ｫ辟｡縺・ｺ句ｮ滂ｼ亥女雉槭・蜿手鳩繝ｻ蟷ｴ蜿ｷ繝ｻ閧ｩ譖ｸ縺搾ｼ峨ｒ雜ｳ縺輔↑縺・ょ次譁・↓縺ゅｋ莠句ｮ溘ｒ關ｽ縺ｨ縺輔↑縺・・繝ｻ縲悟ｽｫ蛻ｻ螳ｶ縲咲ｭ峨・閧ｩ譖ｸ縺阪→縲∝・驥主錐・亥ｽｫ蛻ｻ縺ｨ縺・≧繧ｸ繝｣繝ｳ繝ｫ・峨ｒ豺ｷ蜷後＠縺ｪ縺・・繝ｻ謨・ｺｺ縺ｮ譁ｹ縺ｯ驕主悉蠖｢縺ｧ譖ｸ縺上・
+縲千畑隱槭・謖・ｮ夲ｼ医せ繝壹う繝ｳ隱橸ｼ峨鯛・縺薙・菴懷ｮｶ縺ｮ譛ｬ譁・↓螳滄圀縺ｫ蜃ｺ縺ｦ縺上ｋ隱槭□縺代ｒ霈峨○縺ｦ縺・∪縺吶・
+笆 蜻ｼ遘ｰ・亥床蟶ｳ縺梧ｭ｣縲ゅ％縺薙↓縺ゅｋ隱槭・蠢・★縺薙・險ｳ繧剃ｽｿ縺・ｼ・  繝ｻ髯ｶ闃ｸ螳ｶ 竊・Ceramista
+  繝ｻ菴懷ｮｶ 竊・Artista
+  ・域里蟄倥・蛻､螳夲ｼ晉塙諤ｧ縲や・譛ｬ譁・〒遒ｺ縺九ａ縺ｦ縺九ｉ菴ｿ縺｣縺ｦ縺上□縺輔＞・・
+笆 逶ｴ縺励※繧医＞蝙具ｼ・莉ｶ・・  繝ｻ[A3] 蜈ｨ隗堤ｩｺ逋ｽ繝ｻ蜈ｨ隗堤ｴ・黄・茨ｼ茨ｼ峨後阪√ゑｼ峨・谿句ｭ・竊・蜊願ｧ偵∈
+  繝ｻ[A4] 蝙・・晏粥邵ｾ(viewpoint)縺ｾ縺溘・逡･豁ｴ(bio)縺ｮ1譁・岼縺悟・隧槭〒蟋九∪繧句虚隧槭・縺ｪ縺・妙迚・竊・荳ｻ隱橸ｼ誼e蜍戊ｩ槭ｒ陬懊≧・・e was a・終l ﾃｩtait un・洲ue un・拾r war ein・丈ｻ匁弍繝ｻ螂ｹ譏ｯ・上懍擽・､・峨ら塙螂ｳ縺ｯ譛ｬ譁・・莉｣蜷崎ｩ槭〒蛻､螳・  繝ｻ[A9] 譏ｯ豁｣菴懈･ｭ縺檎函繧薙□讖滓｢ｰ逧・↑蛯ｷ・井ｺ碁㍾遨ｺ逋ｽ繝ｻ驥崎､・唱隱ｭ轤ｹ・・竊・豁｣隕丞喧
+  繝ｻ[A13] 譁・ｳ輔・譏守區縺ｪ隱､繧奇ｼ域ｧ繝ｻ譬ｼ繝ｻ荳閾ｴ繝ｻ蜀隧槭・豢ｻ逕ｨ・・竊・縺昴・險隱槭・豁｣縺励＞蠖｢縺ｸ逶ｴ縺吶や・縺溘□縺励後し繧､繝亥・縺ｮ莉悶・菴懷ｮｶ縺後←縺・嶌縺・※縺・ｋ縺九阪ｒ蜈医↓螳滓ｸｬ縺励∝ｮ壼梛縺後≠繧後・螳壼梛縺ｫ蜷医ｏ縺帙ｋ
+  繝ｻ[A18] 笘・枚縺ｮ蛻・牡蜃ｦ逅・′螢翫＠縺滓枚・育峡隱槭・縲梧律.縲阪ｒ譁・忰縺ｨ隱､隱阪＠縺ｦ蜍戊ｩ槭′譌･莉倥・騾比ｸｭ縺ｫ蜈･繧具ｼ・竊・蜈・・1譁・↓蠕ｩ蜈・☆繧九ゆｾ具ｼ昴詣urde am 6 geboren. Februar 1899 in der Stadt Fukuoka縲坂・縲詣urde am 6. Februar 1899 in der Stadt Fukuoka geboren縲・
+笆 笘・峩縺励※縺ｯ縺・￠縺ｪ縺・梛・・莉ｶ・会ｼ晄欠鞫倥＆繧後※繧よ治繧峨↑縺・  繝ｻ[B1] 蝗ｺ譛牙錐隧槭・譖ｸ縺肴婿縺ｸ縺ｮ謖・遭・昜ｺｺ蜷阪・菴懷ｮｶ蜷阪・鄒手｡馴､ｨ蜷阪・髮題ｪ悟錐繝ｻ菴懷刀蜷阪・蟄ｦ驛ｨ蜷阪・蝗｣菴灘錐縺ｮ陦ｨ險假ｼ上Ο繝ｼ繝槫ｭ怜喧・城聞髻ｳ險伜捷・剰ｨｳ蜷榊喧・郁ｪｭ縺ｿ繝ｻ豁｣蠑丞錐縺ｮ遒ｺ隱阪′隕√ｋ・昜ｺ句ｮ溘・譁ｭ螳壹りｪｭ縺ｿ譛ｪ遒ｺ隱阪・莠ｺ蜷搾ｼ郁廠逕ｰ螳乗ｲｻ繝ｻ蜷崎ｶ願ｩ泌昇・峨・繝ｪ繧ｵ繝ｼ繝ゝ辣ｧ莨壻ｸｭ・・  繝ｻ[B2] 縲手ｨｳ蜷搾ｼ亥次蜷・ 繝ｭ繝ｼ繝槫ｭ暦ｼ峨上・菴ｵ險伜ｽ｢縺後守焚迚ｩ繝ｻ譛ｪ蜃ｦ逅・上□縺ｨ縺・≧謖・遭・域枚菴灘渕貅悶・豁｣縺励＞蠖｢・亥ｮ夊ｨｳ縺ｪ縺苓ｪ橸ｼ昴Ο繝ｼ繝槫ｭ暦ｼ玖ｪｬ譏弱・蜴溷錐縺ｯ谿九☆・峨ら峡隱・05谺・・螳滓ｸｬ・昴☆縺ｹ縺ｦ縺薙・蠖｢縺ｧ豁｣縺励°縺｣縺滂ｼ・  繝ｻ[B3] 菴懷ｮｶ譛ｬ莠ｺ縺ｮ縺薙→縺ｰ・・essage谺・ｼ峨・豈泌湊繝ｻ逾医ｊ縺後主､ｧ縺偵＆繝ｻ陬・｣ｾ驕主臆縲上□縺ｨ縺・≧謖・遭・亥､ｧ縺偵＆縺ｪ縺ｮ縺ｯ蜴滓枚縺ｧ縺ゅ▲縺ｦ險ｳ縺ｧ縺ｯ縺ｪ縺・ょｹｳ譚ｿ蛹悶☆繧九→譛ｬ莠ｺ縺ｮ螢ｰ縺梧ｶ医∴繧具ｼ医後・縺ｨ縺吶§縺ｮ諢帙・蜈峨搾ｼ・騾壹ｊ險ｳ縺励※蜈ｨ驛ｨ蜷後§謖・遭縺御ｻ倥＞縺滂ｼ会ｼ・  繝ｻ[B4] 邏譚舌・謚豕輔・隱橸ｼ亥ｽｩ濶ｲ繝ｻ邂斐・驥峨・繝偵ヮ繧ｭ菴ｵ險倡ｭ会ｼ峨′縲取尠譏ｧ繝ｻ霎樊嶌逧・上□縺ｨ縺・≧謖・遭・亥次譁・・莠句ｮ溘ょ・菴灘喧縺ｯ莠句ｮ溘・譁ｭ螳壹↓縺ｪ繧具ｼ・  繝ｻ[B5] 閧ｩ譖ｸ縺搾ｼ・ole・峨・隱槭・驕ｸ謚槭∈縺ｮ謖・遭・・anshou_dict 縺梧ｭ｣・・culptural Artist 縺ｯ蜿ｰ蟶ｳ縺ｫ縲手・遘ｰ繧定ｸ剰･ｲ縲上→譏手ｨ假ｼ峨・蜷阪□縺大､峨∴繧九→繧ｵ繧､繝医′蜑ｲ繧後ｋ・・  繝ｻ[B7] 荳險邏ｹ莉九・荳ｦ蛻玲ｧ矩・域嶌蜷咲罰譚･・峨∈縺ｮ謖・遭・域律譛ｬ隱槫次譁・・菴懷刀髮・・譖ｸ蜷阪↓逕ｱ譚･・・n 縺ｯ蜈ｬ蠑剰恭鬘後→荳閾ｴ・会ｼ・  繝ｻ[B8] 讓呎ｺ也噪縺ｪ陦楢ｪ槭ｒ縲惹ｸ闊ｬ諤ｧ縺ｫ荵上＠縺・上→縺吶ｋ隱､謖・遭・亥ｮ滉ｾ具ｼ挾an de metal・磯≡螻樒ｮ費ｼ峨・繧ｹ繝壹う繝ｳ隱樒ｾ手｡鍋畑隱槭→縺励※讓呎ｺ悶よ欠鞫伜・縺ｮ隱､繧奇ｼ・  繝ｻ[B9] 螳滓ｸｬ縺ｧ豎ｺ繧√◆陦ｨ險俶婿驥昴↓蜿阪☆繧区署譯茨ｼ・n 縺ｫ繝槭け繝ｭ繝ｳ繧定ｶｳ縺帷ｭ会ｼ会ｼ郁｡ｨ險俶婿驥昴・繧ｵ繧､繝亥・菴薙・繧ｳ繝ｼ繝代せ螳滓ｸｬ縺ｧ遒ｺ螳壽ｸ医∩縲・蜷阪□縺大､峨∴繧九→蜑ｲ繧後ｋ・・  繝ｻ[B10] 迴ｾ蝨ｨ蠖｢縺ｮ隧募愛險倩ｿｰ・・s known/es conocido/bekannt ist/se conservan 遲会ｼ峨ｒ驕主悉蠖｢縺ｫ縺帙ｈ縺ｨ縺・≧謖・遭・亥ｭ伜多縺ｧ縺ｪ縺・ｽ懷ｮｶ縺ｧ繧ゅ∫樟蝨ｨ繧らｶ壹￥隧穂ｾ｡繝ｻ蜿手鳩迥ｶ諷九・迴ｾ蝨ｨ蠖｢縺梧ｭ｣縺励￥縲√し繧､繝亥・菴薙・諷｣鄙偵〒繧ゅ≠繧九・蜷阪□縺大､峨∴繧九→蜑ｲ繧後ｋ・育ｬｬ6萓ｿ・拌raki-jippo繝ｻasada-takashi繝ｻarishima-ikuma 縺ｧ險・莉ｶ譽・唆・会ｼ・
+笘・％縺薙↓辟｡縺・ｪ槭・蜿ｰ蟶ｳ縺ｫ辟｡縺・ｪ槭〒縺吶ょ享謇九↓險ｳ隱槭ｒ豎ｺ繧√★縲∝愛譁ｭ縺瑚ｦ√ｋ繧ゅ・縺ｯ莠ｺ縺ｫ蝗槭＠縺ｦ縺上□縺輔＞縲・
+縲先園螻槫屮菴薙・  譌･譛ｬ隱橸ｼ夊ｵｰ豕･遉ｾ
+  繧ｹ繝壹う繝ｳ隱橸ｼ售ﾅ硬eisha
+縲仙粥邵ｾ縲・  譌･譛ｬ隱橸ｼ壼虚諢溘→繝ｦ繝ｼ繝｢繧｢縺ｮ髯ｶ繧ｪ繝悶ず繧ｧ繧堤函繧薙□髯ｶ闃ｸ螳ｶ縲ゅ翫ず繝｣繧ｺ縺ｮ繝ｪ繧ｺ繝縲九↑縺ｩ縺ｧ縺ｯ縲√・縺倥ｌ霍ｳ縺ｭ繧九ｈ縺・↑霄榊虚逧・↑蠖｢縺ｨ縲・♀縺ｳ蠢・・縺ゅｋ讒区・縺ｫ豕ｨ逶ｮ縺吶ｋ縺ｨ縲・㍾縲・＠縺・蠖｢縺ｨ縺ｯ逡ｰ縺ｪ繧翫・浹讌ｽ繧・・蟶ゅ・豢ｻ豌励ｒ蝨溘↓蜀吶＠縺ｨ繧翫∬ｦ九ｋ莠ｺ繧呈･ｽ縺励∪縺帙ｋ霆ｽ繧・°縺輔ｒ髯ｶ縺ｧ陦ｨ縺昴≧縺ｨ縺励◆諢溯ｦ壹′諢溘§繧峨ｌ繧九・  繧ｹ繝壹う繝ｳ隱橸ｼ哥ue un ceramista que creﾃｳ objetos cerﾃ｡micos llenos de movimiento y humor. En obras como Jazu no Rizumu (Ritmo del jazz), atender a las formas dinﾃ｡micas que parecen retorcerse y saltar y a la composiciﾃｳn desenfadada revela una sensibilidad muy distinta de la escultura pesada: una que transcribﾃｭa a la arcilla la vitalidad de la mﾃｺsica y de la ciudad y buscaba dar a la forma cerﾃ｡mica una ligereza que deleita al espectador.
+縲千払豁ｴ縲・  譌･譛ｬ隱橸ｼ夂・蛟蛾・翠縺ｯ縲∽ｺｬ驛ｽ縺ｫ逕溘∪繧後◆髯ｶ闃ｸ螳ｶ縲ょ燕陦幃匕闃ｸ縺ｮ繧ｰ繝ｫ繝ｼ繝励瑚ｵｰ豕･遉ｾ縲阪↓蜉繧上ｊ縲∝勣縺ｮ譫繧偵％縺医◆髯ｶ縺ｮ繧ｪ繝悶ず繧ｧ繧貞宛菴懊＠縺溘ゅず繝｣繧ｺ繧・・蟶ゅ・豢ｻ豌励↓逹諠ｳ縺励∝虚縺阪→繝ｦ繝ｼ繝｢繧｢繧偵◆縺溘∴縺溘∬ｻｽ繧・°縺ｧ驕翫・蠢・≠繧矩蠖｢縺ｧ遏･繧峨ｌ繧九よ姶蠕後・蜑崎｡幃匕闃ｸ縺ｫ迢ｬ閾ｪ縺ｮ譏弱ｋ縺輔ｒ蜉縺医◆荳莠ｺ縺ｨ縺輔ｌ繧九・  繧ｹ繝壹う繝ｳ隱橸ｼ哮umakura Junkichi fue un ceramista nacido en Kioto. Se uniﾃｳ a Sﾅ硬eisha, un grupo de cerﾃ｡mica de vanguardia, y produjo objetos cerﾃ｡micos que iban mﾃ｡s allﾃ｡ del marco del recipiente. Inspirado por el jazz y por la vitalidad de la ciudad, se le conoce por formas ligeras y desenfadadas, llenas de movimiento y humor. Se le considera uno de quienes aportaron una luminosidad propia a la cerﾃ｡mica de vanguardia de posguerra.
+縲蝉ｸ險邏ｹ莉九・  譌･譛ｬ隱橸ｼ壼虚諢溘→繝ｦ繝ｼ繝｢繧｢縺ｮ髯ｶ繧ｪ繝悶ず繧ｧ繧堤函繧薙□菴懷ｮｶ
+  繧ｹ繝壹う繝ｳ隱橸ｼ啅n artista que creﾃｳ objetos cerﾃ｡micos llenos de movimiento y humor
+谺｡縺ｮ隕ｳ轤ｹ縺縺代ｒ隕九※縺上□縺輔＞縲や・繧ｹ繝壹う繝ｳ隱樔ｻ･螟悶・險隱槭・縺薙→縺ｯ譖ｸ縺九↑縺・〒縺上□縺輔＞縲・
+(1) 蜷後§隱槭′譁・ｸｭ縺ｧ荳咲ｵｱ荳縺ｫ險ｳ縺輔ｌ縺ｦ縺・↑縺・°縲・(2) 縺昴・險隱槭→縺励※荳崎・辟ｶ縺ｪ險縺・屓縺励・譁・ｳ輔・隱､繧奇ｼ域凾蛻ｶ繝ｻ諤ｧ繝ｻ謨ｰ繝ｻ蜀隧橸ｼ峨′縺ｪ縺・°縲・(3) 隱､險ｳ繝ｻ隱槭・蜿悶ｊ驕輔∴・井ｺｺ蜷阪・蝨ｰ蜷阪・菴懷刀蜷阪・謚豕募錐繝ｻ蟷ｴ蜿ｷ・峨′縺ｪ縺・°縲・(4) 譌･譛ｬ隱槭↓縺ゅｋ莠句ｮ溘′關ｽ縺｡縺ｦ縺・↑縺・°縲ゅ≠繧後・菴輔′關ｽ縺｡縺溘°縲・(5) 譌･譛ｬ隱槭↓辟｡縺・ｺ句ｮ溘・隧穂ｾ｡縺瑚ｶｳ縺輔ｌ縺ｦ縺・↑縺・°縲ゅ≠繧後・隧ｲ蠖鍋ｮ・園繧貞ｼ慕畑縲・
+笘・欠鞫倥′辟｡縺代ｌ縺ｰ縲梧欠鞫倥↑縺励阪→縺縺第嶌縺・※縺上□縺輔＞縲ら┌逅・↓謖・遭繧剃ｽ懊ｉ縺ｪ縺・〒縺上□縺輔＞縲・謖・遭縺後≠繧九ｂ縺ｮ縺縺代√梧ｬ・ｼ剰ｩｲ蠖鍋ｮ・園・丈ｽ輔′蝠城｡後°・上←縺・峩縺吶°縲阪・4轤ｹ繧堤洒縺乗嶌縺・※縺上□縺輔＞縲・笘・ｩｲ蠖鍋ｮ・園縺ｯ縲∬ｨｳ譁・°繧・*縺昴・縺ｾ縺ｾ謚懊″蜃ｺ縺励◆譁・ｭ怜・**繧貞ｼ慕畑隨ｦ縺ｧ蝗ｲ繧薙〒譖ｸ縺・※縺上□縺輔＞・郁ｨ縺・鋤縺医↑縺・〒縺上□縺輔＞・峨・譌･譛ｬ隱槭〒遲斐∴縺ｦ縺上□縺輔＞縲
+OpenAI Codex v0.144.1
+--------
+workdir: C:\Users\ataga\AppData\Local\Temp\claude\C--Users-ataga-Desktop----------\8b0a45e4-b676-476c-be8e-81d9fc203d98\scratchpad\bin21
+model: gpt-5.6-sol
+provider: openai
+approval: never
+sandbox: read-only
+reasoning effort: none
+reasoning summaries: none
+session id: 019fef12-5f19-7f71-a323-1a2d45d429ce
+--------
+user
+縺ゅ↑縺溘・繧ｹ繝壹う繝ｳ隱槭・繝阪う繝・ぅ繝也ｷｨ髮・・〒縲∵律譛ｬ霑台ｻ｣鄒手｡薙↓隧ｳ縺励＞譁ｹ縺ｧ縺吶・鄒手｡馴､ｨ繧ｵ繧､繝医・菴懷ｮｶ邏ｹ莉区枚・育・隹ｷ 螳井ｸ縺輔∪・峨↓縺､縺・※縲∵律譛ｬ隱槭ｒ蜴滓枚縺ｨ縺励√せ繝壹う繝ｳ隱槭・險ｳ譁・□縺代ｒ譬｡髢ｲ縺励※縺上□縺輔＞縲・
+笘・％縺ｮ鄒手｡馴､ｨ縺ｮ豎ｺ縺ｾ繧翫＃縺ｨ・亥ｮ医▲縺ｦ縺上□縺輔＞・会ｼ・繝ｻ菴懷ｮｶ繧貞ｺ丞・縺･縺代ｋ隱橸ｼ育ｬｬ荳莠ｺ閠・・蟾ｨ蛹繝ｻ譛鬮伜ｳｰ繝ｻ莉｣陦ｨ譬ｼ 遲会ｼ峨・菴ｿ繧上↑縺・ょ次譁・↓辟｡縺・ｩ穂ｾ｡繧定ｶｳ縺輔↑縺・・繝ｻ蜴滓枚縺ｫ辟｡縺・ｺ句ｮ滂ｼ亥女雉槭・蜿手鳩繝ｻ蟷ｴ蜿ｷ繝ｻ閧ｩ譖ｸ縺搾ｼ峨ｒ雜ｳ縺輔↑縺・ょ次譁・↓縺ゅｋ莠句ｮ溘ｒ關ｽ縺ｨ縺輔↑縺・・繝ｻ縲悟ｽｫ蛻ｻ螳ｶ縲咲ｭ峨・閧ｩ譖ｸ縺阪→縲∝・驥主錐・亥ｽｫ蛻ｻ縺ｨ縺・≧繧ｸ繝｣繝ｳ繝ｫ・峨ｒ豺ｷ蜷後＠縺ｪ縺・・繝ｻ謨・ｺｺ縺ｮ譁ｹ縺ｯ驕主悉蠖｢縺ｧ譖ｸ縺上・
+縲千畑隱槭・謖・ｮ夲ｼ医せ繝壹う繝ｳ隱橸ｼ峨鯛・縺薙・菴懷ｮｶ縺ｮ譛ｬ譁・↓螳滄圀縺ｫ蜃ｺ縺ｦ縺上ｋ隱槭□縺代ｒ霈峨○縺ｦ縺・∪縺吶・
+笆 蜻ｼ遘ｰ・亥床蟶ｳ縺梧ｭ｣縲ゅ％縺薙↓縺ゅｋ隱槭・蠢・★縺薙・險ｳ繧剃ｽｿ縺・ｼ・  繝ｻ豢狗判螳ｶ 竊・Pintor de estilo occidental
+  繝ｻ逕ｻ螳ｶ 竊・Pintor
+  ・域里蟄倥・蛻､螳夲ｼ晉塙諤ｧ縲や・譛ｬ譁・〒遒ｺ縺九ａ縺ｦ縺九ｉ菴ｿ縺｣縺ｦ縺上□縺輔＞・・
+笆 逶ｴ縺励※繧医＞蝙具ｼ・莉ｶ・・  繝ｻ[A3] 蜈ｨ隗堤ｩｺ逋ｽ繝ｻ蜈ｨ隗堤ｴ・黄・茨ｼ茨ｼ峨後阪√ゑｼ峨・谿句ｭ・竊・蜊願ｧ偵∈
+  繝ｻ[A4] 蝙・・晏粥邵ｾ(viewpoint)縺ｾ縺溘・逡･豁ｴ(bio)縺ｮ1譁・岼縺悟・隧槭〒蟋九∪繧句虚隧槭・縺ｪ縺・妙迚・竊・荳ｻ隱橸ｼ誼e蜍戊ｩ槭ｒ陬懊≧・・e was a・終l ﾃｩtait un・洲ue un・拾r war ein・丈ｻ匁弍繝ｻ螂ｹ譏ｯ・上懍擽・､・峨ら塙螂ｳ縺ｯ譛ｬ譁・・莉｣蜷崎ｩ槭〒蛻､螳・  繝ｻ[A9] 譏ｯ豁｣菴懈･ｭ縺檎函繧薙□讖滓｢ｰ逧・↑蛯ｷ・井ｺ碁㍾遨ｺ逋ｽ繝ｻ驥崎､・唱隱ｭ轤ｹ・・竊・豁｣隕丞喧
+  繝ｻ[A13] 譁・ｳ輔・譏守區縺ｪ隱､繧奇ｼ域ｧ繝ｻ譬ｼ繝ｻ荳閾ｴ繝ｻ蜀隧槭・豢ｻ逕ｨ・・竊・縺昴・險隱槭・豁｣縺励＞蠖｢縺ｸ逶ｴ縺吶や・縺溘□縺励後し繧､繝亥・縺ｮ莉悶・菴懷ｮｶ縺後←縺・嶌縺・※縺・ｋ縺九阪ｒ蜈医↓螳滓ｸｬ縺励∝ｮ壼梛縺後≠繧後・螳壼梛縺ｫ蜷医ｏ縺帙ｋ
+  繝ｻ[A18] 笘・枚縺ｮ蛻・牡蜃ｦ逅・′螢翫＠縺滓枚・育峡隱槭・縲梧律.縲阪ｒ譁・忰縺ｨ隱､隱阪＠縺ｦ蜍戊ｩ槭′譌･莉倥・騾比ｸｭ縺ｫ蜈･繧具ｼ・竊・蜈・・1譁・↓蠕ｩ蜈・☆繧九ゆｾ具ｼ昴詣urde am 6 geboren. Februar 1899 in der Stadt Fukuoka縲坂・縲詣urde am 6. Februar 1899 in der Stadt Fukuoka geboren縲・
+笆 笘・峩縺励※縺ｯ縺・￠縺ｪ縺・梛・・莉ｶ・会ｼ晄欠鞫倥＆繧後※繧よ治繧峨↑縺・  繝ｻ[B1] 蝗ｺ譛牙錐隧槭・譖ｸ縺肴婿縺ｸ縺ｮ謖・遭・昜ｺｺ蜷阪・菴懷ｮｶ蜷阪・鄒手｡馴､ｨ蜷阪・髮題ｪ悟錐繝ｻ菴懷刀蜷阪・蟄ｦ驛ｨ蜷阪・蝗｣菴灘錐縺ｮ陦ｨ險假ｼ上Ο繝ｼ繝槫ｭ怜喧・城聞髻ｳ險伜捷・剰ｨｳ蜷榊喧・郁ｪｭ縺ｿ繝ｻ豁｣蠑丞錐縺ｮ遒ｺ隱阪′隕√ｋ・昜ｺ句ｮ溘・譁ｭ螳壹りｪｭ縺ｿ譛ｪ遒ｺ隱阪・莠ｺ蜷搾ｼ郁廠逕ｰ螳乗ｲｻ繝ｻ蜷崎ｶ願ｩ泌昇・峨・繝ｪ繧ｵ繝ｼ繝ゝ辣ｧ莨壻ｸｭ・・  繝ｻ[B2] 縲手ｨｳ蜷搾ｼ亥次蜷・ 繝ｭ繝ｼ繝槫ｭ暦ｼ峨上・菴ｵ險伜ｽ｢縺後守焚迚ｩ繝ｻ譛ｪ蜃ｦ逅・上□縺ｨ縺・≧謖・遭・域枚菴灘渕貅悶・豁｣縺励＞蠖｢・亥ｮ夊ｨｳ縺ｪ縺苓ｪ橸ｼ昴Ο繝ｼ繝槫ｭ暦ｼ玖ｪｬ譏弱・蜴溷錐縺ｯ谿九☆・峨ら峡隱・05谺・・螳滓ｸｬ・昴☆縺ｹ縺ｦ縺薙・蠖｢縺ｧ豁｣縺励°縺｣縺滂ｼ・  繝ｻ[B3] 菴懷ｮｶ譛ｬ莠ｺ縺ｮ縺薙→縺ｰ・・essage谺・ｼ峨・豈泌湊繝ｻ逾医ｊ縺後主､ｧ縺偵＆繝ｻ陬・｣ｾ驕主臆縲上□縺ｨ縺・≧謖・遭・亥､ｧ縺偵＆縺ｪ縺ｮ縺ｯ蜴滓枚縺ｧ縺ゅ▲縺ｦ險ｳ縺ｧ縺ｯ縺ｪ縺・ょｹｳ譚ｿ蛹悶☆繧九→譛ｬ莠ｺ縺ｮ螢ｰ縺梧ｶ医∴繧具ｼ医後・縺ｨ縺吶§縺ｮ諢帙・蜈峨搾ｼ・騾壹ｊ險ｳ縺励※蜈ｨ驛ｨ蜷後§謖・遭縺御ｻ倥＞縺滂ｼ会ｼ・  繝ｻ[B4] 邏譚舌・謚豕輔・隱橸ｼ亥ｽｩ濶ｲ繝ｻ邂斐・驥峨・繝偵ヮ繧ｭ菴ｵ險倡ｭ会ｼ峨′縲取尠譏ｧ繝ｻ霎樊嶌逧・上□縺ｨ縺・≧謖・遭・亥次譁・・莠句ｮ溘ょ・菴灘喧縺ｯ莠句ｮ溘・譁ｭ螳壹↓縺ｪ繧具ｼ・  繝ｻ[B5] 閧ｩ譖ｸ縺搾ｼ・ole・峨・隱槭・驕ｸ謚槭∈縺ｮ謖・遭・・anshou_dict 縺梧ｭ｣・・culptural Artist 縺ｯ蜿ｰ蟶ｳ縺ｫ縲手・遘ｰ繧定ｸ剰･ｲ縲上→譏手ｨ假ｼ峨・蜷阪□縺大､峨∴繧九→繧ｵ繧､繝医′蜑ｲ繧後ｋ・・  繝ｻ[B7] 荳險邏ｹ莉九・荳ｦ蛻玲ｧ矩・域嶌蜷咲罰譚･・峨∈縺ｮ謖・遭・域律譛ｬ隱槫次譁・・菴懷刀髮・・譖ｸ蜷阪↓逕ｱ譚･・・n 縺ｯ蜈ｬ蠑剰恭鬘後→荳閾ｴ・会ｼ・  繝ｻ[B8] 讓呎ｺ也噪縺ｪ陦楢ｪ槭ｒ縲惹ｸ闊ｬ諤ｧ縺ｫ荵上＠縺・上→縺吶ｋ隱､謖・遭・亥ｮ滉ｾ具ｼ挾an de metal・磯≡螻樒ｮ費ｼ峨・繧ｹ繝壹う繝ｳ隱樒ｾ手｡鍋畑隱槭→縺励※讓呎ｺ悶よ欠鞫伜・縺ｮ隱､繧奇ｼ・  繝ｻ[B9] 螳滓ｸｬ縺ｧ豎ｺ繧√◆陦ｨ險俶婿驥昴↓蜿阪☆繧区署譯茨ｼ・n 縺ｫ繝槭け繝ｭ繝ｳ繧定ｶｳ縺帷ｭ会ｼ会ｼ郁｡ｨ險俶婿驥昴・繧ｵ繧､繝亥・菴薙・繧ｳ繝ｼ繝代せ螳滓ｸｬ縺ｧ遒ｺ螳壽ｸ医∩縲・蜷阪□縺大､峨∴繧九→蜑ｲ繧後ｋ・・  繝ｻ[B10] 迴ｾ蝨ｨ蠖｢縺ｮ隧募愛險倩ｿｰ・・s known/es conocido/bekannt ist/se conservan 遲会ｼ峨ｒ驕主悉蠖｢縺ｫ縺帙ｈ縺ｨ縺・≧謖・遭・亥ｭ伜多縺ｧ縺ｪ縺・ｽ懷ｮｶ縺ｧ繧ゅ∫樟蝨ｨ繧らｶ壹￥隧穂ｾ｡繝ｻ蜿手鳩迥ｶ諷九・迴ｾ蝨ｨ蠖｢縺梧ｭ｣縺励￥縲√し繧､繝亥・菴薙・諷｣鄙偵〒繧ゅ≠繧九・蜷阪□縺大､峨∴繧九→蜑ｲ繧後ｋ・育ｬｬ6萓ｿ・拌raki-jippo繝ｻasada-takashi繝ｻarishima-ikuma 縺ｧ險・莉ｶ譽・唆・会ｼ・
+笘・％縺薙↓辟｡縺・ｪ槭・蜿ｰ蟶ｳ縺ｫ辟｡縺・ｪ槭〒縺吶ょ享謇九↓險ｳ隱槭ｒ豎ｺ繧√★縲∝愛譁ｭ縺瑚ｦ√ｋ繧ゅ・縺ｯ莠ｺ縺ｫ蝗槭＠縺ｦ縺上□縺輔＞縲・
+縲蝉ｸ險邏ｹ莉九・  譌･譛ｬ隱橸ｼ壽・蠢ｫ縺ｪ霈ｪ驛ｭ縺ｨ蟷ｳ髱｢逧・↑濶ｲ縺ｧ謠上＞縺滓ｴ狗判螳ｶ
+  繧ｹ繝壹う繝ｳ隱橸ｼ啅n pintor de estilo occidental que trabajﾃｳ con contornos nﾃｭtidos y colores planos
+縲千払豁ｴ縲・  譌･譛ｬ隱橸ｼ夂・隹ｷ螳井ｸ縺ｯ縲∝ｲ宣・逵御ｻ倡衍縺ｫ逕溘∪繧後◆豢狗判螳ｶ縲よ擲莠ｬ鄒手｡灘ｭｦ譬｡縺ｫ蟄ｦ繧薙□縲ょ・譛溘・證励＞濶ｲ隱ｿ縺九ｉ縲√ヵ繧ｩ繝ｼ繝薙せ繝鬚ｨ縺ｮ陦ｨ迴ｾ繧偵∈縺ｦ縲∵勦蟷ｴ縺ｫ縺ｯ縲∝ｯｾ雎｡繧呈・蠢ｫ縺ｪ霈ｪ驛ｭ邱壹→蟷ｳ繧峨↑濶ｲ髱｢縺ｫ蜊倡ｴ泌喧縺励◆迢ｬ閾ｪ縺ｮ讒伜ｼ上↓驕斐＠縺溘りｺｫ霑代↑闃ｱ繧・勠縲∫賢縺ｪ縺ｩ繧貞･ｽ繧薙〒謠上＞縺溘る聞縺剰・螳・・蠎ｭ繧堤惻繧√※驕弱＃縺励√檎判螢・・莉吩ｺｺ縲阪→繧ょ他縺ｰ繧後◆縲・967蟷ｴ縺ｫ縺ｯ縲後％繧御ｻ･荳贋ｺｺ縺瑚ｨｪ縺ｭ縺ｦ譚･縺ｦ縺ｯ蝗ｰ繧九阪→縺励※譁・喧蜍ｲ遶繧定ｾ樣縺励◆縲・7豁ｳ縺ｾ縺ｧ謠上″邯壹￠縺溘・  繧ｹ繝壹う繝ｳ隱橸ｼ哺orikazu Kumagai fue un pintor de estilo occidental nacido en Tsukechi, prefectura de Gifu, que estudiﾃｳ en la Escuela de Bellas Artes de Tokio. Pasando de los tonos oscuros de sus inicios por una manera de expresiﾃｳn fauvista, en sus ﾃｺltimos aﾃｱos alcanzﾃｳ un estilo propio que simplificaba sus temas en contornos nﾃｭtidos y planos de color. Le gustaba pintar flores, insectos y gatos cercanos. Pasﾃｳ largos aﾃｱos contemplando el jardﾃｭn de su casa y fue llamado ﾂｫel ermitaﾃｱo del mundo del arteﾂｻ. En 1967 rechazﾃｳ la Orden de la Cultura, alegando que le incomodarﾃｭa que aﾃｺn mﾃ｡s personas vinieran a visitarlo. Siguiﾃｳ pintando hasta los noventa y siete aﾃｱos.
+縲仙粥邵ｾ縲・  譌･譛ｬ隱橸ｼ壽勦蟷ｴ縺ｫ縲∝ｯｾ雎｡繧貞腰邏斐↑蠖｢縺ｨ蟷ｳ繧峨↑濶ｲ縺ｫ驍・・縺吶ｋ迢ｬ閾ｪ縺ｮ讒伜ｼ上ｒ遽峨＞縺滓ｴ狗判螳ｶ縲ら賢繧・干繧呈緒縺・◆菴懷刀縺ｧ縺ｯ縲∝､ｪ縺乗・蠢ｫ縺ｪ霈ｪ驛ｭ邱壹→縲∝ｹｳ髱｢逧・↓蝪励ｉ繧後◆濶ｲ髱｢縺ｫ豕ｨ逶ｮ縺吶ｋ縺ｨ縲√ｂ縺ｮ縺ｮ譛ｬ雉ｪ縺縺代ｒ谿九◎縺・→縺励◆縲√♀縺翫ｉ縺九〒貔・ｓ縺蠅・慍縺梧─縺倥ｉ繧後ｋ縲・  繧ｹ繝壹う繝ｳ隱橸ｼ哥ue un pintor de estilo occidental que en sus ﾃｺltimos aﾃｱos elaborﾃｳ un estilo propio que reducﾃｭa sus temas a formas simples y colores planos. En sus cuadros de gatos y flores, atender a los contornos gruesos y nﾃｭtidos y a los planos de color aplicados llanamente transmite un estado de ﾃ｡nimo generoso y lﾃｭmpido, empeﾃｱado en retener solo la esencia de las cosas.
+縲先園螻槫屮菴薙・  譌･譛ｬ隱橸ｼ壻ｺ檎ｧ台ｼ・  繧ｹ繝壹う繝ｳ隱橸ｼ哂sociaciﾃｳn Nika
+谺｡縺ｮ隕ｳ轤ｹ縺縺代ｒ隕九※縺上□縺輔＞縲や・繧ｹ繝壹う繝ｳ隱樔ｻ･螟悶・險隱槭・縺薙→縺ｯ譖ｸ縺九↑縺・〒縺上□縺輔＞縲・
+(1) 譌･譛ｬ隱槭↓辟｡縺・ｺ句ｮ溘・隧穂ｾ｡縺瑚ｶｳ縺輔ｌ縺ｦ縺・↑縺・°縲ゅ≠繧後・隧ｲ蠖鍋ｮ・園繧貞ｼ慕畑縲・(2) 譌･譛ｬ隱槭↓縺ゅｋ莠句ｮ溘′關ｽ縺｡縺ｦ縺・↑縺・°縲ゅ≠繧後・菴輔′關ｽ縺｡縺溘°縲・(3) 隱､險ｳ繝ｻ隱槭・蜿悶ｊ驕輔∴・井ｺｺ蜷阪・蝨ｰ蜷阪・菴懷刀蜷阪・謚豕募錐繝ｻ蟷ｴ蜿ｷ・峨′縺ｪ縺・°縲・(4) 縺昴・險隱槭→縺励※荳崎・辟ｶ縺ｪ險縺・屓縺励・譁・ｳ輔・隱､繧奇ｼ域凾蛻ｶ繝ｻ諤ｧ繝ｻ謨ｰ繝ｻ蜀隧橸ｼ峨′縺ｪ縺・°縲・(5) 蜷後§隱槭′譁・ｸｭ縺ｧ荳咲ｵｱ荳縺ｫ險ｳ縺輔ｌ縺ｦ縺・↑縺・°縲・
+笘・欠鞫倥′辟｡縺代ｌ縺ｰ縲梧欠鞫倥↑縺励阪→縺縺第嶌縺・※縺上□縺輔＞縲ら┌逅・↓謖・遭繧剃ｽ懊ｉ縺ｪ縺・〒縺上□縺輔＞縲・謖・遭縺後≠繧九ｂ縺ｮ縺縺代√梧ｬ・ｼ剰ｩｲ蠖鍋ｮ・園・丈ｽ輔′蝠城｡後°・上←縺・峩縺吶°縲阪・4轤ｹ繧堤洒縺乗嶌縺・※縺上□縺輔＞縲・笘・ｩｲ蠖鍋ｮ・園縺ｯ縲∬ｨｳ譁・°繧・*縺昴・縺ｾ縺ｾ謚懊″蜃ｺ縺励◆譁・ｭ怜・**繧貞ｼ慕畑隨ｦ縺ｧ蝗ｲ繧薙〒譖ｸ縺・※縺上□縺輔＞・郁ｨ縺・鋤縺医↑縺・〒縺上□縺輔＞・峨・譌･譛ｬ隱槭〒遲斐∴縺ｦ縺上□縺輔＞縲・codex
+- 逡･豁ｴ・上掲lores, insectos y gatos cercanos縲搾ｼ上瑚ｺｫ霑代↑縲阪・迚ｩ逅・噪縺ｫ霑代￥縺ｫ縺・ｋ縺ｨ縺・≧諢丞袖縺ｧ縺ｯ縺ｪ縺上∵律蟶ｸ逧・↓霄ｫ霑代↑鬘梧攝繧呈欠縺吶ゅ携atos cercanos縲阪・荳崎・辟ｶ縺ｧ諢丞袖縺後★繧後ｋ・上掲lores, insectos y gatos de su entorno cotidiano縲阪→縺吶ｋ縲・
+- 逡･豁ｴ・上訓asﾃｳ largos aﾃｱos contemplando el jardﾃｭn de su casa縲搾ｼ上碁聞縺上阪ｒ縲御ｽ募ｹｴ繧ゅ・髢薙阪→蜈ｷ菴灘喧縺励※縺翫ｊ縲∝次譁・↓縺ｪ縺・悄髢薙・隗｣驥医′蜉繧上▲縺ｦ縺・ｋ・上訓asﾃｳ mucho tiempo contemplando el jardﾃｭn de su casa縲阪→縺吶ｋ縲・
+- 蜉溽ｸｾ・上径tender a los contornos gruesos y nﾃｭtidos y a los planos de color aplicados llanamente transmite un estado de ﾃ｡nimo generoso y lﾃｭmpido縲搾ｼ上径plicados llanamente縲阪・繧ｹ繝壹う繝ｳ隱槭→縺励※荳崎・辟ｶ縲ゅ∪縺溘√瑚ｼｪ驛ｭ邱壹→濶ｲ髱｢縺ｫ豕ｨ逶ｮ縺吶ｋ縺ｨ縲∝｢・慍縺梧─縺倥ｉ繧後ｋ縲阪→縺・≧髢｢菫ゅ′縲√梧ｳｨ逶ｮ縺吶ｋ縺薙→縺梧ｰ怜・繧剃ｼ昴∴繧九阪→縺・≧荳崎・辟ｶ縺ｪ讒区枚縺ｫ縺ｪ縺｣縺ｦ縺・ｋ・上径l fijarse en los contornos gruesos y nﾃｭtidos y en los planos de color aplicados de manera plana, se percibe un estado de serenidad amplio y diﾃ｡fano縲阪→縺吶ｋ縲・tokens used
+3,865
+- 逡･豁ｴ・上掲lores, insectos y gatos cercanos縲搾ｼ上瑚ｺｫ霑代↑縲阪・迚ｩ逅・噪縺ｫ霑代￥縺ｫ縺・ｋ縺ｨ縺・≧諢丞袖縺ｧ縺ｯ縺ｪ縺上∵律蟶ｸ逧・↓霄ｫ霑代↑鬘梧攝繧呈欠縺吶ゅ携atos cercanos縲阪・荳崎・辟ｶ縺ｧ諢丞袖縺後★繧後ｋ・上掲lores, insectos y gatos de su entorno cotidiano縲阪→縺吶ｋ縲・
+- 逡･豁ｴ・上訓asﾃｳ largos aﾃｱos contemplando el jardﾃｭn de su casa縲搾ｼ上碁聞縺上阪ｒ縲御ｽ募ｹｴ繧ゅ・髢薙阪→蜈ｷ菴灘喧縺励※縺翫ｊ縲∝次譁・↓縺ｪ縺・悄髢薙・隗｣驥医′蜉繧上▲縺ｦ縺・ｋ・上訓asﾃｳ mucho tiempo contemplando el jardﾃｭn de su casa縲阪→縺吶ｋ縲・
+- 蜉溽ｸｾ・上径tender a los contornos gruesos y nﾃｭtidos y a los planos de color aplicados llanamente transmite un estado de ﾃ｡nimo generoso y lﾃｭmpido縲搾ｼ上径plicados llanamente縲阪・繧ｹ繝壹う繝ｳ隱槭→縺励※荳崎・辟ｶ縲ゅ∪縺溘√瑚ｼｪ驛ｭ邱壹→濶ｲ髱｢縺ｫ豕ｨ逶ｮ縺吶ｋ縺ｨ縲∝｢・慍縺梧─縺倥ｉ繧後ｋ縲阪→縺・≧髢｢菫ゅ′縲√梧ｳｨ逶ｮ縺吶ｋ縺薙→縺梧ｰ怜・繧剃ｼ昴∴繧九阪→縺・≧荳崎・辟ｶ縺ｪ讒区枚縺ｫ縺ｪ縺｣縺ｦ縺・ｋ・上径l fijarse en los contornos gruesos y nﾃｭtidos y en los planos de color aplicados de manera plana, se percibe un estado de serenidad amplio y diﾃ｡fano縲阪→縺吶ｋ縲・
+OpenAI Codex v0.144.1
+--------
+workdir: C:\Users\ataga\AppData\Local\Temp\claude\C--Users-ataga-Desktop----------\8b0a45e4-b676-476c-be8e-81d9fc203d98\scratchpad\bin21
+model: gpt-5.6-sol
+provider: openai
+approval: never
+sandbox: read-only
+reasoning effort: none
+reasoning summaries: none
+session id: 019fef12-cd7c-78f2-868f-8c2086a1d8cb
+--------
+user
+縺ゅ↑縺溘・繧ｹ繝壹う繝ｳ隱槭・繝阪う繝・ぅ繝也ｷｨ髮・・〒縲∵律譛ｬ霑台ｻ｣鄒手｡薙↓隧ｳ縺励＞譁ｹ縺ｧ縺吶・鄒手｡馴､ｨ繧ｵ繧､繝医・菴懷ｮｶ邏ｹ莉区枚・井ｹ・ｱｳ 譯ゆｸ驛弱＆縺ｾ・峨↓縺､縺・※縲∵律譛ｬ隱槭ｒ蜴滓枚縺ｨ縺励√せ繝壹う繝ｳ隱槭・險ｳ譁・□縺代ｒ譬｡髢ｲ縺励※縺上□縺輔＞縲・
+笘・％縺ｮ鄒手｡馴､ｨ縺ｮ豎ｺ縺ｾ繧翫＃縺ｨ・亥ｮ医▲縺ｦ縺上□縺輔＞・会ｼ・繝ｻ菴懷ｮｶ繧貞ｺ丞・縺･縺代ｋ隱橸ｼ育ｬｬ荳莠ｺ閠・・蟾ｨ蛹繝ｻ譛鬮伜ｳｰ繝ｻ莉｣陦ｨ譬ｼ 遲会ｼ峨・菴ｿ繧上↑縺・ょ次譁・↓辟｡縺・ｩ穂ｾ｡繧定ｶｳ縺輔↑縺・・繝ｻ蜴滓枚縺ｫ辟｡縺・ｺ句ｮ滂ｼ亥女雉槭・蜿手鳩繝ｻ蟷ｴ蜿ｷ繝ｻ閧ｩ譖ｸ縺搾ｼ峨ｒ雜ｳ縺輔↑縺・ょ次譁・↓縺ゅｋ莠句ｮ溘ｒ關ｽ縺ｨ縺輔↑縺・・繝ｻ縲悟ｽｫ蛻ｻ螳ｶ縲咲ｭ峨・閧ｩ譖ｸ縺阪→縲∝・驥主錐・亥ｽｫ蛻ｻ縺ｨ縺・≧繧ｸ繝｣繝ｳ繝ｫ・峨ｒ豺ｷ蜷後＠縺ｪ縺・・繝ｻ謨・ｺｺ縺ｮ譁ｹ縺ｯ驕主悉蠖｢縺ｧ譖ｸ縺上・
+縲千畑隱槭・謖・ｮ夲ｼ医せ繝壹う繝ｳ隱橸ｼ峨鯛・縺薙・菴懷ｮｶ縺ｮ譛ｬ譁・↓螳滄圀縺ｫ蜃ｺ縺ｦ縺上ｋ隱槭□縺代ｒ霈峨○縺ｦ縺・∪縺吶・
+笆 蜻ｼ遘ｰ・亥床蟶ｳ縺梧ｭ｣縲ゅ％縺薙↓縺ゅｋ隱槭・蠢・★縺薙・險ｳ繧剃ｽｿ縺・ｼ・  繝ｻ豢狗判螳ｶ 竊・Pintor de estilo occidental
+  繝ｻ謨呵ご閠・竊・Pedagogo
+  繝ｻ逕ｻ螳ｶ 竊・Pintor
+  繝ｻ菴懷ｮｶ 竊・Artista
+  ・域里蟄倥・蛻､螳夲ｼ晉塙諤ｧ縲や・譛ｬ譁・〒遒ｺ縺九ａ縺ｦ縺九ｉ菴ｿ縺｣縺ｦ縺上□縺輔＞・・
+笆 逶ｴ縺励※繧医＞蝙具ｼ・莉ｶ・・  繝ｻ[A3] 蜈ｨ隗堤ｩｺ逋ｽ繝ｻ蜈ｨ隗堤ｴ・黄・茨ｼ茨ｼ峨後阪√ゑｼ峨・谿句ｭ・竊・蜊願ｧ偵∈
+  繝ｻ[A4] 蝙・・晏粥邵ｾ(viewpoint)縺ｾ縺溘・逡･豁ｴ(bio)縺ｮ1譁・岼縺悟・隧槭〒蟋九∪繧句虚隧槭・縺ｪ縺・妙迚・竊・荳ｻ隱橸ｼ誼e蜍戊ｩ槭ｒ陬懊≧・・e was a・終l ﾃｩtait un・洲ue un・拾r war ein・丈ｻ匁弍繝ｻ螂ｹ譏ｯ・上懍擽・､・峨ら塙螂ｳ縺ｯ譛ｬ譁・・莉｣蜷崎ｩ槭〒蛻､螳・  繝ｻ[A9] 譏ｯ豁｣菴懈･ｭ縺檎函繧薙□讖滓｢ｰ逧・↑蛯ｷ・井ｺ碁㍾遨ｺ逋ｽ繝ｻ驥崎､・唱隱ｭ轤ｹ・・竊・豁｣隕丞喧
+  繝ｻ[A13] 譁・ｳ輔・譏守區縺ｪ隱､繧奇ｼ域ｧ繝ｻ譬ｼ繝ｻ荳閾ｴ繝ｻ蜀隧槭・豢ｻ逕ｨ・・竊・縺昴・險隱槭・豁｣縺励＞蠖｢縺ｸ逶ｴ縺吶や・縺溘□縺励後し繧､繝亥・縺ｮ莉悶・菴懷ｮｶ縺後←縺・嶌縺・※縺・ｋ縺九阪ｒ蜈医↓螳滓ｸｬ縺励∝ｮ壼梛縺後≠繧後・螳壼梛縺ｫ蜷医ｏ縺帙ｋ
+  繝ｻ[A18] 笘・枚縺ｮ蛻・牡蜃ｦ逅・′螢翫＠縺滓枚・育峡隱槭・縲梧律.縲阪ｒ譁・忰縺ｨ隱､隱阪＠縺ｦ蜍戊ｩ槭′譌･莉倥・騾比ｸｭ縺ｫ蜈･繧具ｼ・竊・蜈・・1譁・↓蠕ｩ蜈・☆繧九ゆｾ具ｼ昴詣urde am 6 geboren. Februar 1899 in der Stadt Fukuoka縲坂・縲詣urde am 6. Februar 1899 in der Stadt Fukuoka geboren縲・
+笆 笘・峩縺励※縺ｯ縺・￠縺ｪ縺・梛・・莉ｶ・会ｼ晄欠鞫倥＆繧後※繧よ治繧峨↑縺・  繝ｻ[B1] 蝗ｺ譛牙錐隧槭・譖ｸ縺肴婿縺ｸ縺ｮ謖・遭・昜ｺｺ蜷阪・菴懷ｮｶ蜷阪・鄒手｡馴､ｨ蜷阪・髮題ｪ悟錐繝ｻ菴懷刀蜷阪・蟄ｦ驛ｨ蜷阪・蝗｣菴灘錐縺ｮ陦ｨ險假ｼ上Ο繝ｼ繝槫ｭ怜喧・城聞髻ｳ險伜捷・剰ｨｳ蜷榊喧・郁ｪｭ縺ｿ繝ｻ豁｣蠑丞錐縺ｮ遒ｺ隱阪′隕√ｋ・昜ｺ句ｮ溘・譁ｭ螳壹りｪｭ縺ｿ譛ｪ遒ｺ隱阪・莠ｺ蜷搾ｼ郁廠逕ｰ螳乗ｲｻ繝ｻ蜷崎ｶ願ｩ泌昇・峨・繝ｪ繧ｵ繝ｼ繝ゝ辣ｧ莨壻ｸｭ・・  繝ｻ[B2] 縲手ｨｳ蜷搾ｼ亥次蜷・ 繝ｭ繝ｼ繝槫ｭ暦ｼ峨上・菴ｵ險伜ｽ｢縺後守焚迚ｩ繝ｻ譛ｪ蜃ｦ逅・上□縺ｨ縺・≧謖・遭・域枚菴灘渕貅悶・豁｣縺励＞蠖｢・亥ｮ夊ｨｳ縺ｪ縺苓ｪ橸ｼ昴Ο繝ｼ繝槫ｭ暦ｼ玖ｪｬ譏弱・蜴溷錐縺ｯ谿九☆・峨ら峡隱・05谺・・螳滓ｸｬ・昴☆縺ｹ縺ｦ縺薙・蠖｢縺ｧ豁｣縺励°縺｣縺滂ｼ・  繝ｻ[B3] 菴懷ｮｶ譛ｬ莠ｺ縺ｮ縺薙→縺ｰ・・essage谺・ｼ峨・豈泌湊繝ｻ逾医ｊ縺後主､ｧ縺偵＆繝ｻ陬・｣ｾ驕主臆縲上□縺ｨ縺・≧謖・遭・亥､ｧ縺偵＆縺ｪ縺ｮ縺ｯ蜴滓枚縺ｧ縺ゅ▲縺ｦ險ｳ縺ｧ縺ｯ縺ｪ縺・ょｹｳ譚ｿ蛹悶☆繧九→譛ｬ莠ｺ縺ｮ螢ｰ縺梧ｶ医∴繧具ｼ医後・縺ｨ縺吶§縺ｮ諢帙・蜈峨搾ｼ・騾壹ｊ險ｳ縺励※蜈ｨ驛ｨ蜷後§謖・遭縺御ｻ倥＞縺滂ｼ会ｼ・  繝ｻ[B4] 邏譚舌・謚豕輔・隱橸ｼ亥ｽｩ濶ｲ繝ｻ邂斐・驥峨・繝偵ヮ繧ｭ菴ｵ險倡ｭ会ｼ峨′縲取尠譏ｧ繝ｻ霎樊嶌逧・上□縺ｨ縺・≧謖・遭・亥次譁・・莠句ｮ溘ょ・菴灘喧縺ｯ莠句ｮ溘・譁ｭ螳壹↓縺ｪ繧具ｼ・  繝ｻ[B5] 閧ｩ譖ｸ縺搾ｼ・ole・峨・隱槭・驕ｸ謚槭∈縺ｮ謖・遭・・anshou_dict 縺梧ｭ｣・・culptural Artist 縺ｯ蜿ｰ蟶ｳ縺ｫ縲手・遘ｰ繧定ｸ剰･ｲ縲上→譏手ｨ假ｼ峨・蜷阪□縺大､峨∴繧九→繧ｵ繧､繝医′蜑ｲ繧後ｋ・・  繝ｻ[B7] 荳險邏ｹ莉九・荳ｦ蛻玲ｧ矩・域嶌蜷咲罰譚･・峨∈縺ｮ謖・遭・域律譛ｬ隱槫次譁・・菴懷刀髮・・譖ｸ蜷阪↓逕ｱ譚･・・n 縺ｯ蜈ｬ蠑剰恭鬘後→荳閾ｴ・会ｼ・  繝ｻ[B8] 讓呎ｺ也噪縺ｪ陦楢ｪ槭ｒ縲惹ｸ闊ｬ諤ｧ縺ｫ荵上＠縺・上→縺吶ｋ隱､謖・遭・亥ｮ滉ｾ具ｼ挾an de metal・磯≡螻樒ｮ費ｼ峨・繧ｹ繝壹う繝ｳ隱樒ｾ手｡鍋畑隱槭→縺励※讓呎ｺ悶よ欠鞫伜・縺ｮ隱､繧奇ｼ・  繝ｻ[B9] 螳滓ｸｬ縺ｧ豎ｺ繧√◆陦ｨ險俶婿驥昴↓蜿阪☆繧区署譯茨ｼ・n 縺ｫ繝槭け繝ｭ繝ｳ繧定ｶｳ縺帷ｭ会ｼ会ｼ郁｡ｨ險俶婿驥昴・繧ｵ繧､繝亥・菴薙・繧ｳ繝ｼ繝代せ螳滓ｸｬ縺ｧ遒ｺ螳壽ｸ医∩縲・蜷阪□縺大､峨∴繧九→蜑ｲ繧後ｋ・・  繝ｻ[B10] 迴ｾ蝨ｨ蠖｢縺ｮ隧募愛險倩ｿｰ・・s known/es conocido/bekannt ist/se conservan 遲会ｼ峨ｒ驕主悉蠖｢縺ｫ縺帙ｈ縺ｨ縺・≧謖・遭・亥ｭ伜多縺ｧ縺ｪ縺・ｽ懷ｮｶ縺ｧ繧ゅ∫樟蝨ｨ繧らｶ壹￥隧穂ｾ｡繝ｻ蜿手鳩迥ｶ諷九・迴ｾ蝨ｨ蠖｢縺梧ｭ｣縺励￥縲√し繧､繝亥・菴薙・諷｣鄙偵〒繧ゅ≠繧九・蜷阪□縺大､峨∴繧九→蜑ｲ繧後ｋ・育ｬｬ6萓ｿ・拌raki-jippo繝ｻasada-takashi繝ｻarishima-ikuma 縺ｧ險・莉ｶ譽・唆・会ｼ・
+笘・％縺薙↓辟｡縺・ｪ槭・蜿ｰ蟶ｳ縺ｫ辟｡縺・ｪ槭〒縺吶ょ享謇九↓險ｳ隱槭ｒ豎ｺ繧√★縲∝愛譁ｭ縺瑚ｦ√ｋ繧ゅ・縺ｯ莠ｺ縺ｫ蝗槭＠縺ｦ縺上□縺輔＞縲・
+縲蝉ｸ險邏ｹ莉九・  譌･譛ｬ隱橸ｼ夐ｻ堤伐貂・ｼ昴→縺ｨ繧ゅ↓逋ｽ鬥ｬ莨壹ｒ闊医＠縺滓ｴ狗判螳ｶ
+  繧ｹ繝壹う繝ｳ隱橸ｼ啀intor de yﾅ紅a que fundﾃｳ el Hakuba-kai junto a Kuroda Seiki
+縲千払豁ｴ縲・  譌･譛ｬ隱橸ｼ壻ｹ・ｱｳ譯ゆｸ驛弱・菴占ｳ逵後↓逕溘∪繧後◆豢狗判螳ｶ縺ｧ縺ゅｋ縲よｭｴ蜿ｲ螳ｶ繝ｻ荵・ｱｳ驍ｦ豁ｦ縺ｮ蟄舌〒縲√ヵ繝ｩ繝ｳ繧ｹ縺ｫ蟄ｦ縺ｳ縲・ｻ堤伐貂・ｼ昴→隕ｪ莠､繧堤ｵ舌ｓ縺縲ょｸｰ蝗ｽ蠕後・鮟堤伐縺ｨ縺ｨ繧ゅ↓逋ｽ鬥ｬ莨壹ｒ邨先・縺励∵ｴ狗判謨呵ご縺ｫ繧ょ鴨繧呈ｳｨ縺・□縲ゆｽ懷刀縺ｫ縺ｯ縲顔ｧ区勹縲九頑勦遘九九↑縺ｩ縺後≠繧翫・｢ｨ譎ｯ繧・ｺｺ迚ｩ繧定誠縺｡逹縺・◆濶ｲ隱ｿ縺ｧ謠上＞縺溘よ擲莠ｬ縺ｮ荵・ｱｳ鄒手｡馴､ｨ縺ｯ縲∽ｹ・ｱｳ譯ゆｸ驛弱→荵・ｱｳ驍ｦ豁ｦ縺ｫ髢｢縺吶ｋ雉・侭繧剃ｿ晏ｭ倥・蜈ｬ髢九＠縺ｦ縺・ｋ縲・  繧ｹ繝壹う繝ｳ隱橸ｼ哮ume Keiichiro fue un pintor de yﾅ紅a nacido en la prefectura de Saga. Hijo del historiador Kume Kunitake, estudiﾃｳ en Francia y trabﾃｳ una estrecha amistad con Kuroda Seiki. A su regreso, fundﾃｳ el Hakuba-kai (Sociedad del Caballo Blanco) junto a Kuroda y se dedicﾃｳ a la enseﾃｱanza del yﾅ紅a. Entre sus obras se cuentan Shﾅｫkei (Escena de otoﾃｱo) y Banshﾅｫ (Final de otoﾃｱo), en las que representﾃｳ paisajes y figuras con una paleta contenida. El Museo de Arte Kume, en Tokio, conserva y presenta materiales relativos a Kume Keiichirﾅ・y a Kume Kunitake.
+縲仙粥邵ｾ縲・  譌･譛ｬ隱橸ｼ壽・繧九＞螟門・陦ｨ迴ｾ縺縺代〒縺ｪ縺上∵ｧ句峙縺ｮ螳牙ｮ壹→濶ｲ縺ｮ謚大宛縺ｫ豕ｨ逶ｮ縺励◆縺・ｽ懷ｮｶ縲る｢ｨ譎ｯ縺ｮ螂･陦後″繧・ｺｺ迚ｩ縺ｮ蟋ｿ蜍｢縺ｫ縲∫蕗蟄ｦ邨碁ｨ薙→謨呵ご閠・→縺励※縺ｮ隕也ｷ壹′驥阪↑繧九・  繧ｹ繝壹う繝ｳ隱橸ｼ哥ue un pintor en quien conviene atender no solo a la luminosa expresiﾃｳn del plenairismo, sino tambiﾃｩn a la estabilidad de la composiciﾃｳn y a la contenciﾃｳn del color. En la profundidad de sus paisajes y en las posturas de sus figuras se reﾃｺnen su experiencia en el extranjero y su mirada de educador.
+縲先園螻槫屮菴薙・  譌･譛ｬ隱橸ｼ夂區鬥ｬ莨・  繧ｹ繝壹う繝ｳ隱橸ｼ唏akuba-kai (Sociedad del Caballo Blanco)
+谺｡縺ｮ隕ｳ轤ｹ縺縺代ｒ隕九※縺上□縺輔＞縲や・繧ｹ繝壹う繝ｳ隱樔ｻ･螟悶・險隱槭・縺薙→縺ｯ譖ｸ縺九↑縺・〒縺上□縺輔＞縲・
+(1) 譌･譛ｬ隱槭↓辟｡縺・ｺ句ｮ溘・隧穂ｾ｡縺瑚ｶｳ縺輔ｌ縺ｦ縺・↑縺・°縲ゅ≠繧後・隧ｲ蠖鍋ｮ・園繧貞ｼ慕畑縲・(2) 譌･譛ｬ隱槭↓縺ゅｋ莠句ｮ溘′關ｽ縺｡縺ｦ縺・↑縺・°縲ゅ≠繧後・菴輔′關ｽ縺｡縺溘°縲・(3) 隱､險ｳ繝ｻ隱槭・蜿悶ｊ驕輔∴・井ｺｺ蜷阪・蝨ｰ蜷阪・菴懷刀蜷阪・謚豕募錐繝ｻ蟷ｴ蜿ｷ・峨′縺ｪ縺・°縲・(4) 縺昴・險隱槭→縺励※荳崎・辟ｶ縺ｪ險縺・屓縺励・譁・ｳ輔・隱､繧奇ｼ域凾蛻ｶ繝ｻ諤ｧ繝ｻ謨ｰ繝ｻ蜀隧橸ｼ峨′縺ｪ縺・°縲・(5) 蜷後§隱槭′譁・ｸｭ縺ｧ荳咲ｵｱ荳縺ｫ險ｳ縺輔ｌ縺ｦ縺・↑縺・°縲・
+笘・欠鞫倥′辟｡縺代ｌ縺ｰ縲梧欠鞫倥↑縺励阪→縺縺第嶌縺・※縺上□縺輔＞縲ら┌逅・↓謖・遭繧剃ｽ懊ｉ縺ｪ縺・〒縺上□縺輔＞縲・謖・遭縺後≠繧九ｂ縺ｮ縺縺代√梧ｬ・ｼ剰ｩｲ蠖鍋ｮ・園・丈ｽ輔′蝠城｡後°・上←縺・峩縺吶°縲阪・4轤ｹ繧堤洒縺乗嶌縺・※縺上□縺輔＞縲・笘・ｩｲ蠖鍋ｮ・園縺ｯ縲∬ｨｳ譁・°繧・*縺昴・縺ｾ縺ｾ謚懊″蜃ｺ縺励◆譁・ｭ怜・**繧貞ｼ慕畑隨ｦ縺ｧ蝗ｲ繧薙〒譖ｸ縺・※縺上□縺輔＞・郁ｨ縺・鋤縺医↑縺・〒縺上□縺輔＞・峨・譌･譛ｬ隱槭〒遲斐∴縺ｦ縺上□縺輔＞縲・codex
+- 荳險邏ｹ莉具ｼ上訓intor de yﾅ紅a縲搾ｼ乗欠螳夂畑隱槭梧ｴ狗判螳ｶ縲阪→荳閾ｴ縺励↑縺・ｼ上訓intor de estilo occidental縲阪↓逶ｴ縺吶・- 逡･豁ｴ・上蛍n pintor de yﾅ紅a縲搾ｼ乗欠螳夂畑隱槭梧ｴ狗判螳ｶ縲阪→荳閾ｴ縺励↑縺・ｼ上蛍n pintor de estilo occidental縲阪↓逶ｴ縺吶・- 蜉溽ｸｾ・上畦a luminosa expresiﾃｳn del plenairismo縲搾ｼ上梧・繧九＞螟門・陦ｨ迴ｾ縲阪ｒ縲後・繝ｬ繝阪Μ繧ｹ繝｢縲阪→縺・≧讒伜ｼ上・謚豕輔↓鄂ｮ縺肴鋤縺医※縺・ｋ・上畦a representaciﾃｳn de la luz brillante al aire libre縲阪↑縺ｩ縲∝､門・縺ｮ陦ｨ迴ｾ繧堤峩謗･遉ｺ縺呵ｨｳ縺ｫ逶ｴ縺吶・- 蜉溽ｸｾ・上茎u mirada de educador縲搾ｼ乗欠螳夂畑隱槭梧蕗閧ｲ閠・阪→荳閾ｴ縺励↑縺・ｼ上茎u mirada de pedagogo縲阪↓逶ｴ縺吶・tokens used
+5,753
+- 荳險邏ｹ莉具ｼ上訓intor de yﾅ紅a縲搾ｼ乗欠螳夂畑隱槭梧ｴ狗判螳ｶ縲阪→荳閾ｴ縺励↑縺・ｼ上訓intor de estilo occidental縲阪↓逶ｴ縺吶・- 逡･豁ｴ・上蛍n pintor de yﾅ紅a縲搾ｼ乗欠螳夂畑隱槭梧ｴ狗判螳ｶ縲阪→荳閾ｴ縺励↑縺・ｼ上蛍n pintor de estilo occidental縲阪↓逶ｴ縺吶・- 蜉溽ｸｾ・上畦a luminosa expresiﾃｳn del plenairismo縲搾ｼ上梧・繧九＞螟門・陦ｨ迴ｾ縲阪ｒ縲後・繝ｬ繝阪Μ繧ｹ繝｢縲阪→縺・≧讒伜ｼ上・謚豕輔↓鄂ｮ縺肴鋤縺医※縺・ｋ・上畦a representaciﾃｳn de la luz brillante al aire libre縲阪↑縺ｩ縲∝､門・縺ｮ陦ｨ迴ｾ繧堤峩謗･遉ｺ縺呵ｨｳ縺ｫ逶ｴ縺吶・- 蜉溽ｸｾ・上茎u mirada de educador縲搾ｼ乗欠螳夂畑隱槭梧蕗閧ｲ閠・阪→荳閾ｴ縺励↑縺・ｼ上茎u mirada de pedagogo縲阪↓逶ｴ縺吶・
+功績／「una sensibilidad muy distinta de la escultura pesada」／「造形」を分野名の「escultura（彫刻）」と取り違えている。／「una sensibilidad muy distinta de la que transmiten las formas pesadas」に直す。
+########## kumakura-junkichi__fr
+功績／「bien différente de la sculpture pesante」／「造形」を彫刻という分野名の *sculpture* と取り違えている。／「bien différente des formes pesantes」に直す。
+########## kumakura-junkichi__ko
+略歴／「알려져 있다」「평가된다」／故人について現在形が使われている／それぞれ「알려져 있었다」「평가되었다」に直す。
+########## kumakura-junkichi__zh_cn
+- 功績／「创作出动感与幽默陶艺装置的陶艺家」／動詞を欠く文断片で、故人についての過去表現にもなっていない／「他曾是一位创作出动感与幽默陶艺装置的陶艺家」とする。
+- 功績／「便能感受到他与厚重造型不同」／「他」が「厚重造型」と異なるという不自然な比較になっている／「便能感受到一种不同于厚重造型的艺术追求：他将音乐与都市的活力摹写于陶土，试图以陶表现出令观者愉悦的轻盈之感」などとする。
+- 略歴／「制作越出器物框架的陶艺装置」／「越出器物框架」は中国語として不自然／「创作超越器皿范畴的陶艺装置」とする。
+- 功績・略歴／「富游戏心的构成」「富游戏心的造型」／「游戏心」は簡体字中国語として不自然／それぞれ「富有趣味性的构成」「富有趣味性的造型」とする。
+- 一言紹介／「创作出动感与幽默陶艺装置的作家」／指定語「作家 → 艺术家」が反映されていない／「创作出动感与幽默陶艺装置的艺术家」とする。
+########## kumakura-junkichi__zh_tw
+- 功績／「創作出動感與幽默陶藝裝置的陶藝家」／文が動詞のない断片になっている。故人であることも踏まえる必要がある／「他曾是創作出動感與幽默陶藝物件的陶藝家」とする。
+- 功績／「他與厚重造型不同」／「他」が「厚重造型」と異なるという意味になり、原文の「重々しい造形とは異なり」を正しく表していない／「有別於厚重的造型」とする。
+- 功績／「愉悅觀者的輕盈之感」／「愉悅觀者」が台湾華語として不自然／「令觀者感到愉悅的輕盈感」とする。
+- 略歴／「製作越出器物框架的陶藝裝置」／「越出器物框架」は不自然な言い回し／「創作超越器物框架的陶藝物件」とする。
+- 功績・略歴・一言紹介／「陶藝裝置」／「陶オブジェ」を、空間全体を構成するインスタレーションを意味し得る「裝置」とするのは語の取り違え／「陶藝物件」など、オブジェを示す語に直す。
+- 一言紹介／「創作出動感與幽默陶藝裝置的作家」／指定呼称の「作家→藝術家」が反映されていない／「創作出動感與幽默陶藝物件的藝術家」とする。
+########## kume-keiichiro__de
+- 功績／「bei dem es lohnt」／再帰代名詞が欠けており、文法的に不自然。また「Erzieher」は指定訳「Pädagoge」と不一致。／「bei dem es sich lohnt」および「sein Blick als Pädagoge」に直す。
+- 功績／「den hellen Freilicht-Ausdruck」／「Freilicht-Ausdruck」はドイツ語として不自然。／「die helle Wiedergabe des Freilichts」に直す。
+- 略歴／「in denen er Landschaften und Figuren in zurückgenommener Farbpalette darstellte」／「in zurückgenommener Farbpalette」は冠詞を欠き、不自然。また関係節により、《秋景》《晩秋》の双方に風景と人物が描かれているという原文にない限定が加わる。／「Zu seinen Werken zählen „Shūkei“ (Herbstszene) und „Banshū“ (Spätherbst). Landschaften und Figuren stellte er in ruhigen Farbtönen dar.」に直す。
+########## kume-keiichiro__en
+- 功績／“He was a painter in whom it is worth attending”／「作家」の指定訳は “Artist” であり、“a painter in whom it is worth attending” も英語として不自然。／“He was an Artist whose work merits attention” に直す。
+- 略歴／“a Yōga painter”／「洋画家」の指定訳 “Yōga (Western-style) Painter” と一致していない。／“a Yōga (Western-style) Painter” に直す。
+- 略歴／“His works include Shūkei (Autumn Scene) and Banshū (Late Autumn), in which he depicted landscapes and figures in a restrained palette.”／“in which” により、風景と人物を描いたのが挙げられた二作品に限られるように読めるが、原文は画業全般について述べている。／“His works include Shūkei (Autumn Scene) and Banshū (Late Autumn). He depicted landscapes and figures in a restrained palette.” に直す。
+- 一言紹介／“A Yōga painter”／「洋画家」の指定訳 “Yōga (Western-style) Painter” と一致していない。／“A Yōga (Western-style) Painter” に直す。
+########## kume-keiichiro__es
+- 功績／「Fue un pintor」／原文の「作家」は指定訳「Artista」と一致しない。／「Fue un artista」に直す。
+- 功績／「su mirada de educador」／原文の「教育者」は指定訳「Pedagogo」と一致しない。／「su mirada de pedagogo」に直す。
+- 略歴／「un pintor de yōga」／原文の肩書き「洋画家」は指定訳「Pintor de estilo occidental」と一致しない。／「un pintor de estilo occidental」に直す。
+- 一言紹介／「Pintor de yōga」／原文の肩書き「洋画家」は指定訳「Pintor de estilo occidental」と一致しない。／「Pintor de estilo occidental」に直す。
+########## kume-keiichiro__fr
+- 功績／「la lumineuse expression du plein air」／「明るい外光表現」に対して不自然で、意味も曖昧／「la représentation lumineuse de la lumière extérieure」
+- 功績／「son expérience à l'étranger」／留学したという事実が弱まり、単なる海外経験になっている／「son expérience d'études à l'étranger」
+- 略歴／「un peintre de yōga」／指定訳「Peintre de style occidental」と不一致／「un peintre de style occidental」
+- 略歴／「l'enseignement du yōga」／同じ「洋画」が別の表現になっており不統一／「l'enseignement de la peinture de style occidental」
+- 一言紹介／「Peintre de yōga」／指定訳「Peintre de style occidental」と不一致／「Peintre de style occidental」
+########## kume-keiichiro__ko
+- 功績／「작가이다」「시선이 겹친다」／故人について現在形になっている／「작가였다」「시선이 겹쳤다」に直す。
+- 略歴／「《추경》 《만추》」／作品名の間に区切りがない／「《추경》, 《만추》」に直す。
+- 一言紹介／「하쿠바카이를 일으킨」／指定訳「하쿠바카이(백마회)」と不統一で、「일으킨」も団体の結成を表すには不自然／「하쿠바카이(백마회)를 결성한」に直す。
+########## kume-keiichiro__zh_cn
+- 功績／「教育者的视线」／指定用語「教育者」は「教育家」と訳す必要があり、表現も不自然／「作为教育家的视角」に直す。
+- 略歴／「洋画教育」／日本語の「洋画」が残っており、中国大陸の簡体字中国語として不自然／「西洋绘画教育」に直す。
+########## kume-keiichiro__zh_tw
+指摘なし
+########## kumi-sugai__de
+功績／「anstatt in komplexer Emotion zu arbeiten」／「複雑な感情を描き込む」の誤訳で、ドイツ語としても不自然／「anstatt komplexe Emotionen in seine Bilder einzuarbeiten」
+功績／「die jedes Auge im Nu erreichen」／「誰の目にも一瞬で届く」の直訳調で不自然／「die sich jedem Betrachter unmittelbar erschließen」
+略歴／「kargen, kraftvollen Abstraktion」／「karg」は「乏しい、殺風景な」という否定的含意があり、「簡潔な」に原文にない評価を加えている／「reduzierten, kraftvollen Abstraktion」
+略歴／「Straßenmarkierungen」／「道路標識」を「路面標示」と取り違えている／「Verkehrszeichen」
+略歴／「moderne Oberflächen, die mit einem Empfinden von Geschwindigkeit geladen waren」／「スピード感あふれる現代的な画面」の誤訳で、「Oberflächen」は絵画の画面を適切に表さず、時制も不自然／「modernen Bildkompositionen voller Dynamik」
+一言紹介／「Ein Maler einer zeichenhaften Abstraktion, in Paris tätig」／冠詞を伴う「Abstraktion」との結び付きが不自然／「Ein in Paris tätiger Maler der zeichenhaften Abstraktion」
+########## kumi-sugai__en
+功績／“one senses a sense of form”／“senses a sense”が重複して不自然。／“one senses a formal sensibility”に直す。
+功績／“working in complex emotion”／「複雑な感情を描き込む」の誤訳で、英語としても不自然。／“depicting complex emotions”に直す。
+略歴／“road markings”／「道路標識」は “road signs”であり、“road markings”ではない。「功績」欄とも不統一。／“road signs”に直す。
+########## kumi-sugai__es
+功績／「lejos de trabajar emociones complejas」／「複雑な感情を描き込む」の訳として不自然で、「感情に取り組む」という意味にずれている／「en lugar de plasmar emociones complejas」
+功績／「signos y colores nítidos que alcanzan toda mirada en un instante」／「alcanzan toda mirada」がスペイン語として不自然／「signos claros y colores que llegan en un instante a los ojos de cualquiera」
+略歴／「una abstracción austera y vigorosa」／「austera」は「簡潔」よりも「禁欲的・装飾を排した」という含意が強い／「una abstracción concisa y vigorosa」
+略歴／「superficies modernas cargadas de una sensación de velocidad」／絵画の「画面」を「superficies」とするのは不自然／「composiciones modernas llenas de dinamismo」
+略歴／「los pintores japoneses que fueron activos en el extranjero」／「fueron activos」は英語的な直訳で不自然／「los pintores japoneses que desarrollaron su actividad en el extranjero」
+########## kumi-sugai__fr
+功績／「qui atteignent tout regard en un instant」／「誰の目にも一瞬で届く」の直訳調で、フランス語として不自然／「qui sont immédiatement perceptibles par tous」に直す。
+略歴／「des surfaces modernes chargées d'un sentiment de vitesse」／「画面」を「surfaces」とするのは不自然で、「スピード感あふれる」の表現も直訳調／「des compositions modernes empreintes d'une vive sensation de vitesse」に直す。
+########## kumi-sugai__ko
+- 功績／「파리에서 활약한 기호적 추상화가이다」／故人に現在形「이다」を用いている／「파리에서 활약한 기호적 추상화가였다」に直す。
+- 略歴／「스가이 구미는 효고현에서 태어난 화가이다」／故人に現在形「이다」を用いている／「스가이 구미는 효고현에서 태어난 화가였다」に直す。
+- 略歴／「굵은 선과 선명한 색면에 의한」／日本語を直訳した不自然な言い回し／「굵은 선과 선명한 색면으로 이루어진」に直す。
+- 略歴／「한 사람으로 평가된다」／原文の「一人とされる」より評価の意味が強く、原文にない価値判断を加えている／「한 사람으로 여겨졌다」に直す。
+########## kumi-sugai__zh_cn
+- 功績／「近乎设计的造型感觉」／「造型感觉」は不自然で、「デザインにも通じる」の意味もややずれている／「与设计相通的造型感」に直す。
+- 功績／「传达至任何人眼中的」／「伝わる」と「目に届く」が混在した不自然な言い回し／「任何人都能一眼看懂的」に直す。
+- 功績・一言紹介／「活跃于巴黎」／故人であることが表現されていない／「曾活跃于巴黎」に直す。
+- 略歴／「以巴黎为据点在国际上活跃」／故人の経歴として過去を示す表現がない／「曾以巴黎为据点活跃于国际舞台」に直す。
+########## kumi-sugai__zh_tw
+- 功績／「一瞬間便能傳達至任何人眼中的明快符號與色彩」／「傳達至任何人眼中」語意不自然，未準確表達「誰の目にも一瞬で届く」／「任何人都能一眼看懂的明快符號與色彩」
+- 略歴／「早期他描繪飽含東方情致的抽象」／「描繪……抽象」在繁體中文中不自然／「早期他描繪飽含東方情致的抽象畫」
+- 略歴／「由粗線與鮮豔色面構成的、簡潔而有力的抽象」／「的」後使用頓號，句法與標點不自然，且「抽象」宜明示為畫作／「由粗線與鮮豔色面構成、簡潔而有力的抽象畫」
+########## kuniyoshi-yasuo__de
+- 功績／「Er war ein Yōga-Maler」「dort als Künstler japanischer Herkunft」／指定訳「Maler im westlichen Stil (Yōga)」「Maler」と不一致。／「Er war ein Maler im westlichen Stil (Yōga)」「dort als Maler japanischer Herkunft」に直す。
+- 功績／「offenbart die Aufmerksamkeit für die gedämpften Töne und die von einer gewissen Einsamkeit berührten Figuren und Gegenstände den Blick」／「注目すると、画家のまなざしが感じられる」という関係が不自然に訳され、「Aufmerksamkeit」が「Blick」を明らかにする構文になっている。／「Betrachtet man die gedämpften Farbtöne und die Figuren und Gegenstände, die eine gewisse Einsamkeit ausstrahlen, lässt sich darin der Blick eines Malers erkennen, der zwischen zwei Ländern lebte.」に直す。
+- 略歴／「Mit New York als Stützpunkt」／「Stützpunkt」は軍事・組織活動の拠点を連想させ、画家の活動拠点を表すには不自然。／「Von New York aus entwickelte er eine eigenständige Malerei」に直す。
+- 略歴／「die erste, die dort einem lebenden Künstler gewidmet wurde」／原文の「存命の画家」が、より広い意味の「Künstler」になっている。／「die erste, die dort einem lebenden Maler gewidmet wurde」に直す。
+- 一言紹介／「Yōga-Maler」／指定訳「Maler im westlichen Stil (Yōga)」と不一致。／「Maler im westlichen Stil (Yōga), der in die USA auswanderte und in deren Kunstwelt anerkannt wurde」に直す。
+########## kuniyoshi-yasuo__en
+- 功績／「Yōga painter」／指定訳「Yōga (Western-style) Painter」と不一致。／「Yōga (Western-style) Painter」に直す。
+- 略歴／「supporting himself by work」／英語として不自然。／「supporting himself by working」に直す。
+- 略歴／「he developed a distinctive painting」／一枚の絵を制作したという意味になり、「独自の絵画を築き」の意味を適切に表していない。／「he developed a distinctive style of painting」に直す。
+- 略歴／「the first ever devoted to a living artist there」／「存命の画家」が「living artist」と広義になっており、「there」の指示先も不明瞭。／「the museum’s first-ever retrospective devoted to a living painter」に直す。
+- 略歴／「he was restricted as an enemy alien」／活動ではなく本人が制限されたという意味になっている。／「his activities were restricted because he was classified as an enemy alien」に直す。
+- 略歴／「ended his life」／英語では自死を示唆するため、「生涯を終えた」の訳として不適切。／「died without obtaining the American citizenship he had sought」に直す。
+- 一言紹介／「Yōga painter」／指定訳「Yōga (Western-style) Painter」と不一致。／「Yōga (Western-style) Painter」に直す。
+########## kuniyoshi-yasuo__es
+功績／「pintor yōga」／指定訳「洋画家」と一致しない／「Pintor de estilo occidental」に直す。
+功績／「continuó allí su trabajo como artista de origen japonés」／「長く」が落ちており、「画家」が指定訳の「Pintor」ではなく「artista」になっている／「continuó allí durante muchos años su labor como pintor de origen japonés」に直す。
+略歴／「pintor yōga (de estilo occidental)」／指定訳「洋画家」と一致しない／「Pintor de estilo occidental」に直す。
+一言紹介／「Un pintor yōga」／指定訳「洋画家」と一致しない／「Un Pintor de estilo occidental」に直す。
+一言紹介／「emigró a América」／原文の「渡米」はアメリカ合衆国への渡航であり、「América」では範囲が広い／「emigró a los Estados Unidos」に直す。
+########## kuniyoshi-yasuo__fr
+功績／「peintre yōga」／指定訳「Peintre de style occidental」と不一致。／「peintre de style occidental」に直す。
+功績／「son milieu artistique」／「アメリカの画壇」の「アメリカ」が明示されていない。／「le milieu artistique américain」に直す。
+略歴／「peintre yōga (de style occidental)」／指定訳「Peintre de style occidental」と不一致。／「peintre de style occidental」に直す。
+略歴／「pour subvenir à ses besoins」／「生活費を稼ぐため」という原文にない目的が加えられている。／削除して「tout en travaillant」とする。
+略歴／「la première qu'il accordait à un artiste vivant」／美術館が回顧展を「accordait」とするのは不自然で、「存命の画家として初」の関係も不明瞭。／「la première rétrospective que le musée consacrait à un peintre vivant」に直す。
+一言紹介／「Un peintre yōga parti pour l'Amérique et reconnu dans son milieu artistique」／指定訳と不一致。「アメリカ画壇」の「アメリカ」も明示されず、「渡米」が「アメリカ大陸へ行った」という曖昧な表現になっている。／「Un peintre de style occidental parti aux États-Unis et reconnu dans le milieu artistique américain」に直す。
+########## kuniyoshi-yasuo__ko
+指摘なし
+########## kuniyoshi-yasuo__zh_cn
+- 略歴／「建立起独特的绘画」／「建立绘画」は中国語として不自然で、「独自の絵画を築き」の意味も十分に伝わらない／「形成了独特的绘画风格」に直す。
+- 功績／「便能体会一位生活在两国夹缝间的画家的目光」／「体会」と「目光」の組み合わせが不自然。また、故人について「生活在」と現在の状態のように表現している／「便能感受到这位曾生活在两国夹缝间的画家的目光」に直す。
+########## kuniyoshi-yasuo__zh_tw
+指摘なし
+########## kuramata-shiro__de
+功績／「Er war ein Gestalter」／指定語「デザイナー」が「Gestalter」と訳されている。／「Er war ein Designer」に直す。
+略歴／「ein Interior- und Möbeldesigner」／指定された呼称「Interiordesigner」「Möbeldesigner」と一致していない。／「ein Interiordesigner und Möbeldesigner」に直す。
+一言紹介／「Ein Gestalter」／指定語「デザイナー」が「Gestalter」と訳されている。／「Ein Designer」に直す。
+########## kuramata-shiro__en
+功績／“designer”／指定訳「Designer」と大文字・小文字が一致していない。／“Designer”に直す。
+略歴／“interior and furniture designer”／指定された呼称が使われていない。／“Interior Designer and Furniture Designer”に直す。
+略歴／“he won high international acclaim”／「高く評価された」に対して “won high acclaim” は不自然な言い回し。／“he was highly acclaimed internationally”に直す。
+略歴／“one of those who exerted a great influence on contemporary design”／意味は通るが、英語として不自然で冗長。／“one of the figures who greatly influenced contemporary design”に直す。
+一言紹介／“designer”／指定訳「Designer」と大文字・小文字が一致していない。／“Designer”に直す。
+########## kuramata-shiro__es
+- 略歴／「un diseñador de interiores y mobiliario」／指定訳「家具デザイナー＝Diseñador de muebles」と一致していない／「un diseñador de interiores y diseñador de muebles」に直す。
+- 功績／「una sensibilidad a la vez delicada y audaz —que, lejos de presumir de solidez o pesadez, aprovechaba la transparencia de los materiales para sublimar el mueble en una imagen poética más allá de la mera materia.」／挿入句を始めるダッシュが閉じられていない／文末のピリオドの前に閉じダッシュを加え、「mera materia—.」に直す。
+########## kuramata-shiro__fr
+略歴／「un designer d'intérieur et de mobilier」／指定用語と一致せず、二つの肩書きも明確に区別されていない。／「un architecte d'intérieur et designer de mobilier」に直す。
+略歴／「un mobilier translucide」／「translucide」は半透明を意味し、「透き通る」の訳として不正確。／「un mobilier transparent」に直す。
+功績／「une sensibilité à la fois délicate et audacieuse — qui, loin de se prévaloir de solidité ou de pesanteur, tirait parti de la transparence des matériaux」／関係代名詞「qui」が「une sensibilité」を受けるため、「感性が丈夫さを誇り、素材を生かす」という不自然な構造になっている。／「on perçoit une conception à la fois délicate et audacieuse : loin de chercher à affirmer la solidité ou la pesanteur du mobilier, il tirait parti de la transparence des matériaux」のように直す。
+########## kuramata-shiro__ko
+- 略歴／「구라마타 시로는 도쿄에서 태어난 인테리어·가구 디자이너이다.」／故人について現在形になっている。／「구라마타 시로는 도쿄에서 태어난 인테리어·가구 디자이너였다.」に直す。
+- 略歴／「비치는 가구」／「透き通る家具」の意味ではなく、「透けて見える家具」という不自然な表現になっている。／「투명한 가구」に直す。
+- 略歴／「상업 공간의 디자인도 다루었다.」／「디자인을 다루다」は「商業空間のデザインも手がけた」の訳として不自然。／「상업 공간의 디자인도 맡았다.」に直す。
+########## kuramata-shiro__zh_cn
+- 功績／「他是创造充满透明感家具的设计师」／故人について現在形になっている。／「他曾是创造出充满透明感的家具的设计师」と直す。
+- 略歴／「仓俣史朗是出生于东京的室内、家具设计师」／故人について現在形になっている。／「仓俣史朗曾是出生于东京的室内设计师、家具设计师」と直す。
+- 略歴／「他以玻璃、亚克力、金属网等素材，创造出轻盈而富诗意的家具与空间而知名」／「以……创造出……而知名」という構文が不自然。／「他因使用玻璃、亚克力、金属网等素材，创造出轻盈而富有诗意的家具与空间而闻名」と直す。
+########## kuramata-shiro__zh_tw
+功績／「他是創造充滿透明感家具的設計師」／「充滿透明感家具」缺少結構助詞，且故人に現在形の「是」を用いている／「他曾是創造出充滿透明感的家具的設計師」とする。
+功績／「炫耀堅固或厚重」／「炫耀」は「誇る」より否定的な意味が強く、原文にない評価を加えている／「以堅固或厚重為傲」とする。
+略歴／「倉俣史朗是出生於東京的室內、家具設計師」／故人に現在形を用いており、「室內、家具設計師」も指定呼称の並列として不明瞭／「倉俣史朗出生於東京，曾是室內設計師與家具設計師」とする。
+略歴／「他也從事商業空間的設計」／故人の経歴が無標識の現在形になっている／「他也曾從事商業空間的設計」とする。
+一言紹介／「創造充滿透明感家具的設計師」／「充滿透明感家具」は不自然で、構造助詞が不足している／「創造出充滿透明感的家具的設計師」とする。

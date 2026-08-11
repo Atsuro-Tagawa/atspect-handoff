@@ -1,0 +1,296 @@
+{
+  "reason": "日課 第21束（導線順260〜269番の10名）＝スキル3本（検品・用語注入・書き込み安全）の検収束。二重検品140依頼＋用語注入つき。日本語原文と照合して誤りと確認できたものだけを是正",
+  "enteredBy": "翻訳品質T",
+  "enteredDate": "2026-08-11",
+  "note": "which＝拾った回。★不採用＝「戦前」を「第二次世界大戦前」と訳すのは誤りではない（第19束で「戦後」について同じ裁定をしている）。小山敬三さま de『verzeichnet』は原文『確認できる』に近く、誤りとまでは言えないため不採用。",
+  "patches": [
+    {
+      "which": "1",
+      "handle": "koshino-ayako",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "她培养了三个皆成为时装设计师的女儿",
+      "to": "她养育了三个后来都成为时装设计师的女儿"
+    },
+    {
+      "which": "1",
+      "handle": "koshino-ayako",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "她培養了三個皆成為時裝設計師的女兒",
+      "to": "她養育了三個後來都成為時裝設計師的女兒"
+    },
+    {
+      "which": "2",
+      "handle": "koshino-ayako",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "长年活跃于一线的身姿而知名",
+      "to": "长年持续活跃的身影而知名"
+    },
+    {
+      "which": "2",
+      "handle": "koshino-ayako",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "長年活躍於一線的身姿而知名",
+      "to": "長年持續活躍的身影而知名"
+    },
+    {
+      "which": "2",
+      "handle": "koshino-ayako",
+      "lang": "fr",
+      "field": "bio",
+      "from": "avoir diffusé l'habillement occidental depuis sa communauté locale",
+      "to": "avoir diffusé l'habillement occidental en étant enracinée dans sa communauté locale"
+    },
+    {
+      "which": "2",
+      "handle": "koshino-ayako",
+      "lang": "ko",
+      "field": "bio",
+      "from": "오랫동안 현역으로 활약한 모습으로 알려져 있다",
+      "to": "오랫동안 현역으로 활약한 모습으로 알려졌다"
+    },
+    {
+      "which": "B",
+      "handle": "koshino-ayako",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "erkennt ihre ganze Leidenschaft für das Schaffen",
+      "to": "wird ihre Leidenschaft für das Schaffen spürbar"
+    },
+    {
+      "which": "B",
+      "handle": "koshino-ayako",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "auf den dem Leben der Menschen vor Ort zugewandten Schnitt",
+      "to": "auf die am Leben der Menschen vor Ort ausgerichtete Anfertigung der Kleidung"
+    },
+    {
+      "which": "1",
+      "handle": "koshino-ayako",
+      "lang": "es",
+      "field": "viewpoint",
+      "from": "atender a la sastrería atenta a la vida de la gente del lugar y a su viva curiosidad por adoptar nuevas modas",
+      "to": "prestar atención tanto a una confección adaptada a la vida de la gente del lugar como a su viva curiosidad por incorporar las tendencias"
+    },
+    {
+      "which": "1",
+      "handle": "kosugi-hoan",
+      "lang": "fr",
+      "field": "viewpoint",
+      "from": "au fondu de l'encre",
+      "to": "à la diffusion de l'encre"
+    },
+    {
+      "which": "1",
+      "handle": "kumagai-morikazu",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "他喜爱描绘身边的花、虫与猫。",
+      "to": "他喜爱描绘身边的花、虫、猫等。"
+    },
+    {
+      "which": "2",
+      "handle": "kumagai-morikazu",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "被称为「画坛的仙人」",
+      "to": "也被称为「画坛的仙人」"
+    },
+    {
+      "which": "1",
+      "handle": "kumagai-morikazu",
+      "lang": "es",
+      "field": "bio",
+      "from": "flores, insectos y gatos cercanos",
+      "to": "flores, insectos y gatos de su entorno cotidiano"
+    },
+    {
+      "which": "1",
+      "handle": "kumagai-morikazu",
+      "lang": "es",
+      "field": "bio",
+      "from": "Pasó largos años contemplando el jardín de su casa",
+      "to": "Pasó mucho tiempo contemplando el jardín de su casa"
+    },
+    {
+      "which": "2",
+      "handle": "kumagai-tsuneko",
+      "lang": "fr",
+      "field": "bio",
+      "from": "On rapporte qu'elle servit aussi la Maison impériale.",
+      "to": "On rapporte qu'elle réalisa aussi des travaux pour la Maison impériale."
+    },
+    {
+      "which": "B",
+      "handle": "kumakura-junkichi",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "ein Empfinden, anders als bei schwerer Skulptur",
+      "to": "ein Empfinden, anders als bei schwer und wuchtig wirkenden Formen"
+    },
+    {
+      "which": "B",
+      "handle": "kumakura-junkichi",
+      "lang": "en",
+      "field": "viewpoint",
+      "from": "a sensibility unlike weighty sculpture",
+      "to": "a sensibility unlike that embodied in weighty forms"
+    },
+    {
+      "which": "B",
+      "handle": "kumakura-junkichi",
+      "lang": "es",
+      "field": "viewpoint",
+      "from": "una sensibilidad muy distinta de la escultura pesada",
+      "to": "una sensibilidad muy distinta de la que transmiten las formas pesadas"
+    },
+    {
+      "which": "2",
+      "handle": "kumakura-junkichi",
+      "lang": "fr",
+      "field": "viewpoint",
+      "from": "une sensibilité bien différente de la sculpture pesante",
+      "to": "une sensibilité bien différente de celle que dégagent les formes pesantes"
+    },
+    {
+      "which": "1",
+      "handle": "kumakura-junkichi",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "便能感受到他与厚重造型不同",
+      "to": "便能感受到与厚重造型不同的是，他"
+    },
+    {
+      "which": "2",
+      "handle": "kumakura-junkichi",
+      "lang": "zh_tw",
+      "field": "statement",
+      "from": "創作出動感與幽默陶藝裝置的作家",
+      "to": "創作出動感與幽默陶藝物件的作家"
+    },
+    {
+      "which": "1",
+      "handle": "kume-keiichiro",
+      "lang": "en",
+      "field": "viewpoint",
+      "from": "his experience abroad",
+      "to": "his experience studying abroad"
+    },
+    {
+      "which": "B",
+      "handle": "kumi-sugai",
+      "lang": "de",
+      "field": "bio",
+      "from": "die an Straßenmarkierungen erinnerten",
+      "to": "die an Verkehrszeichen erinnerten"
+    },
+    {
+      "which": "2",
+      "handle": "kumi-sugai",
+      "lang": "de",
+      "field": "bio",
+      "from": "zu einer kargen, kraftvollen Abstraktion",
+      "to": "zu einer reduzierten, kraftvollen Abstraktion"
+    },
+    {
+      "which": "1",
+      "handle": "kumi-sugai",
+      "lang": "en",
+      "field": "bio",
+      "from": "lucid signs reminiscent of road markings",
+      "to": "lucid signs reminiscent of road signs"
+    },
+    {
+      "which": "2",
+      "handle": "kumi-sugai",
+      "lang": "ko",
+      "field": "bio",
+      "from": "한 사람으로 평가된다",
+      "to": "한 사람으로 여겨졌다"
+    },
+    {
+      "which": "B",
+      "handle": "kumi-sugai",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "das, anstatt in komplexer Emotion zu arbeiten",
+      "to": "das, anstatt komplexe Gefühle ins Bild einzuarbeiten"
+    },
+    {
+      "which": "B",
+      "handle": "kumi-sugai",
+      "lang": "en",
+      "field": "viewpoint",
+      "from": "one senses a sense of form akin to design that, rather than working in complex emotion, sought to express",
+      "to": "one senses a formal sensibility akin to design: rather than depicting complex emotions, he sought to express"
+    },
+    {
+      "which": "1",
+      "handle": "kumi-sugai",
+      "lang": "fr",
+      "field": "viewpoint",
+      "from": "Dans les tableaux signalétiques de la maturité",
+      "to": "Dans ses tableaux signalétiques tardifs"
+    },
+    {
+      "which": "1",
+      "handle": "kumi-sugai",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "便能感到一种近乎设计的造型感觉",
+      "to": "便能感到一种与设计相通的造型感觉"
+    },
+    {
+      "which": "1",
+      "handle": "kuniyoshi-yasuo",
+      "lang": "en",
+      "field": "bio",
+      "from": "he was restricted as an enemy alien",
+      "to": "his activities were restricted because he was classified as an enemy alien"
+    },
+    {
+      "which": "B",
+      "handle": "kuniyoshi-yasuo",
+      "lang": "fr",
+      "field": "bio",
+      "from": "tout en travaillant pour subvenir à ses besoins",
+      "to": "tout en travaillant"
+    },
+    {
+      "which": "B",
+      "handle": "kuniyoshi-yasuo",
+      "lang": "es",
+      "field": "viewpoint",
+      "from": "continuó allí su trabajo como artista de origen japonés",
+      "to": "continuó trabajando allí durante muchos años como pintor de origen japonés"
+    },
+    {
+      "which": "1",
+      "handle": "kuramata-shiro",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "他并非炫耀坚固或厚重",
+      "to": "他并非着意彰显家具的坚固或厚重"
+    },
+    {
+      "which": "2",
+      "handle": "kuramata-shiro",
+      "lang": "zh_tw",
+      "field": "viewpoint",
+      "from": "他並非炫耀堅固或厚重",
+      "to": "他並非以堅固或厚重自詡"
+    },
+    {
+      "which": "1",
+      "handle": "kuramata-shiro",
+      "lang": "de",
+      "field": "bio",
+      "from": "etwa einem Sessel, der Blumen einschließt",
+      "to": "etwa einem Stuhl, der Blumen einschließt"
+    }
+  ]
+}

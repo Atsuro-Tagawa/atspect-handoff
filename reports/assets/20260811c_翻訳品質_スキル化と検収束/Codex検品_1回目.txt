@@ -1,0 +1,348 @@
+########## koshino-ayako__de
+- 略歴／「von ihrer örtlichen Gemeinde aus」／「地域に根ざして」を「地元の共同体を起点として」と捉えており、不自然で意味もずれる。／「in ihrer Region verwurzelt」に直す。
+- 功績／「auf den dem Leben der Menschen vor Ort zugewandten Schnitt」／「仕立て」を「Schnitt（裁断・型紙）」としており、語の取り違え。また「dem Leben … zugewandt」は不自然。／「auf die an den Lebensbedürfnissen der Menschen vor Ort orientierte Anfertigung」に直す。
+- 功績／「erkennt ihre ganze Leidenschaft」／「ganze」は原文にない強調で、「erkennt」も「感じられる」より断定的。／「wird ihre unermüdliche Leidenschaft … spürbar」に直す。
+- 功績／「schuf noch im hohen Alter weiter」／「schaffen」を目的語なしで用いるのは不自然で、何を作り続けたのかも曖昧。／「fertigte auch im hohen Alter weiterhin Kleidung an」に直す。
+########## koshino-ayako__en
+略歴／“She ran a dressmaking shop from before World War II”／“from before” が英語として不自然／“Beginning before World War II, she ran a dressmaking shop and devoted her whole life to making clothes.” とする。
+功績／“attending to the tailoring attuned to the lives of local people and to her keen curiosity in taking up new trends reveals her wholehearted passion for making”／「注目すると」を “attending to” としたため意味が不明瞭で、文全体も不自然／“When we focus on her tailoring, which was attuned to the lives of local people, and her keen curiosity about incorporating new trends, we sense her wholehearted passion for making clothes” とする。
+########## koshino-ayako__es
+- 功績／「atender a la sastrería atenta a la vida de la gente del lugar」／「仕立てに注目すると」の誤訳で、「sastrería（洋裁店）」自体が人々の暮らしに配慮するようにも読める不自然な表現。／「al prestar atención a una confección adaptada a la vida de la gente del lugar」と直す。
+- 略歴／「una de quienes apoyaron la difusión de la indumentaria occidental en Japón」／文法的には成立するが、人物を指す「una de quienes」と「apoyaron la difusión」の組み合わせが不自然。／「una de las personas que contribuyeron a difundir la indumentaria occidental en Japón」と直す。
+########## koshino-ayako__fr
+- 一言紹介／「Une styliste qui contribua à diffuser l'habillement occidental」／「ファッションデザイナー」が指定訳「styliste de mode」になっておらず、単純過去も不自然／「Une styliste de mode qui a contribué à diffuser l'habillement occidental」
+- 略歴／「On la connaît pour avoir diffusé l'habillement occidental depuis sa communauté locale」／「地域に根ざして」を表せておらず、「地域社会から」という不自然な意味になる／「On la connaît pour avoir diffusé l'habillement occidental en restant profondément ancrée dans sa communauté locale」
+- 略歴／「trois filles devenues toutes stylistes」／「ファッションデザイナー」の指定訳と不統一／「trois filles qui sont toutes devenues stylistes de mode」
+- 功績／「Elle était une styliste qui contribua à diffuser l'habillement occidental」／「ファッションデザイナー」の指定訳になっておらず、単純過去も不自然／「Elle était une styliste de mode qui a contribué à diffuser l'habillement occidental」
+- 功績／「Dans ses longues années de couture, prêter attention à la confection attentive à la vie des gens du pays et à sa vive curiosité pour les nouvelles modes laisse percevoir」／「confection attentive à la vie」が不自然で、「地域の人々」も「gens du pays」では曖昧。「prêter attention」の構文も硬く不自然／「Si l'on considère, dans sa longue pratique de la couture, ses créations adaptées à la vie des habitants de sa région et sa vive curiosité pour les nouvelles modes, on perçoit」
+- 功績／「sa passion entière pour la création」／「ひたむきな情熱」に対して「passion entière」は不自然／「sa passion sans faille pour la création」
+########## koshino-ayako__ko
+- 略歴／「패션 디자이너이다」／故人について現在形になっている／「패션 디자이너였다」に直す。
+- 略歴／「세 딸을 키운 것으로도 유명하며」／原文の「知られ」より評価を強めた表現になっている／「세 딸을 키운 것으로도 알려져 있으며」に直す。
+- 功績／「패션 디자이너이다」／故人について現在形になっている／「패션 디자이너였다」に直す。
+- 功績／「지역 사람들의 삶에 다가간 봉제」／「봉제」は縫製作業を指し、「暮らしに寄り添った仕立て」の意味を十分に表していない／「지역 사람들의 삶에 밀착한 옷 짓기」など、原文の意味に沿う表現に直す。
+- 功績／「고령이 되어서도 계속 만든, 만들기를 향한」／目的語のない「계속 만든」と「만들기를 향한」の連結が不自然／「고령이 되어서도 옷을 계속 만들며 보여 준, 옷 만들기에 대한」などに直す。
+########## koshino-ayako__zh_cn
+- 略歴／「她培养了三个皆成为时装设计师的女儿」／「培养」には、娘たちを時装设计师として育成したという原文にない含意が生じる。「育てた」は養育の意味。／「她养育了三个后来都成为时装设计师的女儿」に直す。
+- 略歴／「长年活跃于一线的身姿而知名」／「活跃于一线」は原文の「現役で活躍」よりも「第一線で活躍」という評価を加えており、「身姿而知名」も中国語として不自然。／「她以扎根地方推广洋装，并长期坚持在职工作的经历而为人所知」に直す。
+- 功績／「年迈仍持续创作的对手艺一心一意的热情」／修飾関係が不明瞭で、「年迈仍持续创作」が「热情」ではなく「手艺」にかかるように読める。また、「创作」は原文の「作り続けた」より芸術創作寄り。／「以及她即使年事已高仍坚持制作服装、专心投身于服装制作的热情」に直す。
+########## koshino-ayako__zh_tw
+略歴／「她以扎根地方推廣洋裝、長年活躍於一線的身姿而知名」／「扎根地方」と「活躍於一線的身姿」が台湾華語として不自然。／「她以扎根於地方、推廣洋裝，並長年活躍於第一線的形象而聞名」に直す。
+功績／「汲取流行的旺盛求知欲」／「汲取流行」は語の組み合わせが不自然で、「探究心」を「求知欲」とするのも意味がややずれる。／「積極吸收流行趨勢的旺盛探索精神」に直す。
+功績／「年邁仍持續創作的對手藝一心一意的熱情」／修飾関係が不明瞭で不自然。「手藝」は原文の「ものづくり」より意味が狭い。／「以及即使年事已高仍持續製作服裝、專心投入創作的熱情」に直す。
+########## kosugi-hoan__de
+- 一言紹介／「zum ostasiatischen Tuschausdruck überging」／「Tuschausdruck」はドイツ語として不自然。／「zur ostasiatischen Ausdrucksweise der Tuschemalerei überging」とする。
+- 略歴／「eine Welt aus Tusche und zarter Farbe」／「zarte Farbe」は「淡彩」の表現として不自然。／「eine Bildwelt in Tusche und leichter Kolorierung」とする。
+- 功績／「Werken in Tusche und zarter Farbe」／同様に「zarte Farbe」が不自然。／「Werken in Tusche und leichter Kolorierung」とする。
+########## kosugi-hoan__en
+略歴／“A painter of both Yōga (Western-style painting) and Nihonga”／「洋画家・日本画家」に指定訳語が使われていない／“A Yōga (Western-style) Painter and Nihonga Painter”に直す。
+略歴／“had the given name Kunitarō”／「本名」を「名（given name）」としており、意味が異なる／“His real name was Kunitarō.”に直す。
+一言紹介／“moved from Western-style painting to East Asian ink expression”／“ink expression”が英語として不自然／“moved from Western-style painting to East Asian-style ink painting”に直す。
+略歴／“deepening a world of ink and light color”／“deepen a world”が英語として不自然／“developing a distinctive world of ink and light color”に直す。
+功績／“deepened a world of East Asian ink”／“a world of East Asian ink”が英語として不自然／“deepened his exploration of East Asian ink painting”に直す。
+########## kosugi-hoan__es
+略歴／「Pintor a la vez de estilo occidental (yōga) y nihonga」／指定された呼称「Pintor de estilo occidental」「Pintor de nihonga」と一致していない。／「Kosugi Hoan, nacido en Nikkō, prefectura de Tochigi, fue un pintor de estilo occidental (yōga) y pintor de nihonga. Su nombre de nacimiento era Kunitarō.」とする。
+略歴／「continuó pintando al estilo japonés toda su vida」／原文の「日本画」が一般的な「日本風の絵」に広がっており、同じ文中の「nihonga」とも不統一。／「continuó pintando nihonga durante toda su vida」とする。
+########## kosugi-hoan__fr
+- 略歴／「Peintre à la fois de style occidental (yōga) et nihonga né à Nikkō」／動詞のない文断片であり、「de style occidental」と「nihonga」の並列も不自然です。指定訳語にも一致していません。／「Kosugi Hoan était un peintre de style occidental et un peintre nihonga né à Nikkō」に直す。
+- 略歴／「Il peignit d'abord」「prit part」「dirigea」「participa」「il continua」「Il prit plus tard」／伝記文として単純過去が連続し、不自然です。／継続的行為は半過去（「peignait」「continuait」）、出来事は複合過去（「a pris part」「a dirigé」「a participé」「a pris」）に直す。
+- 功績／「un peintre parti de la peinture occidentale」／「洋画から出発した」の直訳調で不自然です。／「un peintre qui avait commencé par la peinture occidentale」に直す。
+- 功績／「approfondit un monde d'encre d'Asie orientale」／「approfondir un monde」は不自然で、単純過去も文体に合いません。／「a approfondi son exploration de l'univers de l'encre d'Asie orientale」に直す。
+- 功績／「au fondu de l'encre」／「墨のにじみ」の取り違えです。「fondu」は色調などの滑らかな移行を指し、墨の拡散・にじみを正確に表しません。／「à la diffusion de l'encre」に直す。
+########## kosugi-hoan__ko
+- 略歴／「서양화가·니혼가 화가이다」／故人について現在形になっている。／「서양화가·니혼가 화가였다」に直す。
+- 略歴／「훗날 '호안'이라 호하였다」／「호하다」は現代韓国語として不自然。／「훗날 '호안'이라는 호를 사용하였다」に直す。
+- 功績／「화가이다」／故人について現在形になっている。／「화가였다」に直す。
+- 功績／「서양화에서 길러진 눈」／「西洋画で養った眼」の直訳調で、「눈」もこの文脈では不自然。／「서양화를 통해 기른 안목」に直す。
+########## kosugi-hoan__zh_cn
+- 略歴／「西画家、日本画家」／指定用語「洋画家 → 西洋画家」と一致していない。／「西洋画家、日本画家」に直す。
+- 功績／「由西画出发、晚年深化东方水墨世界的画家」／動詞のない文の断片になっており、並列箇所の「、」も不自然。／「他是由西画出发，晚年深化东方水墨世界的画家。」に直す。
+########## kosugi-hoan__zh_tw
+略歴／「西畫家、日本畫家」／指定用語では「洋画家」は「西洋畫家」とする必要がある。／「西洋畫家、日本畫家」に直す。
+功績／「由西畫出發、晚年深化東方水墨世界的畫家。」／動詞のない文の断片になっている。／「他是由西畫出發，晚年深化東方水墨世界的畫家。」に直す。
+########## koyama-keizo__de
+- 一言紹介／「Yōga-Maler」／指定訳「Maler im westlichen Stil (Yōga)」と一致していない。／「Maler im westlichen Stil (Yōga), der den Berg Asama und Burgen in hellen Farben darstellte」に直す。
+- 略歴／「Helle Landschaften, die Berge und Burgen zum Thema haben」／「Landschaften」だけでは「風景画」という作品ジャンルが明確でなく、表現も不自然。／「Helle Landschaftsgemälde mit Bergen und Burgen als Motiven」に直す。
+- 功績／「tragen helle Farbe und stabile Komposition die Formen von Bergen und Burgen」／「Farbe」が不自然な単数形で、「tragen die Formen」もドイツ語として不自然。／「stützen eine helle Farbgebung und eine stabile Komposition die Darstellung von Bergen und Burgen」に直す。
+- 功績／「Es hilft, den Bergkamm des Berges Asama, die weißen Flächen einer Burg und die Klarheit der Luft miteinander zu vergleichen.」／「Es hilft」は原文の鑑賞上の勧めを不自然に表現している。／「Es lohnt sich, die Kammlinie des Berges Asama, die weißen Flächen der Burg und die Klarheit der Luft vergleichend zu betrachten.」に直す。
+########## koyama-keizo__en
+一言紹介／“A Western-style painter”／指定訳「洋画家」と不一致。／“A Yōga (Western-style) Painter”に直す。
+略歴／“a Western-style painter”／指定訳「洋画家」と不一致。／“a Yōga (Western-style) Painter”に直す。
+########## koyama-keizo__es
+指摘なし
+########## koyama-keizo__fr
+- 一言紹介／「qui représenta le mont Asama et des châteaux en couleurs vives」／単純過去「représenta」はこの紹介文では不自然。／「qui représentait le mont Asama et des châteaux en couleurs vives」に直す。
+- 略歴／「Il reçut l'ordre de la Culture.」／単純過去「reçut」はサイトの紹介文として不自然。／「Il a reçu l'ordre de la Culture.」に直す。
+########## koyama-keizo__ko
+略歴／「《아사마산》 《시라사기 성》 《붉은 아사마》」／作品名の区切りがない／「《아사마산》, 《시라사기 성》, 《붉은 아사마》」に直す。
+########## koyama-keizo__zh_cn
+- 一言紹介／「西画家」／指定訳「西洋画家」と不一致／「西洋画家」に直す。
+- 略歴／「是出生于长野县小诸的西画家，活跃于春阳会」／指定訳と不一致。また、故人について現在形になっている／「曾是出生于长野县小诸的西洋画家，曾活跃于春阳会」に直す。
+########## koyama-keizo__zh_tw
+一言紹介／「西畫家」／指定用語「洋画家 → 西洋畫家」と不一致／「西洋畫家」に直す。
+略歴／「小山敬三是出生於長野縣小諸的西畫家，活躍於春陽會。」／指定用語と不一致。また、故人について現在形で書かれている／「小山敬三曾是出生於長野縣小諸的西洋畫家，曾活躍於春陽會。」に直す。
+########## kumagai-morikazu__de
+- 一言紹介／「Yōga-Maler」／指定訳「Maler im westlichen Stil (Yōga)」と不一致。また「in klarer Kontur und flacher Farbe」はドイツ語として不自然。／「Maler im westlichen Stil (Yōga), der mit klaren Konturen und flächigen Farben arbeitete」
+- 略歴／「es würde ihn beschweren, wenn dadurch noch mehr Menschen ihn besuchen kämen」／「困る」の誤訳で、「dadurch」も原文にない因果関係を加えている。／「er könne es nicht brauchen, dass ihn noch mehr Menschen besuchten」
+- 功績／「Yōga-Maler」／指定訳「Maler im westlichen Stil (Yōga)」と不一致。／「Maler im westlichen Stil (Yōga)」
+- 功績／「einen eigenen Stil aufbaute」／「Stil aufbauen」は不自然。／「einen eigenen Stil entwickelte」
+- 功績／「flache Farbe」／「平らな色」を単数の「Farbe」とするのは不自然で、略歴の「flachen Farbflächen」とも不統一。／「flache Farbflächen」
+- 功績／「vermittelt die Aufmerksamkeit für die dicken, klaren Konturen und die flach aufgetragenen Farbflächen einen großzügigen, limpiden Gemütszustand」／「輪郭線と色面に注目すると境地が感じられる」という関係が、「注意が心理状態を伝える」という不自然な意味になっている。「limpid」もこの文脈では不自然。／「lässt sich beim Betrachten der kräftigen, klaren Konturen und der flächig aufgetragenen Farbflächen eine gelassene und klare Haltung spüren」
+- 功績／「der nichts als das Wesen der Dinge bewahren wollte」／関係代名詞「der」が「Gemütszustand」を受け、心理状態が何かを意図したように読める。／「in der das Bestreben spürbar wird, nur das Wesen der Dinge zu bewahren」
+########## kumagai-morikazu__en
+- 一言紹介／“A Western-style painter”／指定訳「洋画家」と一致していない。また、“worked in clear outline” は英語として不自然／“A Yōga (Western-style) Painter who painted with clear outlines and flat areas of color” に直す。
+- 略歴／“a Western-style painter”／指定訳「洋画家」と一致していない／“a Yōga (Western-style) Painter” に直す。
+- 略歴／“the dark tones of his early years”／「初期の暗い色調」は初期作品の色調を指すが、“his early years” は本人の若年期という意味になる／“the dark tones of his early work” に直す。
+- 略歴／“He spent long years gazing at the garden of his home”／“spent long years” と “the garden of his home” が不自然／“He spent many years gazing at his garden” に直す。
+- 功績／“a Western-style painter”／指定訳「洋画家」と一致していない／“a Yōga (Western-style) Painter” に直す。
+- 功績／“attending to the thick, clear outlines and the flatly applied fields of color conveys”／動名詞句が「境地を伝える」という構造になっており、不自然で日本語の「注目すると、感じられる」に対応していない／“when one attends to the thick, clear outlines and flat fields of color, one senses” に直す。
+- 功績／“a generous, limpid state of mind that sought to retain nothing but the essence of things”／“state of mind” が “sought” の主体になっており、意味上不自然／“the generous, limpid state of mind of an artist who sought to retain nothing but the essence of things” に直す。
+########## kumagai-morikazu__es
+- 略歴／「flores, insectos y gatos cercanos」／「身近な」は物理的に近くにいるという意味ではなく、日常的に身近な題材を指す。「gatos cercanos」は不自然で意味がずれる／「flores, insectos y gatos de su entorno cotidiano」とする。
+- 略歴／「Pasó largos años contemplando el jardín de su casa」／「長く」を「何年もの間」と具体化しており、原文にない期間の解釈が加わっている／「Pasó mucho tiempo contemplando el jardín de su casa」とする。
+- 功績／「atender a los contornos gruesos y nítidos y a los planos de color aplicados llanamente transmite un estado de ánimo generoso y límpido」／「aplicados llanamente」はスペイン語として不自然。また、「輪郭線と色面に注目すると、境地が感じられる」という関係が、「注目することが気分を伝える」という不自然な構文になっている／「al fijarse en los contornos gruesos y nítidos y en los planos de color aplicados de manera plana, se percibe un estado de serenidad amplio y diáfano」とする。
+########## kumagai-morikazu__fr
+一言紹介／「travailla en contours nets et en couleurs plates」／「travailler en contours」はフランス語として不自然。／「peignait avec des contours nets et des couleurs en aplats」とする。
+略歴／「Passant des tons sombres de ses débuts par une manière d'expression fauve」／「passer de… par…」という構文が不自然。／「Après les tons sombres de ses débuts et une période marquée par une expression fauve」とする。
+功績／「prêter attention aux contours épais et nets et aux aplats de couleur fait sentir」／不定詞句を主語とする表現が硬く、不自然。／「l'attention portée aux contours épais et nets et aux aplats de couleur permet de percevoir」とする。
+功績／「un état d'esprit généreux et limpide, soucieux de ne retenir que l'essence des choses」／「ものの本質だけを残そうとした」の主体が「état d'esprit」になっており、意味関係がずれている。／「une sérénité ample et limpide, née de la volonté de ne retenir que l'essence des choses」とする。
+########## kumagai-morikazu__ko
+略歴／「가까운 꽃과 벌레, 고양이」／「身近な」を「가까운」としたため、距離が近いという意味に読める／「주변에서 흔히 볼 수 있는 꽃과 벌레, 고양이」に直す。
+略歴／「오랫동안 자택의 정원을 바라보며 지내 「화단의 선인」이라고도 불렸다」／「지내」の接続が不自然で、文法的にも述語のつながりが悪い／「오랫동안 자택의 정원을 바라보며 지냈으며, 「화단의 선인」이라고도 불렸다」に直す。
+########## kumagai-morikazu__zh_cn
+- 一言紹介／「西画家」／指定用語「洋画家 → 西洋画家」と不一致。／「西洋画家」に直す。
+- 略歴／「西画家」／指定用語「洋画家 → 西洋画家」と不一致。／「西洋画家」に直す。
+- 略歴／「花、虫与猫」／原文の「など」が落ちており、対象がこの3種類だけに限定されている。／「花、虫、猫等」に直す。
+- 略歴／「辞退文化勋章」／「辞退」は職務などを辞める意味に取られやすく、文化勲章を受けなかったという原意に不自然。／「谢绝接受文化勋章」に直す。
+- 功績／「他是一位」／故人について現在形になっている。／「他曾是一位」に直す。
+- 功績／「西画家」／指定用語「洋画家 → 西洋画家」と不一致。／「西洋画家」に直す。
+########## kumagai-morikazu__zh_tw
+- 一言紹介／「西畫家」／指定訳「西洋畫家」と異なる。／「西洋畫家」に直す。
+- 略歴／「西畫家」／指定訳「西洋畫家」と異なる。／「西洋畫家」に直す。
+- 略歴／「熊谷守一是出生於岐阜縣付知的西畫家」／故人に現在形の「是」を用いている。／「熊谷守一曾是出生於岐阜縣付知的西洋畫家」に直す。
+- 略歴／「辭退文化勳章」／「辭退」は職務などを退く意味に取られやすく、文化勲章を受けなかったという意味として不自然。／「婉拒文化勳章」に直す。
+- 功績／「他是一位」／故人に現在形を用いている。／「他曾是一位」に直す。
+- 功績／「西畫家」／指定訳「西洋畫家」と異なる。／「西洋畫家」に直す。
+########## kumagai-tsuneko__de
+- 略歴／「war als Kalligrafin in der Ausstellungskalligrafie tätig」／「Ausstellungskalligrafie」は不自然で、「女性のかな書家」という情報も十分に表されていない／「war als Kana-Kalligrafin mit ihren Arbeiten auf Ausstellungen tätig」
+- 略歴／「eine an den Heian-Kohitsu gelernte anmutige und würdevolle Kana-Kalligrafie」／「an … gelernte Kalligrafie」はドイツ語として不自然で、「古筆に学んだ」の係り方も不明瞭／「eine anmutige und würdevolle Kana-Kalligrafie, die auf ihrem Studium der Heian-Kohitsu beruhte」
+- 功績／「in ihrer Kana auf Waka-Gedichten und Tanzaku-Gedichtstreifen」／「Waka-Gedichten」は語義が重複気味で、「かな書」の訳し方も不自然／「in ihren Kana-Kalligrafien von Waka und auf Tanzaku-Gedichtstreifen」
+- 功績／「auf die Kette feiner, weicher Linien」／「Kette」は線の連なりを表す語として不自然／「auf den Verlauf feiner, weicher Linien」
+- 功績／「die an den Heian-Kohitsu gelernte Anmut hegte」／「Anmut lernen」「Anmut hegen」という結び付きが不自然／「die durch das Studium der Heian-Kohitsu gewonnene Anmut bewahrte」
+- 功績／「in der das Prunkvolle zurückgehalten ist」／受動表現が不自然で、文全体の時制ともなじまない／「deren Pracht bewusst zurückgenommen war」
+########## kumagai-tsuneko__en
+- 略歴／“a kana calligrapher” “a woman calligrapher”／原文の「かな書家」に指定訳が使われていない／それぞれ “a Calligrapher (Kana)” “a woman Calligrapher (Kana)” とする。
+- 略歴／“She produced graceful and dignified kana calligraphy learned from the Heian kohitsu.”／“learned” が “kana calligraphy” を修飾し、書そのものが学んだように読める／“She produced graceful and dignified kana calligraphy informed by her study of Heian-period kohitsu.” とする。
+- 略歴／“She is said to have served the Imperial Household as well.”／“served” は皇室に仕えたという意味が強く、「皇室の用にも携わった」より踏み込んでいる／“She is also said to have undertaken work for the Imperial Household.” とする。
+- 功績／“attending to the chain of delicate, soft lines and to the restrained, refined empty space reveals a stance that”／主語と “reveals” の関係が不自然で、「姿勢が感じられる」の意味も十分に表せていない／“when one observes the delicate, softly flowing lines and the restrained, refined use of blank space, one senses her commitment to” とする。
+- 功績／“a quiet elegance in which showiness is held back”／英語として不自然で、「はなやかさを抑えた静かな気品」の表現としても硬い／“a quiet dignity tempered by restraint” とする。
+########## kumagai-tsuneko__es
+- 略歴／「una calígrafa de kana」／指定用語「かな書家」と一致しない／「una calígrafa (kana)」に直す。
+- 略歴／「sirvió también a la Casa Imperial」／「皇室の用にも携わった」よりも、皇室に仕えたという強い意味になっている／「también realizó trabajos para la Casa Imperial」に直す。
+- 略歴／「aprendida de los kohitsu de Heian」／「caligrafía」を「古筆から学んだ」とする修飾が不自然／「inspirada en los kohitsu de Heian」に直す。
+- 功績／「tiras-poema tanzaku」／スペイン語として不自然な複合語／「tiras de poemas tanzaku」に直す。
+- 功績／「los vacíos contenidos y refinados」／「余白」の訳として不自然で、「ひかえめで品のよい」の意味も十分に伝わらない／「los espacios en blanco discretos y refinados」に直す。
+- 功績／「el lucimiento se mantiene contenido」／「はなやかさを抑えた」の訳として不自然／「la vistosidad se mantiene contenida」に直す。
+########## kumagai-tsuneko__fr
+- 一言紹介／「porta à sa maîtrise un kana」／フランス語として不自然で、「かなを究めた」の意味も明確でない／「maîtrisa le kana enraciné dans les classiques」とする。
+- 略歴／「une calligraphe de kana」／指定語「かな書家」と一致しない／「une calligraphe (kana)」とする。
+- 略歴／「une calligraphie kana gracieuse et empreinte de dignité, apprise des kohitsu de Heian」／「apprise」が「calligraphie」に掛かり、書そのものが古筆から学んだように読める／「une calligraphie kana gracieuse et empreinte de dignité, inspirée des kohitsu de Heian」とする。
+- 略歴／「elle servit aussi la Maison impériale」／「皇室に仕えた」という原文より強い事実になっている／「elle participa aussi, dit-on, à des travaux destinés à la Maison impériale」とする。
+- 功績／「porta à sa maîtrise un kana」／フランス語として不自然で、「かなを究めた」の意味も明確でない／「maîtrisa le kana enraciné dans les classiques」とする。
+- 功績／「aux vides retenus et raffinés」／「ひかえめで品のよい余白」の訳として不自然／「aux espaces blancs discrets et raffinés」とする。
+- 功績／「une élégance silencieuse où l'éclat est contenu」／「はなやかさを抑えた静かな気品」の表現として不自然で、時制も周囲と不統一／「une dignité sereine et dépourvue d'ostentation」とする。
+########## kumagai-tsuneko__ko
+- 一言紹介／「가나를 깊이 이룬」／「가나を究めた」の訳として不自然で、「이루다」は目的語「가나」と結び付きにくい／「가나를 깊이 탐구한」に直す。
+- 略歴／「전람회 서예에서 활약했다」／「展覧会の書で活躍した」の訳として不自然で、活動の場と手段の関係が曖昧／「전람회에서 서예 작품을 발표하며 활약했다」に直す。
+- 略歴／「헤이안의 고히쓰에서 배운」／古筆を学習対象とする場合の助詞「에서」が不自然／「헤이안의 고히쓰를 본받은」に直す。
+- 略歴／「가나서를 제작했다」／本文中の「かな書」が「가나 서예」と「가나서」に不統一／「가나 서예 작품을 제작했다」に直す。
+- 功績／「가나를 깊이 이룬」／「かなを究めた」の訳として不自然／「가나를 깊이 탐구한」に直す。
+- 功績／「와카나 단자쿠의 가나서에서는」／「가나서」が他の箇所の「가나 서예」と不統一／「와카나 단자쿠의 가나 서예에서는」に直す。
+- 功績／「자세를 느낄 수 있다」／「姿勢を感じる」の直訳調で、韓国語として連語が不自然／「태도를 엿볼 수 있다」に直す。
+########## kumagai-tsuneko__zh_cn
+- 一言紹介／「穷究根植古典之假名的女性书法家」／「根植古典之假名」が不自然で、「かな」も書法ではなく仮名文字そのものを究めたように読める／「穷究根植于古典的假名书法的女性书法家」
+- 略歴／「作为女性假名书法家在展览书道中活跃」／「展览书道」は不自然で、「展覧会の書」を適切に表していない。また故人について現在も活躍しているように読める／「作为女性假名书法家，曾凭借展览会上的书法作品而活跃」
+- 略歴／「制作取法平安古笔的优美而高雅的假名书」／主語がなく、「制作」の目的語も不自然。故人の過去の制作活動であることが明確でない／「她创作了取法平安古笔、优美而高雅的假名书法作品」
+- 略歴／「相传亦曾承担皇室之用」／「承担皇室之用」は中国語として意味が取りにくい／「相传她也曾参与皇室用书事宜」
+- 功績／「穷究根植古典之假名的书法家」／動詞のない文断片であり、「かな」も仮名文字そのものを指すように読める／「她是穷究根植于古典的假名书法的书法家」
+- 功績／「便能感受到一种既珍视取法平安古笔之优美、又力图在一纸之上呈现敛去华丽的静谧气韵的姿态」／「感受到……姿态」の結び付きが不自然で、「姿勢」はここでは創作態度を指す／「便能感受到她既珍视取法平安古笔的优美，又力图在一纸之上表现收敛华丽感的静谧品格这一创作态度」
+########## kumagai-tsuneko__zh_tw
+略歴／「熊谷恆子是出生於京都府的假名書法家」／故人について現在形で書かれている／「熊谷恆子出生於京都府，曾是假名書法家」に直す。
+略歴／「作為女性假名書法家在展覽書道中活躍」／「展覽書道」は不自然で、「展覧会の書」の意味を適切に表していない。また故人に対する時制が不適切／「作為女性假名書法家，曾活躍於書法展覽」に直す。
+略歴／「相傳亦曾承擔皇室之用」／「承擔皇室之用」は中国語として不自然な語の組み合わせ／「相傳亦曾為皇室所用」に直す。
+功績／「窮究根植古典之假名的書法家」／動詞のない文の断片であり、故人であることも示されていない／「她曾是窮究根植古典之假名的書法家」に直す。
+########## kumakura-junkichi__de
+功績／「anders als bei schwerer Skulptur」／「重々しい造形」を「schwere Skulptur（重い彫刻）」としており、分野名の「彫刻」と混同される誤訳です。また、前後の構文も不自然です。／「Im Gegensatz zu einer schwer und wuchtig wirkenden Formgebung」に直す。
+略歴／「leichte, verspielte Formen」／「leichte Formen」は「軽量な形」とも読め、「軽やかで遊び心ある造形」の表現として不自然です。／「unbeschwerte, spielerische Formgestaltungen」に直す。
+########## kumakura-junkichi__en
+略歴／“went beyond the frame of the vessel”／「器の枠をこえた」の直訳調で、英語として不自然。／“went beyond the conventions of functional vessels” に直す。
+功績／“a sensibility unlike weighty sculpture”／「造形」を “sculpture” と取り違えており、比較関係も不自然。／“a sensibility distinct from that embodied in weighty forms” に直す。
+功績／“sought to give ceramic form a lightness that delights the viewer”／「軽やかさを陶で表そうとした」が「軽やかさに陶の形を与えようとした」という意味にずれている。／“sought to express in ceramics a lightness that delights the viewer” に直す。
+########## kumakura-junkichi__es
+功績／「una sensibilidad muy distinta de la escultura pesada」／「造形」を「escultura（彫刻）」としており、分野名との取り違えになっている／「una sensibilidad muy distinta de las formas pesadas」に直す。
+########## kumakura-junkichi__fr
+指摘なし
+########## kumakura-junkichi__ko
+略歴／「도예가이다」「알려져 있다」「평가된다」／故人について現在形が使われている／それぞれ「도예가였다」「알려졌다」「평가되었다」に直す。
+功績／「도예가이다」／故人について現在形が使われている／「도예가였다」に直す。
+########## kumakura-junkichi__zh_cn
+- 一言紹介／「创作出动感与幽默陶艺装置的作家」／指定訳では「作家」は「艺术家」。／「创作出动感与幽默陶艺装置的艺术家」に直す。
+- 略歴／「制作越出器物框架的陶艺装置」／「越出器物框架」は不自然。／「创作突破器皿框架的陶艺装置」に直す。
+- 略歴／「富游戏心」／中国語として不自然。／「富有趣味性」に直す。
+- 略歴／「熊仓顺吉是出生于京都的陶艺家」／故人について現在形で書かれている。／「熊仓顺吉曾是出生于京都的陶艺家」に直す。
+- 功績／「创作出动感与幽默陶艺装置的陶艺家」／動詞のない文の断片であり、故人であることも表されていない。／「他曾是一位创作出动感与幽默陶艺装置的陶艺家」に直す。
+- 功績／「他与厚重造型不同」／「彼自身が重々しい造形と異なる」という意味になり、比較対象を取り違えている。／「不同于厚重的造型」に直す。
+- 功績／「将音乐与都市的活力摹写于土」／「摹写于土」が中国語として不自然。／「将音乐与都市的活力映现于陶土之中」に直す。
+########## kumakura-junkichi__zh_tw
+- 略歴／「製作越出器物框架的陶藝裝置」／「越出器物框架」は中国語として不自然。／「製作超越器物框架的陶藝裝置」に直す。
+- 略歴／「他被視為為戰後前衛陶藝增添獨特明朗氣息的一人」／「增添……的一人」という結びが不自然。／「他被視為是為戰後前衛陶藝增添獨特明朗氣息者之一」に直す。
+- 功績／「創作出動感與幽默陶藝裝置的陶藝家」／動詞のない文断片になっている。／「他是創作出動感與幽默陶藝裝置的陶藝家」に直す。
+- 功績／「便能感受到他與厚重造型不同」／「他」が「厚重造型」と異なるという誤った比較になっている。／「便能感受到一種有別於厚重造型的感性」に直す。
+- 功績／「愉悅觀者的輕盈之感」／「愉悅觀者」の語順と用法が不自然。／「使觀者感到愉悅的輕盈感」に直す。
+########## kume-keiichiro__de
+一言紹介／「Yōga-Maler」／指定訳「Maler im westlichen Stil (Yōga)」と一致しない。／「Maler im westlichen Stil (Yōga), der gemeinsam mit Kuroda Seiki die Hakuba-kai begründete」に直す。
+功績／「Freilicht-Ausdruck」／ドイツ語として不自然な複合語。／「Darstellung des hellen Freilichts」に直す。
+功績／「Erzieher」／原文の「教育者」に対する指定訳「Pädagoge」と一致しない。／「Pädagoge」に直す。
+########## kume-keiichiro__en
+一言紹介／“A Yōga painter”／指定訳「Yōga (Western-style) Painter」と不一致。／“A Yōga (Western-style) Painter”に直す。
+略歴／“a Yōga painter”／指定訳「Yōga (Western-style) Painter」と不一致。／“a Yōga (Western-style) Painter”に直す。
+功績／“a painter in whom it is worth attending”／英語として不自然で、「作家」の指定訳とも不一致。／“an Artist whose work merits attention”に直す。
+功績／“his experience abroad”／「留学経験」の「学んだ」という事実が落ちている。／“his experience studying abroad”に直す。
+########## kume-keiichiro__es
+- 一言紹介／「Pintor de yōga」／指定用語「洋画家」と一致しない／「Pintor de estilo occidental」に直す。
+- 略歴／「un pintor de yōga」／指定用語「洋画家」と一致しない／「un pintor de estilo occidental」に直す。
+- 功績／「la luminosa expresión del plenairismo」／「明るい外光表現」を「プレネリスモ」という様式・技法に置き換えている／「la representación de la luz brillante al aire libre」など、外光の表現を直接示す訳に直す。
+- 功績／「su mirada de educador」／指定用語「教育者」と一致しない／「su mirada de pedagogo」に直す。
+########## kume-keiichiro__fr
+- 一言紹介／「Peintre de yōga」／指定訳「洋画家」と不一致。／「Peintre de style occidental」に直す。
+- 略歴／「un peintre de yōga」／指定訳「洋画家」と不一致。／「un peintre de style occidental」に直す。
+- 略歴／「De retour」／「帰国後」の「帰国」が明示されていない。／「De retour au Japon」に直す。
+- 略歴／「où il représenta paysages et figures dans une palette retenue」／関係詞「où」により、《秋景》《晩秋》に風景と人物の両方を描いたという原文にない限定が生じている。また「représenta paysages」は冠詞がなく不自然。／「Il peignait des paysages et des figures dans des tons sobres.」のように独立した文にする。
+- 功績／「un peintre chez qui il vaut la peine de prêter attention」／日本語の「作家」は指定訳では「Artiste」。また「chez qui il vaut la peine de prêter attention」は不自然。／「un artiste dont il convient de remarquer…」などに直す。
+########## kume-keiichiro__ko
+略歴／「서양화가이다」／故人について現在形になっている／「서양화가였다」に直す。
+略歴／「《추경》 《만추》」／作品名の間に区切りがない／「《추경》, 《만추》」に直す。
+功績／「작가이다」／故人について現在形になっている／「작가였다」に直す。
+########## kume-keiichiro__zh_cn
+功績／「教育者的视线」／指定用語「教育者 → 教育家」と一致していない。／「教育家的视线」に直す。
+########## kume-keiichiro__zh_tw
+功績／「教育者的視線」／指定用語「教育者→教育家」と一致していない／「教育家的視線」に直す。
+########## kumi-sugai__de
+- 略歴／「Straßenmarkierungen」／「道路標識」を「道路上の標示・路面標示」と取り違えている。／「Verkehrszeichen」に直す。
+- 略歴／「kühnen Linien」／「太い線」が「大胆な線」という評価的な意味になっている。／「breiten Linien」に直す。
+- 略歴／「moderne Oberflächen, die mit einem Empfinden von Geschwindigkeit geladen waren」／「現代的な画面」の誤訳で、「Oberflächen」は不自然。また、現在も続く評価を述べる「Bekannt ist er」に対して「waren」は時制が不整合。／「moderne Bildflächen voller Dynamik」に直す。
+- 功績／「anstatt in komplexer Emotion zu arbeiten」／「複雑な感情を描き込む」の誤訳で、ドイツ語としても不自然。／「anstatt komplexe Gefühle ins Bild einzuarbeiten」に直す。
+- 功績／「die jedes Auge im Nu erreichen」／「誰の目にも一瞬で届く」の逐語訳で、ドイツ語として不自然。／「die für jeden auf den ersten Blick erfassbar sind」に直す。
+########## kumi-sugai__en
+略歴／“road markings”／「道路標識」を「路面標示」の意味に取り違えており、功績欄の “road signs” とも不統一。／“road signs” に直す。
+略歴／“he went on to a spare, forceful abstraction”／英語として不自然な言い回し。／“he moved toward spare, forceful abstraction” に直す。
+略歴／“modern surfaces charged with a sense of speed”／“surfaces” は「画面」の訳として不自然。／“modern compositions charged with a sense of speed” に直す。
+功績／“one senses a sense of form akin to design that, rather than working in complex emotion, sought to express”／“senses a sense” が冗長で、“working in complex emotion” は「複雑な感情を描き込む」の誤訳。また、“that” の係り先が曖昧。／“one senses a formal sensibility akin to design: rather than depicting complex emotions, Sugai sought to express” に直す。
+功績／“lucid signs and colors that reach every eye in an instant”／「誰の目にも一瞬で届く」の直訳調で不自然。／“lucid signs and colors that communicate instantly to any viewer” に直す。
+########## kumi-sugai__es
+略歴／「una abstracción austera y vigorosa」／「austera」は「簡潔な」より「禁欲的・質素な」という意味合いが強い／「una abstracción sencilla y vigorosa」に直す。
+功績／「lejos de trabajar emociones complejas」／「複雑な感情を描き込む」の訳として「trabajar emociones」は不自然で、意味も不明瞭／「en lugar de plasmar emociones complejas」に直す。
+功績／「que alcanzan toda mirada en un instante」／「誰の目にも一瞬で届く」の直訳調で、スペイン語として不自然／「que llegan instantáneamente a la mirada de cualquiera」に直す。
+########## kumi-sugai__fr
+- 略歴／「des surfaces modernes chargées d'un sentiment de vitesse」／「画面」を « surfaces » とするのは不自然で、« chargées d'un sentiment de vitesse » もフランス語としてこなれていない。／「des compositions picturales modernes empreintes d'une impression de vitesse」
+- 功績／「Dans les tableaux signalétiques de la maturité」／「後期」を「成熟期」としており、原文にない評価的な含意が加わっている。／「Dans ses tableaux signalétiques tardifs」
+- 功績／「qui atteignent tout regard en un instant」／「誰の目にも一瞬で届く」の意味が不自然で、フランス語としても « atteindre tout regard » はこなれていない。／「immédiatement accessibles à tous」
+########## kumi-sugai__ko
+- 略歴／「스가이 구미는 효고현에서 태어난 화가이다.」／故人に現在形を用いている／「스가이 구미는 효고현에서 태어난 화가였다.」に直す。
+- 略歴／「속도감이 넘치는 현대적인 화면으로 알려져 있다.」／故人の略歴として現在形になっている／「속도감이 넘치는 현대적인 화면으로 알려졌다.」に直す。
+- 略歴／「전후 해외에서 활약한 일본인 화가 가운데 한 사람으로 평가된다.」／故人の略歴として現在形になっている／「전후 해외에서 활약한 일본인 화가 가운데 한 사람으로 평가되었다.」に直す。
+- 功績／「파리에서 활약한 기호적 추상화가이다.」／故人に現在形を用いている／「파리에서 활약한 기호적 추상화가였다.」に直す。
+########## kumi-sugai__zh_cn
+略歴／「其后转向令人联想到道路标志的明快符号，以及由粗线与鲜艳色面构成的、简洁而有力的抽象」／「转向符号，以及……抽象」という並列が不自然で、何に転じたのかが曖昧。／「其后转向以令人联想到道路标志的明快符号、粗线与鲜艳色面构成的简洁而有力的抽象画」に直す。
+功績／「一种近乎设计的造型感觉」／「近乎设计」は「デザインにも通じる」の誤訳で、「デザインに近い」という意味になっている。／「一种与设计相通的造型感」に直す。
+功績／「传达至任何人眼中的」／中国語として不自然な言い回しで、「誰の目にも一瞬で届く」の意味も伝わりにくい。／「任何人都能一眼看懂的」に直す。
+########## kumi-sugai__zh_tw
+略歴／「他以洋溢著速度感的現代畫面而知名。他被視為戰後在海外活躍的日本畫家之一。」／故人について現在形で書かれている。／「他曾以洋溢著速度感的現代畫面而聞名。他曾被視為戰後在海外活躍的日本畫家之一。」とする。
+功績／「近乎設計的造形感覺」／「デザインにも通じる」は「設計に近い」という意味ではなく、設計とも共通する造形感覚を指す。／「與設計相通的造形感覺」とする。
+功績／「傳達至任何人眼中」／「誰の目にも一瞬で届く」の訳として不自然で、「伝達されて目の中に至る」という表現になっている。／「任何人一眼便能理解」とする。
+########## kuniyoshi-yasuo__de
+一言紹介／「Yōga-Maler」／指定訳「Maler im westlichen Stil (Yōga)」と一致しない。／「Maler im westlichen Stil (Yōga), der in die USA auswanderte und in deren Kunstwelt anerkannt wurde」とする。
+略歴／「Mit New York als Stützpunkt」／「ニューヨークを拠点に」の直訳調で、ドイツ語として不自然。／「Von New York aus entwickelte er eine eigenständige Malerei」とする。
+略歴／「während er sich durch Arbeit selbst erhielt」／「働きながら」の表現として不自然。／「während er durch Arbeit seinen Lebensunterhalt bestritt」とする。
+略歴／「einem lebenden Künstler」／原文は「存命の画家」であり、上位概念の「Künstler」に置き換わっている。／「einem lebenden Maler」とする。
+功績／「Yōga-Maler」／指定訳「Maler im westlichen Stil (Yōga)」と一致しない。／「Maler im westlichen Stil (Yōga)」とする。
+功績／「dort als Künstler japanischer Herkunft lange weiterarbeitete」／「制作を続けた」が一般的な「働き続けた」という意味になっており、画家として制作した事実が明確でない。／「dort als Maler japanischer Herkunft lange künstlerisch tätig war」とする。
+功績／「offenbart die Aufmerksamkeit für die gedämpften Töne und die von einer gewissen Einsamkeit berührten Figuren und Gegenstände den Blick eines Malers」／「注目すると、まなざしが感じられる」という原文の構造が不自然に訳され、「Aufmerksamkeit」が「Blick」を明らかにする表現になっている。また「von einer gewissen Einsamkeit berührten」も不自然。／「Betrachtet man die gedämpften Farbtöne und die Figuren und Gegenstände, die eine gewisse Einsamkeit ausstrahlen, lässt sich darin der Blick eines Malers erkennen, der zwischen zwei Ländern lebte」とする。
+########## kuniyoshi-yasuo__en
+略歴／“while supporting himself by work”／英語として不自然な言い回し。／“while working to support himself”に直す。
+略歴／“he developed a distinctive painting”／「独自の絵画を築き」の訳として不自然で、一点の絵画を制作したようにも読める。／“he developed his own distinctive style of painting”に直す。
+略歴／“the first ever devoted to a living artist there”／「存命の画家として初」の「画家」が“artist”になっており、また“there”の係り方が曖昧。／“the museum’s first retrospective devoted to a living painter”に直す。
+略歴／“he was restricted as an enemy alien”／制限された対象が本人そのものとなっており、「活動を制限され」の意味が落ちている。／“his activities were restricted because he was classified as an enemy alien”に直す。
+略歴／“the American citizenship”／“citizenship”に不要な定冠詞が付いている。／“the American citizenship”を“American citizenship”に直す。
+略歴／“ended his life”／自殺したという意味に取られ得るため、「生涯を終えた」の訳として不適切。／“died without obtaining the American citizenship he had sought”に直す。
+功績／“continued to work there”／日本語の「長く」が訳出されていない。／“continued to work there for many years”に直す。
+########## kuniyoshi-yasuo__es
+一言紹介／「Un pintor yōga que emigró a América」／「洋画家」が指定訳語になっておらず、「América」は「アメリカ合衆国」より広い地域を指す／「Un pintor de estilo occidental que emigró a los Estados Unidos」に直す。
+略歴／「un pintor yōga (de estilo occidental)」／「洋画家」の指定訳語と一致しない／「un pintor de estilo occidental」に直す。
+略歴／「la primera consagrada allí a un artista vivo」／原文の「存命の画家」が「存命の芸術家」になっている／「la primera consagrada allí a un pintor vivo」に直す。
+功績／「Fue un pintor yōga」／「洋画家」の指定訳語と一致しない／「Fue un pintor de estilo occidental」に直す。
+功績／「continuó allí su trabajo como artista de origen japonés」／「画家」が「artista」と訳され、指定訳語と不一致。また、原文の「長く」が落ちている／「continuó allí durante muchos años su trabajo como pintor de origen japonés」に直す。
+########## kuniyoshi-yasuo__fr
+- 一言紹介／「Un peintre yōga」／指定訳「洋画家 → Peintre de style occidental」と不一致。／「Un peintre de style occidental」に直す。
+- 一言紹介／「reconnu dans son milieu artistique」／「アメリカ画壇」の「アメリカ」が明確に表されていない。／「reconnu dans le milieu artistique américain」に直す。
+- 略歴／「un peintre yōga (de style occidental)」／指定訳と不一致。／「un peintre de style occidental」に直す。
+- 略歴／「pour subvenir à ses besoins」／「生活費を賄うため」という目的が原文にない。／削除し、「tout en travaillant」とする。
+- 略歴／「un artiste vivant」／原文は「存命の画家」であり、範囲の広い「芸術家」になっている。／「un peintre vivant」に直す。
+- 功績／「un peintre yōga」／指定訳と不一致。／「un peintre de style occidental」に直す。
+- 功績／「fut reconnu dans son milieu artistique」／「アメリカの画壇」の「アメリカ」が明確に表されていない。／「fut reconnu dans le milieu artistique américain」に直す。
+########## kuniyoshi-yasuo__ko
+功績／「오래 제작을 이어간」／韓国語として不自然な語順・表現。／「오랫동안 작품 제작을 이어간」に直す。
+功績／「칙칙한 색조」／「칙칙한」は否定的・口語的な響きが強く、「くすんだ色調」の訳として不自然。／「탁한 색조」に直す。
+########## kuniyoshi-yasuo__zh_cn
+- 略歴／「建立起独特的绘画」／「建立」と「绘画」の組み合わせが不自然。／「形成了独特的绘画风格」に直す。
+- 功績／「长期持续创作」／「长期」と「持续」の意味が重なり、不自然。／「长期从事创作」に直す。
+- 功績／「便能体会一位生活在两国夹缝间的画家的目光」／「体会」と「目光」の組み合わせが不自然。／「便能感受到一位生活在两国之间的画家的目光」に直す。
+########## kuniyoshi-yasuo__zh_tw
+- 略歴／「建立起獨特的繪畫」／「建立」與「繪畫」搭配不自然／改為「開創出獨特的繪畫」。
+- 略歴／「他作為敵國僑民活動受限」／語序與搭配不自然／改為「他因被視為敵國僑民，活動受到限制」。
+- 功績／「便能體會一位生活在兩國夾縫間的畫家的目光」／「體會……目光」搭配不自然／改為「便能感受到一位生活在兩國夾縫間的畫家的目光」。
+########## kuramata-shiro__de
+一言紹介／「Ein Gestalter」／指定訳「Designer」と不一致。／「Ein Designer」に直す。
+略歴／「Interior- und Möbeldesigner」／指定訳「Interiordesigner」が使われていない。／「Interiordesigner und Möbeldesigner」に直す。
+略歴／「einem Sessel」／「椅子」を肘掛け椅子に限定しており、原文にない具体化。／「einem Stuhl」に直す。
+功績／「Ein Gestalter」／指定訳「Designer」と不一致。／「Ein Designer」に直す。
+功績／「einen zugleich zarten und kühnen Einfall, der – statt mit Festigkeit oder Schwere zu prunken – die Durchsichtigkeit der Materialien nutzte」／関係代名詞「der」の先行詞が「Einfall」となり、「発想が重厚さを誇り、素材を利用する」という不自然な構造。／「eine zugleich sensible und kühne Gestaltungsidee: Statt Festigkeit oder Schwere hervorzuheben, nutzte er die Transparenz der Materialien …」など、行為の主体を作家にする。
+########## kuramata-shiro__en
+- 略歴／“he won high international acclaim”／「高く評価された」に対して “won acclaim” は不自然で、受賞したようにも読める／“he was highly acclaimed internationally” に直す。
+- 略歴／“transcended weight and physical substance”／「実体感」の「感」が落ち、「物質そのものを超えた」という意味になっている／“transcended a sense of weight and physical presence” に直す。
+- 略歴／“one of those who exerted a great influence”／文法上は成立するが、人物紹介として不自然な言い回し／“one of the figures who had a major influence on contemporary design” に直す。
+- 功績／“attending to the chair enclosing flowers and to forms that seem to dissolve as light passes through”／“attending to” がこの文脈では不自然で、「注目すると」の意味が伝わりにくい／“when we focus on the chair enclosing flowers and on forms that seem to dissolve as light passes through” に直す。
+- 功績／“to sublimate furniture into a poetic image”／“sublimate A into B” は英語として不自然で、意図が伝わりにくい／“to transform furniture into a poetic image that transcended mere matter” に直す。
+########## kuramata-shiro__es
+- 略歴／「un diseñador de interiores y mobiliario」／指定語「家具デザイナー」が「mobiliario（家具）」となっており、肩書きとして訳されていない。／「un diseñador de interiores y diseñador de muebles」に直す。
+- 略歴／「muebles translúcidos」／「透き通る家具」に対して「半透明の家具」と意味が弱まっている。／「muebles transparentes」に直す。
+- 功績／「atender a la silla que encierra flores y a las formas」／「atender a」はここでは不自然で、「注目すると」という意味が明瞭でない。／「al fijarse en la silla que encierra flores y en las formas」に直す。
+- 功績／「una sensibilidad a la vez delicada y audaz —que」／ダッシュが閉じられておらず、関係節のつながりも不自然。／ダッシュを削除し、「una concepción a la vez delicada y audaz que」に直す。
+########## kuramata-shiro__fr
+- 略歴／「un designer d'intérieur et de mobilier」／指定用語と異なり、二つの肩書きも明確に区別されていない／「un architecte d'intérieur et designer de mobilier」に直す。
+- 略歴／「un mobilier translucide」／「透き通る」は、光を通すだけの *translucide* ではなく、透明な家具を指す／「un mobilier transparent」に直す。
+- 略歴／「— comme une chaise enfermant des fleurs ou un mobilier translucide —,»／閉じダッシュ直後のコンマが重複しており不自然／ダッシュを外し、「, comme une chaise enfermant des fleurs ou un mobilier transparent, il a été…」とする。
+- 一言紹介・略歴・功績／「créa」「fut salué」「conçut」「exercèrent」／美術館の現代的な紹介文として単純過去が不自然／それぞれ「a créé」「a été salué」「a conçu」「ont exercé」に直す。
+- 功績／「révèle une sensibilité à la fois délicate et audacieuse — qui, loin de se prévaloir de solidité ou de pesanteur, tirait parti de la transparence des matériaux」／関係代名詞 *qui* が *une sensibilité* を受けるため、「感性が丈夫さを誇り、素材を活用する」という不自然な意味になる。また「発想」が「感性」にずれている／「révèle une conception à la fois délicate et audacieuse : au lieu de mettre en avant la solidité ou la pesanteur, il tirait parti de la transparence des matériaux…」などに直す。
+########## kuramata-shiro__ko
+略歴／「구라마타 시로는 도쿄에서 태어난 인테리어·가구 디자이너이다.」／故人について現在形になっている。／「구라마타 시로는 도쿄에서 태어난 인테리어·가구 디자이너였다.」に直す。
+略歴／「상업 공간의 디자인도 다루었다.」／「デザインを手がけた」の訳として「다루었다」は不自然。／「상업 공간의 디자인도 맡았다.」に直す。
+略歴／「현대 디자인에 큰 영향을 준 한 사람으로 평가된다.」／「一人とされる」が「評価される」と訳されており、現在形でもある。／「현대 디자인에 큰 영향을 준 한 사람으로 여겨졌다.」に直す。
+功績／「투명감 넘치는 가구를 낳은 디자이너이다.」／家具について「낳은」は不自然で、故人について現在形になっている。／「투명감 넘치는 가구를 만들어 낸 디자이너였다.」に直す。
+########## kuramata-shiro__zh_cn
+- 一言紹介／「创造充满透明感家具的设计师」／「透明感」と「家具」の間に助詞がなく不自然／「创造充满透明感的家具的设计师」に直す。
+- 略歴／「仓俣史朗是出生于东京的室内、家具设计师」／故人に現在形を用いている。また「室内、家具设计师」では指定呼称「室内设计师」が完全な形で示されていない／「仓俣史朗曾是出生于东京的室内设计师、家具设计师」に直す。
+- 略歴／「他以玻璃、亚克力、金属网等素材，创造出轻盈而富诗意的家具与空间而知名」／「以……创造出……而知名」の係り方が不自然／「他因使用玻璃、亚克力、金属网等素材，创造出轻盈而富有诗意的家具与空间而闻名」に直す。
+- 略歴／「赢得国际高度评价」／中国語として語の結び付きが不自然／「在国际上受到高度评价」に直す。
+- 功績／「他是创造充满透明感家具的设计师」／故人に現在形を用いており、「透明感」と「家具」の間の助詞も欠けている／「他曾是创造充满透明感的家具的设计师」に直す。
+- 功績／「在亚克力与玻璃的家具中，留意封入花朵的椅子，以及透光而仿佛即将消隐的形态」／「在……家具中，留意……」という導入が不自然／「观察亚克力与玻璃家具中封入花朵的椅子，以及透光而仿佛即将消隐的形态」に直す。
+- 功績／「他并非炫耀坚固或厚重」／「丈夫さや重厚さを誇る」を、人が「炫耀する」という意味に取り違えている／「他并非着意彰显家具的坚固或厚重」に直す。
+########## kuramata-shiro__zh_tw
+- 一言紹介／「創造充滿透明感家具的設計師」／「透明感」と「家具」の間に構造助詞がなく、不自然／「創造充滿透明感的家具的設計師」に直す。
+- 略歴／「倉俣史朗是出生於東京的室內、家具設計師」／故人であるにもかかわらず現在形になっている／「倉俣史朗曾是出生於東京的室內、家具設計師」に直す。
+- 略歴／「他以玻璃、壓克力、金屬網等素材，創造出輕盈而富詩意的家具與空間而知名」／「以～而知名」の係り方が不自然で、故人について現在形で述べている／「他曾因運用玻璃、壓克力、金屬網等素材，創造出輕盈而富詩意的家具與空間而聞名」に直す。
+- 略歴／「贏得國際高度評價」／台湾華語として語の結び付きがやや不自然／「獲得國際間的高度評價」に直す。
+- 略歴／「他也從事商業空間的設計」／故人について現在形で述べている／「他也曾從事商業空間的設計」に直す。
+- 略歴／「他被視為對當代設計影響深遠的人物之一」／故人について現在形で述べている／「他曾被視為對當代設計影響深遠的人物之一」に直す。
+- 功績／「他是創造充滿透明感家具的設計師」／「透明感」と「家具」の間に構造助詞がなく、故人について現在形で述べている／「他曾是創造充滿透明感的家具的設計師」に直す。
+- 功績／「超越物質的、如詩一般的意象」／「的」の直後に読点を置く修飾構造が不自然／「超越物質、如詩一般的意象」に直す。

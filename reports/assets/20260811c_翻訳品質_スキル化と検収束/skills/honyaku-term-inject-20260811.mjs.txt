@@ -1,0 +1,164 @@
+/**
+ * 用語注入＝生成・訳し直しの前に、★その文に当たる語だけ★を台帳から引いてプロンプトへ入れる
+ * ────────────────────────────────────────────────────────────────
+ * なぜ必要か＝台帳を全部渡すと（呼称87語＋独語の語彙＋分野ラベル）プロンプトが長くなり、
+ *   関係ない語に引きずられて訳がぶれる。★その作家のその文に実際に出てくる語だけを渡す。
+ *
+ * 読むもの（すべて読み取り専用）：
+ *   C:\Vault\ARTS-RESPECT\_DATA_TO_PRODUCTION\kanshou_dict.json    呼称87語（fr/es/de は女性形 _f あり）
+ *   C:\Vault\ARTS-RESPECT\_DATA_TO_PRODUCTION\de_term_ledger.json  独語の語彙（分野ラベルと肩書きの別など）
+ *   C:\Vault\ARTS-RESPECT\_DATA_TO_PRODUCTION\genre_labels_i18n.json 分野ラベル
+ *   C:\Users\ataga\atspect-system\scripts\honyaku-ruling-dict.json   裁定辞書（その言語に効く型だけ）
+ *
+ * 使い方:
+ *   node honyaku-term-inject-20260811.mjs <handle> <lang> [--json]
+ *     lang = en / zh_cn / zh_tw / ko / fr / es / de
+ *   出力＝プロンプトに貼り付ける「用語の指定」ブロック（--json なら機械可読）
+ *
+ * 性別＝★既存の _readonly-honyaku-gender-20260810.mjs の decideGender を使う（自前で書き直さない）。
+ *   fr/es/de は女性形 _f を優先して出す。決められないときは両方を出し「本文で確かめること」と明記する。
+ *   ★決められないときに推測で片方を出さない（第13便＝男性の方に女性の代名詞を当てた事故の再発防止）。
+ */
+process.loadEnvFile(new URL("../.env", import.meta.url));
+import { readFileSync } from "node:fs";
+
+const V_DIR = "C:/Vault/ARTS-RESPECT/_DATA_TO_PRODUCTION";
+const S = process.env.SHOPIFY_STORE, T = process.env.SHOPIFY_ADMIN_API_TOKEN, VER = process.env.SHOPIFY_API_VERSION ?? "2026-07";
+const [, , handle, lang, ...flags] = process.argv;
+const AS_JSON = flags.includes("--json");
+const LANGS = ["en", "zh_cn", "zh_tw", "ko", "fr", "es", "de"];
+if (!handle || !LANGS.includes(lang)) {
+  console.error(`usage: node honyaku-term-inject-20260811.mjs <handle> <${LANGS.join("|")}> [--json]`);
+  process.exit(1);
+}
+
+async function gql(q, v) {
+  for (let i = 0; i < 6; i++) {
+    const r = await fetch(`https://${S}/admin/api/${VER}/graphql.json`, {
+      method: "POST", headers: { "Content-Type": "application/json", "X-Shopify-Access-Token": T },
+      body: JSON.stringify({ query: q, variables: v }),
+    });
+    const x = await r.text();
+    try { const j = JSON.parse(x); if (j.errors) throw new Error(JSON.stringify(j.errors)); return j.data; }
+    catch (e) { if (i === 5) throw e; await new Promise(z => setTimeout(z, 2500)); }
+  }
+}
+
+const d = await gql(`query($h:MetaobjectHandleInput!){ metaobjectByHandle(handle:$h){ fields{key value} } }`,
+  { h: { type: "artist", handle } });
+if (!d.metaobjectByHandle) { console.error("作家が見つかりません:", handle); process.exit(1); }
+const flat = Object.fromEntries(d.metaobjectByHandle.fields.map(x => [x.key, x.value]));
+let i18n = {}; try { i18n = JSON.parse(flat.artist_i18n || "{}"); } catch { }
+
+/** 検品・訳し直しの対象になる欄 */
+const FIELDS = ["statement", "bio", "viewpoint", "groups", "role", "collection", "masterworks"];
+const jaText = FIELDS.map(f => String(i18n?.[f]?.ja ?? "")).join("\n");
+const trText = FIELDS.map(f => String(i18n?.[f]?.[lang] ?? "")).join("\n");
+if (!jaText.trim()) { console.error("日本語の本文がありません:", handle); process.exit(1); }
+
+/** 性別＝★既存の判定スクリプトを使う（自前で書き直さない）。
+ *  _readonly-honyaku-gender-20260810.mjs は「作家自身を指すことがほぼ確実な signal だけを使い、
+ *  食い違えば判定しない」よう作られている（作品に描かれた女性を作家と取り違える欠陥を潰した版）。 */
+const { decideGender } = await import("./_readonly-honyaku-gender-20260810.mjs");
+// decideGender は (欄, 言語) => 本文 という取り出し関数を受け取る
+const getField = (k, l) => String((i18n?.[k]?.[l]) ?? flat[`${k}_${l}`] ?? "");
+const gender = decideGender(getField);
+
+const kanshou = JSON.parse(readFileSync(`${V_DIR}/kanshou_dict.json`, "utf8"));
+const genres = JSON.parse(readFileSync(`${V_DIR}/genre_labels_i18n.json`, "utf8"));
+const deLedger = JSON.parse(readFileSync(`${V_DIR}/de_term_ledger.json`, "utf8"));
+const ruling = JSON.parse(readFileSync(new URL("./honyaku-ruling-dict.json", import.meta.url), "utf8"));
+
+/** ★その文に当たる語だけを引く＝日本語本文に実際に出てくる見出し語だけ */
+function pick(dict, skip = ["_meta"]) {
+  const out = [];
+  for (const key of Object.keys(dict)) {
+    if (skip.includes(key)) continue;
+    if (!jaText.includes(key)) continue;
+    out.push([key, dict[key]]);
+  }
+  // 長い語を先に（「日本画家」を「画家」より先に当てる）
+  return out.sort((a, b) => b[0].length - a[0].length);
+}
+
+const roleHits = pick(kanshou.terms ?? {});
+const genreHits = pick(genres);
+
+/** 呼称の訳を、言語と性別に応じて1つに決める */
+function render(entry) {
+  const base = entry[lang];
+  if (!["fr", "es", "de"].includes(lang)) return base ? [base] : [];
+  const fem = entry[`${lang}_f`];
+  if (!fem || fem === base) return base ? [base] : [];
+  if (gender === "f") return [fem];
+  if (gender === "m") return [base];
+  return [base, fem];   // 決められないときは両方出す
+}
+
+/** 独語の語彙台帳＝その語が本文に出るものだけ */
+const deNotes = [];
+if (lang === "de") {
+  for (const group of ["genres", "roles"]) {
+    const g = deLedger[group]; if (!g) continue;
+    for (const key of Object.keys(g)) {
+      if (!jaText.includes(key)) continue;
+      deNotes.push([key, g[key]]);
+    }
+  }
+  for (const key of Object.keys(deLedger.de_style_rules ?? {})) deNotes.push([`（文体）${key}`, deLedger.de_style_rules[key]]);
+}
+
+/** 裁定辞書＝その言語に効く型だけ（scope が all か その言語） */
+function rulingFor(bucket) {
+  return (ruling[bucket] ?? []).filter(x => {
+    const sc = x.scope;
+    if (!sc) return true;
+    const arr = Array.isArray(sc) ? sc : [sc];
+    return arr.includes("all") || arr.includes(lang);
+  });
+}
+const adopt = rulingFor("auto_adopt"), reject = rulingFor("auto_reject");
+
+if (AS_JSON) {
+  console.log(JSON.stringify({
+    handle, lang, gender,
+    roles: roleHits.map(([k, v]) => ({ ja: k, use: render(v) })),
+    genres: genreHits.map(([k, v]) => ({ ja: k, use: v[lang] ? [v[lang]] : [] })),
+    de_ledger: deNotes,
+    auto_adopt: adopt.map(x => ({ id: x.id, type: x.type ?? x.name, fix: x.fix })),
+    auto_reject: reject.map(x => ({ id: x.id, type: x.type ?? x.name, reason: x.reason })),
+  }, null, 1));
+} else {
+  const L = { en: "英語", zh_cn: "簡体字中国語", zh_tw: "繁体字中国語", ko: "韓国語", fr: "フランス語", es: "スペイン語", de: "ドイツ語" }[lang];
+  const out = [];
+  out.push(`【用語の指定（${L}）】★この作家の本文に実際に出てくる語だけを載せています。`);
+  if (roleHits.length) {
+    out.push(`\n■ 呼称（台帳が正。ここにある語は必ずこの訳を使う）`);
+    for (const [k, v] of roleHits) {
+      const u = render(v);
+      if (!u.length) continue;
+      out.push(u.length === 1 ? `  ・${k} → ${u[0]}` : `  ・${k} → ${u[0]}（男性）／${u[1]}（女性）★本文で性別を確かめて選ぶ`);
+    }
+    if (gender) out.push(`  （既存の判定＝${gender === "f" ? "女性" : "男性"}。★本文で確かめてから使ってください）`);
+    else out.push(`  （★性別を判定できませんでした。推測で決めず、両方を示しています）`);
+  }
+  if (genreHits.length) {
+    out.push(`\n■ 分野ラベル`);
+    for (const [k, v] of genreHits) if (v[lang]) out.push(`  ・${k} → ${v[lang]}`);
+  }
+  if (deNotes.length) {
+    out.push(`\n■ ドイツ語の語彙台帳（この本文に当たるものだけ）`);
+    for (const [k, v] of deNotes) out.push(`  ・${k}：${typeof v === "string" ? v : JSON.stringify(v)}`);
+  }
+  if (adopt.length) {
+    out.push(`\n■ 直してよい型（${adopt.length}件）`);
+    for (const x of adopt) out.push(`  ・[${x.id}] ${x.type ?? x.name}${x.fix ? ` → ${x.fix}` : ""}`);
+  }
+  if (reject.length) {
+    out.push(`\n■ ★直してはいけない型（${reject.length}件）＝指摘されても採らない`);
+    for (const x of reject) out.push(`  ・[${x.id}] ${x.type ?? x.name}${x.reason ? `（${x.reason}）` : ""}`);
+  }
+  out.push(`\n★ここに無い語は台帳に無い語です。勝手に訳語を決めず、判断が要るものは人に回してください。`);
+  console.log(out.join("\n"));
+  console.error(`\n[抽出] 呼称${roleHits.length}語 ／ 分野${genreHits.length}語 ／ 独語台帳${deNotes.length}件 ／ 採用型${adopt.length} ／ 棄却型${reject.length}（台帳全体＝呼称${Object.keys(kanshou.terms ?? {}).length}語）`);
+}

@@ -1,0 +1,44 @@
+【用語の指定（ドイツ語）】★この作家の本文に実際に出てくる語だけを載せています。
+
+■ 呼称（台帳が正。ここにある語は必ずこの訳を使う）
+  ・現代美術家 → Zeitgenössischer Künstler
+  ・美術家 → Künstler
+  ・画家 → Maler
+  （既存の判定＝男性。★本文で確かめてから使ってください）
+
+■ 分野ラベル
+  ・デザイン → Design
+  ・現代美術 → Zeitgenössische Kunst
+
+■ ドイツ語の語彙台帳（この本文に当たるものだけ）
+  ・デザイン：Design
+  ・現代美術：Zeitgenössische Kunst
+  ・画家：{"de":"Maler","de_f":"Malerin","type":"translation"}
+  ・現代美術家：{"de":"Zeitgenössischer Künstler","de_f":"Zeitgenössische Künstlerin","type":"translation","note":"形容詞句=冠詞/性で語尾変化"}
+  ・美術家：{"de":"Künstler","de_f":"Künstlerin","type":"translation"}
+  ・（文体）_note：Codex独立レビュー(書サンプル・tool_uses=2)で抽出。残りジャンル翻訳時に厳守し、書も本ルールで推敲する。
+  ・（文体）avoid_translationese：["×ordnete eine Methode→entwickelte/systematisierte eine Methode","×tat sich hervor→profilierte sich","×Foren wie der Nitten→Institutionen und Ausstellungen wie der Nitten","×...-Szene(ジャーナリスティック)→...-Kreis"]
+  ・（文体）institution_gloss：Nitten/Nihon Shogeiin/Fünfte Abteilung 等の機関・制度名は初出で種別を補足(例: die Nitten-Ausstellung、das Nihon Shogeiin (Kalligrafie-Akademie))。固有名詞の性格を独語読者に明示。
+  ・（文体）soften_evaluatives：原文(en/ja)に無い価値判断を足さない(捏造ゼロ境界)。×die Grundlagen der modernen Kalligrafie legte→eine wichtige Grundlage ... schuf／×zentrale Gestalt→wichtige Gestalt。
+  ・（文体）chokoku_usage：彫刻：分野ラベル=Skulptur／人の肩書き=Bildhauer。混同しない。
+  ・（文体）gloss_terms_supplement：Siegelschneider等は必要に応じ『Künstler der Siegelschneidekunst』と補足可。Kirikane等 定訳なし語はローマ字＋説明のまま(正式訳に見せない)。
+
+■ 直してよい型（6件）
+  ・[A3] 全角空白・全角約物（（）「」、。）の残存 → 半角へ
+  ・[A4] 型1＝功績(viewpoint)または略歴(bio)の1文目が冠詞で始まる動詞のない断片 → 主語＋be動詞を補う（He was a／Il était un／Fue un／Er war ein／他是・她是／〜이다）。男女は本文の代名詞で判定
+  ・[A9] 是正作業が生んだ機械的な傷（二重空白・重複句読点） → 正規化
+  ・[A13] 文法の明白な誤り（性・格・一致・冠詞・活用） → その言語の正しい形へ直す。★ただし「サイト内の他の作家がどう書いているか」を先に実測し、定型があれば定型に合わせる
+  ・[A14] 引用符の閉じが半角（„…" のように開きと閉じが揃っていない） → 独語は „…“、仏語は « … » に揃える
+  ・[A18] ★文の分割処理が壊した文（独語の「日.」を文末と誤認して動詞が日付の途中に入る） → 元の1文に復元する。例＝「wurde am 6 geboren. Februar 1899 in der Stadt Fukuoka」→「wurde am 6. Februar 1899 in der Stadt Fukuoka geboren」
+
+■ ★直してはいけない型（8件）＝指摘されても採らない
+  ・[B1] 固有名詞の書き方への指摘＝人名・作家名・美術館名・雑誌名・作品名・学部名・団体名の表記／ローマ字化／長音記号／訳名化（読み・正式名の確認が要る＝事実の断定。読み未確認の人名（菱田宏治・名越詔司）はリサーチT照会中）
+  ・[B2] 『訳名（原名; ローマ字）』の併記形が『異物・未処理』だという指摘（文体基準の正しい形（定訳なし語＝ローマ字＋説明・原名は残す）。独語105欄の実測＝すべてこの形で正しかった）
+  ・[B3] 作家本人のことば（message欄）の比喩・祈りが『大げさ・装飾過剰』だという指摘（大げさなのは原文であって訳ではない。平板化すると本人の声が消える（「ひとすじの愛の光」＝3通り訳して全部同じ指摘が付いた））
+  ・[B4] 素材・技法の語（彩色・箔・釉・ヒノキ併記等）が『曖昧・辞書的』だという指摘（原文の事実。具体化は事実の断定になる）
+  ・[B5] 肩書き（role）の語の選択への指摘（kanshou_dict が正（Sculptural Artist は台帳に『自称を踏襲』と明記）。1名だけ変えるとサイトが割れる）
+  ・[B7] 一言紹介の並列構造（書名由来）への指摘（日本語原文・作品集の書名に由来（en は公式英題と一致））
+  ・[B9] 実測で決めた表記方針に反する提案（en にマクロンを足せ等）（表記方針はサイト全体のコーパス実測で確定済み。1名だけ変えると割れる）
+  ・[B10] 現在形の評判記述（is known/es conocido/bekannt ist/se conservan 等）を過去形にせよという指摘（存命でない作家でも、現在も続く評価・収蔵状態は現在形が正しく、サイト全体の慣習でもある。1名だけ変えると割れる（第6便＝araki-jippo・asada-takashi・arishima-ikuma で計8件棄却））
+
+★ここに無い語は台帳に無い語です。勝手に訳語を決めず、判断が要るものは人に回してください。

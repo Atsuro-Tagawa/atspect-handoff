@@ -1,0 +1,71 @@
+あなたはフランス語のネイティブ編集者で、日本近代美術に詳しい方です。
+美術館サイトの作家紹介文（熊谷 恒子さま）について、日本語を原文とし、フランス語の訳文だけを校閲してください。
+
+★この美術館の決まりごと（守ってください）：
+・作家を序列づける語（第一人者・巨匠・最高峰・代表格 等）は使わない。原文に無い評価を足さない。
+・原文に無い事実（受賞・収蔵・年号・肩書き）を足さない。原文にある事実を落とさない。
+・「彫刻家」等の肩書きと、分野名（彫刻というジャンル）を混同しない。
+・故人の方は過去形で書く。
+
+
+【用語の指定（フランス語）】★この作家の本文に実際に出てくる語だけを載せています。
+
+■ 呼称（台帳が正。ここにある語は必ずこの訳を使う）
+  ・かな書家 → Calligraphe (kana)
+  ・書家 → Calligraphe
+  （既存の判定＝女性。★本文で確かめてから使ってください）
+
+■ 分野ラベル
+  ・書 → Calligraphie japonaise
+
+■ 直してよい型（7件）
+  ・[A3] 全角空白・全角約物（（）「」、。）の残存 → 半角へ
+  ・[A4] 型1＝功績(viewpoint)または略歴(bio)の1文目が冠詞で始まる動詞のない断片 → 主語＋be動詞を補う（He was a／Il était un／Fue un／Er war ein／他是・她是／〜이다）。男女は本文の代名詞で判定
+  ・[A9] 是正作業が生んだ機械的な傷（二重空白・重複句読点） → 正規化
+  ・[A13] 文法の明白な誤り（性・格・一致・冠詞・活用） → その言語の正しい形へ直す。★ただし「サイト内の他の作家がどう書いているか」を先に実測し、定型があれば定型に合わせる
+  ・[A14] 引用符の閉じが半角（„…" のように開きと閉じが揃っていない） → 独語は „…“、仏語は « … » に揃える
+  ・[A16] 仏語のアポストロフが丸い U+2019 → 直線の U+0027 へ。サイトの実測＝U+0027 が5,694件、U+2019 は2件
+  ・[A18] ★文の分割処理が壊した文（独語の「日.」を文末と誤認して動詞が日付の途中に入る） → 元の1文に復元する。例＝「wurde am 6 geboren. Februar 1899 in der Stadt Fukuoka」→「wurde am 6. Februar 1899 in der Stadt Fukuoka geboren」
+
+■ ★直してはいけない型（10件）＝指摘されても採らない
+  ・[B1] 固有名詞の書き方への指摘＝人名・作家名・美術館名・雑誌名・作品名・学部名・団体名の表記／ローマ字化／長音記号／訳名化（読み・正式名の確認が要る＝事実の断定。読み未確認の人名（菱田宏治・名越詔司）はリサーチT照会中）
+  ・[B2] 『訳名（原名; ローマ字）』の併記形が『異物・未処理』だという指摘（文体基準の正しい形（定訳なし語＝ローマ字＋説明・原名は残す）。独語105欄の実測＝すべてこの形で正しかった）
+  ・[B3] 作家本人のことば（message欄）の比喩・祈りが『大げさ・装飾過剰』だという指摘（大げさなのは原文であって訳ではない。平板化すると本人の声が消える（「ひとすじの愛の光」＝3通り訳して全部同じ指摘が付いた））
+  ・[B4] 素材・技法の語（彩色・箔・釉・ヒノキ併記等）が『曖昧・辞書的』だという指摘（原文の事実。具体化は事実の断定になる）
+  ・[B5] 肩書き（role）の語の選択への指摘（kanshou_dict が正（Sculptural Artist は台帳に『自称を踏襲』と明記）。1名だけ変えるとサイトが割れる）
+  ・[B6] 正書法として実は正しいものへの指摘（fr=préfecture の小文字は正書法どおり／zh・ko の全角（）、。は正しい約物／ko の漢字併記方針（ハングル＋(漢字)）は統一済みの方針）
+  ・[B7] 一言紹介の並列構造（書名由来）への指摘（日本語原文・作品集の書名に由来（en は公式英題と一致））
+  ・[B9] 実測で決めた表記方針に反する提案（en にマクロンを足せ等）（表記方針はサイト全体のコーパス実測で確定済み。1名だけ変えると割れる）
+  ・[B10] 現在形の評判記述（is known/es conocido/bekannt ist/se conservan 等）を過去形にせよという指摘（存命でない作家でも、現在も続く評価・収蔵状態は現在形が正しく、サイト全体の慣習でもある。1名だけ変えると割れる（第6便＝araki-jippo・asada-takashi・arishima-ikuma で計8件棄却））
+  ・[B11] imparfait（était 等）を複合過去にせよという指摘（imparfaitは状態の記述として正しい。直すのは単純過去だけ）
+
+★ここに無い語は台帳に無い語です。勝手に訳語を決めず、判断が要るものは人に回してください。
+
+【一言紹介】
+  日本語：古典に根ざしたかなを究めた女性書家
+  フランス語：Une calligraphe qui porta à sa maîtrise un kana enraciné dans les classiques
+
+【略歴】
+  日本語：熊谷恒子は、京都府に生まれたかな書家。家庭にあって書を学び、女性のかな書家として展覧会の書で活躍した。平安の古筆に学んだ、優美で品位あるかな書を制作した。皇室の用にも携わったと伝えられる。東京・大田区には記念館がある。
+  フランス語：Kumagai Tsuneko était une calligraphe de kana née dans la préfecture de Kyoto. Formée à la calligraphie au sein du foyer, elle s'illustra dans la calligraphie d'exposition en tant que femme calligraphe. Elle produisit une calligraphie kana gracieuse et empreinte de dignité, apprise des kohitsu de Heian. On rapporte qu'elle servit aussi la Maison impériale. Un musée commémoratif se trouve dans l'arrondissement d'Ōta, à Tokyo.
+
+【功績】
+  日本語：古典に根ざしたかなを究めた書家。和歌や短冊のかな書では、繊細でやわらかな線の連なりと、ひかえめで品のよい余白に注目すると、平安の古筆に学んだ優美さを大切にしながら、はなやかさを抑えた静かな気品を、一枚の紙の上に表そうとした姿勢が感じられる。
+  フランス語：Elle était une calligraphe qui porta à sa maîtrise un kana enraciné dans les classiques. Dans ses kana sur des poèmes waka et des bandes-poèmes tanzaku, en prêtant attention à l'enchaînement de lignes délicates et douces et aux vides retenus et raffinés, on perçoit une démarche qui, tout en chérissant la grâce apprise des kohitsu de Heian, cherchait à exprimer sur une seule feuille une élégance silencieuse où l'éclat est contenu.
+
+【所属団体】
+  日本語：日展
+  フランス語：Nitten
+
+次の観点だけを見てください。★フランス語以外の言語のことは書かないでください。
+
+(1) 日本語に無い事実・評価が足されていないか。あれば該当箇所を引用。
+(2) 日本語にある事実が落ちていないか。あれば何が落ちたか。
+(3) 誤訳・語の取り違え（人名・地名・作品名・技法名・年号）がないか。
+(4) その言語として不自然な言い回し・文法の誤り（時制・性・数・冠詞）がないか。
+(5) 同じ語が文中で不統一に訳されていないか。
+
+★指摘が無ければ「指摘なし」とだけ書いてください。無理に指摘を作らないでください。
+指摘があるものだけ、「欄／該当箇所／何が問題か／どう直すか」の4点を短く書いてください。
+★該当箇所は、訳文から**そのまま抜き出した文字列**を引用符で囲んで書いてください（言い換えないでください）。
+日本語で答えてください。
