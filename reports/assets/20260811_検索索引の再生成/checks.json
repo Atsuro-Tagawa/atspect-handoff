@@ -1,0 +1,50 @@
+[
+ {
+  "engine": "chromium",
+  "width": 390,
+  "横溢れ": 0,
+  "kano件数": 4,
+  "表示": [
+   "Oguiss Takanori",
+   "Kanō Hōgai",
+   "Kanokogi Takeshirō",
+   "Takano Shōzan"
+  ]
+ },
+ {
+  "engine": "chromium",
+  "width": 768,
+  "横溢れ": 0,
+  "kano件数": 4,
+  "表示": [
+   "Oguiss Takanori",
+   "Kanō Hōgai",
+   "Kanokogi Takeshirō",
+   "Takano Shōzan"
+  ]
+ },
+ {
+  "engine": "chromium",
+  "width": 1280,
+  "横溢れ": 0,
+  "kano件数": 4,
+  "表示": [
+   "Oguiss Takanori",
+   "Kanō Hōgai",
+   "Kanokogi Takeshirō",
+   "Takano Shōzan"
+  ]
+ },
+ {
+  "engine": "webkit",
+  "width": 390,
+  "横溢れ": 0,
+  "kano件数": 4,
+  "表示": [
+   "Oguiss Takanori",
+   "Kanō Hōgai",
+   "Kanokogi Takeshirō",
+   "Takano Shōzan"
+  ]
+ }
+]
