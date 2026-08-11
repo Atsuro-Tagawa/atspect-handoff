@@ -1,0 +1,337 @@
+{
+  "reason": "日課 第15束（導線順200〜209番の10名）＝Codexの7言語検品のうち、日本語原文と突き合わせて事実の誤り・脱落・原文にない評価と確認できたものだけを是正",
+  "enteredBy": "翻訳品質T",
+  "enteredDate": "2026-08-11",
+  "note": "文体の好み（より自然な言い回し）と、辞書B10（故人の現在形）・B1（固有名詞の表記）に当たる指摘は採らない。西画家/西畫家（53名）は横断型のため日課では触らない。",
+  "patches": [
+    {
+      "handle": "kazuki-yasuo",
+      "lang": "en",
+      "field": "bio",
+      "from": "He served in the Second World War",
+      "to": "He served in the Pacific War"
+    },
+    {
+      "handle": "kazuki-yasuo",
+      "lang": "de",
+      "field": "bio",
+      "from": "Er nahm am Zweiten Weltkrieg teil",
+      "to": "Er nahm am Pazifikkrieg teil"
+    },
+    {
+      "handle": "kazuki-yasuo",
+      "lang": "fr",
+      "field": "bio",
+      "from": "Il servit durant la Seconde Guerre mondiale",
+      "to": "Il servit durant la guerre du Pacifique"
+    },
+    {
+      "handle": "kazuki-yasuo",
+      "lang": "es",
+      "field": "bio",
+      "from": "Sirvió en la Segunda Guerra Mundial",
+      "to": "Sirvió en la guerra del Pacífico"
+    },
+    {
+      "handle": "kazuki-yasuo",
+      "lang": "ko",
+      "field": "bio",
+      "from": "제2차 세계대전에 종군했으며",
+      "to": "태평양전쟁에 종군했으며"
+    },
+    {
+      "handle": "kazuki-yasuo",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "他曾从军参加第二次世界大战",
+      "to": "他曾从军参加太平洋战争"
+    },
+    {
+      "handle": "kazuki-yasuo",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "他曾從軍參加第二次世界大戰",
+      "to": "他曾從軍參加太平洋戰爭"
+    },
+    {
+      "handle": "kazuki-yasuo",
+      "lang": "en",
+      "field": "statement",
+      "from": "a series of dark canvases",
+      "to": "a series of black canvases"
+    },
+    {
+      "handle": "kazuki-yasuo",
+      "lang": "de",
+      "field": "statement",
+      "from": "eine Folge dunkler Bilder",
+      "to": "eine Folge schwarzer Bilder"
+    },
+    {
+      "handle": "kazuki-yasuo",
+      "lang": "fr",
+      "field": "statement",
+      "from": "une série de toiles sombres",
+      "to": "une série de toiles noires"
+    },
+    {
+      "handle": "kazuki-yasuo",
+      "lang": "es",
+      "field": "statement",
+      "from": "una serie de lienzos sombríos",
+      "to": "una serie de lienzos negros"
+    },
+    {
+      "handle": "kazuki-yasuo",
+      "lang": "en",
+      "field": "viewpoint",
+      "from": "in a series of dark canvases",
+      "to": "in a series of black canvases"
+    },
+    {
+      "handle": "kazuki-yasuo",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "in einer Folge dunkler Bilder",
+      "to": "in einer Folge schwarzer Bilder"
+    },
+    {
+      "handle": "kazuki-yasuo",
+      "lang": "fr",
+      "field": "viewpoint",
+      "from": "dans une série de toiles sombres",
+      "to": "dans une série de toiles noires"
+    },
+    {
+      "handle": "kazuki-yasuo",
+      "lang": "es",
+      "field": "viewpoint",
+      "from": "en una serie de lienzos sombríos",
+      "to": "en una serie de lienzos negros"
+    },
+    {
+      "handle": "kawai-kanjiro",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "他曾被推举为人间国宝并获颁文化勋章，却均予辞退",
+      "to": "他曾被推举为人间国宝和文化勋章候选人，却均予辞退"
+    },
+    {
+      "handle": "kawai-kanjiro",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "他曾被推舉為人間國寶並獲頒文化勳章，卻均予辭退",
+      "to": "他曾獲推舉為人間國寶、亦獲提名授予文化勳章，卻均予辭退"
+    },
+    {
+      "handle": "kawakita-handeishi",
+      "lang": "ko",
+      "field": "bio",
+      "from": "취미의 범위를 넘어 작도에 몰두했다",
+      "to": "취미의 범위를 넘어 도예에 몰두했다"
+    },
+    {
+      "handle": "kawakita-handeishi",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "他虽是曾任银行行长的实业家",
+      "to": "他虽是曾任银行行长等职的实业家"
+    },
+    {
+      "handle": "kawakita-handeishi",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "他雖是曾任銀行行長的實業家",
+      "to": "他雖是曾任銀行行長等職的實業家"
+    },
+    {
+      "handle": "kayama-matazo",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "出生于京都的日本画家。父亲是西阵织图案师",
+      "to": "加山又造是出生于京都的日本画家。父亲是西阵织图案师"
+    },
+    {
+      "handle": "kayama-matazo",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "出生於京都的日本畫家。父親是西陣織圖案師",
+      "to": "加山又造是出生於京都的日本畫家。父親是西陣織圖案師"
+    },
+    {
+      "handle": "kayama-matazo",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "后来研习以尾形光琳为代表的琳派",
+      "to": "后来研习以尾形光琳等人为代表的琳派"
+    },
+    {
+      "handle": "kayama-matazo",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "後來研習以尾形光琳為代表的琳派",
+      "to": "後來研習以尾形光琳等人為代表的琳派"
+    },
+    {
+      "handle": "kayama-matazo",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "代表作有描绘群鹤掠波而飞的《千羽鹤》等",
+      "to": "他以描绘群鹤掠波而飞的《千羽鹤》等作品闻名"
+    },
+    {
+      "handle": "kayama-matazo",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "代表作有描繪群鶴掠波而飛的《千羽鶴》等",
+      "to": "他以描繪群鶴掠波而飛的《千羽鶴》等作品聞名"
+    },
+    {
+      "handle": "kawamura-kizan",
+      "lang": "zh_cn",
+      "field": "statement",
+      "from": "活跃书坛三代的汉字书法家",
+      "to": "跨越三个时代活跃于书坛的汉字书法家"
+    },
+    {
+      "handle": "kawamura-kizan",
+      "lang": "zh_tw",
+      "field": "statement",
+      "from": "活躍書壇三代的漢字書法家",
+      "to": "跨越三個時代活躍於書壇的漢字書法家"
+    },
+    {
+      "handle": "kawamura-kizan",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "活跃于明治、大正、昭和三代的书坛",
+      "to": "活跃于明治、大正、昭和三个时代的书坛"
+    },
+    {
+      "handle": "kawamura-kizan",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "活躍於明治、大正、昭和三代的書壇",
+      "to": "活躍於明治、大正、昭和三個時代的書壇"
+    },
+    {
+      "handle": "kawamura-kizan",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "活跃三代的汉字书法家",
+      "to": "跨越三个时代活跃的汉字书法家"
+    },
+    {
+      "handle": "kawamura-kizan",
+      "lang": "zh_tw",
+      "field": "viewpoint",
+      "from": "活躍三代的漢字書法家",
+      "to": "跨越三個時代活躍的漢字書法家"
+    },
+    {
+      "handle": "kawabata-ryushi",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "倡导以展览会场上耐看大作为目标的「会场艺术」",
+      "to": "倡导以在展览会场中具有观赏张力的大作为目标的「会场艺术」"
+    },
+    {
+      "handle": "kawabata-ryushi",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "倡導以展覽會場上耐看大作為目標的「會場藝術」",
+      "to": "倡導以創作在展覽會場中具有視覺張力的大作為目標的「會場藝術」"
+    },
+    {
+      "handle": "kawabata-ryushi",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "他主持青龙社，倡导以大画面呈现的会场艺术。",
+      "to": "他是主持青龙社、倡导以大画面呈现的会场艺术的日本画家。"
+    },
+    {
+      "handle": "kawabata-ryushi",
+      "lang": "zh_tw",
+      "field": "viewpoint",
+      "from": "他主持青龍社，倡導以大畫面呈現的會場藝術。",
+      "to": "他是日本畫家，曾主持青龍社，並倡導以大畫面呈現的會場藝術。"
+    },
+    {
+      "handle": "kawabata-ryushi",
+      "lang": "ko",
+      "field": "viewpoint",
+      "from": "물길과 풀꽃이 화면을 크게 움직이는",
+      "to": "물의 흐름과 풀꽃이 화면에 큰 움직임을 주는"
+    },
+    {
+      "handle": "kawamoto-goro",
+      "lang": "zh_cn",
+      "field": "statement",
+      "from": "追求自由造型与绘付的濑户陶艺家",
+      "to": "追求自由造型与彩绘的濑户陶艺家"
+    },
+    {
+      "handle": "kawamoto-goro",
+      "lang": "zh_tw",
+      "field": "statement",
+      "from": "追求自由造型與繪付的瀨戶陶藝家",
+      "to": "追求自由造型與彩繪的瀨戶陶藝家"
+    },
+    {
+      "handle": "kawamoto-goro",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "追求自由的造型与绘付",
+      "to": "追求自由的造型与彩绘"
+    },
+    {
+      "handle": "kawamoto-goro",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "追求自由的造型與繪付",
+      "to": "追求自由的造型與彩繪"
+    },
+    {
+      "handle": "kawamoto-goro",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "追求自由造型与绘付的陶艺家",
+      "to": "追求自由造型与彩绘的陶艺家"
+    },
+    {
+      "handle": "kawamoto-goro",
+      "lang": "zh_tw",
+      "field": "viewpoint",
+      "from": "追求自由造型與繪付的陶藝家",
+      "to": "追求自由造型與彩繪的陶藝家"
+    },
+    {
+      "handle": "kawamoto-goro",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "以及挥洒自如的绘付",
+      "to": "以及挥洒自如的彩绘"
+    },
+    {
+      "handle": "kawamoto-goro",
+      "lang": "zh_tw",
+      "field": "viewpoint",
+      "from": "以及揮灑自如的繪付",
+      "to": "以及揮灑自如的彩繪"
+    },
+    {
+      "handle": "kawai-gyokudo",
+      "lang": "fr",
+      "field": "viewpoint",
+      "from": "aux cerisiers qui s'effeuillent",
+      "to": "aux fleurs de cerisier qui tombent"
+    },
+    {
+      "handle": "kawai-gyokudo",
+      "lang": "es",
+      "field": "viewpoint",
+      "from": "a los cerezos que se deshojan",
+      "to": "a los pétalos de cerezo que caen"
+    }
+  ]
+}
