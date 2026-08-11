@@ -1,0 +1,1226 @@
+{
+  "reason": "C17専用横断＝中国語に入り込んだ和製漢語の是正（簡体『造形』→『造型』／『气品』『氣品』を文脈別に是正。繁体『造形』は台湾で通用のため据え置き）",
+  "enteredBy": "翻訳品質T",
+  "enteredDate": "2026-08-11",
+  "note": "Codexのネイティブ判定（簡体・繁体それぞれ1依頼1語1言語）にもとづく。固有の呼び名『造形主义』は据え置き。動詞用法は『塑造』へ。",
+  "patches": [
+    {
+      "handle": "tsuchida-bakusen",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "fukuda-heihachiro",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "yamamoto-kyujin",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "yamamoto-kyujin",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "yoshioka-kenji",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "sugiyama-yasushi",
+      "lang": "zh_cn",
+      "field": "statement",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "sugiyama-yasushi",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "的造形。",
+      "to": "的造型。"
+    },
+    {
+      "handle": "sugiyama-yasushi",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "为造形的",
+      "to": "为造型的"
+    },
+    {
+      "handle": "terauchi-manjiro",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "nakamura-fusetsu",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "teshima-yukei",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "hibino-goho",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "ueda-sokyu",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "ueda-sokyu",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "的造形，",
+      "to": "的造型，"
+    },
+    {
+      "handle": "ueda-sokyu",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "象造形表",
+      "to": "象造型表"
+    },
+    {
+      "handle": "hidai-nankoku",
+      "lang": "zh_cn",
+      "field": "statement",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "hidai-nankoku",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "hidai-nankoku",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "条造形的",
+      "to": "条造型的"
+    },
+    {
+      "handle": "hidai-nankoku",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "象造形，",
+      "to": "象造型，"
+    },
+    {
+      "handle": "uno-setsuson",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "uno-setsuson",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "murakami-santo",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "kobayashi-toan",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "sugioka-kason",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "kuwata-sasafune",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "kitaoji-rosanjin",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "kitaoji-rosanjin",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "inoue-yuichi",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "shimizu-takashi",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "tominaga-naoki",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "端正而有气品的",
+      "to": "端正而典雅的"
+    },
+    {
+      "handle": "tominaga-naoki",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "端正而有氣品的",
+      "to": "端正而雅緻的"
+    },
+    {
+      "handle": "tominaga-naoki",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "准确与气品来",
+      "to": "准确与气韵来"
+    },
+    {
+      "handle": "tominaga-naoki",
+      "lang": "zh_tw",
+      "field": "viewpoint",
+      "from": "準確與氣品來",
+      "to": "準確與氣韻來"
+    },
+    {
+      "handle": "yodoi-toshio",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "kikuchi-kazuo",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "静谧的气品",
+      "to": "静谧的气韵"
+    },
+    {
+      "handle": "kikuchi-kazuo",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "靜謐的氣品",
+      "to": "靜謐的氣韻"
+    },
+    {
+      "handle": "kikuchi-kazuo",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "气品与内里",
+      "to": "品格与内里"
+    },
+    {
+      "handle": "kikuchi-kazuo",
+      "lang": "zh_tw",
+      "field": "viewpoint",
+      "from": "氣品與內裡",
+      "to": "品格與內裡"
+    },
+    {
+      "handle": "yamamoto-toyoichi",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "horiuchi-masakazu",
+      "lang": "zh_cn",
+      "field": "statement",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "horiuchi-masakazu",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "horiuchi-masakazu",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "mukai-ryokichi",
+      "lang": "zh_cn",
+      "field": "statement",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "mukai-ryokichi",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "ueki-shigeru",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "iida-yoshikuni",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "境造形。",
+      "to": "境造型。"
+    },
+    {
+      "handle": "iida-yoshikuni",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "建造形的",
+      "to": "建造型的"
+    },
+    {
+      "handle": "nagare-masayuki",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "之造形，",
+      "to": "之造型，"
+    },
+    {
+      "handle": "nagare-masayuki",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "之造形。",
+      "to": "之造型。"
+    },
+    {
+      "handle": "nagare-masayuki",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "的造形装",
+      "to": "的造型装"
+    },
+    {
+      "handle": "nagare-masayuki",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "的造形。",
+      "to": "的造型。"
+    },
+    {
+      "handle": "isamu-noguchi",
+      "lang": "zh_cn",
+      "field": "statement",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "isamu-noguchi",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "域的造形。他",
+      "to": "域的造型。他"
+    },
+    {
+      "handle": "isamu-noguchi",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "化的造形。",
+      "to": "化的造型。"
+    },
+    {
+      "handle": "isamu-noguchi",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "际造形艺",
+      "to": "际造型艺"
+    },
+    {
+      "handle": "isamu-noguchi",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "为造形来",
+      "to": "为造型来"
+    },
+    {
+      "handle": "kasagi-sueo",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "wakebe-junji",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "yasuda-ryumon",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "itaya-hazan",
+      "lang": "zh_cn",
+      "field": "statement",
+      "from": "追求气品造形的",
+      "to": "追求高雅造型的"
+    },
+    {
+      "handle": "itaya-hazan",
+      "lang": "zh_tw",
+      "field": "statement",
+      "from": "追求氣品造形的",
+      "to": "追求高雅造形的"
+    },
+    {
+      "handle": "itaya-hazan",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "其造形感",
+      "to": "其造型感"
+    },
+    {
+      "handle": "itaya-hazan",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "的造形。",
+      "to": "的艺术品。"
+    },
+    {
+      "handle": "itaya-hazan",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "以气品高雅的",
+      "to": "以格调高雅的"
+    },
+    {
+      "handle": "itaya-hazan",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "以氣品高雅的",
+      "to": "以格調高雅的"
+    },
+    {
+      "handle": "itaya-hazan",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "的造形感",
+      "to": "的造型感"
+    },
+    {
+      "handle": "itaya-hazan",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "追求气品造形的",
+      "to": "追求高雅造型的"
+    },
+    {
+      "handle": "itaya-hazan",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "与气品，",
+      "to": "与高雅格调，"
+    },
+    {
+      "handle": "itaya-hazan",
+      "lang": "zh_tw",
+      "field": "viewpoint",
+      "from": "追求氣品造形的",
+      "to": "追求高雅造形的"
+    },
+    {
+      "handle": "itaya-hazan",
+      "lang": "zh_tw",
+      "field": "viewpoint",
+      "from": "與氣品，",
+      "to": "與格調，"
+    },
+    {
+      "handle": "miyagawa-kozan",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "kawai-kanjiro",
+      "lang": "zh_cn",
+      "field": "statement",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "kawai-kanjiro",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "kawai-kanjiro",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "kato-hajime",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "与气品之意匠",
+      "to": "与雅致之意匠"
+    },
+    {
+      "handle": "kato-hajime",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "與氣品之意匠",
+      "to": "與雅緻之意匠"
+    },
+    {
+      "handle": "kato-hajime",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "华丽与气品两全",
+      "to": "华丽与典雅两全"
+    },
+    {
+      "handle": "kato-hajime",
+      "lang": "zh_tw",
+      "field": "viewpoint",
+      "from": "華麗與氣品兩全",
+      "to": "華麗與雅緻兩全"
+    },
+    {
+      "handle": "kamoda-shoji",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "kamoda-shoji",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "创造形为",
+      "to": "创造型为"
+    },
+    {
+      "handle": "kamoda-shoji",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "之造形的",
+      "to": "之造型的"
+    },
+    {
+      "handle": "yagi-kazuo",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "suzuki-osamu",
+      "lang": "zh_cn",
+      "field": "statement",
+      "from": "诗意造形",
+      "to": "以诗意塑造"
+    },
+    {
+      "handle": "suzuki-osamu",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "性造形，",
+      "to": "性造型，"
+    },
+    {
+      "handle": "suzuki-osamu",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "象造形，",
+      "to": "象造型，"
+    },
+    {
+      "handle": "suzuki-osamu",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "诗意造形",
+      "to": "以诗意塑造"
+    },
+    {
+      "handle": "suzuki-osamu",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "之造形的",
+      "to": "之造型的"
+    },
+    {
+      "handle": "masumura-mashiki",
+      "lang": "zh_cn",
+      "field": "statement",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "masumura-mashiki",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "masumura-mashiki",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "漆造形与",
+      "to": "漆造型与"
+    },
+    {
+      "handle": "masumura-mashiki",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "的造形感",
+      "to": "的造型感"
+    },
+    {
+      "handle": "takamura-toyochika",
+      "lang": "zh_cn",
+      "field": "statement",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "takamura-toyochika",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "的造形。",
+      "to": "的造型。"
+    },
+    {
+      "handle": "takamura-toyochika",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "的造形，",
+      "to": "的造型，"
+    },
+    {
+      "handle": "takamura-toyochika",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "代造形的",
+      "to": "代造型的"
+    },
+    {
+      "handle": "takamura-toyochika",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "洁造形本",
+      "to": "洁造型本"
+    },
+    {
+      "handle": "sasaki-shodo",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "等造形的",
+      "to": "等造型的"
+    },
+    {
+      "handle": "sasaki-shodo",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "的造形而",
+      "to": "的造型而"
+    },
+    {
+      "handle": "sasaki-shodo",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "sekiya-shiro",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "sekiya-shiro",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "hasuda-shugoro",
+      "lang": "zh_cn",
+      "field": "statement",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "hasuda-shugoro",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "属造形。",
+      "to": "属造型。"
+    },
+    {
+      "handle": "hasuda-shugoro",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "代造形艺",
+      "to": "代造型艺"
+    },
+    {
+      "handle": "hasuda-shugoro",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "性造形的",
+      "to": "性造型的"
+    },
+    {
+      "handle": "hasuda-shugoro",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "型造形，",
+      "to": "型造型，"
+    },
+    {
+      "handle": "hasuda-shugoro",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "属造形的",
+      "to": "属造型的"
+    },
+    {
+      "handle": "shono-shounsai",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "shono-shounsai",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "竹造形表",
+      "to": "竹造型表"
+    },
+    {
+      "handle": "shono-shounsai",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "力造形，",
+      "to": "力造型，"
+    },
+    {
+      "handle": "iizuka-rokansai",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "iizuka-rokansai",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "kagoshima-juzo",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "iwata-toshichi",
+      "lang": "zh_cn",
+      "field": "statement",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "iwata-toshichi",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "璃造形。",
+      "to": "璃造型。"
+    },
+    {
+      "handle": "iwata-toshichi",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "的造形著",
+      "to": "的造型著"
+    },
+    {
+      "handle": "iwata-toshichi",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "璃造形的",
+      "to": "璃造型的"
+    },
+    {
+      "handle": "iwata-toshichi",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "的造形来",
+      "to": "的造型来"
+    },
+    {
+      "handle": "takahashi-sadatsugu",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "horino-masao",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "watanabe-yoshio",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "ueda-shoji",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "narahara-ikko",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "ishimoto-yasuhiro",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "何造形之",
+      "to": "何造型之"
+    },
+    {
+      "handle": "ishimoto-yasuhiro",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "的造形。",
+      "to": "的造型。"
+    },
+    {
+      "handle": "ishimoto-yasuhiro",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "yamazawa-eiko",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "yamazawa-eiko",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "sugiura-hisui",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "hara-hiromu",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "kono-takashi",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "katsui-mitsuo",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "yamashiro-ryuichi",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "的造形而",
+      "to": "的造型而"
+    },
+    {
+      "handle": "yamashiro-ryuichi",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "字造形性",
+      "to": "字造型性"
+    },
+    {
+      "handle": "yamashiro-ryuichi",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "nakajo-masayoshi",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "imatake-shichiro",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "imatake-shichiro",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "watanabe-riki",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "kuramata-shiro",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "kuwasawa-yoko",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "国造形学",
+      "to": "国造型学"
+    },
+    {
+      "handle": "kuwasawa-yoko",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "从造形基",
+      "to": "从造型基"
+    },
+    {
+      "handle": "tetsumi-kudo",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "tetsumi-kudo",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "yoshishige-saito",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "tomio-miki",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "kumi-sugai",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "masunobu-yoshimura",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "numata-ichiga",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "amada-kohei",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "hinago-jitsuzo",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "hinago-jitsuzo",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "fujikawa-yuzo",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "nakamura-naondo",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "kitamura-haruyoshi",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "tada-minami",
+      "lang": "zh_cn",
+      "field": "statement",
+      "from": "造形空间",
+      "to": "塑造空间"
+    },
+    {
+      "handle": "tada-minami",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "tada-minami",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "料造形空间的",
+      "to": "料塑造空间的"
+    },
+    {
+      "handle": "tada-minami",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "图造形空间的",
+      "to": "图塑造空间的"
+    },
+    {
+      "handle": "tsuchitani-takeshi",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "tsuchitani-takeshi",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "suwa-sozan",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "katori-masahiko",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "iizuka-shokansai",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "iizuka-shokansai",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "ono-showasai",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "ono-showasai",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "缜密而有气品的",
+      "to": "缜密而雅致的"
+    },
+    {
+      "handle": "ono-showasai",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "縝密而有氣品的",
+      "to": "縝密而雅緻的"
+    },
+    {
+      "handle": "ono-showasai",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "nakadai-zuishin",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "noguchi-mitsuhiko",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "nagatomo-keisuke",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "nagatomo-keisuke",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    },
+    {
+      "handle": "harada-osamu",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "造形",
+      "to": "造型"
+    }
+  ]
+}
