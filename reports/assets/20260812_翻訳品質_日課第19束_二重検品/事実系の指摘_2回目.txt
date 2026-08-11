@@ -1,0 +1,33 @@
+[2] kobayashi-wasaku__fr :: - 略歴／「Des œuvres telles que Labour d'automne et Neige sont attestées」／「代表作」という事実が落ちており、「sont attestées」も作品紹介として不自然。／「Parmi ses œuvres représentatives figurent « Labour d’automne » et « Neige »」に直す。
+[2] kobayashi-wasaku__ko :: 略歴／「사실을 토대로 하면서」／「사실」は「事実」の意味になり、「写実」の誤訳。／「사실적 묘사를 토대로 하면서」に直す。
+[2] kodama-hiroshi__zh_cn :: - 功績／「手之确凿」／「手の確かさ」の誤訳で、簡体字中国語としても不自然。／「双手的精准技艺」または「手艺的精准」と直す。
+[2] kodama-hiroshi__zh_cn :: - 略歴／「条纹雕（缟雕）」／同じ技法名が「条纹雕」と「缟雕」の二通りで示されており、表記が不統一。「しまぼり」は読み仮名であり、「缟雕」という別名を追加する根拠も原文にない。／「条纹雕刻（shima-bori）」など、一つの訳語に統一する。
+[2] kodama-kibo__es :: - 一言紹介／「que se dedicó al paisaje」／「山水と風景」の二つが「el paisaje」だけにまとめられ、区別が落ちている。／「que se dedicó a los paisajes de montaña y agua y a otros paisajes」に直す。
+[2] kodama-kibo__fr :: - 略歴／「Excellant dans le paysage」／「山水や風景」という二つの対象が「le paysage」だけにまとめられ、事実が一部落ちている。／「Excellant dans les paysages de montagnes et d’eaux ainsi que dans les paysages」とする。
+[2] kodama-kibo__fr :: - 一言紹介／「qui se consacra au paysage」／「山水と風景」のうち二つの対象の区別が落ちている。／「qui se consacra aux paysages de montagnes et d’eaux ainsi qu’aux paysages」とする。
+[2] koga-harue__de :: - 略歴／「sein Vorname war Kameo」／「Vorname」は「名」であり、「本名」の誤訳。／「sein bürgerlicher Name war Kameo」とする。
+[2] koga-harue__fr :: - 略歴／「son prénom était Kameo」／「本名」を「prénom（名）」と誤訳している。／「son vrai nom était Kameo」
+[2] koga-harue__zh_cn :: - 略歴／「被视为日本最早引入超现实主义表现的作品之一而受到瞩目」／「最早」「之一」は、原文にない序列・評価を加えている。／「作为较早在日本引入超现实主义表现的作品而受到瞩目」とする。
+[2] koga-harue__zh_tw :: - 略歴／「被視為日本最早引入超現實主義表現的作品之一而受到矚目」／「日本で最も早く導入した作品の一つ」という、原文にない序列的な評価が加わっている。／「因很早便將超現實主義的表現引入日本而受到矚目」に直す。
+[2] koga-tadao__de :: - 功績／「mit kraftvollen figürlichen Werken」／「健やかな人体像」が「力強い具象作品」となっており、「kraftvoll」という原文にない評価が加わり、「人体像」の意味も弱まっている。／「mit Darstellungen gesunder menschlicher Körper」に直す。
+[2] koga-tadao__de :: - 略歴／「kraftvolle, bewegte figürliche Werke」／「健やかな人体像」が「力強い、動かされた具象作品」となり、「kraftvoll」という原文にない評価が加わっている。また「bewegte」はここでは不自然。／「dynamische Darstellungen gesunder menschlicher Körper」に直す。
+[2] koga-tadao__de :: - 一言紹介／「mit kraftvollen figürlichen Werken」／「健やかな人体像」が「力強い具象作品」となっており、「kraftvoll」という原文にない評価が加わり、「人体像」の意味も弱まっている。／「mit Darstellungen gesunder menschlicher Körper」に直す。
+[2] koga-tadao__es :: - 功績／「con vigorosas figuras」／「人体像」が単なる「figuras」となっており、人体像であることが落ちている。また「健やかな」は「vigorosas」より「sanas」のほうが正確。／「con figuras humanas sanas」に直す。
+[2] koga-tadao__es :: - 略歴／「numerosas figuras vigorosas y dinámicas」／「人体像」が単なる「figuras」となっており、人体像であることが落ちている。また「健やかな」の訳として「vigorosas」は意味がずれる。／「numerosas figuras humanas sanas y dinámicas」に直す。
+[2] koga-tadao__es :: - 略歴／「So (Ensueño)」／《想》を「Ensueño（夢想）」とするのは意味を限定しすぎた誤訳。／「So (Pensamiento)」に直す。
+[2] koga-tadao__es :: - 一言紹介／「con vigorosas figuras」／「人体像」が単なる「figuras」となっており、人体像であることが落ちている。また「健やかな」は「vigorosas」より「sanas」のほうが正確。／「con figuras humanas sanas」に直す。
+[2] koga-tadao__zh_cn :: 略歴／「第二次世界大战后」／原文の「戦後」を具体化しており、原文にない限定を加えている。／「战后」に直す。
+[2] koide-narashige__de :: 何が問題か：「schwergewichtig」は裸婦や静物自体が重量級であるかのように響き、「重厚な」の誤訳。  
+[2] koike-iwataro__en :: - 略歴／“He helped take root in Japan the very field of industrial design”／語順が不自然で、“very”は原文にない強調。／“He helped establish industrial design as a field in Japan”とする。
+[2] koike-iwataro__fr :: - 功績／「Il était une figure qui se consacra à l'enseignement du design industriel.」／「une figure」は原文にない評価を加えており、「était」と「se consacra」の組み合わせも不自然。／「Il se consacra à l'enseignement du design industriel.」
+[2] koike-iwataro__fr :: - 一言紹介／「Une figure qui se consacra à l'enseignement du design industriel」／「une figure」は原文にない評価を加えている。／「Un pédagogue qui se consacra à l'enseignement du design industriel」
+[2] koike-iwataro__ko :: 略歴／「한 사람으로 평가된다」／「평가된다」は原文にない評価のニュアンスを加えている。／「한 사람으로 여겨진다」に直す。
+[2] koishi-kiyoshi__ko :: - 略歴／「신흥사진(新興写真, New Photography)」／原文にない括弧内の補足が加えられている。／「신흥사진」に直す。
+[2] koishi-kiyoshi__zh_tw :: - 略歴／「亦頗為活躍」／「頗為」は原文にない程度の評価を加えている。／「亦曾活躍」に直す。
+[2] koiso-ryohei__es :: - 功績／「uno de los pintores que, formados con Fujishima Takeji」／「画家とされる」が「画家の一人」となり、原文にない序列・集団内での位置づけが加わっている。また、複数形にしたため文意も不自然。／「Se le consideró un pintor de la pintura figurativa de posguerra que estudió con Fujishima Takeji y que buscó la representación de grupos de figuras」とする。
+[2] koiso-ryohei__fr :: - 略歴／「chantant à l'unisson」／「à l’unisson」は、少女たちの歌い方について原文にない事実を加えている。／「chantant en chœur」に直す。
+[2] koiso-ryohei__ko :: - 一言紹介／「전후 구상 미술에 힘쓴」／「群像表現を続けた」という継続の事実が落ち、「戦後具象美術に力を尽くした」という原文にない意味が加わっている。／「단정한 군상 표현을 이어 간 전후 구상 회화의 화가」に直す。
+[2] koiso-ryohei__zh_tw :: - 功績／「他被視為師從藤島武二、在戰後具象繪畫中追求群像表現的畫家之一。」／「之一」は原文にない限定であり、文の係り方も不自然。／「他師從藤島武二，被視為戰後追求群像表現的具象畫家。」に直す。
+[2] koiso-ryohei__zh_tw :: - 一言紹介／「以端正群像表現從事戰後具象的畫家」／「從事戰後具象」は繁体字中国語として不自然で、「続けた」の意味も落ちている。／「持續描繪端正群像的戰後具象畫家」に直す。
+[2] koji-enokura__es :: - 略歴／「e influyó en artistas más jóvenes」／「artistas」という限定が原文にない。／「e influyó en generaciones posteriores」に直す。
+[2] koji-enokura__zh_tw :: 何が問題か／「擔綱動向」は不自然で、「擔綱」には中心的役割を担うという原文にない含意も生じる。  

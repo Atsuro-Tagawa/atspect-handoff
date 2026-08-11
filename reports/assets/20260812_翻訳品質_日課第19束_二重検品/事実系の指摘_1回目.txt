@@ -1,0 +1,34 @@
+[1] kobayashi-wasaku__de :: - 略歴／「Werke wie „Herbstpflügen“ und „Schnee“ sind belegt」／「代表作」という情報が落ちている。／「Als repräsentative Werke sind „Herbstpflügen“ und „Schnee“ belegt」に直す。
+[1] kobayashi-wasaku__es :: 略歴／「Se documentan obras como Labranza de otoño y Nieve」／《秋耕》《雪》が「代表作」であるという情報が落ちている。／「Entre sus obras representativas documentadas se encuentran Labranza de otoño y Nieve」とする。
+[1] kobayashi-wasaku__ko :: 略歴／「사실을 토대로 하면서」／「사실」は「事実」の意味になり、「写実」の誤訳。／「사실적 묘사를 토대로 하면서」に直す。
+[1] kodama-hiroshi__de :: - 略歴／「Er wurde für das shimabori-Schneiden des Ise-Katagami als Lebender Nationalschatz ausgezeichnet.」／「ausgezeichnet」は受賞・表彰を意味し、「認定された」の誤訳。／「Er wurde für das shimabori des Ise-Katagami zum Lebenden Nationalschatz ernannt.」とする。
+[1] kodama-hiroshi__es :: - 功績／「una concentración extrema」／「extrema」は原文にない評価を加えている。／「una profunda concentración」または単に「la concentración」とする。
+[1] kodama-hiroshi__ko :: - 功績／「집중과 손의 정확함이 결정되어 있음이 느껴진다」／「결정되어 있다」は「結晶している」の誤訳で、韓国語としても不自然。「손의 정확함」も不自然。／「집중력과 정확한 손기술이 응축되어 있음을 느낄 수 있다」に直す。
+[1] kodama-kibo__fr :: 略歴／「Excellant dans le paysage」／原文の「山水や風景」のうち「山水」が落ちている。／「Excellant dans les paysages de montagne comme dans les autres paysages」とする。
+[1] kodama-kibo__fr :: 功績／「paysages et panoramas」／「山水」を「panoramas」とするのは語の取り違えで、「山水」と「風景」の対応も不明瞭。／「des paysages de montagne et d’autres paysages」とする。
+[1] kodama-kibo__zh_cn :: - 略歴／「1952年获日本艺术院奖，并成为日本艺术院会员」／日本芸術院会員になった時期も1952年であるように読め、原文にない時期の限定が生じている。／「1952年获日本艺术院奖，后来成为日本艺术院会员」とする。
+[1] koga-harue__de :: - 略歴／「sein Vorname war Kameo」／「本名」を「名（Vorname）」と誤訳している。／「sein bürgerlicher Name war Kameo」に直す。
+[1] koga-harue__es :: - 功績／「estuvo entre los primeros en adoptar las nuevas corrientes de la pintura occidental y en componer imágenes fantásticas」／「いち早く」が「幻想的な画面を作った」にもかかり、幻想的表現の先駆者だったという原文にない評価になっている。／「adoptó tempranamente las nuevas corrientes de la pintura occidental y creó imágenes fantásticas」とする。
+[1] koga-tadao__en :: - 功績／“the grasp of the taut muscles”／「引きしまった筋肉のとらえ方」の誤訳で、“grasp”は筋肉の表現・造形の仕方を意味しない。／“the rendering of the taut muscles”に直す。
+[1] koga-tadao__es :: 【功績】／「con vigorosas figuras」／「人体像」の「人体」が落ちている。／「con vigorosas figuras humanas」
+[1] koga-tadao__fr :: - 略歴／「de nombreuses figures vigoureuses et dynamiques」／「人体像」の「人体」が落ちている／「de nombreuses figures humaines vigoureuses et dynamiques」
+[1] koga-tadao__ko :: 功績／「단단히 긴장된 근육의 포착」／「引きしまった筋肉のとらえ方」の誤訳で、表現も不自然。／「탄탄한 근육을 포착한 방식」に直す。
+[1] koide-narashige__de :: - 一言紹介／「mit schwergewichtigen Akten und Stillleben」／「schwergewichtig」は裸婦が重量過多であるように響き、「重厚な」の誤訳。また「重厚」は静物にも係るように読める。／「der wuchtig wirkende Akte und Stillleben malte」
+[1] koide-narashige__de :: - 略歴／「mit einem gewissen Maß an Verzerrung」／「gewissen Maß」を補うことで、原文にない程度の限定が加わっている。／「mit verzerrten Kompositionen」
+[1] koike-iwataro__de :: 略歴／「das Feld des Industriedesigns selbst」／「selbst」という強調は原文にないうえ、語順上も不自然。／「das Feld des Industriedesigns」
+[1] koike-iwataro__en :: 略歴／“He helped take root in Japan the very field of industrial design”／語順が不自然で、“the very field”には原文にない強調がある。／“He helped establish industrial design as a field in Japan”とする。
+[1] koike-iwataro__fr :: - 一言紹介／「Une figure」／「figure」は著名性・重要性を含意しやすく、原文にない評価を加える可能性がある。／「Une personne qui se consacra à l’enseignement du design industriel」
+[1] koike-iwataro__fr :: - 功績／「Il était une figure」／「figure」は原文にない著名性・重要性を含意しうる。／「Il se consacra à l’enseignement du design industriel.»
+[1] koike-iwataro__zh_cn :: 功績／「培养下一代的作者」／「作者」は文章・作品の著者を指すことが多く、原文の「作り手」の誤訳／「培养下一代的设计人才」に直す。
+[1] koike-iwataro__zh_tw :: 功績／「下一代的作者」／「作者」は文章や作品の著者を指すため、「作り手」の誤訳／「下一代的設計人才」または「下一代的創作者」に直す。
+[1] koishi-kiyoshi__de :: - 略歴／「stark konstruktive und experimentelle Werke」／「stark」が「konstruktive」にもかかり、原文にない強い評価になる。また「構成的」と「実験性の高い」の対応が不明瞭。／「kompositorisch angelegte und höchst experimentelle Werke」
+[1] koishi-kiyoshi__en :: - 略歴／“highly constructive and experimental works”／“constructive” は通常「建設的な」を意味し、「構成的」の誤訳。／“highly structured and experimental works” とする。
+[1] koishi-kiyoshi__es :: 略歴／「Fue además activo en el campo de la fotografía publicitaria.」／スペイン語として不自然な直訳調。／「También desarrolló una destacada actividad en el campo de la fotografía publicitaria.」では原文にない評価が加わるため、「También trabajó activamente en el campo de la fotografía publicitaria.」とする。
+[1] koishi-kiyoshi__ko :: 略歴／「신흥사진(新興写真, New Photography)」／原文にない表記・英語訳が加えられている。／「신흥사진」に直す。
+[1] koiso-ryohei__de :: - 功績／「Er gilt als einer der Maler, die, nachdem sie bei Fujishima Takeji studiert hatten」／複数の画家が藤島武二に学んだという、原文にない事実を含む構文になっている。／「Er gilt als Maler der figurativen Kunst der Nachkriegszeit, der bei Fujishima Takeji studierte und die Darstellung von Figurengruppen verfolgte.“
+[1] koiso-ryohei__es :: - 功績／「uno de los pintores que, formados con Fujishima Takeji, buscaron」／複数の画家が藤島武二に学んだという、原文にない事実を含む表現になっている。／「un pintor que estudió con Fujishima Takeji y exploró」
+[1] koiso-ryohei__ko :: 一言紹介／「단정한 군상 표현으로 전후 구상 미술에 힘쓴 화가」／「続けた」が落ち、「힘쓴（力を尽くした）」という原文にない評価が加わっている／「단정한 군상 표현을 이어 간 전후 구상 회화의 화가」
+[1] koiso-ryohei__zh_cn :: - 功績／「画家之一」／原文にない「～の一人」という限定が加えられている。／「画家」
+[1] koji-enokura__de :: - 功績／「anstatt irgendeine Form zu schaffen」／「irgendeine」には「何でもよいから」という不要な含みがあり、原文にない評価が加わる。／「anstatt eine Form zu schaffen」とする。
+[1] koji-enokura__fr :: - 功績／「la matière qui suinte」／「suinter」は液体が染み出す意味で、「物質がにじむ」の誤訳。／「la matière qui se diffuse」とする。
+[1] koji-enokura__zh_tw :: 略歴／「他被視為擔綱追問物、空間與身體關係的動向「物派」的作家之一。」／「擔綱」には中心的役割を担うという含意があり、原文にない評価を加えている。また語順も不自然。／「他被視為參與探問物、空間與身體關係之『物派』動向的藝術家之一。」に直す。
