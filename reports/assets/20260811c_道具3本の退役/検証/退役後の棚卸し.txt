@@ -1,0 +1,26 @@
+走査した本数=251
+空振り検査＝既知の危ないもの(_退役_20260811_再実行禁止/build-gifts.mjs) を拾えたか： 拾えた（停止済み）
+
+【★ライブのテーマへ固定の対象を書く】2本
+   2026-07-31  _scratch_0801b/_upsert_pdf.mjs
+   2026-07-31  _scratch_a50/_upload_pdf.mjs
+
+【★ライブのデータへ書く】8本
+   2026-08-10  _scratch_0810/make-pages.mjs
+   2026-08-10  _scratch_0810d/publish.mjs
+   2026-08-09  _scratch_0809/theme161/assets/price-per-item.js
+   2026-08-09  _scratch_0809/theme161/assets/product-form.js
+   2026-08-09  _scratch_0809/theme161/assets/recipient-form.js
+   2026-08-09  _scratch_0809/theme_now/assets/price-per-item.js
+   2026-08-09  _scratch_0809/theme_now/assets/product-form.js
+   2026-08-09  _scratch_0809/theme_now/assets/recipient-form.js
+
+【引数で対象を受ける道具（固定の元は持たない）】1本
+   2026-08-01  _scratch_0801c/upsert_by_url.mjs
+
+【停止済み】4本
+   2026-08-11  _scratch_0803c/_退役_20260811_再実行禁止/rename_referral.mjs
+   2026-08-11  _scratch_0803c/_退役_20260811_再実行禁止/upload_pdf.mjs
+   2026-08-11  _scratch_0810/_退役_20260811_再実行禁止/build-gifts.mjs
+   2026-08-11  _scratch_consent/_退役_20260811_再実行禁止/_page_updates.mjs
+

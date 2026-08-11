@@ -1,0 +1,30 @@
+# 退役3本の停止の実測（2026-08-11）
+
+$ node <各ファイル> を実際に走らせた結果：
+
+=========== _scratch_0803c/_退役_20260811_再実行禁止/upload_pdf.mjs
+[退役] upload_pdf.mjs は 2026-08-11 に退役しました。実行しません。理由＝同フォルダの README_退役.md を参照。
+★終了コード = 1
+
+=========== _scratch_0803c/_退役_20260811_再実行禁止/rename_referral.mjs
+[退役] rename_referral.mjs は 2026-08-11 に退役しました。実行しません。理由＝同フォルダの README_退役.md を参照。
+★終了コード = 1
+
+=========== _scratch_consent/_退役_20260811_再実行禁止/_page_updates.mjs
+[退役] _page_updates.mjs は 2026-08-11 に退役しました。実行しません。理由＝同フォルダの README_退役.md を参照。
+★終了コード = 1
+
+## 停止より先に走る import（ESMのimportは巻き上げられるため確認）
+- upload_pdf.mjs: 2 本（いずれも node: 組み込み＝副作用なし）
+- rename_referral.mjs: 1 本（いずれも node: 組み込み＝副作用なし）
+- _page_updates.mjs: 0 本（いずれも node: 組み込み＝副作用なし）
+
+## 元の場所に残っていないこと
+- _scratch_0803c/upload_pdf.mjs : 無し（移動済み）
+- _scratch_0803c/rename_referral.mjs : 無し（移動済み）
+- _scratch_consent/_page_updates.mjs : 無し（移動済み）
+
+## 処理本体が消えていないこと（停止分だけ増えている）
+- upload_pdf.mjs      2,563 → 3,424 バイト
+- rename_referral.mjs 5,891 → 6,685 バイト
+- _page_updates.mjs   1,418 → 2,238 バイト
