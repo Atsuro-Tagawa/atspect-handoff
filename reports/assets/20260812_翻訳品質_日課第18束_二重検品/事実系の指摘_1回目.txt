@@ -1,0 +1,28 @@
+[1] kitamura-haruyoshi__de :: - 功績／「die klar aufgelöste Form」／「aufgelöst」は「解体された・溶解した」という意味になり、誤訳。／「die klar gefasste Form」
+[1] kitamura-haruyoshi__es :: - 功績／「rindió los animales y la figura humana」／「rendir」はここでは不自然で、「表した」の誤訳に近い。／「representó los animales y la figura humana」に直す。
+[1] kitamura-haruyoshi__es :: - 功績／「observó su modelo en silencio」／「su modelo」は原文にない「モデル」を加えており、「en silencio」も「静かに観察」の意味を十分に表していない。／「observó serenamente el aspecto del motivo」に直す。
+[1] kitamura-haruyoshi__fr :: - 功績／「la pure force」／「pure」は原文にない評価・限定。／「la force」
+[1] kitamura-seibo__zh_tw :: 功績／「他擅長雄健的男性像，支撐了官展的雕塑。」／原文の「彫刻家」が落ちている。また、「支撐了官展的雕塑」は台湾華語として不自然。／「他是擅長創作雄健男性像、支撐官展雕塑發展的雕塑家。」に直す。
+[1] kitamura-shikai__de :: - 略歴／「stellte seine Werke in den staatlichen Ausstellungen aus」／冠詞と語の組み合わせが不自然。また、「など」が落ちている。／「präsentierte seine Werke unter anderem auf staatlich veranstalteten Kunstausstellungen」とする。
+[1] kitamura-shikai__de :: - 略歴／「„Oboro“ (Mondnebel)」／「Mondnebel」は原文にない解釈を加えた訳で、作品名の意味としても限定的すぎる。／「„Oboro“」とする。
+[1] kitamura-shikai__en :: - 略歴／“showed his work at the government-sponsored exhibitions”／「など」が落ちており、“the government-sponsored exhibitions”も不自然。／“showed his work at government-sponsored exhibitions and elsewhere”に直す。
+[1] kitamura-shikai__zh_tw :: - 略歴／「直接雕琢大理石的西方技法」／原文の「西洋の彫刻技法」にある「彫刻」が落ちている。／「直接雕琢大理石的西方雕刻技法」に直す。
+[1] kitano-tsunetomi__de :: 略歴／「Sein Rufname war Tomitarō.」／「Rufname」は通称を意味し、「本名」の誤訳。／「Sein bürgerlicher Name war Tomitarō.」に直す。
+[1] kitano-tsunetomi__de :: 功績／「Gegenstände wie einen Spiegel oder eine Sänfte」／「Sänfte」は「輿・駕籠」であり、ここでの「籠」の誤訳。／「Gegenstände wie einen Spiegel oder einen Korb」に直す。
+[1] kitano-tsunetomi__en :: 功績／“a palanquin”／原文の「籠」は一般的な basket であり、palanquin は「駕籠」との取り違え。／“a basket” とする。
+[1] kitano-tsunetomi__es :: 功績／「un palanquín」／「籠」を「輿」と取り違えている。／「una cesta」
+[1] kitano-tsunetomi__fr :: - 略歴／「des illustrations et des motifs pour la presse」／「pour la presse」が「motifs」にもかかり、図案も新聞向けだったという原文にない限定が生じている。／「des illustrations pour des journaux et des motifs」に直す。
+[1] kitano-tsunetomi__fr :: - 略歴／「forma de jeunes artistes」／「後進」を「若い芸術家」としており、原文にない年齢の情報が加わっている。／「forma la génération suivante d’artistes」または「forma de nombreux élèves」に直す。
+[1] kitano-tsunetomi__fr :: - 功績／「un palanquin」／「籠」を「輿」と解釈した語であり、この文脈の持ち物としては語の取り違え。／「un panier」に直す。
+[1] kitano-tsunetomi__ko :: - 功績／「거울이나 가마 같은 소지품」／「가마」は輿・駕籠を指し、籠の誤訳。／「거울이나 바구니 같은 소지품」に直す。
+[1] kitano-tsunetomi__zh_cn :: 略歴／「含蓄而富情致」／「含蓄」は原文の「しっとりとした」に対応せず、意味がずれている。／「温润而富有情致」などに直す。
+[1] kitaoji-rosanjin__en :: - 功績／“unlike the beauty of a tidy copybook”／“a tidy copybook”は「整った手本のような美しさ」の誤訳で、字の手本そのものとの比較になっている。／“in contrast to the polished beauty of exemplary calligraphy”などに直す。
+[1] kitaoji-rosanjin__es :: 功績／「la belleza de un cuaderno de modelos ordenado」／「cuaderno de modelos」は「手本のような美しさ」を「手本帳の美しさ」と取り違えている。／「la belleza bien proporcionada propia de un modelo」とする。
+[1] kitaoji-rosanjin__zh_tw :: 功績／「統觀器物整體」／「もの全体」を「器物全体」に限定しており、原文にない意味の狭まりがある。／「統觀事物整體」とする。
+[1] kobayashi-kaichi__es :: 略歴／「un diseñador」／「図案家・デザイナー」という二つの呼称のうち、一方が落ちている。／「un artista gráfico y diseñador」とする。
+[1] kobayashi-kaichi__es :: 略歴／「pequeñas bolsitas de papel」／原文にない素材「de papel」が加えられている。／「pequeñas bolsitas」とする。
+[1] kobayashi-kaichi__fr :: 略歴／「Kobayashi Kaichi était un dessinateur né à Kyoto.」／「デザイナー」という事実が落ちている。／「Kobayashi Kaichi était un dessinateur et designer né à Kyoto.」
+[1] kobayashi-kaichi__zh_tw :: - 略歴／「小紙袋」／「小袋」を紙袋と断定しており、原文にない材質を加えている。／「小袋」
+[1] kobayashi-kaichi__zh_tw :: - 功績／「小紙袋」／「小袋」を紙袋と断定しており、原文にない材質を加えている。／「小袋」
+[1] kobayashi-kokei__de :: - 略歴／「als ein Klassizismus」／「新古典」の「新」が落ちており、冠詞も不自然。／「als Neoklassizismus」に直す。
+[1] kobayashi-toan__en :: - 功績／“the millennia-long history of the Chinese seal”／原文は中国における印の歴史であり、“the Chinese seal” という単数形では意味がずれる。／“China’s millennia-long history of seals”

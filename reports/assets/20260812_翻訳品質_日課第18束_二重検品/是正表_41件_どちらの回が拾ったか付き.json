@@ -1,0 +1,336 @@
+{
+  "reason": "日課 第18束（導線順230〜239番の10名）＝★作業B＝順序を入れ替えた二重検品（1名×1言語×2回＝140依頼）の両方を突き合わせ、日本語原文と照合して誤りと確認できたものだけを是正",
+  "enteredBy": "翻訳品質T",
+  "enteredDate": "2026-08-12",
+  "note": "各patchの which は、その誤りを拾った回＝1(従来順)/2(逆順)/B(両方)。★両回が一致して指摘した『籠→かご(basket)』は、代表作《宝恵籠》＝駕籠であり現行が正しいため採らなかった。",
+  "patches": [
+    {
+      "which": "2",
+      "handle": "kobayashi-kaichi",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "小林嘉一是出生于京都的图案家、设计师。",
+      "to": "小林かいち是出生于京都的图案家、设计师。"
+    },
+    {
+      "which": "2",
+      "handle": "kobayashi-kaichi",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "小林嘉一是出生於京都的圖案家、設計師。",
+      "to": "小林かいち是出生於京都的圖案家、設計師。"
+    },
+    {
+      "which": "2",
+      "handle": "kobayashi-kaichi",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "其作品曾长期被遗忘",
+      "to": "他曾长期被人遗忘"
+    },
+    {
+      "which": "2",
+      "handle": "kobayashi-kaichi",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "其作品曾長期被遺忘",
+      "to": "他曾長期被世人遺忘"
+    },
+    {
+      "which": "1",
+      "handle": "kobayashi-kaichi",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "为绘明信片与小纸袋等绘制图案",
+      "to": "为绘明信片与小袋等绘制图案"
+    },
+    {
+      "which": "1",
+      "handle": "kobayashi-kaichi",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "為繪明信片與小紙袋等繪製圖案",
+      "to": "為繪明信片與小袋等繪製圖案"
+    },
+    {
+      "which": "1",
+      "handle": "kobayashi-kaichi",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "在绘明信片与小纸袋的图案中",
+      "to": "在绘明信片与小袋的图案中"
+    },
+    {
+      "which": "1",
+      "handle": "kobayashi-kaichi",
+      "lang": "zh_tw",
+      "field": "viewpoint",
+      "from": "在繪明信片與小紙袋的圖案中",
+      "to": "在繪明信片與小袋的圖案中"
+    },
+    {
+      "which": "B",
+      "handle": "kobayashi-kaichi",
+      "lang": "es",
+      "field": "bio",
+      "from": "fue un diseñador nacido en Kioto",
+      "to": "fue un dibujante de motivos y diseñador nacido en Kioto"
+    },
+    {
+      "which": "B",
+      "handle": "kobayashi-kaichi",
+      "lang": "es",
+      "field": "bio",
+      "from": "pequeñas bolsitas de papel",
+      "to": "pequeñas bolsitas"
+    },
+    {
+      "which": "1",
+      "handle": "kobayashi-kaichi",
+      "lang": "fr",
+      "field": "bio",
+      "from": "était un dessinateur né à Kyoto",
+      "to": "était un créateur de motifs et designer né à Kyoto"
+    },
+    {
+      "which": "2",
+      "handle": "kobayashi-kaichi",
+      "lang": "fr",
+      "field": "bio",
+      "from": "de petites pochettes de papier",
+      "to": "de petites pochettes"
+    },
+    {
+      "which": "2",
+      "handle": "kobayashi-kaichi",
+      "lang": "de",
+      "field": "bio",
+      "from": "kleine Papiertüten",
+      "to": "kleine Tüten"
+    },
+    {
+      "which": "2",
+      "handle": "kitamura-takeshi",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "entwirrte, wieder zum Leben erweckte und zu Kimono für die Gegenwart verwob",
+      "to": "entwirrte, wieder zum Leben erweckte und in Kimonos für die Gegenwart umzusetzen suchte"
+    },
+    {
+      "which": "2",
+      "handle": "kitamura-takeshi",
+      "lang": "fr",
+      "field": "viewpoint",
+      "from": "il sut élucider, à partir du fil et du métier, la mécanique sophistiquée et perdue du tissage ancien, la ranimer et la tisser en kimono pour notre temps",
+      "to": "il chercha, à partir du fil et du métier, à élucider la mécanique sophistiquée et perdue du tissage ancien, à la ranimer et à la mettre en œuvre dans des kimonos pour notre temps"
+    },
+    {
+      "which": "2",
+      "handle": "kitamura-takeshi",
+      "lang": "zh_tw",
+      "field": "viewpoint",
+      "from": "從絲線與織機中解明並使之復活、織成現代和服",
+      "to": "從線與織機中解讀並重現，嘗試織成現代和服"
+    },
+    {
+      "which": "2",
+      "handle": "kito-nabesaburo",
+      "lang": "de",
+      "field": "bio",
+      "from": "selbst bei einem prächtigen Stoff",
+      "to": "selbst bei prachtvollen Motiven"
+    },
+    {
+      "which": "2",
+      "handle": "kito-nabesaburo",
+      "lang": "fr",
+      "field": "bio",
+      "from": "même devant un motif éclatant",
+      "to": "même lorsqu'il traitait de sujets aux couleurs éclatantes"
+    },
+    {
+      "which": "B",
+      "handle": "kitamura-shikai",
+      "lang": "de",
+      "field": "bio",
+      "from": "„Oboro“ (Mondnebel)",
+      "to": "„Oboro“"
+    },
+    {
+      "which": "2",
+      "handle": "kitamura-shikai",
+      "lang": "es",
+      "field": "bio",
+      "from": "Oboro (Luna velada)",
+      "to": "Oboro"
+    },
+    {
+      "which": "1",
+      "handle": "kitamura-shikai",
+      "lang": "en",
+      "field": "bio",
+      "from": "Oboro (Haze of the Moon)",
+      "to": "Oboro"
+    },
+    {
+      "which": "B",
+      "handle": "kitamura-shikai",
+      "lang": "de",
+      "field": "bio",
+      "from": "stellte seine Werke in den staatlichen Ausstellungen aus",
+      "to": "stellte seine Werke unter anderem in staatlichen Ausstellungen aus"
+    },
+    {
+      "which": "1",
+      "handle": "kitamura-shikai",
+      "lang": "en",
+      "field": "bio",
+      "from": "showed his work at the government-sponsored exhibitions",
+      "to": "showed his work at government-sponsored exhibitions and elsewhere"
+    },
+    {
+      "which": "2",
+      "handle": "kitamura-shikai",
+      "lang": "fr",
+      "field": "bio",
+      "from": "exposa ses œuvres aux salons officiels",
+      "to": "exposa ses œuvres notamment dans les expositions officielles"
+    },
+    {
+      "which": "1",
+      "handle": "kitamura-shikai",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "直接雕琢大理石的西方技法",
+      "to": "直接雕琢大理石的西方雕刻技法"
+    },
+    {
+      "which": "2",
+      "handle": "kitamura-shikai",
+      "lang": "de",
+      "field": "bio",
+      "from": "Er verfolgte die in Japan damals seltene Marmorbildhauerei",
+      "to": "Er widmete sich der damals in Japan seltenen Marmorskulptur"
+    },
+    {
+      "which": "2",
+      "handle": "kitamura-shikai",
+      "lang": "ko",
+      "field": "statement",
+      "from": "대리석으로 서양적인 나부상을 새긴 조각가",
+      "to": "대리석을 직접 깎아 서양적인 나부상을 만든 조각가"
+    },
+    {
+      "which": "1",
+      "handle": "kitaoji-rosanjin",
+      "lang": "en",
+      "field": "viewpoint",
+      "from": "unlike the beauty of a tidy copybook",
+      "to": "unlike the polished beauty of exemplary calligraphy"
+    },
+    {
+      "which": "B",
+      "handle": "kitaoji-rosanjin",
+      "lang": "es",
+      "field": "viewpoint",
+      "from": "a diferencia de la belleza de un cuaderno de modelos ordenado",
+      "to": "a diferencia de una belleza pulcra, propia de un modelo"
+    },
+    {
+      "which": "1",
+      "handle": "kitaoji-rosanjin",
+      "lang": "zh_tw",
+      "field": "viewpoint",
+      "from": "唯有統觀器物整體的綜合藝術家",
+      "to": "唯有統觀事物整體的綜合藝術家"
+    },
+    {
+      "which": "1",
+      "handle": "kobayashi-kokei",
+      "lang": "de",
+      "field": "bio",
+      "from": "als ein Klassizismus",
+      "to": "als Neoklassizismus"
+    },
+    {
+      "which": "2",
+      "handle": "kobayashi-kokei",
+      "lang": "zh_tw",
+      "field": "statement",
+      "from": "以澄澈線描令古典在當代復甦的畫家",
+      "to": "以澄澈線描令古典在現代重現生機的畫家"
+    },
+    {
+      "which": "1",
+      "handle": "kobayashi-toan",
+      "lang": "en",
+      "field": "viewpoint",
+      "from": "the millennia-long history of the Chinese seal",
+      "to": "China's millennia-long history of seals"
+    },
+    {
+      "which": "2",
+      "handle": "kobayashi-toan",
+      "lang": "fr",
+      "field": "bio",
+      "from": "étudia en profondeur ses modèles classiques, les sceaux de Chine",
+      "to": "étudia en profondeur les sceaux chinois anciens, qui en constituent les classiques"
+    },
+    {
+      "which": "1",
+      "handle": "kitamura-seibo",
+      "lang": "zh_tw",
+      "field": "viewpoint",
+      "from": "他擅長雄健的男性像，支撐了官展的雕塑。",
+      "to": "他是擅長雄健男性像、支撐官展雕塑界的雕塑家。"
+    },
+    {
+      "which": "1",
+      "handle": "kitamura-haruyoshi",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "den Blick auf die klar aufgelöste Form",
+      "to": "den Blick auf die klar gefasste Form"
+    },
+    {
+      "which": "B",
+      "handle": "kitamura-haruyoshi",
+      "lang": "fr",
+      "field": "viewpoint",
+      "from": "plutôt que de mettre en avant la pure force",
+      "to": "plutôt que de mettre en avant la force"
+    },
+    {
+      "which": "B",
+      "handle": "kitamura-haruyoshi",
+      "lang": "es",
+      "field": "viewpoint",
+      "from": "en lugar de anteponer la pura fuerza",
+      "to": "en lugar de anteponer la fuerza"
+    },
+    {
+      "which": "1",
+      "handle": "kitamura-haruyoshi",
+      "lang": "es",
+      "field": "viewpoint",
+      "from": "observó su modelo en silencio y buscó rendirlo como una belleza equilibrada",
+      "to": "observó serenamente su motivo y buscó plasmarlo con una belleza equilibrada"
+    },
+    {
+      "which": "2",
+      "handle": "kitamura-haruyoshi",
+      "lang": "fr",
+      "field": "viewpoint",
+      "from": "il observa son sujet en silence et chercha à le rendre comme une beauté équilibrée",
+      "to": "il observa attentivement son sujet et chercha à en exprimer la beauté harmonieuse"
+    },
+    {
+      "which": "1",
+      "handle": "kitamura-shikai",
+      "lang": "fr",
+      "field": "bio",
+      "from": "Oboro (Clair de lune voilé)",
+      "to": "Oboro"
+    }
+  ]
+}

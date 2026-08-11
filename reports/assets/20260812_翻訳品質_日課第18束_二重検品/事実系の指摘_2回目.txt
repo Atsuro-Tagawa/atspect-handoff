@@ -1,0 +1,30 @@
+[2] kitamura-haruyoshi__fr :: - 功績／「la pure force」／「pure」は原文にない評価を加えている。／「la force」とする。
+[2] kitamura-haruyoshi__fr :: - 功績／「il observa son sujet en silence et chercha à le rendre comme une beauté équilibrée」／「en silence」は「静かに観察」の誤訳で、後半も不自然。／「il observa attentivement son sujet et chercha à en exprimer la beauté harmonieuse」とする。
+[2] kitamura-shikai__de :: 何が問題か：「Marmorbildhauerei verfolgen」は不自然で、「大理石彫刻の表現を追求した」の「表現」が落ちています。  
+[2] kitamura-shikai__de :: 何が問題か：特定の展覧会群を指すような定冠詞になっており、「官展など」の「など」も落ちています。  
+[2] kitamura-shikai__de :: 何が問題か：「Mondnebel」は原文にない意味を限定的に補っています。「おぼろ」は必ずしも月を意味しません。  
+[2] kitamura-shikai__es :: 略歴／「Oboro (Luna velada)」／「Oboro」を月に限定した「Luna velada」とするのは不正確で、原文にない「月」が加わっている。／「Oboro」とする。
+[2] kitamura-shikai__fr :: - 略歴／「aux salons officiels」／「官展など」の「など」が落ちており、「官展」はここでは「salons」より「expositions」が適切／「notamment dans les expositions officielles」とする。
+[2] kitamura-shikai__ko :: 一言紹介／「대리석으로 서양적인 나부상을 새긴」／ほかの欄では「直接刻む」を「직접 깎다」としており、表現が不統一。また「直接」に当たる内容が落ちている。／「대리석을 직접 깎아 서양적인 나부상을 만든」に直す。
+[2] kitamura-takeshi__de :: - 功績／「darin zeigt sich die Tiefe seiner Forschung und seines Könnens – eines, das die verlorene, ausgefeilte Mechanik des alten Webens aus Faden und Webstuhl entwirrte, wieder zum Leben erweckte und zu Kimono für die Gegenwart verwob」／「eines, das」の指示関係が不自然で、研究・技能そのものが技法を復元したように読める。また「織り上げようとした」という試みのニュアンスが落ちている。／「Darin wird deutlich, wie tiefgreifend seine Forschung und sein Können waren: Ausgehend von Fäden und Webstuhl entschlüsselte und rekonstruierte er die verlorenen, hochentwickelten Webstrukturen des Altertums und versuchte, sie in zeitgenössischen Kimono umzusetzen.」
+[2] kitamura-takeshi__fr :: 功績／「il sut élucider, à partir du fil et du métier, la mécanique sophistiquée et perdue du tissage ancien, la ranimer et la tisser en kimono pour notre temps」／「sut」は成功したという評価を加えており、「la tisser」は文法上「la mécanique」を着物に織り上げる意味になる。また、原文の「織り上げようとした」という試みのニュアンスが落ちている。／「il chercha, à partir des fils et du métier à tisser, à élucider et à faire revivre les mécanismes sophistiqués de ces techniques anciennes, afin de les mettre en œuvre dans des kimonos contemporains」とする。
+[2] kitamura-takeshi__zh_tw :: - 功績／「從絲線與織機中解明」／「絲線」は素材を絹に限定しており、原文にない事実が加わっている。／「從線與織機中解明」に直す。
+[2] kitamura-takeshi__zh_tw :: - 功績／「並使之復活、織成現代和服」／実際に織り上げたという意味になり、「織り上げようとした」という試みのニュアンスが落ちている。／「並使之重現，嘗試織成現代和服」に直す。
+[2] kitano-tsunetomi__de :: - 略歴／「Sein Rufname war Tomitarō.」／「Rufname」は通称を意味し、「本名」の誤訳。／「Sein bürgerlicher Name war Tomitarō.」とする。
+[2] kitano-tsunetomi__ko :: 功績／「가마 같은 소지품」／「가마」は輿を意味し、「籠」の誤訳。／「바구니 같은 소지품」に直す。
+[2] kitaoji-rosanjin__de :: - 功績／「anders als die Schönheit einer ordentlichen Vorlage」／「整った手本のような美しさ」を「整った手本の美しさ」と取り違えている。／「anders als eine wohlgeordnete, mustergültige Schönheit」
+[2] kitaoji-rosanjin__es :: - 功績／「a diferencia de la belleza de un cuaderno de modelos ordenado」／「整った手本のような美しさ」を「整然とした手本帳の美しさ」と取り違えており、不自然。／「a diferencia de una belleza pulcra, propia de un modelo」とする。
+[2] kito-nabesaburo__de :: 略歴／「selbst bei einem prächtigen Stoff」／「Stoff」では原意が曖昧になり、語の取り違えに近い。／「selbst bei prachtvollen Motiven」に直す。
+[2] kito-nabesaburo__fr :: 略歴／「même devant un motif éclatant」／「華やかな題材でも」の誤訳で、「題材を前にして」という意味になっている。／「même lorsqu’il traitait des sujets éclatants」に直す。
+[2] kobayashi-kaichi__de :: 略歴／「kleine Papiertüten」／「小袋」に原文にない素材「紙」を加えており、功績欄の「kleine Tüten」とも不統一。／「kleine Tüten」とする。
+[2] kobayashi-kaichi__es :: - 略歴／「fue un diseñador nacido en Kioto」／原文の二つの呼称「図案家・デザイナー」のうち、「図案家」が落ちている。／「fue un artista gráfico y diseñador nacido en Kioto」とする。
+[2] kobayashi-kaichi__es :: - 略歴／「pequeñas bolsitas de papel」／原文にない材質「de papel」が追加されている。／「pequeñas bolsitas」とする。
+[2] kobayashi-kaichi__fr :: - 【功績】／「le désir de saisir le sentiment et l'aspiration de la jeunesse de l'ère Taishō」／「感傷」が一般的な「sentiment」になっており、また「すくい取ろうとした」という働きが「désir」と訳されているため、意味がずれている。／「la volonté de saisir la sentimentalité et les aspirations de la jeunesse de l’ère Taishō」などとする。
+[2] kobayashi-kaichi__fr :: - 【略歴】／「un dessinateur né à Kyoto」／原文の「図案家・デザイナー」のうち、「デザイナー」が落ちている。／「un créateur de motifs et designer né à Kyoto」などとする。
+[2] kobayashi-kaichi__fr :: - 【略歴】／「son œuvre fut chérie par les jeunes femmes de l'époque」／「親しまれた」に対して「chérie」は強すぎて不自然であり、原文にない包括的な「son œuvre」に置き換わっている。／「ses créations étaient appréciées des jeunes femmes de l’époque」などとする。
+[2] kobayashi-kaichi__zh_cn :: - 功績・略歴・一言紹介／「绘明信片」／「絵はがき」の誤訳。「绘」では明信片に絵を描くという意味になる／「图画明信片」に直す。
+[2] kobayashi-kaichi__zh_cn :: - 略歴／「小林嘉一」／原文の「小林かいち」を、原文にない漢字表記に置き換えている／美術館指定の中国語表記を確認し、指定がなければ「小林かいち」とする。
+[2] kobayashi-kaichi__zh_cn :: - 略歴／「其作品曾长期被遗忘」／原文では忘れられていた対象を「作品」に限定しておらず、原文にない事実を加えている／「他曾长期被人遗忘」に直す。
+[2] kobayashi-kaichi__zh_tw :: 略歴／「其作品曾長期被遺忘」／原文では長く忘れられていた対象を「作品」と限定しておらず、原文にない事実が加わっている。／「他曾長期被世人遺忘」に直す。
+[2] kobayashi-kokei__zh_tw :: - 一言紹介／「在當代復甦」／「現代」を「當代」としており、この文脈では時代の意味がずれる。／「在現代重現生機」に直す。
+[2] kobayashi-toan__fr :: - 略歴／「ses modèles classiques, les sceaux de Chine」／「その古典である中国の印章」の訳として不自然で、「modèles」という原文にない意味が加わっている。／「les sceaux chinois anciens, qui constituent les classiques de cet art」とする。
