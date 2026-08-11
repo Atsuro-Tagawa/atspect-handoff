@@ -1,0 +1,494 @@
+[
+  {
+    "eng": "Chromium",
+    "label": "トップMOVIE",
+    "w": 390,
+    "枠": {
+      "tag": "section",
+      "cls": "atspect-fmedia",
+      "w": 390,
+      "h": 541,
+      "表示": "block",
+      "可視": "visible",
+      "透明度": "1",
+      "背景": "rgb(244, 239, 230)"
+    },
+    "中身": [
+      {
+        "tag": "img",
+        "cls": "atspect-fmedia__img",
+        "w": 350,
+        "h": 197,
+        "表示": "block",
+        "可視": "visible",
+        "透明度": "1",
+        "背景": "rgb(245, 243, 240)",
+        "src": "https://atspect.com/cdn/shop/files/featured-film-20260706.jpg?v=1783317824&width=800",
+        "読み込めた": true,
+        "実寸": "390x217",
+        "loading": "lazy"
+      }
+    ],
+    "枠の中の文字": "MOVIE 映像でふれる、日本の美術。 作家の作品と活動を映像でご紹介します。 映像を見る（YouTube）",
+    "失敗した通信": [
+      "https://atspect.com/api/collect ← net::ERR_ABORTED",
+      "https://shop.app/pay/hop?analytics_trace_id=f274391f-af99-4f8e-b1fd-bae1d4843f8b ← net::ERR_BLOCKED_BY_RESPONSE",
+      "https://atspect.com/shopify_pay/accelerated_checkout ← net::ERR_ABORTED",
+      "https://atspect.com/api/collect ← net::ERR_ABORTED"
+    ],
+    "主な応答": [
+      "200 com/cdn/shop/t/4/assets/hero-enso.jpg?v=181556447435620721761782826198",
+      "200 dn/shop/t/4/assets/logo-horizontal.png?v=82915206817511999261779773061",
+      "200 om/cdn/shop/files/hero-enso-musubi-20260705.jpg?v=1783184796&width=640",
+      "200 cdn/shop/t/4/assets/logo-vertical.png?v=103299190295433610781779773062"
+    ]
+  },
+  {
+    "eng": "Chromium",
+    "label": "トップMOVIE",
+    "w": 768,
+    "枠": {
+      "tag": "section",
+      "cls": "atspect-fmedia",
+      "w": 768,
+      "h": 801,
+      "表示": "block",
+      "可視": "visible",
+      "透明度": "1",
+      "背景": "rgb(244, 239, 230)"
+    },
+    "中身": [
+      {
+        "tag": "img",
+        "cls": "atspect-fmedia__img",
+        "w": 668,
+        "h": 376,
+        "表示": "block",
+        "可視": "visible",
+        "透明度": "1",
+        "背景": "rgb(245, 243, 240)",
+        "src": "https://atspect.com/cdn/shop/files/featured-film-20260706.jpg?v=1783317824&width=800",
+        "読み込めた": true,
+        "実寸": "720x402",
+        "loading": "lazy"
+      }
+    ],
+    "枠の中の文字": "MOVIE 映像でふれる、日本の美術。 作家の作品と活動を映像でご紹介します。 映像を見る（YouTube）",
+    "失敗した通信": [
+      "https://atspect.com/api/collect ← net::ERR_ABORTED",
+      "https://shop.app/pay/hop?analytics_trace_id=314c8b85-6fb3-47f8-a430-6eaf8b58b384 ← net::ERR_BLOCKED_BY_RESPONSE",
+      "https://atspect.com/shopify_pay/accelerated_checkout ← net::ERR_ABORTED",
+      "https://atspect.com/api/collect ← net::ERR_ABORTED"
+    ],
+    "主な応答": [
+      "200 cdn/shop/t/4/assets/logo-vertical.png?v=103299190295433610781779773062",
+      "200 dn/shop/t/4/assets/logo-horizontal.png?v=82915206817511999261779773061",
+      "200 4/assets/arts-respect-logo-h-washi.png?v=68681814608964229601782696111",
+      "200 com/cdn/shop/t/4/assets/hero-enso.jpg?v=181556447435620721761782826198"
+    ]
+  },
+  {
+    "eng": "Chromium",
+    "label": "トップMOVIE",
+    "w": 1440,
+    "枠": {
+      "tag": "section",
+      "cls": "atspect-fmedia",
+      "w": 1440,
+      "h": 835,
+      "表示": "block",
+      "可視": "visible",
+      "透明度": "1",
+      "背景": "rgb(244, 239, 230)"
+    },
+    "中身": [
+      {
+        "tag": "img",
+        "cls": "atspect-fmedia__img",
+        "w": 720,
+        "h": 405,
+        "表示": "block",
+        "可視": "visible",
+        "透明度": "1",
+        "背景": "rgb(245, 243, 240)",
+        "src": "https://atspect.com/cdn/shop/files/featured-film-20260706.jpg?v=1783317824&width=800",
+        "読み込めた": true,
+        "実寸": "720x402",
+        "loading": "lazy"
+      }
+    ],
+    "枠の中の文字": "MOVIE 映像でふれる、日本の美術。 作家の作品と活動を映像でご紹介します。 映像を見る（YouTube）",
+    "失敗した通信": [
+      "https://atspect.com/api/collect ← net::ERR_ABORTED",
+      "https://shop.app/pay/hop?analytics_trace_id=27cac4ec-9784-4fbb-8f43-333942211e03 ← net::ERR_BLOCKED_BY_RESPONSE",
+      "https://atspect.com/shopify_pay/accelerated_checkout ← net::ERR_ABORTED",
+      "https://atspect.com/api/collect ← net::ERR_ABORTED"
+    ],
+    "主な応答": [
+      "200 m/cdn/shop/files/hero-enso-musubi-20260705.jpg?v=1783184796&width=1600",
+      "200 dn/shop/t/4/assets/logo-horizontal.png?v=82915206817511999261779773061",
+      "200 cdn/shop/t/4/assets/logo-vertical.png?v=103299190295433610781779773062",
+      "200 com/cdn/shop/t/4/assets/hero-enso.jpg?v=181556447435620721761782826198"
+    ]
+  },
+  {
+    "eng": "Chromium",
+    "label": "作家ページの動画",
+    "w": 390,
+    "枠": {
+      "tag": "div",
+      "cls": "aad-film",
+      "w": 220,
+      "h": 124,
+      "表示": "block",
+      "可視": "visible",
+      "透明度": "1",
+      "背景": "rgb(12, 12, 12)"
+    },
+    "中身": [
+      {
+        "tag": "iframe",
+        "cls": "",
+        "w": 220,
+        "h": 124,
+        "表示": "block",
+        "可視": "visible",
+        "透明度": "1",
+        "背景": "rgba(0, 0, 0, 0)",
+        "src": "https://www.youtube.com/embed/iGDOBLrDiv0?rel=0&modestbranding=1",
+        "srcあり": true
+      }
+    ],
+    "枠の中の文字": "",
+    "失敗した通信": [
+      "https://shop.app/pay/hop?analytics_trace_id=d53c1133-facc-4ae1-9589-26f0edb76234 ← net::ERR_BLOCKED_BY_RESPONSE",
+      "https://atspect.com/api/collect ← net::ERR_ABORTED",
+      "https://atspect.com/shopify_pay/accelerated_checkout ← net::ERR_ABORTED",
+      "https://googleads.g.doubleclick.net/pagead/id ← net::ERR_CONNECTION_RESET"
+    ],
+    "主な応答": [
+      "200 dn/shop/t/4/assets/logo-horizontal.png?v=82915206817511999261779773061",
+      "200 cdn/shop/t/4/assets/logo-vertical.png?v=103299190295433610781779773062",
+      "200 4/assets/arts-respect-logo-h-washi.png?v=68681814608964229601782696111",
+      "200 tspect.com/cdn/shop/files/suzuki-kaerubutsu.jpg?v=1781611110&width=760"
+    ]
+  },
+  {
+    "eng": "Chromium",
+    "label": "作家ページの動画",
+    "w": 768,
+    "枠": {
+      "tag": "div",
+      "cls": "aad-film",
+      "w": 449,
+      "h": 252,
+      "表示": "block",
+      "可視": "visible",
+      "透明度": "1",
+      "背景": "rgb(12, 12, 12)"
+    },
+    "中身": [
+      {
+        "tag": "iframe",
+        "cls": "",
+        "w": 449,
+        "h": 252,
+        "表示": "block",
+        "可視": "visible",
+        "透明度": "1",
+        "背景": "rgba(0, 0, 0, 0)",
+        "src": "https://www.youtube.com/embed/iGDOBLrDiv0?rel=0&modestbranding=1",
+        "srcあり": true
+      }
+    ],
+    "枠の中の文字": "",
+    "失敗した通信": [
+      "https://atspect.com/api/collect ← net::ERR_ABORTED",
+      "https://shop.app/pay/hop?analytics_trace_id=66ed6077-45fc-4b44-ad03-82d0124324e2 ← net::ERR_BLOCKED_BY_RESPONSE",
+      "https://googleads.g.doubleclick.net/pagead/id ← net::ERR_CONNECTION_RESET",
+      "https://static.doubleclick.net/instream/ad_status.js ← net::ERR_CONNECTION_RESET"
+    ],
+    "主な応答": [
+      "200 dn/shop/t/4/assets/logo-horizontal.png?v=82915206817511999261779773061",
+      "200 cdn/shop/t/4/assets/logo-vertical.png?v=103299190295433610781779773062",
+      "200 4/assets/arts-respect-logo-h-washi.png?v=68681814608964229601782696111",
+      "200 ct.com/cdn/shop/files/suzuki-portrait-kinei.jpg?v=1781837547&width=600"
+    ]
+  },
+  {
+    "eng": "Chromium",
+    "label": "作家ページの動画",
+    "w": 1440,
+    "枠": {
+      "tag": "div",
+      "cls": "aad-film",
+      "w": 480,
+      "h": 270,
+      "表示": "block",
+      "可視": "visible",
+      "透明度": "1",
+      "背景": "rgb(12, 12, 12)"
+    },
+    "中身": [
+      {
+        "tag": "iframe",
+        "cls": "",
+        "w": 480,
+        "h": 270,
+        "表示": "block",
+        "可視": "visible",
+        "透明度": "1",
+        "背景": "rgba(0, 0, 0, 0)",
+        "src": "https://www.youtube.com/embed/iGDOBLrDiv0?rel=0&modestbranding=1",
+        "srcあり": true
+      }
+    ],
+    "枠の中の文字": "",
+    "失敗した通信": [
+      "https://atspect.com/api/collect ← net::ERR_ABORTED",
+      "https://static.doubleclick.net/instream/ad_status.js ← net::ERR_CONNECTION_RESET",
+      "https://googleads.g.doubleclick.net/pagead/id ← net::ERR_CONNECTION_RESET",
+      "https://static.doubleclick.net/instream/ad_status.js ← net::ERR_CONNECTION_RESET"
+    ],
+    "主な応答": [
+      "200 dn/shop/t/4/assets/logo-horizontal.png?v=82915206817511999261779773061",
+      "200 cdn/shop/t/4/assets/logo-vertical.png?v=103299190295433610781779773062",
+      "200 4/assets/arts-respect-logo-h-washi.png?v=68681814608964229601782696111",
+      "200 com/cdn/shop/files/suzuki-sumo-kaeru-usagi.jpg?v=1781611026&width=1400"
+    ]
+  },
+  {
+    "eng": "WebKit(iPhone相当)",
+    "label": "トップMOVIE",
+    "w": 390,
+    "枠": {
+      "tag": "section",
+      "cls": "atspect-fmedia",
+      "w": 386,
+      "h": 538,
+      "表示": "block",
+      "可視": "visible",
+      "透明度": "1",
+      "背景": "rgb(244, 239, 230)"
+    },
+    "中身": [
+      {
+        "tag": "img",
+        "cls": "atspect-fmedia__img",
+        "w": 346,
+        "h": 195,
+        "表示": "block",
+        "可視": "visible",
+        "透明度": "1",
+        "背景": "rgb(245, 243, 240)",
+        "src": "https://atspect.com/cdn/shop/files/featured-film-20260706.jpg?v=1783317824&width=800",
+        "読み込めた": true,
+        "実寸": "390x217",
+        "loading": "lazy"
+      }
+    ],
+    "枠の中の文字": "MOVIE 映像でふれる、日本の美術。 作家の作品と活動を映像でご紹介します。 映像を見る（YouTube）",
+    "失敗した通信": [],
+    "主な応答": [
+      "200 om/cdn/shop/files/hero-enso-musubi-20260705.jpg?v=1783184796&width=640",
+      "200 com/cdn/shop/t/4/assets/hero-enso.jpg?v=181556447435620721761782826198",
+      "200 dn/shop/t/4/assets/logo-horizontal.png?v=82915206817511999261779773061",
+      "200 cdn/shop/t/4/assets/logo-vertical.png?v=103299190295433610781779773062"
+    ]
+  },
+  {
+    "eng": "WebKit(iPhone相当)",
+    "label": "トップMOVIE",
+    "w": 768,
+    "枠": {
+      "tag": "section",
+      "cls": "atspect-fmedia",
+      "w": 764,
+      "h": 799,
+      "表示": "block",
+      "可視": "visible",
+      "透明度": "1",
+      "背景": "rgb(244, 239, 230)"
+    },
+    "中身": [
+      {
+        "tag": "img",
+        "cls": "atspect-fmedia__img",
+        "w": 664,
+        "h": 374,
+        "表示": "block",
+        "可視": "visible",
+        "透明度": "1",
+        "背景": "rgb(245, 243, 240)",
+        "src": "https://atspect.com/cdn/shop/files/featured-film-20260706.jpg?v=1783317824&width=800",
+        "読み込めた": true,
+        "実寸": "720x402",
+        "loading": "lazy"
+      }
+    ],
+    "枠の中の文字": "MOVIE 映像でふれる、日本の美術。 作家の作品と活動を映像でご紹介します。 映像を見る（YouTube）",
+    "失敗した通信": [],
+    "主な応答": [
+      "200 com/cdn/shop/t/4/assets/hero-enso.jpg?v=181556447435620721761782826198",
+      "200 om/cdn/shop/files/hero-enso-musubi-20260705.jpg?v=1783184796&width=960",
+      "200 dn/shop/t/4/assets/logo-horizontal.png?v=82915206817511999261779773061",
+      "200 4/assets/arts-respect-logo-h-washi.png?v=68681814608964229601782696111"
+    ]
+  },
+  {
+    "eng": "WebKit(iPhone相当)",
+    "label": "トップMOVIE",
+    "w": 1440,
+    "枠": {
+      "tag": "section",
+      "cls": "atspect-fmedia",
+      "w": 1436,
+      "h": 835,
+      "表示": "block",
+      "可視": "visible",
+      "透明度": "1",
+      "背景": "rgb(244, 239, 230)"
+    },
+    "中身": [
+      {
+        "tag": "img",
+        "cls": "atspect-fmedia__img",
+        "w": 720,
+        "h": 405,
+        "表示": "block",
+        "可視": "visible",
+        "透明度": "1",
+        "背景": "rgb(245, 243, 240)",
+        "src": "https://atspect.com/cdn/shop/files/featured-film-20260706.jpg?v=1783317824&width=800",
+        "読み込めた": true,
+        "実寸": "720x402",
+        "loading": "lazy"
+      }
+    ],
+    "枠の中の文字": "MOVIE 映像でふれる、日本の美術。 作家の作品と活動を映像でご紹介します。 映像を見る（YouTube）",
+    "失敗した通信": [],
+    "主な応答": [
+      "200 com/cdn/shop/t/4/assets/hero-enso.jpg?v=181556447435620721761782826198",
+      "200 dn/shop/t/4/assets/logo-horizontal.png?v=82915206817511999261779773061",
+      "200 m/cdn/shop/files/hero-enso-musubi-20260705.jpg?v=1783184796&width=1600",
+      "200 cdn/shop/t/4/assets/logo-vertical.png?v=103299190295433610781779773062"
+    ]
+  },
+  {
+    "eng": "WebKit(iPhone相当)",
+    "label": "作家ページの動画",
+    "w": 390,
+    "枠": {
+      "tag": "div",
+      "cls": "aad-film",
+      "w": 220,
+      "h": 124,
+      "表示": "block",
+      "可視": "visible",
+      "透明度": "1",
+      "背景": "rgb(12, 12, 12)"
+    },
+    "中身": [
+      {
+        "tag": "iframe",
+        "cls": "",
+        "w": 220,
+        "h": 124,
+        "表示": "block",
+        "可視": "visible",
+        "透明度": "1",
+        "背景": "rgba(0, 0, 0, 0)",
+        "src": "https://www.youtube.com/embed/iGDOBLrDiv0?rel=0&modestbranding=1",
+        "srcあり": true
+      }
+    ],
+    "枠の中の文字": "",
+    "失敗した通信": [],
+    "主な応答": [
+      "200 dn/shop/t/4/assets/logo-horizontal.png?v=82915206817511999261779773061",
+      "200 cdn/shop/t/4/assets/logo-vertical.png?v=103299190295433610781779773062",
+      "200 4/assets/arts-respect-logo-h-washi.png?v=68681814608964229601782696111",
+      "200 com/cdn/shop/files/suzuki-sumo-kaeru-usagi.jpg?v=1781611026&width=1400"
+    ]
+  },
+  {
+    "eng": "WebKit(iPhone相当)",
+    "label": "作家ページの動画",
+    "w": 768,
+    "枠": {
+      "tag": "div",
+      "cls": "aad-film",
+      "w": 446,
+      "h": 251,
+      "表示": "block",
+      "可視": "visible",
+      "透明度": "1",
+      "背景": "rgb(12, 12, 12)"
+    },
+    "中身": [
+      {
+        "tag": "iframe",
+        "cls": "",
+        "w": 446,
+        "h": 251,
+        "表示": "block",
+        "可視": "visible",
+        "透明度": "1",
+        "背景": "rgba(0, 0, 0, 0)",
+        "src": "https://www.youtube.com/embed/iGDOBLrDiv0?rel=0&modestbranding=1",
+        "srcあり": true
+      }
+    ],
+    "枠の中の文字": "",
+    "失敗した通信": [
+      "https://googleads.g.doubleclick.net/pagead/id ← SSL connect error",
+      "https://static.doubleclick.net/instream/ad_status.js ← SSL connect error"
+    ],
+    "主な応答": [
+      "200 ct.com/cdn/shop/files/suzuki-portrait-kinei.jpg?v=1781837547&width=600",
+      "200 dn/shop/t/4/assets/logo-horizontal.png?v=82915206817511999261779773061",
+      "200 cdn/shop/t/4/assets/logo-vertical.png?v=103299190295433610781779773062",
+      "200 4/assets/arts-respect-logo-h-washi.png?v=68681814608964229601782696111"
+    ]
+  },
+  {
+    "eng": "WebKit(iPhone相当)",
+    "label": "作家ページの動画",
+    "w": 1440,
+    "枠": {
+      "tag": "div",
+      "cls": "aad-film",
+      "w": 480,
+      "h": 270,
+      "表示": "block",
+      "可視": "visible",
+      "透明度": "1",
+      "背景": "rgb(12, 12, 12)"
+    },
+    "中身": [
+      {
+        "tag": "iframe",
+        "cls": "",
+        "w": 480,
+        "h": 270,
+        "表示": "block",
+        "可視": "visible",
+        "透明度": "1",
+        "背景": "rgba(0, 0, 0, 0)",
+        "src": "https://www.youtube.com/embed/iGDOBLrDiv0?rel=0&modestbranding=1",
+        "srcあり": true
+      }
+    ],
+    "枠の中の文字": "",
+    "失敗した通信": [
+      "https://googleads.g.doubleclick.net/pagead/id ← SSL connect error",
+      "https://static.doubleclick.net/instream/ad_status.js ← SSL connect error"
+    ],
+    "主な応答": [
+      "200 cdn/shop/t/4/assets/logo-vertical.png?v=103299190295433610781779773062",
+      "200 dn/shop/t/4/assets/logo-horizontal.png?v=82915206817511999261779773061",
+      "200 4/assets/arts-respect-logo-h-washi.png?v=68681814608964229601782696111",
+      "200 com/cdn/shop/files/suzuki-sumo-kaeru-usagi.jpg?v=1781611026&width=1400"
+    ]
+  }
+]
