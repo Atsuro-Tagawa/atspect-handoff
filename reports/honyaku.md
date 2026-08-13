@@ -1058,3 +1058,72 @@ apply＝47名・94箇所。全件を別クエリで取り直して読み戻し�
 辞書＝`_backups\_auto\honyaku-ruling-dict\20260813-…_D4-jagda-yoga.json`（BYTE-IDENTICAL OK）。
 
 **このあと日課の第31便（カーソル＝`nakamura-takuji` の次）へ自動で戻ります。**
+
+---
+
+## 第55便（2026-08-13・翻訳品質T／Opus 5）＝独語(Yōga)の確定記録／人間国宝の独語3形の実測（データ無変更）
+
+**本便は本文を1文字も触っていない。** 辞書への記録と実測のみ。
+
+### ① 独語の「(Yōga)」＝現状維持で確定（辞書へ記録）
+
+司令塔裁定を辞書 `honyaku-ruling-dict.json` の `decisions` D4 へ確定として記録した。
+
+| 言語 | 本文の (yōga)/(Yōga) | role欄 | 裁定 |
+|---|---|---|---|
+| 仏 | 47欄 → **0**（第54便で除去済み） | 0 | 落とす |
+| 西 | 47欄 → **0**（第54便で除去済み） | 0 | 落とす |
+| **独** | **100欄＋一言1欄（不変）** | **99（不変）** | **★現状維持で確定・触らない** |
+
+根拠＝用語台帳の「洋画家」は**独語だけ `Maler im westlichen Stil (Yōga)` と (Yōga) を含み**、
+仏 `Peintre de style occidental`・西 `Pintor de estilo occidental` は含まない。
+独語は role欄99・本文100とも台帳と一致しており、**台帳どおりの語であって原文にない追加ではない**。
+仏西との差は言語ごとの慣行差として認める。**以後この型への変更提案は棄却する。横断型の未裁定リストから落とした。**
+
+読み戻し照合＝`vault-file-update.mjs` 経由、**BYTE-IDENTICAL: OK**
+（バックアップ `_backups/_auto/honyaku-ruling-dict/20260813-195555_bin55-yoga-final.json`）。
+
+### ② 人間国宝の独語3形＝本便では適用しない。実測2点のみ報告
+
+#### (a) 用語台帳に独語形の定義はあるか → **無い**
+
+`kanshou_dict.json` / `de_term_ledger.json` / `genre_labels_i18n.json` の**3本すべて**を、
+13通りの綴り（人間国宝・重要無形・保持者・Living National・Tesoro Nacional・Trésor national・
+Nationalschatz・Nationalschätz・国宝・國寶・국보 ほか）で走査。**見出し語・定義とも全言語で0件。**
+
+→ **独語の `Lebender Nationalschatz` は台帳由来ではなく、訳文側で作られた語である。**
+　（＝台帳の改訂を伴わずに変更できる。①の(Yōga)とはこの点が決定的に違う。）
+
+#### (b) 2件・1件は女性形の揺れか、文法的に正しい格変化・複数形か → **後者。女性形とは無関係**
+
+3件とも**父子2人**を指す文で、複数形が内容上必要な箇所だった。
+
+| 語形 | 件数 | 実文（前後の文ごと） | 日本語原文 |
+|---|---|---|---|
+| `Lebenden Nationalschätzen` | 2 | 藤原雄「Vater und Sohn wurden beide für die Bizen-Ware **zu Lebenden Nationalschätzen** (Ningen Kokuhō) ernannt.」／小宮康孝「…und Vater wie Sohn wurden für das Edo-Komon **zu Lebenden Nationalschätzen** (Ningen Kokuhō) ernannt.」 | 「父子そろって備前焼で人間国宝に認定された。」／「親子そろって江戸小紋で人間国宝に認定された。」 |
+| `Lebende Nationalschätze` | 1 | 磯井正美「Vater und Sohn wurden beide für kinma **als Lebende Nationalschätze** ausgezeichnet.」 | 「父子そろって蒟醤で人間国宝に認定された。」 |
+
+**切り分けの結論＝どちらも男性名詞 `der Nationalschatz` の複数形で、文法的に正しい。**
+`zu` は与格を取るため与格複数 `zu Lebenden Nationalschätzen`、`als` は主語と同格のため主格複数 `als Lebende Nationalschätze`。
+**女性形 `Nationalschätzin` の複数形は `Nationalschätzinnen` であり、この2形とは別語である**（データ内の出現＝**0件**）。
+
+★Codexへ独立に判定させた（Web検索なし・文法のみ・3文を1回で）＝**3文とも「A＝男性名詞の格変化・複数形として正しい」**で当方の判定と一致。
+第54便で結論が割れた女性形の可否とは**別の問題**であることが確定した。
+
+#### 補足＝女性形まわりの実測（裁定の材料）
+
+- 女性形 `Lebende Nationalschätzin` ＝ **8欄／4名**（堀柳女・平良敏子・与那嶺貞・江里佐代子、各 statement＋bio）。
+- 男性単数形 `Nationalschatz` ＝ **128回／69名**、属格 `Nationalschatzes` ＝ 3回。
+- **男性形を女性に当てている欄＝0件**（文単位・作家単位の2通りで確認。作家単位で `sie/ihr` が当たった17名は、
+  いずれも `die Wärme … wie sie sind` `die Glasur mit ihrem` 等の**女性名詞を受けた代名詞**で、人物の性別ではなかった）。
+
+→ **データ内に割れは無い**（女性4名は一貫して女性形、男性は一貫して男性形）。
+　残る論点は「`Nationalschätzin` という語形をドイツ語として使ってよいか」の1点のみで、**データの不整合ではない。**
+　リサーチTが独語圏の実例を取るまで保留。判断を保存するため、辞書 C28 に `pending_20260813` として実測を記録した。
+
+### 走査の網（残存を数えるときの語形）
+
+`Nationalschätzinnen` 0／`Nationalschätzin` 8／`Nationalschätzen` 2／`Nationalschätze` 1／`Nationalschatzes` 3／`Nationalschatz` 128。
+**6語形を別々に数えている**（過去に1語形だけで数えて取りこぼした型のため）。
+走査対象は `artist_i18n` の全欄に加え、**配列で持つ `masterworks` も1要素ずつ**展開した。
+
