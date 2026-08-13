@@ -1,0 +1,426 @@
+[
+ {
+  "who": "Wsama",
+  "lang": "ja",
+  "width": 1440,
+  "scrollY": 0,
+  "shot": "Wsama_ja_1440w.png",
+  "consoleErrors": 2,
+  "heads": [
+   "略歴",
+   "功績",
+   "作家メッセージ",
+   "販売作品"
+  ],
+  "designWorks": 0,
+  "designCaps": [],
+  "works": 3,
+  "film": 0,
+  "portrait": null,
+  "overflowX": null,
+  "role": "洋画家"
+ },
+ {
+  "who": "Wsama",
+  "lang": "ja",
+  "width": 768,
+  "scrollY": 0,
+  "shot": "Wsama_ja_768w.png",
+  "consoleErrors": 2,
+  "heads": [
+   "略歴",
+   "功績",
+   "作家メッセージ",
+   "販売作品"
+  ],
+  "designWorks": 0,
+  "designCaps": [],
+  "works": 3,
+  "film": 0,
+  "portrait": null,
+  "overflowX": null,
+  "role": "洋画家"
+ },
+ {
+  "who": "Wsama",
+  "lang": "ja",
+  "width": 390,
+  "scrollY": 0,
+  "shot": "Wsama_ja_390w.png",
+  "consoleErrors": 2,
+  "heads": [
+   "略歴",
+   "功績",
+   "作家メッセージ",
+   "販売作品"
+  ],
+  "designWorks": 0,
+  "designCaps": [],
+  "works": 3,
+  "film": 0,
+  "portrait": null,
+  "overflowX": null,
+  "role": "洋画家"
+ },
+ {
+  "who": "Wsama",
+  "lang": "en",
+  "width": 1440,
+  "scrollY": 0,
+  "shot": "Wsama_en_1440w.png",
+  "consoleErrors": 2,
+  "heads": [
+   "Biography",
+   "Legacy",
+   "Artist Statement",
+   "Works for Sale"
+  ],
+  "designWorks": 0,
+  "designCaps": [],
+  "works": 3,
+  "film": 0,
+  "portrait": null,
+  "overflowX": null,
+  "role": "Yōga (Western-style) Painter"
+ },
+ {
+  "who": "Wsama",
+  "lang": "en",
+  "width": 768,
+  "scrollY": 0,
+  "shot": "Wsama_en_768w.png",
+  "consoleErrors": 2,
+  "heads": [
+   "Biography",
+   "Legacy",
+   "Artist Statement",
+   "Works for Sale"
+  ],
+  "designWorks": 0,
+  "designCaps": [],
+  "works": 3,
+  "film": 0,
+  "portrait": null,
+  "overflowX": null,
+  "role": "Yōga (Western-style) Painter"
+ },
+ {
+  "who": "Wsama",
+  "lang": "en",
+  "width": 390,
+  "scrollY": 0,
+  "shot": "Wsama_en_390w.png",
+  "consoleErrors": 2,
+  "heads": [
+   "Biography",
+   "Legacy",
+   "Artist Statement",
+   "Works for Sale"
+  ],
+  "designWorks": 0,
+  "designCaps": [],
+  "works": 3,
+  "film": 0,
+  "portrait": null,
+  "overflowX": null,
+  "role": "Yōga (Western-style) Painter"
+ },
+ {
+  "who": "Wsama",
+  "lang": "de",
+  "width": 1440,
+  "scrollY": 0,
+  "shot": "Wsama_de_1440w.png",
+  "consoleErrors": 2,
+  "heads": [
+   "Biografie",
+   "Würdigung",
+   "Künstlerstatement",
+   "Werke zum Verkauf"
+  ],
+  "designWorks": 0,
+  "designCaps": [],
+  "works": 3,
+  "film": 0,
+  "portrait": null,
+  "overflowX": null,
+  "role": "Maler im westlichen Stil (Yōga)"
+ },
+ {
+  "who": "Wsama",
+  "lang": "de",
+  "width": 768,
+  "scrollY": 0,
+  "shot": "Wsama_de_768w.png",
+  "consoleErrors": 2,
+  "heads": [
+   "Biografie",
+   "Würdigung",
+   "Künstlerstatement",
+   "Werke zum Verkauf"
+  ],
+  "designWorks": 0,
+  "designCaps": [],
+  "works": 3,
+  "film": 0,
+  "portrait": null,
+  "overflowX": null,
+  "role": "Maler im westlichen Stil (Yōga)"
+ },
+ {
+  "who": "Wsama",
+  "lang": "de",
+  "width": 390,
+  "scrollY": 0,
+  "shot": "Wsama_de_390w.png",
+  "consoleErrors": 2,
+  "heads": [
+   "Biografie",
+   "Würdigung",
+   "Künstlerstatement",
+   "Werke zum Verkauf"
+  ],
+  "designWorks": 0,
+  "designCaps": [],
+  "works": 3,
+  "film": 0,
+  "portrait": null,
+  "overflowX": null,
+  "role": "Maler im westlichen Stil (Yōga)"
+ },
+ {
+  "who": "Fsama",
+  "lang": "ja",
+  "width": 1440,
+  "scrollY": 0,
+  "shot": "Fsama_ja_1440w.png",
+  "consoleErrors": 2,
+  "heads": [
+   "略歴",
+   "デザインの仕事",
+   "功績",
+   "作家メッセージ",
+   "販売作品"
+  ],
+  "designWorks": 2,
+  "designCaps": [
+   "TERRORISM AND WAR ON TERRORISM Ⅰ\n作品に記された表題／ポスター／制作年●",
+   "TERRORISM AND WAR ON TERRORISM Ⅱ\n作品に記された表題／ポスター／制作年●"
+  ],
+  "works": 3,
+  "film": 0,
+  "portrait": null,
+  "overflowX": null,
+  "role": "●"
+ },
+ {
+  "who": "Fsama",
+  "lang": "ja",
+  "width": 768,
+  "scrollY": 0,
+  "shot": "Fsama_ja_768w.png",
+  "consoleErrors": 2,
+  "heads": [
+   "略歴",
+   "デザインの仕事",
+   "功績",
+   "作家メッセージ",
+   "販売作品"
+  ],
+  "designWorks": 2,
+  "designCaps": [
+   "TERRORISM AND WAR ON TERRORISM Ⅰ\n作品に記された表題／ポスター／制作年●",
+   "TERRORISM AND WAR ON TERRORISM Ⅱ\n作品に記された表題／ポスター／制作年●"
+  ],
+  "works": 3,
+  "film": 0,
+  "portrait": null,
+  "overflowX": null,
+  "role": "●"
+ },
+ {
+  "who": "Fsama",
+  "lang": "ja",
+  "width": 390,
+  "scrollY": 0,
+  "shot": "Fsama_ja_390w.png",
+  "consoleErrors": 2,
+  "heads": [
+   "略歴",
+   "デザインの仕事",
+   "功績",
+   "作家メッセージ",
+   "販売作品"
+  ],
+  "designWorks": 2,
+  "designCaps": [
+   "TERRORISM AND WAR ON TERRORISM Ⅰ\n作品に記された表題／ポスター／制作年●",
+   "TERRORISM AND WAR ON TERRORISM Ⅱ\n作品に記された表題／ポスター／制作年●"
+  ],
+  "works": 3,
+  "film": 0,
+  "portrait": null,
+  "overflowX": null,
+  "role": "●"
+ },
+ {
+  "who": "Fsama",
+  "lang": "en",
+  "width": 1440,
+  "scrollY": 0,
+  "shot": "Fsama_en_1440w.png",
+  "consoleErrors": 2,
+  "heads": [
+   "Biography",
+   "Work in Design",
+   "Legacy",
+   "Artist Statement",
+   "Works for Sale"
+  ],
+  "designWorks": 2,
+  "designCaps": [
+   "TERRORISM AND WAR ON TERRORISM Ⅰ\nTitle as printed on the wor",
+   "TERRORISM AND WAR ON TERRORISM Ⅱ\nTitle as printed on the wor"
+  ],
+  "works": 3,
+  "film": 0,
+  "portrait": null,
+  "overflowX": null,
+  "role": "●"
+ },
+ {
+  "who": "Fsama",
+  "lang": "en",
+  "width": 768,
+  "scrollY": 0,
+  "shot": "Fsama_en_768w.png",
+  "consoleErrors": 2,
+  "heads": [
+   "Biography",
+   "Work in Design",
+   "Legacy",
+   "Artist Statement",
+   "Works for Sale"
+  ],
+  "designWorks": 2,
+  "designCaps": [
+   "TERRORISM AND WAR ON TERRORISM Ⅰ\nTitle as printed on the wor",
+   "TERRORISM AND WAR ON TERRORISM Ⅱ\nTitle as printed on the wor"
+  ],
+  "works": 3,
+  "film": 0,
+  "portrait": null,
+  "overflowX": null,
+  "role": "●"
+ },
+ {
+  "who": "Fsama",
+  "lang": "en",
+  "width": 390,
+  "scrollY": 0,
+  "shot": "Fsama_en_390w.png",
+  "consoleErrors": 2,
+  "heads": [
+   "Biography",
+   "Work in Design",
+   "Legacy",
+   "Artist Statement",
+   "Works for Sale"
+  ],
+  "designWorks": 2,
+  "designCaps": [
+   "TERRORISM AND WAR ON TERRORISM Ⅰ\nTitle as printed on the wor",
+   "TERRORISM AND WAR ON TERRORISM Ⅱ\nTitle as printed on the wor"
+  ],
+  "works": 3,
+  "film": 0,
+  "portrait": null,
+  "overflowX": null,
+  "role": "●"
+ },
+ {
+  "who": "Fsama",
+  "lang": "de",
+  "width": 1440,
+  "scrollY": 0,
+  "shot": "Fsama_de_1440w.png",
+  "consoleErrors": 2,
+  "heads": [
+   "Biografie",
+   "Arbeiten im Design",
+   "Würdigung",
+   "Künstlerstatement",
+   "Werke zum Verkauf"
+  ],
+  "designWorks": 2,
+  "designCaps": [
+   "TERRORISM AND WAR ON TERRORISM Ⅰ\nAuf der Arbeit gedruckter T",
+   "TERRORISM AND WAR ON TERRORISM Ⅱ\nAuf der Arbeit gedruckter T"
+  ],
+  "works": 3,
+  "film": 0,
+  "portrait": null,
+  "overflowX": null,
+  "role": "●"
+ },
+ {
+  "who": "Fsama",
+  "lang": "de",
+  "width": 768,
+  "scrollY": 0,
+  "shot": "Fsama_de_768w.png",
+  "consoleErrors": 2,
+  "heads": [
+   "Biografie",
+   "Arbeiten im Design",
+   "Würdigung",
+   "Künstlerstatement",
+   "Werke zum Verkauf"
+  ],
+  "designWorks": 2,
+  "designCaps": [
+   "TERRORISM AND WAR ON TERRORISM Ⅰ\nAuf der Arbeit gedruckter T",
+   "TERRORISM AND WAR ON TERRORISM Ⅱ\nAuf der Arbeit gedruckter T"
+  ],
+  "works": 3,
+  "film": 0,
+  "portrait": null,
+  "overflowX": null,
+  "role": "●"
+ },
+ {
+  "who": "Fsama",
+  "lang": "de",
+  "width": 390,
+  "scrollY": 0,
+  "shot": "Fsama_de_390w.png",
+  "consoleErrors": 3,
+  "heads": [
+   "Biografie",
+   "Arbeiten im Design",
+   "Würdigung",
+   "Künstlerstatement",
+   "Werke zum Verkauf"
+  ],
+  "designWorks": 2,
+  "designCaps": [
+   "TERRORISM AND WAR ON TERRORISM Ⅰ\nAuf der Arbeit gedruckter T",
+   "TERRORISM AND WAR ON TERRORISM Ⅱ\nAuf der Arbeit gedruckter T"
+  ],
+  "works": 3,
+  "film": 0,
+  "portrait": null,
+  "overflowX": null,
+  "role": "●"
+ },
+ {
+  "who": "Wsama",
+  "page": "artwork",
+  "price": "●"
+ },
+ {
+  "who": "Fsama",
+  "page": "artwork",
+  "price": "●"
+ }
+]
