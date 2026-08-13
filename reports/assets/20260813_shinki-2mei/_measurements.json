@@ -27,7 +27,7 @@
   "width": 768,
   "scrollY": 0,
   "shot": "Wsama_ja_768w.png",
-  "consoleErrors": 4,
+  "consoleErrors": 6,
   "heads": [
    "略歴",
    "功績",
@@ -71,7 +71,7 @@
   "width": 1440,
   "scrollY": 0,
   "shot": "Wsama_en_1440w.png",
-  "consoleErrors": 4,
+  "consoleErrors": 5,
   "heads": [
    "Biography",
    "Legacy",
@@ -241,7 +241,7 @@
   "width": 768,
   "scrollY": 0,
   "shot": "Fsama_en_768w.png",
-  "consoleErrors": 7,
+  "consoleErrors": 6,
   "heads": [
    "Biography",
    "Work in Design",
@@ -267,7 +267,7 @@
   "width": 390,
   "scrollY": 0,
   "shot": "Fsama_en_390w.png",
-  "consoleErrors": 6,
+  "consoleErrors": 7,
   "heads": [
    "Biography",
    "Work in Design",
