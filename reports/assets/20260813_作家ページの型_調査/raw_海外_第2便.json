@@ -1,0 +1,636 @@
+[
+  {
+    "label": "MoMA / Jackson Pollock (物故) 再試行",
+    "kind": "美術館",
+    "site": "MoMA",
+    "status": "物故",
+    "url": "https://www.moma.org/artists/4675",
+    "wait": 25000,
+    "finalUrl": "https://www.moma.org/artists/4675",
+    "title": "Just a moment...",
+    "h1": "www.moma.org",
+    "bodyChars": 260,
+    "heads": [
+      {
+        "tag": "H1",
+        "text": "www.moma.org",
+        "chars": 1
+      },
+      {
+        "tag": "H2",
+        "text": "Performing security verification",
+        "chars": 215
+      },
+      {
+        "tag": "H2",
+        "text": "Verification successful. Waiting for www.moma.org to respond",
+        "chars": null
+      }
+    ],
+    "dl": [],
+    "kw": {},
+    "head1200": "www.moma.org\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a2a6a95ca97fefbb\nPerformance and Security by Cloudflare\nPrivacy"
+  },
+  {
+    "label": "MoMA / Yayoi Kusama (現存) 再試行",
+    "kind": "美術館",
+    "site": "MoMA",
+    "status": "現存",
+    "url": "https://www.moma.org/artists/3315",
+    "wait": 25000,
+    "finalUrl": "https://www.moma.org/artists/3315",
+    "title": "Just a moment...",
+    "h1": "www.moma.org",
+    "bodyChars": 260,
+    "heads": [
+      {
+        "tag": "H1",
+        "text": "www.moma.org",
+        "chars": 1
+      },
+      {
+        "tag": "H2",
+        "text": "Performing security verification",
+        "chars": 215
+      },
+      {
+        "tag": "H2",
+        "text": "Verification successful. Waiting for www.moma.org to respond",
+        "chars": null
+      }
+    ],
+    "dl": [],
+    "kw": {},
+    "head1200": "www.moma.org\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a2a6aa0cade3efbb\nPerformance and Security by Cloudflare\nPrivacy"
+  },
+  {
+    "label": "SFMOMA / Jackson Pollock (物故)",
+    "kind": "美術館",
+    "site": "SFMOMA",
+    "status": "物故",
+    "url": "https://www.sfmoma.org/artist/Jackson_Pollock/",
+    "finalUrl": "https://www.sfmoma.org/artist/Jackson_Pollock/",
+    "title": "Jackson Pollock · SFMOMA",
+    "h1": "Jackson Pollock",
+    "bodyChars": 3447,
+    "heads": [
+      {
+        "tag": "H3",
+        "text": "Search",
+        "chars": 1
+      },
+      {
+        "tag": "H1",
+        "text": "Jackson Pollock",
+        "chars": 1489
+      },
+      {
+        "tag": "H1",
+        "text": "Works in the Collection",
+        "chars": 916
+      },
+      {
+        "tag": "H3",
+        "text": "Jackson Pollock Untitled 1951",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Jackson Pollock Untitled 1951",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Jackson Pollock Untitled 1951",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Jackson Pollock Untitled 1951",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Jackson Pollock Untitled 1951",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Jackson Pollock Untitled 1951",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Jackson Pollock Untitled 1939–1940",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Jackson Pollock Guardians of the Secret 1943",
+        "chars": null
+      },
+      {
+        "tag": "H2",
+        "text": "Footer",
+        "chars": 2
+      },
+      {
+        "tag": "H3",
+        "text": "San Francisco Museum of Modern Art",
+        "chars": 1
+      },
+      {
+        "tag": "H3",
+        "text": "SFMOMA",
+        "chars": 87
+      },
+      {
+        "tag": "H3",
+        "text": "Hours",
+        "chars": 80
+      },
+      {
+        "tag": "H3",
+        "text": "Museum Store Hours",
+        "chars": 79
+      },
+      {
+        "tag": "H3",
+        "text": "Learn More",
+        "chars": 84
+      },
+      {
+        "tag": "H3",
+        "text": "Social media",
+        "chars": 62
+      },
+      {
+        "tag": "H3",
+        "text": "Legal links",
+        "chars": 89
+      },
+      {
+        "tag": "H2",
+        "text": "Your privacy choices",
+        "chars": 348
+      },
+      {
+        "tag": "H2",
+        "text": "Do Not Sell or Share My Personal Data",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Manage Consent Preferences",
+        "chars": null
+      },
+      {
+        "tag": "H4",
+        "text": "Strictly Necessary Cookies",
+        "chars": null
+      },
+      {
+        "tag": "H4",
+        "text": "Opt Out of Sale of Sharing/Targeted Advertising",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Cookie List",
+        "chars": null
+      }
+    ],
+    "dl": [],
+    "kw": {
+      "Collections": 1,
+      "Biography": 1,
+      "Bio": 1,
+      "died": 1,
+      "d.": 1,
+      "Works": 2
+    },
+    "head1200": "Skip to content\nMenu\nMembership  Tickets  \nSearch\nJackson Pollock\n\nAmerican\n\n1912, Cody, Wyoming\n1956, East Hampton, New York\n\nBiography\n\nJackson Pollock was one of the first American artists to achieve a worldwide reputation, and he became an icon of the abstract expressionist movement. He spent his childhood moving between farming communities in Arizona and Southern California. At 18, he moved to New York, where he studied art and painted for the Works Progress Administration. In 1939, Pollock entered psychoanalysis as treatment for his lifelong alcoholism, and his work of this period was heavily influenced by C.G. Jung's theory of archetypal collective symbols.\n\nDuring the late 1940s, Pollock developed a groundbreaking abstract painting technique. He laid his large canvases on the floor and moved around them; rather than brushing on his paint, he poured it directly from the can or flung it in drips and spatters with a brush or stick. The resulting \"all-over\" paintings were an unmediated trace of his physical actions; they also did away with the artistic conventions of illusionistic depth and distinct figure and ground. Within a few years, however, and perhaps in rebellion agains"
+  },
+  {
+    "label": "SFMOMA / Yayoi Kusama (現存)",
+    "kind": "美術館",
+    "site": "SFMOMA",
+    "status": "現存",
+    "url": "https://www.sfmoma.org/artist/Yayoi_Kusama/",
+    "finalUrl": "https://www.sfmoma.org/artist/Yayoi_Kusama/",
+    "title": "Yayoi Kusama · SFMOMA",
+    "h1": "Yayoi Kusama",
+    "bodyChars": 4214,
+    "heads": [
+      {
+        "tag": "H3",
+        "text": "Search",
+        "chars": 1
+      },
+      {
+        "tag": "H1",
+        "text": "Yayoi Kusama",
+        "chars": 2401
+      },
+      {
+        "tag": "H1",
+        "text": "Works in the Collection",
+        "chars": 774
+      },
+      {
+        "tag": "H3",
+        "text": "Yayoi Kusama Dreaming of Earth’s Sphericity, I Would Offer My Love 2023",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Yayoi Kusama Compulsion Furniture (Accumulation) ca. 1964",
+        "chars": null
+      },
+      {
+        "tag": "H2",
+        "text": "Footer",
+        "chars": 2
+      },
+      {
+        "tag": "H3",
+        "text": "San Francisco Museum of Modern Art",
+        "chars": 1
+      },
+      {
+        "tag": "H3",
+        "text": "SFMOMA",
+        "chars": 87
+      },
+      {
+        "tag": "H3",
+        "text": "Hours",
+        "chars": 80
+      },
+      {
+        "tag": "H3",
+        "text": "Museum Store Hours",
+        "chars": 79
+      },
+      {
+        "tag": "H3",
+        "text": "Learn More",
+        "chars": 84
+      },
+      {
+        "tag": "H3",
+        "text": "Social media",
+        "chars": 62
+      },
+      {
+        "tag": "H3",
+        "text": "Legal links",
+        "chars": 89
+      },
+      {
+        "tag": "H2",
+        "text": "Your privacy choices",
+        "chars": 348
+      },
+      {
+        "tag": "H2",
+        "text": "Do Not Sell or Share My Personal Data",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Manage Consent Preferences",
+        "chars": null
+      },
+      {
+        "tag": "H4",
+        "text": "Strictly Necessary Cookies",
+        "chars": null
+      },
+      {
+        "tag": "H4",
+        "text": "Opt Out of Sale of Sharing/Targeted Advertising",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Cookie List",
+        "chars": null
+      }
+    ],
+    "dl": [],
+    "kw": {
+      "Collections": 1,
+      "Biography": 1,
+      "Bio": 1,
+      "Born": 1,
+      "Works": 1
+    },
+    "head1200": "Skip to content\nMenu\nMembership  Tickets  \nSearch\nYayoi Kusama\n\nJapanese\n\n1929, Matsumoto, Japan\n\nYayoi Kusama. Photo: Yusuke Miyazaki © YAYOI KUSAMA. Courtesy the artist, David Zwirner, Ota Fine Arts, and Victoria Miro\nBiography\n\nYayoi Kusama is one of the world’s most iconic and celebrated artists working today. With connections to Pop Art, Minimalism, psychedelia and popular culture, Kusama’s multidisciplinary career transcends categories as the artist continues to innovate over a career spanning more than 70 years. Kusama’s artistic practice encompasses paintings, sculpture, installations, works on paper, performances, films, fashion, design, and literary works. Her work across this wide breadth of media alludes to both microscopic and macroscopic universes.\n\nBorn in 1929 in Matsumoto, Japan, Kusama began her artistic education at the Kyoto City Senior High School of Art. Early in her artistic career, she had several solo exhibitions in Japan before moving to New York in 1958. She developed a style that embraced repetitive mark-making and organic patterns and forms on canvas, expanding to environmental creations after 1962. In the mid-1960s in New York, she established herself "
+  },
+  {
+    "label": "Pace / Agnes Martin (物故)",
+    "kind": "画廊",
+    "site": "Pace",
+    "status": "物故",
+    "url": "https://www.pacegallery.com/artists/agnes-martin/",
+    "finalUrl": "https://www.pacegallery.com/artists/agnes-martin/",
+    "title": "Agnes Martin | Pace Gallery",
+    "h1": "Agnes Martin",
+    "bodyChars": 8234,
+    "heads": [
+      {
+        "tag": "H1",
+        "text": "Agnes Martin",
+        "chars": 26
+      },
+      {
+        "tag": "H3",
+        "text": "Exhibitions",
+        "chars": 140
+      },
+      {
+        "tag": "H4",
+        "text": "Agnes Martin",
+        "chars": 6484
+      },
+      {
+        "tag": "H4",
+        "text": "Pace: 65 Years",
+        "chars": 38
+      },
+      {
+        "tag": "H4",
+        "text": "Alicja Kwade & Agnes Martin",
+        "chars": 68
+      },
+      {
+        "tag": "H4",
+        "text": "Agnes Martin",
+        "chars": 57
+      },
+      {
+        "tag": "H2",
+        "text": "Journal",
+        "chars": 29
+      },
+      {
+        "tag": "H3",
+        "text": "Agnes Martin at Dia Beacon",
+        "chars": 20
+      },
+      {
+        "tag": "H3",
+        "text": "Beauty, Innocence, and Love: Reflections on Agnes Martin",
+        "chars": 30
+      },
+      {
+        "tag": "H3",
+        "text": "Agnes Martin: On Beauty",
+        "chars": 33
+      },
+      {
+        "tag": "H3",
+        "text": "Minimal at the Bourse de Commerce",
+        "chars": 115
+      },
+      {
+        "tag": "H3",
+        "text": "Agnes MartinOne-Artist Exhibitions",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Agnes MartinOne-Artist Exhibitions",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Agnes MartinGroup Exhibitions",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Agnes MartinGroup Exhibitions",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Agnes MartinPublic Collections",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Agnes MartinPublic Collections",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Agnes MartinPeriodicals",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Agnes MartinPeriodicals",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Agnes MartinBooks and Catalogues",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Agnes MartinBooks and Catalogues",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Join our mailing list for updates about our artists, exhibitions, events, and more.",
+        "chars": 192
+      }
+    ],
+    "dl": [],
+    "kw": {
+      "Collections": 1,
+      "Public Collections": 1,
+      "Exhibitions": 7,
+      "Biography": 1,
+      "Bio": 1,
+      "died": 1,
+      "d.": 1,
+      "Selected": 1,
+      "CV": 1,
+      "Press": 2,
+      "Works": 1,
+      "Estate": 4
+    },
+    "head1200": "This website uses cookies\n\nWe use cookies, which are small text files, to make our website work more efficiently, to personalise your user experience, and to analyse traffic on our website. Please select one of the following buttons to indicate your cookie preference. If you choose to deny cookies, certain features and functionality of the website may not be available to you. Your choices can always be changed at a later date by clearing your browser cache and refreshing this page. You can find out more about the way we use cookies in our cookie policy.\n\nPrivacy Policy\n\nConsent Selection\nNecessary\nPreferences\nStatistics\nMarketing\nShow Details\nAllow All\nAllow Selection\nDeny All\nAgnes Martin\nBiography\nSelected Works\nExhibitions\nJournal\nCV\nArtists\nExhibitions\nArt Fairs\nEvents\nJournal\nPublishing\nGalleries\nAbout\nCulture & Equity\nShop\nLibrary & Archives\nPress\nCareers\n\nAgnes Martin, The Islands, 1961, oil and graphite on canvas, 72\" x 72\" (182.9 cm x 182.9 cm) © 2019 Estate of Agnes Martin / Artists Rights Society (ARS), New York\n\nAgnes Martin\nDETAILS:\n\nb. 1912, Macklin, Saskatchewan, Canada\nd. 2004, Taos, New Mexico\n\nPACE PUBLICATIONS:\n\n(opens in a new window)\nShop Now\n\nAgnes Martin was "
+  },
+  {
+    "label": "Pace / Yoshitomo Nara (現存)",
+    "kind": "画廊",
+    "site": "Pace",
+    "status": "現存",
+    "url": "https://www.pacegallery.com/artists/yoshitomo-nara/",
+    "finalUrl": "https://www.pacegallery.com/artists/yoshitomo-nara/",
+    "title": "Yoshitomo Nara | Pace Gallery",
+    "h1": "Yoshitomo Nara",
+    "bodyChars": 7077,
+    "heads": [
+      {
+        "tag": "H1",
+        "text": "Yoshitomo Nara",
+        "chars": 26
+      },
+      {
+        "tag": "H3",
+        "text": "Exhibitions",
+        "chars": 5406
+      },
+      {
+        "tag": "H4",
+        "text": "Pace: 65 Years",
+        "chars": 38
+      },
+      {
+        "tag": "H4",
+        "text": "Animal Watch",
+        "chars": 40
+      },
+      {
+        "tag": "H4",
+        "text": "Yoshitomo Nara",
+        "chars": 78
+      },
+      {
+        "tag": "H4",
+        "text": "Yoshitomo Nara",
+        "chars": 45
+      },
+      {
+        "tag": "H2",
+        "text": "Journal",
+        "chars": 22
+      },
+      {
+        "tag": "H3",
+        "text": "Our Artists at the Amsterdam Sculpture Biennale ARTZUID",
+        "chars": 33
+      },
+      {
+        "tag": "H3",
+        "text": "Yoshitomo Nara at the Southbank Centre's Hayward Gallery",
+        "chars": 26
+      },
+      {
+        "tag": "H3",
+        "text": "Our Artists at Pacific Standard Time 2024",
+        "chars": 21
+      },
+      {
+        "tag": "H3",
+        "text": "Nara: A Timeline 1988 – 2023",
+        "chars": 115
+      },
+      {
+        "tag": "H3",
+        "text": "Yoshitomo NaraOne-Artist Exhibitions",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Yoshitomo NaraOne-Artist Exhibitions",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Yoshitomo NaraGroup Exhibitions",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Yoshitomo NaraGroup Exhibitions",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Yoshitomo NaraPeriodicals",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Yoshitomo NaraPeriodicals",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Yoshitomo NaraPublic Collections",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Yoshitomo NaraPublic Collections",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Yoshitomo NaraBooks and Catalogues",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Yoshitomo NaraBooks and Catalogues",
+        "chars": null
+      },
+      {
+        "tag": "H3",
+        "text": "Join our mailing list for updates about our artists, exhibitions, events, and more.",
+        "chars": 192
+      }
+    ],
+    "dl": [],
+    "kw": {
+      "Collections": 1,
+      "Public Collections": 1,
+      "Exhibitions": 8,
+      "Biography": 1,
+      "Bio": 1,
+      "Selected": 1,
+      "CV": 1,
+      "Press": 2,
+      "Works": 3
+    },
+    "head1200": "This website uses cookies\n\nWe use cookies, which are small text files, to make our website work more efficiently, to personalise your user experience, and to analyse traffic on our website. Please select one of the following buttons to indicate your cookie preference. If you choose to deny cookies, certain features and functionality of the website may not be available to you. Your choices can always be changed at a later date by clearing your browser cache and refreshing this page. You can find out more about the way we use cookies in our cookie policy.\n\nPrivacy Policy\n\nConsent Selection\nNecessary\nPreferences\nStatistics\nMarketing\nShow Details\nAllow All\nAllow Selection\nDeny All\nYoshitomo Nara\nBiography\nSelected Works\nExhibitions\nJournal\nCV\nArtists\nExhibitions\nArt Fairs\nEvents\nJournal\nPublishing\nGalleries\nAbout\nCulture & Equity\nShop\nLibrary & Archives\nPress\nCareers\n\nYoshitomo Nara, Midnight Truth, 2017, acrylic on canvas, 89-1/2\" × 71-9/16\" (227.3 cm × 181.8 cm) © Yoshitomo Nara\n\nYoshitomo Nara\nDETAILS:\n\nb. 1959, Hirosaki, Japan\n\nCONNECT:\n\n(opens in a new window)\n@michinara3\n\nPACE PUBLICATIONS:\n\n(opens in a new window)\nShop Now\n\nYoshitomo Nara is a pioneering figure in contemporary a"
+  },
+  {
+    "label": "Hauser & Wirth / Louise Bourgeois (物故)",
+    "kind": "画廊",
+    "site": "Hauser & Wirth",
+    "status": "物故",
+    "url": "https://www.hauserwirth.com/artists/louise-bourgeois/",
+    "finalUrl": "https://www.hauserwirth.com/artists/louise-bourgeois/",
+    "title": "Vercel Security Checkpoint",
+    "h1": "",
+    "bodyChars": 120,
+    "heads": [],
+    "dl": [],
+    "kw": {},
+    "head1200": "Failed to verify your browser\n\nCode 29\n\nVercel Security Checkpoint\n\n|\n\nsin1::1786613112-LaSScE9gBAJPihZEUOogbToov7BkYRgN"
+  },
+  {
+    "label": "Hauser & Wirth / Rashid Johnson (現存)",
+    "kind": "画廊",
+    "site": "Hauser & Wirth",
+    "status": "現存",
+    "url": "https://www.hauserwirth.com/artists/rashid-johnson/",
+    "finalUrl": "https://www.hauserwirth.com/artists/rashid-johnson/",
+    "title": "Vercel Security Checkpoint",
+    "h1": "",
+    "bodyChars": 120,
+    "heads": [],
+    "dl": [],
+    "kw": {},
+    "head1200": "Failed to verify your browser\n\nCode 29\n\nVercel Security Checkpoint\n\n|\n\nsin1::1786613122-LaSScE9gBAJPihZEUOogbToov7BkYRgN"
+  }
+]

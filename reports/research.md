@@ -21,3 +21,71 @@
 - **旧題・英題からの逆訳の可能性（1系統だけ実施＝グッゲンハイム美術館の英題）**＝英題に **`Frame` は無し**（《架》の逆訳説は裏づけ得られず）。一方 **`Work – Yellow (Unstable Square [Fuantei shikaku])`** が実在し、解説は `painted on a black background`。**英語 Square（正方形）を「広場」と訳す取り違えから《黒い広場》が生じた可能性は指摘できますが、断定はしません（推測）。**
 - **Codex独立検証（Web検索なし）**＝《架》「知らない」／《黒い広場》「知らない」／逆訳仮説「不明」。**当方の結論と食い違いなし。**
 - 証拠（一字一句の引用・全リスト）＝ `reports/assets/20260813_山口長男_代表作の確定調査/findings.md`
+
+---
+
+## 2026-08-13 リサーチT（Opus 5）／作家ページの型——調査の段（提案・標準案は書きません。事実と差分のみ）
+
+実測＝ヘッドレスChromeで実際に開いてDOMから取得。海外14頁 18:20–18:25 JST／あつぺくと18計測 18:30 JST。
+証拠・生データ＝`reports/assets/20260813_作家ページの型_調査/`（`findings.md`＋`raw_*.json`＋読み取り専用スクリプト）
+
+### ① 頁ごとの欄と分量（実測）
+
+| サイト（作家・状態） | 欄の並び | 略歴の分量 | 頁全体 |
+|---|---|---|---|
+| Tate（Hepworth・物故） | 氏名→生没年→Biography→Artworks→Artist as subject→Stories→Sketches→Related terms→Shop | 6,930字 | 9,669字 |
+| Tate（Whiteread・現存） | 氏名→born 1963→Artworks→Stories | **欄が無い** | 1,825字 |
+| Guggenheim（Kandinsky・物故） | 氏名→`b. …; d. …`→伝記→Now on View→作品一覧 | 2,500字 | 4,605字 |
+| Guggenheim（Holzer・現存） | 氏名→`b. …`→伝記→作品一覧 | 4,059字 | 5,604字 |
+| SFMOMA（Pollock・物故） | 氏名→国籍→生年地→没年地→Biography→所蔵作品 | 1,489字 | 3,447字 |
+| SFMOMA（Kusama・現存） | 氏名→国籍→生年地→Biography→所蔵作品 | 2,401字 | 4,214字 |
+| MOMAT英語（山口長男・物故） | 氏名→Information(Names/生年/没年)→Identifiers(ID)→所蔵作品6点 | **散文なし** | 1,075字 |
+| APJ英語（山口長男・物故） | 氏名→Names/生没年月日/出生地/没地/Gender/Fields→Bibliography→External Sources→Authority Files | **散文なし・評価文ゼロ** | 1,869字 |
+| Gagosian（Koons・現存／Frankenthaler・物故） | Works→About→Exhibitions→Quarterly→Fairs→Events→Museum Exhibitions→Press→Shop（**両者同一**） | 2,338／3,415字 | 20,396／29,522字 |
+| Pace（Nara・現存／Martin・物故） | Exhibitions→Journal→One-Artist→Group→Public Collections→Periodicals→Books（**両者同一**） | — | 7,077／8,234字 |
+| 作家公式（Eliasson・現存） | Biography 一本のみ | 5,830字 | 5,844字 |
+| **あつぺくと（山口長男・物故）** | 名→生没年→出身→ページのリンク/QR→略歴→功績→代表作/収蔵先/団体→頁末表示 | **113字** | **770字** |
+
+★**開けなかった＝MoMA（Cloudflare）／David Zwirner（CDN遮断）／Hauser & Wirth（Vercel検問）＝「調べていない」であって「無い」ではない。**
+
+### ② 現存と物故で構成がどう変わるか（同一サイト内）
+
+| サイト | 差 |
+|---|---|
+| Tate | **物故のほうが欄が多い**（Biography 6,930字が現存には無い・頁全体で約5倍差） |
+| Guggenheim | 欄立て同一。1行目に `d.（没年・没地）` が足されるだけ |
+| SFMOMA | 欄立て同一。**没年は生年と同じ書式の行を1本足すだけ。`died` 等の語も物故/現存のラベルも無い** |
+| Gagosian／Pace | **欄立てが完全に同一。** 物故は作品クレジットに財団名（実測＝`© 2018 Helen Frankenthaler Foundation, Inc./ARS, New York`） |
+| 本人の言葉 | 美術館5サイト＝**欄が無い**／画廊＝独立欄ではなく自社の読み物（Quarterly・Journal）に置く。**物故にも同じ枠があり他者の論考が入る** |
+
+### ③ あつぺくと現行の全欄（ライブ実測）と差分
+
+**欄＝分類/名/英字名/呼称/近影/`生没年`or`生年`/出身/ステートメント/ページのリンク・QR/代表作画像1・2/略歴/功績/代表作/収蔵先・記念館/所属していた美術団体/作家メッセージ/著書/あつぺくとチャンネル/販売作品/頁末表示。**
+**空のときは欄ごと消える**（実測＝鈴木千賀子は代表作・収蔵先・団体の3欄が1つも出ない／深山龍洞・鈴木千賀子は`功績`が非表示）。**`ページのリンク・QR`と頁末表示は無条件表示。**
+**8言語はラベルのみ切替（実測＝代表作→Selected Works／代表作／대표작／Œuvres choisies…）。★作家名H1は8言語とも日本語のまま。★代表作・収蔵先・団体の"値"は他言語でも日本語のまま出る。**
+
+| 仕分け | 中身 |
+|---|---|
+| **あつぺくとに無い欄** | 個展/グループ展の一覧・Press・文献(Periodicals/Books)・Selected Bibliography・**典拠ID(VIAF/ULAN/Benezit/Grove/NDL/Wikidata)**・国籍・出生地/没地・Gender/Fields of activity・**自館所蔵作品の画像一覧**・読み物(Stories/Journal/Quarterly)・Now on View・ショップ |
+| **あつぺくとにしか無い欄** | **`功績`**（評価を独立欄にする例は9サイトに無し）・**`所属していた美術団体`**・**`作家メッセージ`（本人の言葉の独立欄）**・`あつぺくとチャンネル`・**`作家ページのリンク/QRコード`**・頁末の無断転載禁止表示・**8言語切替そのもの** |
+| **名前は同じで中身が違う欄** | **代表作/Selected Works**＝あつぺくとは文字の列挙のみ／海外は画像＋制作年＋寸法の作品一覧。**収蔵先/Public Collections**＝館名の羅列／海外は所蔵作品そのもの。**略歴/Biography**＝**110〜200字 vs 1,489〜6,930字（1〜2桁差）**。**生没年**＝年のみ＋ラベルが`生没年`/`生年`と変わる／海外は都市名まで書きラベルは変えない |
+
+### ④ 序列・格付けに繋がる欄の海外での扱い（実測）
+
+| 論点 | 実測 |
+|---|---|
+| **受賞歴** | **`Awards`/`Prizes`/`Honors` の独立欄を持つ頁は14頁中ゼロ。** `Award`は作家公式(Eliasson)の本文中に1回のみ、`Prize`/`Honors`は0回。**Paceの詳細CVにも項目が無い**（★別頁のPDF履歴書等は未確認） |
+| **所属** | 美術館5サイト＝欄が無い（APJは`Fields of activity`＝`Painting`のみ）／画廊＝**載っていること自体が所属**で欄は無い／あつぺくとのみ団体名を独立欄で持つ |
+| **価格** | Gagosian・Pace＝**価格表示なし**（`Price`0回・`Inquire`1回）／美術館＝概念なし／あつぺくと＝作家頁には出さず`価格・詳細は作品ページで`と別頁へ送る |
+| **★評価の書き方** | **「受賞欄が無い＝評価を書かない」ではない。** 海外は伝記本文の1文で書く（実測＝SFMOMA `one of the world's most iconic and celebrated artists working today.`）。あつぺくとは評価を`功績`という独立欄に出す |
+
+### ★実測中に見つかった事実（記録）
+
+| 実測時刻(JST) | `yamaguchi-takeo` の代表作欄 |
+|---|---|
+| 17:39 | `架、黒い広場` |
+| **18:30** | **`転、象、竝`** |
+
+**当Tは書き込みをしていません。51分で値が変わりました**（別ターミナルの是正と見られる・当Tでは未確認）。「当てる直前にライブを取り直す」恒久ルールの実例として残します。
+
+**Codex二刀流**＝Codexが独立に `sections/atspect-artist-detail.liquid` を読んで欄・条件・8言語の仕組みを抽出。**当方のDOM実測と食い違いなし**（キー名・条件式・`AAD_LANGS`の8言語まで一致）。

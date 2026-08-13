@@ -1,0 +1,5254 @@
+[
+  {
+    "handle": "yamaguchi-takeo",
+    "note": "物故・標準型（代表作/収蔵先/団体あり）",
+    "lang": "ja",
+    "url": "https://atspect.com/pages/artist/yamaguchi-takeo?lang=ja",
+    "title": "山口 長男（Yamaguchi Takeo）｜あつぺくと",
+    "h1": "山口 長男",
+    "order": [
+      {
+        "tag": "H1",
+        "i18nKey": null,
+        "text": "山口 長男"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "life",
+        "text": "生没年"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "origin",
+        "text": "出身"
+      },
+      {
+        "tag": "P",
+        "i18nKey": "pagelink",
+        "text": "作家ページのリンク"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "copy",
+        "text": "リンクをコピー"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "qr",
+        "text": "QRコード"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "bio",
+        "text": "略歴"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "viewpoint",
+        "text": "功績"
+      },
+      {
+        "tag": "DT",
+        "i18nKey": "mw",
+        "text": "代表作"
+      },
+      {
+        "tag": "DT",
+        "i18nKey": "cp",
+        "text": "収蔵先・記念館"
+      },
+      {
+        "tag": "DT",
+        "i18nKey": "gr",
+        "text": "所属していた美術団体"
+      },
+      {
+        "tag": "BUTTON",
+        "i18nKey": "totop",
+        "text": "▲ ページトップへ戻る"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "copyr",
+        "text": "掲載作品の画像・文章の無断転載および複製を禁じます。"
+      }
+    ],
+    "prof": [
+      {
+        "label": "代表作",
+        "key": "masterworks",
+        "value": "転、象、竝"
+      },
+      {
+        "label": "収蔵先・記念館",
+        "key": "collection",
+        "value": "東京国立近代美術館"
+      },
+      {
+        "label": "所属していた美術団体",
+        "key": "groups",
+        "value": "二科会"
+      }
+    ],
+    "secKeys": {
+      "life": {
+        "text": "生没年",
+        "visible": true
+      },
+      "origin": {
+        "text": "出身",
+        "visible": true
+      },
+      "pagelink": {
+        "text": "作家ページのリンク",
+        "visible": true
+      },
+      "copy": {
+        "text": "リンクをコピー",
+        "visible": true
+      },
+      "qr": {
+        "text": "QRコード",
+        "visible": true
+      },
+      "bio": {
+        "text": "略歴",
+        "visible": true
+      },
+      "viewpoint": {
+        "text": "功績",
+        "visible": true
+      },
+      "mw": {
+        "text": "代表作",
+        "visible": true
+      },
+      "cp": {
+        "text": "収蔵先・記念館",
+        "visible": true
+      },
+      "gr": {
+        "text": "所属していた美術団体",
+        "visible": true
+      },
+      "totop": {
+        "text": "▲ ページトップへ戻る",
+        "visible": true
+      },
+      "copyr": {
+        "text": "掲載作品の画像・文章の無断転載および複製を禁じます。",
+        "visible": true
+      },
+      "view_work": {
+        "text": "作品ページへ（価格・詳細）→",
+        "visible": false
+      },
+      "qr_cap": {
+        "text": "スマートフォンで読み取ってこのページを開けます",
+        "visible": false
+      },
+      "qr_dl": {
+        "text": "PNGダウンロード",
+        "visible": false
+      },
+      "qr_print": {
+        "text": "印刷",
+        "visible": false
+      }
+    },
+    "bodyBlocksVisible": [
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 133441,
+        "head": "window.ATSPECT = window.ATSPECT || {}; (function(){ var BASE"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 113,
+        "head": "山口長男は朝鮮京城に生まれ、東京出身として記録される洋画家である。二科会に関わり、のち抽象絵画を中心に制作した。黄土色、"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      }
+    ],
+    "bodyBlocksCount": 25,
+    "bodyChars": 795,
+    "fullText": "コンテンツに進む\n日本語\n作家／作品\n寄贈\nあつぺくとについて\nお問い合わせ\n\n絵画\n\n山口 長男\n\nYamaguchi Takeo\n\n洋画家\n\n生没年1902–1983　／　出身朝鮮京城(出身東京)\n\n黄土色と黒の形で抽象を追求した洋画家\n\n作家ページのリンク\n\nリンクをコピー\nQRコード\n略歴\n山口長男は朝鮮京城に生まれ、東京出身として記録される洋画家である。二科会に関わり、のち抽象絵画を中心に制作した。黄土色、黒、灰色などを用い、単純化した形を画面上に配置する作風が確認できる。作品には《転》《象》《竝》などがある。\n功績\n山口の抽象画では、何を描いたかより、形の重さと間の取り方が重要になる。黄土色や黒の面が互いに押し合い、静かな構築感を生むところを見たい。\n代表作\n転、象、竝\n収蔵先・記念館\n東京国立近代美術館\n所属していた美術団体\n二科会\n▲ ページトップへ戻る\n\n掲載作品の画像・文章の無断転載および複製を禁じます。\n© ARTS RESPECT Co., Ltd.\n\n﻿\nよくある質問\nプレス\nプライバシーポリシー\n特定商取引法に基づく表記\n古物営業法に基づく表示\n作家の方へ\n\n各言語で。\n\nLANGUAGE ／ 言語\n日本語\nEnglish\n简体中文\n繁體中文\n한국어\nFrançais\nEspañol\nDeutsch\n\nNEWSLETTER\n\nあつぺくとから最新の情報をお届けいたします\n\n登録する\n\n〒103-0024 東京都中央区日本橋小舟町8-6-202\n\nお問い合わせ\n\n古物商許可：株式会社ARTS RESPECT／東京都公安委員会 第301042617547号\n\nOPERATED BY\n\n© 2026 ARTS RESPECT Co., Ltd. All Rights Reserved.\n\nこの言語で表示を続けますか？\nこの言語を保存\n×\nTOP"
+  },
+  {
+    "handle": "yamaguchi-takeo",
+    "note": "物故・標準型（代表作/収蔵先/団体あり）",
+    "lang": "en",
+    "url": "https://atspect.com/pages/artist/yamaguchi-takeo?lang=en",
+    "title": "山口 長男（Yamaguchi Takeo）｜ATSPECT",
+    "h1": "山口 長男",
+    "order": [
+      {
+        "tag": "H1",
+        "i18nKey": null,
+        "text": "山口 長男"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "life",
+        "text": "Life"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "origin",
+        "text": "From"
+      },
+      {
+        "tag": "P",
+        "i18nKey": "pagelink",
+        "text": "Link to this artist's page"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "copy",
+        "text": "Copy link"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "qr",
+        "text": "QR code"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "bio",
+        "text": "Biography"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "viewpoint",
+        "text": "Legacy"
+      },
+      {
+        "tag": "DT",
+        "i18nKey": "mw",
+        "text": "Selected Works"
+      },
+      {
+        "tag": "DT",
+        "i18nKey": "cp",
+        "text": "Collections"
+      },
+      {
+        "tag": "DT",
+        "i18nKey": "gr",
+        "text": "Art Groups"
+      },
+      {
+        "tag": "BUTTON",
+        "i18nKey": "totop",
+        "text": "▲ Back to top"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "copyr",
+        "text": "Unauthorized reproduction of images and text is prohibited."
+      }
+    ],
+    "prof": [
+      {
+        "label": "Selected Works",
+        "key": "masterworks",
+        "value": "Turn, Form, Parallel"
+      },
+      {
+        "label": "Collections",
+        "key": "collection",
+        "value": "The National Museum of Modern Art, Tokyo"
+      },
+      {
+        "label": "Art Groups",
+        "key": "groups",
+        "value": "Nika Association"
+      }
+    ],
+    "secKeys": {
+      "life": {
+        "text": "Life",
+        "visible": true
+      },
+      "origin": {
+        "text": "From",
+        "visible": true
+      },
+      "pagelink": {
+        "text": "Link to this artist's page",
+        "visible": true
+      },
+      "copy": {
+        "text": "Copy link",
+        "visible": true
+      },
+      "qr": {
+        "text": "QR code",
+        "visible": true
+      },
+      "bio": {
+        "text": "Biography",
+        "visible": true
+      },
+      "viewpoint": {
+        "text": "Legacy",
+        "visible": true
+      },
+      "mw": {
+        "text": "Selected Works",
+        "visible": true
+      },
+      "cp": {
+        "text": "Collections",
+        "visible": true
+      },
+      "gr": {
+        "text": "Art Groups",
+        "visible": true
+      },
+      "totop": {
+        "text": "▲ Back to top",
+        "visible": true
+      },
+      "copyr": {
+        "text": "Unauthorized reproduction of images and text is prohibited.",
+        "visible": true
+      },
+      "view_work": {
+        "text": "View artwork (price & details) →",
+        "visible": false
+      },
+      "qr_cap": {
+        "text": "Scan with your phone to open this page",
+        "visible": false
+      },
+      "qr_dl": {
+        "text": "Download PNG",
+        "visible": false
+      },
+      "qr_print": {
+        "text": "Print",
+        "visible": false
+      }
+    },
+    "bodyBlocksVisible": [
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 134020,
+        "head": "window.ATSPECT = window.ATSPECT || {}; (function(){ var BASE"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 357,
+        "head": "Yamaguchi Takeo was a Yōga (Western-style) painter born in K"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      }
+    ],
+    "bodyBlocksCount": 25,
+    "bodyChars": 1768,
+    "fullText": "SKIP TO CONTENT\nEnglish\nARTISTS & WORKS\nGIFTS OF ART\nABOUT\nCONTACT\n\nPainting\n\n山口 長男\n\nYamaguchi Takeo\n\nYōga (Western-style) Painter\n\nLife1902–1983　／　FromKeijō, Korea (registered as from Tokyo)\n\nA Yōga painter who pursued abstraction in forms of ochre and black\n\n黄土色と黒の形で抽象を追求した洋画家\n\nLINK TO THIS ARTIST'S PAGE\n\nCopy link\nQR code\nBiography\nYamaguchi Takeo was a Yōga (Western-style) painter born in Keijō, Korea, and recorded as being from Tokyo. He was involved with the Nika Association and later worked chiefly in abstract painting. A style can be confirmed in which, using ochre, black and grey, he arranged simplified forms upon the picture surface. His works include Turn, Form and Parallel.\nLegacy\nIn Yamaguchi's abstract paintings, what matters is less what is depicted than the weight of the forms and the handling of intervals. One may watch how the planes of ochre and black press against one another to produce a quiet sense of construction.\nSelected Works\nTurn, Form, Parallel\nCollections\nThe National Museum of Modern Art, Tokyo\nArt Groups\nNika Association\n▲ Back to top\n\nUnauthorized reproduction of images and text is prohibited.\n© ARTS RESPECT Co., Ltd.\n\n﻿\nFAQ\nPress\nPrivacy Policy\nLegal Notice (Commercial Transactions)\nSecondhand Goods Business Act Notice\n\nIn every language.\n\nLANGUAGE ／ 言語\n日本語\nEnglish\n简体中文\n繁體中文\n한국어\nFrançais\nEspañol\nDeutsch\n\nNEWSLETTER\n\nStay updated with the latest from ATSPECT.\n\nSubscribe\n\nARTS RESPECT Co., Ltd. — 8-6-202 Nihonbashi-Kobunacho, Chuo-ku, Tokyo 103-0024, Japan\n\nContact Us\n\nSecondhand dealer license: ARTS RESPECT Co., Ltd. — Tokyo Metropolitan Public Safety Commission No. 301042617547\n\nOPERATED BY\n\n© 2026 ARTS RESPECT Co., Ltd. All Rights Reserved.\n\nKeep viewing the site in this language?\nKeep this language\n×\nTOP"
+  },
+  {
+    "handle": "yamaguchi-takeo",
+    "note": "物故・標準型（代表作/収蔵先/団体あり）",
+    "lang": "zh-cn",
+    "url": "https://atspect.com/pages/artist/yamaguchi-takeo?lang=zh-cn",
+    "title": "山口 長男（Yamaguchi Takeo）｜ATSPECT",
+    "h1": "山口 長男",
+    "order": [
+      {
+        "tag": "H1",
+        "i18nKey": null,
+        "text": "山口 長男"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "life",
+        "text": "生卒年"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "origin",
+        "text": "出身"
+      },
+      {
+        "tag": "P",
+        "i18nKey": "pagelink",
+        "text": "艺术家页面链接"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "copy",
+        "text": "复制链接"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "qr",
+        "text": "二维码"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "bio",
+        "text": "简历"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "viewpoint",
+        "text": "成就"
+      },
+      {
+        "tag": "DT",
+        "i18nKey": "mw",
+        "text": "代表作"
+      },
+      {
+        "tag": "DT",
+        "i18nKey": "cp",
+        "text": "收藏机构"
+      },
+      {
+        "tag": "DT",
+        "i18nKey": "gr",
+        "text": "所属团体"
+      },
+      {
+        "tag": "BUTTON",
+        "i18nKey": "totop",
+        "text": "▲ 返回页首"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "copyr",
+        "text": "禁止擅自转载或复制本页作品图片与文字。"
+      }
+    ],
+    "prof": [
+      {
+        "label": "代表作",
+        "key": "masterworks",
+        "value": "転、象、竝"
+      },
+      {
+        "label": "收藏机构",
+        "key": "collection",
+        "value": "东京国立近代美术馆"
+      },
+      {
+        "label": "所属团体",
+        "key": "groups",
+        "value": "二科会"
+      }
+    ],
+    "secKeys": {
+      "life": {
+        "text": "生卒年",
+        "visible": true
+      },
+      "origin": {
+        "text": "出身",
+        "visible": true
+      },
+      "pagelink": {
+        "text": "艺术家页面链接",
+        "visible": true
+      },
+      "copy": {
+        "text": "复制链接",
+        "visible": true
+      },
+      "qr": {
+        "text": "二维码",
+        "visible": true
+      },
+      "bio": {
+        "text": "简历",
+        "visible": true
+      },
+      "viewpoint": {
+        "text": "成就",
+        "visible": true
+      },
+      "mw": {
+        "text": "代表作",
+        "visible": true
+      },
+      "cp": {
+        "text": "收藏机构",
+        "visible": true
+      },
+      "gr": {
+        "text": "所属团体",
+        "visible": true
+      },
+      "totop": {
+        "text": "▲ 返回页首",
+        "visible": true
+      },
+      "copyr": {
+        "text": "禁止擅自转载或复制本页作品图片与文字。",
+        "visible": true
+      },
+      "view_work": {
+        "text": "前往作品页（价格・详情）→",
+        "visible": false
+      },
+      "qr_cap": {
+        "text": "用手机扫描即可打开此页面",
+        "visible": false
+      },
+      "qr_dl": {
+        "text": "下载PNG",
+        "visible": false
+      },
+      "qr_print": {
+        "text": "打印",
+        "visible": false
+      }
+    },
+    "bodyBlocksVisible": [
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 133409,
+        "head": "window.ATSPECT = window.ATSPECT || {}; (function(){ var BASE"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 91,
+        "head": "山口长男是出生于朝鲜京城、籍贯记录为东京的西洋画家。他与二科会有所往来，后以抽象绘画为主创作。可确认其运用赭黄、黑、灰等"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      }
+    ],
+    "bodyBlocksCount": 25,
+    "bodyChars": 850,
+    "fullText": "跳至主要内容\n简体中文\n艺术家与作品\n作品捐赠\n关于\n联系我们\n\n绘画\n\n山口 長男\n\nYamaguchi Takeo\n\n西洋画家\n\n生卒年1902–1983　／　出身朝鲜京城（籍贯东京）\n\n以赭黄与黑的形体追求抽象的西洋画家\n\n黄土色と黒の形で抽象を追求した洋画家\n\n艺术家页面链接\n\n复制链接\n二维码\n简历\n山口长男是出生于朝鲜京城、籍贯记录为东京的西洋画家。他与二科会有所往来，后以抽象绘画为主创作。可确认其运用赭黄、黑、灰等色，在画面上配置单纯化形体的风格。作品有《転》《象》《竝》等。\n成就\n在山口的抽象画中，重要的不是画了什么，而是形体的分量与间隔的处理。可观看赭黄与黑的色面如何相互挤压，生出静谧的构筑感。\n代表作\n転、象、竝\n收藏机构\n东京国立近代美术馆\n所属团体\n二科会\n▲ 返回页首\n\n禁止擅自转载或复制本页作品图片与文字。\n© ARTS RESPECT Co., Ltd.\n\n﻿\n常见问题\n媒体\n隐私政策\n基于特定商业交易法的标示\n基于旧物营业法的标示\n\n以各语言呈现。\n\nLANGUAGE ／ 言語\n日本語\nEnglish\n简体中文\n繁體中文\n한국어\nFrançais\nEspañol\nDeutsch\n\nNEWSLETTER\n\n及时获取来自 ATSPECT 的最新资讯。\n\n订阅\n\nARTS RESPECT Co., Ltd. — 8-6-202 Nihonbashi-Kobunacho, Chuo-ku, Tokyo 103-0024, Japan\n\n联系我们\n\nSecondhand dealer license: ARTS RESPECT Co., Ltd. — Tokyo Metropolitan Public Safety Commission No. 301042617547\n\nOPERATED BY\n\n© 2026 ARTS RESPECT Co., Ltd. All Rights Reserved.\n\n是否继续以此语言浏览本站？\n保存此语言\n×\nTOP"
+  },
+  {
+    "handle": "yamaguchi-takeo",
+    "note": "物故・標準型（代表作/収蔵先/団体あり）",
+    "lang": "zh-tw",
+    "url": "https://atspect.com/pages/artist/yamaguchi-takeo?lang=zh-tw",
+    "title": "山口 長男（Yamaguchi Takeo）｜ATSPECT",
+    "h1": "山口 長男",
+    "order": [
+      {
+        "tag": "H1",
+        "i18nKey": null,
+        "text": "山口 長男"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "life",
+        "text": "生卒年"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "origin",
+        "text": "出身"
+      },
+      {
+        "tag": "P",
+        "i18nKey": "pagelink",
+        "text": "藝術家頁面連結"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "copy",
+        "text": "複製連結"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "qr",
+        "text": "QR碼"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "bio",
+        "text": "簡歷"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "viewpoint",
+        "text": "成就"
+      },
+      {
+        "tag": "DT",
+        "i18nKey": "mw",
+        "text": "代表作"
+      },
+      {
+        "tag": "DT",
+        "i18nKey": "cp",
+        "text": "收藏機構"
+      },
+      {
+        "tag": "DT",
+        "i18nKey": "gr",
+        "text": "所屬團體"
+      },
+      {
+        "tag": "BUTTON",
+        "i18nKey": "totop",
+        "text": "▲ 返回頁首"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "copyr",
+        "text": "禁止擅自轉載或複製本頁作品圖片與文字。"
+      }
+    ],
+    "prof": [
+      {
+        "label": "代表作",
+        "key": "masterworks",
+        "value": "転、象、竝"
+      },
+      {
+        "label": "收藏機構",
+        "key": "collection",
+        "value": "東京國立近代美術館"
+      },
+      {
+        "label": "所屬團體",
+        "key": "groups",
+        "value": "二科會"
+      }
+    ],
+    "secKeys": {
+      "life": {
+        "text": "生卒年",
+        "visible": true
+      },
+      "origin": {
+        "text": "出身",
+        "visible": true
+      },
+      "pagelink": {
+        "text": "藝術家頁面連結",
+        "visible": true
+      },
+      "copy": {
+        "text": "複製連結",
+        "visible": true
+      },
+      "qr": {
+        "text": "QR碼",
+        "visible": true
+      },
+      "bio": {
+        "text": "簡歷",
+        "visible": true
+      },
+      "viewpoint": {
+        "text": "成就",
+        "visible": true
+      },
+      "mw": {
+        "text": "代表作",
+        "visible": true
+      },
+      "cp": {
+        "text": "收藏機構",
+        "visible": true
+      },
+      "gr": {
+        "text": "所屬團體",
+        "visible": true
+      },
+      "totop": {
+        "text": "▲ 返回頁首",
+        "visible": true
+      },
+      "copyr": {
+        "text": "禁止擅自轉載或複製本頁作品圖片與文字。",
+        "visible": true
+      },
+      "view_work": {
+        "text": "前往作品頁（價格・詳情）→",
+        "visible": false
+      },
+      "qr_cap": {
+        "text": "用手機掃描即可開啟此頁面",
+        "visible": false
+      },
+      "qr_dl": {
+        "text": "下載PNG",
+        "visible": false
+      },
+      "qr_print": {
+        "text": "列印",
+        "visible": false
+      }
+    },
+    "bodyBlocksVisible": [
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 133409,
+        "head": "window.ATSPECT = window.ATSPECT || {}; (function(){ var BASE"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 91,
+        "head": "山口長男是出生於朝鮮京城、籍貫記錄為東京的西洋畫家。他與二科會有所往來，後以抽象繪畫為主創作。可確認其運用赭黃、黑、灰等"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      }
+    ],
+    "bodyBlocksCount": 25,
+    "bodyChars": 851,
+    "fullText": "跳至主要內容\n繁體中文\n藝術家與作品\n作品捐贈\n關於\n聯繫我們\n\n繪畫\n\n山口 長男\n\nYamaguchi Takeo\n\n西洋畫家\n\n生卒年1902–1983　／　出身朝鮮京城（籍貫東京）\n\n以赭黃與黑的形體追求抽象的西洋畫家\n\n黄土色と黒の形で抽象を追求した洋画家\n\n藝術家頁面連結\n\n複製連結\nQR碼\n簡歷\n山口長男是出生於朝鮮京城、籍貫記錄為東京的西洋畫家。他與二科會有所往來，後以抽象繪畫為主創作。可確認其運用赭黃、黑、灰等色，在畫面上配置單純化形體的風格。作品有《転》《象》《竝》等。\n成就\n在山口的抽象畫中，重要的不是畫了什麼，而是形體的分量與間隔的處理。可觀看赭黃與黑的色面如何相互擠壓，生出靜謐的構築感。\n代表作\n転、象、竝\n收藏機構\n東京國立近代美術館\n所屬團體\n二科會\n▲ 返回頁首\n\n禁止擅自轉載或複製本頁作品圖片與文字。\n© ARTS RESPECT Co., Ltd.\n\n﻿\n常見問題\n媒體\n隱私權政策\n基於特定商業交易法之標示\n基於舊物營業法的標示\n\n以各語言呈現。\n\nLANGUAGE ／ 言語\n日本語\nEnglish\n简体中文\n繁體中文\n한국어\nFrançais\nEspañol\nDeutsch\n\nNEWSLETTER\n\n即時掌握來自 ATSPECT 的最新資訊。\n\n訂閱\n\nARTS RESPECT Co., Ltd. — 8-6-202 Nihonbashi-Kobunacho, Chuo-ku, Tokyo 103-0024, Japan\n\n聯絡我們\n\nSecondhand dealer license: ARTS RESPECT Co., Ltd. — Tokyo Metropolitan Public Safety Commission No. 301042617547\n\nOPERATED BY\n\n© 2026 ARTS RESPECT Co., Ltd. All Rights Reserved.\n\n是否繼續以此語言瀏覽本站？\n保存此語言\n×\nTOP"
+  },
+  {
+    "handle": "yamaguchi-takeo",
+    "note": "物故・標準型（代表作/収蔵先/団体あり）",
+    "lang": "ko",
+    "url": "https://atspect.com/pages/artist/yamaguchi-takeo?lang=ko",
+    "title": "山口 長男（Yamaguchi Takeo）｜ATSPECT",
+    "h1": "山口 長男",
+    "order": [
+      {
+        "tag": "H1",
+        "i18nKey": null,
+        "text": "山口 長男"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "life",
+        "text": "생몰년"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "origin",
+        "text": "출신"
+      },
+      {
+        "tag": "P",
+        "i18nKey": "pagelink",
+        "text": "작가 페이지 링크"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "copy",
+        "text": "링크 복사"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "qr",
+        "text": "QR 코드"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "bio",
+        "text": "약력"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "viewpoint",
+        "text": "업적"
+      },
+      {
+        "tag": "DT",
+        "i18nKey": "mw",
+        "text": "대표작"
+      },
+      {
+        "tag": "DT",
+        "i18nKey": "cp",
+        "text": "소장처"
+      },
+      {
+        "tag": "DT",
+        "i18nKey": "gr",
+        "text": "소속 단체"
+      },
+      {
+        "tag": "BUTTON",
+        "i18nKey": "totop",
+        "text": "▲ 맨 위로"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "copyr",
+        "text": "게재 작품의 이미지와 글의 무단 전재 및 복제를 금합니다."
+      }
+    ],
+    "prof": [
+      {
+        "label": "대표작",
+        "key": "masterworks",
+        "value": "Turn, Form, Parallel"
+      },
+      {
+        "label": "소장처",
+        "key": "collection",
+        "value": "도쿄국립근대미술관"
+      },
+      {
+        "label": "소속 단체",
+        "key": "groups",
+        "value": "니카회"
+      }
+    ],
+    "secKeys": {
+      "life": {
+        "text": "생몰년",
+        "visible": true
+      },
+      "origin": {
+        "text": "출신",
+        "visible": true
+      },
+      "pagelink": {
+        "text": "작가 페이지 링크",
+        "visible": true
+      },
+      "copy": {
+        "text": "링크 복사",
+        "visible": true
+      },
+      "qr": {
+        "text": "QR 코드",
+        "visible": true
+      },
+      "bio": {
+        "text": "약력",
+        "visible": true
+      },
+      "viewpoint": {
+        "text": "업적",
+        "visible": true
+      },
+      "mw": {
+        "text": "대표작",
+        "visible": true
+      },
+      "cp": {
+        "text": "소장처",
+        "visible": true
+      },
+      "gr": {
+        "text": "소속 단체",
+        "visible": true
+      },
+      "totop": {
+        "text": "▲ 맨 위로",
+        "visible": true
+      },
+      "copyr": {
+        "text": "게재 작품의 이미지와 글의 무단 전재 및 복제를 금합니다.",
+        "visible": true
+      },
+      "view_work": {
+        "text": "작품 페이지로 (가격・상세) →",
+        "visible": false
+      },
+      "qr_cap": {
+        "text": "휴대폰으로 스캔하면 이 페이지가 열립니다",
+        "visible": false
+      },
+      "qr_dl": {
+        "text": "PNG 다운로드",
+        "visible": false
+      },
+      "qr_print": {
+        "text": "인쇄",
+        "visible": false
+      }
+    },
+    "bodyBlocksVisible": [
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 133504,
+        "head": "window.ATSPECT = window.ATSPECT || {}; (function(){ var BASE"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 167,
+        "head": "야마구치 다케오는 조선 경성에서 태어나 도쿄 출신으로 기록되는 서양화가이다. 니카회에 관여했으며, 후에 추상"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      }
+    ],
+    "bodyBlocksCount": 25,
+    "bodyChars": 1023,
+    "fullText": "본문으로 건너뛰기\n한국어\n작가·작품\n작품 기증\n소개\n문의\n\n회화\n\n山口 長男\n\nYamaguchi Takeo\n\n서양화가\n\n생몰년1902–1983　／　출신조선 경성(본적 도쿄)\n\n황토색과 검정의 형태로 추상을 추구한 서양화가\n\n黄土色と黒の形で抽象を追求した洋画家\n\n작가 페이지 링크\n\n링크 복사\nQR 코드\n약력\n야마구치 다케오는 조선 경성에서 태어나 도쿄 출신으로 기록되는 서양화가이다. 니카회에 관여했으며, 후에 추상 회화를 중심으로 제작했다. 황토색, 검정, 회색 등을 사용해 단순화한 형태를 화면 위에 배치하는 작풍을 확인할 수 있다. 작품으로 《Turn》, 《Form》, 《Parallel》 등이 있다.\n업적\n야마구치의 추상화에서는 무엇을 그렸는가보다 형태의 무게와 간격의 처리가 중요해진다. 황토색과 검정의 면이 서로 밀어내며 고요한 구축감을 자아내는 대목을 보면 좋다.\n대표작\nTurn, Form, Parallel\n소장처\n도쿄국립근대미술관\n소속 단체\n니카회\n▲ 맨 위로\n\n게재 작품의 이미지와 글의 무단 전재 및 복제를 금합니다.\n© ARTS RESPECT Co., Ltd.\n\n﻿\n자주 묻는 질문\n프레스\n개인정보 처리방침\n특정상거래법에 따른 표시\n고물영업법에 따른 표시\n\n모든 언어로.\n\nLANGUAGE ／ 言語\n日本語\nEnglish\n简体中文\n繁體中文\n한국어\nFrançais\nEspañol\nDeutsch\n\nNEWSLETTER\n\nATSPECT의 최신 소식을 받아보세요.\n\n구독하기\n\nARTS RESPECT Co., Ltd. — 8-6-202 Nihonbashi-Kobunacho, Chuo-ku, Tokyo 103-0024, Japan\n\n문의하기\n\nSecondhand dealer license: ARTS RESPECT Co., Ltd. — Tokyo Metropolitan Public Safety Commission No. 301042617547\n\nOPERATED BY\n\n© 2026 ARTS RESPECT Co., Ltd. All Rights Reserved.\n\n이 언어로 계속 보시겠습니까?\n이 언어로 저장\n×\nTOP"
+  },
+  {
+    "handle": "yamaguchi-takeo",
+    "note": "物故・標準型（代表作/収蔵先/団体あり）",
+    "lang": "fr",
+    "url": "https://atspect.com/pages/artist/yamaguchi-takeo?lang=fr",
+    "title": "山口 長男（Yamaguchi Takeo）｜ATSPECT",
+    "h1": "山口 長男",
+    "order": [
+      {
+        "tag": "H1",
+        "i18nKey": null,
+        "text": "山口 長男"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "life",
+        "text": "Dates"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "origin",
+        "text": "Origine"
+      },
+      {
+        "tag": "P",
+        "i18nKey": "pagelink",
+        "text": "Lien vers la page de l'artiste"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "copy",
+        "text": "Copier le lien"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "qr",
+        "text": "Code QR"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "bio",
+        "text": "Biographie"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "viewpoint",
+        "text": "Postérité"
+      },
+      {
+        "tag": "DT",
+        "i18nKey": "mw",
+        "text": "Œuvres choisies"
+      },
+      {
+        "tag": "DT",
+        "i18nKey": "cp",
+        "text": "Collections"
+      },
+      {
+        "tag": "DT",
+        "i18nKey": "gr",
+        "text": "Groupes artistiques"
+      },
+      {
+        "tag": "BUTTON",
+        "i18nKey": "totop",
+        "text": "▲ Haut de page"
+      }
+    ],
+    "prof": [
+      {
+        "label": "Œuvres choisies",
+        "key": "masterworks",
+        "value": "Turn, Form, Parallel"
+      },
+      {
+        "label": "Collections",
+        "key": "collection",
+        "value": "Musée national d'art moderne de Tokyo"
+      },
+      {
+        "label": "Groupes artistiques",
+        "key": "groups",
+        "value": "Association Nika"
+      }
+    ],
+    "secKeys": {
+      "life": {
+        "text": "Dates",
+        "visible": true
+      },
+      "origin": {
+        "text": "Origine",
+        "visible": true
+      },
+      "pagelink": {
+        "text": "Lien vers la page de l'artiste",
+        "visible": true
+      },
+      "copy": {
+        "text": "Copier le lien",
+        "visible": true
+      },
+      "qr": {
+        "text": "Code QR",
+        "visible": true
+      },
+      "bio": {
+        "text": "Biographie",
+        "visible": true
+      },
+      "viewpoint": {
+        "text": "Postérité",
+        "visible": true
+      },
+      "mw": {
+        "text": "Œuvres choisies",
+        "visible": true
+      },
+      "cp": {
+        "text": "Collections",
+        "visible": true
+      },
+      "gr": {
+        "text": "Groupes artistiques",
+        "visible": true
+      },
+      "totop": {
+        "text": "▲ Haut de page",
+        "visible": true
+      },
+      "copyr": {
+        "text": "Toute reproduction non autorisée des images et des textes est interdite.",
+        "visible": true
+      },
+      "view_work": {
+        "text": "Voir l'œuvre (prix et détails) →",
+        "visible": false
+      },
+      "qr_cap": {
+        "text": "Scannez avec votre téléphone pour ouvrir cette page",
+        "visible": false
+      },
+      "qr_dl": {
+        "text": "Télécharger le PNG",
+        "visible": false
+      },
+      "qr_print": {
+        "text": "Imprimer",
+        "visible": false
+      }
+    },
+    "bodyBlocksVisible": [
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 134175,
+        "head": "window.ATSPECT = window.ATSPECT || {}; (function(){ var BASE"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 384,
+        "head": "Yamaguchi Takeo était un peintre yōga (de style occidental) "
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      }
+    ],
+    "bodyBlocksCount": 25,
+    "bodyChars": 1967,
+    "fullText": "ALLER AU CONTENU\nFrançais\nARTISTES ET ŒUVRES\nDONS D’ŒUVRES D’ART\nÀ PROPOS\nCONTACT\n\nPeinture\n\n山口 長男\n\nYamaguchi Takeo\n\nPeintre de style occidental\n\nDates1902–1983　／　OrigineKeijō, Corée (enregistré comme originaire de Tokyo)\n\nUn peintre yōga qui poursuivit l'abstraction par des formes ocre et noires\n\n黄土色と黒の形で抽象を追求した洋画家\n\nLIEN VERS LA PAGE DE L'ARTISTE\n\nCopier le lien\nCode QR\nBiographie\nYamaguchi Takeo était un peintre yōga (de style occidental) né à Keijō, en Corée, et enregistré comme originaire de Tokyo. Lié à l'Association Nika, il travailla ensuite surtout dans la peinture abstraite. On peut confirmer un style où, à l'aide d'ocre, de noir et de gris, il disposait des formes simplifiées à la surface du tableau. Parmi ses œuvres figurent Turn, Form et Parallel.\nPostérité\nDans les peintures abstraites de Yamaguchi, ce qui importe est moins ce qui est représenté que le poids des formes et le traitement des intervalles. On peut observer comment les plans d'ocre et de noir se pressent les uns contre les autres pour produire un calme sentiment de construction.\nŒuvres choisies\nTurn, Form, Parallel\nCollections\nMusée national d'art moderne de Tokyo\nGroupes artistiques\nAssociation Nika\n▲ Haut de page\n\nToute reproduction non autorisée des images et des textes est interdite.\n© ARTS RESPECT Co., Ltd.\n\n﻿\nQuestions fréquentes\nPresse\nPolitique de confidentialité\nMentions légales (transactions commerciales)\nMentions légales (objets d'occasion)\n\nDans chaque langue.\n\nLANGUAGE ／ 言語\n日本語\nEnglish\n简体中文\n繁體中文\n한국어\nFrançais\nEspañol\nDeutsch\n\nNEWSLETTER\n\nRecevez les dernières actualités d'ATSPECT.\n\nS'inscrire\n\nARTS RESPECT Co., Ltd. — 8-6-202 Nihonbashi-Kobunacho, Chuo-ku, Tokyo 103-0024, Japan\n\nNous contacter\n\nSecondhand dealer license: ARTS RESPECT Co., Ltd. — Tokyo Metropolitan Public Safety Commission No. 301042617547\n\nOPERATED BY\n\n© 2026 ARTS RESPECT Co., Ltd. All Rights Reserved.\n\nContinuer à consulter le site dans cette langue ?\nConserver cette langue\n×\nTOP"
+  },
+  {
+    "handle": "yamaguchi-takeo",
+    "note": "物故・標準型（代表作/収蔵先/団体あり）",
+    "lang": "es",
+    "url": "https://atspect.com/pages/artist/yamaguchi-takeo?lang=es",
+    "title": "山口 長男（Yamaguchi Takeo）｜ATSPECT",
+    "h1": "山口 長男",
+    "order": [
+      {
+        "tag": "H1",
+        "i18nKey": null,
+        "text": "山口 長男"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "life",
+        "text": "Fechas"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "origin",
+        "text": "Origen"
+      },
+      {
+        "tag": "P",
+        "i18nKey": "pagelink",
+        "text": "Enlace a la página del artista"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "copy",
+        "text": "Copiar enlace"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "qr",
+        "text": "Código QR"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "bio",
+        "text": "Biografía"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "viewpoint",
+        "text": "Legado"
+      },
+      {
+        "tag": "DT",
+        "i18nKey": "mw",
+        "text": "Obras destacadas"
+      },
+      {
+        "tag": "DT",
+        "i18nKey": "cp",
+        "text": "Colecciones"
+      },
+      {
+        "tag": "DT",
+        "i18nKey": "gr",
+        "text": "Grupos artísticos"
+      },
+      {
+        "tag": "BUTTON",
+        "i18nKey": "totop",
+        "text": "▲ Volver arriba"
+      }
+    ],
+    "prof": [
+      {
+        "label": "Obras destacadas",
+        "key": "masterworks",
+        "value": "Turn, Form, Parallel"
+      },
+      {
+        "label": "Colecciones",
+        "key": "collection",
+        "value": "Museo Nacional de Arte Moderno de Tokio"
+      },
+      {
+        "label": "Grupos artísticos",
+        "key": "groups",
+        "value": "Asociación Nika"
+      }
+    ],
+    "secKeys": {
+      "life": {
+        "text": "Fechas",
+        "visible": true
+      },
+      "origin": {
+        "text": "Origen",
+        "visible": true
+      },
+      "pagelink": {
+        "text": "Enlace a la página del artista",
+        "visible": true
+      },
+      "copy": {
+        "text": "Copiar enlace",
+        "visible": true
+      },
+      "qr": {
+        "text": "Código QR",
+        "visible": true
+      },
+      "bio": {
+        "text": "Biografía",
+        "visible": true
+      },
+      "viewpoint": {
+        "text": "Legado",
+        "visible": true
+      },
+      "mw": {
+        "text": "Obras destacadas",
+        "visible": true
+      },
+      "cp": {
+        "text": "Colecciones",
+        "visible": true
+      },
+      "gr": {
+        "text": "Grupos artísticos",
+        "visible": true
+      },
+      "totop": {
+        "text": "▲ Volver arriba",
+        "visible": true
+      },
+      "copyr": {
+        "text": "Prohibida la reproducción no autorizada de imágenes y textos.",
+        "visible": true
+      },
+      "view_work": {
+        "text": "Ver la obra (precio y detalles) →",
+        "visible": false
+      },
+      "qr_cap": {
+        "text": "Escanee con su teléfono para abrir esta página",
+        "visible": false
+      },
+      "qr_dl": {
+        "text": "Descargar PNG",
+        "visible": false
+      },
+      "qr_print": {
+        "text": "Imprimir",
+        "visible": false
+      }
+    },
+    "bodyBlocksVisible": [
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 134108,
+        "head": "window.ATSPECT = window.ATSPECT || {}; (function(){ var BASE"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 386,
+        "head": "Yamaguchi Takeo fue un pintor yōga (de estilo occidental) na"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      }
+    ],
+    "bodyBlocksCount": 25,
+    "bodyChars": 1891,
+    "fullText": "IR AL CONTENIDO\nEspañol\nARTISTAS Y OBRAS\nDONACIONES\nNOSOTROS\nCONTACTO\n\nPintura\n\n山口 長男\n\nYamaguchi Takeo\n\nPintor de estilo occidental\n\nFechas1902–1983　／　OrigenKeijō, Corea (registrado como originario de Tokio)\n\nUn pintor yōga que persiguió la abstracción en formas ocres y negras\n\n黄土色と黒の形で抽象を追求した洋画家\n\nENLACE A LA PÁGINA DEL ARTISTA\n\nCopiar enlace\nCódigo QR\nBiografía\nYamaguchi Takeo fue un pintor yōga (de estilo occidental) nacido en Keijō, Corea, y registrado como originario de Tokio. Vinculado a la Asociación Nika, trabajó después sobre todo en la pintura abstracta. Puede confirmarse un estilo en el que, valiéndose de ocre, negro y gris, disponía formas simplificadas sobre la superficie del cuadro. Entre sus obras figuran Turn, Form y Parallel.\nLegado\nEn las pinturas abstractas de Yamaguchi, lo que importa es menos lo que se representa que el peso de las formas y el tratamiento de los intervalos. Conviene observar cómo los planos de ocre y negro se presionan entre sí para producir una serena sensación de construcción.\nObras destacadas\nTurn, Form, Parallel\nColecciones\nMuseo Nacional de Arte Moderno de Tokio\nGrupos artísticos\nAsociación Nika\n▲ Volver arriba\n\nProhibida la reproducción no autorizada de imágenes y textos.\n© ARTS RESPECT Co., Ltd.\n\n﻿\nPreguntas frecuentes\nPrensa\nPolítica de privacidad\nAviso legal (transacciones comerciales)\nAviso legal (artículos de segunda mano)\n\nEn cada idioma.\n\nLANGUAGE ／ 言語\n日本語\nEnglish\n简体中文\n繁體中文\n한국어\nFrançais\nEspañol\nDeutsch\n\nNEWSLETTER\n\nReciba las últimas novedades de ATSPECT.\n\nSuscribirse\n\nARTS RESPECT Co., Ltd. — 8-6-202 Nihonbashi-Kobunacho, Chuo-ku, Tokyo 103-0024, Japan\n\nContacto\n\nSecondhand dealer license: ARTS RESPECT Co., Ltd. — Tokyo Metropolitan Public Safety Commission No. 301042617547\n\nOPERATED BY\n\n© 2026 ARTS RESPECT Co., Ltd. All Rights Reserved.\n\n¿Desea seguir viendo el sitio en este idioma?\nGuardar este idioma\n×\nTOP"
+  },
+  {
+    "handle": "yamaguchi-takeo",
+    "note": "物故・標準型（代表作/収蔵先/団体あり）",
+    "lang": "de",
+    "url": "https://atspect.com/pages/artist/yamaguchi-takeo?lang=de",
+    "title": "山口 長男（Yamaguchi Takeo）｜ATSPECT",
+    "h1": "山口 長男",
+    "order": [
+      {
+        "tag": "H1",
+        "i18nKey": null,
+        "text": "山口 長男"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "life",
+        "text": "Lebensdaten"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "origin",
+        "text": "Herkunft"
+      },
+      {
+        "tag": "P",
+        "i18nKey": "pagelink",
+        "text": "Link zur Künstlerseite"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "copy",
+        "text": "Link kopieren"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "qr",
+        "text": "QR-Code"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "bio",
+        "text": "Biografie"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "viewpoint",
+        "text": "Würdigung"
+      },
+      {
+        "tag": "DT",
+        "i18nKey": "mw",
+        "text": "Ausgewählte Werke"
+      },
+      {
+        "tag": "DT",
+        "i18nKey": "cp",
+        "text": "Sammlungen"
+      },
+      {
+        "tag": "DT",
+        "i18nKey": "gr",
+        "text": "Künstlergruppen"
+      },
+      {
+        "tag": "BUTTON",
+        "i18nKey": "totop",
+        "text": "▲ Nach oben"
+      }
+    ],
+    "prof": [
+      {
+        "label": "Ausgewählte Werke",
+        "key": "masterworks",
+        "value": "Turn, Form, Parallel"
+      },
+      {
+        "label": "Sammlungen",
+        "key": "collection",
+        "value": "Nationalmuseum für moderne Kunst, Tokio"
+      },
+      {
+        "label": "Künstlergruppen",
+        "key": "groups",
+        "value": "die Nika-Vereinigung (Nika-kai)"
+      }
+    ],
+    "secKeys": {
+      "life": {
+        "text": "Lebensdaten",
+        "visible": true
+      },
+      "origin": {
+        "text": "Herkunft",
+        "visible": true
+      },
+      "pagelink": {
+        "text": "Link zur Künstlerseite",
+        "visible": true
+      },
+      "copy": {
+        "text": "Link kopieren",
+        "visible": true
+      },
+      "qr": {
+        "text": "QR-Code",
+        "visible": true
+      },
+      "bio": {
+        "text": "Biografie",
+        "visible": true
+      },
+      "viewpoint": {
+        "text": "Würdigung",
+        "visible": true
+      },
+      "mw": {
+        "text": "Ausgewählte Werke",
+        "visible": true
+      },
+      "cp": {
+        "text": "Sammlungen",
+        "visible": true
+      },
+      "gr": {
+        "text": "Künstlergruppen",
+        "visible": true
+      },
+      "totop": {
+        "text": "▲ Nach oben",
+        "visible": true
+      },
+      "copyr": {
+        "text": "Unbefugte Vervielfältigung von Bildern und Texten ist untersagt.",
+        "visible": true
+      },
+      "view_work": {
+        "text": "Zur Werkseite (Preis & Details) →",
+        "visible": false
+      },
+      "qr_cap": {
+        "text": "Mit dem Smartphone scannen, um diese Seite zu öffnen",
+        "visible": false
+      },
+      "qr_dl": {
+        "text": "PNG herunterladen",
+        "visible": false
+      },
+      "qr_print": {
+        "text": "Drucken",
+        "visible": false
+      }
+    },
+    "bodyBlocksVisible": [
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 134147,
+        "head": "window.ATSPECT = window.ATSPECT || {}; (function(){ var BASE"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 406,
+        "head": "Yamaguchi Takeo war ein Maler im westlichen Stil (Yōga), geb"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      }
+    ],
+    "bodyBlocksCount": 25,
+    "bodyChars": 1951,
+    "fullText": "ZUM INHALT SPRINGEN\nDeutsch\nKÜNSTLER & WERKE\nSCHENKUNGEN\nÜBER UNS\nKONTAKT\n\nMalerei\n\n山口 長男\n\nYamaguchi Takeo\n\nMaler im westlichen Stil (Yōga)\n\nLebensdaten1902–1983　／　HerkunftKeijō, Korea (als aus Tokio stammend verzeichnet)\n\nYōga-Maler, der die Abstraktion in Formen aus Ocker und Schwarz verfolgte\n\n黄土色と黒の形で抽象を追求した洋画家\n\nLINK ZUR KÜNSTLERSEITE\n\nLink kopieren\nQR-Code\nBiografie\nYamaguchi Takeo war ein Maler im westlichen Stil (Yōga), geboren in Keijō in Korea und als aus Tokio stammend verzeichnet. Er war mit der Nika-Vereinigung (Nika-kai) verbunden und arbeitete später vorwiegend in der abstrakten Malerei. Ein Stil lässt sich belegen, in dem er mit Ocker, Schwarz und Grau vereinfachte Formen auf der Bildfläche anordnete. Zu seinen Werken zählen „Turn“, „Form“ und „Parallel“.\nWürdigung\nIn Yamaguchis abstrakten Gemälden zählt weniger, was dargestellt ist, als das Gewicht der Formen und die Handhabung der Zwischenräume. Man kann beobachten, wie die Flächen aus Ocker und Schwarz gegeneinanderdrängen und ein stilles Gefühl von Konstruktion erzeugen.\nAusgewählte Werke\nTurn, Form, Parallel\nSammlungen\nNationalmuseum für moderne Kunst, Tokio\nKünstlergruppen\ndie Nika-Vereinigung (Nika-kai)\n▲ Nach oben\n\nUnbefugte Vervielfältigung von Bildern und Texten ist untersagt.\n© ARTS RESPECT Co., Ltd.\n\n﻿\nHäufige Fragen\nPresse\nDatenschutzerklärung\nRechtliche Hinweise (Handelsgeschäfte)\nRechtliche Hinweise (Gebrauchtwarenhandel)\n\nIn jeder Sprache.\n\nLANGUAGE ／ 言語\n日本語\nEnglish\n简体中文\n繁體中文\n한국어\nFrançais\nEspañol\nDeutsch\n\nNEWSLETTER\n\nBleiben Sie über die Neuigkeiten von ATSPECT informiert.\n\nAbonnieren\n\nARTS RESPECT Co., Ltd. — 8-6-202 Nihonbashi-Kobunacho, Chuo-ku, Tokyo 103-0024, Japan\n\nKontakt\n\nSecondhand dealer license: ARTS RESPECT Co., Ltd. — Tokyo Metropolitan Public Safety Commission No. 301042617547\n\nOPERATED BY\n\n© 2026 ARTS RESPECT Co., Ltd. All Rights Reserved.\n\nMöchten Sie die Seite weiterhin in dieser Sprache anzeigen?\nSprache speichern\n×\nTOP"
+  },
+  {
+    "handle": "suzuki-chikako",
+    "note": "現存・唯一の登録作家（メッセージ/著書/代表作画像/チャンネルあり・代表作/収蔵先/団体は空）",
+    "lang": "ja",
+    "url": "https://atspect.com/pages/artist/suzuki-chikako?lang=ja",
+    "title": "鈴木 千賀子（Suzuki Chikako）｜あつぺくと",
+    "h1": "鈴木 千賀子",
+    "order": [
+      {
+        "tag": "H1",
+        "i18nKey": null,
+        "text": "鈴木 千賀子"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "born",
+        "text": "生年"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "origin",
+        "text": "出身"
+      },
+      {
+        "tag": "P",
+        "i18nKey": "pagelink",
+        "text": "作家ページのリンク"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "copy",
+        "text": "リンクをコピー"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "qr",
+        "text": "QRコード"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "bio",
+        "text": "略歴"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "message",
+        "text": "作家メッセージ"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "books",
+        "text": "著書"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "channel",
+        "text": "あつぺくとチャンネル"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "works",
+        "text": "販売作品"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "works_intro1",
+        "text": "作品画像をクリックすると拡大してご覧いただけます。"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "works_intro2",
+        "text": "価格・詳細は作品ページでご覧いただけます。"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "zoom_hint",
+        "text": "＋ 拡大して見る"
+      },
+      {
+        "tag": "A",
+        "i18nKey": "worklink",
+        "text": "作品ページへ（価格・詳細）→"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "zoom_hint",
+        "text": "＋ 拡大して見る"
+      },
+      {
+        "tag": "A",
+        "i18nKey": "worklink",
+        "text": "作品ページへ（価格・詳細）→"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "zoom_hint",
+        "text": "＋ 拡大して見る"
+      },
+      {
+        "tag": "A",
+        "i18nKey": "worklink",
+        "text": "作品ページへ（価格・詳細）→"
+      },
+      {
+        "tag": "BUTTON",
+        "i18nKey": "totop",
+        "text": "▲ ページトップへ戻る"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "copyr",
+        "text": "掲載作品の画像・文章の無断転載および複製を禁じます。"
+      }
+    ],
+    "prof": [],
+    "secKeys": {
+      "born": {
+        "text": "生年",
+        "visible": true
+      },
+      "origin": {
+        "text": "出身",
+        "visible": true
+      },
+      "pagelink": {
+        "text": "作家ページのリンク",
+        "visible": true
+      },
+      "copy": {
+        "text": "リンクをコピー",
+        "visible": true
+      },
+      "qr": {
+        "text": "QRコード",
+        "visible": true
+      },
+      "bio": {
+        "text": "略歴",
+        "visible": true
+      },
+      "viewpoint": {
+        "text": "功績",
+        "visible": false
+      },
+      "message": {
+        "text": "作家メッセージ",
+        "visible": true
+      },
+      "books": {
+        "text": "著書",
+        "visible": true
+      },
+      "channel": {
+        "text": "あつぺくとチャンネル",
+        "visible": true
+      },
+      "works": {
+        "text": "販売作品",
+        "visible": true
+      },
+      "works_intro1": {
+        "text": "作品画像をクリックすると拡大してご覧いただけます。",
+        "visible": true
+      },
+      "works_intro2": {
+        "text": "価格・詳細は作品ページでご覧いただけます。",
+        "visible": true
+      },
+      "zoom_hint": {
+        "text": "＋ 拡大して見る",
+        "visible": true
+      },
+      "worklink": {
+        "text": "作品ページへ（価格・詳細）→",
+        "visible": true
+      },
+      "totop": {
+        "text": "▲ ページトップへ戻る",
+        "visible": true
+      },
+      "copyr": {
+        "text": "掲載作品の画像・文章の無断転載および複製を禁じます。",
+        "visible": true
+      },
+      "view_work": {
+        "text": "作品ページへ（価格・詳細）→",
+        "visible": false
+      },
+      "qr_cap": {
+        "text": "スマートフォンで読み取ってこのページを開けます",
+        "visible": false
+      },
+      "qr_dl": {
+        "text": "PNGダウンロード",
+        "visible": false
+      },
+      "qr_print": {
+        "text": "印刷",
+        "visible": false
+      }
+    },
+    "bodyBlocksVisible": [
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 142982,
+        "head": "window.ATSPECT = window.ATSPECT || {}; (function(){ var BASE"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 176,
+        "head": "日本大学理工学部薬学科を卒業後、造形の道へ進む。造形作家・友永詔三、彫刻家・細井良雄、木彫家・牧田裕次郎に師事。国立劇場"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 103,
+        "head": "私が彫るのは、動物や子どもたちなど愛らしいものです。木からエネルギーをいただきながら、作品を通して私自身も癒されてきまし"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      }
+    ],
+    "bodyBlocksCount": 33,
+    "bodyChars": 1329,
+    "fullText": "コンテンツに進む\n日本語\n作家／作品\n寄贈\nあつぺくとについて\nお問い合わせ\n\n彫刻\n\n鈴木 千賀子\n\nSuzuki Chikako\n\n造形作家\n\n生年1949　／　出身埼玉県\n\n祈りの造形・愛しき動物たち\n\n作家ページのリンク\n\nリンクをコピー\nQRコード\n\n《相撲》ウサギとカエル\n\nヒノキ・彩色・箔　H23×W30×D20cm\n\n略歴\n日本大学理工学部薬学科を卒業後、造形の道へ進む。造形作家・友永詔三、彫刻家・細井良雄、木彫家・牧田裕次郎に師事。国立劇場では菱田宏治氏・名越詔司氏に師事し、文楽人形の床山を経て、首（かしら）の制作の修行を積んだ。創型会会友を経て、現在は無所属で制作を続けている。日本橋髙島屋、京王プラザホテルロビーギャラリー、埼玉県立近代美術館などで個展を重ねている。\n作家メッセージ\n私が彫るのは、動物や子どもたちなど愛らしいものです。木からエネルギーをいただきながら、作品を通して私自身も癒されてきました。\nひとすじの愛の光を多くの人の心に届けたい。平和への祈りを込めて創作をしています。\n著書\n『メルヘン動物』（グラフ社）\n『くつ下で作るストッキング人形』（ブティック社）\n『愛の光 祈りの造形・愛しき動物たち 鈴木千賀子作品集』（美術年鑑社）\n『立体で見る鳥獣戯画 木と土と布から生まれた鳥獣戯画』（美術年鑑社）\n『鈴木千賀子の世界 ひとすじの愛の光』（美術年鑑社）\n『立体で見る宮沢賢治の童話世界』（美術年鑑社）\nあつぺくとチャンネル\n販売作品\n\n作品画像をクリックすると拡大してご覧いただけます。\n価格・詳細は作品ページでご覧いただけます。\n\nお気に入りに追加\n＋ 拡大して見る\n\n《カエル仏》\n\nヒノキ・彩色・箔　H 24 × W 30 × D 25 cm\n\n作品ページへ（価格・詳細）→\nお気に入りに追加\n＋ 拡大して見る\n\n《かけくらべ》\n\nヒノキ・彩色・箔　H 28 × W 25 × D 15 cm\n\n作品ページへ（価格・詳細）→\nお気に入りに追加\n＋ 拡大して見る\n\n《舟奏楽》\n\nバルサ・彩色・箔　H 23 × W 53 × D 23 cm\n\n作品ページへ（価格・詳細）→\n▲ ページトップへ戻る\n\n掲載作品の画像・文章の無断転載および複製を禁じます。\n© ARTS RESPECT Co., Ltd.\n\n﻿\nよくある質問\nプレス\nプライバシーポリシー\n特定商取引法に基づく表記\n古物営業法に基づく表示\n作家の方へ\n\n各言語で。\n\nLANGUAGE ／ 言語\n日本語\nEnglish\n简体中文\n繁體中文\n한국어\nFrançais\nEspañol\nDeutsch\n\nNEWSLETTER\n\nあつぺくとから最新の情報をお届けいたします\n\n登録する\n\n〒103-0024 東京都中央区日本橋小舟町8-6-202\n\nお問い合わせ\n\n古物商許可：株式会社ARTS RESPECT／東京都公安委員会 第301042617547号\n\nOPERATED BY\n\n© 2026 ARTS RESPECT Co., Ltd. All Rights Reserved.\n\nこの言語で表示を続けますか？\nこの言語を保存\n×\nTOP"
+  },
+  {
+    "handle": "suzuki-chikako",
+    "note": "現存・唯一の登録作家（メッセージ/著書/代表作画像/チャンネルあり・代表作/収蔵先/団体は空）",
+    "lang": "en",
+    "url": "https://atspect.com/pages/artist/suzuki-chikako?lang=en",
+    "title": "鈴木 千賀子（Suzuki Chikako）｜ATSPECT",
+    "h1": "鈴木 千賀子",
+    "order": [
+      {
+        "tag": "H1",
+        "i18nKey": null,
+        "text": "鈴木 千賀子"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "born",
+        "text": "Born"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "origin",
+        "text": "From"
+      },
+      {
+        "tag": "P",
+        "i18nKey": "pagelink",
+        "text": "Link to this artist's page"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "copy",
+        "text": "Copy link"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "qr",
+        "text": "QR code"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "bio",
+        "text": "Biography"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "message",
+        "text": "Artist Statement"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "books",
+        "text": "Publications"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "channel",
+        "text": "ATSPECT Channel"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "works",
+        "text": "Works for Sale"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "works_intro1",
+        "text": "Click an image to enlarge."
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "works_intro2",
+        "text": "Prices and details are on each work's page."
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "zoom_hint",
+        "text": "＋ Enlarge"
+      },
+      {
+        "tag": "A",
+        "i18nKey": "worklink",
+        "text": "View artwork (price & details) →"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "zoom_hint",
+        "text": "＋ Enlarge"
+      },
+      {
+        "tag": "A",
+        "i18nKey": "worklink",
+        "text": "View artwork (price & details) →"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "zoom_hint",
+        "text": "＋ Enlarge"
+      },
+      {
+        "tag": "A",
+        "i18nKey": "worklink",
+        "text": "View artwork (price & details) →"
+      },
+      {
+        "tag": "BUTTON",
+        "i18nKey": "totop",
+        "text": "▲ Back to top"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "copyr",
+        "text": "Unauthorized reproduction of images and text is prohibited."
+      }
+    ],
+    "prof": [],
+    "secKeys": {
+      "born": {
+        "text": "Born",
+        "visible": true
+      },
+      "origin": {
+        "text": "From",
+        "visible": true
+      },
+      "pagelink": {
+        "text": "Link to this artist's page",
+        "visible": true
+      },
+      "copy": {
+        "text": "Copy link",
+        "visible": true
+      },
+      "qr": {
+        "text": "QR code",
+        "visible": true
+      },
+      "bio": {
+        "text": "Biography",
+        "visible": true
+      },
+      "viewpoint": {
+        "text": "Legacy",
+        "visible": false
+      },
+      "message": {
+        "text": "Artist Statement",
+        "visible": true
+      },
+      "books": {
+        "text": "Publications",
+        "visible": true
+      },
+      "channel": {
+        "text": "ATSPECT Channel",
+        "visible": true
+      },
+      "works": {
+        "text": "Works for Sale",
+        "visible": true
+      },
+      "works_intro1": {
+        "text": "Click an image to enlarge.",
+        "visible": true
+      },
+      "works_intro2": {
+        "text": "Prices and details are on each work's page.",
+        "visible": true
+      },
+      "zoom_hint": {
+        "text": "＋ Enlarge",
+        "visible": true
+      },
+      "worklink": {
+        "text": "View artwork (price & details) →",
+        "visible": true
+      },
+      "totop": {
+        "text": "▲ Back to top",
+        "visible": true
+      },
+      "copyr": {
+        "text": "Unauthorized reproduction of images and text is prohibited.",
+        "visible": true
+      },
+      "view_work": {
+        "text": "View artwork (price & details) →",
+        "visible": false
+      },
+      "qr_cap": {
+        "text": "Scan with your phone to open this page",
+        "visible": false
+      },
+      "qr_dl": {
+        "text": "Download PNG",
+        "visible": false
+      },
+      "qr_print": {
+        "text": "Print",
+        "visible": false
+      }
+    },
+    "bodyBlocksVisible": [
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 143450,
+        "head": "window.ATSPECT = window.ATSPECT || {}; (function(){ var BASE"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 727,
+        "head": "Born in Saitama Prefecture, Japan. After earning a degree in"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 247,
+        "head": "What I carve are lovable beings, such as animals and childre"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      }
+    ],
+    "bodyBlocksCount": 33,
+    "bodyChars": 3665,
+    "fullText": "SKIP TO CONTENT\nEnglish\nARTISTS & WORKS\nGIFTS OF ART\nABOUT\nCONTACT\n\nSculpture\n\n鈴木 千賀子\n\nSuzuki Chikako\n\nSculptural Artist\n\nBorn1949　／　FromSaitama Prefecture\n\nForms of Prayer and Beloved Animals\n\n祈りの造形・愛しき動物たち\n\nLINK TO THIS ARTIST'S PAGE\n\nCopy link\nQR code\n\nSumo: Rabbit and Frog\n\nJapanese cypress (hinoki), polychromy, metal leaf; H 23 × W 30 × D 20 cm\n\nBiography\nBorn in Saitama Prefecture, Japan. After earning a degree in pharmaceutical sciences from the College of Science and Technology, Nihon University, she turned to sculptural work. She studied under the sculptural artist Shozo Tomonaga, the sculptor Yoshio Hosoi, and the wood sculptor Yujiro Makita. At the National Theatre she trained under 菱田宏治 and 名越詔司, first as a tokoyama — the specialist who dresses and styles the wigs of Bunraku puppets — and then in making the puppet heads themselves (kashira). A former associate member of the Sokei-kai, she now works independently. She has held solo exhibitions at Nihonbashi Takashimaya, the Keio Plaza Hotel Lobby Gallery, and the Museum of Modern Art, Saitama, among other venues.\nArtist Statement\nWhat I carve are lovable beings, such as animals and children. The wood lends me its energy, and making these works has healed me as well.\nI hope a single ray of loving light will reach as many hearts as possible. I create with a prayer for peace.\nPublications\n『メルヘン動物』（グラフ社）\nMeruhen Dōbutsu (Gurafu-sha)\nFairy-Tale Animals (Gurafu-sha)\n『くつ下で作るストッキング人形』（ブティック社）\nKutsushita de Tsukuru Sutokkingu Ningyō (Butikku-sha)\nStocking Dolls Made with Socks (Butikku-sha)\n『愛の光 祈りの造形・愛しき動物たち 鈴木千賀子作品集』（美術年鑑社）\nAi no Hikari: Inori no Zōkei, Itoshiki Dōbutsu-tachi — Suzuki Chikako Sakuhinshū (Bijutsu Nenkan-sha)\nLight of Love: Forms of Prayer and Beloved Animals — Works of Chikako Suzuki (Bijutsu Nenkan-sha)\n『立体で見る鳥獣戯画 木と土と布から生まれた鳥獣戯画』（美術年鑑社）\nRittai de Miru Chōjū Giga: Ki to Tsuchi to Nuno kara Umareta Chōjū Giga (Bijutsu Nenkan-sha)\nChōjū Giga in Three Dimensions: Born from Wood, Clay, and Cloth (Bijutsu Nenkan-sha)\n『鈴木千賀子の世界 ひとすじの愛の光』（美術年鑑社）\nSuzuki Chikako no Sekai: Hitosuji no Ai no Hikari (Bijutsu Nenkan-sha)\nThe World of Chikako Suzuki: A Single Ray of Loving Light (Bijutsu Nenkan-sha)\n『立体で見る宮沢賢治の童話世界』（美術年鑑社）\nRittai de Miru Miyazawa Kenji no Dōwa Sekai (Bijutsu Nenkan-sha)\nThe Fairy-Tale World of Miyazawa Kenji in Three Dimensions (Bijutsu Nenkan-sha)\nATSPECT Channel\nWorks for Sale\n\nClick an image to enlarge.\nPrices and details are on each work's page.\n\nAdd to favorites\n＋ Enlarge\n\n《Frog Buddha》\n\nJapanese cypress (hinoki), polychromy, gold leaf; H 24 × W 30 × D 25 cm (9.4 × 11.8 × 9.8"
+  },
+  {
+    "handle": "suzuki-chikako",
+    "note": "現存・唯一の登録作家（メッセージ/著書/代表作画像/チャンネルあり・代表作/収蔵先/団体は空）",
+    "lang": "zh-cn",
+    "url": "https://atspect.com/pages/artist/suzuki-chikako?lang=zh-cn",
+    "title": "鈴木 千賀子（Suzuki Chikako）｜ATSPECT",
+    "h1": "鈴木 千賀子",
+    "order": [
+      {
+        "tag": "H1",
+        "i18nKey": null,
+        "text": "鈴木 千賀子"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "born",
+        "text": "出生"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "origin",
+        "text": "出身"
+      },
+      {
+        "tag": "P",
+        "i18nKey": "pagelink",
+        "text": "艺术家页面链接"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "copy",
+        "text": "复制链接"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "qr",
+        "text": "二维码"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "bio",
+        "text": "简历"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "message",
+        "text": "艺术家寄语"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "books",
+        "text": "著作"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "channel",
+        "text": "ATSPECT频道"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "works",
+        "text": "在售作品"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "works_intro1",
+        "text": "点击作品图片即可放大查看。"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "works_intro2",
+        "text": "价格与详情请见作品页面。"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "zoom_hint",
+        "text": "＋ 放大查看"
+      },
+      {
+        "tag": "A",
+        "i18nKey": "worklink",
+        "text": "前往作品页（价格・详情）→"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "zoom_hint",
+        "text": "＋ 放大查看"
+      },
+      {
+        "tag": "A",
+        "i18nKey": "worklink",
+        "text": "前往作品页（价格・详情）→"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "zoom_hint",
+        "text": "＋ 放大查看"
+      },
+      {
+        "tag": "A",
+        "i18nKey": "worklink",
+        "text": "前往作品页（价格・详情）→"
+      },
+      {
+        "tag": "BUTTON",
+        "i18nKey": "totop",
+        "text": "▲ 返回页首"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "copyr",
+        "text": "禁止擅自转载或复制本页作品图片与文字。"
+      }
+    ],
+    "prof": [],
+    "secKeys": {
+      "born": {
+        "text": "出生",
+        "visible": true
+      },
+      "origin": {
+        "text": "出身",
+        "visible": true
+      },
+      "pagelink": {
+        "text": "艺术家页面链接",
+        "visible": true
+      },
+      "copy": {
+        "text": "复制链接",
+        "visible": true
+      },
+      "qr": {
+        "text": "二维码",
+        "visible": true
+      },
+      "bio": {
+        "text": "简历",
+        "visible": true
+      },
+      "viewpoint": {
+        "text": "成就",
+        "visible": false
+      },
+      "message": {
+        "text": "艺术家寄语",
+        "visible": true
+      },
+      "books": {
+        "text": "著作",
+        "visible": true
+      },
+      "channel": {
+        "text": "ATSPECT频道",
+        "visible": true
+      },
+      "works": {
+        "text": "在售作品",
+        "visible": true
+      },
+      "works_intro1": {
+        "text": "点击作品图片即可放大查看。",
+        "visible": true
+      },
+      "works_intro2": {
+        "text": "价格与详情请见作品页面。",
+        "visible": true
+      },
+      "zoom_hint": {
+        "text": "＋ 放大查看",
+        "visible": true
+      },
+      "worklink": {
+        "text": "前往作品页（价格・详情）→",
+        "visible": true
+      },
+      "totop": {
+        "text": "▲ 返回页首",
+        "visible": true
+      },
+      "copyr": {
+        "text": "禁止擅自转载或复制本页作品图片与文字。",
+        "visible": true
+      },
+      "view_work": {
+        "text": "前往作品页（价格・详情）→",
+        "visible": false
+      },
+      "qr_cap": {
+        "text": "用手机扫描即可打开此页面",
+        "visible": false
+      },
+      "qr_dl": {
+        "text": "下载PNG",
+        "visible": false
+      },
+      "qr_print": {
+        "text": "打印",
+        "visible": false
+      }
+    },
+    "bodyBlocksVisible": [
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 142939,
+        "head": "window.ATSPECT = window.ATSPECT || {}; (function(){ var BASE"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 181,
+        "head": "生于埼玉县。毕业于日本大学理工学部药学科后，转而走上造型创作的道路。师从造型艺术家友永诏三、雕塑家细井良雄、木雕家牧田裕"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 75,
+        "head": "我雕刻的，是动物、孩子这些惹人怜爱的生命。木头给了我力量，我也在作品里得到了抚慰。 愿把一缕爱的光送到更多人心里。创作时"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      }
+    ],
+    "bodyBlocksCount": 33,
+    "bodyChars": 2202,
+    "fullText": "跳至主要内容\n简体中文\n艺术家与作品\n作品捐赠\n关于\n联系我们\n\n雕塑\n\n鈴木 千賀子\n\nSuzuki Chikako\n\n造型艺术家\n\n出生1949　／　出身埼玉县\n\n以造型寄托祈愿，雕刻心爱的动物\n\n祈りの造形・愛しき動物たち\n\n艺术家页面链接\n\n复制链接\n二维码\n\nSumo: Rabbit and Frog\n\n桧木、彩色、金属箔；高23 × 宽30 × 深20厘米\n\n简历\n生于埼玉县。毕业于日本大学理工学部药学科后，转而走上造型创作的道路。师从造型艺术家友永诏三、雕塑家细井良雄、木雕家牧田裕次郎。又在国立剧场师从菱田宏治、名越诏司，先从事文乐人偶的床山（负责为人偶梳头、结发的工作），后修习人偶头部的制作。曾任创型会会友，目前未加入任何团体，持续创作至今。曾在日本桥高岛屋、京王广场酒店大堂画廊、埼玉县立近代美术馆等地多次举办个展。\n艺术家寄语\n我雕刻的，是动物、孩子这些惹人怜爱的生命。木头给了我力量，我也在作品里得到了抚慰。\n愿把一缕爱的光送到更多人心里。创作时，我心里始终装着对和平的祈愿。\n著作\n『メルヘン動物』（グラフ社）\nMeruhen Dōbutsu (Gurafu-sha)\nFairy-Tale Animals (Gurafu-sha)\n『くつ下で作るストッキング人形』（ブティック社）\nKutsushita de Tsukuru Sutokkingu Ningyō (Butikku-sha)\nStocking Dolls Made with Socks (Butikku-sha)\n『愛の光 祈りの造形・愛しき動物たち 鈴木千賀子作品集』（美術年鑑社）\nAi no Hikari: Inori no Zōkei, Itoshiki Dōbutsu-tachi — Suzuki Chikako Sakuhinshū (Bijutsu Nenkan-sha)\nLight of Love: Forms of Prayer and Beloved Animals — Works of Chikako Suzuki (Bijutsu Nenkan-sha)\n『立体で見る鳥獣戯画 木と土と布から生まれた鳥獣戯画』（美術年鑑社）\nRittai de Miru Chōjū Giga: Ki to Tsuchi to Nuno kara Umareta Chōjū Giga (Bijutsu Nenkan-sha)\nChōjū Giga in Three Dimensions: Born from Wood, Clay, and Cloth (Bijutsu Nenkan-sha)\n『鈴木千賀子の世界 ひとすじの愛の光』（美術年鑑社）\nSuzuki Chikako no Sekai: Hitosuji no Ai no Hikari (Bijutsu Nenkan-sha)\nThe World of Chikako Suzuki: A Single Ray of Loving Light (Bijutsu Nenkan-sha)\n『立体で見る宮沢賢治の童話世界』（美術年鑑社）\nRittai de Miru Miyazawa Kenji no Dōwa Sekai (Bijutsu Nenkan-sha)\nThe Fairy-Tale World of Miyazawa Kenji in Three Dimensions (Bijutsu Nenkan-sha)\nATSPECT频道\n在售作品\n\n点击作品图片即可放大查看。\n价格与详情请见作品页面。\n\n加入收藏\n＋ 放大查看\n\n《Frog Buddha》\n\n桧木・彩色・金箔；高24×宽30×深25厘米\n\n前往作品页（价格・详情）→\n加入收藏\n＋ 放大查看\n\n《A Lively Race》\n\n桧木・彩色・金箔；高28×宽25×深15厘米\n\n前往作品页（价格・详情）→\n加入收藏\n＋ 放大查看\n\n《Boat Music》\n\n巴尔沙木・彩色・金箔；高23×宽53×深23厘米\n\n前往作品页（价格・详情）→\n▲ 返回页首\n\n禁止擅自转载或复制本页作品图片与文字。\n© ARTS RESPECT Co., Ltd.\n\n﻿\n常见问题\n媒体\n隐私政策\n基于特定商业交易法的标示\n基于旧物营业法的标示\n\n以各语言呈现。\n\nLANGUAGE ／ 言語\n日本語\nEnglish\n简体中文\n繁體中文\n한국어\nFrançais\nEspañol\nDeutsch\n\nNEWSLETTER\n\n及时获取来自 ATSPECT 的最新资讯。\n\n订阅\n\nARTS RESPECT Co., Ltd. — 8-6-202 Nihonbashi-Kobunacho, Chuo-ku, Tokyo 103-0024, Japan\n\n联系我们\n\nSecondhand dealer license: ARTS RESPECT Co., Ltd. — Tokyo Metropolitan Public Safety Commission No. 301042617547\n\nOPERATED BY\n\n© 2026 ARTS RESPECT Co., Ltd. All Rights Reserved.\n\n是否继续以此语言浏览本站？\n保存此语言\n×\nTOP"
+  },
+  {
+    "handle": "suzuki-chikako",
+    "note": "現存・唯一の登録作家（メッセージ/著書/代表作画像/チャンネルあり・代表作/収蔵先/団体は空）",
+    "lang": "zh-tw",
+    "url": "https://atspect.com/pages/artist/suzuki-chikako?lang=zh-tw",
+    "title": "鈴木 千賀子（Suzuki Chikako）｜ATSPECT",
+    "h1": "鈴木 千賀子",
+    "order": [
+      {
+        "tag": "H1",
+        "i18nKey": null,
+        "text": "鈴木 千賀子"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "born",
+        "text": "出生"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "origin",
+        "text": "出身"
+      },
+      {
+        "tag": "P",
+        "i18nKey": "pagelink",
+        "text": "藝術家頁面連結"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "copy",
+        "text": "複製連結"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "qr",
+        "text": "QR碼"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "bio",
+        "text": "簡歷"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "message",
+        "text": "藝術家寄語"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "books",
+        "text": "著作"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "channel",
+        "text": "ATSPECT頻道"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "works",
+        "text": "在售作品"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "works_intro1",
+        "text": "點擊作品圖片即可放大檢視。"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "works_intro2",
+        "text": "價格與詳情請見作品頁面。"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "zoom_hint",
+        "text": "＋ 放大檢視"
+      },
+      {
+        "tag": "A",
+        "i18nKey": "worklink",
+        "text": "前往作品頁（價格・詳情）→"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "zoom_hint",
+        "text": "＋ 放大檢視"
+      },
+      {
+        "tag": "A",
+        "i18nKey": "worklink",
+        "text": "前往作品頁（價格・詳情）→"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "zoom_hint",
+        "text": "＋ 放大檢視"
+      },
+      {
+        "tag": "A",
+        "i18nKey": "worklink",
+        "text": "前往作品頁（價格・詳情）→"
+      },
+      {
+        "tag": "BUTTON",
+        "i18nKey": "totop",
+        "text": "▲ 返回頁首"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "copyr",
+        "text": "禁止擅自轉載或複製本頁作品圖片與文字。"
+      }
+    ],
+    "prof": [],
+    "secKeys": {
+      "born": {
+        "text": "出生",
+        "visible": true
+      },
+      "origin": {
+        "text": "出身",
+        "visible": true
+      },
+      "pagelink": {
+        "text": "藝術家頁面連結",
+        "visible": true
+      },
+      "copy": {
+        "text": "複製連結",
+        "visible": true
+      },
+      "qr": {
+        "text": "QR碼",
+        "visible": true
+      },
+      "bio": {
+        "text": "簡歷",
+        "visible": true
+      },
+      "viewpoint": {
+        "text": "成就",
+        "visible": false
+      },
+      "message": {
+        "text": "藝術家寄語",
+        "visible": true
+      },
+      "books": {
+        "text": "著作",
+        "visible": true
+      },
+      "channel": {
+        "text": "ATSPECT頻道",
+        "visible": true
+      },
+      "works": {
+        "text": "在售作品",
+        "visible": true
+      },
+      "works_intro1": {
+        "text": "點擊作品圖片即可放大檢視。",
+        "visible": true
+      },
+      "works_intro2": {
+        "text": "價格與詳情請見作品頁面。",
+        "visible": true
+      },
+      "zoom_hint": {
+        "text": "＋ 放大檢視",
+        "visible": true
+      },
+      "worklink": {
+        "text": "前往作品頁（價格・詳情）→",
+        "visible": true
+      },
+      "totop": {
+        "text": "▲ 返回頁首",
+        "visible": true
+      },
+      "copyr": {
+        "text": "禁止擅自轉載或複製本頁作品圖片與文字。",
+        "visible": true
+      },
+      "view_work": {
+        "text": "前往作品頁（價格・詳情）→",
+        "visible": false
+      },
+      "qr_cap": {
+        "text": "用手機掃描即可開啟此頁面",
+        "visible": false
+      },
+      "qr_dl": {
+        "text": "下載PNG",
+        "visible": false
+      },
+      "qr_print": {
+        "text": "列印",
+        "visible": false
+      }
+    },
+    "bodyBlocksVisible": [
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 142939,
+        "head": "window.ATSPECT = window.ATSPECT || {}; (function(){ var BASE"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 181,
+        "head": "生於埼玉縣。畢業於日本大學理工學部藥學科後，轉而走上造型創作的道路。師從造型藝術家友永詔三、雕塑家細井良雄、木雕家牧田裕"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 75,
+        "head": "我雕刻的，是動物、孩子這些惹人憐愛的生命。木頭給了我力量，我也在作品裡得到了撫慰。 願把一縷愛的光送到更多人心裡。創作時"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      }
+    ],
+    "bodyBlocksCount": 33,
+    "bodyChars": 2203,
+    "fullText": "跳至主要內容\n繁體中文\n藝術家與作品\n作品捐贈\n關於\n聯繫我們\n\n雕塑\n\n鈴木 千賀子\n\nSuzuki Chikako\n\n造型藝術家\n\n出生1949　／　出身埼玉縣\n\n以造型寄託祈願，雕刻心愛的動物\n\n祈りの造形・愛しき動物たち\n\n藝術家頁面連結\n\n複製連結\nQR碼\n\nSumo: Rabbit and Frog\n\n檜木、彩色、金屬箔；高23 × 寬30 × 深20公分\n\n簡歷\n生於埼玉縣。畢業於日本大學理工學部藥學科後，轉而走上造型創作的道路。師從造型藝術家友永詔三、雕塑家細井良雄、木雕家牧田裕次郎。又於國立劇場師從菱田宏治、名越詔司，先從事文樂人偶的床山（負責為人偶梳頭、結髮的工作），後修習人偶頭部的製作。曾任創型會會友，目前未加入任何團體，持續創作至今。曾在日本橋高島屋、京王廣場飯店大廳藝廊、埼玉縣立近代美術館等地多次舉辦個展。\n藝術家寄語\n我雕刻的，是動物、孩子這些惹人憐愛的生命。木頭給了我力量，我也在作品裡得到了撫慰。\n願把一縷愛的光送到更多人心裡。創作時，我心裡始終裝著對和平的祈願。\n著作\n『メルヘン動物』（グラフ社）\nMeruhen Dōbutsu (Gurafu-sha)\nFairy-Tale Animals (Gurafu-sha)\n『くつ下で作るストッキング人形』（ブティック社）\nKutsushita de Tsukuru Sutokkingu Ningyō (Butikku-sha)\nStocking Dolls Made with Socks (Butikku-sha)\n『愛の光 祈りの造形・愛しき動物たち 鈴木千賀子作品集』（美術年鑑社）\nAi no Hikari: Inori no Zōkei, Itoshiki Dōbutsu-tachi — Suzuki Chikako Sakuhinshū (Bijutsu Nenkan-sha)\nLight of Love: Forms of Prayer and Beloved Animals — Works of Chikako Suzuki (Bijutsu Nenkan-sha)\n『立体で見る鳥獣戯画 木と土と布から生まれた鳥獣戯画』（美術年鑑社）\nRittai de Miru Chōjū Giga: Ki to Tsuchi to Nuno kara Umareta Chōjū Giga (Bijutsu Nenkan-sha)\nChōjū Giga in Three Dimensions: Born from Wood, Clay, and Cloth (Bijutsu Nenkan-sha)\n『鈴木千賀子の世界 ひとすじの愛の光』（美術年鑑社）\nSuzuki Chikako no Sekai: Hitosuji no Ai no Hikari (Bijutsu Nenkan-sha)\nThe World of Chikako Suzuki: A Single Ray of Loving Light (Bijutsu Nenkan-sha)\n『立体で見る宮沢賢治の童話世界』（美術年鑑社）\nRittai de Miru Miyazawa Kenji no Dōwa Sekai (Bijutsu Nenkan-sha)\nThe Fairy-Tale World of Miyazawa Kenji in Three Dimensions (Bijutsu Nenkan-sha)\nATSPECT頻道\n在售作品\n\n點擊作品圖片即可放大檢視。\n價格與詳情請見作品頁面。\n\n加入收藏\n＋ 放大檢視\n\n《Frog Buddha》\n\n檜木・彩色・金箔；高24×寬30×深25cm\n\n前往作品頁（價格・詳情）→\n加入收藏\n＋ 放大檢視\n\n《A Lively Race》\n\n檜木・彩色・金箔；高28×寬25×深15cm\n\n前往作品頁（價格・詳情）→\n加入收藏\n＋ 放大檢視\n\n《Boat Music》\n\n巴爾沙木・彩色・金箔；高23×寬53×深23cm\n\n前往作品頁（價格・詳情）→\n▲ 返回頁首\n\n禁止擅自轉載或複製本頁作品圖片與文字。\n© ARTS RESPECT Co., Ltd.\n\n﻿\n常見問題\n媒體\n隱私權政策\n基於特定商業交易法之標示\n基於舊物營業法的標示\n\n以各語言呈現。\n\nLANGUAGE ／ 言語\n日本語\nEnglish\n简体中文\n繁體中文\n한국어\nFrançais\nEspañol\nDeutsch\n\nNEWSLETTER\n\n即時掌握來自 ATSPECT 的最新資訊。\n\n訂閱\n\nARTS RESPECT Co., Ltd. — 8-6-202 Nihonbashi-Kobunacho, Chuo-ku, Tokyo 103-0024, Japan\n\n聯絡我們\n\nSecondhand dealer license: ARTS RESPECT Co., Ltd. — Tokyo Metropolitan Public Safety Commission No. 301042617547\n\nOPERATED BY\n\n© 2026 ARTS RESPECT Co., Ltd. All Rights Reserved.\n\n是否繼續以此語言瀏覽本站？\n保存此語言\n×\nTOP"
+  },
+  {
+    "handle": "suzuki-chikako",
+    "note": "現存・唯一の登録作家（メッセージ/著書/代表作画像/チャンネルあり・代表作/収蔵先/団体は空）",
+    "lang": "ko",
+    "url": "https://atspect.com/pages/artist/suzuki-chikako?lang=ko",
+    "title": "鈴木 千賀子（Suzuki Chikako）｜ATSPECT",
+    "h1": "鈴木 千賀子",
+    "order": [
+      {
+        "tag": "H1",
+        "i18nKey": null,
+        "text": "鈴木 千賀子"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "born",
+        "text": "출생"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "origin",
+        "text": "출신"
+      },
+      {
+        "tag": "P",
+        "i18nKey": "pagelink",
+        "text": "작가 페이지 링크"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "copy",
+        "text": "링크 복사"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "qr",
+        "text": "QR 코드"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "bio",
+        "text": "약력"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "message",
+        "text": "작가의 말"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "books",
+        "text": "저서"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "channel",
+        "text": "ATSPECT 채널"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "works",
+        "text": "판매 작품"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "works_intro1",
+        "text": "작품 이미지를 클릭하면 확대해서 보실 수 있습니다."
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "works_intro2",
+        "text": "가격과 상세 안내는 작품 페이지에서 확인하실 수 있습니다."
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "zoom_hint",
+        "text": "＋ 확대해서 보기"
+      },
+      {
+        "tag": "A",
+        "i18nKey": "worklink",
+        "text": "작품 페이지로 (가격・상세) →"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "zoom_hint",
+        "text": "＋ 확대해서 보기"
+      },
+      {
+        "tag": "A",
+        "i18nKey": "worklink",
+        "text": "작품 페이지로 (가격・상세) →"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "zoom_hint",
+        "text": "＋ 확대해서 보기"
+      },
+      {
+        "tag": "A",
+        "i18nKey": "worklink",
+        "text": "작품 페이지로 (가격・상세) →"
+      },
+      {
+        "tag": "BUTTON",
+        "i18nKey": "totop",
+        "text": "▲ 맨 위로"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "copyr",
+        "text": "게재 작품의 이미지와 글의 무단 전재 및 복제를 금합니다."
+      }
+    ],
+    "prof": [],
+    "secKeys": {
+      "born": {
+        "text": "출생",
+        "visible": true
+      },
+      "origin": {
+        "text": "출신",
+        "visible": true
+      },
+      "pagelink": {
+        "text": "작가 페이지 링크",
+        "visible": true
+      },
+      "copy": {
+        "text": "링크 복사",
+        "visible": true
+      },
+      "qr": {
+        "text": "QR 코드",
+        "visible": true
+      },
+      "bio": {
+        "text": "약력",
+        "visible": true
+      },
+      "viewpoint": {
+        "text": "업적",
+        "visible": false
+      },
+      "message": {
+        "text": "작가의 말",
+        "visible": true
+      },
+      "books": {
+        "text": "저서",
+        "visible": true
+      },
+      "channel": {
+        "text": "ATSPECT 채널",
+        "visible": true
+      },
+      "works": {
+        "text": "판매 작품",
+        "visible": true
+      },
+      "works_intro1": {
+        "text": "작품 이미지를 클릭하면 확대해서 보실 수 있습니다.",
+        "visible": true
+      },
+      "works_intro2": {
+        "text": "가격과 상세 안내는 작품 페이지에서 확인하실 수 있습니다.",
+        "visible": true
+      },
+      "zoom_hint": {
+        "text": "＋ 확대해서 보기",
+        "visible": true
+      },
+      "worklink": {
+        "text": "작품 페이지로 (가격・상세) →",
+        "visible": true
+      },
+      "totop": {
+        "text": "▲ 맨 위로",
+        "visible": true
+      },
+      "copyr": {
+        "text": "게재 작품의 이미지와 글의 무단 전재 및 복제를 금합니다.",
+        "visible": true
+      },
+      "view_work": {
+        "text": "작품 페이지로 (가격・상세) →",
+        "visible": false
+      },
+      "qr_cap": {
+        "text": "휴대폰으로 스캔하면 이 페이지가 열립니다",
+        "visible": false
+      },
+      "qr_dl": {
+        "text": "PNG 다운로드",
+        "visible": false
+      },
+      "qr_print": {
+        "text": "인쇄",
+        "visible": false
+      }
+    },
+    "bodyBlocksVisible": [
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 143065,
+        "head": "window.ATSPECT = window.ATSPECT || {}; (function(){ var BASE"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 317,
+        "head": "사이타마현 출생. 니혼대학 이공학부 약학과를 졸업한 뒤 조형의 길로 들어섰다. 조형 작가 도모나가 쇼조(友永"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 137,
+        "head": "제가 새기는 것은 동물이나 아이처럼 사랑스러운 존재들입니다. 나무에서 힘을 얻으며, 제가 만든 작품을 통해 "
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      }
+    ],
+    "bodyBlocksCount": 33,
+    "bodyChars": 2570,
+    "fullText": "본문으로 건너뛰기\n한국어\n작가·작품\n작품 기증\n소개\n문의\n\n조각\n\n鈴木 千賀子\n\nSuzuki Chikako\n\n조형 작가\n\n출생1949　／　출신사이타마현\n\n기도의 조형과 사랑스러운 동물들\n\n祈りの造形・愛しき動物たち\n\n작가 페이지 링크\n\n링크 복사\nQR 코드\n\nSumo: Rabbit and Frog\n\n히노키(편백나무), 채색, 금속박; H 23 × W 30 × D 20 cm\n\n약력\n사이타마현 출생. 니혼대학 이공학부 약학과를 졸업한 뒤 조형의 길로 들어섰다. 조형 작가 도모나가 쇼조(友永詔三), 조각가 호소이 요시오(細井良雄), 목조각가 마키타 유지로(牧田裕次郎)에게 배웠다. 국립극장(国立劇場)에서는 菱田宏治, 名越詔司에게 배웠다. 분라쿠 인형의 머리와 가발을 손질하는 도코야마(床山)를 거쳐, 인형의 머리(가시라) 제작을 익혔다. 창형회(創型会) 회우를 거쳐 지금은 어느 단체에도 속하지 않고 작업을 이어가고 있다. 니혼바시 다카시마야(日本橋髙島屋), 게이오 플라자 호텔 로비 갤러리, 사이타마현립근대미술관 등에서 여러 차례 개인전을 열었다.\n작가의 말\n제가 새기는 것은 동물이나 아이처럼 사랑스러운 존재들입니다. 나무에서 힘을 얻으며, 제가 만든 작품을 통해 저 또한 위로를 받아 왔습니다.\n한 줄기 사랑의 빛을 더 많은 사람의 마음에 전하고 싶습니다. 평화를 향한 기도를 담아 창작하고 있습니다.\n저서\n『メルヘン動物』（グラフ社）\nMeruhen Dōbutsu (Gurafu-sha)\nFairy-Tale Animals (Gurafu-sha)\n『くつ下で作るストッキング人形』（ブティック社）\nKutsushita de Tsukuru Sutokkingu Ningyō (Butikku-sha)\nStocking Dolls Made with Socks (Butikku-sha)\n『愛の光 祈りの造形・愛しき動物たち 鈴木千賀子作品集』（美術年鑑社）\nAi no Hikari: Inori no Zōkei, Itoshiki Dōbutsu-tachi — Suzuki Chikako Sakuhinshū (Bijutsu Nenkan-sha)\nLight of Love: Forms of Prayer and Beloved Animals — Works of Chikako Suzuki (Bijutsu Nenkan-sha)\n『立体で見る鳥獣戯画 木と土と布から生まれた鳥獣戯画』（美術年鑑社）\nRittai de Miru Chōjū Giga: Ki to Tsuchi to Nuno kara Umareta Chōjū Giga (Bijutsu Nenkan-sha)\nChōjū Giga in Three Dimensions: Born from Wood, Clay, and Cloth (Bijutsu Nenkan-sha)\n『鈴木千賀子の世界 ひとすじの愛の光』（美術年鑑社）\nSuzuki Chikako no Sekai: Hitosuji no Ai no Hikari (Bijutsu Nenkan-sha)\nThe World of Chikako Suzuki: A Single Ray of Loving Light (Bijutsu Nenkan-sha)\n『立体で見る宮沢賢治の童話世界』（美術年鑑社）\nRittai de Miru Miyazawa Kenji no Dōwa Sekai (Bijutsu Nenkan-sha)\nThe Fairy-Tale World of Miyazawa Kenji in Three Dimensions (Bijutsu Nenkan-sha)\nATSPECT 채널\n판매 작품\n\n작품 이미지를 클릭하면 확대해서 보실 수 있습니다.\n가격과 상세 안내는 작품 페이지에서 확인하실 수 있습니다.\n\n즐겨찾기에 추가\n＋ 확대해서 보기\n\n《Frog Buddha》\n\n히노키(편백나무)・채색・금박; H 24 × W 30 × D 25 cm\n\n작품 페이지로 (가격・상세) →\n즐겨찾기에 추가\n＋ 확대해서 보기\n\n《A Lively Race》\n\n히노키(편백나무)・채색・금박; H 28 × W 25 × D 15 cm\n\n작품 페이지로 (가격・상세) →\n즐겨찾기에 추가\n＋ 확대해서 보기\n\n《Boat Music》\n\n발사 나무・채색・금박; H 23 × W 53 × D 23 cm\n\n작품 페이지로 (가격・상세) →\n▲ 맨 위로\n\n게재 작품의 이미지와 글의 무단 전재 및 복제를 금합니다.\n© ARTS RESPECT Co., Ltd.\n\n﻿\n자주 묻는 질문\n프레스\n개인정보 처리방침\n특정상거래법에 따른 표시\n고물영업법에 따른 표시\n\n모든 언어로.\n\nLANGUAGE ／ 言語\n日本語\nEnglish\n简体中文\n繁體中文\n한국어\nFrançais\nEspañol\nDeutsch\n\nNEWSLETTER\n\nATSPECT의 최신 소식을 받아보세요.\n\n구독하기\n\nARTS RESPECT Co., Ltd. — 8-6-202 Nihonbashi-Kobunacho, Chuo-ku, Tokyo 103-0024, Japan\n\n문의하기\n\nSecondhand dealer license: ARTS RESPECT Co., Ltd. — Tokyo Metropolitan Public Safety Commission No. 301042617547\n\nOPERATED BY\n\n© 2026 ARTS RESPECT Co., Ltd. All Rights Reserved.\n\n이 언어로 계속 보시겠습니까?\n이 언어로 저장\n×\nTOP"
+  },
+  {
+    "handle": "suzuki-chikako",
+    "note": "現存・唯一の登録作家（メッセージ/著書/代表作画像/チャンネルあり・代表作/収蔵先/団体は空）",
+    "lang": "fr",
+    "url": "https://atspect.com/pages/artist/suzuki-chikako?lang=fr",
+    "title": "鈴木 千賀子（Suzuki Chikako）｜ATSPECT",
+    "h1": "鈴木 千賀子",
+    "order": [
+      {
+        "tag": "H1",
+        "i18nKey": null,
+        "text": "鈴木 千賀子"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "born",
+        "text": "Naissance"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "origin",
+        "text": "Origine"
+      },
+      {
+        "tag": "P",
+        "i18nKey": "pagelink",
+        "text": "Lien vers la page de l'artiste"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "copy",
+        "text": "Copier le lien"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "qr",
+        "text": "Code QR"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "bio",
+        "text": "Biographie"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "message",
+        "text": "Mot de l’artiste"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "books",
+        "text": "Publications"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "channel",
+        "text": "Chaîne ATSPECT"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "works",
+        "text": "Œuvres à vendre"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "works_intro1",
+        "text": "Cliquez sur une image pour l'agrandir."
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "works_intro2",
+        "text": "Prix et détails sur la page de chaque œuvre."
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "zoom_hint",
+        "text": "＋ Agrandir"
+      },
+      {
+        "tag": "A",
+        "i18nKey": "worklink",
+        "text": "Voir l'œuvre (prix et détails) →"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "zoom_hint",
+        "text": "＋ Agrandir"
+      },
+      {
+        "tag": "A",
+        "i18nKey": "worklink",
+        "text": "Voir l'œuvre (prix et détails) →"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "zoom_hint",
+        "text": "＋ Agrandir"
+      },
+      {
+        "tag": "A",
+        "i18nKey": "worklink",
+        "text": "Voir l'œuvre (prix et détails) →"
+      },
+      {
+        "tag": "BUTTON",
+        "i18nKey": "totop",
+        "text": "▲ Haut de page"
+      }
+    ],
+    "prof": [],
+    "secKeys": {
+      "born": {
+        "text": "Naissance",
+        "visible": true
+      },
+      "origin": {
+        "text": "Origine",
+        "visible": true
+      },
+      "pagelink": {
+        "text": "Lien vers la page de l'artiste",
+        "visible": true
+      },
+      "copy": {
+        "text": "Copier le lien",
+        "visible": true
+      },
+      "qr": {
+        "text": "Code QR",
+        "visible": true
+      },
+      "bio": {
+        "text": "Biographie",
+        "visible": true
+      },
+      "viewpoint": {
+        "text": "Postérité",
+        "visible": false
+      },
+      "message": {
+        "text": "Mot de l’artiste",
+        "visible": true
+      },
+      "books": {
+        "text": "Publications",
+        "visible": true
+      },
+      "channel": {
+        "text": "Chaîne ATSPECT",
+        "visible": true
+      },
+      "works": {
+        "text": "Œuvres à vendre",
+        "visible": true
+      },
+      "works_intro1": {
+        "text": "Cliquez sur une image pour l'agrandir.",
+        "visible": true
+      },
+      "works_intro2": {
+        "text": "Prix et détails sur la page de chaque œuvre.",
+        "visible": true
+      },
+      "zoom_hint": {
+        "text": "＋ Agrandir",
+        "visible": true
+      },
+      "worklink": {
+        "text": "Voir l'œuvre (prix et détails) →",
+        "visible": true
+      },
+      "totop": {
+        "text": "▲ Haut de page",
+        "visible": true
+      },
+      "copyr": {
+        "text": "Toute reproduction non autorisée des images et des textes est interdite.",
+        "visible": true
+      },
+      "view_work": {
+        "text": "Voir l'œuvre (prix et détails) →",
+        "visible": false
+      },
+      "qr_cap": {
+        "text": "Scannez avec votre téléphone pour ouvrir cette page",
+        "visible": false
+      },
+      "qr_dl": {
+        "text": "Télécharger le PNG",
+        "visible": false
+      },
+      "qr_print": {
+        "text": "Imprimer",
+        "visible": false
+      }
+    },
+    "bodyBlocksVisible": [
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 143581,
+        "head": "window.ATSPECT = window.ATSPECT || {}; (function(){ var BASE"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 806,
+        "head": "Née dans la préfecture de Saitama. Après des études de pharm"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 282,
+        "head": "Ce que je sculpte, ce sont des êtres attendrissants — des an"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      }
+    ],
+    "bodyBlocksCount": 33,
+    "bodyChars": 3880,
+    "fullText": "ALLER AU CONTENU\nFrançais\nARTISTES ET ŒUVRES\nDONS D’ŒUVRES D’ART\nÀ PROPOS\nCONTACT\n\nSculpture\n\n鈴木 千賀子\n\nSuzuki Chikako\n\nArtiste plasticienne\n\nNaissance1949　／　Originepréfecture de Saitama\n\nFormes de prière et animaux bien-aimés\n\n祈りの造形・愛しき動物たち\n\nLIEN VERS LA PAGE DE L'ARTISTE\n\nCopier le lien\nCode QR\n\nSumo: Rabbit and Frog\n\nCyprès japonais (hinoki), polychromie, feuille métallique ; H 23 × L 30 × P 20 cm\n\nBiographie\nNée dans la préfecture de Saitama. Après des études de pharmacie à la faculté des sciences et technologies de l'université Nihon, elle s'est tournée vers les arts plastiques. Elle s'est formée auprès de l'artiste plasticien Shōzō Tomonaga, du sculpteur Yoshio Hosoi et du sculpteur sur bois Yūjirō Makita. Au Théâtre national du Japon, elle a été formée par 菱田宏治 et 名越詔司, d'abord au métier de tokoyama, qui consiste à coiffer et à entretenir les perruques des marionnettes de bunraku, puis à la fabrication des têtes de marionnettes (kashira). Ancienne membre associée du Sōkei-kai, elle travaille aujourd'hui en indépendante. Elle a exposé à de nombreuses reprises en solo, notamment au grand magasin Nihonbashi Takashimaya, à la galerie du hall de l'hôtel Keio Plaza et au musée d'art moderne de Saitama.\nMot de l’artiste\nCe que je sculpte, ce sont des êtres attendrissants — des animaux, des enfants. Le bois me donne sa force, et mes œuvres m'ont apaisée, moi aussi.\nJe voudrais qu'un rayon de la lumière de l'amour atteigne le cœur du plus grand nombre. C'est avec une prière pour la paix que je crée.\nPublications\n『メルヘン動物』（グラフ社）\nMeruhen Dōbutsu (Gurafu-sha)\nFairy-Tale Animals (Gurafu-sha)\n『くつ下で作るストッキング人形』（ブティック社）\nKutsushita de Tsukuru Sutokkingu Ningyō (Butikku-sha)\nStocking Dolls Made with Socks (Butikku-sha)\n『愛の光 祈りの造形・愛しき動物たち 鈴木千賀子作品集』（美術年鑑社）\nAi no Hikari: Inori no Zōkei, Itoshiki Dōbutsu-tachi — Suzuki Chikako Sakuhinshū (Bijutsu Nenkan-sha)\nLight of Love: Forms of Prayer and Beloved Animals — Works of Chikako Suzuki (Bijutsu Nenkan-sha)\n『立体で見る鳥獣戯画 木と土と布から生まれた鳥獣戯画』（美術年鑑社）\nRittai de Miru Chōjū Giga: Ki to Tsuchi to Nuno kara Umareta Chōjū Giga (Bijutsu Nenkan-sha)\nChōjū Giga in Three Dimensions: Born from Wood, Clay, and Cloth (Bijutsu Nenkan-sha)\n『鈴木千賀子の世界 ひとすじの愛の光』（美術年鑑社）\nSuzuki Chikako no Sekai: Hitosuji no Ai no Hikari (Bijutsu Nenkan-sha)\nThe World of Chikako Suzuki: A Single Ray of Loving Light (Bijutsu Nenkan-sha)\n『立体で見る宮沢賢治の童話世界』（美術年鑑社）\nRittai de Miru Miyazawa Kenji no Dōwa Sekai (Bijutsu Nenkan-sha)\nThe Fairy-Tale World of Miyazawa Kenji in Three Dimensions (Bijutsu Nenkan-sha)\nChaîne ATSPECT\nŒuvres à vendre\n\nCliquez sur une image pour l'agrandir.\n"
+  },
+  {
+    "handle": "suzuki-chikako",
+    "note": "現存・唯一の登録作家（メッセージ/著書/代表作画像/チャンネルあり・代表作/収蔵先/団体は空）",
+    "lang": "es",
+    "url": "https://atspect.com/pages/artist/suzuki-chikako?lang=es",
+    "title": "鈴木 千賀子（Suzuki Chikako）｜ATSPECT",
+    "h1": "鈴木 千賀子",
+    "order": [
+      {
+        "tag": "H1",
+        "i18nKey": null,
+        "text": "鈴木 千賀子"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "born",
+        "text": "Nacimiento"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "origin",
+        "text": "Origen"
+      },
+      {
+        "tag": "P",
+        "i18nKey": "pagelink",
+        "text": "Enlace a la página del artista"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "copy",
+        "text": "Copiar enlace"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "qr",
+        "text": "Código QR"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "bio",
+        "text": "Biografía"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "message",
+        "text": "Mensaje del artista"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "books",
+        "text": "Publicaciones"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "channel",
+        "text": "Canal ATSPECT"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "works",
+        "text": "Obras en venta"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "works_intro1",
+        "text": "Haga clic en una imagen para ampliarla."
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "works_intro2",
+        "text": "Precio y detalles en la página de cada obra."
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "zoom_hint",
+        "text": "＋ Ampliar"
+      },
+      {
+        "tag": "A",
+        "i18nKey": "worklink",
+        "text": "Ver la obra (precio y detalles) →"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "zoom_hint",
+        "text": "＋ Ampliar"
+      },
+      {
+        "tag": "A",
+        "i18nKey": "worklink",
+        "text": "Ver la obra (precio y detalles) →"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "zoom_hint",
+        "text": "＋ Ampliar"
+      },
+      {
+        "tag": "A",
+        "i18nKey": "worklink",
+        "text": "Ver la obra (precio y detalles) →"
+      },
+      {
+        "tag": "BUTTON",
+        "i18nKey": "totop",
+        "text": "▲ Volver arriba"
+      }
+    ],
+    "prof": [],
+    "secKeys": {
+      "born": {
+        "text": "Nacimiento",
+        "visible": true
+      },
+      "origin": {
+        "text": "Origen",
+        "visible": true
+      },
+      "pagelink": {
+        "text": "Enlace a la página del artista",
+        "visible": true
+      },
+      "copy": {
+        "text": "Copiar enlace",
+        "visible": true
+      },
+      "qr": {
+        "text": "Código QR",
+        "visible": true
+      },
+      "bio": {
+        "text": "Biografía",
+        "visible": true
+      },
+      "viewpoint": {
+        "text": "Legado",
+        "visible": false
+      },
+      "message": {
+        "text": "Mensaje del artista",
+        "visible": true
+      },
+      "books": {
+        "text": "Publicaciones",
+        "visible": true
+      },
+      "channel": {
+        "text": "Canal ATSPECT",
+        "visible": true
+      },
+      "works": {
+        "text": "Obras en venta",
+        "visible": true
+      },
+      "works_intro1": {
+        "text": "Haga clic en una imagen para ampliarla.",
+        "visible": true
+      },
+      "works_intro2": {
+        "text": "Precio y detalles en la página de cada obra.",
+        "visible": true
+      },
+      "zoom_hint": {
+        "text": "＋ Ampliar",
+        "visible": true
+      },
+      "worklink": {
+        "text": "Ver la obra (precio y detalles) →",
+        "visible": true
+      },
+      "totop": {
+        "text": "▲ Volver arriba",
+        "visible": true
+      },
+      "copyr": {
+        "text": "Prohibida la reproducción no autorizada de imágenes y textos.",
+        "visible": true
+      },
+      "view_work": {
+        "text": "Ver la obra (precio y detalles) →",
+        "visible": false
+      },
+      "qr_cap": {
+        "text": "Escanee con su teléfono para abrir esta página",
+        "visible": false
+      },
+      "qr_dl": {
+        "text": "Descargar PNG",
+        "visible": false
+      },
+      "qr_print": {
+        "text": "Imprimir",
+        "visible": false
+      }
+    },
+    "bodyBlocksVisible": [
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 143549,
+        "head": "window.ATSPECT = window.ATSPECT || {}; (function(){ var BASE"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 759,
+        "head": "Nacida en la prefectura de Saitama. Tras estudiar Farmacia e"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 263,
+        "head": "Lo que tallo son seres entrañables, como animales y niños. L"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      }
+    ],
+    "bodyBlocksCount": 33,
+    "bodyChars": 3774,
+    "fullText": "IR AL CONTENIDO\nEspañol\nARTISTAS Y OBRAS\nDONACIONES\nNOSOTROS\nCONTACTO\n\nEscultura\n\n鈴木 千賀子\n\nSuzuki Chikako\n\nArtista plástica\n\nNacimiento1949　／　Origenprefectura de Saitama\n\nFormas de oración y animales entrañables\n\n祈りの造形・愛しき動物たち\n\nENLACE A LA PÁGINA DEL ARTISTA\n\nCopiar enlace\nCódigo QR\n\nSumo: Rabbit and Frog\n\nCiprés japonés (hinoki), policromía, pan de metal; 23 × 30 × 20 cm (alto × ancho × profundidad)\n\nBiografía\nNacida en la prefectura de Saitama. Tras estudiar Farmacia en la Facultad de Ciencias y Tecnología de la Universidad Nihon, se orientó hacia las artes plásticas. Se formó con el artista plástico Shōzō Tomonaga, el escultor Yoshio Hosoi y el tallista en madera Yūjirō Makita. En el Teatro Nacional de Japón se formó con 菱田宏治 y 名越詔司: primero en el oficio de tokoyama, que consiste en peinar y cuidar las pelucas de los títeres del bunraku, y después en la elaboración de las cabezas de los títeres (kashira). Tras ser miembro asociada del Sōkei-kai, hoy trabaja de forma independiente. Ha realizado numerosas exposiciones individuales, en espacios como Nihonbashi Takashimaya, la galería del vestíbulo del Keio Plaza Hotel y el Museo de Arte Moderno de Saitama.\nMensaje del artista\nLo que tallo son seres entrañables, como animales y niños. La madera me da su fuerza, y mis obras también me han reconfortado a mí.\nQuisiera que un rayo de la luz del amor llegue al corazón del mayor número posible de personas. Trabajo con una oración por la paz.\nPublicaciones\n『メルヘン動物』（グラフ社）\nMeruhen Dōbutsu (Gurafu-sha)\nFairy-Tale Animals (Gurafu-sha)\n『くつ下で作るストッキング人形』（ブティック社）\nKutsushita de Tsukuru Sutokkingu Ningyō (Butikku-sha)\nStocking Dolls Made with Socks (Butikku-sha)\n『愛の光 祈りの造形・愛しき動物たち 鈴木千賀子作品集』（美術年鑑社）\nAi no Hikari: Inori no Zōkei, Itoshiki Dōbutsu-tachi — Suzuki Chikako Sakuhinshū (Bijutsu Nenkan-sha)\nLight of Love: Forms of Prayer and Beloved Animals — Works of Chikako Suzuki (Bijutsu Nenkan-sha)\n『立体で見る鳥獣戯画 木と土と布から生まれた鳥獣戯画』（美術年鑑社）\nRittai de Miru Chōjū Giga: Ki to Tsuchi to Nuno kara Umareta Chōjū Giga (Bijutsu Nenkan-sha)\nChōjū Giga in Three Dimensions: Born from Wood, Clay, and Cloth (Bijutsu Nenkan-sha)\n『鈴木千賀子の世界 ひとすじの愛の光』（美術年鑑社）\nSuzuki Chikako no Sekai: Hitosuji no Ai no Hikari (Bijutsu Nenkan-sha)\nThe World of Chikako Suzuki: A Single Ray of Loving Light (Bijutsu Nenkan-sha)\n『立体で見る宮沢賢治の童話世界』（美術年鑑社）\nRittai de Miru Miyazawa Kenji no Dōwa Sekai (Bijutsu Nenkan-sha)\nThe Fairy-Tale World of Miyazawa Kenji in Three Dimensions (Bijutsu Nenkan-sha)\nCanal ATSPECT\nObras en venta\n\nHaga clic en una imagen para ampliarla.\nPrecio y detalles en la página de cada obra.\n\nAñadir a favorito"
+  },
+  {
+    "handle": "suzuki-chikako",
+    "note": "現存・唯一の登録作家（メッセージ/著書/代表作画像/チャンネルあり・代表作/収蔵先/団体は空）",
+    "lang": "de",
+    "url": "https://atspect.com/pages/artist/suzuki-chikako?lang=de",
+    "title": "鈴木 千賀子（Suzuki Chikako）｜ATSPECT",
+    "h1": "鈴木 千賀子",
+    "order": [
+      {
+        "tag": "H1",
+        "i18nKey": null,
+        "text": "鈴木 千賀子"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "born",
+        "text": "Geboren"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "origin",
+        "text": "Herkunft"
+      },
+      {
+        "tag": "P",
+        "i18nKey": "pagelink",
+        "text": "Link zur Künstlerseite"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "copy",
+        "text": "Link kopieren"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "qr",
+        "text": "QR-Code"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "bio",
+        "text": "Biografie"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "message",
+        "text": "Künstlerstatement"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "books",
+        "text": "Publikationen"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "channel",
+        "text": "ATSPECT-Kanal"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "works",
+        "text": "Werke zum Verkauf"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "works_intro1",
+        "text": "Zum Vergrößern auf ein Bild klicken."
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "works_intro2",
+        "text": "Preis und Details auf der jeweiligen Werkseite."
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "zoom_hint",
+        "text": "＋ Vergrößern"
+      },
+      {
+        "tag": "A",
+        "i18nKey": "worklink",
+        "text": "Zur Werkseite (Preis & Details) →"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "zoom_hint",
+        "text": "＋ Vergrößern"
+      },
+      {
+        "tag": "A",
+        "i18nKey": "worklink",
+        "text": "Zur Werkseite (Preis & Details) →"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "zoom_hint",
+        "text": "＋ Vergrößern"
+      },
+      {
+        "tag": "A",
+        "i18nKey": "worklink",
+        "text": "Zur Werkseite (Preis & Details) →"
+      },
+      {
+        "tag": "BUTTON",
+        "i18nKey": "totop",
+        "text": "▲ Nach oben"
+      }
+    ],
+    "prof": [],
+    "secKeys": {
+      "born": {
+        "text": "Geboren",
+        "visible": true
+      },
+      "origin": {
+        "text": "Herkunft",
+        "visible": true
+      },
+      "pagelink": {
+        "text": "Link zur Künstlerseite",
+        "visible": true
+      },
+      "copy": {
+        "text": "Link kopieren",
+        "visible": true
+      },
+      "qr": {
+        "text": "QR-Code",
+        "visible": true
+      },
+      "bio": {
+        "text": "Biografie",
+        "visible": true
+      },
+      "viewpoint": {
+        "text": "Würdigung",
+        "visible": false
+      },
+      "message": {
+        "text": "Künstlerstatement",
+        "visible": true
+      },
+      "books": {
+        "text": "Publikationen",
+        "visible": true
+      },
+      "channel": {
+        "text": "ATSPECT-Kanal",
+        "visible": true
+      },
+      "works": {
+        "text": "Werke zum Verkauf",
+        "visible": true
+      },
+      "works_intro1": {
+        "text": "Zum Vergrößern auf ein Bild klicken.",
+        "visible": true
+      },
+      "works_intro2": {
+        "text": "Preis und Details auf der jeweiligen Werkseite.",
+        "visible": true
+      },
+      "zoom_hint": {
+        "text": "＋ Vergrößern",
+        "visible": true
+      },
+      "worklink": {
+        "text": "Zur Werkseite (Preis & Details) →",
+        "visible": true
+      },
+      "totop": {
+        "text": "▲ Nach oben",
+        "visible": true
+      },
+      "copyr": {
+        "text": "Unbefugte Vervielfältigung von Bildern und Texten ist untersagt.",
+        "visible": true
+      },
+      "view_work": {
+        "text": "Zur Werkseite (Preis & Details) →",
+        "visible": false
+      },
+      "qr_cap": {
+        "text": "Mit dem Smartphone scannen, um diese Seite zu öffnen",
+        "visible": false
+      },
+      "qr_dl": {
+        "text": "PNG herunterladen",
+        "visible": false
+      },
+      "qr_print": {
+        "text": "Drucken",
+        "visible": false
+      }
+    },
+    "bodyBlocksVisible": [
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 143556,
+        "head": "window.ATSPECT = window.ATSPECT || {}; (function(){ var BASE"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 857,
+        "head": "In der Präfektur Saitama geboren. Nach dem Pharmaziestudium "
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 263,
+        "head": "Was ich schnitze, sind liebenswerte Wesen, etwa Tiere und Ki"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      }
+    ],
+    "bodyBlocksCount": 33,
+    "bodyChars": 3869,
+    "fullText": "ZUM INHALT SPRINGEN\nDeutsch\nKÜNSTLER & WERKE\nSCHENKUNGEN\nÜBER UNS\nKONTAKT\n\nSkulptur\n\n鈴木 千賀子\n\nSuzuki Chikako\n\nObjektkünstlerin\n\nGeboren1949　／　HerkunftPräfektur Saitama\n\nFormen des Gebets und geliebte Tiere\n\n祈りの造形・愛しき動物たち\n\nLINK ZUR KÜNSTLERSEITE\n\nLink kopieren\nQR-Code\n\nSumo: Rabbit and Frog\n\nJapanische Hinoki-Zypresse, Farbfassung, Blattmetall; H 23 × B 30 × T 20 cm\n\nBiografie\nIn der Präfektur Saitama geboren. Nach dem Pharmaziestudium an der Fakultät für Naturwissenschaften und Technik der Nihon-Universität wandte sie sich der bildenden Kunst zu. Sie lernte bei dem Objektkünstler Shōzō Tomonaga, dem Bildhauer Yoshio Hosoi und dem Holzbildhauer Yūjirō Makita. Am Nationaltheater (Kokuritsu Gekijō) lernte sie bei 菱田宏治 und 名越詔司 zunächst die Arbeit als Tokoyama — das Frisieren und Pflegen der Perücken der Bunraku-Puppen — und anschließend die Herstellung der Puppenköpfe (Kashira). Nach ihrer Zeit als assoziiertes Mitglied der Künstlervereinigung Sōkei-kai arbeitet sie heute unabhängig. Ihre Arbeiten waren in zahlreichen Einzelausstellungen zu sehen, unter anderem im Nihonbashi Takashimaya, in der Lobby-Galerie des Keio Plaza Hotels und im Museum für moderne Kunst der Präfektur Saitama (Saitama Kenritsu Kindai Bijutsukan).\nKünstlerstatement\nWas ich schnitze, sind liebenswerte Wesen, etwa Tiere und Kinder. Das Holz gibt mir Kraft, und die Arbeit daran hat auch mich geheilt.\nIch möchte, dass ein Lichtschein der Liebe möglichst viele Herzen erreicht. Meine Arbeit ist zugleich ein Gebet für den Frieden.\nPublikationen\n『メルヘン動物』（グラフ社）\nMeruhen Dōbutsu (Gurafu-sha)\nFairy-Tale Animals (Gurafu-sha)\n『くつ下で作るストッキング人形』（ブティック社）\nKutsushita de Tsukuru Sutokkingu Ningyō (Butikku-sha)\nStocking Dolls Made with Socks (Butikku-sha)\n『愛の光 祈りの造形・愛しき動物たち 鈴木千賀子作品集』（美術年鑑社）\nAi no Hikari: Inori no Zōkei, Itoshiki Dōbutsu-tachi — Suzuki Chikako Sakuhinshū (Bijutsu Nenkan-sha)\nLight of Love: Forms of Prayer and Beloved Animals — Works of Chikako Suzuki (Bijutsu Nenkan-sha)\n『立体で見る鳥獣戯画 木と土と布から生まれた鳥獣戯画』（美術年鑑社）\nRittai de Miru Chōjū Giga: Ki to Tsuchi to Nuno kara Umareta Chōjū Giga (Bijutsu Nenkan-sha)\nChōjū Giga in Three Dimensions: Born from Wood, Clay, and Cloth (Bijutsu Nenkan-sha)\n『鈴木千賀子の世界 ひとすじの愛の光』（美術年鑑社）\nSuzuki Chikako no Sekai: Hitosuji no Ai no Hikari (Bijutsu Nenkan-sha)\nThe World of Chikako Suzuki: A Single Ray of Loving Light (Bijutsu Nenkan-sha)\n『立体で見る宮沢賢治の童話世界』（美術年鑑社）\nRittai de Miru Miyazawa Kenji no Dōwa Sekai (Bijutsu Nenkan-sha)\nThe Fairy-Tale World of Miyazawa Kenji in Three Dimensions (Bijutsu Nenkan-sha)\nATSPECT-Kanal\nWerke zum Verkauf\n\nZum Vergrößern auf ein Bild klicken.\nPre"
+  },
+  {
+    "handle": "fukayama-ryudo",
+    "note": "代表作だけ空・収蔵先あり",
+    "lang": "ja",
+    "url": "https://atspect.com/pages/artist/fukayama-ryudo?lang=ja",
+    "title": "深山 龍洞（Miyama Ryūdō）｜あつぺくと",
+    "h1": "深山 龍洞",
+    "order": [
+      {
+        "tag": "H1",
+        "i18nKey": null,
+        "text": "深山 龍洞"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "life",
+        "text": "生没年"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "origin",
+        "text": "出身"
+      },
+      {
+        "tag": "P",
+        "i18nKey": "pagelink",
+        "text": "作家ページのリンク"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "copy",
+        "text": "リンクをコピー"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "qr",
+        "text": "QRコード"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "bio",
+        "text": "略歴"
+      },
+      {
+        "tag": "DT",
+        "i18nKey": "mw",
+        "text": "代表作"
+      },
+      {
+        "tag": "DT",
+        "i18nKey": "cp",
+        "text": "収蔵先・記念館"
+      },
+      {
+        "tag": "DT",
+        "i18nKey": "gr",
+        "text": "所属していた美術団体"
+      },
+      {
+        "tag": "BUTTON",
+        "i18nKey": "totop",
+        "text": "▲ ページトップへ戻る"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "copyr",
+        "text": "掲載作品の画像・文章の無断転載および複製を禁じます。"
+      }
+    ],
+    "prof": [
+      {
+        "label": "代表作",
+        "key": "masterworks",
+        "value": "紫式部集抄（東京国立博物館蔵）"
+      },
+      {
+        "label": "収蔵先・記念館",
+        "key": "collection",
+        "value": "東京国立博物館（紫式部集抄）"
+      },
+      {
+        "label": "所属していた美術団体",
+        "key": "groups",
+        "value": "一東書道会、日展"
+      }
+    ],
+    "secKeys": {
+      "life": {
+        "text": "生没年",
+        "visible": true
+      },
+      "origin": {
+        "text": "出身",
+        "visible": true
+      },
+      "pagelink": {
+        "text": "作家ページのリンク",
+        "visible": true
+      },
+      "copy": {
+        "text": "リンクをコピー",
+        "visible": true
+      },
+      "qr": {
+        "text": "QRコード",
+        "visible": true
+      },
+      "bio": {
+        "text": "略歴",
+        "visible": true
+      },
+      "viewpoint": {
+        "text": "功績",
+        "visible": false
+      },
+      "mw": {
+        "text": "代表作",
+        "visible": true
+      },
+      "cp": {
+        "text": "収蔵先・記念館",
+        "visible": true
+      },
+      "gr": {
+        "text": "所属していた美術団体",
+        "visible": true
+      },
+      "totop": {
+        "text": "▲ ページトップへ戻る",
+        "visible": true
+      },
+      "copyr": {
+        "text": "掲載作品の画像・文章の無断転載および複製を禁じます。",
+        "visible": true
+      },
+      "view_work": {
+        "text": "作品ページへ（価格・詳細）→",
+        "visible": false
+      },
+      "qr_cap": {
+        "text": "スマートフォンで読み取ってこのページを開けます",
+        "visible": false
+      },
+      "qr_dl": {
+        "text": "PNGダウンロード",
+        "visible": false
+      },
+      "qr_print": {
+        "text": "印刷",
+        "visible": false
+      }
+    },
+    "bodyBlocksVisible": [
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 131890,
+        "head": "window.ATSPECT = window.ATSPECT || {}; (function(){ var BASE"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 143,
+        "head": "深山龍洞（みやま りゅうどう、1903–1980）は、淡路（現在の兵庫県）に生まれ、神戸に出て活動したかな書の書家。平安"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      }
+    ],
+    "bodyBlocksCount": 25,
+    "bodyChars": 771,
+    "fullText": "コンテンツに進む\n日本語\n作家／作品\n寄贈\nあつぺくとについて\nお問い合わせ\n\n書\n\n深山 龍洞\n\nMiyama Ryūdō\n\n書家／かな\n\n生没年1903–1980　／　出身淡路（兵庫県）\n\n淡路に生まれ、神戸で活動したかな書の書家。\n\n作家ページのリンク\n\nリンクをコピー\nQRコード\n略歴\n深山龍洞（みやま りゅうどう、1903–1980）は、淡路（現在の兵庫県）に生まれ、神戸に出て活動したかな書の書家。平安朝の書風から出発し、正倉院文書の万葉がなに「かなの原点」を見出した。そこに漢字の力強さを取り入れた奔放な書風で知られる。作品集に『深山龍洞書芸集成』（講談社）がある。\n代表作\n紫式部集抄（東京国立博物館蔵）\n収蔵先・記念館\n東京国立博物館（紫式部集抄）\n所属していた美術団体\n一東書道会、日展\n▲ ページトップへ戻る\n\n掲載作品の画像・文章の無断転載および複製を禁じます。\n© ARTS RESPECT Co., Ltd.\n\n﻿\nよくある質問\nプレス\nプライバシーポリシー\n特定商取引法に基づく表記\n古物営業法に基づく表示\n作家の方へ\n\n各言語で。\n\nLANGUAGE ／ 言語\n日本語\nEnglish\n简体中文\n繁體中文\n한국어\nFrançais\nEspañol\nDeutsch\n\nNEWSLETTER\n\nあつぺくとから最新の情報をお届けいたします\n\n登録する\n\n〒103-0024 東京都中央区日本橋小舟町8-6-202\n\nお問い合わせ\n\n古物商許可：株式会社ARTS RESPECT／東京都公安委員会 第301042617547号\n\nOPERATED BY\n\n© 2026 ARTS RESPECT Co., Ltd. All Rights Reserved.\n\nこの言語で表示を続けますか？\nこの言語を保存\n×\nTOP"
+  },
+  {
+    "handle": "nishikawa-yasushi",
+    "note": "著書あり",
+    "lang": "ja",
+    "url": "https://atspect.com/pages/artist/nishikawa-yasushi?lang=ja",
+    "title": "西川 寧（Nishikawa Yasushi）｜あつぺくと",
+    "h1": "西川 寧",
+    "order": [
+      {
+        "tag": "H1",
+        "i18nKey": null,
+        "text": "西川 寧"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "life",
+        "text": "生没年"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "origin",
+        "text": "出身"
+      },
+      {
+        "tag": "P",
+        "i18nKey": "pagelink",
+        "text": "作家ページのリンク"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "copy",
+        "text": "リンクをコピー"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "qr",
+        "text": "QRコード"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "bio",
+        "text": "略歴"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "viewpoint",
+        "text": "功績"
+      },
+      {
+        "tag": "DT",
+        "i18nKey": "mw",
+        "text": "代表作"
+      },
+      {
+        "tag": "DT",
+        "i18nKey": "cp",
+        "text": "収蔵先・記念館"
+      },
+      {
+        "tag": "DT",
+        "i18nKey": "gr",
+        "text": "所属していた美術団体"
+      },
+      {
+        "tag": "H2",
+        "i18nKey": "books",
+        "text": "著書"
+      },
+      {
+        "tag": "BUTTON",
+        "i18nKey": "totop",
+        "text": "▲ ページトップへ戻る"
+      },
+      {
+        "tag": "SPAN",
+        "i18nKey": "copyr",
+        "text": "掲載作品の画像・文章の無断転載および複製を禁じます。"
+      }
+    ],
+    "prof": [
+      {
+        "label": "代表作",
+        "key": "masterworks",
+        "value": "篆書作品、隷書作品、篆刻作品"
+      },
+      {
+        "label": "収蔵先・記念館",
+        "key": "collection",
+        "value": "東京国立博物館、成田山書道美術館"
+      },
+      {
+        "label": "所属していた美術団体",
+        "key": "groups",
+        "value": "日展、謙慎書道会"
+      }
+    ],
+    "secKeys": {
+      "life": {
+        "text": "生没年",
+        "visible": true
+      },
+      "origin": {
+        "text": "出身",
+        "visible": true
+      },
+      "pagelink": {
+        "text": "作家ページのリンク",
+        "visible": true
+      },
+      "copy": {
+        "text": "リンクをコピー",
+        "visible": true
+      },
+      "qr": {
+        "text": "QRコード",
+        "visible": true
+      },
+      "bio": {
+        "text": "略歴",
+        "visible": true
+      },
+      "viewpoint": {
+        "text": "功績",
+        "visible": true
+      },
+      "mw": {
+        "text": "代表作",
+        "visible": true
+      },
+      "cp": {
+        "text": "収蔵先・記念館",
+        "visible": true
+      },
+      "gr": {
+        "text": "所属していた美術団体",
+        "visible": true
+      },
+      "books": {
+        "text": "著書",
+        "visible": true
+      },
+      "totop": {
+        "text": "▲ ページトップへ戻る",
+        "visible": true
+      },
+      "copyr": {
+        "text": "掲載作品の画像・文章の無断転載および複製を禁じます。",
+        "visible": true
+      },
+      "view_work": {
+        "text": "作品ページへ（価格・詳細）→",
+        "visible": false
+      },
+      "qr_cap": {
+        "text": "スマートフォンで読み取ってこのページを開けます",
+        "visible": false
+      },
+      "qr_dl": {
+        "text": "PNGダウンロード",
+        "visible": false
+      },
+      "qr_print": {
+        "text": "印刷",
+        "visible": false
+      }
+    },
+    "bodyBlocksVisible": [
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 138510,
+        "head": "window.ATSPECT = window.ATSPECT || {}; (function(){ var BASE"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 195,
+        "head": "西川寧は、東京に生まれた書家・篆刻家・研究者。書家・西川春洞を父にもつ。慶應義塾大学に学んで同大学の教授を務め、中国の書"
+      },
+      {
+        "lang": "ja",
+        "visible": true,
+        "chars": 3,
+        "head": "日本語"
+      },
+      {
+        "lang": "en",
+        "visible": true,
+        "chars": 7,
+        "head": "English"
+      },
+      {
+        "lang": "zh-cn",
+        "visible": true,
+        "chars": 4,
+        "head": "简体中文"
+      },
+      {
+        "lang": "zh-tw",
+        "visible": true,
+        "chars": 4,
+        "head": "繁體中文"
+      },
+      {
+        "lang": "ko",
+        "visible": true,
+        "chars": 3,
+        "head": "한국어"
+      },
+      {
+        "lang": "fr",
+        "visible": true,
+        "chars": 8,
+        "head": "Français"
+      },
+      {
+        "lang": "es",
+        "visible": true,
+        "chars": 7,
+        "head": "Español"
+      },
+      {
+        "lang": "de",
+        "visible": true,
+        "chars": 7,
+        "head": "Deutsch"
+      }
+    ],
+    "bodyBlocksCount": 25,
+    "bodyChars": 979,
+    "fullText": "コンテンツに進む\n日本語\n作家／作品\n寄贈\nあつぺくとについて\nお問い合わせ\n\n書\n\n西川 寧\n\nNishikawa Yasushi\n\n書家／篆刻\n\n生没年1902–1989　／　出身東京都\n\n中国書法研究を土台に戦後書壇に携わった書家\n\n作家ページのリンク\n\nリンクをコピー\nQRコード\n略歴\n西川寧は、東京に生まれた書家・篆刻家・研究者。書家・西川春洞を父にもつ。慶應義塾大学に学んで同大学の教授を務め、中国の書法や金石学を深く研究した。その学識を土台に、篆書（古代の書体）や隷書による漢字書と、印を刻む篆刻（てんこく）を制作した。『書の変相』『六朝の書道』などの著作も残し、学問と制作の両面から戦後の書壇に携わった。謙慎書道会を支え、1985年に書家として初めて文化勲章を受けた。\n功績\n中国書法の研究を土台にした書家・篆刻家。古い書体による漢字書や篆刻では、古代の文字に学んだ重厚な線と、緊密に構成された字の姿に注目すると、感覚だけに頼らず、中国の古典を深く研究して得た知識を、線の一本一本の確かさへと結びつけようとした、学者らしい厳格さが感じられる。\n代表作\n篆書作品、隷書作品、篆刻作品\n収蔵先・記念館\n東京国立博物館、成田山書道美術館\n所属していた美術団体\n日展、謙慎書道会\n著書\n『書の変相』\n『六朝の書道』\n▲ ページトップへ戻る\n\n掲載作品の画像・文章の無断転載および複製を禁じます。\n© ARTS RESPECT Co., Ltd.\n\n﻿\nよくある質問\nプレス\nプライバシーポリシー\n特定商取引法に基づく表記\n古物営業法に基づく表示\n作家の方へ\n\n各言語で。\n\nLANGUAGE ／ 言語\n日本語\nEnglish\n简体中文\n繁體中文\n한국어\nFrançais\nEspañol\nDeutsch\n\nNEWSLETTER\n\nあつぺくとから最新の情報をお届けいたします\n\n登録する\n\n〒103-0024 東京都中央区日本橋小舟町8-6-202\n\nお問い合わせ\n\n古物商許可：株式会社ARTS RESPECT／東京都公安委員会 第301042617547号\n\nOPERATED BY\n\n© 2026 ARTS RESPECT Co., Ltd. All Rights Reserved.\n\nこの言語で表示を続けますか？\nこの言語を保存\n×\nTOP"
+  }
+]
