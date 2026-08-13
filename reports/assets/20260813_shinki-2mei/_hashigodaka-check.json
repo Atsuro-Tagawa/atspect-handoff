@@ -1,0 +1,323 @@
+[
+ {
+  "lang": "ja",
+  "width": 1440,
+  "inDom": true,
+  "tofu": false,
+  "blank": false,
+  "widths": {
+   "h": 64,
+   "bad": 64
+  },
+  "fonts": [
+   "Noto Sans JP Thin:140",
+   "Jost:12"
+  ],
+  "ok": true
+ },
+ {
+  "lang": "ja",
+  "width": 768,
+  "inDom": true,
+  "tofu": false,
+  "blank": false,
+  "widths": {
+   "h": 64,
+   "bad": 64
+  },
+  "fonts": [
+   "Noto Sans JP Thin:140",
+   "Jost:12"
+  ],
+  "ok": true
+ },
+ {
+  "lang": "ja",
+  "width": 390,
+  "inDom": true,
+  "tofu": false,
+  "blank": false,
+  "widths": {
+   "h": 64,
+   "bad": 64
+  },
+  "fonts": [
+   "Noto Sans JP Thin:140",
+   "Jost:12"
+  ],
+  "ok": true
+ },
+ {
+  "lang": "en",
+  "width": 1440,
+  "inDom": true,
+  "tofu": false,
+  "blank": false,
+  "widths": {
+   "h": 64,
+   "bad": 64
+  },
+  "fonts": [],
+  "ok": true
+ },
+ {
+  "lang": "en",
+  "width": 768,
+  "inDom": true,
+  "tofu": false,
+  "blank": false,
+  "widths": {
+   "h": 64,
+   "bad": 64
+  },
+  "fonts": [],
+  "ok": true
+ },
+ {
+  "lang": "en",
+  "width": 390,
+  "inDom": true,
+  "tofu": false,
+  "blank": false,
+  "widths": {
+   "h": 64,
+   "bad": 64
+  },
+  "fonts": [],
+  "ok": true
+ },
+ {
+  "lang": "zh-cn",
+  "width": 1440,
+  "inDom": true,
+  "tofu": false,
+  "blank": false,
+  "widths": {
+   "h": 64,
+   "bad": 64
+  },
+  "fonts": [],
+  "ok": true
+ },
+ {
+  "lang": "zh-cn",
+  "width": 768,
+  "inDom": true,
+  "tofu": false,
+  "blank": false,
+  "widths": {
+   "h": 64,
+   "bad": 64
+  },
+  "fonts": [],
+  "ok": true
+ },
+ {
+  "lang": "zh-cn",
+  "width": 390,
+  "inDom": true,
+  "tofu": false,
+  "blank": false,
+  "widths": {
+   "h": 64,
+   "bad": 64
+  },
+  "fonts": [],
+  "ok": true
+ },
+ {
+  "lang": "zh-tw",
+  "width": 1440,
+  "inDom": true,
+  "tofu": false,
+  "blank": false,
+  "widths": {
+   "h": 64,
+   "bad": 64
+  },
+  "fonts": [],
+  "ok": true
+ },
+ {
+  "lang": "zh-tw",
+  "width": 768,
+  "inDom": true,
+  "tofu": false,
+  "blank": false,
+  "widths": {
+   "h": 64,
+   "bad": 64
+  },
+  "fonts": [],
+  "ok": true
+ },
+ {
+  "lang": "zh-tw",
+  "width": 390,
+  "inDom": true,
+  "tofu": false,
+  "blank": false,
+  "widths": {
+   "h": 64,
+   "bad": 64
+  },
+  "fonts": [],
+  "ok": true
+ },
+ {
+  "lang": "ko",
+  "width": 1440,
+  "inDom": true,
+  "tofu": false,
+  "blank": false,
+  "widths": {
+   "h": 64,
+   "bad": 64
+  },
+  "fonts": [],
+  "ok": true
+ },
+ {
+  "lang": "ko",
+  "width": 768,
+  "inDom": true,
+  "tofu": false,
+  "blank": false,
+  "widths": {
+   "h": 64,
+   "bad": 64
+  },
+  "fonts": [],
+  "ok": true
+ },
+ {
+  "lang": "ko",
+  "width": 390,
+  "inDom": true,
+  "tofu": false,
+  "blank": false,
+  "widths": {
+   "h": 64,
+   "bad": 64
+  },
+  "fonts": [],
+  "ok": true
+ },
+ {
+  "lang": "fr",
+  "width": 1440,
+  "inDom": true,
+  "tofu": false,
+  "blank": false,
+  "widths": {
+   "h": 64,
+   "bad": 64
+  },
+  "fonts": [],
+  "ok": true
+ },
+ {
+  "lang": "fr",
+  "width": 768,
+  "inDom": true,
+  "tofu": false,
+  "blank": false,
+  "widths": {
+   "h": 64,
+   "bad": 64
+  },
+  "fonts": [],
+  "ok": true
+ },
+ {
+  "lang": "fr",
+  "width": 390,
+  "inDom": true,
+  "tofu": false,
+  "blank": false,
+  "widths": {
+   "h": 64,
+   "bad": 64
+  },
+  "fonts": [],
+  "ok": true
+ },
+ {
+  "lang": "es",
+  "width": 1440,
+  "inDom": true,
+  "tofu": false,
+  "blank": false,
+  "widths": {
+   "h": 64,
+   "bad": 64
+  },
+  "fonts": [],
+  "ok": true
+ },
+ {
+  "lang": "es",
+  "width": 768,
+  "inDom": true,
+  "tofu": false,
+  "blank": false,
+  "widths": {
+   "h": 64,
+   "bad": 64
+  },
+  "fonts": [],
+  "ok": true
+ },
+ {
+  "lang": "es",
+  "width": 390,
+  "inDom": true,
+  "tofu": false,
+  "blank": false,
+  "widths": {
+   "h": 64,
+   "bad": 64
+  },
+  "fonts": [],
+  "ok": true
+ },
+ {
+  "lang": "de",
+  "width": 1440,
+  "inDom": true,
+  "tofu": false,
+  "blank": false,
+  "widths": {
+   "h": 64,
+   "bad": 64
+  },
+  "fonts": [],
+  "ok": true
+ },
+ {
+  "lang": "de",
+  "width": 768,
+  "inDom": true,
+  "tofu": false,
+  "blank": false,
+  "widths": {
+   "h": 64,
+   "bad": 64
+  },
+  "fonts": [],
+  "ok": true
+ },
+ {
+  "lang": "de",
+  "width": 390,
+  "inDom": true,
+  "tofu": false,
+  "blank": false,
+  "widths": {
+   "h": 64,
+   "bad": 64
+  },
+  "fonts": [],
+  "ok": true
+ }
+]
