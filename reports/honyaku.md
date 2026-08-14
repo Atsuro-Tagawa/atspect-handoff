@@ -1328,3 +1328,107 @@ en/fr/es/de/ko は既に公式英題 `Turn` `Form` `Parallel`、zh_cn/zh_tw は�
 （`sie` で受けながら称号は男性形＝リサーチTが実測した独語圏の書き方どおり）／中原淳一さま「Modeillustrationen」。
 ★3ページとも未認証で HTTP 200 の公開ページ。
 
+
+---
+
+## 第57便（2026-08-14・翻訳品質T／Opus 5）＝第31束の申し送り7件への司令塔裁定の適用
+
+**90名・294箇所を反映**（本体198件＋追い込み2件）。全件を別クエリで読み戻し一致。
+
+### ① 「本名」＝Codex関所で各言語の自然形を確定してから統一
+
+**関所の結論**（Web検索なし・語の選択のみ）＝**「given name／prénom／nombre de pila は『名だけ』を指す語」。
+「birth name／nom de naissance／nombre de nacimiento／Geburtsname は改姓前の姓を指すことが多く、雅号に対する本名には不適」。**
+
+| 言語 | 前 | 後 |
+|---|---|---|
+| en | given name 20／birth name 1／real name 13 | **real name 34**（他0） |
+| fr | nom de naissance 17／prénom 4／vrai nom 7／nom véritable 3／véritable nom 10 | **véritable nom 34**（他0） |
+| es | nombre de nacimiento 15／nombre de pila 5／nombre real 1／verdadero nombre 12 | **verdadero nombre 34**（他0） |
+| de | Geburtsname 4／eigentlicher Name 1／bürgerlicher Name 29 | **bürgerlicher Name 34**（他0） |
+| ko / zh | 본명 34／本名 34 | 変更なし（元から正しい） |
+
+★**走査語を決め打ちせず、34欄×5言語の「名」を含む語句を全列挙してから統一した。**
+最初の語形リストでは fr の `Son prénom`・es の `nombre de pila`（どちらも**名だけ**の意味＝まさに裁定の対象）を
+**数え落としていた。** 列挙し直して拾った。
+
+### ② C26韓国語の未完了＝既裁定どおり適用
+
+| 語形 | 前 | 後 |
+|---|---|---|
+| **통달**（技法の習得） | 44 | **110** |
+| 탐구・연구（理論・学問） | 19 | 19 |
+| 궁구／깊이 이룬／깊이 익힌／닦은／깊이 파고든／깊이 터득한／연마 | 約57 | **0**（技法の欄） |
+
+★**触らずに残した17欄（司令塔へ）**＝技法の習得と言い切れないもの。
+`matsumoto-hosui`（端正さを究める）／`osawa-gakyu`（基礎を究める）／`yanagi-sori`2欄・`toyoguchi-katsuhei`（暮らしの道具・家具）／
+`toshinobu-onosato`2欄（円と方形）／`kuwayama-tadaaki`2欄（単色の絵画）／`akaji-yusai`2欄（塗りの美）／
+`iizuka-shokansai`（古典の様式）／`komai-tetsuro`（詩情あふれる銅版画）／`watanabe-sao`／`ueno-hikoma`／`komiya-kosuke`。
+※このうち `katori-masahiko`（鋳金の技法）と `komiya-kosuke`（江戸小紋）は**走査語に `궁구했으며`・`닦았다` が抜けていて
+数え落としていた**もので、技法の習得なので追い込みで是正した。
+
+### ③ 西語の地の文「pintor yōga」＝台帳形へ統一
+
+**49箇所→0。** ★うち**14欄は `pintor yōga (de estilo occidental)` の形**で、
+括弧を残すと `pintor de estilo occidental (de estilo occidental)` と**二重になる**。
+**再検品がこれを検出したので、括弧ごと置き換える形に作り直した**（二重表記＝0）。
+
+★**停止条件＝es role 欄「Pintor(a) de estilo occidental」は適用前100件・適用後100件で不変。** 減っていない。
+
+### ④ 「確認でき」の en/es の割れ＝統一しない、で確定
+
+自然な言い換えの範囲として辞書 D6 に記録し、**以後の統一提案は棄却**。横断型の未裁定リストから落とした。
+
+### ⑤ 帝室技芸員の独語＝Hofkünstler へ
+
+★実測してみると、**見出し語は5名とも既に `Hofkünstler`** で、割れていたのは**注釈の中の `Meister`** だった
+（`Hofkünstler (Teishitsu Gigeiin, ein vom Kaiserhaus ernannter Meister)`）。
+第31束で「Meister 7欄」と数えたうち**2欄は動詞 `meisterte` の誤検出**だった（正しくは名詞5欄）。
+注釈を **`ein vom Kaiserhaus verliehener Titel`** に改め、`ernannter Meister` は**0**。
+en `Imperial Household Artist`／fr `artiste de la Maison impériale`／es `Artista de la Casa Imperial` は定形のため触っていない。
+
+### ⑥ 北出塔次郎さまの韓国語＝「蓮」の欠落
+
+日本語原文をライブから取り直し（`蓮池や魚貝など`／`《色絵蓮池文磁飾皿》`）、原文どおりの要素で組み直した。
+- 地の文：`연못이나` → **`연꽃 연못이나`**
+- 作品名：`《색회 연못무늬 자기 장식 접시》` → **`《색회 연꽃 연못무늬 자기 장식 접시》`**
+
+### ⑦ 生井子華さまの一言紹介＝「書家」を補う
+
+日本語「西川寧に学んだ**篆刻の書家**」の書家が en/de/es/fr で落ちていた（zh/ko は元から正しい）。
+
+| 言語 | 後 |
+|---|---|
+| en | A **seal-carving calligrapher** who studied under Nishikawa Yasushi |
+| fr | Un **calligraphe spécialisé dans la gravure de sceaux**, formé auprès de Nishikawa Yasushi |
+| es | Un **calígrafo del grabado de sellos** formado con Nishikawa Yasushi |
+| de | Ein **Kalligraf der Siegelschneidekunst**, der bei Nishikawa Yasushi studierte |
+
+★**390幅で実測**＝一言紹介は罫線の中に2行で収まり、**泣き別れ・はみ出しは無い**（スクショで確認）。
+※最初に書いた `A calligrapher of seal carving`／`Un calligraphe de la gravure de sceaux` は
+**再検品で「語のつながりが不自然」と指摘され、上の形に直してから当てた。**
+
+### 適用前の再検品（141本）が見つけた、私の側の不具合
+
+1. **西語の二重表記**（③・14欄）＝括弧を残したまま置換していた。
+2. **⑦の英仏の言い回しが不自然**＝直してから当てた。
+
+※このほかに再検品が挙げた指摘のうち、**私の是正が原因ではない既存の問題**は採らず申し送りにした（下記）。
+
+### 司令塔へ（本便で触らず記録したもの）
+
+1. **②で触らずに残した17欄**（上記一覧）＝「技法の習得」と言い切れない対象。裁定願いたい。
+2. 再検品が拾った**既存の問題**（本便の是正とは無関係・原文照合が要る）
+   - `ono-showasai` ko「정치한」＝「精緻な」の訳として誤りの疑い（→ 정교한）
+   - `tamura-koichi` ko「갈색 안료」＝原文「茶褐色」の色味が落ちている（→ 다갈색）
+   - `namikawa-sosuke` de「die farbigen Emaille」＝Emaille は女性単数で活用が誤り（→ die farbige Emaille）
+   - `nishimura-goun` en「and worked in the Kyoto art world」＝原文にない事実
+   - `hidai-shokin` fr「son académie Shogakuin」＝原文の「ともに」が落ち、所有の含意が加わっている
+   - `koga-harue` es「cambió de manera repetidamente」＝語がつながらない／「El mar, presentada」＝性の不一致
+
+### スクショ検品
+
+`reports/assets/20260814_第57便_申し送り7件/`（生井子華さま仏語・北出塔次郎さま韓国語・西郷孤月さま英語 × 各＋日本語 × 390/768/1280＝18枚）
+**実物で確認**＝仏語の一言紹介が390で2行に収まる／`Son véritable nom était Shigeru.`／
+`Il fut actif notamment au Nitten ; …`／`entaille après entaille`。3ページとも未認証で HTTP 200 の公開ページ。
+
