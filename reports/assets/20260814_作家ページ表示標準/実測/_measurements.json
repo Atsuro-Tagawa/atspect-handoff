@@ -1,0 +1,4548 @@
+{
+ "measuredAt": "2026-08-14",
+ "artists": {
+  "suzuki-chikako": {
+   "390": {
+    "innerWidth": 390,
+    "title": "鈴木 千賀子（Suzuki Chikako）｜あつぺくと",
+    "layout": {
+     "main": {
+      "top": 110,
+      "left": 22,
+      "w": 346,
+      "h": 4195
+     },
+     "rail": {
+      "top": 140,
+      "left": 22,
+      "w": 346,
+      "h": 637
+     },
+     "content": {
+      "top": 813,
+      "left": 22,
+      "w": 346,
+      "h": 3427
+     },
+     "mainStyle": {
+      "display": "grid",
+      "gap": "36px",
+      "gridTemplateColumns": "346px",
+      "padding": "30px 0px 64px"
+     },
+     "railPosition": "static"
+    },
+    "rail": {
+     "cat": {
+      "box": {
+       "top": 140,
+       "left": 46,
+       "w": 28,
+       "h": 22
+      },
+      "font": {
+       "fs": "12px",
+       "fw": "300",
+       "lh": "21.6px",
+       "ls": "2.16px",
+       "ta": "center",
+       "color": "rgb(125, 118, 108)"
+      },
+      "text": "彫刻",
+      "visible": true
+     },
+     "name": {
+      "box": {
+       "top": 173,
+       "left": 22,
+       "w": 346,
+       "h": 21
+      },
+      "font": {
+       "fs": "20px",
+       "fw": "500",
+       "lh": "20.8px",
+       "ls": "0.6px",
+       "ta": "center",
+       "color": "rgb(20, 20, 20)"
+      },
+      "text": "鈴木 千賀子",
+      "visible": true
+     },
+     "en": {
+      "box": {
+       "top": 198,
+       "left": 22,
+       "w": 346,
+       "h": 23
+      },
+      "font": {
+       "fs": "13px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.52px",
+       "ta": "center",
+       "color": "rgb(111, 106, 99)"
+      },
+      "text": "Suzuki Chikako",
+      "visible": true
+     },
+     "genre": {
+      "box": {
+       "top": 241,
+       "left": 22,
+       "w": 346,
+       "h": 23
+      },
+      "font": {
+       "fs": "13px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.52px",
+       "ta": "center",
+       "color": "rgb(95, 90, 83)"
+      },
+      "text": "造形作家",
+      "visible": true
+     },
+     "img": {
+      "box": {
+       "top": 291,
+       "left": 88,
+       "w": 215,
+       "h": 258
+      },
+      "font": {
+       "fs": "16px",
+       "fw": "400",
+       "lh": "28.8px",
+       "ls": "0.32px",
+       "ta": "center",
+       "color": "rgb(26, 23, 20)"
+      },
+      "text": "",
+      "visible": true
+     },
+     "facts": {
+      "box": {
+       "top": 571,
+       "left": 22,
+       "w": 346,
+       "h": 27
+      },
+      "font": {
+       "fs": "14px",
+       "fw": "300",
+       "lh": "27.3px",
+       "ls": "0.56px",
+       "ta": "center",
+       "color": "rgb(58, 53, 47)"
+      },
+      "text": "生年1949 ／ 出身埼玉県",
+      "visible": true
+     },
+     "stmt": {
+      "box": {
+       "top": 626,
+       "left": 96,
+       "w": 198,
+       "h": 51
+      },
+      "font": {
+       "fs": "12.4px",
+       "fw": "400",
+       "lh": "21.08px",
+       "ls": "0.992px",
+       "ta": "center",
+       "color": "rgb(27, 24, 21)"
+      },
+      "text": "祈りの造形・愛しき動物たち",
+      "visible": true
+     },
+     "imgNatural": {
+      "nw": 600,
+      "nh": 721,
+      "objectFit": "fill",
+      "aspectRatio": "auto 300 / 400"
+     },
+     "factsLabel": {
+      "font": {
+       "fs": "12px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.72px",
+       "ta": "center",
+       "color": "rgb(140, 134, 125)"
+      },
+      "text": "生年"
+     }
+    },
+    "lead": {
+     "art": {
+      "top": 813,
+      "left": 22,
+      "w": 346,
+      "h": 250
+     },
+     "artStyle": {
+      "maxHeight": "none",
+      "height": "249.859px",
+      "background": "rgb(243, 241, 236)"
+     },
+     "img": {
+      "box": {
+       "top": 813,
+       "left": 22,
+       "w": 346,
+       "h": 250
+      },
+      "nw": 1400,
+      "nh": 1011,
+      "objectFit": "contain",
+      "maxHeight": "100%"
+     },
+     "capT": {
+      "font": {
+       "fs": "15.5px",
+       "fw": "500",
+       "lh": "27.9px",
+       "ls": "0.32px",
+       "ta": "center",
+       "color": "rgb(42, 38, 32)"
+      },
+      "text": "《相撲》ウサギとカエル",
+      "box": {
+       "top": 1085,
+       "left": 22,
+       "w": 346,
+       "h": 28
+      }
+     },
+     "capM": {
+      "font": {
+       "fs": "13px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.32px",
+       "ta": "center",
+       "color": "rgb(111, 106, 99)"
+      },
+      "text": "ヒノキ・彩色・箔　H23×W30×D20cm"
+     }
+    },
+    "sections": [
+     {
+      "cls": "aad-sec",
+      "box": {
+       "top": 1183,
+       "left": 22,
+       "w": 346,
+       "h": 422
+      },
+      "gapAbove": 40,
+      "secStyle": {
+       "marginTop": "40px",
+       "paddingTop": "38px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "略歴",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 1222
+      },
+      "body": {
+       "cls": "aad-ml",
+       "font": {
+        "fs": "16px",
+        "fw": "400",
+        "lh": "28.8px",
+        "ls": "0.32px",
+        "ta": "start",
+        "color": "rgb(26, 23, 20)"
+       },
+       "box": {
+        "top": 1268,
+        "left": 22,
+        "w": 346,
+        "h": 337
+       }
+      },
+      "grids": []
+     },
+     {
+      "cls": "aad-sec",
+      "box": {
+       "top": 1645,
+       "left": 22,
+       "w": 346,
+       "h": 238
+      },
+      "gapAbove": 40,
+      "secStyle": {
+       "marginTop": "40px",
+       "paddingTop": "38px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "作家メッセージ",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 1684
+      },
+      "body": {
+       "cls": "aad-ml",
+       "font": {
+        "fs": "16px",
+        "fw": "400",
+        "lh": "28.8px",
+        "ls": "0.32px",
+        "ta": "start",
+        "color": "rgb(26, 23, 20)"
+       },
+       "box": {
+        "top": 1730,
+        "left": 22,
+        "w": 346,
+        "h": 153
+       }
+      },
+      "grids": []
+     },
+     {
+      "cls": "aad-sec",
+      "box": {
+       "top": 1923,
+       "left": 22,
+       "w": 346,
+       "h": 458
+      },
+      "gapAbove": 40,
+      "secStyle": {
+       "marginTop": "40px",
+       "paddingTop": "38px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "著書",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 1962
+      },
+      "body": {
+       "cls": "",
+       "font": {
+        "fs": "15px",
+        "fw": "300",
+        "lh": "29.25px",
+        "ls": "0.32px",
+        "ta": "left",
+        "color": "rgb(74, 68, 61)"
+       },
+       "box": {
+        "top": 2008,
+        "left": 22,
+        "w": 346,
+        "h": 29
+       }
+      },
+      "grids": []
+     },
+     {
+      "cls": "aad-sec",
+      "box": {
+       "top": 2421,
+       "left": 22,
+       "w": 346,
+       "h": 498
+      },
+      "gapAbove": 40,
+      "secStyle": {
+       "marginTop": "40px",
+       "paddingTop": "38px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "あつぺくとチャンネル",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 2460
+      },
+      "body": null,
+      "grids": [
+       {
+        "cls": "aad-film-grid",
+        "display": "flex",
+        "cols": "none",
+        "gap": "24px",
+        "box": {
+         "top": 2506,
+         "left": 22,
+         "w": 346,
+         "h": 413
+        },
+        "firstImg": null
+       }
+      ]
+     },
+     {
+      "cls": "aad-sec aad-works",
+      "box": {
+       "top": 2959,
+       "left": 22,
+       "w": 346,
+       "h": 1281
+      },
+      "gapAbove": 40,
+      "secStyle": {
+       "marginTop": "40px",
+       "paddingTop": "38px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "販売作品",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 2998
+      },
+      "body": {
+       "cls": "aad-works-intro",
+       "font": {
+        "fs": "13px",
+        "fw": "300",
+        "lh": "22.1px",
+        "ls": "0.32px",
+        "ta": "center",
+        "color": "rgb(111, 106, 99)"
+       },
+       "box": {
+        "top": 3044,
+        "left": 22,
+        "w": 346,
+        "h": 44
+       }
+      },
+      "grids": [
+       {
+        "cls": "aad-works-grid",
+        "display": "grid",
+        "cols": "346px",
+        "gap": "30px",
+        "box": {
+         "top": 3113,
+         "left": 22,
+         "w": 346,
+         "h": 1128
+        },
+        "firstImg": {
+         "box": {
+          "top": 3123,
+          "left": 32,
+          "w": 326,
+          "h": 240
+         },
+         "nw": 760,
+         "nh": 566,
+         "objectFit": "contain"
+        }
+       }
+      ]
+     }
+    ],
+    "bioBody": {
+     "font": {
+      "fs": "16px",
+      "fw": "400",
+      "lh": "28.8px",
+      "ls": "0.32px",
+      "ta": "start",
+      "color": "rgb(26, 23, 20)"
+     },
+     "width": 346,
+     "html": "<div class=\"aad-body aad-l\" data-lang=\"ja\" style=\"display: block;\">日本大学理工学部薬学科を卒業後、造形の道へ進む。造形作家・友永詔三、彫刻家・細井良雄、木彫家・牧田裕次郎に師事。国立劇場では菱田宏治氏・名越詔司氏に師事し、文楽人形の床山を経て、首（かしら）の制作の修行を積んだ。創型会会友を経て、現在は無所属で制作を続けている。日本橋髙島屋、京王プラザホテルロビーギャラリー、埼玉県立近代美術館などで個展を重ねている。</div><div class=\"aad-body aad-l\" data-lang=\"en\" style=\"d"
+    },
+    "foot": {
+     "box": {
+      "top": 4304,
+      "left": 22,
+      "w": 346,
+      "h": 139
+     },
+     "totop": {
+      "font": {
+       "fs": "13px",
+       "fw": "400",
+       "lh": "normal",
+       "ls": "0.65px",
+       "ta": "center",
+       "color": "rgb(111, 106, 99)"
+      },
+      "text": "▲ ページトップへ戻る"
+     },
+     "copyr": {
+      "font": {
+       "fs": "12px",
+       "fw": "300",
+       "lh": "21.6px",
+       "ls": "0.32px",
+       "ta": "left",
+       "color": "rgb(140, 134, 125)"
+      },
+      "text": "掲載作品の画像・文章の無断転載および複製を禁じます。© ARTS RESPECT Co., Ltd."
+     }
+    }
+   },
+   "768": {
+    "innerWidth": 768,
+    "title": "鈴木 千賀子（Suzuki Chikako）｜あつぺくと",
+    "layout": {
+     "main": {
+      "top": 158,
+      "left": 22,
+      "w": 724,
+      "h": 5663
+     },
+     "rail": {
+      "top": 188,
+      "left": 22,
+      "w": 724,
+      "h": 919
+     },
+     "content": {
+      "top": 1142,
+      "left": 22,
+      "w": 724,
+      "h": 4614
+     },
+     "mainStyle": {
+      "display": "grid",
+      "gap": "36px",
+      "gridTemplateColumns": "724px",
+      "padding": "30px 0px 64px"
+     },
+     "railPosition": "static"
+    },
+    "rail": {
+     "cat": {
+      "box": {
+       "top": 188,
+       "left": 46,
+       "w": 28,
+       "h": 22
+      },
+      "font": {
+       "fs": "12px",
+       "fw": "300",
+       "lh": "21.6px",
+       "ls": "2.16px",
+       "ta": "center",
+       "color": "rgb(125, 118, 108)"
+      },
+      "text": "彫刻",
+      "visible": true
+     },
+     "name": {
+      "box": {
+       "top": 221,
+       "left": 22,
+       "w": 724,
+       "h": 21
+      },
+      "font": {
+       "fs": "20px",
+       "fw": "500",
+       "lh": "20.8px",
+       "ls": "0.6px",
+       "ta": "center",
+       "color": "rgb(20, 20, 20)"
+      },
+      "text": "鈴木 千賀子",
+      "visible": true
+     },
+     "en": {
+      "box": {
+       "top": 246,
+       "left": 22,
+       "w": 724,
+       "h": 23
+      },
+      "font": {
+       "fs": "13px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.52px",
+       "ta": "center",
+       "color": "rgb(111, 106, 99)"
+      },
+      "text": "Suzuki Chikako",
+      "visible": true
+     },
+     "genre": {
+      "box": {
+       "top": 289,
+       "left": 22,
+       "w": 724,
+       "h": 23
+      },
+      "font": {
+       "fs": "13px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.52px",
+       "ta": "center",
+       "color": "rgb(95, 90, 83)"
+      },
+      "text": "造形作家",
+      "visible": true
+     },
+     "img": {
+      "box": {
+       "top": 339,
+       "left": 160,
+       "w": 449,
+       "h": 539
+      },
+      "font": {
+       "fs": "16px",
+       "fw": "400",
+       "lh": "28.8px",
+       "ls": "0.32px",
+       "ta": "center",
+       "color": "rgb(26, 23, 20)"
+      },
+      "text": "",
+      "visible": true
+     },
+     "facts": {
+      "box": {
+       "top": 900,
+       "left": 22,
+       "w": 724,
+       "h": 27
+      },
+      "font": {
+       "fs": "14px",
+       "fw": "300",
+       "lh": "27.3px",
+       "ls": "0.56px",
+       "ta": "center",
+       "color": "rgb(58, 53, 47)"
+      },
+      "text": "生年1949 ／ 出身埼玉県",
+      "visible": true
+     },
+     "stmt": {
+      "box": {
+       "top": 955,
+       "left": 285,
+       "w": 198,
+       "h": 51
+      },
+      "font": {
+       "fs": "12.4px",
+       "fw": "400",
+       "lh": "21.08px",
+       "ls": "0.992px",
+       "ta": "center",
+       "color": "rgb(27, 24, 21)"
+      },
+      "text": "祈りの造形・愛しき動物たち",
+      "visible": true
+     },
+     "imgNatural": {
+      "nw": 600,
+      "nh": 721,
+      "objectFit": "fill",
+      "aspectRatio": "auto 300 / 400"
+     },
+     "factsLabel": {
+      "font": {
+       "fs": "12px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.72px",
+       "ta": "center",
+       "color": "rgb(140, 134, 125)"
+      },
+      "text": "生年"
+     }
+    },
+    "lead": {
+     "art": {
+      "top": 1142,
+      "left": 22,
+      "w": 724,
+      "h": 523
+     },
+     "artStyle": {
+      "maxHeight": "none",
+      "height": "522.828px",
+      "background": "rgb(243, 241, 236)"
+     },
+     "img": {
+      "box": {
+       "top": 1142,
+       "left": 22,
+       "w": 724,
+       "h": 523
+      },
+      "nw": 1400,
+      "nh": 1011,
+      "objectFit": "contain",
+      "maxHeight": "100%"
+     },
+     "capT": {
+      "font": {
+       "fs": "15.5px",
+       "fw": "500",
+       "lh": "27.9px",
+       "ls": "0.32px",
+       "ta": "center",
+       "color": "rgb(42, 38, 32)"
+      },
+      "text": "《相撲》ウサギとカエル",
+      "box": {
+       "top": 1687,
+       "left": 22,
+       "w": 724,
+       "h": 28
+      }
+     },
+     "capM": {
+      "font": {
+       "fs": "13px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.32px",
+       "ta": "center",
+       "color": "rgb(111, 106, 99)"
+      },
+      "text": "ヒノキ・彩色・箔　H23×W30×D20cm"
+     }
+    },
+    "sections": [
+     {
+      "cls": "aad-sec",
+      "box": {
+       "top": 1786,
+       "left": 22,
+       "w": 724,
+       "h": 238
+      },
+      "gapAbove": 41,
+      "secStyle": {
+       "marginTop": "40px",
+       "paddingTop": "38px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "略歴",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 1825
+      },
+      "body": {
+       "cls": "aad-ml",
+       "font": {
+        "fs": "16px",
+        "fw": "400",
+        "lh": "28.8px",
+        "ls": "0.32px",
+        "ta": "start",
+        "color": "rgb(26, 23, 20)"
+       },
+       "box": {
+        "top": 1871,
+        "left": 22,
+        "w": 724,
+        "h": 153
+       }
+      },
+      "grids": []
+     },
+     {
+      "cls": "aad-sec",
+      "box": {
+       "top": 2064,
+       "left": 22,
+       "w": 724,
+       "h": 177
+      },
+      "gapAbove": 40,
+      "secStyle": {
+       "marginTop": "40px",
+       "paddingTop": "38px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "作家メッセージ",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 2103
+      },
+      "body": {
+       "cls": "aad-ml",
+       "font": {
+        "fs": "16px",
+        "fw": "400",
+        "lh": "28.8px",
+        "ls": "0.32px",
+        "ta": "start",
+        "color": "rgb(26, 23, 20)"
+       },
+       "box": {
+        "top": 2149,
+        "left": 22,
+        "w": 724,
+        "h": 92
+       }
+      },
+      "grids": []
+     },
+     {
+      "cls": "aad-sec",
+      "box": {
+       "top": 2281,
+       "left": 22,
+       "w": 724,
+       "h": 341
+      },
+      "gapAbove": 40,
+      "secStyle": {
+       "marginTop": "40px",
+       "paddingTop": "38px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "著書",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 2320
+      },
+      "body": {
+       "cls": "",
+       "font": {
+        "fs": "15px",
+        "fw": "300",
+        "lh": "29.25px",
+        "ls": "0.32px",
+        "ta": "left",
+        "color": "rgb(74, 68, 61)"
+       },
+       "box": {
+        "top": 2366,
+        "left": 22,
+        "w": 724,
+        "h": 29
+       }
+      },
+      "grids": []
+     },
+     {
+      "cls": "aad-sec",
+      "box": {
+       "top": 2661,
+       "left": 22,
+       "w": 724,
+       "h": 924
+      },
+      "gapAbove": 39,
+      "secStyle": {
+       "marginTop": "40px",
+       "paddingTop": "38px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "あつぺくとチャンネル",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 2700
+      },
+      "body": null,
+      "grids": [
+       {
+        "cls": "aad-film-grid",
+        "display": "flex",
+        "cols": "none",
+        "gap": "24px",
+        "box": {
+         "top": 2747,
+         "left": 22,
+         "w": 724,
+         "h": 839
+        },
+        "firstImg": null
+       }
+      ]
+     },
+     {
+      "cls": "aad-sec aad-works",
+      "box": {
+       "top": 3625,
+       "left": 22,
+       "w": 724,
+       "h": 2132
+      },
+      "gapAbove": 40,
+      "secStyle": {
+       "marginTop": "40px",
+       "paddingTop": "38px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "販売作品",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 3664
+      },
+      "body": {
+       "cls": "aad-works-intro",
+       "font": {
+        "fs": "13px",
+        "fw": "300",
+        "lh": "22.1px",
+        "ls": "0.32px",
+        "ta": "center",
+        "color": "rgb(111, 106, 99)"
+       },
+       "box": {
+        "top": 3710,
+        "left": 22,
+        "w": 724,
+        "h": 44
+       }
+      },
+      "grids": [
+       {
+        "cls": "aad-works-grid",
+        "display": "grid",
+        "cols": "724px",
+        "gap": "30px",
+        "box": {
+         "top": 3778,
+         "left": 22,
+         "w": 724,
+         "h": 1978
+        },
+        "firstImg": {
+         "box": {
+          "top": 3788,
+          "left": 32,
+          "w": 704,
+          "h": 523
+         },
+         "nw": 760,
+         "nh": 566,
+         "objectFit": "contain"
+        }
+       }
+      ]
+     }
+    ],
+    "bioBody": {
+     "font": {
+      "fs": "16px",
+      "fw": "400",
+      "lh": "28.8px",
+      "ls": "0.32px",
+      "ta": "start",
+      "color": "rgb(26, 23, 20)"
+     },
+     "width": 724,
+     "html": "<div class=\"aad-body aad-l\" data-lang=\"ja\" style=\"display: block;\">日本大学理工学部薬学科を卒業後、造形の道へ進む。造形作家・友永詔三、彫刻家・細井良雄、木彫家・牧田裕次郎に師事。国立劇場では菱田宏治氏・名越詔司氏に師事し、文楽人形の床山を経て、首（かしら）の制作の修行を積んだ。創型会会友を経て、現在は無所属で制作を続けている。日本橋髙島屋、京王プラザホテルロビーギャラリー、埼玉県立近代美術館などで個展を重ねている。</div><div class=\"aad-body aad-l\" data-lang=\"en\" style=\"d"
+    },
+    "foot": {
+     "box": {
+      "top": 5821,
+      "left": 22,
+      "w": 724,
+      "h": 139
+     },
+     "totop": {
+      "font": {
+       "fs": "13px",
+       "fw": "400",
+       "lh": "normal",
+       "ls": "0.65px",
+       "ta": "center",
+       "color": "rgb(111, 106, 99)"
+      },
+      "text": "▲ ページトップへ戻る"
+     },
+     "copyr": {
+      "font": {
+       "fs": "12px",
+       "fw": "300",
+       "lh": "21.6px",
+       "ls": "0.32px",
+       "ta": "left",
+       "color": "rgb(140, 134, 125)"
+      },
+      "text": "掲載作品の画像・文章の無断転載および複製を禁じます。© ARTS RESPECT Co., Ltd."
+     }
+    }
+   },
+   "1280": {
+    "innerWidth": 1280,
+    "title": "鈴木 千賀子（Suzuki Chikako）｜あつぺくと",
+    "layout": {
+     "main": {
+      "top": 174,
+      "left": 84,
+      "w": 1112,
+      "h": 3579
+     },
+     "rail": {
+      "top": 234,
+      "left": 84,
+      "w": 300,
+      "h": 753
+     },
+     "content": {
+      "top": 234,
+      "left": 456,
+      "w": 740,
+      "h": 3429
+     },
+     "mainStyle": {
+      "display": "grid",
+      "gap": "72px",
+      "gridTemplateColumns": "300px 740px",
+      "padding": "60px 0px 90px"
+     },
+     "railPosition": "sticky"
+    },
+    "rail": {
+     "cat": {
+      "box": {
+       "top": 234,
+       "left": 108,
+       "w": 28,
+       "h": 22
+      },
+      "font": {
+       "fs": "12px",
+       "fw": "300",
+       "lh": "21.6px",
+       "ls": "2.16px",
+       "ta": "center",
+       "color": "rgb(125, 118, 108)"
+      },
+      "text": "彫刻",
+      "visible": true
+     },
+     "name": {
+      "box": {
+       "top": 267,
+       "left": 84,
+       "w": 300,
+       "h": 26
+      },
+      "font": {
+       "fs": "25px",
+       "fw": "500",
+       "lh": "26px",
+       "ls": "0.75px",
+       "ta": "center",
+       "color": "rgb(20, 20, 20)"
+      },
+      "text": "鈴木 千賀子",
+      "visible": true
+     },
+     "en": {
+      "box": {
+       "top": 297,
+       "left": 84,
+       "w": 300,
+       "h": 23
+      },
+      "font": {
+       "fs": "13px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.52px",
+       "ta": "center",
+       "color": "rgb(111, 106, 99)"
+      },
+      "text": "Suzuki Chikako",
+      "visible": true
+     },
+     "genre": {
+      "box": {
+       "top": 341,
+       "left": 84,
+       "w": 300,
+       "h": 23
+      },
+      "font": {
+       "fs": "13px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.52px",
+       "ta": "center",
+       "color": "rgb(95, 90, 83)"
+      },
+      "text": "造形作家",
+      "visible": true
+     },
+     "img": {
+      "box": {
+       "top": 390,
+       "left": 84,
+       "w": 300,
+       "h": 361
+      },
+      "font": {
+       "fs": "16px",
+       "fw": "400",
+       "lh": "28.8px",
+       "ls": "0.32px",
+       "ta": "center",
+       "color": "rgb(26, 23, 20)"
+      },
+      "text": "",
+      "visible": true
+     },
+     "facts": {
+      "box": {
+       "top": 772,
+       "left": 84,
+       "w": 300,
+       "h": 27
+      },
+      "font": {
+       "fs": "14px",
+       "fw": "300",
+       "lh": "27.3px",
+       "ls": "0.56px",
+       "ta": "center",
+       "color": "rgb(58, 53, 47)"
+      },
+      "text": "生年1949 ／ 出身埼玉県",
+      "visible": true
+     },
+     "stmt": {
+      "box": {
+       "top": 828,
+       "left": 135,
+       "w": 198,
+       "h": 51
+      },
+      "font": {
+       "fs": "12.4px",
+       "fw": "400",
+       "lh": "21.08px",
+       "ls": "0.992px",
+       "ta": "center",
+       "color": "rgb(27, 24, 21)"
+      },
+      "text": "祈りの造形・愛しき動物たち",
+      "visible": true
+     },
+     "imgNatural": {
+      "nw": 600,
+      "nh": 721,
+      "objectFit": "fill",
+      "aspectRatio": "auto 300 / 400"
+     },
+     "factsLabel": {
+      "font": {
+       "fs": "12px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.72px",
+       "ta": "center",
+       "color": "rgb(140, 134, 125)"
+      },
+      "text": "生年"
+     }
+    },
+    "lead": {
+     "art": {
+      "top": 234,
+      "left": 456,
+      "w": 740,
+      "h": 534
+     },
+     "artStyle": {
+      "maxHeight": "none",
+      "height": "534.375px",
+      "background": "rgb(243, 241, 236)"
+     },
+     "img": {
+      "box": {
+       "top": 234,
+       "left": 456,
+       "w": 740,
+       "h": 534
+      },
+      "nw": 1400,
+      "nh": 1011,
+      "objectFit": "contain",
+      "maxHeight": "100%"
+     },
+     "capT": {
+      "font": {
+       "fs": "15.5px",
+       "fw": "500",
+       "lh": "27.9px",
+       "ls": "0.32px",
+       "ta": "center",
+       "color": "rgb(42, 38, 32)"
+      },
+      "text": "《相撲》ウサギとカエル",
+      "box": {
+       "top": 790,
+       "left": 456,
+       "w": 740,
+       "h": 28
+      }
+     },
+     "capM": {
+      "font": {
+       "fs": "13px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.32px",
+       "ta": "center",
+       "color": "rgb(111, 106, 99)"
+      },
+      "text": "ヒノキ・彩色・箔　H23×W30×D20cm"
+     }
+    },
+    "sections": [
+     {
+      "cls": "aad-sec",
+      "box": {
+       "top": 910,
+       "left": 456,
+       "w": 740,
+       "h": 258
+      },
+      "gapAbove": 61,
+      "secStyle": {
+       "marginTop": "62px",
+       "paddingTop": "58px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "略歴",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 969
+      },
+      "body": {
+       "cls": "aad-ml",
+       "font": {
+        "fs": "16px",
+        "fw": "400",
+        "lh": "28.8px",
+        "ls": "0.32px",
+        "ta": "start",
+        "color": "rgb(26, 23, 20)"
+       },
+       "box": {
+        "top": 1015,
+        "left": 456,
+        "w": 740,
+        "h": 153
+       }
+      },
+      "grids": []
+     },
+     {
+      "cls": "aad-sec",
+      "box": {
+       "top": 1230,
+       "left": 456,
+       "w": 740,
+       "h": 197
+      },
+      "gapAbove": 62,
+      "secStyle": {
+       "marginTop": "62px",
+       "paddingTop": "58px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "作家メッセージ",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 1289
+      },
+      "body": {
+       "cls": "aad-ml",
+       "font": {
+        "fs": "16px",
+        "fw": "400",
+        "lh": "28.8px",
+        "ls": "0.32px",
+        "ta": "start",
+        "color": "rgb(26, 23, 20)"
+       },
+       "box": {
+        "top": 1336,
+        "left": 456,
+        "w": 740,
+        "h": 92
+       }
+      },
+      "grids": []
+     },
+     {
+      "cls": "aad-sec",
+      "box": {
+       "top": 1489,
+       "left": 456,
+       "w": 740,
+       "h": 361
+      },
+      "gapAbove": 62,
+      "secStyle": {
+       "marginTop": "62px",
+       "paddingTop": "58px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "著書",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 1548
+      },
+      "body": {
+       "cls": "",
+       "font": {
+        "fs": "15px",
+        "fw": "300",
+        "lh": "29.25px",
+        "ls": "0.32px",
+        "ta": "left",
+        "color": "rgb(74, 68, 61)"
+       },
+       "box": {
+        "top": 1595,
+        "left": 456,
+        "w": 740,
+        "h": 29
+       }
+      },
+      "grids": []
+     },
+     {
+      "cls": "aad-sec",
+      "box": {
+       "top": 1912,
+       "left": 456,
+       "w": 740,
+       "h": 759
+      },
+      "gapAbove": 62,
+      "secStyle": {
+       "marginTop": "62px",
+       "paddingTop": "58px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "あつぺくとチャンネル",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 1971
+      },
+      "body": null,
+      "grids": [
+       {
+        "cls": "aad-film-grid",
+        "display": "flex",
+        "cols": "none",
+        "gap": "24px",
+        "box": {
+         "top": 2017,
+         "left": 456,
+         "w": 740,
+         "h": 654
+        },
+        "firstImg": null
+       }
+      ]
+     },
+     {
+      "cls": "aad-sec aad-works",
+      "box": {
+       "top": 2733,
+       "left": 456,
+       "w": 740,
+       "h": 930
+      },
+      "gapAbove": 62,
+      "secStyle": {
+       "marginTop": "62px",
+       "paddingTop": "58px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "販売作品",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 2792
+      },
+      "body": {
+       "cls": "aad-works-intro",
+       "font": {
+        "fs": "13px",
+        "fw": "300",
+        "lh": "22.1px",
+        "ls": "0.32px",
+        "ta": "left",
+        "color": "rgb(111, 106, 99)"
+       },
+       "box": {
+        "top": 2838,
+        "left": 456,
+        "w": 740,
+        "h": 44
+       }
+      },
+      "grids": [
+       {
+        "cls": "aad-works-grid",
+        "display": "grid",
+        "cols": "353px 353px",
+        "gap": "34px",
+        "box": {
+         "top": 2907,
+         "left": 456,
+         "w": 740,
+         "h": 756
+        },
+        "firstImg": {
+         "box": {
+          "top": 2917,
+          "left": 466,
+          "w": 333,
+          "h": 245
+         },
+         "nw": 760,
+         "nh": 566,
+         "objectFit": "contain"
+        }
+       }
+      ]
+     }
+    ],
+    "bioBody": {
+     "font": {
+      "fs": "16px",
+      "fw": "400",
+      "lh": "28.8px",
+      "ls": "0.32px",
+      "ta": "start",
+      "color": "rgb(26, 23, 20)"
+     },
+     "width": 740,
+     "html": "<div class=\"aad-body aad-l\" data-lang=\"ja\" style=\"display: block;\">日本大学理工学部薬学科を卒業後、造形の道へ進む。造形作家・友永詔三、彫刻家・細井良雄、木彫家・牧田裕次郎に師事。国立劇場では菱田宏治氏・名越詔司氏に師事し、文楽人形の床山を経て、首（かしら）の制作の修行を積んだ。創型会会友を経て、現在は無所属で制作を続けている。日本橋髙島屋、京王プラザホテルロビーギャラリー、埼玉県立近代美術館などで個展を重ねている。</div><div class=\"aad-body aad-l\" data-lang=\"en\" style=\"d"
+    },
+    "foot": {
+     "box": {
+      "top": 3753,
+      "left": 84,
+      "w": 1112,
+      "h": 139
+     },
+     "totop": {
+      "font": {
+       "fs": "13px",
+       "fw": "400",
+       "lh": "normal",
+       "ls": "0.65px",
+       "ta": "center",
+       "color": "rgb(111, 106, 99)"
+      },
+      "text": "▲ ページトップへ戻る"
+     },
+     "copyr": {
+      "font": {
+       "fs": "12px",
+       "fw": "300",
+       "lh": "21.6px",
+       "ls": "0.32px",
+       "ta": "left",
+       "color": "rgb(140, 134, 125)"
+      },
+      "text": "掲載作品の画像・文章の無断転載および複製を禁じます。© ARTS RESPECT Co., Ltd."
+     }
+    }
+   }
+  },
+  "fujishiro-norio": {
+   "390": {
+    "innerWidth": 390,
+    "title": "藤代 範雄（Fujishiro Norio）｜あつぺくと",
+    "layout": {
+     "main": {
+      "top": 110,
+      "left": 22,
+      "w": 346,
+      "h": 5030
+     },
+     "rail": {
+      "top": 140,
+      "left": 22,
+      "w": 346,
+      "h": 699
+     },
+     "content": {
+      "top": 875,
+      "left": 22,
+      "w": 346,
+      "h": 4200
+     },
+     "mainStyle": {
+      "display": "grid",
+      "gap": "36px",
+      "gridTemplateColumns": "346px",
+      "padding": "30px 0px 64px"
+     },
+     "railPosition": "static"
+    },
+    "rail": {
+     "cat": {
+      "box": {
+       "top": 140,
+       "left": 46,
+       "w": 28,
+       "h": 22
+      },
+      "font": {
+       "fs": "12px",
+       "fw": "300",
+       "lh": "21.6px",
+       "ls": "2.16px",
+       "ta": "center",
+       "color": "rgb(125, 118, 108)"
+      },
+      "text": "工芸",
+      "visible": true
+     },
+     "name": {
+      "box": {
+       "top": 207,
+       "left": 22,
+       "w": 346,
+       "h": 21
+      },
+      "font": {
+       "fs": "20px",
+       "fw": "500",
+       "lh": "20.8px",
+       "ls": "0.6px",
+       "ta": "center",
+       "color": "rgb(20, 20, 20)"
+      },
+      "text": "藤代 範雄",
+      "visible": true
+     },
+     "en": {
+      "box": {
+       "top": 232,
+       "left": 22,
+       "w": 346,
+       "h": 23
+      },
+      "font": {
+       "fs": "13px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.52px",
+       "ta": "center",
+       "color": "rgb(111, 106, 99)"
+      },
+      "text": "Fujishiro Norio",
+      "visible": true
+     },
+     "genre": {
+      "box": {
+       "top": 275,
+       "left": 22,
+       "w": 346,
+       "h": 23
+      },
+      "font": {
+       "fs": "13px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.52px",
+       "ta": "center",
+       "color": "rgb(95, 90, 83)"
+      },
+      "text": "ガラス工芸家／グラフィックデザイナー",
+      "visible": true
+     },
+     "img": {
+      "box": {
+       "top": 324,
+       "left": 88,
+       "w": 215,
+       "h": 286
+      },
+      "font": {
+       "fs": "16px",
+       "fw": "400",
+       "lh": "28.8px",
+       "ls": "0.32px",
+       "ta": "center",
+       "color": "rgb(26, 23, 20)"
+      },
+      "text": "",
+      "visible": true
+     },
+     "facts": {
+      "box": {
+       "top": 632,
+       "left": 22,
+       "w": 346,
+       "h": 27
+      },
+      "font": {
+       "fs": "14px",
+       "fw": "300",
+       "lh": "27.3px",
+       "ls": "0.56px",
+       "ta": "center",
+       "color": "rgb(58, 53, 47)"
+      },
+      "text": "出身山形",
+      "visible": true
+     },
+     "stmt": {
+      "box": {
+       "top": 688,
+       "left": 50,
+       "w": 291,
+       "h": 51
+      },
+      "font": {
+       "fs": "12.4px",
+       "fw": "400",
+       "lh": "21.08px",
+       "ls": "0.992px",
+       "ta": "center",
+       "color": "rgb(27, 24, 21)"
+      },
+      "text": "境界を越えていく色彩あふれるガラスの世界",
+      "visible": true
+     },
+     "imgNatural": {
+      "nw": 0,
+      "nh": 0,
+      "objectFit": "fill",
+      "aspectRatio": "auto 300 / 400"
+     },
+     "factsLabel": {
+      "font": {
+       "fs": "12px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.72px",
+       "ta": "center",
+       "color": "rgb(140, 134, 125)"
+      },
+      "text": "出身"
+     }
+    },
+    "lead": {
+     "art": {
+      "top": 875,
+      "left": 22,
+      "w": 346,
+      "h": 519
+     },
+     "artStyle": {
+      "maxHeight": "none",
+      "height": "519px",
+      "background": "rgba(0, 0, 0, 0)"
+     },
+     "img": {
+      "box": {
+       "top": 875,
+       "left": 22,
+       "w": 346,
+       "h": 519
+      },
+      "nw": 1400,
+      "nh": 2100,
+      "objectFit": "contain",
+      "maxHeight": "630px"
+     },
+     "capT": {
+      "font": {
+       "fs": "15.5px",
+       "fw": "500",
+       "lh": "27.9px",
+       "ls": "0.32px",
+       "ta": "center",
+       "color": "rgb(42, 38, 32)"
+      },
+      "text": "《●》",
+      "box": {
+       "top": 1416,
+       "left": 22,
+       "w": 346,
+       "h": 28
+      }
+     },
+     "capM": {
+      "font": {
+       "fs": "13px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.32px",
+       "ta": "center",
+       "color": "rgb(111, 106, 99)"
+      },
+      "text": "●"
+     }
+    },
+    "sections": [
+     {
+      "cls": "aad-sec",
+      "box": {
+       "top": 1514,
+       "left": 22,
+       "w": 346,
+       "h": 1278
+      },
+      "gapAbove": 40,
+      "secStyle": {
+       "marginTop": "40px",
+       "paddingTop": "38px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "略歴",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 1553
+      },
+      "body": {
+       "cls": "aad-ml",
+       "font": {
+        "fs": "16px",
+        "fw": "400",
+        "lh": "28.8px",
+        "ls": "0.32px",
+        "ta": "start",
+        "color": "rgb(26, 23, 20)"
+       },
+       "box": {
+        "top": 1599,
+        "left": 22,
+        "w": 346,
+        "h": 1193
+       }
+      },
+      "grids": []
+     },
+     {
+      "cls": "aad-sec",
+      "box": {
+       "top": 2832,
+       "left": 22,
+       "w": 346,
+       "h": 367
+      },
+      "gapAbove": 40,
+      "secStyle": {
+       "marginTop": "40px",
+       "paddingTop": "38px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "デザイン",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 2871
+      },
+      "body": null,
+      "grids": []
+     },
+     {
+      "cls": "aad-sec",
+      "box": {
+       "top": 3239,
+       "left": 22,
+       "w": 346,
+       "h": 514
+      },
+      "gapAbove": 40,
+      "secStyle": {
+       "marginTop": "40px",
+       "paddingTop": "38px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "あつぺくとチャンネル",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 3278
+      },
+      "body": null,
+      "grids": [
+       {
+        "cls": "aad-film-grid",
+        "display": "flex",
+        "cols": "none",
+        "gap": "40px",
+        "box": {
+         "top": 3325,
+         "left": 22,
+         "w": 346,
+         "h": 429
+        },
+        "firstImg": null
+       }
+      ]
+     },
+     {
+      "cls": "aad-sec aad-works",
+      "box": {
+       "top": 3794,
+       "left": 22,
+       "w": 346,
+       "h": 1281
+      },
+      "gapAbove": 41,
+      "secStyle": {
+       "marginTop": "40px",
+       "paddingTop": "38px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "販売作品",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 3833
+      },
+      "body": {
+       "cls": "aad-works-intro",
+       "font": {
+        "fs": "13px",
+        "fw": "300",
+        "lh": "22.1px",
+        "ls": "0.32px",
+        "ta": "center",
+        "color": "rgb(111, 106, 99)"
+       },
+       "box": {
+        "top": 3879,
+        "left": 22,
+        "w": 346,
+        "h": 44
+       }
+      },
+      "grids": [
+       {
+        "cls": "aad-works-grid",
+        "display": "grid",
+        "cols": "346px",
+        "gap": "30px",
+        "box": {
+         "top": 3947,
+         "left": 22,
+         "w": 346,
+         "h": 1128
+        },
+        "firstImg": {
+         "box": {
+          "top": 3957,
+          "left": 32,
+          "w": 326,
+          "h": 240
+         },
+         "nw": 760,
+         "nh": 507,
+         "objectFit": "contain"
+        }
+       }
+      ]
+     }
+    ],
+    "bioBody": {
+     "font": {
+      "fs": "16px",
+      "fw": "400",
+      "lh": "28.8px",
+      "ls": "0.32px",
+      "ta": "start",
+      "color": "rgb(26, 23, 20)"
+     },
+     "width": 346,
+     "html": "<div class=\"aad-body aad-l\" data-lang=\"ja\" style=\"display: block;\">茨城を拠点に、ガラスの制作を続けている。制作はイタリア・ヴェネツィアのガラス工房に渡って行い、沖縄をはじめ各地の工房でも手を動かす。確かな手わざは、若い日の修行で培われた。張りつめた空気の絶えない、つねに命と隣り合わせの現場だった。のちにグラフィックデザインの道へ進み、デザイナーとしての歳月を重ねるうちに、ガラスへの憧れと情熱がふたたび呼び起こされた。誰もが驚くようなガラス作品をつくりたい——その願いが、いまの仕事を支えている。<br>\n<br>\n【デザイン】<"
+    },
+    "foot": {
+     "box": {
+      "top": 5139,
+      "left": 22,
+      "w": 346,
+      "h": 139
+     },
+     "totop": {
+      "font": {
+       "fs": "13px",
+       "fw": "400",
+       "lh": "normal",
+       "ls": "0.65px",
+       "ta": "center",
+       "color": "rgb(111, 106, 99)"
+      },
+      "text": "▲ ページトップへ戻る"
+     },
+     "copyr": {
+      "font": {
+       "fs": "12px",
+       "fw": "300",
+       "lh": "21.6px",
+       "ls": "0.32px",
+       "ta": "left",
+       "color": "rgb(140, 134, 125)"
+      },
+      "text": "掲載作品の画像・文章の無断転載および複製を禁じます。© ARTS RESPECT Co., Ltd."
+     }
+    }
+   },
+   "768": {
+    "innerWidth": 768,
+    "title": "藤代 範雄（Fujishiro Norio）｜あつぺくと",
+    "layout": {
+     "main": {
+      "top": 158,
+      "left": 22,
+      "w": 724,
+      "h": 6176
+     },
+     "rail": {
+      "top": 188,
+      "left": 22,
+      "w": 724,
+      "h": 933
+     },
+     "content": {
+      "top": 1156,
+      "left": 22,
+      "w": 724,
+      "h": 5113
+     },
+     "mainStyle": {
+      "display": "grid",
+      "gap": "36px",
+      "gridTemplateColumns": "724px",
+      "padding": "30px 0px 64px"
+     },
+     "railPosition": "static"
+    },
+    "rail": {
+     "cat": {
+      "box": {
+       "top": 188,
+       "left": 46,
+       "w": 28,
+       "h": 22
+      },
+      "font": {
+       "fs": "12px",
+       "fw": "300",
+       "lh": "21.6px",
+       "ls": "2.16px",
+       "ta": "center",
+       "color": "rgb(125, 118, 108)"
+      },
+      "text": "工芸",
+      "visible": true
+     },
+     "name": {
+      "box": {
+       "top": 255,
+       "left": 22,
+       "w": 724,
+       "h": 21
+      },
+      "font": {
+       "fs": "20px",
+       "fw": "500",
+       "lh": "20.8px",
+       "ls": "0.6px",
+       "ta": "center",
+       "color": "rgb(20, 20, 20)"
+      },
+      "text": "藤代 範雄",
+      "visible": true
+     },
+     "en": {
+      "box": {
+       "top": 280,
+       "left": 22,
+       "w": 724,
+       "h": 23
+      },
+      "font": {
+       "fs": "13px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.52px",
+       "ta": "center",
+       "color": "rgb(111, 106, 99)"
+      },
+      "text": "Fujishiro Norio",
+      "visible": true
+     },
+     "genre": {
+      "box": {
+       "top": 323,
+       "left": 22,
+       "w": 724,
+       "h": 23
+      },
+      "font": {
+       "fs": "13px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.52px",
+       "ta": "center",
+       "color": "rgb(95, 90, 83)"
+      },
+      "text": "ガラス工芸家／グラフィックデザイナー",
+      "visible": true
+     },
+     "img": {
+      "box": {
+       "top": 372,
+       "left": 160,
+       "w": 449,
+       "h": 520
+      },
+      "font": {
+       "fs": "16px",
+       "fw": "400",
+       "lh": "28.8px",
+       "ls": "0.32px",
+       "ta": "center",
+       "color": "rgb(26, 23, 20)"
+      },
+      "text": "",
+      "visible": true
+     },
+     "facts": {
+      "box": {
+       "top": 914,
+       "left": 22,
+       "w": 724,
+       "h": 27
+      },
+      "font": {
+       "fs": "14px",
+       "fw": "300",
+       "lh": "27.3px",
+       "ls": "0.56px",
+       "ta": "center",
+       "color": "rgb(58, 53, 47)"
+      },
+      "text": "出身山形",
+      "visible": true
+     },
+     "stmt": {
+      "box": {
+       "top": 969,
+       "left": 239,
+       "w": 291,
+       "h": 51
+      },
+      "font": {
+       "fs": "12.4px",
+       "fw": "400",
+       "lh": "21.08px",
+       "ls": "0.992px",
+       "ta": "center",
+       "color": "rgb(27, 24, 21)"
+      },
+      "text": "境界を越えていく色彩あふれるガラスの世界",
+      "visible": true
+     },
+     "imgNatural": {
+      "nw": 456,
+      "nh": 528,
+      "objectFit": "fill",
+      "aspectRatio": "auto 300 / 400"
+     },
+     "factsLabel": {
+      "font": {
+       "fs": "12px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.72px",
+       "ta": "center",
+       "color": "rgb(140, 134, 125)"
+      },
+      "text": "出身"
+     }
+    },
+    "lead": {
+     "art": {
+      "top": 1156,
+      "left": 22,
+      "w": 724,
+      "h": 630
+     },
+     "artStyle": {
+      "maxHeight": "none",
+      "height": "630px",
+      "background": "rgba(0, 0, 0, 0)"
+     },
+     "img": {
+      "box": {
+       "top": 1156,
+       "left": 174,
+       "w": 420,
+       "h": 630
+      },
+      "nw": 1400,
+      "nh": 2100,
+      "objectFit": "contain",
+      "maxHeight": "630px"
+     },
+     "capT": {
+      "font": {
+       "fs": "15.5px",
+       "fw": "500",
+       "lh": "27.9px",
+       "ls": "0.32px",
+       "ta": "center",
+       "color": "rgb(42, 38, 32)"
+      },
+      "text": "《●》",
+      "box": {
+       "top": 1808,
+       "left": 22,
+       "w": 724,
+       "h": 28
+      }
+     },
+     "capM": {
+      "font": {
+       "fs": "13px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.32px",
+       "ta": "center",
+       "color": "rgb(111, 106, 99)"
+      },
+      "text": "●"
+     }
+    },
+    "sections": [
+     {
+      "cls": "aad-sec",
+      "box": {
+       "top": 1907,
+       "left": 22,
+       "w": 724,
+       "h": 789
+      },
+      "gapAbove": 41,
+      "secStyle": {
+       "marginTop": "40px",
+       "paddingTop": "38px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "略歴",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 1946
+      },
+      "body": {
+       "cls": "aad-ml",
+       "font": {
+        "fs": "16px",
+        "fw": "400",
+        "lh": "28.8px",
+        "ls": "0.32px",
+        "ta": "start",
+        "color": "rgb(26, 23, 20)"
+       },
+       "box": {
+        "top": 1992,
+        "left": 22,
+        "w": 724,
+        "h": 704
+       }
+      },
+      "grids": []
+     },
+     {
+      "cls": "aad-sec",
+      "box": {
+       "top": 2736,
+       "left": 22,
+       "w": 724,
+       "h": 382
+      },
+      "gapAbove": 40,
+      "secStyle": {
+       "marginTop": "40px",
+       "paddingTop": "38px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "デザイン",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 2775
+      },
+      "body": null,
+      "grids": []
+     },
+     {
+      "cls": "aad-sec",
+      "box": {
+       "top": 3158,
+       "left": 22,
+       "w": 724,
+       "h": 940
+      },
+      "gapAbove": 40,
+      "secStyle": {
+       "marginTop": "40px",
+       "paddingTop": "38px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "あつぺくとチャンネル",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 3197
+      },
+      "body": null,
+      "grids": [
+       {
+        "cls": "aad-film-grid",
+        "display": "flex",
+        "cols": "none",
+        "gap": "40px",
+        "box": {
+         "top": 3243,
+         "left": 22,
+         "w": 724,
+         "h": 855
+        },
+        "firstImg": null
+       }
+      ]
+     },
+     {
+      "cls": "aad-sec aad-works",
+      "box": {
+       "top": 4138,
+       "left": 22,
+       "w": 724,
+       "h": 2132
+      },
+      "gapAbove": 40,
+      "secStyle": {
+       "marginTop": "40px",
+       "paddingTop": "38px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "販売作品",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 4177
+      },
+      "body": {
+       "cls": "aad-works-intro",
+       "font": {
+        "fs": "13px",
+        "fw": "300",
+        "lh": "22.1px",
+        "ls": "0.32px",
+        "ta": "center",
+        "color": "rgb(111, 106, 99)"
+       },
+       "box": {
+        "top": 4223,
+        "left": 22,
+        "w": 724,
+        "h": 44
+       }
+      },
+      "grids": [
+       {
+        "cls": "aad-works-grid",
+        "display": "grid",
+        "cols": "724px",
+        "gap": "30px",
+        "box": {
+         "top": 4291,
+         "left": 22,
+         "w": 724,
+         "h": 1978
+        },
+        "firstImg": {
+         "box": {
+          "top": 4301,
+          "left": 32,
+          "w": 704,
+          "h": 523
+         },
+         "nw": 760,
+         "nh": 507,
+         "objectFit": "contain"
+        }
+       }
+      ]
+     }
+    ],
+    "bioBody": {
+     "font": {
+      "fs": "16px",
+      "fw": "400",
+      "lh": "28.8px",
+      "ls": "0.32px",
+      "ta": "start",
+      "color": "rgb(26, 23, 20)"
+     },
+     "width": 724,
+     "html": "<div class=\"aad-body aad-l\" data-lang=\"ja\" style=\"display: block;\">茨城を拠点に、ガラスの制作を続けている。制作はイタリア・ヴェネツィアのガラス工房に渡って行い、沖縄をはじめ各地の工房でも手を動かす。確かな手わざは、若い日の修行で培われた。張りつめた空気の絶えない、つねに命と隣り合わせの現場だった。のちにグラフィックデザインの道へ進み、デザイナーとしての歳月を重ねるうちに、ガラスへの憧れと情熱がふたたび呼び起こされた。誰もが驚くようなガラス作品をつくりたい——その願いが、いまの仕事を支えている。<br>\n<br>\n【デザイン】<"
+    },
+    "foot": {
+     "box": {
+      "top": 6333,
+      "left": 22,
+      "w": 724,
+      "h": 139
+     },
+     "totop": {
+      "font": {
+       "fs": "13px",
+       "fw": "400",
+       "lh": "normal",
+       "ls": "0.65px",
+       "ta": "center",
+       "color": "rgb(111, 106, 99)"
+      },
+      "text": "▲ ページトップへ戻る"
+     },
+     "copyr": {
+      "font": {
+       "fs": "12px",
+       "fw": "300",
+       "lh": "21.6px",
+       "ls": "0.32px",
+       "ta": "left",
+       "color": "rgb(140, 134, 125)"
+      },
+      "text": "掲載作品の画像・文章の無断転載および複製を禁じます。© ARTS RESPECT Co., Ltd."
+     }
+    }
+   },
+   "1280": {
+    "innerWidth": 1280,
+    "title": "藤代 範雄（Fujishiro Norio）｜あつぺくと",
+    "layout": {
+     "main": {
+      "top": 174,
+      "left": 84,
+      "w": 1112,
+      "h": 4025
+     },
+     "rail": {
+      "top": 234,
+      "left": 84,
+      "w": 300,
+      "h": 774
+     },
+     "content": {
+      "top": 234,
+      "left": 456,
+      "w": 740,
+      "h": 3875
+     },
+     "mainStyle": {
+      "display": "grid",
+      "gap": "72px",
+      "gridTemplateColumns": "300px 740px",
+      "padding": "60px 0px 90px"
+     },
+     "railPosition": "sticky"
+    },
+    "rail": {
+     "cat": {
+      "box": {
+       "top": 234,
+       "left": 108,
+       "w": 28,
+       "h": 22
+      },
+      "font": {
+       "fs": "12px",
+       "fw": "300",
+       "lh": "21.6px",
+       "ls": "2.16px",
+       "ta": "center",
+       "color": "rgb(125, 118, 108)"
+      },
+      "text": "工芸",
+      "visible": true
+     },
+     "name": {
+      "box": {
+       "top": 301,
+       "left": 84,
+       "w": 300,
+       "h": 26
+      },
+      "font": {
+       "fs": "25px",
+       "fw": "500",
+       "lh": "26px",
+       "ls": "0.75px",
+       "ta": "center",
+       "color": "rgb(20, 20, 20)"
+      },
+      "text": "藤代 範雄",
+      "visible": true
+     },
+     "en": {
+      "box": {
+       "top": 331,
+       "left": 84,
+       "w": 300,
+       "h": 23
+      },
+      "font": {
+       "fs": "13px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.52px",
+       "ta": "center",
+       "color": "rgb(111, 106, 99)"
+      },
+      "text": "Fujishiro Norio",
+      "visible": true
+     },
+     "genre": {
+      "box": {
+       "top": 374,
+       "left": 84,
+       "w": 300,
+       "h": 23
+      },
+      "font": {
+       "fs": "13px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.52px",
+       "ta": "center",
+       "color": "rgb(95, 90, 83)"
+      },
+      "text": "ガラス工芸家／グラフィックデザイナー",
+      "visible": true
+     },
+     "img": {
+      "box": {
+       "top": 424,
+       "left": 84,
+       "w": 300,
+       "h": 347
+      },
+      "font": {
+       "fs": "16px",
+       "fw": "400",
+       "lh": "28.8px",
+       "ls": "0.32px",
+       "ta": "center",
+       "color": "rgb(26, 23, 20)"
+      },
+      "text": "",
+      "visible": true
+     },
+     "facts": {
+      "box": {
+       "top": 793,
+       "left": 84,
+       "w": 300,
+       "h": 27
+      },
+      "font": {
+       "fs": "14px",
+       "fw": "300",
+       "lh": "27.3px",
+       "ls": "0.56px",
+       "ta": "center",
+       "color": "rgb(58, 53, 47)"
+      },
+      "text": "出身山形",
+      "visible": true
+     },
+     "stmt": {
+      "box": {
+       "top": 848,
+       "left": 89,
+       "w": 291,
+       "h": 51
+      },
+      "font": {
+       "fs": "12.4px",
+       "fw": "400",
+       "lh": "21.08px",
+       "ls": "0.992px",
+       "ta": "center",
+       "color": "rgb(27, 24, 21)"
+      },
+      "text": "境界を越えていく色彩あふれるガラスの世界",
+      "visible": true
+     },
+     "imgNatural": {
+      "nw": 456,
+      "nh": 528,
+      "objectFit": "fill",
+      "aspectRatio": "auto 300 / 400"
+     },
+     "factsLabel": {
+      "font": {
+       "fs": "12px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.72px",
+       "ta": "center",
+       "color": "rgb(140, 134, 125)"
+      },
+      "text": "出身"
+     }
+    },
+    "lead": {
+     "art": {
+      "top": 234,
+      "left": 456,
+      "w": 740,
+      "h": 630
+     },
+     "artStyle": {
+      "maxHeight": "none",
+      "height": "630px",
+      "background": "rgba(0, 0, 0, 0)"
+     },
+     "img": {
+      "box": {
+       "top": 234,
+       "left": 616,
+       "w": 420,
+       "h": 630
+      },
+      "nw": 1400,
+      "nh": 2100,
+      "objectFit": "contain",
+      "maxHeight": "630px"
+     },
+     "capT": {
+      "font": {
+       "fs": "15.5px",
+       "fw": "500",
+       "lh": "27.9px",
+       "ls": "0.32px",
+       "ta": "center",
+       "color": "rgb(42, 38, 32)"
+      },
+      "text": "《●》",
+      "box": {
+       "top": 886,
+       "left": 456,
+       "w": 740,
+       "h": 28
+      }
+     },
+     "capM": {
+      "font": {
+       "fs": "13px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.32px",
+       "ta": "center",
+       "color": "rgb(111, 106, 99)"
+      },
+      "text": "●"
+     }
+    },
+    "sections": [
+     {
+      "cls": "aad-sec",
+      "box": {
+       "top": 1006,
+       "left": 456,
+       "w": 740,
+       "h": 809
+      },
+      "gapAbove": 62,
+      "secStyle": {
+       "marginTop": "62px",
+       "paddingTop": "58px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "略歴",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 1065
+      },
+      "body": {
+       "cls": "aad-ml",
+       "font": {
+        "fs": "16px",
+        "fw": "400",
+        "lh": "28.8px",
+        "ls": "0.32px",
+        "ta": "start",
+        "color": "rgb(26, 23, 20)"
+       },
+       "box": {
+        "top": 1111,
+        "left": 456,
+        "w": 740,
+        "h": 704
+       }
+      },
+      "grids": []
+     },
+     {
+      "cls": "aad-sec",
+      "box": {
+       "top": 1877,
+       "left": 456,
+       "w": 740,
+       "h": 402
+      },
+      "gapAbove": 62,
+      "secStyle": {
+       "marginTop": "62px",
+       "paddingTop": "58px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "デザイン",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 1936
+      },
+      "body": null,
+      "grids": []
+     },
+     {
+      "cls": "aad-sec",
+      "box": {
+       "top": 2341,
+       "left": 456,
+       "w": 740,
+       "h": 775
+      },
+      "gapAbove": 62,
+      "secStyle": {
+       "marginTop": "62px",
+       "paddingTop": "58px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "あつぺくとチャンネル",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 2400
+      },
+      "body": null,
+      "grids": [
+       {
+        "cls": "aad-film-grid",
+        "display": "flex",
+        "cols": "none",
+        "gap": "40px",
+        "box": {
+         "top": 2446,
+         "left": 456,
+         "w": 740,
+         "h": 670
+        },
+        "firstImg": null
+       }
+      ]
+     },
+     {
+      "cls": "aad-sec aad-works",
+      "box": {
+       "top": 3178,
+       "left": 456,
+       "w": 740,
+       "h": 930
+      },
+      "gapAbove": 62,
+      "secStyle": {
+       "marginTop": "62px",
+       "paddingTop": "58px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "販売作品",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 3237
+      },
+      "body": {
+       "cls": "aad-works-intro",
+       "font": {
+        "fs": "13px",
+        "fw": "300",
+        "lh": "22.1px",
+        "ls": "0.32px",
+        "ta": "left",
+        "color": "rgb(111, 106, 99)"
+       },
+       "box": {
+        "top": 3283,
+        "left": 456,
+        "w": 740,
+        "h": 44
+       }
+      },
+      "grids": [
+       {
+        "cls": "aad-works-grid",
+        "display": "grid",
+        "cols": "353px 353px",
+        "gap": "34px",
+        "box": {
+         "top": 3352,
+         "left": 456,
+         "w": 740,
+         "h": 756
+        },
+        "firstImg": {
+         "box": {
+          "top": 3362,
+          "left": 466,
+          "w": 333,
+          "h": 245
+         },
+         "nw": 760,
+         "nh": 507,
+         "objectFit": "contain"
+        }
+       }
+      ]
+     }
+    ],
+    "bioBody": {
+     "font": {
+      "fs": "16px",
+      "fw": "400",
+      "lh": "28.8px",
+      "ls": "0.32px",
+      "ta": "start",
+      "color": "rgb(26, 23, 20)"
+     },
+     "width": 740,
+     "html": "<div class=\"aad-body aad-l\" data-lang=\"ja\" style=\"display: block;\">茨城を拠点に、ガラスの制作を続けている。制作はイタリア・ヴェネツィアのガラス工房に渡って行い、沖縄をはじめ各地の工房でも手を動かす。確かな手わざは、若い日の修行で培われた。張りつめた空気の絶えない、つねに命と隣り合わせの現場だった。のちにグラフィックデザインの道へ進み、デザイナーとしての歳月を重ねるうちに、ガラスへの憧れと情熱がふたたび呼び起こされた。誰もが驚くようなガラス作品をつくりたい——その願いが、いまの仕事を支えている。<br>\n<br>\n【デザイン】<"
+    },
+    "foot": {
+     "box": {
+      "top": 4198,
+      "left": 84,
+      "w": 1112,
+      "h": 139
+     },
+     "totop": {
+      "font": {
+       "fs": "13px",
+       "fw": "400",
+       "lh": "normal",
+       "ls": "0.65px",
+       "ta": "center",
+       "color": "rgb(111, 106, 99)"
+      },
+      "text": "▲ ページトップへ戻る"
+     },
+     "copyr": {
+      "font": {
+       "fs": "12px",
+       "fw": "300",
+       "lh": "21.6px",
+       "ls": "0.32px",
+       "ta": "left",
+       "color": "rgb(140, 134, 125)"
+      },
+      "text": "掲載作品の画像・文章の無断転載および複製を禁じます。© ARTS RESPECT Co., Ltd."
+     }
+    }
+   }
+  },
+  "watanabe-genichi": {
+   "390": {
+    "innerWidth": 390,
+    "title": "渡辺 玄一（Watanabe Genichi）｜あつぺくと",
+    "layout": {
+     "main": {
+      "top": 110,
+      "left": 22,
+      "w": 346,
+      "h": 3397
+     },
+     "rail": {
+      "top": 140,
+      "left": 22,
+      "w": 346,
+      "h": 639
+     },
+     "content": {
+      "top": 815,
+      "left": 22,
+      "w": 346,
+      "h": 2628
+     },
+     "mainStyle": {
+      "display": "grid",
+      "gap": "36px",
+      "gridTemplateColumns": "346px",
+      "padding": "30px 0px 64px"
+     },
+     "railPosition": "static"
+    },
+    "rail": {
+     "cat": {
+      "box": {
+       "top": 140,
+       "left": 46,
+       "w": 28,
+       "h": 22
+      },
+      "font": {
+       "fs": "12px",
+       "fw": "300",
+       "lh": "21.6px",
+       "ls": "2.16px",
+       "ta": "center",
+       "color": "rgb(125, 118, 108)"
+      },
+      "text": "絵画",
+      "visible": true
+     },
+     "name": {
+      "box": {
+       "top": 173,
+       "left": 22,
+       "w": 346,
+       "h": 21
+      },
+      "font": {
+       "fs": "20px",
+       "fw": "500",
+       "lh": "20.8px",
+       "ls": "0.6px",
+       "ta": "center",
+       "color": "rgb(20, 20, 20)"
+      },
+      "text": "渡辺 玄一",
+      "visible": true
+     },
+     "en": {
+      "box": {
+       "top": 198,
+       "left": 22,
+       "w": 346,
+       "h": 23
+      },
+      "font": {
+       "fs": "13px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.52px",
+       "ta": "center",
+       "color": "rgb(111, 106, 99)"
+      },
+      "text": "Watanabe Genichi",
+      "visible": true
+     },
+     "genre": {
+      "box": {
+       "top": 241,
+       "left": 22,
+       "w": 346,
+       "h": 23
+      },
+      "font": {
+       "fs": "13px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.52px",
+       "ta": "center",
+       "color": "rgb(95, 90, 83)"
+      },
+      "text": "洋画家",
+      "visible": true
+     },
+     "img": {
+      "box": {
+       "top": 291,
+       "left": 88,
+       "w": 215,
+       "h": 260
+      },
+      "font": {
+       "fs": "16px",
+       "fw": "400",
+       "lh": "28.8px",
+       "ls": "0.32px",
+       "ta": "center",
+       "color": "rgb(26, 23, 20)"
+      },
+      "text": "",
+      "visible": true
+     },
+     "facts": {
+      "box": {
+       "top": 573,
+       "left": 22,
+       "w": 346,
+       "h": 27
+      },
+      "font": {
+       "fs": "14px",
+       "fw": "300",
+       "lh": "27.3px",
+       "ls": "0.56px",
+       "ta": "center",
+       "color": "rgb(58, 53, 47)"
+      },
+      "text": "生年1951 ／ 出身山形県",
+      "visible": true
+     },
+     "stmt": {
+      "box": {
+       "top": 628,
+       "left": 96,
+       "w": 198,
+       "h": 51
+      },
+      "font": {
+       "fs": "12.4px",
+       "fw": "400",
+       "lh": "21.08px",
+       "ls": "0.992px",
+       "ta": "center",
+       "color": "rgb(27, 24, 21)"
+      },
+      "text": "原色でおりなす生命のリズム",
+      "visible": true
+     },
+     "imgNatural": {
+      "nw": 600,
+      "nh": 727,
+      "objectFit": "fill",
+      "aspectRatio": "auto 300 / 400"
+     },
+     "factsLabel": {
+      "font": {
+       "fs": "12px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.72px",
+       "ta": "center",
+       "color": "rgb(140, 134, 125)"
+      },
+      "text": "生年"
+     }
+    },
+    "lead": {
+     "art": {
+      "top": 815,
+      "left": 22,
+      "w": 346,
+      "h": 414
+     },
+     "artStyle": {
+      "maxHeight": "none",
+      "height": "413.953px",
+      "background": "rgba(0, 0, 0, 0)"
+     },
+     "img": {
+      "box": {
+       "top": 815,
+       "left": 22,
+       "w": 346,
+       "h": 414
+      },
+      "nw": 1400,
+      "nh": 1675,
+      "objectFit": "contain",
+      "maxHeight": "630px"
+     },
+     "capT": {
+      "font": {
+       "fs": "15.5px",
+       "fw": "500",
+       "lh": "27.9px",
+       "ls": "0.32px",
+       "ta": "center",
+       "color": "rgb(42, 38, 32)"
+      },
+      "text": "《しらたま（猫）》",
+      "box": {
+       "top": 1251,
+       "left": 22,
+       "w": 346,
+       "h": 28
+      }
+     },
+     "capM": {
+      "font": {
+       "fs": "13px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.32px",
+       "ta": "center",
+       "color": "rgb(111, 106, 99)"
+      },
+      "text": "●　F8号"
+     }
+    },
+    "sections": [
+     {
+      "cls": "aad-sec",
+      "box": {
+       "top": 1349,
+       "left": 22,
+       "w": 346,
+       "h": 452
+      },
+      "gapAbove": 40,
+      "secStyle": {
+       "marginTop": "40px",
+       "paddingTop": "38px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "略歴",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 1388
+      },
+      "body": {
+       "cls": "aad-ml",
+       "font": {
+        "fs": "16px",
+        "fw": "400",
+        "lh": "28.8px",
+        "ls": "0.32px",
+        "ta": "start",
+        "color": "rgb(26, 23, 20)"
+       },
+       "box": {
+        "top": 1435,
+        "left": 22,
+        "w": 346,
+        "h": 367
+       }
+      },
+      "grids": []
+     },
+     {
+      "cls": "aad-sec",
+      "box": {
+       "top": 1842,
+       "left": 22,
+       "w": 346,
+       "h": 280
+      },
+      "gapAbove": 41,
+      "secStyle": {
+       "marginTop": "40px",
+       "paddingTop": "38px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "あつぺくとチャンネル",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 1881
+      },
+      "body": null,
+      "grids": [
+       {
+        "cls": "aad-film-grid",
+        "display": "flex",
+        "cols": "none",
+        "gap": "40px",
+        "box": {
+         "top": 1927,
+         "left": 22,
+         "w": 346,
+         "h": 195
+        },
+        "firstImg": null
+       }
+      ]
+     },
+     {
+      "cls": "aad-sec aad-works",
+      "box": {
+       "top": 2162,
+       "left": 22,
+       "w": 346,
+       "h": 1281
+      },
+      "gapAbove": 40,
+      "secStyle": {
+       "marginTop": "40px",
+       "paddingTop": "38px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "販売作品",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 2201
+      },
+      "body": {
+       "cls": "aad-works-intro",
+       "font": {
+        "fs": "13px",
+        "fw": "300",
+        "lh": "22.1px",
+        "ls": "0.32px",
+        "ta": "center",
+        "color": "rgb(111, 106, 99)"
+       },
+       "box": {
+        "top": 2247,
+        "left": 22,
+        "w": 346,
+        "h": 44
+       }
+      },
+      "grids": [
+       {
+        "cls": "aad-works-grid",
+        "display": "grid",
+        "cols": "346px",
+        "gap": "30px",
+        "box": {
+         "top": 2315,
+         "left": 22,
+         "w": 346,
+         "h": 1128
+        },
+        "firstImg": {
+         "box": {
+          "top": 2325,
+          "left": 32,
+          "w": 326,
+          "h": 240
+         },
+         "nw": 760,
+         "nh": 898,
+         "objectFit": "contain"
+        }
+       }
+      ]
+     }
+    ],
+    "bioBody": {
+     "font": {
+      "fs": "16px",
+      "fw": "400",
+      "lh": "28.8px",
+      "ls": "0.32px",
+      "ta": "start",
+      "color": "rgb(26, 23, 20)"
+     },
+     "width": 346,
+     "html": "<div class=\"aad-body aad-l\" data-lang=\"ja\" style=\"display: block;\">1951年 山形県生まれ<br>\n1976年 東京慈恵会医科大学卒業<br>\n在学中は美術部に所属し、独立美術協会会員の清水錬徳に師事<br>\n<br>\n【活動歴】<br>\n<br>\n2008年より作家活動を開始。各地のギャラリー（銀座・京都・ニューヨーク）をはじめ、東急百貨店渋谷本店、小田急百貨店新宿店、岐阜髙島屋、広島三越、水戸京成百貨店にて個展を重ねている。</div><div class=\"aad-body aad-l\" data-lang=\"en\" s"
+    },
+    "foot": {
+     "box": {
+      "top": 3507,
+      "left": 22,
+      "w": 346,
+      "h": 139
+     },
+     "totop": {
+      "font": {
+       "fs": "13px",
+       "fw": "400",
+       "lh": "normal",
+       "ls": "0.65px",
+       "ta": "center",
+       "color": "rgb(111, 106, 99)"
+      },
+      "text": "▲ ページトップへ戻る"
+     },
+     "copyr": {
+      "font": {
+       "fs": "12px",
+       "fw": "300",
+       "lh": "21.6px",
+       "ls": "0.32px",
+       "ta": "left",
+       "color": "rgb(140, 134, 125)"
+      },
+      "text": "掲載作品の画像・文章の無断転載および複製を禁じます。© ARTS RESPECT Co., Ltd."
+     }
+    }
+   },
+   "768": {
+    "innerWidth": 768,
+    "title": "渡辺 玄一（Watanabe Genichi）｜あつぺくと",
+    "layout": {
+     "main": {
+      "top": 158,
+      "left": 22,
+      "w": 724,
+      "h": 4868
+     },
+     "rail": {
+      "top": 188,
+      "left": 22,
+      "w": 724,
+      "h": 923
+     },
+     "content": {
+      "top": 1147,
+      "left": 22,
+      "w": 724,
+      "h": 3815
+     },
+     "mainStyle": {
+      "display": "grid",
+      "gap": "36px",
+      "gridTemplateColumns": "724px",
+      "padding": "30px 0px 64px"
+     },
+     "railPosition": "static"
+    },
+    "rail": {
+     "cat": {
+      "box": {
+       "top": 188,
+       "left": 46,
+       "w": 28,
+       "h": 22
+      },
+      "font": {
+       "fs": "12px",
+       "fw": "300",
+       "lh": "21.6px",
+       "ls": "2.16px",
+       "ta": "center",
+       "color": "rgb(125, 118, 108)"
+      },
+      "text": "絵画",
+      "visible": true
+     },
+     "name": {
+      "box": {
+       "top": 221,
+       "left": 22,
+       "w": 724,
+       "h": 21
+      },
+      "font": {
+       "fs": "20px",
+       "fw": "500",
+       "lh": "20.8px",
+       "ls": "0.6px",
+       "ta": "center",
+       "color": "rgb(20, 20, 20)"
+      },
+      "text": "渡辺 玄一",
+      "visible": true
+     },
+     "en": {
+      "box": {
+       "top": 246,
+       "left": 22,
+       "w": 724,
+       "h": 23
+      },
+      "font": {
+       "fs": "13px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.52px",
+       "ta": "center",
+       "color": "rgb(111, 106, 99)"
+      },
+      "text": "Watanabe Genichi",
+      "visible": true
+     },
+     "genre": {
+      "box": {
+       "top": 289,
+       "left": 22,
+       "w": 724,
+       "h": 23
+      },
+      "font": {
+       "fs": "13px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.52px",
+       "ta": "center",
+       "color": "rgb(95, 90, 83)"
+      },
+      "text": "洋画家",
+      "visible": true
+     },
+     "img": {
+      "box": {
+       "top": 339,
+       "left": 160,
+       "w": 449,
+       "h": 544
+      },
+      "font": {
+       "fs": "16px",
+       "fw": "400",
+       "lh": "28.8px",
+       "ls": "0.32px",
+       "ta": "center",
+       "color": "rgb(26, 23, 20)"
+      },
+      "text": "",
+      "visible": true
+     },
+     "facts": {
+      "box": {
+       "top": 905,
+       "left": 22,
+       "w": 724,
+       "h": 27
+      },
+      "font": {
+       "fs": "14px",
+       "fw": "300",
+       "lh": "27.3px",
+       "ls": "0.56px",
+       "ta": "center",
+       "color": "rgb(58, 53, 47)"
+      },
+      "text": "生年1951 ／ 出身山形県",
+      "visible": true
+     },
+     "stmt": {
+      "box": {
+       "top": 960,
+       "left": 285,
+       "w": 198,
+       "h": 51
+      },
+      "font": {
+       "fs": "12.4px",
+       "fw": "400",
+       "lh": "21.08px",
+       "ls": "0.992px",
+       "ta": "center",
+       "color": "rgb(27, 24, 21)"
+      },
+      "text": "原色でおりなす生命のリズム",
+      "visible": true
+     },
+     "imgNatural": {
+      "nw": 600,
+      "nh": 727,
+      "objectFit": "fill",
+      "aspectRatio": "auto 300 / 400"
+     },
+     "factsLabel": {
+      "font": {
+       "fs": "12px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.72px",
+       "ta": "center",
+       "color": "rgb(140, 134, 125)"
+      },
+      "text": "生年"
+     }
+    },
+    "lead": {
+     "art": {
+      "top": 1147,
+      "left": 22,
+      "w": 724,
+      "h": 630
+     },
+     "artStyle": {
+      "maxHeight": "none",
+      "height": "629.984px",
+      "background": "rgba(0, 0, 0, 0)"
+     },
+     "img": {
+      "box": {
+       "top": 1147,
+       "left": 121,
+       "w": 527,
+       "h": 630
+      },
+      "nw": 1400,
+      "nh": 1675,
+      "objectFit": "contain",
+      "maxHeight": "630px"
+     },
+     "capT": {
+      "font": {
+       "fs": "15.5px",
+       "fw": "500",
+       "lh": "27.9px",
+       "ls": "0.32px",
+       "ta": "center",
+       "color": "rgb(42, 38, 32)"
+      },
+      "text": "《しらたま（猫）》",
+      "box": {
+       "top": 1799,
+       "left": 22,
+       "w": 724,
+       "h": 28
+      }
+     },
+     "capM": {
+      "font": {
+       "fs": "13px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.32px",
+       "ta": "center",
+       "color": "rgb(111, 106, 99)"
+      },
+      "text": "●　F8号"
+     }
+    },
+    "sections": [
+     {
+      "cls": "aad-sec",
+      "box": {
+       "top": 1897,
+       "left": 22,
+       "w": 724,
+       "h": 361
+      },
+      "gapAbove": 40,
+      "secStyle": {
+       "marginTop": "40px",
+       "paddingTop": "38px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "略歴",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 1936
+      },
+      "body": {
+       "cls": "aad-ml",
+       "font": {
+        "fs": "16px",
+        "fw": "400",
+        "lh": "28.8px",
+        "ls": "0.32px",
+        "ta": "start",
+        "color": "rgb(26, 23, 20)"
+       },
+       "box": {
+        "top": 1982,
+        "left": 22,
+        "w": 724,
+        "h": 275
+       }
+      },
+      "grids": []
+     },
+     {
+      "cls": "aad-sec",
+      "box": {
+       "top": 2298,
+       "left": 22,
+       "w": 724,
+       "h": 492
+      },
+      "gapAbove": 40,
+      "secStyle": {
+       "marginTop": "40px",
+       "paddingTop": "38px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "あつぺくとチャンネル",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 2337
+      },
+      "body": null,
+      "grids": [
+       {
+        "cls": "aad-film-grid",
+        "display": "flex",
+        "cols": "none",
+        "gap": "40px",
+        "box": {
+         "top": 2383,
+         "left": 22,
+         "w": 724,
+         "h": 407
+        },
+        "firstImg": null
+       }
+      ]
+     },
+     {
+      "cls": "aad-sec aad-works",
+      "box": {
+       "top": 2830,
+       "left": 22,
+       "w": 724,
+       "h": 2132
+      },
+      "gapAbove": 40,
+      "secStyle": {
+       "marginTop": "40px",
+       "paddingTop": "38px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "販売作品",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 2869
+      },
+      "body": {
+       "cls": "aad-works-intro",
+       "font": {
+        "fs": "13px",
+        "fw": "300",
+        "lh": "22.1px",
+        "ls": "0.32px",
+        "ta": "center",
+        "color": "rgb(111, 106, 99)"
+       },
+       "box": {
+        "top": 2915,
+        "left": 22,
+        "w": 724,
+        "h": 44
+       }
+      },
+      "grids": [
+       {
+        "cls": "aad-works-grid",
+        "display": "grid",
+        "cols": "724px",
+        "gap": "30px",
+        "box": {
+         "top": 2984,
+         "left": 22,
+         "w": 724,
+         "h": 1978
+        },
+        "firstImg": {
+         "box": {
+          "top": 2994,
+          "left": 32,
+          "w": 704,
+          "h": 523
+         },
+         "nw": 760,
+         "nh": 898,
+         "objectFit": "contain"
+        }
+       }
+      ]
+     }
+    ],
+    "bioBody": {
+     "font": {
+      "fs": "16px",
+      "fw": "400",
+      "lh": "28.8px",
+      "ls": "0.32px",
+      "ta": "start",
+      "color": "rgb(26, 23, 20)"
+     },
+     "width": 724,
+     "html": "<div class=\"aad-body aad-l\" data-lang=\"ja\" style=\"display: block;\">1951年 山形県生まれ<br>\n1976年 東京慈恵会医科大学卒業<br>\n在学中は美術部に所属し、独立美術協会会員の清水錬徳に師事<br>\n<br>\n【活動歴】<br>\n<br>\n2008年より作家活動を開始。各地のギャラリー（銀座・京都・ニューヨーク）をはじめ、東急百貨店渋谷本店、小田急百貨店新宿店、岐阜髙島屋、広島三越、水戸京成百貨店にて個展を重ねている。</div><div class=\"aad-body aad-l\" data-lang=\"en\" s"
+    },
+    "foot": {
+     "box": {
+      "top": 5026,
+      "left": 22,
+      "w": 724,
+      "h": 139
+     },
+     "totop": {
+      "font": {
+       "fs": "13px",
+       "fw": "400",
+       "lh": "normal",
+       "ls": "0.65px",
+       "ta": "center",
+       "color": "rgb(111, 106, 99)"
+      },
+      "text": "▲ ページトップへ戻る"
+     },
+     "copyr": {
+      "font": {
+       "fs": "12px",
+       "fw": "300",
+       "lh": "21.6px",
+       "ls": "0.32px",
+       "ta": "left",
+       "color": "rgb(140, 134, 125)"
+      },
+      "text": "掲載作品の画像・文章の無断転載および複製を禁じます。© ARTS RESPECT Co., Ltd."
+     }
+    }
+   },
+   "1280": {
+    "innerWidth": 1280,
+    "title": "渡辺 玄一（Watanabe Genichi）｜あつぺくと",
+    "layout": {
+     "main": {
+      "top": 174,
+      "left": 84,
+      "w": 1112,
+      "h": 2777
+     },
+     "rail": {
+      "top": 234,
+      "left": 84,
+      "w": 300,
+      "h": 756
+     },
+     "content": {
+      "top": 234,
+      "left": 456,
+      "w": 740,
+      "h": 2627
+     },
+     "mainStyle": {
+      "display": "grid",
+      "gap": "72px",
+      "gridTemplateColumns": "300px 740px",
+      "padding": "60px 0px 90px"
+     },
+     "railPosition": "sticky"
+    },
+    "rail": {
+     "cat": {
+      "box": {
+       "top": 234,
+       "left": 108,
+       "w": 28,
+       "h": 22
+      },
+      "font": {
+       "fs": "12px",
+       "fw": "300",
+       "lh": "21.6px",
+       "ls": "2.16px",
+       "ta": "center",
+       "color": "rgb(125, 118, 108)"
+      },
+      "text": "絵画",
+      "visible": true
+     },
+     "name": {
+      "box": {
+       "top": 267,
+       "left": 84,
+       "w": 300,
+       "h": 26
+      },
+      "font": {
+       "fs": "25px",
+       "fw": "500",
+       "lh": "26px",
+       "ls": "0.75px",
+       "ta": "center",
+       "color": "rgb(20, 20, 20)"
+      },
+      "text": "渡辺 玄一",
+      "visible": true
+     },
+     "en": {
+      "box": {
+       "top": 297,
+       "left": 84,
+       "w": 300,
+       "h": 23
+      },
+      "font": {
+       "fs": "13px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.52px",
+       "ta": "center",
+       "color": "rgb(111, 106, 99)"
+      },
+      "text": "Watanabe Genichi",
+      "visible": true
+     },
+     "genre": {
+      "box": {
+       "top": 341,
+       "left": 84,
+       "w": 300,
+       "h": 23
+      },
+      "font": {
+       "fs": "13px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.52px",
+       "ta": "center",
+       "color": "rgb(95, 90, 83)"
+      },
+      "text": "洋画家",
+      "visible": true
+     },
+     "img": {
+      "box": {
+       "top": 390,
+       "left": 84,
+       "w": 300,
+       "h": 364
+      },
+      "font": {
+       "fs": "16px",
+       "fw": "400",
+       "lh": "28.8px",
+       "ls": "0.32px",
+       "ta": "center",
+       "color": "rgb(26, 23, 20)"
+      },
+      "text": "",
+      "visible": true
+     },
+     "facts": {
+      "box": {
+       "top": 775,
+       "left": 84,
+       "w": 300,
+       "h": 27
+      },
+      "font": {
+       "fs": "14px",
+       "fw": "300",
+       "lh": "27.3px",
+       "ls": "0.56px",
+       "ta": "center",
+       "color": "rgb(58, 53, 47)"
+      },
+      "text": "生年1951 ／ 出身山形県",
+      "visible": true
+     },
+     "stmt": {
+      "box": {
+       "top": 831,
+       "left": 135,
+       "w": 198,
+       "h": 51
+      },
+      "font": {
+       "fs": "12.4px",
+       "fw": "400",
+       "lh": "21.08px",
+       "ls": "0.992px",
+       "ta": "center",
+       "color": "rgb(27, 24, 21)"
+      },
+      "text": "原色でおりなす生命のリズム",
+      "visible": true
+     },
+     "imgNatural": {
+      "nw": 600,
+      "nh": 727,
+      "objectFit": "fill",
+      "aspectRatio": "auto 300 / 400"
+     },
+     "factsLabel": {
+      "font": {
+       "fs": "12px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.72px",
+       "ta": "center",
+       "color": "rgb(140, 134, 125)"
+      },
+      "text": "生年"
+     }
+    },
+    "lead": {
+     "art": {
+      "top": 234,
+      "left": 456,
+      "w": 740,
+      "h": 630
+     },
+     "artStyle": {
+      "maxHeight": "none",
+      "height": "629.984px",
+      "background": "rgba(0, 0, 0, 0)"
+     },
+     "img": {
+      "box": {
+       "top": 234,
+       "left": 563,
+       "w": 527,
+       "h": 630
+      },
+      "nw": 1400,
+      "nh": 1675,
+      "objectFit": "contain",
+      "maxHeight": "630px"
+     },
+     "capT": {
+      "font": {
+       "fs": "15.5px",
+       "fw": "500",
+       "lh": "27.9px",
+       "ls": "0.32px",
+       "ta": "center",
+       "color": "rgb(42, 38, 32)"
+      },
+      "text": "《しらたま（猫）》",
+      "box": {
+       "top": 886,
+       "left": 456,
+       "w": 740,
+       "h": 28
+      }
+     },
+     "capM": {
+      "font": {
+       "fs": "13px",
+       "fw": "300",
+       "lh": "23.4px",
+       "ls": "0.32px",
+       "ta": "center",
+       "color": "rgb(111, 106, 99)"
+      },
+      "text": "●　F8号"
+     }
+    },
+    "sections": [
+     {
+      "cls": "aad-sec",
+      "box": {
+       "top": 1006,
+       "left": 456,
+       "w": 740,
+       "h": 381
+      },
+      "gapAbove": 62,
+      "secStyle": {
+       "marginTop": "62px",
+       "paddingTop": "58px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "略歴",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 1065
+      },
+      "body": {
+       "cls": "aad-ml",
+       "font": {
+        "fs": "16px",
+        "fw": "400",
+        "lh": "28.8px",
+        "ls": "0.32px",
+        "ta": "start",
+        "color": "rgb(26, 23, 20)"
+       },
+       "box": {
+        "top": 1111,
+        "left": 456,
+        "w": 740,
+        "h": 275
+       }
+      },
+      "grids": []
+     },
+     {
+      "cls": "aad-sec",
+      "box": {
+       "top": 1448,
+       "left": 456,
+       "w": 740,
+       "h": 420
+      },
+      "gapAbove": 61,
+      "secStyle": {
+       "marginTop": "62px",
+       "paddingTop": "58px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "あつぺくとチャンネル",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 1507
+      },
+      "body": null,
+      "grids": [
+       {
+        "cls": "aad-film-grid",
+        "display": "flex",
+        "cols": "none",
+        "gap": "40px",
+        "box": {
+         "top": 1554,
+         "left": 456,
+         "w": 740,
+         "h": 315
+        },
+        "firstImg": null
+       }
+      ]
+     },
+     {
+      "cls": "aad-sec aad-works",
+      "box": {
+       "top": 1931,
+       "left": 456,
+       "w": 740,
+       "h": 930
+      },
+      "gapAbove": 63,
+      "secStyle": {
+       "marginTop": "62px",
+       "paddingTop": "58px",
+       "borderTop": "1px solid rgb(236, 232, 225)"
+      },
+      "head": {
+       "tag": "H2",
+       "text": "販売作品",
+       "font": {
+        "fs": "18.5px",
+        "fw": "500",
+        "lh": "22.2px",
+        "ls": "0.37px",
+        "ta": "left",
+        "color": "rgb(26, 23, 20)"
+       },
+       "marginTop": "0px",
+       "marginBottom": "24px",
+       "before": "none",
+       "after": "none",
+       "headTop": 1990
+      },
+      "body": {
+       "cls": "aad-works-intro",
+       "font": {
+        "fs": "13px",
+        "fw": "300",
+        "lh": "22.1px",
+        "ls": "0.32px",
+        "ta": "left",
+        "color": "rgb(111, 106, 99)"
+       },
+       "box": {
+        "top": 2036,
+        "left": 456,
+        "w": 740,
+        "h": 44
+       }
+      },
+      "grids": [
+       {
+        "cls": "aad-works-grid",
+        "display": "grid",
+        "cols": "353px 353px",
+        "gap": "34px",
+        "box": {
+         "top": 2104,
+         "left": 456,
+         "w": 740,
+         "h": 756
+        },
+        "firstImg": {
+         "box": {
+          "top": 2114,
+          "left": 466,
+          "w": 333,
+          "h": 245
+         },
+         "nw": 760,
+         "nh": 898,
+         "objectFit": "contain"
+        }
+       }
+      ]
+     }
+    ],
+    "bioBody": {
+     "font": {
+      "fs": "16px",
+      "fw": "400",
+      "lh": "28.8px",
+      "ls": "0.32px",
+      "ta": "start",
+      "color": "rgb(26, 23, 20)"
+     },
+     "width": 740,
+     "html": "<div class=\"aad-body aad-l\" data-lang=\"ja\" style=\"display: block;\">1951年 山形県生まれ<br>\n1976年 東京慈恵会医科大学卒業<br>\n在学中は美術部に所属し、独立美術協会会員の清水錬徳に師事<br>\n<br>\n【活動歴】<br>\n<br>\n2008年より作家活動を開始。各地のギャラリー（銀座・京都・ニューヨーク）をはじめ、東急百貨店渋谷本店、小田急百貨店新宿店、岐阜髙島屋、広島三越、水戸京成百貨店にて個展を重ねている。</div><div class=\"aad-body aad-l\" data-lang=\"en\" s"
+    },
+    "foot": {
+     "box": {
+      "top": 2950,
+      "left": 84,
+      "w": 1112,
+      "h": 139
+     },
+     "totop": {
+      "font": {
+       "fs": "13px",
+       "fw": "400",
+       "lh": "normal",
+       "ls": "0.65px",
+       "ta": "center",
+       "color": "rgb(111, 106, 99)"
+      },
+      "text": "▲ ページトップへ戻る"
+     },
+     "copyr": {
+      "font": {
+       "fs": "12px",
+       "fw": "300",
+       "lh": "21.6px",
+       "ls": "0.32px",
+       "ta": "left",
+       "color": "rgb(140, 134, 125)"
+      },
+      "text": "掲載作品の画像・文章の無断転載および複製を禁じます。© ARTS RESPECT Co., Ltd."
+     }
+    }
+   }
+  }
+ },
+ "langs": {
+  "ja": {
+   "heads": [
+    "略歴",
+    "デザイン",
+    "あつぺくとチャンネル",
+    "販売作品"
+   ],
+   "h1": "藤代 範雄",
+   "en": "Fujishiro Norio",
+   "genre": "ガラス工芸家／グラフィックデザイナー",
+   "factLabels": [
+    "出身"
+   ],
+   "capT": "《●》",
+   "title": "藤代 範雄（Fujishiro Norio）｜あつぺくと"
+  },
+  "en": {
+   "heads": [
+    "Biography",
+    "Design",
+    "ATSPECT Channel",
+    "Works for Sale"
+   ],
+   "h1": "藤代 範雄",
+   "en": "Fujishiro Norio",
+   "genre": "Glass Artist / Graphic Designer",
+   "factLabels": [
+    "From"
+   ],
+   "capT": "《●》",
+   "title": "藤代 範雄（Fujishiro Norio）｜ATSPECT"
+  },
+  "zh-cn": {
+   "heads": [
+    "简历",
+    "设计",
+    "ATSPECT频道",
+    "在售作品"
+   ],
+   "h1": "藤代 範雄",
+   "en": "Fujishiro Norio",
+   "genre": "玻璃工艺家／平面设计师",
+   "factLabels": [
+    "出身"
+   ],
+   "capT": "《●》",
+   "title": "藤代 範雄（Fujishiro Norio）｜ATSPECT"
+  },
+  "zh-tw": {
+   "heads": [
+    "簡歷",
+    "設計",
+    "ATSPECT頻道",
+    "在售作品"
+   ],
+   "h1": "藤代 範雄",
+   "en": "Fujishiro Norio",
+   "genre": "玻璃工藝家／平面設計師",
+   "factLabels": [
+    "出身"
+   ],
+   "capT": "《●》",
+   "title": "藤代 範雄（Fujishiro Norio）｜ATSPECT"
+  },
+  "ko": {
+   "heads": [
+    "약력",
+    "디자인",
+    "ATSPECT 채널",
+    "판매 작품"
+   ],
+   "h1": "藤代 範雄",
+   "en": "Fujishiro Norio",
+   "genre": "유리공예가／그래픽 디자이너",
+   "factLabels": [
+    "출신"
+   ],
+   "capT": "《●》",
+   "title": "藤代 範雄（Fujishiro Norio）｜ATSPECT"
+  },
+  "fr": {
+   "heads": [
+    "Biographie",
+    "Design",
+    "Chaîne ATSPECT",
+    "Œuvres à vendre"
+   ],
+   "h1": "藤代 範雄",
+   "en": "Fujishiro Norio",
+   "genre": "Artiste verrier / Graphiste",
+   "factLabels": [
+    "Origine"
+   ],
+   "capT": "《●》",
+   "title": "藤代 範雄（Fujishiro Norio）｜ATSPECT"
+  },
+  "es": {
+   "heads": [
+    "Biografía",
+    "Diseño",
+    "Canal ATSPECT",
+    "Obras en venta"
+   ],
+   "h1": "藤代 範雄",
+   "en": "Fujishiro Norio",
+   "genre": "Artista del vidrio / Diseñador gráfico",
+   "factLabels": [
+    "Origen"
+   ],
+   "capT": "《●》",
+   "title": "藤代 範雄（Fujishiro Norio）｜ATSPECT"
+  },
+  "de": {
+   "heads": [
+    "Biografie",
+    "Design",
+    "ATSPECT-Kanal",
+    "Werke zum Verkauf"
+   ],
+   "h1": "藤代 範雄",
+   "en": "Fujishiro Norio",
+   "genre": "Glaskünstler / Grafikdesigner",
+   "factLabels": [
+    "Herkunft"
+   ],
+   "capT": "《●》",
+   "title": "藤代 範雄（Fujishiro Norio）｜ATSPECT"
+  }
+ }
+}
