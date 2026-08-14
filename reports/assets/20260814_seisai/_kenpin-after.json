@@ -1,0 +1,275 @@
+[
+ {
+  "who": "Fsama",
+  "lang": "ja",
+  "w": 390,
+  "lead": "346x519",
+  "maxH": "630px",
+  "gap": "40px",
+  "msg": 0,
+  "heads": "略歴/デザイン/功績/あつぺくとチャンネル/販売作品",
+  "overflowX": false
+ },
+ {
+  "who": "Fsama",
+  "lang": "ja",
+  "w": 768,
+  "lead": "420x630",
+  "maxH": "630px",
+  "gap": "40px",
+  "msg": 0,
+  "heads": "略歴/デザイン/功績/あつぺくとチャンネル/販売作品",
+  "overflowX": false
+ },
+ {
+  "who": "Fsama",
+  "lang": "ja",
+  "w": 1280,
+  "lead": "420x630",
+  "maxH": "630px",
+  "gap": "40px",
+  "msg": 0,
+  "heads": "略歴/デザイン/功績/あつぺくとチャンネル/販売作品",
+  "overflowX": false
+ },
+ {
+  "who": "Fsama",
+  "lang": "en",
+  "w": 390,
+  "lead": "346x519",
+  "maxH": "630px",
+  "gap": "40px",
+  "msg": 0,
+  "heads": "Biography/Design/Legacy/ATSPECT Channel/Works for Sale",
+  "overflowX": false
+ },
+ {
+  "who": "Fsama",
+  "lang": "en",
+  "w": 768,
+  "lead": "420x630",
+  "maxH": "630px",
+  "gap": "40px",
+  "msg": 0,
+  "heads": "Biography/Design/Legacy/ATSPECT Channel/Works for Sale",
+  "overflowX": false
+ },
+ {
+  "who": "Fsama",
+  "lang": "en",
+  "w": 1280,
+  "lead": "420x630",
+  "maxH": "630px",
+  "gap": "40px",
+  "msg": 0,
+  "heads": "Biography/Design/Legacy/ATSPECT Channel/Works for Sale",
+  "overflowX": false
+ },
+ {
+  "who": "Wsama",
+  "lang": "ja",
+  "w": 390,
+  "lead": "346x414",
+  "maxH": "630px",
+  "gap": "40px",
+  "msg": 0,
+  "heads": "略歴/功績/あつぺくとチャンネル/販売作品",
+  "overflowX": false
+ },
+ {
+  "who": "Wsama",
+  "lang": "ja",
+  "w": 768,
+  "lead": "527x630",
+  "maxH": "630px",
+  "gap": "40px",
+  "msg": 0,
+  "heads": "略歴/功績/あつぺくとチャンネル/販売作品",
+  "overflowX": false
+ },
+ {
+  "who": "Wsama",
+  "lang": "ja",
+  "w": 1280,
+  "lead": "527x630",
+  "maxH": "630px",
+  "gap": "40px",
+  "msg": 0,
+  "heads": "略歴/功績/あつぺくとチャンネル/販売作品",
+  "overflowX": false
+ },
+ {
+  "who": "Wsama",
+  "lang": "en",
+  "w": 390,
+  "lead": "346x414",
+  "maxH": "630px",
+  "gap": "40px",
+  "msg": 0,
+  "heads": "Biography/Legacy/ATSPECT Channel/Works for Sale",
+  "overflowX": false
+ },
+ {
+  "who": "Wsama",
+  "lang": "en",
+  "w": 768,
+  "lead": "527x630",
+  "maxH": "630px",
+  "gap": "40px",
+  "msg": 0,
+  "heads": "Biography/Legacy/ATSPECT Channel/Works for Sale",
+  "overflowX": false
+ },
+ {
+  "who": "Wsama",
+  "lang": "en",
+  "w": 1280,
+  "lead": "527x630",
+  "maxH": "630px",
+  "gap": "40px",
+  "msg": 0,
+  "heads": "Biography/Legacy/ATSPECT Channel/Works for Sale",
+  "overflowX": false
+ },
+ {
+  "list": "彫刻",
+  "imgs": [
+   {
+    "nat": "0x0",
+    "box": "0x0",
+    "fit": "contain"
+   },
+   {
+    "nat": "0x0",
+    "box": "0x0",
+    "fit": "contain"
+   },
+   {
+    "nat": "0x0",
+    "box": "0x0",
+    "fit": "contain"
+   },
+   {
+    "nat": "0x0",
+    "box": "0x0",
+    "fit": "contain"
+   }
+  ]
+ },
+ {
+  "list": "工芸",
+  "imgs": [
+   {
+    "nat": "640x427",
+    "box": "324x238",
+    "fit": "contain"
+   },
+   {
+    "nat": "640x427",
+    "box": "324x238",
+    "fit": "contain"
+   },
+   {
+    "nat": "640x427",
+    "box": "324x238",
+    "fit": "contain"
+   },
+   {
+    "nat": "0x0",
+    "box": "0x0",
+    "fit": "contain"
+   }
+  ]
+ },
+ {
+  "list": "絵画",
+  "imgs": [
+   {
+    "nat": "0x0",
+    "box": "0x0",
+    "fit": "contain"
+   },
+   {
+    "nat": "0x0",
+    "box": "0x0",
+    "fit": "contain"
+   },
+   {
+    "nat": "0x0",
+    "box": "0x0",
+    "fit": "contain"
+   },
+   {
+    "nat": "640x757",
+    "box": "324x238",
+    "fit": "contain"
+   }
+  ]
+ },
+ {
+  "header": 390,
+  "li": [
+   70,
+   34,
+   118,
+   72
+  ],
+  "links": [
+   {
+    "t": "作家／作品",
+    "文字幅": 60,
+    "下線": "60px"
+   },
+   {
+    "t": "寄贈",
+    "文字幅": 24,
+    "下線": "24px"
+   },
+   {
+    "t": "あつぺくとについ",
+    "文字幅": 108,
+    "下線": "107.641px"
+   },
+   {
+    "t": "お問い合わせ",
+    "文字幅": 72,
+    "下線": "72px"
+   }
+  ],
+  "左": 35,
+  "右": 35
+ },
+ {
+  "header": 1280,
+  "li": [
+   205,
+   205,
+   205,
+   205
+  ],
+  "links": [
+   {
+    "t": "作家／作品",
+    "文字幅": 78,
+    "下線": "78.3125px"
+   },
+   {
+    "t": "寄贈",
+    "文字幅": 31,
+    "下線": "31.3281px"
+   },
+   {
+    "t": "あつぺくとについ",
+    "文字幅": 141,
+    "下線": "140.547px"
+   },
+   {
+    "t": "お問い合わせ",
+    "文字幅": 94,
+    "下線": "93.9688px"
+   }
+  ],
+  "左": 230,
+  "右": 230
+ }
+]
