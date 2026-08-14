@@ -1,0 +1,18 @@
+79a80,83
+>       when 'gifts'
+>         # 2026-08-14：/pages/gifts が表に無く、shop.description（＝トップページと同じ文）に落ちていた
+>         # ＝検索結果でトップと同じ紹介文が出る状態だった（実測）。ページ本文の事実だけで書き起こす。
+>         assign og_description = '『あつぺくと』が後世に繋ぎたいと願う、所蔵先を探している作品をご紹介しています。ご相談から実物のご確認、ご所蔵までの流れをご案内します。ご相談のみでも承ります。'
+172a177,188
+> {%- comment %} 2026-08-14：検索結果の紹介文（meta description）の欠落を是正。
+>      従来は theme.liquid が page_description のあるときだけ <meta name="description"> を出していたため、
+>      ページ側にSEOの説明文が無い固定ページ・作家ページでは紹介文がまったく出ず、
+>      Googleが本文の断片を拾う状態だった（実測＝トップ以外の全ページで欠落）。
+>      このスニペットは既にページごとの説明文を og_description として解決しているので、同じ値をここから出す。
+>      ★ページ側に説明文があるときは従来どおりそちらが最優先＝トップページの文言は変わらない。
+>      ★出力はこの1か所だけ（theme.liquid 側の出力は削除済み。二重に出さない）。 {%- endcomment -%}
+> {%- if page_description != blank -%}
+> <meta name="description" content="{{ page_description | escape }}">
+> {%- elsif og_description != blank -%}
+> <meta name="description" content="{{ og_description | escape }}">
+> {%- endif -%}

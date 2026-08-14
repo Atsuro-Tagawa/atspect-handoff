@@ -1,0 +1,32 @@
+119c119,133
+<     <link rel="icon" type="image/png" sizes="16x16" href="{{ 'favicon-final-16.png' | asset_url }}">
+---
+>     {%- comment %} 2026-08-14：Google検索結果にファビコンが出ない件の是正。
+>          実測＝Googleのファビコンサービス(s2/favicons)が当ドメインに対し404を返す＝Googleは当サイトの
+>          ファビコンを保持していない。一方、同じ会社の atspect.co.jp は保持されており検索結果に出ている。
+>          ★Googleの公開要件は「正方形・8×8px以上」で、48×48pxより大きい画像が推奨。
+>          　「48pxの倍数でなければならない」という要件は無い（当方の思い違いをCodexの独立監査で訂正・2026-08-14）。
+>          ★したがって以下は原因を特定して除いたものではなく、推奨に沿わせる予防的な変更である。
+>          予防的変更＝①推奨を満たす96×96を先頭に置く ②shortcut icon も96×96へ向ける
+>               ③URLをテーマ資産（?v=…付き・テーマを差し替えると変わる）から
+>                 Shopify Files の安定URL（クエリなし・テーマ非依存）へ変更する。
+>          ★画像そのものは一切変更していない（テーマ資産 favicon-final-96.png とsha256一致を実測）。
+>          ★副作用＝URLが変わるため、Googleが新URLを取得し直すまで表示の回復はむしろ遅れうる。
+>          ★/favicon.ico は用意できない＝ShopifyはこのパスにURLリダイレクトを適用しない（実測で確認）。
+>          ★ホストの分裂は無し＝www・httpはすべて https://atspect.com へ集約されることを実測済み。 {%- endcomment -%}
+>     <link rel="icon" type="image/png" sizes="96x96" href="https://cdn.shopify.com/s/files/1/0812/3586/9954/files/favicon-atspect-96.png">
+>     <link rel="shortcut icon" type="image/png" href="https://cdn.shopify.com/s/files/1/0812/3586/9954/files/favicon-atspect-96.png">
+121,122c135
+<     <link rel="icon" type="image/png" sizes="96x96" href="{{ 'favicon-final-96.png' | asset_url }}">
+<     <link rel="shortcut icon" type="image/png" href="{{ 'favicon-final-32.png' | asset_url }}">
+---
+>     <link rel="icon" type="image/png" sizes="16x16" href="{{ 'favicon-final-16.png' | asset_url }}">
+148,150c161,164
+<     {% if page_description %}
+<       <meta name="description" content="{{ page_description | escape }}">
+<     {% endif %}
+---
+>     {%- comment %} 2026-08-14：紹介文（meta description）の出力は snippets/meta-tags.liquid へ移した。
+>          理由＝ここでは page_description のあるページ（実質トップのみ）にしか出せず、
+>          固定ページ・作家ページでは紹介文が欠落していた（実測）。meta-tags 側は
+>          ページごとの説明文を既に解決しているため、そちらから出す。★二重に出さないよう、ここでは出力しない。 {%- endcomment -%}
