@@ -128,7 +128,7 @@ Codexの当たり＝**590〜710件**、うち採用＝**40〜70件**。★A（�
 | **独語「箱」** | Dosen9／Kästen6／kästen3／Kasten1（17名24欄） | **未裁定**（Dosen＝缶で誤訳の疑いが濃い。**統一便が要る**） |
 | **独語 (Yōga) の付け方** | 「Maler im westlichen Stil (Yōga)」196／「Yōga-Maler」70／**(Yōga)なし33**（118名334欄） | ★**確定裁定D4の適用漏れ103欄。統一便が要る** |
 | **指物** | en joinery4:sashimono3／fr sashimono3:menuiserie2／es ebanistería3:sashimono3／de Tischlerei4:Sashimono3（3名7欄） | 未裁定 |
-| **臨書** | es 「estudio caligráfico」9 : 「copia」2（7名12欄） | 未裁定 |
+| **臨書** | es 「estudio caligráfico」9 : 「copia」2（7名12欄） | ★**統一便が要る**（2026-08-19 Codex独立レビュー＝「臨書の核心である模写が失われる」。9欄の一括是正が要る） |
 | **理事** | es director4:junta directiva2（10名11欄） | 未裁定 |
 | **二科会の訳し方** | ko 니카회26:니카카이5／**fr 「Association Nika」18 : 「Nika Association」13**／**es 「Asociación Nika」18 : 「Nika Association」13**／de 4形（32名） | 未裁定（D2を美術団体へ広げるかの線引きが要る） |
 | **es「画面」の訳** | `lienzo`（＝支持体）21欄14名。第35束で2件を `composición` にしたが統一されていない | 未裁定 |
