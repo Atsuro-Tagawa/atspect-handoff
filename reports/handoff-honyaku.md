@@ -10,9 +10,9 @@
 
 ## 1. 日課（8言語通読）の現在地
 
-- **400名／625名 完了（第34束まで）。次のカーソル＝`ono-gado`（小野鵞堂さま）の次＝401番目から。**
-- 通番＝**便は第60便（予約便）まで／束は第34束まで**（便と束は別の通番）。
-- **第35束は未着手**（依頼の生成もしていない＝中途の適用はない）。
+- **410名／625名 完了（第35束まで）。次のカーソル＝`otake-shoji`（大竹省二さま）の次＝411番目から。**
+- 通番＝**便は第62便まで／束は第35束まで**（便と束は別の通番）。
+- **第36束は未着手**（依頼の生成もしていない＝中途の適用はない）。
 
 ### 再開手順（そのまま実行できる形）
 
@@ -20,14 +20,14 @@
 cd C:/Users/ataga/atspect-system
 
 # 1. 次の10名を出す（カーソルは「その次から」）
-node scripts/_readonly-honyaku-nikka-20260810.mjs ono-gado 10
+node scripts/_readonly-honyaku-nikka-20260810.mjs otake-shoji 10
 
-# 2. 作業ディレクトリ（束35なら b35）
-mkdir -p scratch/honyaku-b35-<日付>/{fwd,rev,out}
+# 2. 作業ディレクトリ（束36なら b36）
+mkdir -p scratch/honyaku-b36-<日付>/{fwd,rev,out}
 
 # 3. 二重検品の依頼を作る（10名×7言語×順序2通り＝140本）
-node scripts/_readonly-honyaku-bin-prompts2-20260812.mjs scratch/honyaku-b35-<日付>/fwd fwd <handle×10>
-node scripts/_readonly-honyaku-bin-prompts2-20260812.mjs scratch/honyaku-b35-<日付>/rev rev <handle×10>
+node scripts/_readonly-honyaku-bin-prompts2-20260812.mjs scratch/honyaku-b36-<日付>/fwd fwd <handle×10>
+node scripts/_readonly-honyaku-bin-prompts2-20260812.mjs scratch/honyaku-b36-<日付>/rev rev <handle×10>
 
 # 4. 全140本へ用語注入（★1本でも抜けたら入れ直す。140/140を機械で確認）
 node scripts/honyaku-term-inject-20260811.mjs <handle> <lang> >> <各プロンプト>
@@ -36,7 +36,7 @@ node scripts/honyaku-term-inject-20260811.mjs <handle> <lang> >> <各プロン�
 codex exec --skip-git-repo-check "$(cat <file>)" < /dev/null > <out>
 
 # 6. 仕分け → 原文照合 → 横断型の実測 → 置換表 → 関所 → 再検品 → 適用 → 突き合わせ3段 → スクショ
-node scripts/_readonly-honyaku-b26-triage-20260813.mjs scratch/honyaku-b35-<日付>
+node scripts/_readonly-honyaku-b26-triage-20260813.mjs scratch/honyaku-b36-<日付>
 node scripts/honyaku-patch-build.mjs <table.json> <patch.json>     # from が live にちょうど1回か
 node scripts/artist-i18n-update.mjs plan  --file <patch.json>
 SHOPIFY_ALLOW_WRITE=1 node scripts/artist-i18n-update.mjs apply --plan <plan> --yes
@@ -106,7 +106,9 @@ Codexの当たり＝**590〜710件**、うち採用＝**40〜70件**。★A（�
 - **残存は全627名で6件／中原さま1名のみ。** 内訳＝`i18n.masterworks[2]` の ja・romaji・en の3値（＝代表作欄の1要素）／
   **`bio_ja`・`i18n.bio.ja`・`i18n.viewpoint.ja` の地の文3箇所は日本語原文であり是正対象ではない**（D5は「訳語を発明しない」であって日本語を消す裁定ではない）。
 - **次の一手＝代表作欄からこの1要素を外すかどうかの指示を待つ**（D7「代表作欄からジャンル名を外す」に該当するが、
-  本便の指示は「出るなら経路を特定して報告のみ・是正は指示を待つ」のため触っていない）。
+  2026-08-19の指示が「出るなら経路を特定して報告のみ・是正は指示を待つ」のため触っていない）。
+- 経路の特定は2026-08-19に完了済み。**指示が出れば `honyaku-patch-build.mjs` を通さず `masterworks` 配列の要素削除で直す**
+  （★配列型なので置換表の方式が使えない。専用スクリプトが要る）。
 
 ---
 
@@ -123,22 +125,43 @@ Codexの当たり＝**590〜710件**、うち採用＝**40〜70件**。★A（�
 | 中 代表取締役の訳語 | 代表取缔役2欄／代表董事2欄 | 未裁定 |
 | 独 第1回の文化勲章 | 横山大観・藤島武二・岡田三郎助さまの3名で一貫 | 未裁定（誤りと断定できず） |
 | 呼称「인더스트리얼 디자이너」 | 20欄／공업 디자이너 1欄 | **多数派維持で確定** |
+| **独語「箱」** | Dosen9／Kästen6／kästen3／Kasten1（17名24欄） | **未裁定**（Dosen＝缶で誤訳の疑いが濃い。**統一便が要る**） |
+| **独語 (Yōga) の付け方** | 「Maler im westlichen Stil (Yōga)」196／「Yōga-Maler」70／**(Yōga)なし33**（118名334欄） | ★**確定裁定D4の適用漏れ103欄。統一便が要る** |
+| **指物** | en joinery4:sashimono3／fr sashimono3:menuiserie2／es ebanistería3:sashimono3／de Tischlerei4:Sashimono3（3名7欄） | 未裁定 |
+| **臨書** | es 「estudio caligráfico」9 : 「copia」2（7名12欄） | 未裁定 |
+| **理事** | es director4:junta directiva2（10名11欄） | 未裁定 |
+| **二科会の訳し方** | ko 니카회26:니카카이5／**fr 「Association Nika」18 : 「Nika Association」13**／**es 「Asociación Nika」18 : 「Nika Association」13**／de 4形（32名） | 未裁定（D2を美術団体へ広げるかの線引きが要る） |
+| **es「画面」の訳** | `lienzo`（＝支持体）21欄14名。第35束で2件を `composición` にしたが統一されていない | 未裁定 |
+| **代表作（配列）の要素がジャンル名の疑い** | 機械の当たり69件／65名。★**当たり＝誤りではない**（「山海図絵」「読書」等の実在作品も同じ網に掛かる） | 未裁定（D7の適用漏れの疑い） |
 | **代表作（配列）の要素がジャンル名になっている疑い** | **機械の当たり69件／65名**（詩文書・和歌書・大字書・スタイル画・服飾デザイン・書籍デザイン 等）。★**当たり＝誤りではない**＝「山海図絵」「読書」「大葛人形」等の実在する作品名も同じ網に掛かる。**1件ずつ日本語原文と照合しないと仕分けできない** | **未裁定**（2026-08-19実測。D7の適用漏れの疑い） |
 
 ---
 
-## 5. 【2026-08-19 決着】旧§5「要確認」4件は、すべてライブ実測で決着した
+## 5. 【2026-08-19 決着】旧§5「要確認」4件は、すべてライブ実測で決着した（要確認は現在0件）
 
 | 旧・要確認 | 実測の結果 |
 |---|---|
-| ①飯島春敬さま［功績］の裁定 | **決着済み**＝2026-08-14に第2型（탐구・연구系）で裁定され、貴Tの予約便で適用済み（司令塔記録）。→ §2の辞書へ収載し、要確認から削除 |
-| ②代表作のテーマ索引の再生成 | **「再生成」という工程はそもそも存在しない**（制作Tが2026-08-14に実測済み）。旧値が出る経路は `artist_i18n.masterworks` だった → §3(4)へ |
-| ③内田祥哉さまの扱い | ★**「内田祥哉」という作家はサイトに存在しない**（全627名の全フィールドを検索して0件）。実在は**内田祥三さま（`uchida-yoshikazu`）**で、**代表作は8言語すべて揃っており欠けはない**（データ・ライブとも実測）。→ **記録の人名誤り。リサーチT待ちから漏れたのではない** |
-| ④「独語だけ欠け」の食い違い | ★**記録が逆だった。** 実測では**独語は揃っている側**で、欠けているのは 吉阪＝en/zh_cn/zh_tw/fr/es、今井＝en/fr/es、東＝en/fr/es。**§3(2)の記録が正しい** |
+| ①飯島春敬さま［功績］の裁定 | **決着済み**＝2026-08-14に第2型（탐구・연구系＝古筆は研究）で裁定され適用済み。§2の辞書へ収載 |
+| ②代表作のテーマ索引の再生成 | **「再生成」という工程は存在しない**（制作T実測）。旧値が出る経路は `artist_i18n.masterworks` だった → §3(4) |
+| ③内田祥哉さまの扱い | ★**「内田祥哉」という作家はサイトに存在しない**（全627名の全フィールドで0件）。実在は**内田祥三さま（`uchida-yoshikazu`）**で、代表作は**8言語すべて揃う**。記録の人名誤りであって、待ちから漏れたのではない |
+| ④「独語だけ欠け」の食い違い | ★**記録が逆だった。** 独語は揃っている側で、欠けは 吉阪＝en/zh_cn/zh_tw/fr/es、今井・東＝en/fr/es。**§3(2)が正** |
 
-**→ 現在「要確認」は0件。** 実測に使った読み取り専用スクリプト＝`_readonly-honyaku-mw5-20260819.mjs`（データ）／
-`_readonly-honyaku-mwlive-20260819.mjs`（ライブ8言語）／`_readonly-honyaku-mwscan-20260819.mjs`（全627名の残存と言語欠け）／
-`_readonly-honyaku-mwwhere-20260819.mjs`（語の在処の特定）／`_readonly-honyaku-mwgenre-20260819.mjs`（ジャンル名の疑いの洗い出し）。
+★**代表作の言語欠けは全627名で4名だけ**と機械で数え直して確定（§3(2)の4名と完全一致）。
+**欠けた言語のページには日本語がそのまま出ている**（ライブ実測）。
+
+実測に使った読み取り専用スクリプト＝`_readonly-honyaku-mw5-20260819.mjs`／`-mwlive-20260819.mjs`／`-mwscan-20260819.mjs`／
+`-mwwhere-20260819.mjs`／`-mwgenre-20260819.mjs`（いずれも `atspect-system/scripts/`）。
+
+---
+
+## 5b. ★制作T／司令塔へ申し送り（本Tの持ち場でないので触っていない）
+
+**言語を持たないフラット欄の日本語が、全作家の非日本語ページで訳文の直下にそのまま表示されている**（2026-08-19 スクショ検品で発見・DOM実測で確認）。
+
+- **フラット `statement`（日本語）に値がある作家＝599名。** de・fr で5名すべてに再現（例＝「独自の「竹胎かな」を生んだ書家」がドイツ語ページに出る）。
+- 同種＝`groups` 97名／`collection_places` 78名／`genre` 81名／`category` 56名／`masterworks_text` 365名／`location` 20名。
+- 既出の「所属団体欄に日本語『なし』が全8言語で表示（13名）」と**同じ構造の、より広い版**。
+- 実測＝`reports/assets/20260819_翻訳品質_第35束/実測_フラット欄の日本語露出.txt`、スクショ＝同 `shots/`。
 
 ---
 
