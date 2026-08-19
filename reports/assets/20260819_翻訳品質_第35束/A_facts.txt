@@ -1,0 +1,93 @@
+
+════════ ono-showasai（7件）════════
+[1] de 略歴／「zu Dosen und Möbeln」／「Dosen」は通常「缶・容器」を意味し、「箱」の誤訳。／「zu Schachteln und Möbeln」に直す。
+[1] de 一言紹介・略歴・功績／「die feine Tischlerei」「sashimono – einer Tischlerei」「die feine Tischlerei」／「指物」の訳が不統一で、「Tischlerei」だけでは技法名ではなく木工業・家具製作一般を指す。／すべて「Sashimono」に統一し、初出のみ説明を添える。
+[1] es 略歴／「la marquetería de madera, en la que se incrustan maderas distintas」／「marquetería」は一般に薄板を組み合わせる装飾を指し、「木をはめ込む木象嵌」とずれる可能性がある。／技法名は人に確認のうえ、「la incrustación de distintas maderas」などに直す。
+[1] ko 略歴／「정치하고」／「精緻で」の誤訳で、「政治的で」という意味になっている／「정교하고」に直す。
+[1] zh_cn 略歴／「确实的用木」／「確かな木の扱い」の誤訳で、中国語としても不自然。／「扎实的木材处理技艺」に直す。
+[2] de 略歴／「zu Dosen und Möbeln」／「Dosen」は通常、缶や容器を意味し、「箱」の誤訳。／「zu Kästen und Möbeln」に直す。
+[2] de 略歴／「Holzeinlage, bei der Stücke verschiedener Hölzer eingesetzt werden」／技法名として不自然で、複数の木材を何にはめ込むのかも不明確。／「Holzeinlegearbeiten, bei denen verschiedenartige Hölzer ineinandergefügt werden」に直す。
+
+════════ onoe-saishu（4件）════════
+[1] es 功績／「En sus kana sobre poemas waka y tiras-poema tanzaku」／「かな書」が単に「kana」とされ、書作品であることが落ちている。また「和歌や短冊のかな書」の係り受けも不正確。／「En su caligrafía kana de poemas waka y en tanzaku」
+[1] fr 略歴／「par des recueils-modèles et autres」／「手本」を「recueils-modèles」とするのは不自然で、「recueils」という原文にない限定も加わっている。「et autres」も文法的に不完全。／「au moyen de modèles, entre autres」に直す。
+[1] fr 功績／「le climat des caractères et celui du poème」／「climat」は「情趣」の誤訳であり、「文字」と「歌」にそれぞれ別の「climat」があるという原文にない構造になっている。／「la sensibilité évocatrice des caractères et du poème」に直す。
+[2] zh_tw 略歴／「既作為短歌歌人活動，亦為假名書的近代化教育與普及作出貢獻」／「近代化教育」は「近代化のための教育」という意味になり、「近代的な教育」の誤訳。また、故人の活動としての表現も不十分／「他曾以短歌歌人的身分從事創作，並為假名書的現代教育與普及作出貢獻」に直す。
+
+════════ osawa-chikutai（11件）════════
+[1] de 一言紹介／「seine eigene unverwechselbare Chikutai-Kana」／「unverwechselbare」は原文にない評価を加えている。／「seine eigene Chikutai-Kana」にする。
+[1] de 略歴／「eine eigene unverwechselbare Kana-Kalligrafie」／「unverwechselbare」は原文にない評価を加えている。／「eine eigene Kana-Kalligrafie」にする。
+[1] de 略歴／「Er starb in seinen Fünfzigern.“」／「若さで」のニュアンスが落ちている。／「Er starb bereits in seinen Fünfzigern.“」にする。
+[1] de 功績／「seine eigene unverwechselbare Chikutai-Kana」／「unverwechselbare」は原文にない評価を加えている。／「seine eigene Chikutai-Kana」にする。
+[1] es 略歴／「Murió en torno a los cincuenta años.」／「五十代」を「50歳前後」と誤訳し、「若さで」が落ちている。／「Murió joven, aún en la cincuentena.」とする。
+[1] fr 略歴／「Il mourut à une cinquantaine d'années.」／「五十代」を「約50歳」としており、「若さで」の意味も落ちている。／「Il mourut prématurément, dans la cinquantaine.」とする。
+[1] zh_tw 略歴／「他也從事版畫創作。」／原文の「版画（板画）」のうち、「板画」という表記が落ちている。／「他也從事版畫（板畫）創作。」に直す。
+[2] de 略歴／「Er starb in seinen Fünfzigern.」／原文の「若さで」という含意が落ちている。／「Er starb im vergleichsweise jungen Alter von Mitte fünfzig.」とする。
+[2] en 略歴／「該当箇所：“He died in his fifties.”」／何が問題か：「若さで」という事実・ニュアンスが落ちている。／どう直すか：“He died at the young age of fifty-something.”
+[2] fr 略歴／「Il mourut à une cinquantaine d'années.」／「五十代」を「約50歳」と誤訳しており、「若さで」の意味も落ちている。／「Il mourut prématurément, alors qu'il était dans la cinquantaine.」に直す。
+[2] ko 功績／「글자의 운용」／「字の置き方」の訳として不自然で、「運用」という別の意味に読める／「글자 배치」に直す。
+
+════════ osawa-gakyu（16件）════════
+[1] de 一言紹介／「Ein Kanji-Kalligraf, der bei Hidai Tenrai studierte」／「書壇に関わった」が落ちている。／「Ein Kanji-Kalligraf, der bei Hidai Tenrai studierte und mit dem Kalligrafiekreis verbunden war」
+[1] en 一言紹介／「“A kanji calligrapher who studied under Hidai Tenrai”」／「書壇に関わった」が抜けている。／“A kanji calligrapher who studied under Hidai Tenrai and was involved in the calligraphy world”とする。
+[1] es 一言紹介／「formado con Hidai Tenrai」／「書壇に関わった」が落ちている。また、師事関係に「con」は不自然。／「discípulo de Hidai Tenrai e implicado en el mundo caligráfico」とする。
+[1] es 略歴／「fundamentada en el estudio caligráfico de los clásicos」／「古典の臨書」が「古典の書道研究」という意味になっており、技法名の取り違え。／「basada en la copia de modelos caligráficos clásicos」とする。
+[1] es 略歴／「jóvenes calígrafos」／「後進」を「若い書家」に限定しており、原文にない情報が加わっている。／「las nuevas generaciones」とする。
+[1] es 功績／「En sus estudios caligráficos y rollos verticales」／「臨書の作品」が「書道研究」に置き換わり、作品であることも落ちている。また、「条幅」を巻物とするのは不正確。／「En sus copias de modelos caligráficos clásicos y sus obras en formato jōfuku」とする。
+[1] fr 一言紹介／「Un calligraphe de kanji formé auprès de Hidai Tenrai」／書壇に関わった事実が落ちている。／「Un calligraphe de kanji formé auprès de Hidai Tenrai et lié au monde de la calligraphie」とする。
+[1] zh_cn 略歴／「他既以笔致稳健的书法见称」／原文にない「見称（～で知られた）」という評価が加わっている／「他创作了笔致稳健的书法作品」
+[1] zh_tw 略歴／「該当箇所：「他既以筆致穩健的書法見稱」／何が問題か：「見稱」は「～として知られた」という原文にない評価を加えている。／どう直すか：「他除了創作筆致穩健的書法作品，亦致力於書法教育活動」などとする。
+[2] de 略歴／「nahm an der modernen Kalligrafie-Welt teil」／「近代の書壇に関わった」の誤訳で、表現も不自然。／「war in den modernen Kalligrafiekreisen tätig」とする。
+[2] de 一言紹介／「Ein Kanji-Kalligraf, der bei Hidai Tenrai studierte」／「書壇に関わった」が欠落している。／「Ein Kanji-Kalligraf, der bei Hidai Tenrai studierte und in Kalligrafiekreisen tätig war」とする。
+[2] es 一言紹介／「Un calígrafo de kanji formado con Hidai Tenrai」／「書壇に関わった」という事実が抜けている。／「Un calígrafo de kanji formado con Hidai Tenrai e implicado en el mundo caligráfico」とする。
+[2] fr 一言紹介／「Un calligraphe de kanji formé auprès de Hidai Tenrai」／「書壇に関わった」という事実が落ちている。／「Un calligraphe de kanji formé auprès de Hidai Tenrai et engagé dans le monde calligraphique」に直す。
+[2] ko 略歴／「확실한 필치의 작품과 더불어」／「書」が単なる「作品」となり、書であることが落ちている。また「확실한 필치」もやや不自然。／「정확한 필치의 서예 작품과 더불어」に直す。
+[2] ko 略歴／「세로로 긴 조후쿠(条幅) 형식의 작품」／「세로로 긴」「형식의」は原文にない説明。／「조후쿠(条幅) 등의 작품」に直す。
+[2] zh_cn 略歴／「以笔致稳健的书法见称」／「见称」は「それによって名を知られた」という原文にない評価を加えている。／「创作笔致稳健的书法作品」とする。
+
+════════ osawa-shosuke（5件）════════
+[1] de 一言紹介／「Ein Maler im westlichen Stil」／指定訳の「(Yōga)」が抜けている。／「Ein Maler im westlichen Stil (Yōga)」とする。
+[1] es 功績／「Cabe seguir con calma hasta dónde se reducen las figuras y los bodegones y, aun así, permanecen en el lienzo.」／「seguir hasta dónde」は不自然。また、「画面」を素材を表す「lienzo」としたことで、原文にない事実が加わっている。／「Conviene observar con calma hasta qué punto se simplifican las figuras y los bodegones sin dejar de permanecer en la composición.」とする。
+[2] en 一言紹介／「“A Yōga painter”」／指定訳「Yōga (Western-style) Painter」と一致せず、“Western-style” が落ちている／“A Yōga (Western-style) Painter” に直す。
+[2] es 功績／「Cabe seguir con calma hasta dónde se reducen las figuras y los bodegones y, aun así, permanecen en el lienzo.」／「hasta dónde」と後続する動詞の関係が不自然。また、「lienzo」は原文にない支持体を限定している。／「Cabe observar con calma hasta qué punto se simplifican las figuras y los bodegones y, aun así, permanecen en la superficie pictórica.」に直す。
+[2] fr 一言紹介／「qui passa avec légèreté de la figuration à l'abstraction」／具象から抽象へ一方向に移行した意味になり、「行き来した」の誤訳。／「qui évoluait avec légèreté entre figuration et abstraction」に直す。
+
+════════ oshita-tojiro（9件）════════
+[1] de 略歴／「Er widmete sich der Vermittlung der damals erst aufkommenden Aquarellmalerei.」／原文の「水彩画の魅力」が落ちている。／「Er widmete sich der Aufgabe, die Faszination der damals erst allmählich Verbreitung findenden Aquarellmalerei zu vermitteln.」などとする。
+[1] de 功績／「der damals noch nicht anerkannten Aquarellmalerei」／「まだ評価の定まらなかった」を「まだ認められていなかった」と強めており、原文にない断定になっている。／「der Aquarellmalerei, deren Bewertung sich damals noch nicht gefestigt hatte」とする。
+[1] de 功績／「viele Schaffende förderten」／「Schaffende」は創作者一般を指し、「描き手」の分野が落ちている。／「viele Menschen zum Aquarellmalen anregten und förderten」とする。
+[1] ko 功績／「많은 화가를 길러 낸」／「描き手」を職業的な「화가」に限定しており、原文にない意味が加わる／「그림을 그리는 많은 사람을 길러 낸」に直す。
+[1] zh_tw 略歴／「以穗高為代表的日本山岳」／「為代表」は穂高を日本山岳の代表と評価する表現で、原文にない評価が加わっている。／「包括穗高在內的日本山岳」
+[2] de 略歴／「Er widmete sich der Vermittlung der damals erst aufkommenden Aquarellmalerei.」／「水彩画の魅力」に当たる内容が落ちている。／「Er setzte sich dafür ein, die Faszination der damals erst allmählich Verbreitung findenden Aquarellmalerei zu vermitteln.」
+[2] es 功績／「la transparencia del agua」／水そのものの透明感という意味になっており、誤訳。／「la transparencia de la acuarela」に直す。
+[2] zh_cn 略歴／「他亲近以穗高为代表的日本山岳」／「以穗高为代表」は原文にない代表性を加えており、「亲近山岳」も不自然。／「他也喜爱穗高等日本山岳」に直す。
+[2] zh_tw 略歴／「在各地寫生山川水濱」／「山川」は原文にない「川」を含み、「水濱」とのつながりも不自然。／「在各地寫生山岳與水濱」などに直す。
+
+════════ osumi-toshihira（4件）════════
+[1] ko 略歴／「스구하에 집착하여」／「집착하다」には否定的な響きがあり、原文にない評価が加わる。／「스구하를 고수하며」に直す。
+[1] ko 功績／「화려한 어지러운 칼날」／「乱れ刃」という技法名を、一般的な「乱れた刃」の意味に取り違えている。／技法名として確認した韓国語表記に直す。
+[2] en 略歴／「“He was designated a Living National Treasure for the Japanese sword.”」／“for the Japanese sword” は「日本刀で」の誤訳で、認定分野を自然に表していない。／“He was designated a Living National Treasure in the field of Japanese swordmaking.” に直す。
+[2] ko 功績／「화려한 어지러운 칼날」／「乱れ刃」を「어지러운 칼날」とした誤訳で、刀身自体が乱雑であるように読める。／「화려하게 물결치는 칼날 무늬」などに直す。
+
+════════ ota-kijiro（2件）════════
+[1] de 功績／「im Hut einer Figur」／帽子の「中に」という意味になり、「人物の帽子に」の誤訳。／「auf dem Hut einer Figur」
+[2] en 一言紹介／「“through pointillist touch”」／冠詞の欠落した不自然な名詞句／“through pointillist brushwork” に直す。
+
+════════ otaka-masato（8件）════════
+[1] es 所属団体／「Director del Architectural Institute of Japan (1976-77)」／「理事」を組織の長を意味し得る「Director」としており、役職の取り違え。／「Miembro de la junta directiva del Architectural Institute of Japan (1976-77)」とする。
+[1] zh_tw 略歴／「1947年修完東京大學工學部建築學科」／「卒業」を「修完」としており不自然で、事実関係も曖昧になる。／「1947年畢業於東京大學工學部建築學科」に直す。
+[2] es 所属団体／「Director del Architectural Institute of Japan」／「理事」を「Director」とするのは役職の取り違え。／「Miembro de la Junta Directiva del Architectural Institute of Japan」に直す。
+[2] es 略歴／「torres iniciadas en 1969」／原文の「高層棟」は単数であり、「torres」という複数形は原文にない事実を加えている。／「bloque de gran altura iniciado en 1969」に直す。
+[2] zh_cn 功績／「在城市有限土地上建造人工地基」／「都市の限られた土地の上に」の「の」に当たる表現がなく、「人工地基」は基礎を意味するため「人工の地盤」の誤訳。／「在城市有限的土地上建造人工地盘」
+[2] zh_tw 功績／「在前川國男門下積累實務經驗後」／「門下」は師弟関係を示し、原文にない関係性が加わっている。また台湾では「積累」より「累積」が自然／「在前川國男建築設計事務所累積實務經驗後」に直す。
+[2] zh_tw 功績／「建造人工地基」／「地基」は建物の基礎を指し、「人工の地盤」の誤訳／「建造人工地盤」に直す。
+[2] zh_tw 略歴／「新陳代謝派（Metabolism）小組」／「（Metabolism）」は原文にない表記が追加されており、「小組」も所属団体欄の「新陳代謝派」と不統一／「新陳代謝派」に直す。
+
+════════ otake-shoji（7件）════════
+[1] de 略歴／「eine prachtvolle Porträtkunst」／「Porträtkunst」は「人物写真」を芸術として評価する含みが加わっている。／「farbenprächtige Porträtaufnahmen」
+[1] es 略歴／「un retrato espléndido」／単数形の「一枚の見事な肖像写真」となっており、「華やかな人物写真」という一般的な作風の説明になっていない。また「espléndido」は原文にない評価を加えている／「sus vistosos retratos de personas」
+[1] es 略歴／「aprovechaba al máximo el color」／「al máximo（最大限に）」は原文にない強調／「sacaban partido del color」
+[2] de 略歴／「die Förderung jüngerer Fotografen」／原文の「後進」にない「Fotografen」という限定が加わっている。／「die Förderung des Nachwuchses」
+[2] en 略歴／「“the training of younger photographers”」／原文の「後進」を “younger photographers” と限定しており、原文にない情報が加わっている。／“mentoring the next generation” とする。
+[2] es 略歴／「Fue conocido por un retrato espléndido que aprovechaba al máximo el color」／原文は複数・総称的な「華やかな人物写真」だが、単数の「un retrato」になっている。また、「al máximo」という原文にない評価が加わっている。／「Fue conocido por sus vistosos retratos, caracterizados por un hábil uso del color」に直す。
+[2] fr 略歴／「la formation de photographes plus jeunes」／原文の「後進」を「より若い写真家」と限定しており、原文にない内容が加わっている。／「la formation des générations suivantes」

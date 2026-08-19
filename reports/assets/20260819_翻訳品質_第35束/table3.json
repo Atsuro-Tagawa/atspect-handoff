@@ -1,0 +1,41 @@
+{
+  "reason": "第35束・突き合わせ3段③＝是正した型（原文の『〜をはじめとする／〜らの』を『〜を代表とする』と強める／『画面』を支持体 lienzo に置き換える）が他の作家に残っていたもの。日本語原文を1件ずつ照合してから是正する",
+  "enteredBy": "翻訳品質T 2026-08-19",
+  "patches": [
+    {
+      "handle": "kayama-matazo",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "以尾形光琳等人为代表的琳派",
+      "to": "尾形光琳等人的琳派"
+    },
+    {
+      "handle": "kayama-matazo",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "以尾形光琳等人為代表的琳派",
+      "to": "尾形光琳等人的琳派"
+    },
+    {
+      "handle": "shimizu-buko",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "以秩父夜祭为代表的地方祭礼",
+      "to": "包括秩父夜祭在内的地方祭礼"
+    },
+    {
+      "handle": "shimizu-buko",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "以秩父夜祭為代表的地方祭禮",
+      "to": "包括秩父夜祭在內的地方祭禮"
+    },
+    {
+      "handle": "fukuoji-horin",
+      "lang": "es",
+      "field": "viewpoint",
+      "from": "por fijar en el lienzo lo sublime",
+      "to": "por fijar en la composición lo sublime"
+    }
+  ]
+}

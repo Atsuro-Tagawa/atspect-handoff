@@ -1,0 +1,181 @@
+{
+  "reason": "第35束（第62便）＝二重検品641件のうち、原文照合で誤り・脱落と確認でき、かつ全数実測で横断型でないと確かめたものだけを是正する／関所の指摘で4件を取り下げ・5件を修正／③で天田昭次さまを追加",
+  "enteredBy": "翻訳品質T 2026-08-19",
+  "patches": [
+    {
+      "handle": "osawa-gakyu",
+      "lang": "en",
+      "field": "statement",
+      "from": "A kanji calligrapher who studied under Hidai Tenrai",
+      "to": "A kanji calligrapher who studied under Hidai Tenrai and was active in the calligraphy world"
+    },
+    {
+      "handle": "osawa-gakyu",
+      "lang": "de",
+      "field": "statement",
+      "from": "Ein Kanji-Kalligraf, der bei Hidai Tenrai studierte",
+      "to": "Ein Kanji-Kalligraf, der bei Hidai Tenrai studierte und in der Kalligrafie-Welt tätig war"
+    },
+    {
+      "handle": "osawa-gakyu",
+      "lang": "es",
+      "field": "statement",
+      "from": "Un calígrafo de kanji formado con Hidai Tenrai",
+      "to": "Un calígrafo de kanji formado con Hidai Tenrai y vinculado al mundo caligráfico"
+    },
+    {
+      "handle": "osawa-gakyu",
+      "lang": "fr",
+      "field": "statement",
+      "from": "Un calligraphe de kanji formé auprès de Hidai Tenrai",
+      "to": "Un calligraphe de kanji formé auprès de Hidai Tenrai et engagé dans le monde de la calligraphie"
+    },
+    {
+      "handle": "osawa-gakyu",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "他既以笔致稳健的书法见称，亦致力于书道教育活动",
+      "to": "他既创作笔致稳健的书法作品，亦致力于书道教育活动"
+    },
+    {
+      "handle": "osawa-gakyu",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "他既以筆致穩健的書法見稱，亦致力於書道教育活動",
+      "to": "他既創作筆致穩健的書法作品，亦致力於書道教育活動"
+    },
+    {
+      "handle": "oshita-tojiro",
+      "lang": "de",
+      "field": "bio",
+      "from": "Er widmete sich der Vermittlung der damals erst aufkommenden Aquarellmalerei.",
+      "to": "Er widmete sich der Aufgabe, die Faszination der damals erst aufkommenden Aquarellmalerei zu vermitteln."
+    },
+    {
+      "handle": "oshita-tojiro",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "die sich um die Verbreitung der damals noch nicht anerkannten Aquarellmalerei bemühten",
+      "to": "die sich um die Verbreitung der Aquarellmalerei, deren Bewertung damals noch nicht gefestigt war, bemühten"
+    },
+    {
+      "handle": "oshita-tojiro",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "他亲近以穗高为代表的日本山岳",
+      "to": "他也亲近包括穗高在内的日本山岳"
+    },
+    {
+      "handle": "oshita-tojiro",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "他親近以穗高為代表的日本山岳",
+      "to": "他也親近包括穗高在內的日本山岳"
+    },
+    {
+      "handle": "osawa-chikutai",
+      "lang": "en",
+      "field": "bio",
+      "from": "He died in his fifties.",
+      "to": "He died young, in his fifties."
+    },
+    {
+      "handle": "osawa-chikutai",
+      "lang": "de",
+      "field": "bio",
+      "from": "Er starb in seinen Fünfzigern.",
+      "to": "Er starb bereits in seinen Fünfzigern."
+    },
+    {
+      "handle": "osawa-chikutai",
+      "lang": "fr",
+      "field": "bio",
+      "from": "Il mourut à une cinquantaine d'années.",
+      "to": "Il mourut jeune, dans la cinquantaine."
+    },
+    {
+      "handle": "osawa-chikutai",
+      "lang": "es",
+      "field": "bio",
+      "from": "Murió en torno a los cincuenta años.",
+      "to": "Murió joven, en la cincuentena."
+    },
+    {
+      "handle": "osawa-chikutai",
+      "lang": "de",
+      "field": "statement",
+      "from": "seine eigene unverwechselbare Chikutai-Kana",
+      "to": "seine eigene Chikutai-Kana"
+    },
+    {
+      "handle": "osawa-chikutai",
+      "lang": "de",
+      "field": "bio",
+      "from": "eine eigene unverwechselbare Kana-Kalligrafie",
+      "to": "eine eigene Kana-Kalligrafie"
+    },
+    {
+      "handle": "osawa-chikutai",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "seine eigene unverwechselbare Chikutai-Kana",
+      "to": "seine eigene Chikutai-Kana"
+    },
+    {
+      "handle": "ota-kijiro",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "im Hut einer Figur",
+      "to": "auf dem Hut einer Figur"
+    },
+    {
+      "handle": "osawa-shosuke",
+      "lang": "fr",
+      "field": "statement",
+      "from": "qui passa avec légèreté de la figuration à l'abstraction",
+      "to": "qui évoluait avec légèreté entre figuration et abstraction"
+    },
+    {
+      "handle": "osawa-shosuke",
+      "lang": "es",
+      "field": "viewpoint",
+      "from": "Cabe seguir con calma hasta dónde se reducen las figuras y los bodegones y, aun así, permanecen en el lienzo.",
+      "to": "Cabe observar con calma hasta qué punto se simplifican las figuras y los bodegones y, aun así, permanecen en la composición."
+    },
+    {
+      "handle": "otake-shoji",
+      "lang": "es",
+      "field": "bio",
+      "from": "Fue conocido por un retrato espléndido que aprovechaba al máximo el color",
+      "to": "Fue conocido por sus vistosos retratos, que aprovechaban el color"
+    },
+    {
+      "handle": "onoe-saishu",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "假名书的近代化教育与普及",
+      "to": "假名书的近代教育与普及"
+    },
+    {
+      "handle": "onoe-saishu",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "假名書的近代化教育與普及",
+      "to": "假名書的近代教育與普及"
+    },
+    {
+      "handle": "osumi-toshihira",
+      "lang": "ko",
+      "field": "bio",
+      "from": "스구하에 집착하여",
+      "to": "스구하를 고수하며"
+    },
+    {
+      "handle": "amata-akitsugu",
+      "lang": "ko",
+      "field": "bio",
+      "from": "쇠 그 자체의 질에 집착하여",
+      "to": "쇠 그 자체의 질을 고집하며"
+    }
+  ]
+}

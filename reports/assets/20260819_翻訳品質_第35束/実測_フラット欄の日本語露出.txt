@@ -1,0 +1,20 @@
+statement          値あり 599名 ／ うち かな交じり日本語 599名   例: suzuki-chikako「祈りの造形・愛しき動物たち」 kano-hogai「日本画に西洋の写実を取り入れた、狩野派最後の」 hashimoto-gaho「狩野派から近代日本画への橋を渡した指導者」 tomioka-tessai「深い学識に支えられた、最後の文人画家」
+groups             値あり 447名 ／ うち かな交じり日本語  97名   例: shima-seien「文展・帝展に出品」 yorozu-tetsugoro「フュウザン会、円鳥会」 kishida-ryusei「フュウザン会、草土社、春陽会」 kimura-shohachi「フュウザン会、草土社、春陽会」
+collection_places  値あり 586名 ／ うち かな交じり日本語  78名   例: hashimoto-gaho「東京藝術大学、ボストン美術館」 hirayama-ikuo「平山郁夫美術館、平山郁夫シルクロード美術館」 maruki-iri「原爆の図丸木美術館」 maruki-toshi「原爆の図丸木美術館」
+genre              値あり 627名 ／ うち かな交じり日本語  81名   例: hibino-goho「書家／かな」 ando-seiku「書家／かな」 sugioka-kason「書家／かな」 onoe-saishu「書家／かな」
+location           値あり 627名 ／ うち かな交じり日本語  20名   例: higashiyama-kaii「横浜(育ち神戸)」 murayama-kaita「神奈川県(育ち愛知岡崎)」 inokuma-genichiro「香川県(育ち高松)」 matsumoto-shunsuke「東京(育ち岩手)」
+category           値あり 627名 ／ うち かな交じり日本語  56名   例: sugiura-hisui「デザイン」 yamana-ayao「デザイン」 hara-hiromu「デザイン」 kono-takashi「デザイン」
+masterworks_text   値あり 607名 ／ うち かな交じり日本語 365名   例: hishida-shunso「落葉、黒き猫、王昭君」 shimomura-kanzan「弱法師、白狐、木の間の秋」 imamura-shiko「熱国の巻、近江八景」 yasuda-yukihiko「黄瀬川陣、飛鳥の春の額田王、五合庵の良寛」
+book_history       値あり   2名 ／ うち かな交じり日本語   2名   例: suzuki-chikako「『メルヘン動物』グラフ社
+『くつ下で作るスト」 nishikawa-yasushi「『書の変相』
+『六朝の書道』」
+osawa-chikutai       de  かな交じり日本語の要素 1件  例:「独自の「竹胎かな」を生んだ書家」
+osawa-chikutai       fr  かな交じり日本語の要素 1件  例:「独自の「竹胎かな」を生んだ書家」
+osawa-gakyu          de  かな交じり日本語の要素 1件  例:「天来に学び書壇に関わった漢字書の書家」
+osawa-gakyu          fr  かな交じり日本語の要素 1件  例:「天来に学び書壇に関わった漢字書の書家」
+ono-showasai         de  かな交じり日本語の要素 1件  例:「精緻な指物を究めた木工芸の人間国宝」
+ono-showasai         fr  かな交じり日本語の要素 1件  例:「精緻な指物を究めた木工芸の人間国宝」
+suzuki-chikako       de  かな交じり日本語の要素 10件  例:「祈りの造形・愛しき動物たち」「《相撲》ウサギとカエル」
+suzuki-chikako       fr  かな交じり日本語の要素 10件  例:「祈りの造形・愛しき動物たち」「《相撲》ウサギとカエル」
+kano-hogai           de  かな交じり日本語の要素 1件  例:「日本画に西洋の写実を取り入れた、狩野派最後の画人」
+kano-hogai           fr  かな交じり日本語の要素 1件  例:「日本画に西洋の写実を取り入れた、狩野派最後の画人」

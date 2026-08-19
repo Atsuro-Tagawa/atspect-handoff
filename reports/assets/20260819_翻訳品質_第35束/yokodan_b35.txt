@@ -1,0 +1,153 @@
+════ 指物 ════
+日本語に「指物」がある欄＝7欄／3名
+
+── en（2形）
+     4件  joinery
+     3件  sashimono
+
+── zh_cn（1形）
+     7件  指物
+
+── zh_tw（1形）
+     7件  指物
+
+── ko（1形）
+     7件  사시모노
+
+── fr（2形）
+     3件  sashimono
+     2件  menuiser
+
+── es（2形）
+     3件  ebanister
+     3件  sashimono
+
+── de（3形）
+     4件  Tischlerei
+     2件  sashimono
+     1件  Sashimono
+
+════ 理事 ════
+日本語に「理事」がある欄＝11欄／10名
+
+── en（2形）
+     4件  director
+     1件  Director
+
+── zh_cn（1形）
+    11件  理事
+
+── zh_tw（1形）
+    11件  理事
+
+── ko（1形）
+    11件  이사
+
+── fr（1形）
+     3件  administrateur
+
+── es（3形）
+     3件  director
+     2件  junta directiva
+     1件  Director
+
+── de（1形）
+     3件  Vorstandsmitglied
+
+════ 洋画（(Yōga)の有無） ════
+日本語に「洋画」がある欄＝334欄／118名
+
+── en（2形）
+    80件  Western-style pain
+     1件  Western-style Pain
+
+── zh_cn（0形）
+
+── zh_tw（0形）
+
+── ko（0形）
+
+── fr（2形）
+   119件  Peintre de style occidental
+   109件  peintre de style occidental
+
+── es（2形）
+   153件  pintor de estilo occidental
+   118件  Pintor de estilo occidental
+
+── de（3形）
+   196件  Maler im westlichen Stil (Yōga)
+    70件  Yōga-Maler
+    33件  Maler im westlichen Stil
+════ 乱れ刃 ════
+日本語に「乱れ刃」がある欄＝1欄／1名
+
+── en（0形）
+
+── zh_cn（0形）
+
+── zh_tw（0形）
+
+── ko（1形）
+     1件  어지러운
+
+── fr（0形）
+
+── es（0形）
+
+── de（0形）
+
+════ 臨書 ════
+日本語に「臨書」がある欄＝12欄／7名
+
+── en（2形）
+     3件  copy
+     1件  copie
+
+── zh_cn（1形）
+    11件  临书
+
+── zh_tw（1形）
+    11件  臨書
+
+── ko（2形）
+    12件  임서
+     1件  臨書
+
+── fr（1形）
+     3件  copie
+
+── es（2形）
+     9件  estudio caligr
+     2件  copia
+
+── de（1形）
+     1件  Nachschreib
+
+════ 後進 ════
+日本語に「後進」がある欄＝79欄／74名
+
+── en（2形）
+    63件  younger
+     3件  next generation
+
+── zh_cn（1形）
+    60件  后进
+
+── zh_tw（1形）
+    62件  後進
+
+── ko（1形）
+    79件  후진
+
+── fr（2形）
+    62件  jeunes
+     7件  générations
+
+── es（2形）
+    60件  jóvenes
+     3件  nuevas generaciones
+
+── de（2形）
+    63件  jüngere
+     3件  nachfolgende
