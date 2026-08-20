@@ -1,0 +1,39 @@
+===== 1) 郷土 de =====
+
+── es（0形）
+
+── de（6形）
+     7件  Heimat
+     3件  heimatlichen
+     2件  heimatliches
+     1件  Heimatmuseum
+     1件  Heimatregion
+     1件  örtliche Gemeinschaften
+===== 2) めずらしい風景 =====
+── ko（0形）
+
+── fr（2形）
+     1件  rares
+     1件  pittoresque
+
+── es（2形）
+     1件  insólito
+     1件  pintoresco
+
+── de（3形）
+     1件  Ungewöhnliche
+     1件  ungewöhnlichen
+     1件  malerische
+===== 3) 店舗・施設の所有(his shops) =====
+
+── zh_tw（0形）
+
+── ko（0形）
+
+── fr（1形）
+     1件  ses boutiques
+
+── es（1形）
+     1件  sus tiendas
+
+── de（0形）

@@ -1,0 +1,153 @@
+{
+ "reason": "第41束＝二重検品617件（★A58件）のうち、日本語原文と1件ずつ照合し、かつ全627名で横断型でないと実測で確かめたものだけを是正する。棄却した横断型＝図案家の訳（en/es/de とも複数形が併存）／古筆の注釈『the celebrated brushwork of the Heian period』（4名）／後進→younger artists 対 the next generation（43名）／文化勲章の es（3対3）／三越に『百貨店』を足す（他作家でも訳出・事実として誤りでない）／画面→es lienzos（T14 凍結中）／zh 略歴の主語落ち（T24 凍結中）／洋画家 zh（T23 凍結中）／協働して制作した→『制作するために協働した』（es/fr 2言語一貫・事実に大差なし）／『留意』の主体（功績欄の訳型・サイト全体の定型） ／★関所（Codex）が是正案自体の欠陥3件を捕まえた＝独語の数の不整合（Technik 単数に darunter die）／独語で修飾の係りが曖昧になり『連なる』が落ちていた／韓国語『걸다』の目的語欠落。すべて作り直した",
+ "enteredBy": "翻訳品質T 2026-08-20 第41束",
+ "patches": [
+  {
+   "handle": "shozo-shimamoto",
+   "lang": "ko",
+   "field": "viewpoint",
+   "from": "결과에 모든 것을 걸어",
+   "to": "결과에 승부를 걸어"
+  },
+  {
+   "handle": "shusaku-arakawa",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "他以倡言「不死」的獨特思想而知名。",
+   "to": "他被視為以倡言「不死」的獨特思想而知名的人物之一。"
+  },
+  {
+   "handle": "soejima-taneomi",
+   "lang": "en",
+   "field": "bio",
+   "from": "he excelled equally in calligraphy",
+   "to": "he also excelled in calligraphy"
+  },
+  {
+   "handle": "soejima-taneomi",
+   "lang": "fr",
+   "field": "bio",
+   "from": "il excellait tout autant en calligraphie",
+   "to": "il excellait également en calligraphie"
+  },
+  {
+   "handle": "soejima-taneomi",
+   "lang": "es",
+   "field": "bio",
+   "from": "sobresalía por igual en la caligrafía",
+   "to": "también sobresalía en la caligrafía"
+  },
+  {
+   "handle": "sonobe-kiyoshi",
+   "lang": "de",
+   "field": "bio",
+   "from": "über Volksbräuche und örtliche Gemeinschaften",
+   "to": "über Volksbräuche und Heimatkunde"
+  },
+  {
+   "handle": "sonobe-kiyoshi",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "not as quaint scenery",
+   "to": "not as unusual sights"
+  },
+  {
+   "handle": "sonobe-kiyoshi",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "no como un paisaje pintoresco",
+   "to": "no como escenas insólitas"
+  },
+  {
+   "handle": "sonobe-kiyoshi",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "non comme un décor pittoresque",
+   "to": "non comme des scènes insolites"
+  },
+  {
+   "handle": "sonobe-kiyoshi",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "nicht als malerische Kulisse",
+   "to": "nicht als ungewöhnliche Szenerie"
+  },
+  {
+   "handle": "suda-issei",
+   "lang": "de",
+   "field": "bio",
+   "from": "die Städte, Feste und Gassenszenen verschiedener Gegenden Japans",
+   "to": "die Ortschaften, Feste und Gassenszenen verschiedener Gegenden Japans"
+  },
+  {
+   "handle": "suda-issei",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "在不经意的日常风景中",
+   "to": "在平淡无奇的日常风景中"
+  },
+  {
+   "handle": "suda-issei",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "在不經意的日常風景中",
+   "to": "在平淡無奇的日常風景中"
+  },
+  {
+   "handle": "suda-kunitaro",
+   "lang": "de",
+   "field": "bio",
+   "from": "die Hell-Dunkel-Malerei der westlichen Kunst, darunter die von Velázquez",
+   "to": "die Hell-Dunkel-Techniken der westlichen Malerei, darunter jene von Velázquez"
+  },
+  {
+   "handle": "suda-kunitaro",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "auf dem Weg der Vernunft anzueignen",
+   "to": "auf theoretisch fundierte Weise anzueignen"
+  },
+  {
+   "handle": "suda-kunitaro",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "la technique de l'huile occidentale",
+   "to": "les techniques occidentales de peinture à l'huile"
+  },
+  {
+   "handle": "sugimoto-takashi",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "In the spaces of his shops and facilities",
+   "to": "In the spaces of the shops and facilities he designed"
+  },
+  {
+   "handle": "sugimoto-takashi",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "En los espacios de sus tiendas e instalaciones",
+   "to": "En los espacios de las tiendas e instalaciones que diseñó"
+  },
+  {
+   "handle": "sugimoto-takashi",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "Dans les espaces de ses boutiques et de ses établissements",
+   "to": "Dans les espaces des boutiques et des établissements qu'il conçut"
+  },
+  {
+   "handle": "sugioka-kason",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "auf den Fluss der schlanken Linien, verbunden durch Abstufungen der Tusche,",
+   "to": "auf den unter wirkungsvoller Nutzung der Abstufungen der Tusche gestalteten Fluss der feinen, ineinander übergehenden Linien"
+  },
+  {
+   "handle": "sugioka-kason",
+   "lang": "zh_tw",
+   "field": "viewpoint",
+   "from": "又以現代感覺將其舒展為寬舒宏大造形的表現",
+   "to": "又試圖以現代的感受將其發展為舒展而宏大的造型的表現"
+  }
+ ]
+}

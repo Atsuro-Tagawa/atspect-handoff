@@ -1,0 +1,78 @@
+
+════════ shozo-shimamoto（3件）════════
+[1] ko 功績／「모든 것을 걸어」／「すべてを賭けて」という原文にない強調が加わっている。／「예측할 수 없는 결과에 기대어」などに直す。
+[2] de 略歴／「Mit einem Ausdruck, der Handlung und Zufall einbezog, gilt er als einer von denen, die sich der avantgardistischen Kunst der Nachkriegszeit widmeten.」／「mit einem Ausdruck」と「einer von denen」が不自然で、後者は「美術家」という事実も明示していない。／「Mit Ausdrucksformen, die Handlung und Zufall einbezogen, gilt er als einer der Künstler, die sich mit der avantgardistischen Kunst der Nachkriegszeit auseinandersetzten.“
+[2] ko 功績／「결과에 모든 것을 걸어」／原文にない「모든 것을」という強調が加えられている／「결과에 기대어」に直す。
+
+════════ shusaku-arakawa（5件）════════
+[1] es 略歴／「colaboró con la poeta Madeline Gins para crear obras」／目的を表す *para* により、「作品制作のために協働した」という原文にない因果関係が加わっている。／「colaboró con la poeta Madeline Gins y creó obras」
+[1] fr 略歴／「une figure connue」／原文の「一人」を「figure」としており、人物を際立たせる評価的な響きが加わっている。／「Il est considéré comme l'un des artistes connus pour sa pensée singulière prônant l'idée de ne pas mourir.」
+[1] zh_tw 略歴／「該当箇所：「他以倡言「不死」的獨特思想而知名。」／何が問題か：原文の「一人とされる」が落ちている。／どう直すか：「他被視為以倡言「不死」的獨特思想而聞名的人物之一。」
+[2] de 功績／「Werken aus Diagrammen und Worten」／「図形」を「Diagramme（図表）」としており、語の取り違えの可能性がある。／「図形」の指定訳が台帳にないため、訳語は人に確認する。
+[2] zh_tw 略歴／「他以倡言「不死」的獨特思想而知名」／原文の「知られる一人とされる」にある「一人とされる」が落ちている。／「他被視為以倡言「不死」的獨特思想而知名的人物之一」とする。
+
+════════ soejima-taneomi（6件）════════
+[1] en 略歴／「“he excelled equally in calligraphy”」／“equally”は比較対象を示せず、原文にない同等評価にも読める。／“he also excelled in Japanese Calligraphy”とする。
+[1] fr 略歴／「il excellait tout autant en calligraphie」／「tout autant」は政治と書に同程度に秀でていたという、原文にない比較を加えている。また、指定語が使われていない。／「il excellait également en calligraphie japonaise」に直す。
+[1] fr 功績／「le souffle et la largeur d'esprit」／「souffle」は「気概」の誤訳で、意志の強さや気骨が十分に表れていない。／「la force de caractère et la largeur d'esprit」に直す。
+[2] en 略歴／「“he excelled equally in calligraphy”」／“equally”は比較対象や同程度という原文にない評価を加えている。また、「書」の指定訳が反映されていない／“he also excelled in Japanese calligraphy”に直す。
+[2] es 略歴／「sobresalía por igual en la caligrafía」／「por igual」は政治と書の両方に同程度に秀でていたという、原文にない比較評価を加えている。／「también destacó en la caligrafía japonesa」に直す。
+[2] fr 略歴／「il excellait tout autant en calligraphie」／「tout autant」は政治と書で同程度に優れていたという、原文にない比較評価を加えている。／「il excellait également dans la calligraphie japonaise」とする。
+
+════════ somiya-ichinen（4件）════════
+[1] es 略歴／「se constatan lienzos de tonos luminosos」／「画面」を「lienzos」としており、支持体がカンヴァスだという原文にない事実を加えている。また表現も不自然／「en sus obras se aprecia una tonalidad luminosa」に直す。
+[1] zh_cn 略歴／「出生于东京的西画家，活跃于二科会、独立美术协会。」／作家名「曾宫一念」が抜けており、「西画家」も指定語と不一致。また故人の活動を示す表現として時制が不明確。／「曾宫一念是出生于东京的西洋画家，曾活跃于二科会和独立美术协会。」に直す。
+[1] zh_tw 略歴／「出生於東京的西畫家」／指定用語と不一致。また、動詞のない文で、原文の主語「曾宮一念」が落ちている。／「曾宮一念是出生於東京的西洋畫家」に直す。
+[2] es 略歴／「se constatan lienzos de tonos luminosos」／「lienzos」は支持体がカンバスであるという原文にない事実を加えている。／「se observan obras de tonos luminosos」に直す。
+
+════════ sonobe-kiyoshi（8件）════════
+[1] de 略歴／「Als Autor zahlreicher Fotobücher und Veröffentlichungen」／「手がけた」を「著者」と限定しており、原文にない役割を加えている。／「Er wirkte an zahlreichen Fotobüchern und Veröffentlichungen … mit」とする。
+[1] de 略歴／「über Volksbräuche und örtliche Gemeinschaften」／「郷土」を「地域共同体」と訳しており、語の取り違えがある。／「zu volkskundlichen und heimatkundlichen Themen」とする。
+[1] de 功績／「nicht als malerische Kulisse」／「めずらしい風景」を「絵画的な背景」としており、原文にない評価と「背景」という意味が加わっている。／「nicht als etwas Exotisches」とする。
+[1] en 功績／「“quaint scenery”」／“quaint” には「古風で趣のある」という原文にない評価が加わる。／“unusual sights” に直す。
+[1] es 功績／「no como un paisaje pintoresco」／「めずらしい風景」を「絵になる風景」とずらしており、原文にない美的評価を加えている。／「no como escenas insólitas」などとする。
+[1] fr 略歴／「les atours de chaque saison」／「季節の風物」に対して比喩的で不自然であり、原文にない装飾的なニュアンスが加わっている／「les particularités saisonnières」などに直す。
+[2] de 功績／「nicht als malerische Kulisse」／「めずらしい風景」を「絵になる背景」としており、意味が異なる。／「nicht als ungewöhnliche Szenerie」に直す。
+[2] de 略歴／「über Volksbräuche und örtliche Gemeinschaften」／「郷土」を「地域共同体」としており、意味が異なる。／「über Volksbräuche und Heimatkunde」に直す。
+
+════════ suda-issei（4件）════════
+[1] es 略歴／「los pueblos」／「町」を「村」に近い意味へ狭めており、語の取り違えがある。／「las localidades」または「las ciudades y localidades」に直す。
+[1] ko 功績／「어딘가 불온하고 환상적인 기운」／「불온하다」は思想・言動などが体制に反するという意味が強く、「不穏」の取り違え／「어딘가 불안하고 환상적인 기운」と直す。
+[1] zh_tw 略歴／「不經意的日常風景」／「不經意」は「不注意に、ふと」という意味で、「何気ない日常の風景」の誤訳。／「平淡無奇的日常風景」に直す。
+[2] de 略歴／「die Städte, Feste und Gassenszenen verschiedener Gegenden Japans」／「Städte」は「町」より規模が限定され、原文にない「都市」の意味になる。また、並列も不自然。／「Szenen in Ortschaften, bei Festen und in Gassen in ganz Japan」に直す。
+
+════════ suda-kunitaro（4件）════════
+[1] de 略歴／「in Werken wie „Hund“ und „Die Pagode des Hōkan-ji“」／前の「zeichnet sich durch」に文法的につながらず、《犬》《法観寺塔婆》を描いたという事実が明確に表されていない／「Er malte Werke wie „Hund“ und „Die Pagode des Hōkan-ji“.“
+[1] de 功績／「auf dem Weg der Vernunft」／「理詰めで」の誤訳で、ドイツ語としても不自然／「auf theoretisch fundierte und systematische Weise」
+[1] fr 功績／「la technique de l'huile occidentale」／「西洋の油彩技法」の誤訳で、「西洋の油」という意味に読める。／「les techniques occidentales de peinture à l'huile」に直す。
+[2] de 略歴／「die Hell-Dunkel-Malerei der westlichen Kunst, darunter die von Velázquez」／「明暗法」を「Hell-Dunkel-Malerei」とした語の取り違えに加え、「darunter die von Velázquez」も不自然。／「die Hell-Dunkel-Technik in der westlichen Malerei, unter anderem bei Velázquez」に直す。
+
+════════ sugimoto-takashi（8件）════════
+[1] en 功績／「“In the spaces of his shops and facilities”」／“his shops” は本人が所有する店舗という原文にない意味を生じさせる／“In the shops and facilities he designed” とする。
+[1] es 功績／「En los espacios de sus tiendas e instalaciones」／「sus tiendas」では杉本貴志が所有する店舗という意味になり、原文にない事実が加わる。／「En los espacios de tiendas e instalaciones」とする。
+[2] de 功績／「die Dinge nicht glatt ordnete」／「きれいに整える」の訳として不自然で、「die Dinge」は原文にない曖昧な対象を加えている。／「die Materialien nicht makellos verarbeitete」
+[2] de 略歴／「An der Spitze eines Designbüros ist er dafür bekannt, eine große Zahl von Räumen gestaltet zu haben」／デザイン事務所を「率いた」という事実が、独立した動詞で明確に表されていない。／「Er leitete ein Designbüro und ist dafür bekannt, zahlreiche Räume gestaltet zu haben」
+[2] en 功績／「“In the spaces of his shops and facilities”」／“his shops and facilities” は、店舗や施設自体を本人が所有していたという原文にない意味を生じさせる。／“In the shops and facilities he designed” に直す。
+[2] es 功績／「En los espacios de sus tiendas e instalaciones」／「sus tiendas」は本人所有の店舗という意味になり、原文にない事実を加えている。／「En los espacios de tiendas e instalaciones」に直す。
+[2] fr 功績／「Dans les espaces de ses boutiques et de ses établissements」／「ses」により、本人が所有する店舗・施設という原文にない事実が加わっている。／「Dans les espaces de boutiques et d'établissements」に直す。
+[2] zh_cn 功績／「留意石、铁、旧材等素材本真的质感与力量，便能感受到」／「留意」の主体が読み手のように解釈され、杉本貴志が素材の質感や力強さに注目したという事実が不明瞭。／「他注重石、铁、旧材等素材本真的质感与力量，从中可以感受到」とする。
+
+════════ sugioka-kason（5件）════════
+[2] de 功績／「verbunden durch Abstufungen der Tusche」／墨の濃淡が線を「つなぐ」という意味になっており、「墨の濃淡をいかして」の誤訳。／「unter wirkungsvoller Nutzung der Abstufungen der Tusche」に直す。
+[2] en 略歴／「“the kohitsu, the celebrated brushwork of the Heian period”」／“kohitsu”を“brushwork”とするのは語の取り違え。“古筆”は筆遣いではなく、古い優れた書跡を指す。／“kohitsu, celebrated works of calligraphy from the Heian period”に直す。
+[2] es 一言紹介／「Un calígrafo de la Orden de la Cultura」／「文化勲章に属する書家」という不自然な意味になり、受章者である事実を正確に表していない。／「Un calígrafo que recibió la Orden de la Cultura y practicó la caligrafía kana moderna」に直す。
+[2] zh_tw 功績／「又以現代感覺將其舒展為寬舒宏大造形」／「展開しようとした」という試み・志向の意味が落ち、実現した事実として訳されている。また「寬舒宏大造形」は台湾華語として不自然。／「又試圖以現代的感受，將其發展為舒展而宏大的造型」に直す。
+[2] zh_tw 一言紹介／「從事現代假名書的文化勳章書法家」／「文化勳章書法家」という修飾関係が不自然で、文化勲章を受けた事実が明確に伝わらない。／「從事現代假名書、曾獲文化勳章的書法家」に直す。
+
+════════ sugiura-hisui（11件）════════
+[2] de 略歴／「Zuan-Künstler (Entwurfsgestalter)」／指定語「図案家」と不一致。また、原文の「デザイナー」が落ちている。／「Zuan-Designer und Designer」に直す。
+[2] de 略歴／「klare Komposition」／「洗練された構図」の誤訳。「klar」は「明快な」を意味する。／「raffinierte Komposition」に直す。
+[2] en 功績／「“Japanese graphic design”」／「図案」を「graphic design」としており、原文にない限定が加わっている。／“Japanese design”に直す。
+[2] en 略歴／「“a zuan (design) artist”」／指定訳「Zuan Designer」と不一致。また、原文の「デザイナー」が落ちている。／“a Zuan Designer and Designer”に直す。
+[2] en 略歴／「“the Mitsukoshi department store”」／原文にない「department store」が加えられている。／“Mitsukoshi”に直す。
+[2] en 略歴／「“training younger artists”」／「後進」を「若い芸術家」に限定しており、原文にない年齢・職種が加えられている。／“training the next generation”に直す。
+[2] en 一言紹介／「“Japanese graphic design”」／「図案」を「graphic design」としており、原文にない限定が加わっている。／“Japanese design”に直す。
+[2] es 功績／「Fue un creador de motivos (zuan) activo en el grafismo japonés.」／「図案家」の指定訳と異なり、「グラフィック分野で活動した」という原文にない内容も加わっている。／「Fue un diseñador de patrones que trabajó en patrones japoneses.」に直す。
+[2] es 一言紹介／「Un creador de motivos (zuan) activo en el grafismo japonés」／「図案家」の指定訳と異なり、「グラフィック分野で活動した」という原文にない内容も加わっている。／「Diseñador de patrones que trabajó en patrones japoneses」に直す。
+[2] fr 功績／「l'ambition d'un artiste」／原文にない「artiste」という呼称が加えられている。／「la volonté d'introduire」に直し、呼称を加えない。
+[2] fr 略歴／「pour les grands magasins Mitsukoshi」／原文にない「grands magasins」という説明が加えられている。／「pour Mitsukoshi」に直す。

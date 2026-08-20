@@ -1,0 +1,7 @@
+{
+ "reason": "第41束 スクショ検品が捕まえた並行言語チェックの取りこぼし＝杉本貴志さまの「店舗や施設の空間では」を en/es/fr で『本人が所有する店舗』の含意から直したのに、独語 `seiner Läden und Einrichtungen` を置換表に入れていなかった。ko『점포나 시설의 공간에서』・zh『店铺与设施的空间中』は所有の含意がなく正しい。★CLAUDE.md §7『1言語で見つけた違反は、他言語の対応箇所を必ず機械で突き合わせる』の取りこぼし",
+ "enteredBy": "翻訳品質T 2026-08-20 第41束(追補)",
+ "patches": [
+  {"handle":"sugimoto-takashi","lang":"de","field":"viewpoint","from":"Wer in den Räumen seiner Läden und Einrichtungen","to":"Wer in den Räumen der von ihm gestalteten Läden und Einrichtungen"}
+ ]
+}
