@@ -1,0 +1,28 @@
+{
+ "reason": "人名是正の緊急便（司令塔裁定・2026-08-21）。リサーチTの人名棚卸し（NDL典拠＋Art Platform Japan 日本美術家事典）に基づく確定是正。★各件とも該当欄の日本語原文と照合済み。★中国語（簡体字・繁体字）は人名を漢字のまま表記しており、ローマ字化の対象ではないため触らない（依頼も5言語＝en/ko/fr/es/de を指定）。★(2)友永詔三さん＝当社 Shozo/Shōzō Tomonaga・ko 도모나가 쇼조 → NDL典拠＝トモナガ アキミツ・APJ A5119＝TOMONAGA Akimitsu。★(3)川崎千虎さん＝当社 Kawasaki Senko → NDL典拠＝カワサキ チトラ・APJ A3400＝KAWASAKI Chitora。1文に2箇所あるため2箇所とも直す（en・de・ko は2箇所、fr・es は2箇所目が代名詞のため1箇所）。★(4)山名貫義さん＝当社 Yamana Tsuranori → NDL典拠＝ヤマナ ツラヨシ・APJ A3691＝YAMANA Tsurayoshi。★(5)エミール・クラウス＝Emile Claus のアクサン欠落を Émile Claus へ（4言語）。★韓国語の表記は国立国語院表記法（語頭は平音・語中は激音）に従う＝도모나가 아키미쓰／가와사키 지토라／야마나 쓰라요시",
+ "enteredBy": "翻訳品質T 2026-08-21 人名是正の緊急便",
+ "patches": [
+  {"handle":"suzuki-chikako","lang":"en","field":"bio","from":"the sculptural artist Shozo Tomonaga","to":"the sculptural artist Akimitsu Tomonaga"},
+  {"handle":"suzuki-chikako","lang":"fr","field":"bio","from":"l'artiste plasticien Shōzō Tomonaga","to":"l'artiste plasticien Akimitsu Tomonaga"},
+  {"handle":"suzuki-chikako","lang":"es","field":"bio","from":"el artista plástico Shōzō Tomonaga","to":"el artista plástico Akimitsu Tomonaga"},
+  {"handle":"suzuki-chikako","lang":"de","field":"bio","from":"dem Objektkünstler Shōzō Tomonaga","to":"dem Objektkünstler Akimitsu Tomonaga"},
+  {"handle":"suzuki-chikako","lang":"ko","field":"bio","from":"조형 작가 도모나가 쇼조(友永詔三)","to":"조형 작가 도모나가 아키미쓰(友永詔三)"},
+
+  {"handle":"kawasaki-shoko","lang":"en","field":"bio","from":"the Nihonga painter Kawasaki Senko, and after Senko's death","to":"the Nihonga painter Kawasaki Chitora, and after Chitora's death"},
+  {"handle":"kawasaki-shoko","lang":"fr","field":"bio","from":"le peintre nihonga Kawasaki Senko","to":"le peintre nihonga Kawasaki Chitora"},
+  {"handle":"kawasaki-shoko","lang":"es","field":"bio","from":"el pintor nihonga Kawasaki Senko","to":"el pintor nihonga Kawasaki Chitora"},
+  {"handle":"kawasaki-shoko","lang":"de","field":"bio","from":"dem Nihonga-Maler Kawasaki Senko, und nach Senkos Tod","to":"dem Nihonga-Maler Kawasaki Chitora, und nach Chitoras Tod"},
+  {"handle":"kawasaki-shoko","lang":"ko","field":"bio","from":"일본화가 가와사키 센코에게 야마토에를 배웠고, 센코가 세상을 떠난 뒤에는","to":"일본화가 가와사키 지토라에게 야마토에를 배웠고, 지토라가 세상을 떠난 뒤에는"},
+
+  {"handle":"matsuoka-eikyu","lang":"en","field":"bio","from":"Hashimoto Gahō and Yamana Tsuranori","to":"Hashimoto Gahō and Yamana Tsurayoshi"},
+  {"handle":"matsuoka-eikyu","lang":"fr","field":"bio","from":"Hashimoto Gahō et de Yamana Tsuranori","to":"Hashimoto Gahō et de Yamana Tsurayoshi"},
+  {"handle":"matsuoka-eikyu","lang":"es","field":"bio","from":"Hashimoto Gahō y Yamana Tsuranori","to":"Hashimoto Gahō y Yamana Tsurayoshi"},
+  {"handle":"matsuoka-eikyu","lang":"de","field":"bio","from":"Hashimoto Gahō und Yamana Tsuranori","to":"Hashimoto Gahō und Yamana Tsurayoshi"},
+  {"handle":"matsuoka-eikyu","lang":"ko","field":"bio","from":"야마나 쓰라노리에게 배운","to":"야마나 쓰라요시에게 배운"},
+
+  {"handle":"ota-kijiro","lang":"en","field":"bio","from":"trained under Emile Claus","to":"trained under Émile Claus"},
+  {"handle":"ota-kijiro","lang":"fr","field":"bio","from":"se forma auprès d'Emile Claus","to":"se forma auprès d'Émile Claus"},
+  {"handle":"ota-kijiro","lang":"es","field":"bio","from":"se formó con Emile Claus","to":"se formó con Émile Claus"},
+  {"handle":"ota-kijiro","lang":"de","field":"bio","from":"in Belgien bei Emile Claus","to":"in Belgien bei Émile Claus"}
+ ]
+}
