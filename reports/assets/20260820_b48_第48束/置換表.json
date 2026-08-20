@@ -1,0 +1,272 @@
+{
+ "reason": "第48束（作家531〜540）＝二重検品140本のうち★A 79件を日本語原文と1件ずつ照合し、全627名で横断型でないと実測したものだけを是正する。★★触らなかった横断型＝『被爆』を原爆と分かる形で訳すか（母集団12欄で es 10対4・en 9対3・fr 9対3 と4言語が同じ割れ方をしており、東松照明さま1名だけ直すと割れる。材料表へ）。★Y裁定待ち＝Y09作家の一人1件・Y11写生2件（富本憲吉さまの『自然を写生して』への指摘3言語ぶんはこの型のため見送り）・Y16大作1件・Y19帝室技芸員1件・Y02人間国宝1件・Y20伝える5件・Y23画面4件・Y24人物2件。★日本語原文の事実疑義5件はリサーチTへ申し送り（訳は触らない）／★関所1巡目＝当方の是正案そのものの欠陥5件を修正（独語 detailreich が『鮮明』からずれる／独語で文字が両側にあるとも読める／西語で耳の形が別の形に置き換わったと読める／西語で写真と意志を直接比較していた／簡体字が不自然）／★関所2巡目＝西語で forma が重複したため recreada en metal frío へ",
+ "enteredBy": "翻訳品質T 2026-08-20 第48束",
+ "patches": [
+  {
+   "handle": "tomatsu-shomei",
+   "lang": "en",
+   "field": "bio",
+   "from": "its reversion to the mainland",
+   "to": "its reversion to Japan"
+  },
+  {
+   "handle": "tomatsu-shomei",
+   "lang": "de",
+   "field": "bio",
+   "from": "seiner Rückgliederung an das Mutterland",
+   "to": "seiner Rückgabe an Japan"
+  },
+  {
+   "handle": "tominaga-naoki",
+   "lang": "fr",
+   "field": "bio",
+   "from": "des fonctions importantes dans sa section de sculpture",
+   "to": "des fonctions importantes"
+  },
+  {
+   "handle": "tominaga-naoki",
+   "lang": "es",
+   "field": "bio",
+   "from": "cargos importantes en su sección de escultura",
+   "to": "cargos importantes"
+  },
+  {
+   "handle": "tominaga-naoki",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "在日展雕塑担任评审与要职",
+   "to": "在日展担任评审与要职"
+  },
+  {
+   "handle": "tominaga-naoki",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "die glatte, anmutige Vollendung der Oberfläche",
+   "to": "die glatte, vornehme Ausarbeitung der Hautoberfläche"
+  },
+  {
+   "handle": "tominaga-naoki",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "nicht durch Neuartigkeit",
+   "to": "nicht durch Extravaganz"
+  },
+  {
+   "handle": "tominaga-naoki",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "eine für jedermann lesbare Klarheit",
+   "to": "eine für jeden nachvollziehbare Genauigkeit"
+  },
+  {
+   "handle": "tominaga-naoki",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "graceful finish of the surface",
+   "to": "graceful finish of the skin"
+  },
+  {
+   "handle": "tomio-miki",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "y vuelta a fundir en metal frío",
+   "to": "y recreada en metal frío"
+  },
+  {
+   "handle": "tomio-miki",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "et refondue dans un métal froid",
+   "to": "et transposée dans un métal froid"
+  },
+  {
+   "handle": "tomio-miki",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "借此唤起一种意义无法尽释的奇异与存在感",
+   "to": "试图借此呈现一种无法仅用意义完全解释的奇异感与存在感"
+  },
+  {
+   "handle": "tomio-miki",
+   "lang": "zh_tw",
+   "field": "viewpoint",
+   "from": "藉此喚起一種意義無法盡釋的奇異與存在感",
+   "to": "藉此試圖呈現一種無法以意義完全解釋的奇異感與存在感"
+  },
+  {
+   "handle": "tomio-miki",
+   "lang": "ko",
+   "field": "bio",
+   "from": "왜 귀인지 끝내 말하지 않은 채",
+   "to": "왜 귀인지 말하지 않은 채"
+  },
+  {
+   "handle": "tomioka-tessai",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "eine mit dem Alter freier werdende Pinselführung",
+   "to": "eine im Spätwerk zunehmend freie und ungezügelte Pinselführung"
+  },
+  {
+   "handle": "tomioka-tessai",
+   "lang": "ko",
+   "field": "bio",
+   "from": "막말 교토의 상가에서 태어난",
+   "to": "막말 교토의 상인 집안에서 태어난"
+  },
+  {
+   "handle": "tomishige-rihei",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "auf einer großen, scharfen Platte",
+   "to": "in großformatigen, scharfen Aufnahmen"
+  },
+  {
+   "handle": "tomishige-rihei",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "on a large and sharp plate",
+   "to": "in large-format, sharply detailed images"
+  },
+  {
+   "handle": "tomishige-rihei",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "sur une plaque ample et nette",
+   "to": "dans des images de grand format d'une grande netteté"
+  },
+  {
+   "handle": "tomishige-rihei",
+   "lang": "es",
+   "field": "bio",
+   "from": "provincia de Chikugo (prefectura de Fukuoka)",
+   "to": "provincia de Chikugo (actual prefectura de Fukuoka)"
+  },
+  {
+   "handle": "tomishige-rihei",
+   "lang": "fr",
+   "field": "bio",
+   "from": "la province de Chikugo (préfecture de Fukuoka)",
+   "to": "l'ancienne province de Chikugo (aujourd'hui préfecture de Fukuoka)"
+  },
+  {
+   "handle": "tomishige-rihei",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "más que una belleza paisajística",
+   "to": "más que la intención de crear bellas fotografías de paisaje"
+  },
+  {
+   "handle": "tomishige-rihei",
+   "lang": "zh_tw",
+   "field": "viewpoint",
+   "from": "當時街市的細節",
+   "to": "當時街景的細節"
+  },
+  {
+   "handle": "tomishige-rihei",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "熊本城、街市與人們",
+   "to": "熊本城、街景與人們"
+  },
+  {
+   "handle": "toneyama-kojin",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "战后日本洋画（西洋画风的绘画）中",
+   "to": "战后日本洋画中"
+  },
+  {
+   "handle": "toneyama-kojin",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "戰後日本洋畫（西洋畫風的繪畫）中",
+   "to": "戰後日本洋畫中"
+  },
+  {
+   "handle": "toneyama-kojin",
+   "lang": "es",
+   "field": "bio",
+   "from": "De manera apasionada y generosa, se le considera",
+   "to": "Por su estilo apasionado y expansivo, se le considera"
+  },
+  {
+   "handle": "tonomura-randen",
+   "lang": "de",
+   "field": "bio",
+   "from": "arbeitete auch an Dichtungs- und Prosakalligrafie",
+   "to": "schuf auch Kalligrafien von Gedichten und Prosatexten"
+  },
+  {
+   "handle": "tonomura-randen",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "die Links-rechts-Symmetrie ihrer Haltung",
+   "to": "den nach links und rechts ausgewogenen Aufbau der Zeichen"
+  },
+  {
+   "handle": "tonomura-randen",
+   "lang": "ko",
+   "field": "viewpoint",
+   "from": "글자의 자세",
+   "to": "글자의 짜임새"
+  },
+  {
+   "handle": "toshimitsu-imai",
+   "lang": "de",
+   "field": "bio",
+   "from": "Blumen, Vögeln und den Jahreszeiten",
+   "to": "Blumen, Vögeln, Wind und Mond"
+  },
+  {
+   "handle": "toshimitsu-imai",
+   "lang": "fr",
+   "field": "bio",
+   "from": "les fleurs, les oiseaux et les saisons",
+   "to": "les fleurs, les oiseaux, le vent et la lune"
+  },
+  {
+   "handle": "toshimitsu-imai",
+   "lang": "en",
+   "field": "bio",
+   "from": "flowers, birds, and the seasons",
+   "to": "flowers, birds, wind, and the moon"
+  },
+  {
+   "handle": "toshimitsu-imai",
+   "lang": "es",
+   "field": "bio",
+   "from": "las flores, las aves y las estaciones",
+   "to": "las flores, las aves, el viento y la luna"
+  },
+  {
+   "handle": "toshimitsu-imai",
+   "lang": "en",
+   "field": "bio",
+   "from": "a bridge that carried this movement back to Japan",
+   "to": "a bridge that helped introduce this movement to Japan"
+  },
+  {
+   "handle": "toshimitsu-imai",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "a la materialidad misma del color",
+   "to": "a la materialidad misma de la pintura"
+  },
+  {
+   "handle": "toshinobu-onosato",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "un orden dignos del cosmos",
+   "to": "un orden semejantes a los del cosmos"
+  },
+  {
+   "handle": "toshinobu-onosato",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "un ordre dignes du cosmos",
+   "to": "un ordre évoquant le cosmos"
+  }
+ ]
+}
