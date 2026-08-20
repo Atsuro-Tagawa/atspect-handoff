@@ -1,0 +1,90 @@
+{
+ "reason": "★第45束の取りこぼしの是正＋第47束の同型。『裸婦』の訳は全627名で母集団39欄・欧4言語が『女性あり18／女性なし21』に真っ二つに割れる横断型（材料表へ上げる）だが、★作家内で不統一な作家が2名だけあり、この2名は作家内の統一として揃える。★★田中保さまは第45束で【一言紹介】だけを直し、【略歴】【功績】を落としていた（CLAUDE.md §6の欄をまたいだ点検を、この型については行わなかった）。寺内萬治郎さまは【一言紹介】【略歴】が女性ありで【功績】だけ女性なし。★どちらも多数側（女性あり）へ、作家内で揃える／★スペイン語の【略歴】は語順が違って当方の抽出に当たらず、危うく1欄だけ落とすところだった（欄をまたぐだけでなく、語順の違いでも取りこぼす）",
+ "enteredBy": "翻訳品質T 2026-08-20 第47束（裸婦の作家内統一）",
+ "patches": [
+  {
+   "handle": "tanaka-yasushi",
+   "lang": "en",
+   "field": "bio",
+   "from": "his amply modeled nudes and portraits",
+   "to": "his amply modeled female nudes and portraits"
+  },
+  {
+   "handle": "tanaka-yasushi",
+   "lang": "fr",
+   "field": "bio",
+   "from": "ses nus et ses portraits",
+   "to": "ses nus féminins et ses portraits"
+  },
+  {
+   "handle": "tanaka-yasushi",
+   "lang": "de",
+   "field": "bio",
+   "from": "mit reich modellierten Akten und Bildnissen",
+   "to": "mit reich modellierten weiblichen Akten und Bildnissen"
+  },
+  {
+   "handle": "tanaka-yasushi",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "became known for his nudes",
+   "to": "became known for his female nudes"
+  },
+  {
+   "handle": "tanaka-yasushi",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "se fit connaître par ses nus",
+   "to": "se fit connaître par ses nus féminins"
+  },
+  {
+   "handle": "tanaka-yasushi",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "se hizo conocido por sus desnudos",
+   "to": "se hizo conocido por sus desnudos femeninos"
+  },
+  {
+   "handle": "tanaka-yasushi",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "für seine Akte bekannt war",
+   "to": "für seine weiblichen Akte bekannt war"
+  },
+  {
+   "handle": "terauchi-manjiro",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "In Terauchi's nudes",
+   "to": "In Terauchi's female nudes"
+  },
+  {
+   "handle": "terauchi-manjiro",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "Dans les nus de Terauchi",
+   "to": "Dans les nus féminins de Terauchi"
+  },
+  {
+   "handle": "terauchi-manjiro",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "En los desnudos de Terauchi",
+   "to": "En los desnudos femeninos de Terauchi"
+  },
+  {
+   "handle": "terauchi-manjiro",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "Bei Terauchis Akten",
+   "to": "Bei Terauchis weiblichen Akten"
+  },
+  {
+   "handle": "tanaka-yasushi",
+   "lang": "es",
+   "field": "bio",
+   "from": "con sus desnudos y retratos de generoso volumen",
+   "to": "con sus desnudos femeninos y retratos de generoso volumen"
+  }
+ ]
+}

@@ -1,0 +1,195 @@
+{
+ "reason": "第47束（作家521〜530）＝二重検品140本のうち★A 89件を日本語原文と1件ずつ照合し、全627名で横断型でないと実測したものだけを是正する。★★触らなかった横断型＝(1)『装丁』の訳（母集団22欄で en book design 20対 book binding 3／fr reliure 10対 conception 2／es encuadernación 8対 diseño 4 と大きく割れ、とくに仏語は製本の意味の語が多数派）(2)簡体字・繁体字の【功績】1文目が主語なしで始まる型（各232件）＝戸張孤雁さま・徳岡神泉さまの指摘はこの型のため見送り。★Y裁定待ち＝Y11写生1件・Y12親しまれ2件・Y14洋画家7件・Y19帝室技芸員1件・Y02人間国宝2件・Y07二科会3件・Y20伝える3件・Y23画面1件・Y24人物2件。★日本語原文の事実疑義8件はリサーチTへ申し送り（訳は触らない）／★関所1巡目＝当方の是正案そのものの欠陥8件を修正（独語で nachgelassenen が重複／揺れを凹凸と具体化しすぎ／挿入句が断片的／suchte の重複／関係代名詞 dem が女性名詞 Untersuchung と不一致／仏語で先行詞を複数にしたのに代名詞が単数のまま／英語で design が重複／西語で del que の係り先がずれる）／★関所2巡目＝さらに4件を修正（独語 ihresgleichen・分離動詞 hinzuführen／英語の並列／西語の Ogiwara 重複）。★仏語の徳田八十吉さまは取り下げ＝décors と motif が意味的に重なる指摘が2巡続き収束しないため、元の訳（la couleur éclatante de Kutani）のままとする／★関所3巡目＝独語の常盤とよ子さま【功績】をさらに修正（「同じ女性として」の『同じ』を保つため als Frau unter Frauen とした）／★関所4巡目＝独語の常盤とよ子さま【功績】は、1巡目が『原文にない事実』と指摘した gewann … ihr Vertrauen へ4巡目が戻せと言い、指摘が収束しなかった。よって文の作り替えは取り下げ、1巡目・4巡目に共通する『同じ女性として』の忠実化（als Frau → als Frau unter Frauen）だけに絞った。★戸張孤雁さま【功績】は Modulationen が後続の Feinheit と重なるため subtilen へ",
+ "enteredBy": "翻訳品質T 2026-08-20 第47束",
+ "patches": [
+  {
+   "handle": "tobari-kogan",
+   "lang": "en",
+   "field": "bio",
+   "from": "a collection of his late friend's writings",
+   "to": "a collection of Ogiwara's posthumous writings"
+  },
+  {
+   "handle": "tobari-kogan",
+   "lang": "de",
+   "field": "bio",
+   "from": "Sammlung der nachgelassenen Schriften seines verstorbenen Freundes",
+   "to": "Sammlung der nachgelassenen Schriften Ogiwaras"
+  },
+  {
+   "handle": "tobari-kogan",
+   "lang": "es",
+   "field": "bio",
+   "from": "los escritos póstumos de su amigo",
+   "to": "los escritos póstumos del propio Ogiwara"
+  },
+  {
+   "handle": "tobari-kogan",
+   "lang": "fr",
+   "field": "bio",
+   "from": "des écrits posthumes de son ami",
+   "to": "des écrits posthumes d'Ogiwara"
+  },
+  {
+   "handle": "tobari-kogan",
+   "lang": "fr",
+   "field": "bio",
+   "from": "par la tonalité plutôt que par le contour",
+   "to": "par la tonalité, sans recourir aux lignes de contour"
+  },
+  {
+   "handle": "tobari-kogan",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "das leise Beben der Tonoberfläche",
+   "to": "die subtilen Modulationen der Tonoberfläche"
+  },
+  {
+   "handle": "tetsumi-kudo",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "in an age of advancing science and environmental destruction",
+   "to": "in an age of advancing science and technology and escalating environmental destruction"
+  },
+  {
+   "handle": "tetsumi-kudo",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "in einem Zeitalter fortschreitender Wissenschaft und Umweltzerstörung herabgewürdigten",
+   "to": "in einem Zeitalter fortschreitender Wissenschaft und Technik sowie zunehmender Umweltzerstörung veränderten"
+  },
+  {
+   "handle": "tetsumi-kudo",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "of human beings degraded and cornered",
+   "to": "of human beings transformed and cornered"
+  },
+  {
+   "handle": "tetsumi-kudo",
+   "lang": "es",
+   "field": "statement",
+   "from": "que mostró la humanidad en crisis",
+   "to": "que mostró una imagen del ser humano en crisis"
+  },
+  {
+   "handle": "tetsumi-kudo",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "que mostró la humanidad en crisis",
+   "to": "que mostró una imagen del ser humano en crisis"
+  },
+  {
+   "handle": "tetsumi-kudo",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "向观者逼问科技失控时代里人类的危机",
+   "to": "将科技失控时代里人类的危机直呈观者面前"
+  },
+  {
+   "handle": "tetsumi-kudo",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "向觀者逼問科技失控時代裡人類的危機",
+   "to": "將科技失控時代裡人類的危機逼至觀者眼前"
+  },
+  {
+   "handle": "tokiwa-toyoko",
+   "lang": "de",
+   "field": "bio",
+   "from": "fotografierte sie, ihren Gegenständen nahe,",
+   "to": "fotografierte sie in enger Verbundenheit mit den Betroffenen"
+  },
+  {
+   "handle": "tokiwa-toyoko",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "gewann sie als Frau ihr Vertrauen",
+   "to": "gewann sie als Frau unter Frauen ihr Vertrauen"
+  },
+  {
+   "handle": "tokiwa-toyoko",
+   "lang": "en",
+   "field": "bio",
+   "from": "for documenting how they lived",
+   "to": "for continuing to document how they lived"
+  },
+  {
+   "handle": "tokuda-yasokichi",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "darin zeigt sich eine Untersuchung, die die leuchtende Aufglasurfarbe von Kutani vom Muster fort und zum Glanz und Übergang der Farbe selbst hin verschob und sie zu einer abstrakten Schönheit erhob",
+   "to": "darin zeigt sich das Streben, die leuchtende Aufglasurfarbe von Kutani vom Muster fort und zum Glanz und Übergang der Farbe selbst hinzuführen und sie zu abstrakter Schönheit zu steigern"
+  },
+  {
+   "handle": "tokuda-yasokichi",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "raising it to an abstract beauty",
+   "to": "seeking to elevate it into a form of abstract beauty"
+  },
+  {
+   "handle": "togo-seiji",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "the smoothly deformed contours",
+   "to": "the smoothly stylized contours"
+  },
+  {
+   "handle": "togo-seiji",
+   "lang": "en",
+   "field": "bio",
+   "from": "of book design and graphic design",
+   "to": "of book design and other forms of design"
+  },
+  {
+   "handle": "togo-seiji",
+   "lang": "fr",
+   "field": "bio",
+   "from": "et compte parmi les toutes premières peintures",
+   "to": "et fut considérée comme l'une des toutes premières peintures"
+  },
+  {
+   "handle": "terauchi-manjiro",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "das Gleichgewicht der liegenden Haltung",
+   "to": "den Schwerpunkt der liegenden Figur"
+  },
+  {
+   "handle": "terazaki-kogyo",
+   "lang": "ko",
+   "field": "viewpoint",
+   "from": "근대의 전람회에 맞선 자세",
+   "to": "근대의 전람회에 임한 자세"
+  },
+  {
+   "handle": "toda-tsutomu",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "信息如何呈现、如何阅读",
+   "to": "信息如何呈现、如何引导人们阅读"
+  },
+  {
+   "handle": "toda-tsutomu",
+   "lang": "zh_tw",
+   "field": "viewpoint",
+   "from": "資訊如何呈現、如何閱讀",
+   "to": "資訊如何呈現、如何引導讀者閱讀"
+  },
+  {
+   "handle": "toda-tsutomu",
+   "lang": "de",
+   "field": "bio",
+   "from": "nierter Schrift und Bildlichkeit",
+   "to": "nierter Schrift und Bildelementen"
+  },
+  {
+   "handle": "teshima-yukei",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "el movimiento desmoronado de las líneas —del que",
+   "to": "el movimiento de las líneas, como si estas se derrumbaran —del que"
+  }
+ ]
+}
