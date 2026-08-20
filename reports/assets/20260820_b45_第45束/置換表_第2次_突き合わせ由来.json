@@ -1,0 +1,25 @@
+{
+ "reason": "第45束の突き合わせ3段（②③）が捕まえたもの。★(A)巻き戻し4欄＝『鉄→鋼の取り違え』は田中信太郎さまの中だけを見て是正したが、適用後に全627名で測り直すと、母集団（日本語に『鉄』がある欄）に対し de Stahl 7件・en steel 9件・fr acier 8件・es acero 8件・zh 4件が併存する横断型だった。1名だけ直すとサイト全体が割れるため、当方の是正を巻き戻して元へ戻し、型は材料表へ上げて司令塔の裁定を仰ぐ（CLAUDE.md §3-4・§7c）。刀鍛冶の玉鋼と、原口典之さま・関根伸夫さまの鉄板とで適否が変わるため、件数だけでは裁定できない型でもある。★(B)是正11欄＝いずれも全627名で母集団を測り、外れ値または当方の取りこぼしと確かめたもの。①藤本能道さまの『鳥』が簡体字・繁体字で『飛鳥（飛ぶ鳥）』に限定されている4欄（楠部彌弌さまの『飛鳥』は作品名《彩埏飛鳥文壺》の一部なので対象外＝当たりだが誤りではない）。②『後進』の訳（母集団79欄）は younger 系50件が定型で、successors 系4件が外れ値。原文照合のうえ4欄を定型へ寄せる。③五姓田義松さまの『活躍した』が『活跃一时（一時期だけ）』と限定されている2欄＝田中保さまで統一した型の残存を0にする。④田中塊堂さまの『古筆』を英語だけ直し落としていた1欄（de/es/fr は是正済み）",
+ "enteredBy": "翻訳品質T 2026-08-20 第45束（突き合わせ3段の是正・第2次）",
+ "patches": [
+  {"handle":"tanaka-shintaro","lang":"zh_cn","field":"bio","from":"以运用铁、霓虹灯管","to":"以运用钢铁、霓虹灯管"},
+  {"handle":"tanaka-shintaro","lang":"zh_cn","field":"viewpoint","from":"在他以铁与霓虹构成","to":"在他以钢铁与霓虹构成"},
+  {"handle":"tanaka-shintaro","lang":"de","field":"bio","from":"Installationen aus Eisen, Neonröhren","to":"Installationen aus Stahl, Neonröhren"},
+  {"handle":"tanaka-shintaro","lang":"de","field":"viewpoint","from":"Werken aus Eisen und Neon","to":"Werken aus Stahl und Neon"},
+
+  {"handle":"fujimoto-yoshimichi","lang":"zh_cn","field":"bio","from":"他以将飞鸟、草花","to":"他以将鸟、草花"},
+  {"handle":"fujimoto-yoshimichi","lang":"zh_cn","field":"viewpoint","from":"生动描绘的飞鸟与草花","to":"生动描绘的鸟与草花"},
+  {"handle":"fujimoto-yoshimichi","lang":"zh_tw","field":"bio","from":"他以將飛鳥、草花","to":"他以將鳥、草花"},
+  {"handle":"fujimoto-yoshimichi","lang":"zh_tw","field":"viewpoint","from":"生動描繪的飛鳥與草花","to":"生動描繪的鳥與草花"},
+
+  {"handle":"imai-ryosetsu","lang":"en","field":"bio","from":"trained many successors","to":"trained many younger calligraphers"},
+  {"handle":"uchida-yoshikazu","lang":"en","field":"viewpoint","from":"trained many successors himself","to":"trained many younger architects himself"},
+  {"handle":"kamijo-shinzan","lang":"en","field":"bio","from":"Training his successors in both theory and practice","to":"Training younger calligraphers in both theory and practice"},
+  {"handle":"watanabe-sao","lang":"en","field":"bio","from":"he also worked to train his successors","to":"he also worked to train younger calligraphers"},
+
+  {"handle":"goseda-yoshimatsu","lang":"zh_cn","field":"statement","from":"学习西洋画并活跃一时的","to":"学习西洋画并活跃于画坛的"},
+  {"handle":"goseda-yoshimatsu","lang":"zh_tw","field":"statement","from":"學習西洋畫並活躍一時的","to":"學習西洋畫並活躍於畫壇的"},
+
+  {"handle":"tanaka-kaido","lang":"en","field":"bio","from":"kohitsu (classical calligraphy fragments)","to":"kohitsu (old calligraphic writings)"}
+ ]
+}

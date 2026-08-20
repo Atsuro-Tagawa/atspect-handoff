@@ -1,0 +1,237 @@
+{
+ "reason": "第45束＝二重検品651件（★A92件）のうち、日本語原文と1件ずつ照合し、かつ全627名で横断型でないと実測で確かめたものだけを是正する。★★裁定 Y01（報道写真→press系）の対象が田村茂さまの en/es/fr【略歴】に3件あるが、Y適用便の着手条件が『全627名の通読完了後』なので、この束では★記録のみとし触らない。★(JAGDA)の併記は D4 で現行維持が確定済みなので棄却。★『裸婦』は fr/es/ko/de とも『女性』が落ちた形が多数併存する横断型だが、田中保さまは同じ作家の中で一言紹介だけが落ちた形（他欄は女性ありの形）で不統一だったため、★作家内の統一として是正する／★関所1巡目＝(a)当方の置換案そのものの欠陥3種を修正（独語 Fachgebiet は中性なのに関係代名詞 die のまま／田中一村さま独語で bekannt が同語反復になる／田中保さま中国語で『巴黎画派』が重複する）(b)田本研造さまの fr【略歴】は取り下げ＝日本語原文の出生地『紀伊国（現在の和歌山県）』自体に事実疑義があり（田本研造の出生地は紀伊国牟婁郡＝現在の三重県熊野市とされる）、原文が直れば訳も総取替えになるためリサーチTへ申し送る (c)関所が出した他の指摘は全627名で実測し、いずれも横断型と判明したため触らず材料表へ（en 渡米の emigrat/went 割れ・zh_tw 參與設計・es la Ocupación の大小混在・zh_cn 一言紹介の主語落ち3件＝Y15の同型・臨書の fr/de/en＝Y06の同型）。独語 Kleidungs 対 Bekleidungs は 4対1 で現行が多数のため棄却／★関所2巡目＝当方の是正案が新たな重複を生んでいた2件を修正（田中千代さま仏語で confection が同じ文に二度出る→仕立ては la façon に／田中一村さま独語で直後の Bekannt ist er… と bekannt が連続する→fand weite Beachtung に）",
+ "enteredBy": "翻訳品質T 2026-08-20 第45束",
+ "patches": [
+  {
+   "handle": "tamoto-kenzo",
+   "lang": "ko",
+   "field": "bio",
+   "from": "개척사(開拓使, 홋카이도 개척 관청)",
+   "to": "개척사(開拓使)"
+  },
+  {
+   "handle": "tamura-koichi",
+   "lang": "de",
+   "field": "bio",
+   "from": "mit verfeinerter Malerei",
+   "to": "mit einer raffinierten Bemalung"
+  },
+  {
+   "handle": "tamura-koichi",
+   "lang": "en",
+   "field": "bio",
+   "from": "refined painting",
+   "to": "refined painted decoration"
+  },
+  {
+   "handle": "tamura-koichi",
+   "lang": "ko",
+   "field": "bio",
+   "from": "마시코에서 작도를 배우고",
+   "to": "마시코에서 도자기 제작을 배우고"
+  },
+  {
+   "handle": "tamura-koichi",
+   "lang": "ko",
+   "field": "bio",
+   "from": "그릇 위에 그림 장식처럼 그려",
+   "to": "그릇 위에 회화처럼 그려"
+  },
+  {
+   "handle": "tamura-koichi",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "飞鸟",
+   "to": "鸟"
+  },
+  {
+   "handle": "tamura-koichi",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "飛鳥",
+   "to": "鳥"
+  },
+  {
+   "handle": "tamura-koichi",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "in einem braunen Pigment",
+   "to": "in einem rotbraunen Pigment"
+  },
+  {
+   "handle": "tanaka-chiyo",
+   "lang": "de",
+   "field": "bio",
+   "from": "bildete viele Nachfolger aus",
+   "to": "bildete zahlreiche Nachwuchskräfte aus"
+  },
+  {
+   "handle": "tanaka-chiyo",
+   "lang": "en",
+   "field": "bio",
+   "from": "trained many successors",
+   "to": "trained many younger people who followed her"
+  },
+  {
+   "handle": "tanaka-chiyo",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "die Kleidung zu einer Disziplin erheben, die sich erlernen und weitergeben lässt, und sie",
+   "to": "aus dem Umgang mit Kleidung ein Fachgebiet machen, das sich erlernen und weitergeben lässt, und es"
+  },
+  {
+   "handle": "tanaka-chiyo",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "les matières et la coupe",
+   "to": "les matières et la façon"
+  },
+  {
+   "handle": "tanaka-isson",
+   "lang": "de",
+   "field": "bio",
+   "from": "wurde sein Werk bekannt gemacht und fand weithin Anerkennung",
+   "to": "wurde sein Werk der Öffentlichkeit vorgestellt und fand weite Beachtung"
+  },
+  {
+   "handle": "tanaka-isson",
+   "lang": "de",
+   "field": "statement",
+   "from": "Anerkennung fand",
+   "to": "bekannt wurde"
+  },
+  {
+   "handle": "tanaka-isson",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "se enfrentó a la naturaleza de Amami Ōshima",
+   "to": "se dedicó a observar la naturaleza de Amami Ōshima"
+  },
+  {
+   "handle": "tanaka-kaido",
+   "lang": "de",
+   "field": "bio",
+   "from": "Kohitsu (klassische Kalligrafie-Fragmente)",
+   "to": "Kohitsu (alte kalligrafische Schriftstücke)"
+  },
+  {
+   "handle": "tanaka-kaido",
+   "lang": "es",
+   "field": "bio",
+   "from": "kohitsu (fragmentos de caligrafía clásica)",
+   "to": "kohitsu (caligrafía antigua)"
+  },
+  {
+   "handle": "tanaka-kaido",
+   "lang": "fr",
+   "field": "bio",
+   "from": "kohitsu (fragments de calligraphie classique)",
+   "to": "kohitsu (calligraphies anciennes)"
+  },
+  {
+   "handle": "tanaka-shintaro",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "钢铁",
+   "to": "铁"
+  },
+  {
+   "handle": "tanaka-shintaro",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "钢铁",
+   "to": "铁"
+  },
+  {
+   "handle": "tanaka-shintaro",
+   "lang": "de",
+   "field": "bio",
+   "from": "aus Stahl",
+   "to": "aus Eisen"
+  },
+  {
+   "handle": "tanaka-shintaro",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "aus Stahl",
+   "to": "aus Eisen"
+  },
+  {
+   "handle": "tanaka-yasushi",
+   "lang": "en",
+   "field": "statement",
+   "from": "painted the nude",
+   "to": "painted female nudes"
+  },
+  {
+   "handle": "tanaka-yasushi",
+   "lang": "fr",
+   "field": "statement",
+   "from": "qui peignit le nu",
+   "to": "qui peignit des nus féminins"
+  },
+  {
+   "handle": "tanaka-yasushi",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintó el desnudo",
+   "to": "pintó desnudos femeninos"
+  },
+  {
+   "handle": "tanaka-yasushi",
+   "lang": "de",
+   "field": "statement",
+   "from": "den Akt malte",
+   "to": "weibliche Akte malte"
+  },
+  {
+   "handle": "tanaka-yasushi",
+   "lang": "ko",
+   "field": "statement",
+   "from": "누드를 그린",
+   "to": "나부를 그린"
+  },
+  {
+   "handle": "tanaka-yasushi",
+   "lang": "es",
+   "field": "bio",
+   "from": "brilló en la época de la Escuela de París",
+   "to": "desarrolló su actividad en la época de la Escuela de París"
+  },
+  {
+   "handle": "tanaka-yasushi",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "在巴黎画派时代活跃一时",
+   "to": "活跃于巴黎画派时期"
+  },
+  {
+   "handle": "tanaka-yasushi",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "在巴黎畫派時代活躍一時",
+   "to": "活躍於巴黎畫派時期"
+  },
+  {
+   "handle": "tange-kenzo",
+   "lang": "de",
+   "field": "bio",
+   "from": "bis zu seiner Emeritierung 1974",
+   "to": "bis zu seinem altersbedingten Ausscheiden im Jahr 1974"
+  },
+  {
+   "handle": "tange-kenzo",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "直至1974年退休",
+   "to": "直至1974年屆齡退休"
+  },
+  {
+   "handle": "tange-kenzo",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "现代建筑的结构与造型语言",
+   "to": "现代建筑的结构与造型"
+  }
+ ]
+}
