@@ -1,0 +1,119 @@
+════ 具体美術協会 ════
+日本語に「具体美術協会」がある欄＝28欄／13名
+
+── en（1形）
+    48件  Gutai
+
+── zh_cn（1形）
+    28件  具体美术协会
+
+── zh_tw（1形）
+    28件  具體美術協會
+
+── ko（2形）
+    26件  구체미술협회
+     3件  구타이
+
+── fr（1形）
+    48件  Gutai
+
+── es（1形）
+    48件  Gutai
+
+── de（1形）
+    74件  Gutai
+
+════ 報道 ════
+日本語に「報道」がある欄＝30欄／12名
+
+── en（4形）
+    28件  press
+    10件  documentar
+     4件  photojournalis
+     2件  Photojournalis
+
+── zh_cn（1形）
+     4件  新闻
+
+── zh_tw（1形）
+     4件  新聞
+
+── ko（1形）
+    37件  보도
+
+── fr（5形）
+    27件  presse
+     8件  photojournalis
+     5件  reportage
+     4件  press
+     2件  Photojournalis
+
+── es（0形）
+
+── de（4形）
+    24件  Presse
+     9件  dokumentar
+     3件  Reportage
+     1件  Dokumentar
+
+════ 実験工房 ════
+日本語に「実験工房」がある欄＝12欄／4名
+
+── en（2形）
+    12件  Jikken Kōbō
+     8件  Experimental Workshop
+
+── zh_cn（1形）
+    12件  实验工房
+
+── zh_tw（1形）
+    12件  實驗工房
+
+── ko（1形）
+     8件  실험공방
+
+── fr（2形）
+    12件  Jikken Kōbō
+     8件  Atelier expérimental
+
+── es（1形）
+    12件  Jikken Kōbō
+
+── de（3形）
+    12件  Jikken Kōbō
+     8件  Experimentelle
+     3件  experimentelle
+
+════ 漆芸 ════
+日本語に「漆芸」がある欄＝55欄／17名
+
+── en（4形）
+   118件  lacquer
+    14件  Lacquer
+     3件  Urushi
+     1件  urushi
+
+── zh_cn（1形）
+    69件  漆艺
+
+── zh_tw（1形）
+    69件  漆藝
+
+── ko（1形）
+    69件  칠예
+
+── fr（2形）
+   132件  laque
+     2件  urushi
+
+── es（5形）
+   140件  laca
+     2件  Laca
+     1件  Urushi
+     1件  urushi
+     1件  laque
+
+── de（3形）
+    22件  Lackkunst
+    10件  Urushi
+     1件  urushi

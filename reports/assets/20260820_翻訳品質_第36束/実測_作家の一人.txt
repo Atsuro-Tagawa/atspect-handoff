@@ -1,0 +1,25 @@
+日本語に「作家の一人」がある欄＝19欄／19名
+
+── en（2形）
+     8件  one of the artists
+     7件  one of the members
+
+── zh_cn（1形）
+    22件  作家之一
+
+── zh_tw（1形）
+    22件  作家之一
+
+── ko（1形）
+     1件  일원
+
+── fr（2形）
+     9件  l'un des artistes
+     5件  l'un des membres
+
+── es（1形）
+     9件  uno de los artistas
+
+── de（2形）
+     7件  einer der Künstler
+     7件  eines der Mitglieder

@@ -1,0 +1,121 @@
+
+════════ otomaru-kodo（7件）════════
+[1] es 功績／「lejos de pintar en la laca」／「漆の表面に絵を描く」という意味になっており、「漆を塗って絵を描く」の誤訳。／「en lugar de crear imágenes aplicando laca」とする。
+[1] fr 功績／「loin de peindre dans la laque」／「漆を塗って絵を描く」の誤訳。「dans la laque」は「漆の中に描く」という意味になる／「au lieu de peindre un motif en appliquant de la laque」
+[1] ko 略歴／「조칠(조각 칠)」／「조각 칠」は技法名として不自然で、「彫漆」の説明にもなっていない／「조칠」に直す。
+[1] zh_cn 功績／「該当箇所：「耗费心力与时间」／何が問題か：原文の「根気」が「心力」に置き換わり、粘り強さという意味が落ちている。／どう直すか：「需要耐心并耗费时间」
+[1] zh_tw 略歴／「他專攻」「他以」「其以」「獲認定為」／故人について過去の事実であることが示されていない。／「他曾專攻」「他曾以」「他以……而聞名」「曾獲認定為」など、過去を示す形に直す。
+[2] de 一言紹介／「Ein Lebender Nationalschatz des farbigen Lacks」／「色漆の人間国宝」という不自然な所属関係になっており、彫漆で人間国宝に認定された事実が伝わりにくい。／「Ein Lebender Nationalschatz für Chōshitsu, der die Kunst des farbigen Lacks meisterte」
+[2] fr 功績／「loin de peindre dans la laque」／「漆を塗って絵を描く」の誤訳で、「漆の中に描く」という意味になっている／「au lieu de peindre en appliquant de la laque」に直す。
+
+════════ otsuji-kiyoji（9件）════════
+[1] en 功績／「“photographs that compose objects”」／写真そのものが物を構成するという意味になっており、「オブジェを構成した写真」の誤訳／“photographs of arranged objects”に直す。
+[1] es 功績／「sus fotografías que componen objetos」／写真自体がオブジェを構成するという意味になり、「オブジェを構成した写真」の誤訳。／「sus fotografías de objetos cuidadosamente dispuestos」に直す。
+[1] fr 功績／「ses œuvres prises sur le vif du quotidien」／「sur le vif」は即興的・瞬間的な撮影という原文にない意味を加えており、後述の慎重な配置とも整合しない。／「ses œuvres ayant pour sujet le quotidien」とする。
+[1] zh_tw 略歴／「實物攝影」／「オブジェ写真」を単なる実物の撮影と受け取れる語に取り違えている。／「物件構成攝影」など、物を構成して撮影することが伝わる表現に直す。
+[2] en 功績／「“photographs that compose objects”」／写真そのものが物を構成するという意味になっており、「オブジェを構成した写真」の誤訳。／“photographs of constructed objects”などに直す。
+[2] es 略歴／「comprometido con el arte de vanguardia y la escena」／「comprometido」は原文にない積極的な献身を加えている。「la escena」も「舞台」の意味として曖昧。／「en contacto con el arte de vanguardia y las artes escénicas」
+[2] fr 功績／「ses œuvres prises sur le vif du quotidien」／「prises sur le vif」は、日常の一瞬を即興的に撮影したという原文にない意味を加えている。／「ses œuvres consacrées au quotidien」などに直す。
+[2] ko 略歴／「전위미술과 무대와 관계 맺으면서」／「관계」の目的格助詞が抜けており、助詞の連続も不自然。／「전위 미술 및 무대와 관계를 맺으면서」に直す。
+[2] zh_cn 略歴／「实物摄影」／「オブジェ写真」を「実物摄影」とするのは語の取り違えで、「実物を撮影した写真」と読まれる。／「物体构成摄影」に直す。
+
+════════ otsuka-gen（18件）════════
+[1] de 略歴／「von der vordersten Linie des Zeitungsjournalismus aus」／「vordersten」により、原文にない「最前線」という評価的な意味が加わっている／「aus der Praxis des Zeitungsjournalismus heraus」
+[1] de 功績／「die Ausdrücke seiner Gegenstände」／人物を「Gegenstände」と呼んでおり、「人物の表情」の誤訳／「die Gesichtsausdrücke der abgebildeten Personen」
+[1] en 略歴／「“documentary (press) photography”」／「報道写真」にない「documentary」が加わっている。／“press photography”に直す。
+[1] en 功績／「“the moments that seized the heart of an occurrence”」／「出来事の核心をとらえた瞬間」の誤訳で、不自然な表現。／“moments that captured the heart of an event”に直す。
+[1] es 略歴／「Activo en la fotografía documental (de prensa)」／「報道写真」に「documental」という別の概念が加わり、括弧書きも不自然。／「Activo en la fotografía de prensa」
+[1] es 略歴／「desde la primera línea del periodismo de prensa」／「現場」を「第一線」と強めており、原文にない評価的なニュアンスが加わる。／「desde el ámbito profesional del periodismo de prensa」
+[1] es 功績／「acontecimientos y personas」／「事件」が略歴の「出来事」と同じ「acontecimientos」になり、意味の違いが落ちている。／「sucesos y personas」
+[1] fr 略歴／「depuis les premières lignes du journalisme de presse」／「premières lignes」は「最前線」という原文にない意味を加えており、「journalisme de presse」も重複的で不自然。／「depuis le terrain du journalisme de presse」に直す。
+[2] de 功績／「die Ausdrücke seiner Gegenstände」／人物を「Gegenstände」と呼ぶのは不適切で、「人物の表情」の誤訳。／「die Gesichtsausdrücke der dargestellten Personen」
+[2] en 功績／「“looking at the moments that seized the heart of an occurrence”」／分詞構文の係り先が不明瞭で、“seized the heart of an occurrence” も「出来事の核心をとらえた」の誤訳。／“in moments that captured the essence of an event and in the expressions of his subjects” とする。
+[2] en 略歴／「“documentary (press) photography”」／「報道写真」に原文にない “documentary” が加えられ、功績欄の “press photographs” とも不統一。／“press photography” とする。
+[2] es 功績／「Fue un fotógrafo de prensa, de la actualidad y el retrato.」／新聞社に所属した事実が落ちており、「de la actualidad y el retrato」も不自然。／「Fue un fotógrafo de un periódico que cubrió la actualidad y retrató a personas.」
+[2] es 略歴／「Activo en la fotografía documental (de prensa)」／「documental」が原文にない分野を加えている。／「Activo en la fotografía de prensa」
+[2] es 略歴／「la maquetación gráfica del periódico」／「新聞のグラフ表現」を「新聞の紙面レイアウト」と取り違えている。／「la expresión gráfica del periódico」
+[2] es 略歴／「desde la primera línea del periodismo de prensa」／「primera línea」は原文にない評価的な含みを加え、「periodismo de prensa」も重複的で不自然。／「desde el ámbito del periodismo de prensa escrita」
+[2] es 一言紹介／「Un fotógrafo de prensa, de la actualidad y el retrato」／新聞社に所属した事実が落ちており、「de la actualidad y el retrato」も不自然。／「Un fotógrafo de un periódico que cubrió la actualidad y retrató a personas」
+[2] fr 略歴／「la photographie documentaire (de presse)」／「報道写真」に原文にない「documentaire」を加えており、括弧付きの表現も不自然。／「la photographie de presse」に直す。
+[2] fr 略歴／「depuis les premières lignes du journalisme de presse」／「現場」を「最前線」としており、原文にない評価的な意味が加わっている。また「journalisme de presse」は重複的。／「depuis le terrain du journalisme」に直す。
+
+════════ rokkaku-shisui（13件）════════
+[1] de 略歴／「die Schätze des Shōsōin (des kaiserlichen Schatzhauses in Nara)」／原文にない「宝物」「奈良の皇室宝物庫」という説明が加わっている。／「das Shōsōin und klassische Lackarbeiten」
+[1] de 略歴／「maki-e (Maki-e, eine Lacktechnik mit eingestreutem Gold)」／原文にない技法説明が加わっており、同じ語の表記も「maki-e」と「Maki-e」で不統一。／「Maki-e」
+[1] fr 略歴／「les trésors du Shōsōin et la laque classique」／「正倉院」を「正倉院の宝物」と具体化し、「古典の漆工」を素材としての「古典的な漆」に取り違えています。／「les œuvres en laque du Shōsōin et les techniques classiques de la laque」
+[1] fr 略歴／「maki-e (décor de laque japonaise)」／原文にない説明が追加されており、*décor de laque japonaise* では蒔絵以外も含む広すぎる説明です。／「maki-e」
+[1] zh_cn 功績／「将日本漆艺引渡至近代」／「引渡」は人や権利などの引き渡しに用いる語で、「近代へと橋渡しする」の誤訳。／「推动日本漆艺迈向近代」に直す。
+[2] de 略歴／「des kaiserlichen Schatzhauses in Nara」／「皇室の宝物庫」「奈良」は原文にない事実。／この補足を削除し、「die Schätze des Shōsōin」とする。
+[2] de 略歴／「Maki-e, eine Lacktechnik mit eingestreutem Gold」／「金を蒔く技法」という説明は原文にない事実。／補足を削除し、「Werke in maki-e und in farbigem Lack」とする。
+[2] en 略歴／「“(Japanese lacquer decoration)”」／原文にない説明が追加されている。／括弧内を削除し、“maki-e and colored lacquer”に直す。
+[2] es 略歴／「los tesoros del Shōsōin」／「tesoros」は原文にない事実を加えており、研究対象も「正倉院」から「正倉院の宝物」に変わっている。／「el Shōsōin」に直す。
+[2] es 略歴／「maki-e (decoración realizada con laca)」／括弧内の説明は原文にない情報。／「maki-e」に直す。
+[2] es 略歴／「laca de color」／功績欄の「laca de color」とともに、「彩漆」を素材一般の「色の付いた漆」のように表しており、技法名として不正確。／技法名に適した訳語は台帳にないため、人による確認に回す。
+[2] fr 略歴／「les trésors du Shōsōin」／「trésors」は原文にない事実を加えている。／「le Shōsōin」とする。
+[2] zh_cn 功績／「力图将日本漆艺引渡至近代」／「引渡」は人や物の引き渡しを意味し、「近代へと橋渡しする」の誤訳／「力图推动日本漆艺走向近代」に直す。
+
+════════ saburi-makoto（5件）════════
+[1] en 功績／「“Within a short working life”」／「短い制作期間」を「短い生涯」と取り違えかねない。／“During his brief artistic career”に直す。
+[1] es 略歴／「Dejó lienzos basados en una observación serena」／「画面」を「lienzos」としており、支持体をカンバスに限定する事実が加わっている。／「Dejó obras basadas en una observación serena」に直す。
+[1] es 功績／「la luz dispuesta en el paisaje」／「光の扱い」を「風景に配置された光」と取り違えており、表現も不自然。／「el tratamiento de la luz en los paisajes」に直す。
+[1] fr 略歴／「Il laissa des toiles fondées sur une observation paisible, mais mourut jeune, à trente-huit ans.」／単純過去が不自然。「toiles」は原文にない支持体を加えており、「observation paisible」は「落ち着いた観察」の訳として不自然。／「Il a laissé des compositions fondées sur une observation attentive et posée, mais il est mort prématurément à l'âge de trente-huit ans.」に直す。
+[2] fr 功績／「la densité de l'observation dans chaque œuvre fait tout l'intérêt」／「fait tout l'intérêt」は不自然で、「tout」により原文にない排他的な評価も加わっている／「chaque œuvre se distingue par la précision de l'observation」とする。
+
+════════ saburo-murakami（11件）════════
+[1] de 略歴／「große Papierwände spannte」／「紙の屏風」が単なる「紙の壁」になっており、屏風である事実が落ちている。／「große, mit Papier bespannte Paravents aufstellte」などとする。
+[1] de 功績／「zeigt die Aufmerksamkeit für die Risse im zerrissenen Papier und für die Spuren einer im Nu vergangenen Handlung, dass」／「注目すると、前衛の精神が感じられる」が、「注目そのものが示す」という別の意味になっている。／「Wenn man auf die Risse im Papier und die Spuren der augenblicklich vergangenen Handlung achtet, wird der Geist der Avantgarde spürbar:」などとする。
+[1] en 略歴／「該当箇所：“one of the members of the Gutai Art Association”」／何が問題か：「作家の一人」が単に「会員の一人」となり、「作家」という事実が落ちている。／どう直すか：“one of the artists of the Gutai Art Association”
+[1] en 功績／「該当箇所：“attending to the rips in the torn paper and to the traces of an act gone in an instant reveals that”」／何が問題か：「注目すると、前衛の精神が感じられる」という原文の関係が変わり、「注目することが後続の事実を明らかにする」という意味になっている。／どう直すか：“the tears in the paper and the traces of the fleeting act convey”
+[1] en 功績／「該当箇所：“breaking the paper with his whole body”」／何が問題か：「体ごとぶつかって」にある、全身で紙にぶつかる事実が十分に訳されていない。／どう直すか：“hurling his whole body against the paper and tearing through it”
+[1] es 功績／「buscando preguntar de nuevo qué es el arte: el espíritu de la vanguardia」／コロンにより「el espíritu de la vanguardia」が「qué es el arte」の答えのように読め、原文の「問い直そうとした前衛の精神が感じられる」という関係が落ちている。／「se percibe el espíritu vanguardista con el que trató de replantear qué es el arte」
+[2] de 功績／「um aufs Neue zu fragen, was Kunst sei – der Geist der Avantgarde.」／文末の「der Geist der Avantgarde」が文法的に宙に浮いており、「前衛の精神が感じられる」という事実も正しく表されていない。／「Darin wird der Geist der Avantgarde spürbar, der danach fragte, was Kunst sei.」などと文を完結させる。
+[2] de 略歴／「eines der Mitglieder der Gutai-Gruppe」／原文は「具体美術協会の作家の一人」であり、「Mitglied」では指定語の「Künstler」が落ちている。／「einer der Künstler der Gutai-Gruppe (Gutai Bijutsu Kyōkai)」とする。
+[2] de 略歴／「große Papierwände」／原文の「紙の屏風」が単なる「紙の壁」になっており、「屏風」の情報が落ちている。／「große, mit Papier bespannte Stellschirme」などとする。
+[2] en 略歴／「“one of the members of the Gutai Art Association”」／「具体美術協会の作家の一人」が「会員の一人」となり、「作家」が落ちている。また “one of the members” は不自然。／“one of the artists of Gutai (Gutai Art Association)” とする。
+[2] es 功績／「buscando preguntar de nuevo qué es el arte: el espíritu de la vanguardia」／「el espíritu de la vanguardia」が文法的に宙に浮いており、「前衛の精神が感じられる」という意味が欠落している。／「se percibe el espíritu vanguardista con el que trató de replantear qué es el arte」とする。
+
+════════ sadaharu-horio（11件）════════
+[1] de 功績／「eine ganz und gar freie Haltung gegenüber dem Schaffen」／「ひたむき」が落ち、「ganz und gar」という原文にない強調が加わっている。／「eine hingebungsvolle und freie Haltung gegenüber dem künstlerischen Schaffen」
+[1] fr 略歴／「Sous la bannière de l'ordinaire」／標語「あたりまえのこと」が一般的な「日常・平凡」の意味になり、引用表現も落ちている／「Sous le mot d'ordre « atarimae no koto »」などとし、訳語は要判断として人に回す。
+[1] fr 略歴／「des performances improvisées sur le moment」／「improvisées」はこの箇所の原文にない性質を加えており、「その場での」を重複気味に表現している／「des performances réalisées sur place」に直す。
+[1] zh_cn 略歴／「該当箇所：「例如自称「描绘空气」的作品」／何が問題か：作品が自称したように読め、「空気を描くと称した作品」の意味を取り違えている。／どう直すか：「例如他称之为「描绘空气」的作品」
+[1] zh_cn 功績／「該当箇所：「他并不在意留下一件杰作」／何が問題か：「傑作を一点残すことより」という比較を、本人が傑作を残すことを気にしていなかったという内心の事実に変えている。／どう直すか：「与其留下一件杰作，他更是将「活着」与「创作」融为一体，不停地动手」
+[2] de 功績／「eine ganz und gar freie Haltung gegenüber dem Schaffen」／「ひたむき」が落ちており、「ganz und gar」は原文にない強調になっている。／「eine hingebungsvolle und freie Haltung zum Schaffen」とする。
+[2] en 功績／「“attending less to any special subject than to the accumulation of the act of making each day, and to the comedy of improvisation, reveals that”」／構文が不自然で、何が制作姿勢を示すのか分かりにくい。また “comedy” は「喜劇」を強く連想させ、「おかしみ」の誤訳。／“if we focus less on any particular subject than on the cumulative act of creating each day and the humor of improvisation, we can sense” とする。
+[2] fr 略歴／「Sous la bannière de l'ordinaire」／原文にない「bannière」という比喩が加わり、「あたりまえのこと」という掲げた言葉も曖昧になっている。／「Plaçant « l'évidence du quotidien » au cœur de sa démarche」に直す。
+[2] zh_cn 功績／「具体派美术家」／「具体の美術家」にない「派」が加わっている。／「具体美术家」に直す。
+[2] zh_cn 一言紹介／「具体派美术家」／「具体の美術家」にない「派」が加わっている。／「具体美术家」に直す。
+[2] zh_tw 功績／「他並不在意留下一件傑作」／「傑作を残すことに関心がなかった」という原文にない心理的評価が加わっている。／「比起留下一件傑作，他更將『活著』與『創作』融為一體」に直す。
+
+════════ sadamasa-motonaga（5件）════════
+[1] de 略歴／「eines der Mitglieder der Gutai-Gruppe (Gutai Bijutsu Kyōkai)」／原文の「作家の一人」が単に「メンバーの一人」となり、「作家」が落ちている。／「einer der Künstler der Gutai-Gruppe (Gutai Bijutsu Kyōkai)」とする。
+[1] fr 功績／「peintures réalisées à la peinture égouttée」／「peinture égouttée」は「水切りされた絵具」のように読め、「絵具を垂らした絵」の誤訳。／「peintures réalisées en laissant couler la peinture」とする。
+[2] es 略歴／「bolsas de vinilo llenas de agua y suspendidas」／「bolsas（袋）」は原文にない具体的な形状を加えている。／「vinilo lleno de agua y suspendido」など、形状を限定しない表現にする。
+[2] zh_cn 略歴／「晚年」／原文の「後年」よりも時期を晩年に限定しており、原文にない事実を加えている。／「后来」とする。
+[2] zh_tw 功績／「具體派美術家」／「具體派」は原文にない派閥性を加えている。／「具體美術家」に直す。
+
+════════ saeki-yuzo（7件）════════
+[1] de 略歴／「mit raschem, heftigem Pinsel」／「速く激しい筆致」の誤訳で、筆そのものを形容する不自然な表現。／「mit raschen, heftigen Pinselstrichen」
+[1] de 略歴／「er beendete sein Leben」／自ら命を絶ったという意味にも取れ、原文にない事実を示唆する。／「er starb im Alter von dreißig Jahren」
+[1] en 略歴／「he ended his life at the age of thirty」／“ended his life”は自死を示唆し、原文にない事実を加えている。／「he died at the age of thirty」に直す。
+[1] es 略歴／「puso fin a su vida」／スペイン語では自ら命を絶ったという意味に受け取られ、原文にない事実を加えている。／「falleció a los treinta años en las afueras de París」
+[2] de 略歴／「er beendete sein Leben」／ドイツ語では自ら命を絶ったという意味に受け取られ、日本語にない事実を加えてしまう。／「er starb」に直す。
+[2] en 略歴／「“he ended his life”」／自死を意味し得る表現で、「生涯を閉じた」の誤訳。／“he died at the age of thirty on the outskirts of Paris”に直す。
+[2] es 略歴／「puso fin a su vida」／自ら命を絶ったという、原文にない事実を加えている／「falleció a los treinta años en las afueras de París」に直す。
+
+════════ saigo-kogetsu（15件）════════
+[1] de 功績／「Er studierte in der Meiji-Zeit an der Kunstschule Tokio und zählte zu den „Vier Himmelskönigen unter Gahō“.」／「日本画家」という事実が落ちている。／「Der Nihonga-Maler studierte in der Meiji-Zeit an der Kunstschule Tokio und zählte zu den „Vier Himmelskönigen unter Gahō“.」
+[1] en 功績／「“He studied at the Tokyo Fine Arts School in the Meiji era and was counted among the "Four Deva Kings under Gahō."”」／原文の「日本画家」が落ちている。／“He was a Nihonga Painter who studied at the Tokyo Fine Arts School in the Meiji era and was counted among the "Four Deva Kings under Gahō."”に直す。
+[1] es 功績／「Estudió en la Escuela de Bellas Artes de Tokio en la era Meiji」／原文の「日本画家」が落ちている。／「Fue un pintor de nihonga que estudió en la Escuela de Bellas Artes de Tokio durante la era Meiji」に直す。
+[1] fr 功績／「Il étudia à l'École des beaux-arts de Tokyo à l'ère Meiji」／「日本画家」という事実が落ちている。／「Peintre nihonga, il étudia à l'École des beaux-arts de Tokyo à l'ère Meiji」
+[1] zh_cn 功績／「他于明治时期就学东京美术学校，位列「雅邦门下四天王」之一。」／原文の「日本画家」が落ちている。また「位列」は序列を示す印象がある／「他是曾就读于明治时期东京美术学校、被列为「雅邦门下四天王」之一的日本画家。」
+[1] zh_tw 略歴／「畢業後留母校任教」／「留母校」は「卒業後も母校に残った」という原文にない事実を含み、「など」も落ちている。／「畢業後曾在母校任教等」に直す。
+[1] zh_tw 功績／「他於明治時期就學東京美術學校，位列「雅邦門下四天王」之一。」／原文にある「日本画家」が落ちている。また「位列」は序列を示す表現に読める。／「他是曾於明治時期就學東京美術學校，並被列為「雅邦門下四天王」之一的日本畫家。」に直す。
+[2] en 功績／「“He studied at the Tokyo Fine Arts School in the Meiji era and was counted among the "Four Deva Kings under Gahō."”」／「日本画家」という事実が訳出されていない。／“He was a Nihonga Painter who studied at the Tokyo Fine Arts School in the Meiji era and was counted among the "Four Deva Kings under Gahō."”とする。
+[2] es 略歴／「en sus últimos años pasó a Taiwán」／「pasó a Taiwán」は不自然で、「también」に相当する情報が落ちている／「en sus últimos años viajó también a Taiwán」に直す。
+[2] fr 略歴／「Quatre Rois célestes sous Gahō」／「雅邦門下」の誤訳。／「Quatre Rois célestes parmi les disciples de Gahō」とする。
+[2] fr 略歴／「avec le Nihon Bijutsuin」／指定された団体名の説明「Académie japonaise des beaux-arts」が落ちている。／「avec le Nihon Bijutsuin (Académie japonaise des beaux-arts)」とする。
+[2] zh_cn 功績／「他于明治时期就学东京美术学校，位列「雅邦门下四天王」之一。」／原文の「日本画家」が落ちている。／「他是明治时期就学于东京美术学校、位列「雅邦门下四天王」之一的日本画家。」とする。
+[2] zh_cn 略歴／「毕业后留母校任教」／「留母校」は不自然で、原文の「教えるなど」の「など」も落ちている。／「毕业后曾在母校任教等」とする。
+[2] zh_tw 功績／「他於明治時期就學東京美術學校，位列「雅邦門下四天王」之一。」／「日本畫家」という事実が抜けている。また「就學東京美術學校」は前置詞がなく不自然。／「他是明治時期就學於東京美術學校，並位列「雅邦門下四天王」之一的日本畫家。」に直す。
+[2] zh_tw 一言紹介／「以漂泊為生」／「漂泊によって生計を立てた」という意味になり、「放浪に生きた」の誤訳。／「過著漂泊生活」に直す。

@@ -1,0 +1,153 @@
+{
+  "reason": "第36束＝二重検品731件のうち、日本語原文と1件ずつ照合して誤り・脱落と確認でき、かつ全数実測で横断型でないと確かめたものだけを是正する／関所の指摘で2件を取り下げ・2件を書き直し／大辻さま英語は関所を3回通らなかったため取り下げ（記録へ）",
+  "enteredBy": "翻訳品質T 2026-08-20",
+  "patches": [
+    {
+      "handle": "saeki-yuzo",
+      "lang": "de",
+      "field": "bio",
+      "from": "und er beendete sein Leben im Alter von dreißig Jahren am Stadtrand von Paris.",
+      "to": "und er starb im Alter von dreißig Jahren am Stadtrand von Paris."
+    },
+    {
+      "handle": "saeki-yuzo",
+      "lang": "en",
+      "field": "bio",
+      "from": "and he ended his life at the age of thirty on the outskirts of Paris.",
+      "to": "and he died at the age of thirty on the outskirts of Paris."
+    },
+    {
+      "handle": "saeki-yuzo",
+      "lang": "es",
+      "field": "bio",
+      "from": "y puso fin a su vida a los treinta años en las afueras de París.",
+      "to": "y falleció a los treinta años en las afueras de París."
+    },
+    {
+      "handle": "kuniyoshi-yasuo",
+      "lang": "en",
+      "field": "bio",
+      "from": "and ended his life without obtaining the American citizenship he had sought",
+      "to": "and he died without obtaining the American citizenship he had sought"
+    },
+    {
+      "handle": "saigo-kogetsu",
+      "lang": "en",
+      "field": "viewpoint",
+      "from": "He studied at the Tokyo Fine Arts School in the Meiji era and was counted among",
+      "to": "He was a Nihonga painter who studied at the Tokyo Fine Arts School in the Meiji era and was counted among"
+    },
+    {
+      "handle": "saigo-kogetsu",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "Er studierte in der Meiji-Zeit an der Kunstschule Tokio und zählte zu den",
+      "to": "Er war ein Nihonga-Maler, der in der Meiji-Zeit an der Kunstschule Tokio studierte und zählte zu den"
+    },
+    {
+      "handle": "saigo-kogetsu",
+      "lang": "fr",
+      "field": "viewpoint",
+      "from": "Il étudia à l'École des beaux-arts de Tokyo à l'ère Meiji et fut compté parmi",
+      "to": "Peintre nihonga, il étudia à l'École des beaux-arts de Tokyo à l'ère Meiji et fut compté parmi"
+    },
+    {
+      "handle": "saigo-kogetsu",
+      "lang": "es",
+      "field": "viewpoint",
+      "from": "Estudió en la Escuela de Bellas Artes de Tokio en la era Meiji y fue contado entre",
+      "to": "Fue un pintor de nihonga que estudió en la Escuela de Bellas Artes de Tokio en la era Meiji y fue contado entre"
+    },
+    {
+      "handle": "saigo-kogetsu",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "他于明治时期就学东京美术学校，位列「雅邦门下四天王」之一。",
+      "to": "他是日本画家，于明治时期就学东京美术学校，位列「雅邦门下四天王」之一。"
+    },
+    {
+      "handle": "saigo-kogetsu",
+      "lang": "zh_tw",
+      "field": "viewpoint",
+      "from": "他於明治時期就學東京美術學校，位列「雅邦門下四天王」之一。",
+      "to": "他是日本畫家，於明治時期就學東京美術學校，位列「雅邦門下四天王」之一。"
+    },
+    {
+      "handle": "rokkaku-shisui",
+      "lang": "de",
+      "field": "bio",
+      "from": "Er studierte eingehend die Schätze des Shōsōin (des kaiserlichen Schatzhauses in Nara) und die klassische Lackarbeit",
+      "to": "Er studierte eingehend das Shōsōin und die klassische Lackarbeit"
+    },
+    {
+      "handle": "rokkaku-shisui",
+      "lang": "en",
+      "field": "bio",
+      "from": "He studied deeply the Shōsōin treasures and classical lacquerwork",
+      "to": "He studied deeply the Shōsōin and classical lacquerwork"
+    },
+    {
+      "handle": "rokkaku-shisui",
+      "lang": "es",
+      "field": "bio",
+      "from": "Estudió a fondo los tesoros del Shōsōin y la laca clásica",
+      "to": "Estudió a fondo el Shōsōin y la laca clásica"
+    },
+    {
+      "handle": "rokkaku-shisui",
+      "lang": "fr",
+      "field": "bio",
+      "from": "Il étudia en profondeur les trésors du Shōsōin et la laque classique",
+      "to": "Il étudia en profondeur le Shōsōin et la laque classique"
+    },
+    {
+      "handle": "rokkaku-shisui",
+      "lang": "zh_cn",
+      "field": "viewpoint",
+      "from": "力图将日本漆艺引渡至近代",
+      "to": "力图推动日本漆艺走向近代"
+    },
+    {
+      "handle": "rokkaku-shisui",
+      "lang": "zh_tw",
+      "field": "viewpoint",
+      "from": "力圖將日本漆藝引渡至近代",
+      "to": "力圖推動日本漆藝走向近代"
+    },
+    {
+      "handle": "saburo-murakami",
+      "lang": "de",
+      "field": "bio",
+      "from": "bei der er große Papierwände spannte und mit dem eigenen Körper durchbrach",
+      "to": "bei der er große, mit Papier bespannte Stellschirme aufstellte und mit dem eigenen Körper durchbrach"
+    },
+    {
+      "handle": "sadamasa-motonaga",
+      "lang": "zh_cn",
+      "field": "bio",
+      "from": "晚年，他以圆形与明快色彩构成的诙谐抽象",
+      "to": "后来，他以圆形与明快色彩构成的诙谐抽象"
+    },
+    {
+      "handle": "sadamasa-motonaga",
+      "lang": "zh_tw",
+      "field": "bio",
+      "from": "晚年，他以圓形與明快色彩構成的詼諧抽象",
+      "to": "後來，他以圓形與明快色彩構成的詼諧抽象"
+    },
+    {
+      "handle": "otsuka-gen",
+      "lang": "de",
+      "field": "viewpoint",
+      "from": "und auf die Ausdrücke seiner Gegenstände",
+      "to": "und auf die Gesichtsausdrücke der abgebildeten Personen"
+    },
+    {
+      "handle": "otsuji-kiyoji",
+      "lang": "es",
+      "field": "viewpoint",
+      "from": "En sus fotografías que componen objetos",
+      "to": "En sus fotografías de composiciones de objetos"
+    }
+  ]
+}
