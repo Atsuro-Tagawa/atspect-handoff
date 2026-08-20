@@ -1,0 +1,12 @@
+作家総数=627
+
+【①「スタイル画」系の残存】計 3件／1名
+  nakahara-junichi         bio_ja         /スタイル画/ ×1
+  nakahara-junichi         artist_i18n    /スタイル画/ ×2
+
+【②artist_i18n.masterworks の型】言語オブジェクト=25名／配列=599名／キー無し=3名（合計627）
+【言語が欠けている作家】4名
+  yoshizaka-takamasa       吉阪隆正       欠け=en,zh_cn,zh_tw,fr,es
+  imai-kenji               今井兼次       欠け=en,fr,es
+  azuma-takamitsu          東孝光        欠け=en,fr,es
+  tsuchiura-kameki         土浦亀城       欠け=en

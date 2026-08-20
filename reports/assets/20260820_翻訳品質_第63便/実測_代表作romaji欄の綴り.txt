@@ -1,0 +1,35 @@
+代表作(配列)の romaji 値＝1253件
+
+【ローマ字らしくない綴りの疑い】32件
+  shima-seien  ja=「祭のよそほひ」 romaji=「Matsuri no Yosooi」 en=「Dressed for the Festival」
+  higashiyama-kaii  ja=「唐招提寺御影堂障壁画」 romaji=「Tōshōdai-ji Mieidō Shōhekiga」 en=「Wall Paintings of the Mieidō at Tōshōdai-ji」
+  migishi-setsuko  ja=「ヴェネチア」 romaji=「Venezia」 en=「Venice」
+  iida-yoshikuni  ja=「XYZ」 romaji=「XYZ」 en=「XYZ」
+  yasuda-ryumon  ja=「レリーフ」 romaji=「Relief」 en=「Relief」
+  arakawa-toyozo  ja=「志野筍絵茶碗 銘 随縁」 romaji=「Shino Takenoko-e Chawan mei Zuien」 en=「Shino Tea Bowl with Bamboo Shoot Design, named Zuien」
+  kusube-yaichi  ja=「彩埏飛鳥文壺」 romaji=「Saien Asuka-mon Tsubo」 en=「Jar with Flying-Bird Design in Saien」
+  fujita-kyohei  ja=「ヴェネチアン」 romaji=「Venechian」 en=「Venetian」
+  horino-masao  ja=「カメラ・眼×鉄・構成」 romaji=「Kamera Me x Tetsu Kōsei」 en=「Camera, Eye × Steel, Composition」
+  nakahira-takuma  ja=「プロヴォーク」 romaji=「Provoke」 en=「Provoke」
+  maeda-shinzo  ja=「美瑛の丘」 romaji=「Biei no Oka」 en=「The Hills of Biei」
+  gocho-shigeo  ja=「SELF AND OTHERS」 romaji=「SELF AND OTHERS」 en=「SELF AND OTHERS」
+  shinoyama-kishin  ja=「女優シリーズ」 romaji=「Joyū Series」 en=「Actress Series」
+  fukuda-shigeo  ja=「VICTORY 1945」 romaji=「VICTORY 1945」 en=「VICTORY 1945」
+  yamashiro-ryuichi  ja=「森林（タイポグラフィ）」 romaji=「Shinrin (typography)」 en=「Forest (typography)」
+  imatake-shichiro  ja=「オーバンドのパッケージ」 romaji=「Ō-band no package」 en=「the O-Band rubber band package」
+  ohashi-tadashi  ja=「食材のイラストレーション」 romaji=「Shokuzai no illustration」 en=「illustrations of food ingredients」
+  yanagi-sori  ja=「バタフライスツール」 romaji=「Butterfly Stool」 en=「Butterfly Stool」
+  watanabe-riki  ja=「トリイスツール」 romaji=「Torii Stool」 en=「Torii Stool」
+  nakahara-junichi  ja=「それいゆ」 romaji=「Soleil」 en=「Soleil」
+  on-kawara  ja=「I Am Still Alive」 romaji=「I Am Still Alive」 en=「I Am Still Alive」
+  katsuhiro-yamaguchi  ja=「ヴィトリーヌ」 romaji=「Vitorīnu」 en=「Vitrine」
+  toshimitsu-imai  ja=「花鳥風月シリーズ」 romaji=「Kachō Fūgetsu Series」 en=「Flowers, Birds, and the Seasons Series」
+  kurata-hakuyo  ja=「梅園」 romaji=「Baien」 en=「Plum Garden」
+  saito-shinichi  ja=「瞽女シリーズ」 romaji=「Goze Series」 en=「The Goze Series」
+  yoshida-minoru  ja=「バイセクシュアル・フラワー」 romaji=「Bisexual Flower」 en=「Bisexual Flower」
+  nadamoto-tadahito  ja=「雑誌・広告のイラスト」 romaji=「Zasshi, kōkoku no illustration」 en=「Magazine and advertising illustrations」
+  nagai-kazumasa  ja=「LIFEシリーズ（動物のポスター）」 romaji=「LIFE series (dōbutsu no poster)」 en=「LIFE series (animal posters)」
+  anzai-mizumaru  ja=「村上春樹作品の挿絵・装画」 romaji=「Murakami Haruki Sakuhin no Sashie Sōga」 en=「Illustrations and Cover Paintings for the Works of Murakami Haruki」
+  anzai-mizumaru  ja=「イラスト」 romaji=「Illust」 en=「Illustrations」
+  harada-osamu  ja=「オサムグッズ」 romaji=「Osamu Goods」 en=「Osamu Goods」
+  harada-osamu  ja=「イラスト」 romaji=「Illust」 en=「Illustrations」

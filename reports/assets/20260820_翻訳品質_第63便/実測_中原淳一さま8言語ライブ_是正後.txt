@@ -1,0 +1,18 @@
+
+════ nakahara-junichi ════
+  ja    代表作=「それいゆ、ひまわり」
+        Style pictures がページ内に=なし / lang属性=ja|ja
+  en    代表作=「Soleil, Sunflower」
+        Style pictures がページ内に=なし / lang属性=en|en
+  zh-cn 代表作=「Soleil, Sunflower」
+        Style pictures がページ内に=なし / lang属性=zh-cn|zh-cn
+  zh-tw 代表作=「Soleil, Sunflower」
+        Style pictures がページ内に=なし / lang属性=zh-tw|zh-tw
+  ko    代表作=「Soleil, Sunflower」
+        Style pictures がページ内に=なし / lang属性=ko|ko
+  fr    代表作=「Soleil, Sunflower」
+        Style pictures がページ内に=なし / lang属性=fr|fr
+  es    代表作=「Soleil, Sunflower」
+        Style pictures がページ内に=なし / lang属性=es|es
+  de    代表作=「Soleil, Sunflower」
+        Style pictures がページ内に=なし / lang属性=de|de

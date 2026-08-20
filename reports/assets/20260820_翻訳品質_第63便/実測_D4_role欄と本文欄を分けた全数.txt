@@ -1,0 +1,15 @@
+
+════ role欄 ════
+    99件  台帳形 Maler im westlichen Stil (Yōga)
+     1件  (Yōga)なし Maler im westlichen Stil
+     0件  Yōga-Maler
+    99件  (Yōga) 単独
+  ★(Yōga)なしの内訳(先頭12)= yamamoto-kanae[role]
+
+════ 本文欄（statement/bio/viewpoint/groups/collection） ════
+   101件  台帳形 Maler im westlichen Stil (Yōga)
+    32件  (Yōga)なし Maler im westlichen Stil
+    70件  Yōga-Maler
+   102件  (Yōga) 単独
+  ★(Yōga)なしの内訳(先頭12)= terauchi-manjiro[statement] nakamura-kenichi[statement] aso-saburo[viewpoint] tsuruoka-masao[viewpoint] inoue-chozaburo[statement] yamashita-kikuji[viewpoint] kamoi-rei[statement] kamoi-rei[viewpoint] kobayashi-wasaku[statement] tanaka-yasushi[statement] tanaka-yasushi[viewpoint] nakazawa-hiromitsu[statement] …他20
+  ★Yōga-Maler の内訳(先頭12)= takahashi-yuichi[statement] goseda-yoshimatsu[statement] asai-chu[viewpoint] yamamoto-hosui[statement] harada-naojiro[statement] harada-naojiro[viewpoint] kuroda-seiki[statement] kuroda-seiki[bio] kume-keiichiro[statement] fujishima-takeji[statement] fujishima-takeji[viewpoint] okada-saburosuke[statement] …他58
