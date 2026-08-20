@@ -1,0 +1,27 @@
+{
+ "reason": "第49束の突き合わせ3段（②③）が捕まえた波及。★(1)独語の『Werkzeuge（工具）』で『暮らしの道具』を訳す型が、豊口克平さまのほかに渡辺力さまにもあった（原文＝『暮らしに静かになじむ道具をつくろうとした』）。★(2)『絵具で塗る／描くだけでなく』を『rather than painting alone／anstatt allein zu malen（絵画だけでなく、とも読める）』と訳す型が、山崎つる子さまのほかに田中敦子さまにもあった。★どちらも母集団の全数が2件で、2件とも直して残存を0にする／★関所＝独語で不定詞句の接続が壊れるため、from を広げて主節ごと組み直した",
+ "enteredBy": "翻訳品質T 2026-08-20 第49束（突き合わせ3段の是正・第2次）",
+ "patches": [
+  {
+   "handle": "watanabe-riki",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "Werkzeuge schaffen wollte, die sich still in den Alltag fügen",
+   "to": "Gebrauchsgegenstände schaffen wollte, die sich still in den Alltag fügen"
+  },
+  {
+   "handle": "atsuko-tanaka",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "rather than painting alone",
+   "to": "rather than merely painting with pigment"
+  },
+  {
+   "handle": "atsuko-tanaka",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "dass sie sich, anstatt allein zu malen, in Elektrizität",
+   "to": "dass sie nicht nur mit Farbe malte, sondern sich in Elektrizität"
+  }
+ ]
+}

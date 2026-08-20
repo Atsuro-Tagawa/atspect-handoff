@@ -1,0 +1,167 @@
+{
+ "reason": "第49束（作家541〜550）＝二重検品140本のうち★A 52件を日本語原文と1件ずつ照合し、全627名で横断型でないと実測したものだけを是正する。★『検挙』を中国語で『检举／檢舉（告発・通報する）』としていた誤りは、母集団2欄（福沢一郎さま・津田青楓さま）の全数が同じ誤りだったため、束の対象外の福沢一郎さまも含めて2名とも直し、残存を0にする。★★触らなかった横断型＝『抽象彫刻』の訳で『彫刻』が落ちる型（母集団20欄で en 13対7・de 5対7・fr 7対7・es 8対6 と割れ、土谷武さま4欄のほかに向井良吉さま・吾妻兼治郎さまにも同型があるため1名だけ直すと割れる。材料表へ）。★Y裁定待ち＝Y06臨書1件（辻本史邑さまの独西の指摘はこの型）・Y09作家の一人1件・Y11写生2件・Y14洋画家5件（鶴岡政男さまの簡体字・繁体字『西画家』への指摘はこの型）・Y02人間国宝2件・Y07二科会3件・Y08具体美術協会2件・Y20伝える1件・Y21箱2件・Y23画面4件・Y24人物1件。★津田青楓さまの『装幀』への西語の指摘は T73（装丁）の型のため見送り。★日本語原文の事実疑義3件はリサーチTへ申し送り／★関所1巡目＝当方の是正案そのものの欠陥3件を修正（独語で不定詞句が統語的につながらない／西語 de gran escala が画面自体の大きさとも読める／繁体字『等人的西洋近代繪畫』が不自然）／★関所2巡目＝独語2件を修正（täglich の重複／主語直後の不要なコンマ）",
+ "enteredBy": "翻訳品質T 2026-08-20 第49束",
+ "patches": [
+  {
+   "handle": "toyoguchi-katsuhei",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "Werkzeuge schaffen wollte, die den Alltag tragen",
+   "to": "Gebrauchsgegenstände schaffen wollte, die den Alltag unterstützen"
+  },
+  {
+   "handle": "tsuchida-bakusen",
+   "lang": "de",
+   "field": "bio",
+   "from": "wie die staatlichen Ausstellungen bewertet wurden",
+   "to": "wie die Werke bei den staatlichen Ausstellungen juriert wurden"
+  },
+  {
+   "handle": "tsuchida-bakusen",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "die großformatige Anordnung von Maiko und Gartengrün",
+   "to": "die großzügige Bildkomposition mit der Maiko und dem Grün des Gartens"
+  },
+  {
+   "handle": "tsuchida-bakusen",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "la amplia disposición de una maiko",
+   "to": "la composición que presenta en grandes dimensiones a una maiko"
+  },
+  {
+   "handle": "tsuchida-bakusen",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "研習雷諾瓦、高更等西洋近代繪畫",
+   "to": "研習雷諾瓦、高更等西方近代畫家的作品"
+  },
+  {
+   "handle": "tsuchitani-takeshi",
+   "lang": "ko",
+   "field": "viewpoint",
+   "from": "그 기세를 구조로 다시 짜내려 한",
+   "to": "그 기세를 구조로 재구성하려 한"
+  },
+  {
+   "handle": "tsuchiura-kameki",
+   "lang": "de",
+   "field": "bio",
+   "from": "wurde in Mito, Präfektur Ibaraki geboren",
+   "to": "wurde in Mito in der Präfektur Ibaraki geboren"
+  },
+  {
+   "handle": "tsuchiura-kameki",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "nach seiner Versetzung und Restaurierung im Jahr 2024",
+   "to": "nach seiner Versetzung und der Wiederherstellung des ursprünglichen Zustands im Jahr 2024"
+  },
+  {
+   "handle": "tsuchiura-kameki",
+   "lang": "en",
+   "field": "bio",
+   "from": "was relocated and restored to Minami-Aoyama, Minato Ward, Tokyo, in 2024",
+   "to": "was relocated to Minami-Aoyama, Minato Ward, Tokyo, and restored to its original form in 2024"
+  },
+  {
+   "handle": "tsuda-seifu",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "一度被检举",
+   "to": "一度被逮捕"
+  },
+  {
+   "handle": "tsuda-seifu",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "一度被檢舉",
+   "to": "一度遭到逮捕"
+  },
+  {
+   "handle": "fukuzawa-ichiro",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "一度被检举",
+   "to": "一度被逮捕"
+  },
+  {
+   "handle": "fukuzawa-ichiro",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "一度被檢舉",
+   "to": "一度遭到逮捕"
+  },
+  {
+   "handle": "tsuda-seifu",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "seinen Ausdruck im Auf und Ab der Zeit veränderte",
+   "to": "von den Zeitläuften hin- und hergerissen seinen Ausdruck veränderte"
+  },
+  {
+   "handle": "tsuda-seifu",
+   "lang": "zh_tw",
+   "field": "viewpoint",
+   "from": "直面社會現實的姿態",
+   "to": "試圖面對社會現實的態度"
+  },
+  {
+   "handle": "tsukamoto-kaiji",
+   "lang": "fr",
+   "field": "bio",
+   "from": "à renouveler sa pureté de beauté",
+   "to": "à renouveler sa beauté pure"
+  },
+  {
+   "handle": "tsukamoto-kaiji",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "sans ajouter de décor ni de couleur tapageurs",
+   "to": "sans ajouter de décor peint éclatant ni de couleurs vives"
+  },
+  {
+   "handle": "tsukamoto-kaiji",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "在青白瓷的钵中，留意",
+   "to": "观赏青白瓷钵时，留意"
+  },
+  {
+   "handle": "tsuruko-yamazaki",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "dass sie, anstatt allein zu malen,",
+   "to": "dass sie nicht nur Farbe auftrug, sondern"
+  },
+  {
+   "handle": "tsuruko-yamazaki",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "rather than painting alone",
+   "to": "rather than merely applying paint"
+  },
+  {
+   "handle": "tsuruoka-masao",
+   "lang": "en",
+   "field": "statement",
+   "from": "postwar anxiety and the human figure in symbolic terms",
+   "to": "postwar anxiety and humanity in symbolic terms"
+  },
+  {
+   "handle": "tsuruoka-masao",
+   "lang": "es",
+   "field": "bio",
+   "from": "del sentimiento de la inquieta era de posguerra",
+   "to": "de la sensación de incertidumbre propia de la época de posguerra"
+  },
+  {
+   "handle": "tsuruoka-masao",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "被視為表現了戰後不安時代之感覺的作品",
+   "to": "以表現戰後不安時代的感受而聞名"
+  }
+ ]
+}
