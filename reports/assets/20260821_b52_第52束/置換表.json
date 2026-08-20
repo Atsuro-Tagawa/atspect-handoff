@@ -1,0 +1,125 @@
+{
+ "reason": "第52束（作家571〜580）＝二重検品140本のうち★A 121件を日本語原文と1件ずつ照合し、全627名で横断型でないと実測したものだけを是正する。★★触らなかった横断型＝(1)中国語の『オブジェ』（母集団14欄で zh_cn は 装置6・塑像1・物件系3 と割れ、韓国語・英語・独語・仏語・西語は14/14で統一。材料表へ）(2)『端正』（母集団58欄）(3)『簡潔』（母集団59欄）(4)仏語の『後進→若い書家』（T80）。★Y裁定待ち＝Y11写生1件・Y14洋画家3件・Y17持ち味1件・Y02人間国宝2件・Y23画面3件。★日本語原文の事実疑義8件はリサーチTへ申し送り（訳は触らない）／★関所1巡目＝当方の是正案そのものの欠陥6件を修正（独語 ohne jede Verformung が物理的な変形の意味に寄る／einen freien Ausdruck の冠詞が不自然／英語 exhibitions at organizations が『組織で開催した』と読める／西語 sin perder la forma が動作の意味にも読める・懸垂分詞／簡体字『有纪律的目光』が生硬）。★簡体字と繁体字は、関所が繁体字を『問題なし』としたが、簡体字だけ直すと言語間で割れるため、両方とも『严谨的目光／嚴謹的目光』に揃えた／★関所2巡目＝西語の懸垂分詞を独立文へ組み直し、簡体字の『经久耐用的功能』を『经久耐用与美感』へ",
+ "enteredBy": "翻訳品質T 2026-08-21 第52束",
+ "patches": [
+  {
+   "handle": "watanabe-sao",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "frei von jeder Nachlässigkeit",
+   "to": "ohne formale Unstimmigkeiten"
+  },
+  {
+   "handle": "watanabe-sao",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "sin la menor flojedad",
+   "to": "sin deformaciones"
+  },
+  {
+   "handle": "watanabe-sao",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "sans le moindre relâchement",
+   "to": "d'une parfaite tenue"
+  },
+  {
+   "handle": "watanabe-sao",
+   "lang": "en",
+   "field": "bio",
+   "from": "Presiding over exhibitions in groups such as the Nihon Shodōkai",
+   "to": "Presiding over exhibitions through organizations such as the Nihon Shodōkai"
+  },
+  {
+   "handle": "watanabe-sao",
+   "lang": "es",
+   "field": "bio",
+   "from": "Presidiendo exposiciones en grupos como el Nihon Shodōkai (Asociación Japonesa de Caligrafía), también",
+   "to": "Organizó exposiciones en entidades como el Nihon Shodōkai (Asociación Japonesa de Caligrafía) y también"
+  },
+  {
+   "handle": "yagi-kazuo",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "und der Ton als Material für ungebundenen Ausdruck befreit wurde",
+   "to": "und versucht wurde, den Ton als Material für freien Ausdruck freizusetzen"
+  },
+  {
+   "handle": "yagi-kazuo",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "y el barro liberado como material de una expresión sin trabas",
+   "to": "y se trató de liberar el barro como material de una expresión sin trabas"
+  },
+  {
+   "handle": "yagi-kazuo",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "et la terre libérée comme matériau",
+   "to": "et où l'on chercha à libérer la terre comme matériau"
+  },
+  {
+   "handle": "yagi-kazuo",
+   "lang": "de",
+   "field": "bio",
+   "from": "Bekannt ist er für freie, tongebundene Form",
+   "to": "Bekannt ist er für freie Formen aus Ton"
+  },
+  {
+   "handle": "watanabe-riki",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "qui pratiqua le design produit japonais d'après-guerre",
+   "to": "qui a travaillé à la conception de produits dans le Japon d'après-guerre"
+  },
+  {
+   "handle": "watanabe-riki",
+   "lang": "fr",
+   "field": "statement",
+   "from": "Un designer qui pratiqua le design produit japonais d'après-guerre",
+   "to": "Un designer qui a travaillé à la conception de produits dans le Japon d'après-guerre"
+  },
+  {
+   "handle": "watanabe-riki",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "laisse percevoir une posture sûre",
+   "to": "laisse percevoir une démarche rigoureuse"
+  },
+  {
+   "handle": "watanabe-riki",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "而是要兼顾耐久的功能与美感",
+   "to": "而是要兼顾经久耐用与美感"
+  },
+  {
+   "handle": "watanabe-yoshio",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "便能感到一种克制有度的目光",
+   "to": "便能感到一种严谨的目光"
+  },
+  {
+   "handle": "watanabe-yoshio",
+   "lang": "zh_tw",
+   "field": "viewpoint",
+   "from": "便能感到一種克制有度的目光",
+   "to": "便能感到一種嚴謹的目光"
+  },
+  {
+   "handle": "watanabe-genichi",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "水户京成百货店举办个展",
+   "to": "水户京成百货店多次举办个展"
+  },
+  {
+   "handle": "watanabe-genichi",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "水戶京成百貨店舉辦個展",
+   "to": "水戶京成百貨店多次舉辦個展"
+  }
+ ]
+}
