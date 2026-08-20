@@ -1,0 +1,13 @@
+{
+ "reason": "契約直前3名の翻訳集中便（2026-08-20）追補。★スクショ検品が捕まえた並行取りこぼし＝渡辺玄一さまの寸法「F8号」に付いた原文にない説明（日本画布規格／일본 캔버스 규격／formato de lienzo japonés 等）を、作品ページ（product_i18n）では7言語すべて除去したのに、作家ページ（artist_i18n.works）に同じ説明が残っていた。F号はキャンバスだけに限定される規格ではなく、原文にない事実の追加",
+ "enteredBy": "翻訳品質T 2026-08-20 3名集中便（追補）",
+ "patches": [
+  {"handle":"watanabe-genichi","lang":"en","field":"works","index":0,"sub":"medium","from":" (Japanese canvas size)","to":""},
+  {"handle":"watanabe-genichi","lang":"zh_cn","field":"works","index":0,"sub":"medium","from":"（日本画布规格）","to":""},
+  {"handle":"watanabe-genichi","lang":"zh_tw","field":"works","index":0,"sub":"medium","from":"（日本畫布規格）","to":""},
+  {"handle":"watanabe-genichi","lang":"ko","field":"works","index":0,"sub":"medium","from":"(일본 캔버스 규격)","to":""},
+  {"handle":"watanabe-genichi","lang":"fr","field":"works","index":0,"sub":"medium","from":" (format de toile japonais)","to":""},
+  {"handle":"watanabe-genichi","lang":"es","field":"works","index":0,"sub":"medium","from":" (formato de lienzo japonés)","to":""},
+  {"handle":"watanabe-genichi","lang":"de","field":"works","index":0,"sub":"medium","from":" (japanisches Leinwandformat)","to":""}
+ ]
+}

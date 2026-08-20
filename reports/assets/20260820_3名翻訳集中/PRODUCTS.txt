@@ -1,0 +1,516 @@
+
+████ funasogaku / 舟奏楽 ████
+  custom.medium: バルサ・彩色・箔
+  custom.size: H 23 × W 53 × D 23 cm
+
+  ■ description ★欠け=de
+     ja: 小さな舟の上で、蛙・兎・猿・猫が楽器を奏でています。眺めていると楽しい音色が聞こえてくるようで、見るたびに楽しい気持ちにしてくれます。
+     en: On a small boat, a frog, rabbit, monkey, and cat play their instruments together. As you look at it, you can almost hear their cheerful music, bringing a joyful feeling each time.
+     zh_cn: 在一叶小舟上，青蛙、兔子、猴子和猫正演奏着乐器。凝望时仿佛能听见愉快的旋律，每一次观看都让心情变得轻快。
+     zh_tw: 在一葉小舟上，青蛙、兔子、猴子和貓正演奏著樂器。凝望時彷彿能聽見愉快的旋律，每一次觀看都讓心情變得輕快。
+     ko: 작은 배 위에서 개구리, 토끼, 원숭이, 고양이가 악기를 연주하고 있습니다. 바라보고 있으면 즐거운 선율이 들려오는 듯해, 볼 때마다 기분을 밝게 해 줍니다.
+     fr: Sur une petite barque, une grenouille, un lapin, un singe et un chat jouent de leurs instruments. En la contemplant, on croit presque entendre leur joyeuse mélodie, qui met le cœur en fête à chaque regard.
+     es: En una pequeña barca, una rana, un conejo, un mono y un gato tocan sus instrumentos. Al contemplarla, casi parece escucharse una melodía alegre, capaz de despertar una sensación de alegría cada vez.
+     de: （無）
+
+  ■ title ★欠け=zh_cn,zh_tw,ko,fr,es,de
+     ja: 舟奏楽
+     en: Boat Music
+     zh_cn: （無）
+     zh_tw: （無）
+     ko: （無）
+     fr: （無）
+     es: （無）
+     de: （無）
+
+  ■ medium ★欠け=de
+     ja: バルサ・彩色・箔
+     en: Balsa wood, polychromy, gold leaf
+     zh_cn: 巴尔沙木・彩色・金箔
+     zh_tw: 巴爾沙木・彩色・金箔
+     ko: 발사 나무・채색・금박
+     fr: Bois de balsa, polychromie, feuille d'or
+     es: Madera de balsa, policromía, pan de oro
+     de: （無）
+
+  ■ size （8言語あり）
+     ja: H 23 × W 53 × D 23 cm
+     en: H 23 × W 53 × D 23 cm (9.1 × 20.9 × 9.1 in)
+     zh_cn: 高23×宽53×深23厘米
+     zh_tw: 高23×寬53×深23cm
+     ko: H 23 × W 53 × D 23 cm
+     fr: H 23 × L 53 × P 23 cm
+     es: Al 23 × An 53 × Pr 23 cm
+     de: H 23 × B 53 × T 23 cm
+
+  ■ artist ★欠け=en,zh_cn,zh_tw,ko,fr,es,de
+     ja: 鈴木 千賀子
+     en: （無）
+     zh_cn: （無）
+     zh_tw: （無）
+     ko: （無）
+     fr: （無）
+     es: （無）
+     de: （無）
+
+  ■ title_note （8言語あり）
+     ja: （鳥獣戯画より）
+     en: (after Chōjū-giga)
+     zh_cn: （取自《鸟兽戏画》）
+     zh_tw: （取自《鳥獸戲畫》）
+     ko: (조수희화에서)
+     fr: (d'après le Chōjū-giga)
+     es: (a partir del Chōjū-giga)
+     de: (nach dem Chōjū-giga)
+
+████ kakekurabe / かけくらべ ████
+  custom.medium: ヒノキ・彩色・箔
+  custom.size: H 28 × W 25 × D 15 cm
+
+  ■ description ★欠け=de
+     ja: 鹿に乗って、颯爽と駆け抜ける猿。その軽やかな姿は、目に入るたびに元気をくれて、毎日を明るくしてくれます。
+     en: A monkey rides swiftly on a deer, dashing forward with lively grace. Its light, spirited form brings a lift of energy each time you see it, brightening the everyday.
+     zh_cn: 猴子骑在鹿背上，轻快地疾驰而过。那灵动的身姿，每次映入眼帘都带来活力，让日常更加明亮。
+     zh_tw: 猴子騎在鹿背上，輕快地疾馳而過。那靈動的身姿，每次映入眼簾都帶來活力，讓日常更加明亮。
+     ko: 사슴을 타고 경쾌하게 달려 나가는 원숭이. 가볍고 생기 있는 모습은 볼 때마다 힘을 주고, 매일을 환하게 밝혀 줍니다.
+     fr: Un singe file avec élan sur le dos d'un cerf. Sa silhouette légère et pleine de vie insuffle de l'énergie à chaque regard et illumine le quotidien.
+     es: Un mono avanza con brío montado sobre un ciervo. Su figura ligera y llena de vida transmite energía cada vez que aparece ante la vista, iluminando el día a día.
+     de: （無）
+
+  ■ title ★欠け=zh_cn,zh_tw,ko,fr,es,de
+     ja: かけくらべ
+     en: A Lively Race
+     zh_cn: （無）
+     zh_tw: （無）
+     ko: （無）
+     fr: （無）
+     es: （無）
+     de: （無）
+
+  ■ medium ★欠け=de
+     ja: ヒノキ・彩色・箔
+     en: Japanese cypress (hinoki), polychromy, gold leaf
+     zh_cn: 桧木・彩色・金箔
+     zh_tw: 檜木・彩色・金箔
+     ko: 히노키(편백나무)・채색・금박
+     fr: Cyprès japonais (hinoki), polychromie, feuille d'or
+     es: Ciprés japonés (hinoki), policromía, pan de oro
+     de: （無）
+
+  ■ size （8言語あり）
+     ja: H 28 × W 25 × D 15 cm
+     en: H 28 × W 25 × D 15 cm (11 × 9.8 × 5.9 in)
+     zh_cn: 高28×宽25×深15厘米
+     zh_tw: 高28×寬25×深15cm
+     ko: H 28 × W 25 × D 15 cm
+     fr: H 28 × L 25 × P 15 cm
+     es: Al 28 × An 25 × Pr 15 cm
+     de: H 28 × B 25 × T 15 cm
+
+  ■ artist ★欠け=en,zh_cn,zh_tw,ko,fr,es,de
+     ja: 鈴木 千賀子
+     en: （無）
+     zh_cn: （無）
+     zh_tw: （無）
+     ko: （無）
+     fr: （無）
+     es: （無）
+     de: （無）
+
+  ■ title_note （8言語あり）
+     ja: （鳥獣戯画より）
+     en: (after Chōjū-giga)
+     zh_cn: （取自《鸟兽戏画》）
+     zh_tw: （取自《鳥獸戲畫》）
+     ko: (조수희화에서)
+     fr: (d'après le Chōjū-giga)
+     es: (a partir del Chōjū-giga)
+     de: (nach dem Chōjū-giga)
+
+████ kaeru-butsu / カエル仏 ████
+  custom.medium: ヒノキ・彩色・箔
+  custom.size: H 24 × W 30 × D 25 cm
+
+  ■ description ★欠け=de
+     ja: 蓮の上で、静かに手を合わせる蛙の仏さま。そのおだやかな姿は、忙しい毎日に、心が落ち着くひとときをそっと添えてくれます。
+     en: A frog Buddha quietly presses its hands together atop a lotus. Its peaceful presence gently brings a calming moment into the busyness of everyday life.
+     zh_cn: 蛙佛静静地在莲花上合掌。那安详的姿态，仿佛为忙碌的日常轻轻添上一段让心安定的时光。
+     zh_tw: 蛙佛靜靜地在蓮花上合掌。那安詳的姿態，彷彿為忙碌的日常輕輕添上一段讓心安定的時光。
+     ko: 연꽃 위에서 조용히 두 손을 모은 개구리 부처님. 그 평온한 모습은 바쁜 일상 속에 마음이 차분해지는 시간을 살며시 더해 줍니다.
+     fr: Sur un lotus, un bouddha grenouille joint paisiblement les mains. Sa présence douce apporte, au cœur des journées chargées, un moment de calme intérieur.
+     es: Sobre una flor de loto, un Buda rana junta las manos en silencio. Su presencia serena aporta suavemente un momento de calma al ritmo de cada día.
+     de: （無）
+
+  ■ title ★欠け=zh_cn,zh_tw,ko,fr,es,de
+     ja: カエル仏
+     en: Frog Buddha
+     zh_cn: （無）
+     zh_tw: （無）
+     ko: （無）
+     fr: （無）
+     es: （無）
+     de: （無）
+
+  ■ medium ★欠け=de
+     ja: ヒノキ・彩色・箔
+     en: Japanese cypress (hinoki), polychromy, gold leaf
+     zh_cn: 桧木・彩色・金箔
+     zh_tw: 檜木・彩色・金箔
+     ko: 히노키(편백나무)・채색・금박
+     fr: Cyprès japonais (hinoki), polychromie, feuille d'or
+     es: Ciprés japonés (hinoki), policromía, pan de oro
+     de: （無）
+
+  ■ size （8言語あり）
+     ja: H 24 × W 30 × D 25 cm
+     en: H 24 × W 30 × D 25 cm (9.4 × 11.8 × 9.8 in)
+     zh_cn: 高24×宽30×深25厘米
+     zh_tw: 高24×寬30×深25cm
+     ko: H 24 × W 30 × D 25 cm
+     fr: H 24 × L 30 × P 25 cm
+     es: Al 24 × An 30 × Pr 25 cm
+     de: H 24 × B 30 × T 25 cm
+
+  ■ artist ★欠け=en,zh_cn,zh_tw,ko,fr,es,de
+     ja: 鈴木 千賀子
+     en: （無）
+     zh_cn: （無）
+     zh_tw: （無）
+     ko: （無）
+     fr: （無）
+     es: （無）
+     de: （無）
+
+  ■ title_note （8言語あり）
+     ja: （鳥獣戯画より）
+     en: (after Chōjū-giga)
+     zh_cn: （取自《鸟兽戏画》）
+     zh_tw: （取自《鳥獸戲畫》）
+     ko: (조수희화에서)
+     fr: (d'après le Chōjū-giga)
+     es: (a partir del Chōjū-giga)
+     de: (nach dem Chōjū-giga)
+
+████ watanabe-genichi-budo-7 / ぶどう Ⅶ ████
+  custom.medium: ●
+  custom.size: F8号
+
+  ■ title ★欠け=zh_cn,zh_tw,ko,fr,es,de
+     ja: ぶどう Ⅶ
+     en: Grapes VII
+     zh_cn: （無）
+     zh_tw: （無）
+     ko: （無）
+     fr: （無）
+     es: （無）
+     de: （無）
+
+  ■ description （8言語あり）
+     ja: ●
+     en: ●
+     zh_cn: ●
+     zh_tw: ●
+     ko: ●
+     fr: ●
+     es: ●
+     de: ●
+
+  ■ medium （8言語あり）
+     ja: ●
+     en: ●
+     zh_cn: ●
+     zh_tw: ●
+     ko: ●
+     fr: ●
+     es: ●
+     de: ●
+
+  ■ size （8言語あり）
+     ja: F8号
+     en: F8 (Japanese canvas size)
+     zh_cn: F8号（日本画布规格）
+     zh_tw: F8號（日本畫布規格）
+     ko: F8호(일본 캔버스 규격)
+     fr: F8 (format de toile japonais)
+     es: F8 (formato de lienzo japonés)
+     de: F8 (japanisches Leinwandformat)
+
+  ■ artist ★欠け=en,zh_cn,zh_tw,ko,fr,es,de
+     ja: 渡辺 玄一
+     en: （無）
+     zh_cn: （無）
+     zh_tw: （無）
+     ko: （無）
+     fr: （無）
+     es: （無）
+     de: （無）
+
+████ watanabe-genichi-ayame-1 / アヤメ Ⅰ ████
+  custom.medium: ●
+  custom.size: F8号
+
+  ■ title ★欠け=zh_cn,zh_tw,ko,fr,es,de
+     ja: アヤメ Ⅰ
+     en: Iris I
+     zh_cn: （無）
+     zh_tw: （無）
+     ko: （無）
+     fr: （無）
+     es: （無）
+     de: （無）
+
+  ■ description （8言語あり）
+     ja: ●
+     en: ●
+     zh_cn: ●
+     zh_tw: ●
+     ko: ●
+     fr: ●
+     es: ●
+     de: ●
+
+  ■ medium （8言語あり）
+     ja: ●
+     en: ●
+     zh_cn: ●
+     zh_tw: ●
+     ko: ●
+     fr: ●
+     es: ●
+     de: ●
+
+  ■ size （8言語あり）
+     ja: F8号
+     en: F8 (Japanese canvas size)
+     zh_cn: F8号（日本画布规格）
+     zh_tw: F8號（日本畫布規格）
+     ko: F8호(일본 캔버스 규격)
+     fr: F8 (format de toile japonais)
+     es: F8 (formato de lienzo japonés)
+     de: F8 (japanisches Leinwandformat)
+
+  ■ artist ★欠け=en,zh_cn,zh_tw,ko,fr,es,de
+     ja: 渡辺 玄一
+     en: （無）
+     zh_cn: （無）
+     zh_tw: （無）
+     ko: （無）
+     fr: （無）
+     es: （無）
+     de: （無）
+
+████ watanabe-genichi-wine-2 / ワイン Ⅱ ████
+  custom.medium: ●
+  custom.size: F8号
+
+  ■ title ★欠け=zh_cn,zh_tw,ko,fr,es,de
+     ja: ワイン Ⅱ
+     en: Wine II
+     zh_cn: （無）
+     zh_tw: （無）
+     ko: （無）
+     fr: （無）
+     es: （無）
+     de: （無）
+
+  ■ description （8言語あり）
+     ja: ●
+     en: ●
+     zh_cn: ●
+     zh_tw: ●
+     ko: ●
+     fr: ●
+     es: ●
+     de: ●
+
+  ■ medium （8言語あり）
+     ja: ●
+     en: ●
+     zh_cn: ●
+     zh_tw: ●
+     ko: ●
+     fr: ●
+     es: ●
+     de: ●
+
+  ■ size （8言語あり）
+     ja: F8号
+     en: F8 (Japanese canvas size)
+     zh_cn: F8号（日本画布规格）
+     zh_tw: F8號（日本畫布規格）
+     ko: F8호(일본 캔버스 규격)
+     fr: F8 (format de toile japonais)
+     es: F8 (formato de lienzo japonés)
+     de: F8 (japanisches Leinwandformat)
+
+  ■ artist ★欠け=en,zh_cn,zh_tw,ko,fr,es,de
+     ja: 渡辺 玄一
+     en: （無）
+     zh_cn: （無）
+     zh_tw: （無）
+     ko: （無）
+     fr: （無）
+     es: （無）
+     de: （無）
+
+████ fujishiro-norio-glass-01 / ● ████
+  custom.medium: ●
+  custom.size: ●
+
+  ■ title ★欠け=zh_cn,zh_tw,ko,fr,es,de
+     ja: ●
+     en: ●
+     zh_cn: （無）
+     zh_tw: （無）
+     ko: （無）
+     fr: （無）
+     es: （無）
+     de: （無）
+
+  ■ description （8言語あり）
+     ja: ●
+     en: ●
+     zh_cn: ●
+     zh_tw: ●
+     ko: ●
+     fr: ●
+     es: ●
+     de: ●
+
+  ■ medium （8言語あり）
+     ja: ●
+     en: ●
+     zh_cn: ●
+     zh_tw: ●
+     ko: ●
+     fr: ●
+     es: ●
+     de: ●
+
+  ■ size （8言語あり）
+     ja: ●
+     en: ●
+     zh_cn: ●
+     zh_tw: ●
+     ko: ●
+     fr: ●
+     es: ●
+     de: ●
+
+  ■ artist ★欠け=en,zh_cn,zh_tw,ko,fr,es,de
+     ja: 藤代 範雄
+     en: （無）
+     zh_cn: （無）
+     zh_tw: （無）
+     ko: （無）
+     fr: （無）
+     es: （無）
+     de: （無）
+
+████ fujishiro-norio-glass-02 / ● ████
+  custom.medium: ●
+  custom.size: ●
+
+  ■ title ★欠け=zh_cn,zh_tw,ko,fr,es,de
+     ja: ●
+     en: ●
+     zh_cn: （無）
+     zh_tw: （無）
+     ko: （無）
+     fr: （無）
+     es: （無）
+     de: （無）
+
+  ■ description （8言語あり）
+     ja: ●
+     en: ●
+     zh_cn: ●
+     zh_tw: ●
+     ko: ●
+     fr: ●
+     es: ●
+     de: ●
+
+  ■ medium （8言語あり）
+     ja: ●
+     en: ●
+     zh_cn: ●
+     zh_tw: ●
+     ko: ●
+     fr: ●
+     es: ●
+     de: ●
+
+  ■ size （8言語あり）
+     ja: ●
+     en: ●
+     zh_cn: ●
+     zh_tw: ●
+     ko: ●
+     fr: ●
+     es: ●
+     de: ●
+
+  ■ artist ★欠け=en,zh_cn,zh_tw,ko,fr,es,de
+     ja: 藤代 範雄
+     en: （無）
+     zh_cn: （無）
+     zh_tw: （無）
+     ko: （無）
+     fr: （無）
+     es: （無）
+     de: （無）
+
+████ fujishiro-norio-glass-03 / ● ████
+  custom.medium: ●
+  custom.size: ●
+
+  ■ title ★欠け=zh_cn,zh_tw,ko,fr,es,de
+     ja: ●
+     en: ●
+     zh_cn: （無）
+     zh_tw: （無）
+     ko: （無）
+     fr: （無）
+     es: （無）
+     de: （無）
+
+  ■ description （8言語あり）
+     ja: ●
+     en: ●
+     zh_cn: ●
+     zh_tw: ●
+     ko: ●
+     fr: ●
+     es: ●
+     de: ●
+
+  ■ medium （8言語あり）
+     ja: ●
+     en: ●
+     zh_cn: ●
+     zh_tw: ●
+     ko: ●
+     fr: ●
+     es: ●
+     de: ●
+
+  ■ size （8言語あり）
+     ja: ●
+     en: ●
+     zh_cn: ●
+     zh_tw: ●
+     ko: ●
+     fr: ●
+     es: ●
+     de: ●
+
+  ■ artist ★欠け=en,zh_cn,zh_tw,ko,fr,es,de
+     ja: 藤代 範雄
+     en: （無）
+     zh_cn: （無）
+     zh_tw: （無）
+     ko: （無）
+     fr: （無）
+     es: （無）
+     de: （無）

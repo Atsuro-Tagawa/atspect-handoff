@@ -1,0 +1,503 @@
+{
+ "reason": "契約直前3名の翻訳集中便（2026-08-20）。作家ページ（artist_i18n）の是正。二重検品42本（3名×7言語×順序2通り）を日本語原文と1件ずつ照合し、両回が指摘したものと原文照合で確認できたものだけを是正する。★制作Tが本日入れた【ガラス】新文・出身/出生2欄・（鳥獣戯画より）の付記は反映済みのライブを取り直してから着手した ／★関所（Codex・8言語の読者役）が是正案自体の欠陥を捕まえた＝(a)中国語で『包括…在内』を文頭に置くと『彼が工房を包含する』と読める (b)簡体字の『本乡』は中国語では故郷・出身地の意味 (c)西語 cuna・仏語 berceau は『発祥地』の断定になる (d)中国語で『持续』と『多次』が重複。すべて作り直した ／★簡体字・繁体字の【略歴】の『造型艺术家』を台帳形『造型作家』へ直す案は★取り下げた＝CLAUDE.md §5『用語台帳は肩書き欄(role)・分野ラベルにだけ当てる。地の文の言い回しに一律に当てない』に従い、role 欄のみ台帳形にする ／★関所が変更範囲外で捕まえた明白な誤り4件を追加＝仏語『宮司』が grand prêtre（大祭司）／仏語『琉球ガラスの工房』が地域名に読める／中国語『無所属』が『あらゆる団体に未加入』と原文より広い断定 ／★2巡目の関所を受けて作り直した＝(a)中国語の『個展を重ねている』は『持续』より『多次』が自然（1巡目の『曾…』は過去完了で継続性が落ちるため『多次…』に統一） (b)一言紹介『祈りの造形・愛しき動物たち』は2つの名詞句なので解釈（寄託・雕刻）を加えず名詞句で並べる (c)独語 zeigt wiederholt → veranstaltet regelmäßig ／★★2巡連続で指摘された『床山』の職務説明（かつらを結い手入れする）は原文にない事実の追加なので5言語で除去した＝文化固有語の補足（materials §5 の maki-e）とは別で、職務内容の断定に当たる ／★仏語『無所属』が en indépendante（フリーランス）になっていたのを『どの団体にも属さない』へ ／★韓国語『宮司賞』は漢字併記の『구지상(宮司賞)』へ ／★3巡目の関所を受けて＝(a)★簡体字・繁体字の『国内外』は中国国内と読まれるため『日本国内及海外』に明示 (b)『先从事…床山』→『先担任…床山』 (c)西語で説明を除いた際に『文楽人形の』が落ちていたので戻す (d)一言紹介の『・』は日本語の記号なので中国語の『·』へ／簡体字は『祈愿之形』、繁体字は『祈禱的造型』へ (e)渡辺さま独語の zeigt wiederholt と西語の懸垂表現 (f)仏語『憧れ』が désir に弱まっていた ／★簡体字の役職を『造型艺术家』にせよという指摘は棄却＝台帳指定は role 欄に当てる（CLAUDE.md §5） ／★4巡目の関所を受けて＝(a)簡体字・繁体字の『曾』を外して現在の継続に戻した (b)繁体字の一言紹介を『祈禱之形·心愛的動物們』へ (c)独語で説明を除いた際に『文楽人形の』が落ちていたので『für Bunraku-Puppen』を残す形にした。★これで en/es/fr/ko の4言語は『すべて問題なし』",
+ "enteredBy": "翻訳品質T 2026-08-20 3名集中便",
+ "patches": [
+  {
+   "handle": "fujishiro-norio",
+   "lang": "de",
+   "field": "bio",
+   "from": "Musée des Arts Décoratifs in Paris",
+   "to": "Musée des Arts Décoratifs"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "es",
+   "field": "bio",
+   "from": "en el Musée des Arts Décoratifs, en París",
+   "to": "en el Musée des Arts Décoratifs"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "ko",
+   "field": "bio",
+   "from": "파리 루브르 장식미술관",
+   "to": "루브르 장식미술관"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "巴黎卢浮宫装饰艺术博物馆",
+   "to": "卢浮宫装饰艺术博物馆"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "巴黎羅浮宮裝飾藝術博物館",
+   "to": "羅浮宮裝飾藝術博物館"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "en",
+   "field": "bio",
+   "from": "the historic home of Venetian glass",
+   "to": "the home of Venetian glass"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "de",
+   "field": "bio",
+   "from": "der historischen Heimat des venezianischen Glases",
+   "to": "der Heimat des venezianischen Glases"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "es",
+   "field": "bio",
+   "from": "hogar histórico del vidrio veneciano",
+   "to": "centro del vidrio veneciano"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "fr",
+   "field": "bio",
+   "from": "foyer historique du verre vénitien",
+   "to": "centre du verre vénitien"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "ko",
+   "field": "bio",
+   "from": "베네치아 유리의 역사적 중심지인",
+   "to": "베네치아 유리의 본고장인"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "威尼斯玻璃的故乡",
+   "to": "威尼斯玻璃的传统产地"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "威尼斯玻璃的故鄉",
+   "to": "威尼斯玻璃的重鎮"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "en",
+   "field": "bio",
+   "from": "He works tirelessly in glass workshops in Japan and abroad,",
+   "to": "He works actively in glass workshops in Japan and abroad,"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "es",
+   "field": "bio",
+   "from": "Trabaja sin descanso",
+   "to": "Trabaja activamente"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "ko",
+   "field": "bio",
+   "from": "정력적으로 제작을 이어 간다",
+   "to": "활발하게 제작 활동을 이어 간다"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "de",
+   "field": "bio",
+   "from": "als Gestalter aufbaute",
+   "to": "als Designer aufbaute"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "en",
+   "field": "bio",
+   "from": "He continues to make glass",
+   "to": "He continues to create works in glass"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "他以意大利威尼斯的玻璃工坊为首，在冲绳等国内外的工坊里精力充沛地进行创作。",
+   "to": "他在意大利威尼斯的玻璃工坊，以及冲绳等日本国内及海外的工坊积极开展创作。"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "他以義大利威尼斯的玻璃工坊為首，在沖繩等國內外的工坊裡精力充沛地進行創作。",
+   "to": "他在義大利威尼斯的玻璃工坊，以及沖繩等日本國內及海外的工坊積極進行創作。"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "那双娴熟的手",
+   "to": "那扎实的技艺"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "那雙嫻熟的手",
+   "to": "那扎實的技藝"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "fr",
+   "field": "bio",
+   "from": "orne la gare JR d'Ishioka",
+   "to": "se trouve à la gare JR d'Ishioka"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "在日光东照宫「东照宫美术展览会」",
+   "to": "在日光东照宫的“东照宫美术展览会”"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "ko",
+   "field": "bio",
+   "from": "제작의 에너지가 되고 있다",
+   "to": "제작의 원동력이 되고 있다"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "en",
+   "field": "bio",
+   "from": "He holds solo exhibitions at Ginza Mitsukoshi",
+   "to": "He continues to hold solo exhibitions at Ginza Mitsukoshi"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "de",
+   "field": "bio",
+   "from": "Er zeigt Einzelausstellungen im Mitsukoshi Ginza",
+   "to": "Er veranstaltet regelmäßig Einzelausstellungen im Mitsukoshi Ginza"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "es",
+   "field": "bio",
+   "from": "Presenta exposiciones individuales en Mitsukoshi de Ginza",
+   "to": "Presenta con regularidad exposiciones individuales en Mitsukoshi de Ginza"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Il présente des expositions personnelles au Mitsukoshi de Ginza",
+   "to": "Il présente régulièrement des expositions personnelles au Mitsukoshi de Ginza"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "en",
+   "field": "bio",
+   "from": "A glass work of his was presented to the Imperial Household Agency",
+   "to": "He presented a glass work to the Imperial Household Agency"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "es",
+   "field": "bio",
+   "from": "Una obra suya de vidrio fue ofrecida a la Agencia de la Casa Imperial",
+   "to": "Ofreció una obra de vidrio a la Agencia de la Casa Imperial"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Une de ses pièces en verre a été offerte à l'Agence de la Maison impériale",
+   "to": "Il a offert une œuvre en verre à l'Agence de la Maison impériale"
+  },
+  {
+   "handle": "suzuki-chikako",
+   "lang": "de",
+   "field": "bio",
+   "from": "Nach dem Pharmaziestudium",
+   "to": "Nach ihrem Abschluss im Fach Pharmazie"
+  },
+  {
+   "handle": "suzuki-chikako",
+   "lang": "es",
+   "field": "bio",
+   "from": "Tras estudiar Farmacia",
+   "to": "Tras graduarse en Farmacia"
+  },
+  {
+   "handle": "suzuki-chikako",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Après des études de pharmacie",
+   "to": "Après avoir obtenu son diplôme de pharmacie"
+  },
+  {
+   "handle": "suzuki-chikako",
+   "lang": "de",
+   "field": "bio",
+   "from": "Ihre Arbeiten waren in zahlreichen Einzelausstellungen zu sehen",
+   "to": "Sie veranstaltet weiterhin zahlreiche Einzelausstellungen"
+  },
+  {
+   "handle": "suzuki-chikako",
+   "lang": "ko",
+   "field": "bio",
+   "from": "여러 차례 개인전을 열었다",
+   "to": "여러 차례 개인전을 이어 오고 있다"
+  },
+  {
+   "handle": "suzuki-chikako",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "曾在日本桥高岛屋、京王广场酒店大堂画廊、埼玉县立近代美术馆等地多次举办个展。",
+   "to": "多次在日本桥高岛屋、京王广场酒店大堂画廊、埼玉县立近代美术馆等地举办个展。"
+  },
+  {
+   "handle": "suzuki-chikako",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "曾在日本橋高島屋、京王廣場飯店大廳藝廊、埼玉縣立近代美術館等地多次舉辦個展。",
+   "to": "多次於日本橋高島屋、京王廣場飯店大廳藝廊、埼玉縣立近代美術館等地舉辦個展。"
+  },
+  {
+   "handle": "suzuki-chikako",
+   "lang": "zh_cn",
+   "field": "role",
+   "from": "造型艺术家",
+   "to": "造型作家"
+  },
+  {
+   "handle": "suzuki-chikako",
+   "lang": "zh_tw",
+   "field": "role",
+   "from": "造型藝術家",
+   "to": "造型作家"
+  },
+  {
+   "handle": "suzuki-chikako",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "以造型寄托祈愿，雕刻心爱的动物",
+   "to": "祈愿之形·心爱的动物们"
+  },
+  {
+   "handle": "suzuki-chikako",
+   "lang": "zh_tw",
+   "field": "statement",
+   "from": "以造型寄託祈願，雕刻心愛的動物",
+   "to": "祈禱之形·心愛的動物們"
+  },
+  {
+   "handle": "watanabe-genichi",
+   "lang": "en",
+   "field": "statement",
+   "from": "pure colour",
+   "to": "primary colours"
+  },
+  {
+   "handle": "watanabe-genichi",
+   "lang": "fr",
+   "field": "statement",
+   "from": "couleurs pures",
+   "to": "couleurs primaires"
+  },
+  {
+   "handle": "watanabe-genichi",
+   "lang": "de",
+   "field": "statement",
+   "from": "reinen Farben",
+   "to": "Primärfarben"
+  },
+  {
+   "handle": "watanabe-genichi",
+   "lang": "es",
+   "field": "statement",
+   "from": "colores puros",
+   "to": "colores primarios"
+  },
+  {
+   "handle": "watanabe-genichi",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Il a tenu plusieurs expositions personnelles",
+   "to": "Il tient régulièrement des expositions personnelles"
+  },
+  {
+   "handle": "watanabe-genichi",
+   "lang": "de",
+   "field": "bio",
+   "from": "Er zeigte Einzelausstellungen",
+   "to": "Er zeigt wiederholt Einzelausstellungen"
+  },
+  {
+   "handle": "watanabe-genichi",
+   "lang": "es",
+   "field": "bio",
+   "from": "Ha presentado exposiciones individuales",
+   "to": "Presenta con regularidad exposiciones individuales"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "fr",
+   "field": "bio",
+   "from": "prix du grand prêtre",
+   "to": "prix du prêtre principal du sanctuaire"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "fr",
+   "field": "bio",
+   "from": "ateliers verriers des Ryūkyū",
+   "to": "ateliers de verre de Ryūkyū"
+  },
+  {
+   "handle": "suzuki-chikako",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "目前未加入任何团体",
+   "to": "目前不隶属任何艺术团体"
+  },
+  {
+   "handle": "suzuki-chikako",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "目前未加入任何團體",
+   "to": "目前不隸屬任何藝術團體"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "持续在银座三越与水户京成百货店举办个展。",
+   "to": "多次在银座三越与水户京成百货店举办个展。"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "持續於銀座三越與水戶京成百貨店舉辦個展。",
+   "to": "多次於銀座三越與水戶京成百貨店舉辦個展。"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "de",
+   "field": "bio",
+   "from": "Beim selben Preis war er zudem internationaler Juror",
+   "to": "In der internationalen Jury desselben Wettbewerbs war er ebenfalls tätig"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Il travaille sans relâche",
+   "to": "Il travaille activement"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "ko",
+   "field": "bio",
+   "from": "궁사상",
+   "to": "구지상(宮司賞)"
+  },
+  {
+   "handle": "suzuki-chikako",
+   "lang": "es",
+   "field": "bio",
+   "from": ", que consiste en peinar y cuidar las pelucas de los títeres del bunraku,",
+   "to": " de títeres del bunraku"
+  },
+  {
+   "handle": "suzuki-chikako",
+   "lang": "fr",
+   "field": "bio",
+   "from": ", qui consiste à coiffer et à entretenir les perruques des marionnettes de bunraku,",
+   "to": ""
+  },
+  {
+   "handle": "suzuki-chikako",
+   "lang": "de",
+   "field": "bio",
+   "from": " — das Frisieren und Pflegen der Perücken der Bunraku-Puppen — ",
+   "to": " für Bunraku-Puppen "
+  },
+  {
+   "handle": "suzuki-chikako",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "（負責為人偶梳頭、結髮的工作）",
+   "to": ""
+  },
+  {
+   "handle": "suzuki-chikako",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "（负责为人偶梳头、结发的工作）",
+   "to": ""
+  },
+  {
+   "handle": "suzuki-chikako",
+   "lang": "ko",
+   "field": "bio",
+   "from": "분라쿠 인형의 머리와 가발을 손질하는 도코야마",
+   "to": "분라쿠 인형의 도코야마"
+  },
+  {
+   "handle": "suzuki-chikako",
+   "lang": "fr",
+   "field": "bio",
+   "from": "elle travaille aujourd'hui en indépendante",
+   "to": "elle poursuit aujourd'hui sa création sans appartenir à aucun groupe"
+  },
+  {
+   "handle": "suzuki-chikako",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "曾任创型会会友",
+   "to": "曾为创型会会友"
+  },
+  {
+   "handle": "watanabe-genichi",
+   "lang": "de",
+   "field": "bio",
+   "from": "Er zeigt wiederholt Einzelausstellungen in Galerien",
+   "to": "Er veranstaltet regelmäßig Einzelausstellungen in Galerien"
+  },
+  {
+   "handle": "watanabe-genichi",
+   "lang": "es",
+   "field": "bio",
+   "from": "Miembro del club de arte durante sus estudios, se formó con",
+   "to": "Durante sus estudios fue miembro del club de arte y se formó con"
+  },
+  {
+   "handle": "suzuki-chikako",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "先从事文乐人偶的床山",
+   "to": "先担任文乐人偶的床山"
+  },
+  {
+   "handle": "suzuki-chikako",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "先從事文樂人偶的床山",
+   "to": "先擔任文樂人偶的床山"
+  },
+  {
+   "handle": "fujishiro-norio",
+   "lang": "fr",
+   "field": "bio",
+   "from": "il a de nouveau ressenti l'attrait du travail du verre, et son désir et sa passion se sont réveillés",
+   "to": "l'attrait, l'aspiration et la passion pour la création verrière se sont ravivés en lui"
+  }
+ ]
+}

@@ -1,0 +1,258 @@
+{
+ "reason": "契約直前3名の翻訳集中便（2026-08-20）その2。★(1)渡辺玄一さまの3作品の寸法「F8号」に、原文にない『日本画布規格／일본 캔버스 규격／formato de lienzo japonés』等の説明が付いていた（F号はキャンバスだけに限定される規格ではなく、原文にない事実の追加）。★(2)簡体字の素材に日本語の中黒「・」が混在していた。★(3)関所が2巡で捕まえた言い回しの不自然さ（en の brings a lift of energy／es の cada vez の宙づり／de の die Hände aneinanderlegt ほか）。★『箔』を『金属箔』とする点は、同じ作家の作家ページが『金属箔／metal leaf／금속박』で確定しており、欄をまたいだ統一を優先して現行を維持した（Codexは『箔』のままを推したが、作家ページとの不統一の方が実害が大きい）",
+ "enteredBy": "翻訳品質T 2026-08-20 3名集中便（作品ページ・第2便）",
+ "patches": [
+  {
+   "handle": "watanabe-genichi-budo-7",
+   "lang": "zh_cn",
+   "field": "size",
+   "from": "（日本画布规格）",
+   "to": ""
+  },
+  {
+   "handle": "watanabe-genichi-budo-7",
+   "lang": "zh_tw",
+   "field": "size",
+   "from": "（日本畫布規格）",
+   "to": ""
+  },
+  {
+   "handle": "watanabe-genichi-budo-7",
+   "lang": "ko",
+   "field": "size",
+   "from": "(일본 캔버스 규격)",
+   "to": ""
+  },
+  {
+   "handle": "watanabe-genichi-budo-7",
+   "lang": "es",
+   "field": "size",
+   "from": " (formato de lienzo japonés)",
+   "to": ""
+  },
+  {
+   "handle": "watanabe-genichi-budo-7",
+   "lang": "en",
+   "field": "size",
+   "from": " (Japanese canvas size)",
+   "to": ""
+  },
+  {
+   "handle": "watanabe-genichi-budo-7",
+   "lang": "fr",
+   "field": "size",
+   "from": " (format de toile japonais)",
+   "to": ""
+  },
+  {
+   "handle": "watanabe-genichi-budo-7",
+   "lang": "de",
+   "field": "size",
+   "from": " (japanisches Leinwandformat)",
+   "to": ""
+  },
+  {
+   "handle": "watanabe-genichi-ayame-1",
+   "lang": "zh_cn",
+   "field": "size",
+   "from": "（日本画布规格）",
+   "to": ""
+  },
+  {
+   "handle": "watanabe-genichi-ayame-1",
+   "lang": "zh_tw",
+   "field": "size",
+   "from": "（日本畫布規格）",
+   "to": ""
+  },
+  {
+   "handle": "watanabe-genichi-ayame-1",
+   "lang": "ko",
+   "field": "size",
+   "from": "(일본 캔버스 규격)",
+   "to": ""
+  },
+  {
+   "handle": "watanabe-genichi-ayame-1",
+   "lang": "es",
+   "field": "size",
+   "from": " (formato de lienzo japonés)",
+   "to": ""
+  },
+  {
+   "handle": "watanabe-genichi-ayame-1",
+   "lang": "en",
+   "field": "size",
+   "from": " (Japanese canvas size)",
+   "to": ""
+  },
+  {
+   "handle": "watanabe-genichi-ayame-1",
+   "lang": "fr",
+   "field": "size",
+   "from": " (format de toile japonais)",
+   "to": ""
+  },
+  {
+   "handle": "watanabe-genichi-ayame-1",
+   "lang": "de",
+   "field": "size",
+   "from": " (japanisches Leinwandformat)",
+   "to": ""
+  },
+  {
+   "handle": "watanabe-genichi-wine-2",
+   "lang": "zh_cn",
+   "field": "size",
+   "from": "（日本画布规格）",
+   "to": ""
+  },
+  {
+   "handle": "watanabe-genichi-wine-2",
+   "lang": "zh_tw",
+   "field": "size",
+   "from": "（日本畫布規格）",
+   "to": ""
+  },
+  {
+   "handle": "watanabe-genichi-wine-2",
+   "lang": "ko",
+   "field": "size",
+   "from": "(일본 캔버스 규격)",
+   "to": ""
+  },
+  {
+   "handle": "watanabe-genichi-wine-2",
+   "lang": "es",
+   "field": "size",
+   "from": " (formato de lienzo japonés)",
+   "to": ""
+  },
+  {
+   "handle": "watanabe-genichi-wine-2",
+   "lang": "en",
+   "field": "size",
+   "from": " (Japanese canvas size)",
+   "to": ""
+  },
+  {
+   "handle": "watanabe-genichi-wine-2",
+   "lang": "fr",
+   "field": "size",
+   "from": " (format de toile japonais)",
+   "to": ""
+  },
+  {
+   "handle": "watanabe-genichi-wine-2",
+   "lang": "de",
+   "field": "size",
+   "from": " (japanisches Leinwandformat)",
+   "to": ""
+  },
+  {
+   "handle": "funasogaku",
+   "lang": "zh_cn",
+   "field": "medium",
+   "from": "巴尔沙木・彩色・金属箔",
+   "to": "巴尔沙木、彩色、金属箔"
+  },
+  {
+   "handle": "kakekurabe",
+   "lang": "zh_cn",
+   "field": "medium",
+   "from": "桧木・彩色・金属箔",
+   "to": "桧木、彩色、金属箔"
+  },
+  {
+   "handle": "kaeru-butsu",
+   "lang": "zh_cn",
+   "field": "medium",
+   "from": "桧木・彩色・金属箔",
+   "to": "桧木、彩色、金属箔"
+  },
+  {
+   "handle": "funasogaku",
+   "lang": "en",
+   "field": "description",
+   "from": "bringing a joyful feeling each time",
+   "to": "and it brings a sense of joy each time"
+  },
+  {
+   "handle": "kakekurabe",
+   "lang": "en",
+   "field": "description",
+   "from": "brings a lift of energy each time you see it, brightening the everyday",
+   "to": "gives a sense of energy each time you see it, brightening each day"
+  },
+  {
+   "handle": "funasogaku",
+   "lang": "zh_cn",
+   "field": "description",
+   "from": "愉快的旋律",
+   "to": "愉快的乐声"
+  },
+  {
+   "handle": "funasogaku",
+   "lang": "ko",
+   "field": "description",
+   "from": "기분을 밝게 해 줍니다",
+   "to": "즐거운 기분이 들게 해 줍니다"
+  },
+  {
+   "handle": "funasogaku",
+   "lang": "ko",
+   "field": "medium",
+   "from": "발사 나무",
+   "to": "발사목"
+  },
+  {
+   "handle": "kakekurabe",
+   "lang": "ko",
+   "field": "description",
+   "from": "가볍고 생기 있는 모습",
+   "to": "경쾌한 모습"
+  },
+  {
+   "handle": "kaeru-butsu",
+   "lang": "de",
+   "field": "description",
+   "from": "die Hände aneinanderlegt",
+   "to": "die Hände zusammenlegt"
+  },
+  {
+   "handle": "kaeru-butsu",
+   "lang": "fr",
+   "field": "description",
+   "from": "un bouddha grenouille",
+   "to": "une grenouille figurant le Bouddha"
+  },
+  {
+   "handle": "kaeru-butsu",
+   "lang": "es",
+   "field": "description",
+   "from": "un Buda rana",
+   "to": "una figura de Buda con forma de rana"
+  },
+  {
+   "handle": "kaeru-butsu",
+   "lang": "es",
+   "field": "description",
+   "from": "al ritmo de cada día",
+   "to": "en medio del ajetreo cotidiano"
+  },
+  {
+   "handle": "funasogaku",
+   "lang": "es",
+   "field": "description",
+   "from": "capaz de despertar una sensación de alegría cada vez",
+   "to": "que nos alegra cada vez que la contemplamos"
+  },
+  {
+   "handle": "kakekurabe",
+   "lang": "es",
+   "field": "description",
+   "from": "cada vez que aparece ante la vista",
+   "to": "cada vez que la contemplamos"
+  }
+ ]
+}

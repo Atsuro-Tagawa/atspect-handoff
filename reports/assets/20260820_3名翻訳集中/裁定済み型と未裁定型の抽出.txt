@@ -1,0 +1,71 @@
+# 3名に該当する裁定済み型・未裁定型の抽出（2026-08-20 翻訳品質T）
+
+## 【裁定済】D2 機関名の欧文（仏西独に公式英語名） ＝ 0件
+  （0件）
+
+## 【裁定済】D4 独語 (Yōga) 台帳形 ＝ 1件
+  watanabe-genichi[role.de] 「Yōga」
+
+## 【裁定済】D5 序列語 senior ＝ 0件
+  （0件）
+
+## 【裁定済】D6 本名の語 ＝ 0件
+  （0件）
+
+## 【裁定済】C26 究めた→中国語は精研 ＝ 0件
+  （0件）
+
+## 【裁定済】C28 人間国宝の独語女性形 ＝ 0件
+  （0件）
+
+## 【未裁定】T04 pintor de nihonga の前置詞 ＝ 0件
+  （0件）
+
+## 【未裁定】T20 写生→観察系 ＝ 0件
+  （0件）
+
+## 【未裁定】T23 洋画家 zh の西画家 ＝ 0件
+  （0件）
+
+## 【未裁定】T24 zh 略歴の主語落ち ＝ 0件
+  （0件）
+
+## 【未裁定】T30 器→objet系 ＝ 0件
+  （0件）
+
+## 【未裁定】T35 造形 zh の表記 ＝ 6件
+  suzuki-chikako[role.zh_cn] 「造型」
+  suzuki-chikako[role.zh_tw] 「造型」
+  suzuki-chikako[statement.zh_cn] 「造型」
+  suzuki-chikako[statement.zh_tw] 「造型」
+  suzuki-chikako[bio.zh_cn] 「造型」
+  suzuki-chikako[bio.zh_tw] 「造型」
+
+## 【未裁定】T38 代表作/作品題の言語欠け
+  （別途 works/publications の言語欠けとして下に記す）
+
+## 【未裁定】T45 日本画家 ko ＝ 0件
+  （0件）
+
+## 【未裁定】T51 後進→younger artists ＝ 0件
+  （0件）
+
+## 【未裁定】T53 三越に百貨店を足す ＝ 0件
+  （0件）
+
+## 【未裁定】T59 簡体字に繁体字 ＝ 0件
+  （0件）
+
+## 【未裁定】T62 活動した→活躍於 ＝ 0件
+  （0件）
+
+## 【未裁定】T38 作品題・出版物の言語欠け
+  suzuki-chikako.works[1].title 欠け=zh_cn,zh_tw,ko,fr,es,de
+  suzuki-chikako.publications[1] 欠け=zh_cn,zh_tw,ko,fr,es,de
+  suzuki-chikako.publications[2] 欠け=zh_cn,zh_tw,ko,fr,es,de
+  suzuki-chikako.publications[3] 欠け=zh_cn,zh_tw,ko,fr,es,de
+  suzuki-chikako.publications[4] 欠け=zh_cn,zh_tw,ko,fr,es,de
+  suzuki-chikako.publications[5] 欠け=zh_cn,zh_tw,ko,fr,es,de
+  suzuki-chikako.publications[6] 欠け=zh_cn,zh_tw,ko,fr,es,de
+  watanabe-genichi.works[1].title 欠け=zh_cn,zh_tw,ko,fr,es,de
+  fujishiro-norio.works[1].title 欠け=zh_cn,zh_tw,ko,fr,es,de

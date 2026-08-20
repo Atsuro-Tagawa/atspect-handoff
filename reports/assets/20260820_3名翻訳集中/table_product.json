@@ -1,0 +1,174 @@
+{
+ "reason": "契約直前3名の翻訳集中便（2026-08-20）。販売作品（product_i18n）の是正。★(1)鈴木千賀子さまの3作品でドイツ語の説明・素材が空欄で、ドイツ語ページに英語がそのまま出ていたため訳を作った（Codexで作成→別視点のCodexで2巡の関所）。★(2)日本語の素材は「箔」で金属の種類を限定していないのに、6言語すべてが金に限定していた。同じ作家の作家ページでは「金属箔」系と正しく訳されており、欄をまたいだ不統一でもあった。作家ページの形へ揃える",
+ "enteredBy": "翻訳品質T 2026-08-20 3名集中便（作品ページ）",
+ "patches": [
+  {
+   "handle": "funasogaku",
+   "lang": "de",
+   "field": "description",
+   "from": "",
+   "to": "Auf einem kleinen Boot spielen ein Frosch, ein Hase, ein Affe und eine Katze gemeinsam auf ihren Instrumenten. Beim Betrachten scheint man ihre fröhlichen Klänge beinahe hören zu können, und jedes Mal erfüllt einen der Anblick mit Freude."
+  },
+  {
+   "handle": "funasogaku",
+   "lang": "de",
+   "field": "medium",
+   "from": "",
+   "to": "Balsaholz, Farbfassung, Blattmetall"
+  },
+  {
+   "handle": "funasogaku",
+   "lang": "en",
+   "field": "medium",
+   "from": "gold leaf",
+   "to": "metal leaf"
+  },
+  {
+   "handle": "funasogaku",
+   "lang": "zh_cn",
+   "field": "medium",
+   "from": "金箔",
+   "to": "金属箔"
+  },
+  {
+   "handle": "funasogaku",
+   "lang": "zh_tw",
+   "field": "medium",
+   "from": "金箔",
+   "to": "金屬箔"
+  },
+  {
+   "handle": "funasogaku",
+   "lang": "ko",
+   "field": "medium",
+   "from": "금박",
+   "to": "금속박"
+  },
+  {
+   "handle": "funasogaku",
+   "lang": "fr",
+   "field": "medium",
+   "from": "feuille d'or",
+   "to": "feuille métallique"
+  },
+  {
+   "handle": "funasogaku",
+   "lang": "es",
+   "field": "medium",
+   "from": "pan de oro",
+   "to": "pan de metal"
+  },
+  {
+   "handle": "kakekurabe",
+   "lang": "de",
+   "field": "description",
+   "from": "",
+   "to": "Auf einem Hirsch reitet ein Affe schwungvoll dahin. Seine leichte, beschwingte Erscheinung schenkt einem bei jedem Anblick Energie und erhellt den Alltag."
+  },
+  {
+   "handle": "kakekurabe",
+   "lang": "de",
+   "field": "medium",
+   "from": "",
+   "to": "Japanische Hinoki-Zypresse, Farbfassung, Blattmetall"
+  },
+  {
+   "handle": "kakekurabe",
+   "lang": "en",
+   "field": "medium",
+   "from": "gold leaf",
+   "to": "metal leaf"
+  },
+  {
+   "handle": "kakekurabe",
+   "lang": "zh_cn",
+   "field": "medium",
+   "from": "金箔",
+   "to": "金属箔"
+  },
+  {
+   "handle": "kakekurabe",
+   "lang": "zh_tw",
+   "field": "medium",
+   "from": "金箔",
+   "to": "金屬箔"
+  },
+  {
+   "handle": "kakekurabe",
+   "lang": "ko",
+   "field": "medium",
+   "from": "금박",
+   "to": "금속박"
+  },
+  {
+   "handle": "kakekurabe",
+   "lang": "fr",
+   "field": "medium",
+   "from": "feuille d'or",
+   "to": "feuille métallique"
+  },
+  {
+   "handle": "kakekurabe",
+   "lang": "es",
+   "field": "medium",
+   "from": "pan de oro",
+   "to": "pan de metal"
+  },
+  {
+   "handle": "kaeru-butsu",
+   "lang": "de",
+   "field": "description",
+   "from": "",
+   "to": "Auf einem Lotus ist ein Frosch-Buddha zu sehen, der still die Hände aneinanderlegt. Seine friedvolle Gestalt schenkt einem inmitten des geschäftigen Alltags sanft einen Moment innerer Ruhe."
+  },
+  {
+   "handle": "kaeru-butsu",
+   "lang": "de",
+   "field": "medium",
+   "from": "",
+   "to": "Japanische Hinoki-Zypresse, Farbfassung, Blattmetall"
+  },
+  {
+   "handle": "kaeru-butsu",
+   "lang": "en",
+   "field": "medium",
+   "from": "gold leaf",
+   "to": "metal leaf"
+  },
+  {
+   "handle": "kaeru-butsu",
+   "lang": "zh_cn",
+   "field": "medium",
+   "from": "金箔",
+   "to": "金属箔"
+  },
+  {
+   "handle": "kaeru-butsu",
+   "lang": "zh_tw",
+   "field": "medium",
+   "from": "金箔",
+   "to": "金屬箔"
+  },
+  {
+   "handle": "kaeru-butsu",
+   "lang": "ko",
+   "field": "medium",
+   "from": "금박",
+   "to": "금속박"
+  },
+  {
+   "handle": "kaeru-butsu",
+   "lang": "fr",
+   "field": "medium",
+   "from": "feuille d'or",
+   "to": "feuille métallique"
+  },
+  {
+   "handle": "kaeru-butsu",
+   "lang": "es",
+   "field": "medium",
+   "from": "pan de oro",
+   "to": "pan de metal"
+  }
+ ]
+}

@@ -1,0 +1,426 @@
+
+
+████████ suzuki-chikako / 鈴木 千賀子 ████████
+
+■■ role （8言語あり）
+   ja: 造形作家
+   en: Sculptural Artist
+   zh_cn: 造型艺术家
+   zh_tw: 造型藝術家
+   ko: 조형 작가
+   fr: Artiste plasticienne
+   es: Artista plástica
+   de: Objektkünstlerin
+
+■■ location （8言語あり）
+   ja: 埼玉県
+   en: Saitama Prefecture
+   zh_cn: 埼玉县
+   zh_tw: 埼玉縣
+   ko: 사이타마현
+   fr: préfecture de Saitama
+   es: prefectura de Saitama
+   de: Präfektur Saitama
+
+■■ statement （8言語あり）
+   ja: 祈りの造形・愛しき動物たち
+   en: Forms of Prayer and Beloved Animals
+   zh_cn: 以造型寄托祈愿，雕刻心爱的动物
+   zh_tw: 以造型寄託祈願，雕刻心愛的動物
+   ko: 기도의 조형과 사랑스러운 동물들
+   fr: Formes de prière et animaux bien-aimés
+   es: Formas de oración y animales entrañables
+   de: Formen des Gebets und geliebte Tiere
+
+■■ works（配列 1件）
+ [1]
+   title: ★欠け=zh_cn,zh_tw,ko,fr,es,de
+      ja: 《相撲》（鳥獣戯画より）
+      en: Sumo
+      zh_cn: （無）
+      zh_tw: （無）
+      ko: （無）
+      fr: （無）
+      es: （無）
+      de: （無）
+   medium: 8言語あり
+      ja: ヒノキ・彩色・箔　H23×W30×D20cm
+      en: Japanese cypress (hinoki), polychromy, metal leaf; H 23 × W 30 × D 20 cm
+      zh_cn: 桧木、彩色、金属箔；高23 × 宽30 × 深20厘米
+      zh_tw: 檜木、彩色、金屬箔；高23 × 寬30 × 深20公分
+      ko: 히노키(편백나무), 채색, 금속박; H 23 × W 30 × D 20 cm
+      fr: Cyprès japonais (hinoki), polychromie, feuille métallique ; H 23 × L 30 × P 20 cm
+      es: Ciprés japonés (hinoki), policromía, pan de metal; 23 × 30 × 20 cm (alto × ancho × profundidad)
+      de: Japanische Hinoki-Zypresse, Farbfassung, Blattmetall; H 23 × B 30 × T 20 cm
+   note: 8言語あり
+      ja: （鳥獣戯画より）
+      en: (after Chōjū-giga)
+      zh_cn: （取自《鸟兽戏画》）
+      zh_tw: （取自《鳥獸戲畫》）
+      ko: (조수희화에서)
+      fr: (d'après le Chōjū-giga)
+      es: (a partir del Chōjū-giga)
+      de: (nach dem Chōjū-giga)
+
+■■ publications（配列 6件）
+ [1]
+   ja: 『メルヘン動物』（グラフ社）
+   romaji: Meruhen Dōbutsu (Gurafu-sha)
+   en: Fairy-Tale Animals (Gurafu-sha)
+ [2]
+   ja: 『くつ下で作るストッキング人形』（ブティック社）
+   romaji: Kutsushita de Tsukuru Sutokkingu Ningyō (Butikku-sha)
+   en: Stocking Dolls Made with Socks (Butikku-sha)
+ [3]
+   ja: 『愛の光 祈りの造形・愛しき動物たち 鈴木千賀子作品集』（美術年鑑社）
+   romaji: Ai no Hikari: Inori no Zōkei, Itoshiki Dōbutsu-tachi — Suzuki Chikako Sakuhinshū (Bijutsu 
+   en: Light of Love: Forms of Prayer and Beloved Animals — Works of Chikako Suzuki (Bijutsu Nenk
+ [4]
+   ja: 『立体で見る鳥獣戯画 木と土と布から生まれた鳥獣戯画』（美術年鑑社）
+   romaji: Rittai de Miru Chōjū Giga: Ki to Tsuchi to Nuno kara Umareta Chōjū Giga (Bijutsu Nenkan-sh
+   en: Chōjū Giga in Three Dimensions: Born from Wood, Clay, and Cloth (Bijutsu Nenkan-sha)
+ [5]
+   ja: 『鈴木千賀子の世界 ひとすじの愛の光』（美術年鑑社）
+   romaji: Suzuki Chikako no Sekai: Hitosuji no Ai no Hikari (Bijutsu Nenkan-sha)
+   en: The World of Chikako Suzuki: A Single Ray of Loving Light (Bijutsu Nenkan-sha)
+ [6]
+   ja: 『立体で見る宮沢賢治の童話世界』（美術年鑑社）
+   romaji: Rittai de Miru Miyazawa Kenji no Dōwa Sekai (Bijutsu Nenkan-sha)
+   en: The Fairy-Tale World of Miyazawa Kenji in Three Dimensions (Bijutsu Nenkan-sha)
+
+■■ bio （8言語あり）
+   ja: 日本大学理工学部薬学科を卒業後、造形の道へ進む。造形作家・友永詔三、彫刻家・細井良雄、木彫家・牧田裕次郎に師事。国立劇場では菱田宏治氏・名越詔司氏に師事し、文楽人形の床山を経て、首（かしら）の制作の修行を積んだ。創型会会友を経て、現在は無所属で制作を続けている。日本橋髙島屋、京王プラザホテルロビーギャラリー、埼玉県立近代美術館などで個展を重ねている。
+   en: After earning a degree in pharmaceutical sciences from the College of Science and Technology, Nihon University, she turned to sculptural work. She studied under the sculptural artist Shozo Tomonaga, the sculptor Yoshio Hosoi, and the wood sculptor Yujiro Makita. At the National Theatre she trained under 菱田宏治 and 名越詔司, first as a tokoyama — the specialist who dresses and styles the wigs of Bunraku puppets — and then in making the puppet heads themselves (kashira). A former associate member of the Sokei-kai, she now works independently. She has held solo exhibitions at Nihonbashi Takashimaya, the Keio Plaza Hotel Lobby Gallery, and the Museum of Modern Art, Saitama, among other venues.
+   zh_cn: 毕业于日本大学理工学部药学科后，转而走上造型创作的道路。师从造型艺术家友永诏三、雕塑家细井良雄、木雕家牧田裕次郎。又在国立剧场师从菱田宏治、名越诏司，先从事文乐人偶的床山（负责为人偶梳头、结发的工作），后修习人偶头部的制作。曾任创型会会友，目前未加入任何团体，持续创作至今。曾在日本桥高岛屋、京王广场酒店大堂画廊、埼玉县立近代美术馆等地多次举办个展。
+   zh_tw: 畢業於日本大學理工學部藥學科後，轉而走上造型創作的道路。師從造型藝術家友永詔三、雕塑家細井良雄、木雕家牧田裕次郎。又於國立劇場師從菱田宏治、名越詔司，先從事文樂人偶的床山（負責為人偶梳頭、結髮的工作），後修習人偶頭部的製作。曾任創型會會友，目前未加入任何團體，持續創作至今。曾在日本橋高島屋、京王廣場飯店大廳藝廊、埼玉縣立近代美術館等地多次舉辦個展。
+   ko: 니혼대학 이공학부 약학과를 졸업한 뒤 조형의 길로 들어섰다. 조형 작가 도모나가 쇼조(友永詔三), 조각가 호소이 요시오(細井良雄), 목조각가 마키타 유지로(牧田裕次郎)에게 배웠다. 국립극장(国立劇場)에서는 菱田宏治, 名越詔司에게 배웠다. 분라쿠 인형의 머리와 가발을 손질하는 도코야마(床山)를 거쳐, 인형의 머리(가시라) 제작을 익혔다. 창형회(創型会) 회우를 거쳐 지금은 어느 단체에도 속하지 않고 작업을 이어가고 있다. 니혼바시 다카시마야(日本橋髙島屋), 게이오 플라자 호텔 로비 갤러리, 사이타마현립근대미술관 등에서 여러 차례 개인전을 열었다.
+   fr: Après des études de pharmacie à la faculté des sciences et technologies de l'université Nihon, elle s'est tournée vers les arts plastiques. Elle s'est formée auprès de l'artiste plasticien Shōzō Tomonaga, du sculpteur Yoshio Hosoi et du sculpteur sur bois Yūjirō Makita. Au Théâtre national du Japon, elle a été formée par 菱田宏治 et 名越詔司, d'abord au métier de tokoyama, qui consiste à coiffer et à entretenir les perruques des marionnettes de bunraku, puis à la fabrication des têtes de marionnettes (kashira). Ancienne membre associée du Sōkei-kai, elle travaille aujourd'hui en indépendante. Elle a exposé à de nombreuses reprises en solo, notamment au grand magasin Nihonbashi Takashimaya, à la galerie du hall de l'hôtel Keio Plaza et au musée d'art moderne de Saitama.
+   es: Tras estudiar Farmacia en la Facultad de Ciencias y Tecnología de la Universidad Nihon, se orientó hacia las artes plásticas. Se formó con el artista plástico Shōzō Tomonaga, el escultor Yoshio Hosoi y el tallista en madera Yūjirō Makita. En el Teatro Nacional de Japón se formó con 菱田宏治 y 名越詔司: primero en el oficio de tokoyama, que consiste en peinar y cuidar las pelucas de los títeres del bunraku, y después en la elaboración de las cabezas de los títeres (kashira). Tras ser miembro asociada del Sōkei-kai, hoy trabaja de forma independiente. Ha realizado numerosas exposiciones individuales, en espacios como Nihonbashi Takashimaya, la galería del vestíbulo del Keio Plaza Hotel y el Museo de Arte Moderno de Saitama.
+   de: Nach dem Pharmaziestudium an der Fakultät für Naturwissenschaften und Technik der Nihon-Universität wandte sie sich der bildenden Kunst zu. Sie lernte bei dem Objektkünstler Shōzō Tomonaga, dem Bildhauer Yoshio Hosoi und dem Holzbildhauer Yūjirō Makita. Am Nationaltheater (Kokuritsu Gekijō) lernte sie bei 菱田宏治 und 名越詔司 zunächst die Arbeit als Tokoyama — das Frisieren und Pflegen der Perücken der Bunraku-Puppen — und anschließend die Herstellung der Puppenköpfe (Kashira). Nach ihrer Zeit als assoziiertes Mitglied der Künstlervereinigung Sōkei-kai arbeitet sie heute unabhängig. Ihre Arbeiten waren in zahlreichen Einzelausstellungen zu sehen, unter anderem im Nihonbashi Takashimaya, in der Lobby-Galerie des Keio Plaza Hotels und im Museum für moderne Kunst der Präfektur Saitama (Saitama Kenritsu Kindai Bijutsukan).
+
+■■ message ★欠け=ja
+   ja: （無）
+   en: What I carve are lovable beings, such as animals and children. The wood lends me its energy, and making these works has healed me as well.
+I hope a single ray of loving light will reach as many hearts as possible. I create with a prayer for peace.
+   zh_cn: 我雕刻的，是动物、孩子这些惹人怜爱的生命。木头给了我力量，我也在作品里得到了抚慰。
+愿把一缕爱的光送到更多人心里。创作时，我心里始终装着对和平的祈愿。
+   zh_tw: 我雕刻的，是動物、孩子這些惹人憐愛的生命。木頭給了我力量，我也在作品裡得到了撫慰。
+願把一縷愛的光送到更多人心裡。創作時，我心裡始終裝著對和平的祈願。
+   ko: 제가 새기는 것은 동물이나 아이처럼 사랑스러운 존재들입니다. 나무에서 힘을 얻으며, 제가 만든 작품을 통해 저 또한 위로를 받아 왔습니다.
+한 줄기 사랑의 빛을 더 많은 사람의 마음에 전하고 싶습니다. 평화를 향한 기도를 담아 창작하고 있습니다.
+   fr: Ce que je sculpte, ce sont des êtres attendrissants — des animaux, des enfants. Le bois me donne sa force, et mes œuvres m'ont apaisée, moi aussi.
+Je voudrais qu'un rayon de la lumière de l'amour atteigne le cœur du plus grand nombre. C'est avec une prière pour la paix que je crée.
+   es: Lo que tallo son seres entrañables, como animales y niños. La madera me da su fuerza, y mis obras también me han reconfortado a mí.
+Quisiera que un rayo de la luz del amor llegue al corazón del mayor número posible de personas. Trabajo con una oración por la paz.
+   de: Was ich schnitze, sind liebenswerte Wesen, etwa Tiere und Kinder. Das Holz gibt mir Kraft, und die Arbeit daran hat auch mich geheilt.
+Ich möchte, dass ein Lichtschein der Liebe möglichst viele Herzen erreicht. Meine Arbeit ist zugleich ein Gebet für den Frieden.
+
+
+████████ watanabe-genichi / 渡辺 玄一 ████████
+
+■■ role （8言語あり）
+   ja: 洋画家
+   en: Yōga (Western-style) Painter
+   zh_cn: 西洋画家
+   zh_tw: 西洋畫家
+   ko: 서양화가
+   fr: Peintre de style occidental
+   es: Pintor de estilo occidental
+   de: Maler im westlichen Stil (Yōga)
+
+■■ location （8言語あり）
+   ja: 山形県
+   en: Yamagata Prefecture
+   zh_cn: 山形县
+   zh_tw: 山形縣
+   ko: 야마가타현
+   fr: préfecture de Yamagata
+   es: prefectura de Yamagata
+   de: Präfektur Yamagata
+
+■■ statement （8言語あり）
+   ja: 原色でおりなす生命のリズム
+   en: A rhythm of life woven in pure colour
+   zh_cn: 以原色织就的生命律动
+   zh_tw: 以原色織就的生命律動
+   ko: 원색으로 엮어 내는 생명의 리듬
+   fr: Le rythme de la vie tissé de couleurs pures
+   es: El ritmo de la vida tejido con colores puros
+   de: Ein Rhythmus des Lebens, gewebt aus reinen Farben
+
+■■ bio （8言語あり）
+   ja: 1951年 山形県生まれ
+1976年 東京慈恵会医科大学卒業
+在学中は美術部に所属し清水錬徳（独立美術協会所属）に師事
+
+【活動歴】
+
+2008年より作家活動を開始。各地のギャラリー（銀座・京都・ニューヨーク）をはじめ、東急百貨店渋谷本店、小田急百貨店新宿店、岐阜髙島屋、広島三越、水戸京成百貨店にて個展を重ねている。
+   en: 1951 Born in Yamagata Prefecture
+1976 Graduated from The Jikei University School of Medicine
+Belonged to the art club while a student, studying under Shimizu Rentoku (a member of the Independent Art Association)
+
+【Activity】
+
+He began working as an artist in 2008. He has held solo exhibitions at galleries in Ginza, Kyoto, New York and elsewhere, as well as at the Shibuya Tokyu (main store), Shinjuku Odakyu, Gifu Takashimaya, Hiroshima Mitsukoshi and Mito Keisei department stores.
+   zh_cn: 1951年 生于山形县
+1976年 毕业于东京慈惠会医科大学
+在校期间参加美术部，师从清水錬徳（独立美术协会会员）
+
+【活动经历】
+
+2008年开始艺术创作活动。曾在银座、京都、纽约等地的画廊，以及东急百货涩谷本店、小田急百货新宿店、岐阜高岛屋、广岛三越、水户京成百货店举办个展。
+   zh_tw: 1951年 生於山形縣
+1976年 畢業於東京慈惠會醫科大學
+在學期間參加美術社，師從清水錬徳（獨立美術協會會員）
+
+【活動經歷】
+
+2008年開始創作活動。曾於銀座、京都、紐約等地的畫廊，以及東急百貨澀谷本店、小田急百貨新宿店、岐阜高島屋、廣島三越、水戶京成百貨店舉辦個展。
+   ko: 1951년 야마가타현 출생
+1976년 도쿄지케이카이 의과대학 졸업
+재학 중 미술부에 소속되어 시미즈 렌토쿠(清水錬徳, 독립미술협회 회원)에게 사사
+
+【활동 이력】
+
+2008년부터 작가 활동을 시작했다. 긴자·교토·뉴욕 등지의 갤러리를 비롯해 도큐백화점 시부야 본점, 오다큐백화점 신주쿠점, 기후 다카시마야, 히로시마 미쓰코시, 미토 게이세이백화점에서 개인전을 이어 오고 있다.
+   fr: 1951 Naissance dans la préfecture de Yamagata
+1976 Diplôme de l'université de médecine Jikei de Tokyo
+Membre du club d'art durant ses études, formé auprès de Shimizu Rentoku (membre de l'Association d'art indépendant)
+
+【Activité】
+
+Il commence son activité d'artiste en 2008. Il a tenu plusieurs expositions personnelles dans des galeries à Ginza, à Kyoto, à New York et ailleurs, ainsi que dans les grands magasins Shibuya Tokyu (magasin principal), Shinjuku Odakyu, Gifu Takashimaya, Hiroshima Mitsukoshi et Mito Keisei.
+   es: 1951 Nace en la prefectura de Yamagata
+1976 Se gradúa en la Universidad de Medicina Jikei de Tokio
+Miembro del club de arte durante sus estudios, se formó con Shimizu Rentoku (miembro de la Asociación de Arte Independiente)
+
+【Actividad】
+
+Comenzó su actividad artística en 2008. Ha presentado exposiciones individuales en galerías de Ginza, Kioto, Nueva York y otros lugares, así como en los grandes almacenes Shibuya Tokyu (tienda principal), Shinjuku Odakyu, Gifu Takashimaya, Hiroshima Mitsukoshi y Mito Keisei.
+   de: 1951 in der Präfektur Yamagata geboren
+1976 Abschluss an der Jikei-Universität für Medizin in Tokio
+Während des Studiums Mitglied der Kunst-AG, Schüler von Shimizu Rentoku (Mitglied der Unabhängigen Kunstvereinigung)
+
+【Tätigkeit】
+
+2008 nahm er seine künstlerische Tätigkeit auf. Er zeigte Einzelausstellungen in Galerien in Ginza, Kyoto, New York und andernorts sowie in den Kaufhäusern Shibuya Tokyu (Stammhaus), Shinjuku Odakyu, Gifu Takashimaya, Hiroshima Mitsukoshi und Mito Keisei.
+
+■■ message ★欠け=ja,en,zh_cn,zh_tw,ko,fr,es,de
+   ja: 
+   en: 
+   zh_cn: 
+   zh_tw: 
+   ko: 
+   fr: 
+   es: 
+   de: 
+
+■■ works（配列 1件）
+ [1]
+   title: ★欠け=zh_cn,zh_tw,ko,fr,es,de
+      ja: 《しらたま（猫）》
+      en: Shiratama (Cat)
+      zh_cn: （無）
+      zh_tw: （無）
+      ko: （無）
+      fr: （無）
+      es: （無）
+      de: （無）
+   medium: 8言語あり
+      ja: ●　F8号
+      en: ● ; F8 (Japanese canvas size)
+      zh_cn: ● ；F8号（日本画布规格）
+      zh_tw: ● ；F8號（日本畫布規格）
+      ko: ● ; F8호(일본 캔버스 규격)
+      fr: ● ; F8 (format de toile japonais)
+      es: ● ; F8 (formato de lienzo japonés)
+      de: ● ; F8 (japanisches Leinwandformat)
+
+
+████████ fujishiro-norio / 藤代 範雄 ████████
+
+■■ role （8言語あり）
+   ja: ガラス工芸家／グラフィックデザイナー
+   en: Glass Artist / Graphic Designer
+   zh_cn: 玻璃工艺家／平面设计师
+   zh_tw: 玻璃工藝家／平面設計師
+   ko: 유리공예가／그래픽 디자이너
+   fr: Artiste verrier / Graphiste
+   es: Artista del vidrio / Diseñador gráfico
+   de: Glaskünstler / Grafikdesigner
+
+■■ location （8言語あり）
+   ja: 茨城
+   en: Ibaraki
+   zh_cn: 茨城
+   zh_tw: 茨城
+   ko: 이바라키
+   fr: Ibaraki
+   es: Ibaraki
+   de: Ibaraki
+
+■■ statement （8言語あり）
+   ja: 境界を越えていく色彩あふれるガラスの世界
+   en: A world of glass brimming with colour, ever crossing boundaries
+   zh_cn: 不断跨越界限、色彩盈溢的玻璃世界
+   zh_tw: 不斷跨越界限、色彩盈溢的玻璃世界
+   ko: 경계를 계속 넘어가는, 색채가 넘치는 유리의 세계
+   fr: Un monde de verre aux couleurs foisonnantes, franchissant sans cesse les limites
+   es: Un mundo de vidrio rebosante de color que sigue traspasando límites
+   de: Eine Glaswelt voller Farbe, die Grenzen immer weiter überschreitet
+
+■■ bio （8言語あり）
+   ja: 茨城を拠点に、ガラスの制作を続けている。イタリア・ヴェネツィアのガラス工房をはじめ、沖縄など国内外の工房で精力的に制作を行う。確かな手わざは、若い日の修行で培われた。張りつめた空気の絶えない、つねに命と隣り合わせの現場だった。のちにグラフィックデザインの道へ進み、デザイナーとしてのキャリアを築きあげるなかで、ガラス制作への魅力と憧れ、情熱がふたたび呼び起こされた。誰もが驚くようなガラス作品をつくりたい——その願いが、いまも制作のエネルギー源となっている。
+
+【デザイン】
+
+つくば科学万博の会場と万博中央駅広場のサインを手がけた。長野冬季五輪のキャンペーンポスターを共同で制作した。JR石岡駅には7×30メートルの壁画レリーフがある。スイス・モントルーのゴールデンアワードで、1995年にグランプリ、2004年に金賞を受けた。同じ賞で国際審査員をつとめた。ウズベキスタン文化庁から芸術文化栄誉賞を受けた。ルーヴル装飾美術館に《テロと報復》が収蔵されている。モスクワ国立東洋美術館、デンマークのダンスク・プラカット美術館、ポルトガル・リスボンのオリエント博物館にも作品が収蔵されている。ニューヨーク・アートディレクターズクラブ会員。
+
+【ガラス】
+
+沖縄の琉球ガラスの工房と、ヴェネツィアンガラスの本場・イタリア ムラーノ島の工房で制作を行う。銀座三越と水戸京成百貨店で個展を重ねている。ガラス作品を宮内庁へ献上した。日光東照宮の「東照宮美術展覧会」で宮司賞と文化藝術大賞を受けた。
+   en: He continues to make glass, working from Ibaraki Prefecture. He works tirelessly in glass workshops in Japan and abroad, from Venice in Italy to Okinawa. His assured craftsmanship was cultivated through the training he underwent in his younger days, in a workplace of unrelenting tension where his life was always at stake. He later took the path of graphic design, and as he built his career as a designer, he felt anew the appeal of glassmaking, and his longing and passion for it were awakened once more. He wants to make glass works that astonish everyone; that wish is still the source of energy for his work.
+
+【Design】
+
+He designed the signage for the Tsukuba Expo site and the Expo Chūō Station plaza. He co-created the campaign poster for the Nagano Winter Olympics. A mural relief of 7 by 30 metres stands at JR Ishioka Station. At the Golden Award in Montreux, Switzerland, he received the Grand Prix in 1995 and the Gold Award in 2004. He also served as an international juror for the same award. He received the Honorary Award for Art and Culture from the cultural authority of Uzbekistan. “Terrorism and Retaliation” is held by the Musée des Arts Décoratifs, Paris. His work is also held by the State Museum of Oriental Art in Moscow, the Dansk Plakatmuseum in Denmark and the Museu do Oriente in Lisbon, Portugal. He is a member of The Art Directors Club, New York.
+
+【Glass】
+
+He works at Ryūkyū glass workshops in Okinawa and at workshops on the Italian island of Murano, the historic home of Venetian glass. He holds solo exhibitions at Ginza Mitsukoshi and Mito Keisei. A glass work of his was presented to the Imperial Household Agency. At the Tōshōgū Art Exhibition of Nikkō Tōshōgū he received the Chief Priest's Prize and the Grand Prize for Culture and the Arts.
+   zh_cn: 他以茨城为据点，持续从事玻璃创作。他以意大利威尼斯的玻璃工坊为首，在冲绳等国内外的工坊里精力充沛地进行创作。那双娴熟的手，是在年轻时的修习中练就的——那是在一个紧张气氛从未松弛、时时面临生命危险的工作现场。此后他走上平面设计之路，在建立设计师生涯的过程中，他再次感受到玻璃创作的魅力，对它的憧憬与热情也重新被唤起。想做出令所有人惊叹的玻璃作品——这一心愿，至今仍是他创作的能量源泉。
+
+【设计】
+
+设计了筑波科学万博会场与万博中央站广场的标识。与他人共同制作了长野冬季奥运会的宣传海报。JR石冈站建有7×30米的壁画浮雕。在瑞士蒙特勒的 Golden Award 上，1995年获大奖（Grand Prix），2004年获金奖。并曾担任同一奖项的国际评审。获乌兹别克斯坦文化厅颁发的艺术文化荣誉奖。《恐怖与报复》为巴黎卢浮宫装饰艺术博物馆收藏。作品亦为莫斯科国立东方美术馆、丹麦丹斯克海报美术馆、葡萄牙里斯本东方博物馆收藏。纽约艺术指导俱乐部会员。
+
+【玻璃】
+
+在冲绳的琉球玻璃工坊，以及威尼斯玻璃的故乡——意大利穆拉诺岛的工坊进行创作。持续在银座三越与水户京成百货店举办个展。曾向宫内厅献上玻璃作品。在日光东照宫「东照宫美术展览会」获宫司奖与文化艺术大奖。
+   zh_tw: 他以茨城為據點，持續從事玻璃創作。他以義大利威尼斯的玻璃工坊為首，在沖繩等國內外的工坊裡精力充沛地進行創作。那雙嫻熟的手，是在年輕時的修習中練就的——那是在一個緊張氣氛從未鬆弛、時時面臨生命危險的工作現場。此後他走上平面設計之路，在建立設計師生涯的過程中，他再次感受到玻璃創作的魅力，對它的憧憬與熱情也重新被喚起。想做出令所有人驚嘆的玻璃作品——這一心願，至今仍是他創作的能量泉源。
+
+【設計】
+
+設計了筑波科學萬博會場與萬博中央站廣場的標識。與他人共同製作了長野冬季奧運的宣傳海報。JR石岡站建有7×30公尺的壁畫浮雕。於瑞士蒙特勒的 Golden Award，1995年獲大獎（Grand Prix），2004年獲金獎。並曾擔任同一獎項的國際評審。獲烏茲別克斯坦文化廳頒發的藝術文化榮譽獎。《恐怖與報復》為巴黎羅浮宮裝飾藝術博物館收藏。作品亦為莫斯科國立東方美術館、丹麥丹斯克海報美術館、葡萄牙里斯本東方博物館收藏。紐約藝術指導俱樂部會員。
+
+【玻璃】
+
+在沖繩的琉球玻璃工坊，以及威尼斯玻璃的故鄉——義大利穆拉諾島的工坊進行創作。持續於銀座三越與水戶京成百貨店舉辦個展。曾向宮內廳獻上玻璃作品。於日光東照宮「東照宮美術展覽會」獲宮司獎與文化藝術大獎。
+   ko: 이바라키현을 거점으로 유리 제작을 이어 가고 있다. 이탈리아 베네치아의 유리 공방을 비롯해 오키나와 등 국내외의 공방에서 정력적으로 제작을 이어 간다. 숙련된 손기술은 젊은 날의 수련을 통해 길러졌다. 긴장이 한시도 풀리지 않는, 늘 목숨이 위태로운 작업 현장이었다. 이후 그래픽 디자인의 길로 나아갔고, 디자이너로서 경력을 쌓아 가는 가운데 유리 제작의 매력을 다시 느꼈고, 그에 대한 동경과 열정도 다시 깨어났다. 누구나 놀랄 만한 유리 작품을 만들고 싶다——그 바람이 지금도 제작의 에너지가 되고 있다.
+
+【디자인】
+
+쓰쿠바 과학박람회 행사장과 반파쿠추오역 광장의 사인을 디자인했다. 나가노 동계올림픽 캠페인 포스터를 공동으로 제작했다. JR 이시오카역에는 7×30미터의 벽화 부조가 있다. 스위스 몽트뢰 골든 어워드에서 1995년 그랑프리, 2004년 금상을 받았다. 같은 상의 국제 심사위원도 맡았다. 우즈베키스탄 문화청으로부터 예술문화 명예상을 받았다. 〈테러와 보복〉이 파리 루브르 장식미술관에 소장되어 있다. 모스크바 국립동양미술관, 덴마크 단스크 포스터 미술관, 포르투갈 리스본 오리엔트 박물관에도 작품이 소장되어 있다. 뉴욕 아트 디렉터스 클럽 회원이다.
+
+【유리】
+
+오키나와의 류큐 유리 공방과 베네치아 유리의 역사적 중심지인 이탈리아 무라노섬의 공방에서 제작을 이어 간다. 긴자 미쓰코시와 미토 게이세이백화점에서 개인전을 이어 가고 있다. 유리 작품을 궁내청에 헌상했다. 닛코 도쇼구의 「도쇼구 미술전람회」에서 궁사상과 문화예술대상을 받았다.
+   fr: Basé dans la préfecture d'Ibaraki, il poursuit sa création verrière. Il travaille sans relâche dans des ateliers de verre au Japon comme à l'étranger, de Venise, en Italie, jusqu'à Okinawa. La sûreté de son geste s'est forgée dans la formation qu'il a reçue durant sa jeunesse, sur un lieu de travail constamment sous tension, où sa vie était sans cesse en jeu. Il a ensuite pris la voie du graphisme et, à mesure qu'il bâtissait sa carrière de designer, il a de nouveau ressenti l'attrait du travail du verre, et son désir et sa passion se sont réveillés. Il veut créer des œuvres en verre capables d'étonner tout le monde ; ce souhait est aujourd'hui encore la source d'énergie de sa création.
+
+【Design】
+
+Il a conçu la signalétique du site de l'Expo de Tsukuba et de la place de la gare Expo Chūō. Il a coréalisé l'affiche de campagne des Jeux olympiques d'hiver de Nagano. Un relief mural de 7 sur 30 mètres orne la gare JR d'Ishioka. Au Golden Award de Montreux, en Suisse, il a reçu le Grand Prix en 1995 et le prix d'or en 2004. Il a également été juré international de ce même prix. Il a reçu la distinction honorifique des arts et de la culture de l'autorité culturelle d'Ouzbékistan. « Terrorisme et représailles » est conservé au Musée des Arts Décoratifs, à Paris. Ses œuvres figurent aussi au Musée national des arts orientaux de Moscou, au Dansk Plakatmuseum au Danemark et au Museu do Oriente à Lisbonne, au Portugal. Il est membre de l'Art Directors Club de New York.
+
+【Verre】
+
+Il travaille dans des ateliers verriers des Ryūkyū, à Okinawa, ainsi qu'à Murano, en Italie, foyer historique du verre vénitien. Il présente des expositions personnelles au Mitsukoshi de Ginza et au Mito Keisei. Une de ses pièces en verre a été offerte à l'Agence de la Maison impériale. À l'Exposition d'art de Tōshōgū, à Nikkō, il a reçu le prix du grand prêtre et le grand prix de la culture et des arts.
+   es: Con base en la prefectura de Ibaraki, continúa dedicándose a la creación en vidrio. Trabaja sin descanso en talleres de vidrio dentro y fuera de Japón, desde Venecia, en Italia, hasta Okinawa. La destreza de sus manos se forjó en la formación que recibió durante su juventud, en un entorno de trabajo sometido a una tensión constante, donde su vida estaba siempre en juego. Después tomó el camino del diseño gráfico y, mientras construía su carrera como diseñador, volvió a sentir el atractivo de la creación en vidrio, y su anhelo y su pasión despertaron de nuevo. Quiere crear obras de vidrio que asombren a todo el mundo; ese deseo sigue siendo hoy la fuente de energía de su trabajo.
+
+【Diseño】
+
+Diseñó la señalética del recinto de la Expo de Tsukuba y de la plaza de la estación Expo Chūō. Coprodujo el cartel de campaña de los Juegos Olímpicos de Invierno de Nagano. En la estación JR de Ishioka hay un relieve mural de 7 por 30 metros. En el Golden Award de Montreux, Suiza, recibió el Gran Premio en 1995 y el Premio de Oro en 2004. También fue jurado internacional de ese mismo premio. Recibió la distinción honorífica de arte y cultura de la autoridad cultural de Uzbekistán. «Terrorismo y represalia» se conserva en el Musée des Arts Décoratifs, en París. Su obra también se conserva en el Museo Estatal de Arte Oriental de Moscú, en el Dansk Plakatmuseum de Dinamarca y en el Museu do Oriente de Lisboa, Portugal. Es miembro del Art Directors Club de Nueva York.
+
+【Vidrio】
+
+Trabaja en talleres de vidrio de Ryūkyū en Okinawa y en los de Murano, en Italia, hogar histórico del vidrio veneciano. Presenta exposiciones individuales en Mitsukoshi de Ginza y en Mito Keisei. Una obra suya de vidrio fue ofrecida a la Agencia de la Casa Imperial. En la Exposición de Arte de Tōshōgū, en Nikkō, recibió el premio del sumo sacerdote y el gran premio de cultura y artes.
+   de: Von der Präfektur Ibaraki aus setzt er seine Arbeit mit Glas fort. Unermüdlich arbeitet er in Glaswerkstätten im In- und Ausland – von Venedig in Italien bis Okinawa. Sein sicheres handwerkliches Können wurde durch die Ausbildung in jungen Jahren geprägt, die an einem Arbeitsplatz voller unablässiger Spannung stattfand, an dem sein Leben stets auf dem Spiel stand. Später schlug er den Weg des Grafikdesigns ein, und während er sich eine Laufbahn als Gestalter aufbaute, spürte er erneut die Faszination der Glasarbeit, und seine Sehnsucht und seine Leidenschaft erwachten von Neuem. Er möchte Glasarbeiten schaffen, die jeden in Staunen versetzen; dieser Wunsch ist bis heute die Energiequelle seines Schaffens.
+
+【Design】
+
+Er gestaltete das Leitsystem für das Gelände der Expo Tsukuba und den Vorplatz des Bahnhofs Expo Chūō. Das Kampagnenplakat für die Olympischen Winterspiele in Nagano entstand in Gemeinschaftsarbeit. Am Bahnhof JR Ishioka befindet sich ein Wandrelief von 7 mal 30 Metern. Beim Golden Award in Montreux in der Schweiz erhielt er 1995 den Grand Prix und 2004 den Goldpreis. Beim selben Preis war er zudem internationaler Juror. Von der Kulturbehörde Usbekistans erhielt er die Ehrenauszeichnung für Kunst und Kultur. „Terror und Vergeltung“ befindet sich im Musée des Arts Décoratifs in Paris. Weitere Arbeiten befinden sich im Staatlichen Museum für Orientalische Kunst in Moskau, im Dansk Plakatmuseum in Dänemark und im Museu do Oriente in Lissabon, Portugal. Er ist Mitglied im Art Directors Club New York.
+
+【Glas】
+
+Er arbeitet in Ryūkyū-Glaswerkstätten auf Okinawa sowie in Glaswerkstätten auf Murano in Italien, der historischen Heimat des venezianischen Glases. Er zeigt Einzelausstellungen im Mitsukoshi Ginza und im Mito Keisei. Eine seiner Glasarbeiten wurde dem Kaiserlichen Hofamt überreicht. Bei der Tōshōgū-Kunstausstellung in Nikkō erhielt er den Preis des Oberpriesters und den Großen Preis für Kultur und Kunst.
+
+■■ message ★欠け=ja,en,zh_cn,zh_tw,ko,fr,es,de
+   ja: 
+   en: 
+   zh_cn: 
+   zh_tw: 
+   ko: 
+   fr: 
+   es: 
+   de: 
+
+■■ works（配列 1件）
+ [1]
+   title: ★欠け=zh_cn,zh_tw,ko,fr,es,de
+      ja: 《●》
+      en: ●
+      zh_cn: （無）
+      zh_tw: （無）
+      ko: （無）
+      fr: （無）
+      es: （無）
+      de: （無）
+   medium: 8言語あり
+      ja: ●
+      en: ●
+      zh_cn: ●
+      zh_tw: ●
+      ko: ●
+      fr: ●
+      es: ●
+      de: ●
+
+■■ design_works（配列 2件）
+ [1]
+   src: https://cdn.shopify.com/s/files/1/0812/3586/9954/files/fujishiro-norio-design-01.jpg?v=178
+   caption: 8言語あり
+      ja: TERRORISM AND WAR ON TERRORISM Ⅰ
+ポスター
+      en: TERRORISM AND WAR ON TERRORISM Ⅰ
+Poster
+      zh_cn: TERRORISM AND WAR ON TERRORISM Ⅰ
+海报
+      zh_tw: TERRORISM AND WAR ON TERRORISM Ⅰ
+海報
+      ko: TERRORISM AND WAR ON TERRORISM Ⅰ
+포스터
+      fr: TERRORISM AND WAR ON TERRORISM Ⅰ
+Affiche
+      es: TERRORISM AND WAR ON TERRORISM Ⅰ
+Cartel
+      de: TERRORISM AND WAR ON TERRORISM Ⅰ
+Plakat
+ [2]
+   src: https://cdn.shopify.com/s/files/1/0812/3586/9954/files/fujishiro-norio-design-02.jpg?v=178
+   caption: 8言語あり
+      ja: TERRORISM AND WAR ON TERRORISM Ⅱ
+ポスター
+      en: TERRORISM AND WAR ON TERRORISM Ⅱ
+Poster
+      zh_cn: TERRORISM AND WAR ON TERRORISM Ⅱ
+海报
+      zh_tw: TERRORISM AND WAR ON TERRORISM Ⅱ
+海報
+      ko: TERRORISM AND WAR ON TERRORISM Ⅱ
+포스터
+      fr: TERRORISM AND WAR ON TERRORISM Ⅱ
+Affiche
+      es: TERRORISM AND WAR ON TERRORISM Ⅱ
+Cartel
+      de: TERRORISM AND WAR ON TERRORISM Ⅱ
+Plakat
+
+■■ birthplace （8言語あり）
+   ja: 山形
+   en: Yamagata
+   zh_cn: 山形
+   zh_tw: 山形
+   ko: 야마가타
+   fr: Yamagata
+   es: Yamagata
+   de: Yamagata
