@@ -10,9 +10,9 @@
 
 ## 1. 日課（8言語通読）の現在地
 
-- **410名／625名 完了（第35束まで）。次のカーソル＝`otake-shoji`（大竹省二さま）の次＝411番目から。**
-- 通番＝**便は第62便まで／束は第35束まで**（便と束は別の通番）。
-- **第36束は未着手**（依頼の生成もしていない＝中途の適用はない）。
+- **420名／625名 完了（第36束まで）。次のカーソル＝`saigo-kogetsu`（西郷孤月さま）の次＝421番目から。**
+- 通番＝**便は第63便まで／束は第36束まで**（便と束は別の通番）。
+- **第37束は未着手**（依頼の生成もしていない＝中途の適用はない）。
 
 ### 再開手順（そのまま実行できる形）
 
@@ -20,14 +20,14 @@
 cd C:/Users/ataga/atspect-system
 
 # 1. 次の10名を出す（カーソルは「その次から」）
-node scripts/_readonly-honyaku-nikka-20260810.mjs otake-shoji 10
+node scripts/_readonly-honyaku-nikka-20260810.mjs saigo-kogetsu 10
 
-# 2. 作業ディレクトリ（束36なら b36）
-mkdir -p scratch/honyaku-b36-<日付>/{fwd,rev,out}
+# 2. 作業ディレクトリ（束37なら b37）
+mkdir -p scratch/honyaku-b37-<日付>/{fwd,rev,out}
 
 # 3. 二重検品の依頼を作る（10名×7言語×順序2通り＝140本）
-node scripts/_readonly-honyaku-bin-prompts2-20260812.mjs scratch/honyaku-b36-<日付>/fwd fwd <handle×10>
-node scripts/_readonly-honyaku-bin-prompts2-20260812.mjs scratch/honyaku-b36-<日付>/rev rev <handle×10>
+node scripts/_readonly-honyaku-bin-prompts2-20260812.mjs scratch/honyaku-b37-<日付>/fwd fwd <handle×10>
+node scripts/_readonly-honyaku-bin-prompts2-20260812.mjs scratch/honyaku-b37-<日付>/rev rev <handle×10>
 
 # 4. 全140本へ用語注入（★1本でも抜けたら入れ直す。140/140を機械で確認）
 node scripts/honyaku-term-inject-20260811.mjs <handle> <lang> >> <各プロンプト>
@@ -36,7 +36,7 @@ node scripts/honyaku-term-inject-20260811.mjs <handle> <lang> >> <各プロン�
 codex exec --skip-git-repo-check "$(cat <file>)" < /dev/null > <out>
 
 # 6. 仕分け → 原文照合 → 横断型の実測 → 置換表 → 関所 → 再検品 → 適用 → 突き合わせ3段 → スクショ
-node scripts/_readonly-honyaku-b26-triage-20260813.mjs scratch/honyaku-b36-<日付>
+node scripts/_readonly-honyaku-b26-triage-20260813.mjs scratch/honyaku-b37-<日付>
 node scripts/honyaku-patch-build.mjs <table.json> <patch.json>     # from が live にちょうど1回か
 node scripts/artist-i18n-update.mjs plan  --file <patch.json>
 SHOPIFY_ALLOW_WRITE=1 node scripts/artist-i18n-update.mjs apply --plan <plan> --yes
@@ -138,6 +138,9 @@ Codexの当たり＝**590〜710件**、うち採用＝**40〜70件**。★A（�
 | **理事** | es director4:junta directiva2（10名11欄） | 未裁定 |
 | **二科会の訳し方** | ko 니카회26:니카카이5／**fr 「Association Nika」18 : 「Nika Association」13**／**es 「Asociación Nika」18 : 「Nika Association」13**／de 4形（32名） | 未裁定（D2を美術団体へ広げるかの線引きが要る） |
 | **es「画面」の訳** | `lienzo`（＝支持体）21欄14名。第35束で2件を `composición` にしたが統一されていない | 未裁定 |
+| **「作家の一人」→「会員の一人」** | en `one of the artists` 8 : `one of the members` 7／fr 9:5／de `Künstler` 7 : `Mitglieder` 7（es は9件すべて artistas で一貫） | ★**誤訳と判定済み（2026-08-20 Codex独立レビュー）。全該当欄を artists 系へ統一する便が要る** |
+| **maki-e の括弧注釈** | en 6名／de・es・fr 各5名。原文に説明はないが全体で一貫 | 棄却で確定（文化固有語の補足として許容） |
+| **具体美術協会の韓国語** | 구체미술협회 26件12名 : 구타이 5件1名（吉田稔郎さまのみ） | 未裁定 |
 | **代表作（配列）の `romaji` 欄が日本語の読みでない** | 「それいゆ」→`Soleil`／「ヴェネチア」→`Venezia`／「レリーフ」→`Relief`／「プロヴォーク」→`Provoke`／「バタフライスツール」→`Butterfly Stool`／「森林（タイポグラフィ）」→`Shinrin (typography)` 等。**複数作家にまたがる** | 未裁定（**ローマ字表記は本Tの持ち場**だが1名だけ直すと割れる） |
 | **二科会の fr/es** | 佐伯祐三さま等が「Nika Association」（英語形13件側）。多数派は「Association Nika／Asociación Nika」18件 | 未裁定（既出） |
 | **具体美術協会の韓国語** | 구체미술협회 26件／12名 : 구타이 5件／1名（吉田稔郎さまのみ） | 未裁定（1名だけ音訳） |
