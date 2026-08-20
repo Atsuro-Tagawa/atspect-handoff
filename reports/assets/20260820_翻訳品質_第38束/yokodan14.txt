@@ -1,0 +1,56 @@
+===== 人体像 の各言語 =====
+日本語に「人体像」がある欄＝19欄／13名
+
+── en（2形）
+     9件  figural works
+     3件  human figure
+
+── zh_cn（1形）
+    19件  人体像
+
+── zh_tw（1形）
+    19件  人體像
+
+── ko（2形）
+    13件  인체상
+     9件  인물상
+
+── fr（2形）
+     3件  figure humaine
+     1件  figures humaines
+
+── es（3形）
+     3件  figura humana
+     3件  figuras humanas
+     1件  figuras modeladas
+
+── de（4形）
+     2件  menschlichen Gestalt
+     1件  menschliche Gestalt
+     1件  figürliche Werke
+     1件  figürlichen Werke
+===== 肉づけ の各言語 =====
+日本語に「肉づけ」がある欄＝9欄／8名
+
+── en（1形）
+    11件  modeling
+
+── zh_cn（2形）
+     5件  塑形
+     4件  肉感
+
+── zh_tw（2形）
+     5件  塑形
+     4件  肉感
+
+── ko（1形）
+     8件  살붙임
+
+── fr（1形）
+     7件  modelage
+
+── es（1形）
+    10件  modelado
+
+── de（1形）
+    10件  Modellierung

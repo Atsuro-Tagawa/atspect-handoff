@@ -1,0 +1,39 @@
+########## 1. 人間国宝 の独語 ##########
+日本語に「人間国宝」がある欄＝137欄／72名
+
+── en（0形）
+
+── zh_cn（0形）
+
+── zh_tw（0形）
+
+── ko（0形）
+
+── fr（0形）
+
+── es（0形）
+
+── de（3形）
+   130件  Lebender Nationalschatz
+     3件  Lebende Nationalschatz
+     1件  Träger eines Wichtigen Immateriellen Kulturguts
+########## 2. 代表作 の独語 ##########
+日本語に「代表作」がある欄＝51欄／50名
+
+── en（0形）
+
+── zh_cn（0形）
+
+── zh_tw（0形）
+
+── ko（0形）
+
+── fr（0形）
+
+── es（0形）
+
+── de（4形）
+    27件  Hauptwerk
+    14件  Hauptwerke
+     1件  sein bekanntestes
+     1件  Sein bekanntestes

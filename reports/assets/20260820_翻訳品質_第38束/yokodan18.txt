@@ -1,0 +1,63 @@
+===== 簡潔 de 全形 =====
+── de（22形）
+     9件  schlichte
+     8件  schlichten
+     8件  knappe
+     7件  klare
+     5件  knapp
+     5件  knappen
+     4件  Schlichtheit
+     4件  klaren
+     2件  Knappheit
+     2件  reduzierte
+     2件  schlichter
+     1件  schlichtem
+     1件  schlicht
+     1件  zusammengefasste
+     1件  klares
+     1件  einfacher
+     1件  klar
+     1件  reduzierten
+     1件  einfachter
+     1件  knapper
+     1件  Klarheit
+     1件  schmucklosen
+===== 筆づかい 各言語 =====
+日本語に「筆づかい」がある欄＝9欄／9名
+
+── en（1形）
+     7件  brushwork
+
+── zh_cn（2形）
+     4件  笔致
+     1件  笔力
+
+── zh_tw（2形）
+     4件  筆致
+     1件  筆力
+
+── ko（1形）
+     4件  붓
+
+── fr（1形）
+     5件  touche
+
+── es（1形）
+     7件  pincelada
+
+── de（2形）
+     6件  Pinselführung
+     1件  Pinselstrich
+===== 築き（研究室・組織）en =====
+azuma-takamitsu [bio] «established» … rch Institute (Osaka office) in 1960, became independent in 1967, and established the Takamitsu Azuma Architect & Associates in 1968. In 1985 he became a profes
+azuma-takamitsu [groups] «founded» … tute (transferred in 1960) → Azuma Takamitsu Architectural Institute (founded 1968) / University: Professor at Osaka University (1985) → Professor Emeritus, Pro
+tsuchiura-kameki [groups] «established» … w Taisei Corporation) → Tsuchiura Kameki Architectural Design Office (established December 1934)
+yamaguchi-bunzo [bio] «established» … r Walter Gropius in Berlin, and returned to Japan in 1932. In 1934 he established the Yamaguchi Kazo Architectural Office (he had been active under the name "Ok
+yamaguchi-bunzo [bio] «established» … r Walter Gropius in Berlin, and returned to Japan in 1932. In 1934 he established the Yamaguchi Kazo Architectural Office (he had been active under the name "Ok
+yamaguchi-bunzo [viewpoint] «established» … construction Bureau's Bridge Division and, after traveling to Europe, established the Yamaguchi Kazo Architectural Office and later the RIA Architectural and En
+yamaguchi-bunzo [groups] «founded» … n Bureau (on a contract basis) → Yamaguchi Kazō Architectural Office (founded 1934) → RIA Architectural Research Institute (founded 1953) / Architectural moveme
+yamaguchi-bunzo [groups] «founded» … n Bureau (on a contract basis) → Yamaguchi Kazō Architectural Office (founded 1934) → RIA Architectural Research Institute (founded 1953) / Architectural moveme
+yamaguchi-bunzo [groups] «founded» … n Bureau (on a contract basis) → Yamaguchi Kazō Architectural Office (founded 1934) → RIA Architectural Research Institute (founded 1953) / Architectural moveme
+ikebe-kiyoshi [bio] «founded» … ssor at the University of Tokyo's Institute of Industrial Science and founded DNIAS (an organization linking environment and industry). He was involved in proje
+nishizawa-fumitaka [bio] «established» … 's death, the Sakakura Architectural Research Institute Co., Ltd. was established in 1969, and he became its representative director. The Maebashi City Hall (Ma
+── 合計 71件 / 48名 （母集団＝日本語に「築」がある欄・言語=en）

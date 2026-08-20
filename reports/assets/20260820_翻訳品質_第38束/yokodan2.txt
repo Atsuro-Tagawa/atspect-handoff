@@ -1,0 +1,64 @@
+########## 3. 彫り続けた／彫り ##########
+     7件  sculptor
+     2件  carving
+     1件  depict
+     1件  Sculpture
+     1件  portraying
+     1件  sculpt
+     1件  carve
+     1件  sculptures
+     1件  sculpture
+
+── zh_cn（0形）
+
+── zh_tw（0形）
+
+── ko（0形）
+
+── fr（4形）
+     7件  sculpteur
+     2件  sculpture
+     1件  sculpter
+     1件  sculptures
+
+── es（2形）
+     2件  retrató
+     1件  esculpiendo
+
+── de（3形）
+     1件  darstellte
+     1件  bildhauerisch
+     1件  festhielt
+########## 4. 草花 ##########
+日本語に「草花」がある欄＝22欄／14名
+
+── en（3形）
+    16件  plants
+     6件  flowers
+     4件  grasses
+
+── zh_cn（2形）
+    20件  草花
+     2件  花草
+
+── zh_tw（2形）
+    20件  草花
+     2件  花草
+
+── ko（2形）
+     6件  화초
+     3件  풀꽃
+
+── fr（2形）
+     7件  fleurs
+     4件  herbes
+
+── es（2形）
+    16件  plantas
+     7件  flores
+
+── de（4形）
+    16件  Pflanzen
+    10件  Blumen
+     2件  Gräser
+     2件  Gräsern

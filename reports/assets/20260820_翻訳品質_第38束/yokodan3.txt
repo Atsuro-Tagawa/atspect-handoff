@@ -1,0 +1,24 @@
+===== 彫り続け（母集団）=====
+日本語に「彫り続け」がある欄＝6欄／3名
+
+── en（9形）
+     7件  sculptor
+     2件  carving
+     1件  depict
+     1件  Sculpture
+     1件  portraying
+     1件  sculpt
+     1件  carve
+     1件  sculptures
+     1件  sculpture
+===== 彫り続け en/es/de の逸脱形はどこか =====
+sato-churyo [statement] «depict» … A realist sculptor who continued to depict working people and women
+sato-churyo [bio] «portraying» … ning home, resumed his work. With an unadorned, fresh realism he kept portraying working people and women. He held the first solo exhibition by a Japanese artis
+── 合計 2件 / 1名 （母集団＝日本語に「彫り続け」がある欄・言語=en）
+sato-churyo [statement] «retrató» … Un escultor realista que retrató sin cesar a los trabajadores y a las mujeres
+sato-churyo [bio] «retrató» … a y, a su regreso, reanudó su labor. Con un realismo sobrio y fresco, retrató sin cesar a los trabajadores y a las mujeres. Fue el primer artista japonés en exp
+── 合計 2件 / 1名 （母集団＝日本語に「彫り続け」がある欄・言語=es）
+sato-churyo [statement] «darstellte» … alistischer Bildhauer, der fortwährend arbeitende Menschen und Frauen darstellte
+sato-churyo [viewpoint] «bildhauerisch» …  der mit einem frischen Realismus fortwährend die menschliche Gestalt bildhauerisch festhielt. Richtet man bei Frauengestalten wie der Reihe „Bōshi" (Hut) den B
+sato-churyo [viewpoint] «festhielt» …  frischen Realismus fortwährend die menschliche Gestalt bildhauerisch festhielt. Richtet man bei Frauengestalten wie der Reihe „Bōshi" (Hut) den Blick auf die u
+── 合計 3件 / 1名 （母集団＝日本語に「彫り続け」がある欄・言語=de）

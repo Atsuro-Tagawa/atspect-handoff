@@ -1,0 +1,7 @@
+{
+ "reason": "第38束 突き合わせ③が捕まえた欄をまたいだ取りこぼし＝笹村草家人さまの【人体像】を略歴(de)で menschliche Gestalten へ直したが、功績(de)に figürlichen Werken が残っていた。独語のサイト定型は menschliche Gestalt（3件）で、figürliche Werke は本作家の2欄のみだった。★CLAUDE.md §6『同じ語句が同一作家の別欄にもないか、欄をまたいで数えてから置換表を作る』の再発（第35・36・37束に続き4便連続）",
+ "enteredBy": "翻訳品質T 2026-08-20 第38束(追補)",
+ "patches": [
+  {"handle":"sasamura-sokajin","lang":"de","field":"viewpoint","from":"bei figürlichen Werken wie","to":"bei menschlichen Figuren wie"}
+ ]
+}

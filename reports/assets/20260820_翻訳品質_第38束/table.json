@@ -1,0 +1,300 @@
+{
+ "reason": "第38束＝二重検品667件（★A79件）のうち、日本語原文と1件ずつ照合し、かつ全627名で横断型でないと実測で確かめたものだけを是正する。棄却した横断型13型＝写生→観察系(8名)／簡潔→knapp(21件)／親しまれ→geschätzt(5名)／活躍→destacó(23名)／肉づけ→肉感(4名)／しっとり→moist系(定型)／木の持ち味→es revela el carácter(2名)／洋画家zh_cn西画家(99件)／zh_cn略歴の主語落ち(17名)／大作→主要作品系(6名)／代表取締役(T07)／作品名の初出注釈方針／Maurice de Vlaminck(B1) ／★関所（Codex）が捕まえた是正案自体の欠陥13件を反映して作り直した＝仏像の並列の不揃い(en/fr/es/de)・独語 fortwährend の係り(statement/bio)・独語 Primärfarben の言い回し・英語の語順と throws→channels・仏語 magasin principal de の脱落(bio/viewpoint)・仏語 jette の直訳調・英語 waterside swayed の係り",
+ "enteredBy": "翻訳品質T 2026-08-20 第38束",
+ "patches": [
+  {
+   "handle": "sasaki-shodo",
+   "lang": "de",
+   "field": "bio",
+   "from": "als Lebender Nationalschatz (Träger eines Wichtigen Immateriellen Kulturguts) anerkannt",
+   "to": "als Lebender Nationalschatz anerkannt"
+  },
+  {
+   "handle": "sasaki-shodo",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "auf natürliche Schwingungen, die man dem Metall kaum zutraut",
+   "to": "auf natürliche Kurven, die man dem Metall kaum zutraut"
+  },
+  {
+   "handle": "sasamura-sokajin",
+   "lang": "es",
+   "field": "bio",
+   "from": "realizó figuras modeladas",
+   "to": "realizó figuras humanas mediante el modelado"
+  },
+  {
+   "handle": "sasamura-sokajin",
+   "lang": "de",
+   "field": "bio",
+   "from": "und schuf modellierte figürliche Werke",
+   "to": "und modellierte menschliche Gestalten in Ton"
+  },
+  {
+   "handle": "sasamura-sokajin",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "la quietud interior de su modelo",
+   "to": "la quietud interior de la figura representada"
+  },
+  {
+   "handle": "sasamura-sokajin",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "die innere Stille seines Modells",
+   "to": "die innere Stille der dargestellten Gestalt"
+  },
+  {
+   "handle": "sato-churyo",
+   "lang": "en",
+   "field": "statement",
+   "from": "who continued to depict working people and women",
+   "to": "who continued to sculpt working people and women"
+  },
+  {
+   "handle": "sato-churyo",
+   "lang": "en",
+   "field": "bio",
+   "from": "he kept portraying working people and women",
+   "to": "he kept sculpting working people and women"
+  },
+  {
+   "handle": "sato-churyo",
+   "lang": "es",
+   "field": "statement",
+   "from": "que retrató sin cesar a los trabajadores",
+   "to": "que esculpió sin cesar a los trabajadores"
+  },
+  {
+   "handle": "sato-churyo",
+   "lang": "es",
+   "field": "bio",
+   "from": "retrató sin cesar a los trabajadores",
+   "to": "esculpió sin cesar a los trabajadores"
+  },
+  {
+   "handle": "sato-churyo",
+   "lang": "de",
+   "field": "statement",
+   "from": "der fortwährend arbeitende Menschen und Frauen darstellte",
+   "to": "der arbeitende Menschen und Frauen kontinuierlich bildhauerisch festhielt"
+  },
+  {
+   "handle": "sato-churyo",
+   "lang": "de",
+   "field": "bio",
+   "from": "stellte er fortwährend arbeitende Menschen und Frauen dar",
+   "to": "hielt er arbeitende Menschen und Frauen kontinuierlich bildhauerisch fest"
+  },
+  {
+   "handle": "sato-churyo",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "第二次世界大战中应征入伍",
+   "to": "第二次世界大战中被征召入伍"
+  },
+  {
+   "handle": "sato-churyo",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "第二次世界大戰中應徵入伍",
+   "to": "第二次世界大戰中被徵召入伍"
+  },
+  {
+   "handle": "sato-gengyo",
+   "lang": "fr",
+   "field": "bio",
+   "from": "du grand magasin Mitsukoshi de Nihonbashi",
+   "to": "du magasin principal de Mitsukoshi à Nihonbashi"
+  },
+  {
+   "handle": "sato-gengyo",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "du grand magasin Mitsukoshi",
+   "to": "du magasin principal de Mitsukoshi"
+  },
+  {
+   "handle": "sato-gengyo",
+   "lang": "es",
+   "field": "bio",
+   "from": "de los grandes almacenes Mitsukoshi de Nihonbashi",
+   "to": "de la tienda principal de los grandes almacenes Mitsukoshi de Nihonbashi"
+  },
+  {
+   "handle": "sato-gengyo",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "de los grandes almacenes Mitsukoshi",
+   "to": "de la tienda principal de los grandes almacenes Mitsukoshi"
+  },
+  {
+   "handle": "sato-taisei",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "with grasses and waterside swayed by the storm",
+   "to": "with grasses and flowers swayed by the storm, and the waterside"
+  },
+  {
+   "handle": "sato-taisei",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "d'herbes et de bords d'eau agités par la tempête",
+   "to": "d'herbes, de fleurs et de bords d'eau agités par la tempête"
+  },
+  {
+   "handle": "sato-taisei",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "de hierbas y orillas agitadas por la tormenta",
+   "to": "de hierbas, flores y orillas agitadas por la tormenta"
+  },
+  {
+   "handle": "sato-taisei",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "mit vom Sturm bewegten Gräsern und Gewässern füllt",
+   "to": "mit vom Sturm bewegten Gräsern, Blumen und Uferpartien füllt"
+  },
+  {
+   "handle": "satomi-katsuzo",
+   "lang": "en",
+   "field": "bio",
+   "from": "he painted vigorous works in bold primary colors after his return to Japan",
+   "to": "after his return to Japan he painted works of vigorous brushwork that made full use of primary colors"
+  },
+  {
+   "handle": "satomi-katsuzo",
+   "lang": "fr",
+   "field": "bio",
+   "from": "des œuvres vigoureuses aux couleurs primaires éclatantes",
+   "to": "des œuvres à la touche vigoureuse faisant pleinement usage des couleurs primaires"
+  },
+  {
+   "handle": "satomi-katsuzo",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintó obras vigorosas con colores primarios intensos",
+   "to": "pintó obras de pincelada vigorosa que hacían pleno uso de los colores primarios"
+  },
+  {
+   "handle": "satomi-katsuzo",
+   "lang": "de",
+   "field": "bio",
+   "from": "malte er nach seiner Rückkehr nach Japan kraftvolle Werke in kühnen Primärfarben",
+   "to": "malte er nach seiner Rückkehr nach Japan Werke mit kraftvoller Pinselführung, die die Primärfarben voll ausschöpften"
+  },
+  {
+   "handle": "satomi-katsuzo",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "that throws emotion directly onto the canvas as color",
+   "to": "that channels emotion directly into color"
+  },
+  {
+   "handle": "satomi-katsuzo",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "qui jette l'émotion directement sur la toile sous forme de couleur",
+   "to": "qui jette l'émotion directement sous forme de couleur"
+  },
+  {
+   "handle": "satomi-katsuzo",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "que vuelca la emoción directamente sobre el lienzo como color",
+   "to": "que vuelca la emoción directamente en el color"
+  },
+  {
+   "handle": "satomi-katsuzo",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "das die Empfindung unmittelbar als Farbe auf die Leinwand wirft",
+   "to": "das die Empfindung unmittelbar in Farbe umsetzt"
+  },
+  {
+   "handle": "satomi-katsuzo",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "die den Gegenstand grob erfassen",
+   "to": "die den Gegenstand in großen Zügen erfassen"
+  },
+  {
+   "handle": "sawada-seiko",
+   "lang": "en",
+   "field": "bio",
+   "from": "Centering on wood carvings on Buddhist and mythological themes",
+   "to": "Centering on wood carvings that took Buddhist statues and myths as their subjects"
+  },
+  {
+   "handle": "sawada-seiko",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Centré sur des sculptures sur bois aux thèmes bouddhiques et mythologiques",
+   "to": "Centré sur des sculptures sur bois ayant pour sujets des statues bouddhiques et des mythes"
+  },
+  {
+   "handle": "sawada-seiko",
+   "lang": "es",
+   "field": "bio",
+   "from": "Centrado en tallas en madera de tema budista y mitológico",
+   "to": "Centrado en tallas en madera que tenían por tema estatuas budistas y mitos"
+  },
+  {
+   "handle": "sawada-seiko",
+   "lang": "de",
+   "field": "bio",
+   "from": "Ausgehend von Holzschnitzwerken zu buddhistischen und mythologischen Themen",
+   "to": "Ausgehend von Holzschnitzwerken, die buddhistische Statuen und Mythen zum Thema hatten"
+  },
+  {
+   "handle": "sawada-seiko",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "既发挥木材的本色",
+   "to": "既发挥木材的特质"
+  },
+  {
+   "handle": "sawada-seiko",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "既發揮木材的本色",
+   "to": "既發揮木材的特質"
+  },
+  {
+   "handle": "seike-kiyoshi",
+   "lang": "de",
+   "field": "bio",
+   "from": "darunter sein bekanntestes Werk",
+   "to": "darunter sein Hauptwerk"
+  },
+  {
+   "handle": "seike-kiyoshi",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "Sein bekanntestes Werk, „Mein Haus“",
+   "to": "Sein Hauptwerk, „Mein Haus“"
+  },
+  {
+   "handle": "seike-kiyoshi",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "he also built the \"Seike Laboratory\"",
+   "to": "he also established the \"Seike Laboratory\""
+  },
+  {
+   "handle": "sekine-shoji",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "las figuras cabizbajas encadenadas en fila",
+   "to": "las figuras cabizbajas dispuestas en fila"
+  },
+  {
+   "handle": "sekine-shoji",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "les figures abattues qui se succèdent en file",
+   "to": "les figures à la tête inclinée qui se succèdent en file"
+  }
+ ]
+}

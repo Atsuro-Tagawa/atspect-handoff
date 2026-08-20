@@ -1,0 +1,56 @@
+  0件  ①人間国宝の独語注釈
+  0件  ②曲線→Schwingung
+★16件  ③人物→モデル(es)
+        asakura-fumio[viewpoint.es] ×1
+        yoshida-saburo[bio.es] ×1
+        yoshida-saburo[flat:bio_es] ×1
+        takata-hiroatsu[bio.es] ×1
+        takata-hiroatsu[viewpoint.es] ×1
+        takata-hiroatsu[flat:bio_es] ×1
+        hori-shinji[bio.es] ×1
+        hori-shinji[flat:bio_es] ×1
+        ueno-hikoma[viewpoint.es] ×1
+        uchida-kuichi[viewpoint.es] ×1
+        yasui-nakaji[bio.es] ×1
+        yasui-nakaji[flat:bio_es] ×1
+        hayashi-tadahiko[viewpoint.es] ×1
+        takeishi-kozaburo[viewpoint.es] ×1
+        fujikawa-yuzo[viewpoint.es] ×1
+        otsuka-gen[viewpoint.es] ×1
+★6件  ③人物→モデル(de)
+        takata-hiroatsu[bio.de] ×1
+        takata-hiroatsu[viewpoint.de] ×1
+        hori-shinji[bio.de] ×1
+        hori-shinji[viewpoint.de] ×1
+        takeishi-kozaburo[viewpoint.de] ×1
+        fujikawa-yuzo[viewpoint.de] ×1
+  0件  ④人体像(es)
+  0件  ④人体像(de)
+  0件  ⑤彫り続け(en)
+  0件  ⑤彫り続け(es)
+  0件  ⑤彫り続け(de)
+  0件  ⑥召集(zh_cn)
+  0件  ⑥召集(zh_tw)
+  0件  ⑦草花の花落ち(en)
+  0件  ⑦草花の花落ち(de)
+  0件  ⑧原文にないカンバス(en)
+  0件  ⑧原文にないカンバス(fr)
+  0件  ⑧原文にないカンバス(es)
+  0件  ⑧原文にないカンバス(de)
+  0件  ⑨大づかみ→grob
+  0件  ⑩筆づかい落ち(en)
+  0件  ⑩筆づかい落ち(fr)
+  0件  ⑩筆づかい落ち(es)
+  0件  ⑩筆づかい落ち(de)
+  0件  ⑪仏像→主題(en)
+  0件  ⑪仏像→主題(fr)
+  0件  ⑪仏像→主題(es)
+  0件  ⑪仏像→主題(de)
+  0件  ⑫木の持ち味→本色(zh)
+  0件  ⑫木の持ち味→本色(zh_tw)
+  0件  ⑬代表作→bekanntestes(de)
+  0件  ⑭研究室をbuilt(en)
+  0件  ⑮連なる→encadenadas(人物・es)
+  0件  ⑯うつむき→abattues(fr)
+
+── 旧い形の残存 合計 22 箇所（母集団＝全627名／artist_i18n の全欄＋同名の個別フィールド）

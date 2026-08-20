@@ -1,0 +1,54 @@
+===== 代表取締役 全言語 =====
+     1件  President and Representative Director
+     1件  and he became its representative director
+     1件  He was an architect who served as head of the Osaka branch office of the Junzo Sakakura Architectural Research Institute and later as representative director
+     1件  Representative Director
+
+── zh_cn（2形）
+     3件  代表
+     2件  代表取缔役
+
+── zh_tw（2形）
+     3件  代表
+     2件  代表取締役
+
+── ko（1形）
+     4件  대표이사
+
+── fr（2形）
+     1件  président-directeur
+     1件  Président
+
+── es（1形）
+     1件  Presidente y Director
+
+── de（2形）
+     2件  Präsident
+     2件  Vertretungsdirektor
+===== 木の持ち味 =====
+
+── en（2形）
+     2件  character
+     1件  qualities
+
+── zh_cn（2形）
+     2件  特质
+     1件  本色
+
+── zh_tw（2形）
+     2件  特質
+     1件  本色
+
+── ko（1形）
+     1件  특성
+
+── fr（1形）
+     1件  qualités
+
+── es（2形）
+     2件  carácter
+     1件  cualidades
+
+── de（2形）
+     2件  Charakter
+     1件  charakter

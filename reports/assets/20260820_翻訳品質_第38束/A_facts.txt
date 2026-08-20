@@ -1,0 +1,99 @@
+
+════════ sasaki-shodo（3件）════════
+[1] de 略歴／「Träger eines Wichtigen Immateriellen Kulturguts」／「重要無形文化財の保持者」に相当する説明が原文にないうえ、形容詞の大文字表記も不自然。／括弧内を削除し、「Für das Wachsausschmelzverfahren wurde er als Lebender Nationalschatz anerkannt.」とする。
+[1] de 功績／「natürliche Schwingungen」／「自然な曲線」の誤訳。「Schwingungen」は振動・揺れを意味する。／「natürliche Kurven」または「natürlich wirkende Linien」に直す。
+[2] de 功績／「natürliche Schwingungen」／「自然な曲線」の誤訳で、物体の輪郭に対して「Schwingungen」は不自然。／「natürlich wirkende Rundungen」に直す。
+
+════════ sasamura-sokajin（11件）════════
+[1] es 功績／「buscó recoger la quietud interior de su modelo」／「recoger」はこの文脈では不自然。また、「人物」を「su modelo」とすると、実在のモデルを指す事実が加わる。／「buscó captar la serenidad interior de la figura representada」とする。
+[1] zh_cn 功績／「堆塑泥土的确实肉感」／「たしかな肉づけ」を「确实肉感」とするのは不自然で、「肉感」は原文にない官能的な含意を生じうる。／「堆塑泥土所形成的扎实形体」に直す。
+[1] zh_tw 略歴／「以塑造製作人體像」／「製作」の目的語が人物像の場合は不自然で、「塑造」も技法名であることが伝わりにくい。／「以塑造技法創作人體像」に直す。
+[2] de 所属団体／「im Nihon Bijutsuin」／指定されている初出時の機関説明が抜けている。／「im Nihon Bijutsuin (Japanische Kunstakademie)」に直す。
+[2] de 功績／「die innere Stille seines Modells“ aufzunehmen suchte」／「seines Modells」は、人物が実在のモデルであるという原文にない事実を加えている。また引用符の閉じ方が誤っている。／「die innere Stille der dargestellten Person aufzunehmen suchte」に直し、引用符を「„Zajo“」に統一する。
+[2] de 略歴／「modellierte figürliche Werke」／「塑造による人体像」が、より広い「造形された具象作品」という意味になっており、人体像である事実が不明瞭。／「menschliche Figuren in Ton modellierte」に直す。
+[2] es 功績／「la quietud interior de su modelo」／「人物」が「作者のモデル」に限定されており、原文にない関係が加わっている。／「la quietud interior de la figura」
+[2] es 略歴／「realizó figuras modeladas」／人体像であることが落ちており、「塑造」も単に「造形された」と曖昧になっている。／「realizó figuras humanas mediante el modelado en arcilla」
+[2] zh_cn 功績／「堆塑泥土的确实肉感」／「たしかな肉づけ」の誤訳で、中国語としても不自然。「确实肉感」は「確かな造形による肉づけ」を表していない。／「通过层层添加黏土塑造出的扎实体量感」などに直す。
+[2] zh_cn 略歴／「以塑造制作人体像」／「塑造」が一般動詞にも読め、技法名として不明瞭で言い回しも不自然。／「采用泥塑技法创作人体像」に直す。
+[2] zh_tw 略歴／「以塑造製作人體像」／「以塑造製作」は動詞が重なり、技法名と制作行為の関係が不自然。／「以塑造技法創作人體像」に直す。
+
+════════ sato-churyo（14件）════════
+[1] de 略歴／「stellte er fortwährend arbeitende Menschen und Frauen dar」／「彫り続けた」という事実が弱まり、彫刻による表現であることが落ちている。／「stellte er fortwährend arbeitende Menschen und Frauen bildhauerisch dar」
+[1] de 略歴／「wird er weithin geschätzt」／「広く親しまれている」を「広く高く評価されている」とし、原文にない評価を加えている。／「ist er weithin bekannt」
+[1] de 功績／「die knappen Flächen」／「簡潔にまとめられた面づくり」の誤訳で、単に「狭い面・乏しい面」のように読める。／「die prägnant gestalteten Flächen」
+[1] de 功績／「die feste Präsenz gewöhnlicher Menschen im Alltag」／「im Alltag」は原文にない要素であり、「ふつうに生きる人間」の意味も十分に表していない。／「die spürbare Präsenz von Menschen, die ein gewöhnliches Leben führen」
+[1] en 一言紹介／「“continued to depict working people and women”」／「彫り続けた」が単に「描写し続けた」となり、彫刻による表現であることが落ちている。／“continued to sculpt figures of working people and women”とする。
+[1] en 略歴／「“he kept portraying working people and women”」／「姿を彫り続けた」が「人々を描写し続けた」となり、彫刻したという事実が明確でない。／“he continued to sculpt figures of working people and women”とする。
+[1] zh_cn 功績／「該当箇所：「它并非描绘特殊的英雄」／何が問題か：「它」が「一种目光」を受ける構文として不自然で、「描绘」も原文にない意味を加えている。／どう直すか：「这种目光所关注的并非特殊的英雄」
+[1] zh_tw 略歴／「第二次世界大戰中應徵入伍」／「應徵入伍」は志願・応募の含意があり、「召集され」の誤訳／「第二次世界大戰中應召入伍」
+[2] de 功績／「die knappen Flächen」／「簡潔にまとめられた面づくり」の「つくられた」という意味が落ちており、不自然。／「die prägnant gestalteten Flächen」
+[2] de 略歴／「stellte er fortwährend arbeitende Menschen und Frauen dar」／彫刻したという事実が落ち、「描写した」という一般的な意味になっている。／「hielt er fortwährend arbeitende Menschen und Frauen bildhauerisch fest」
+[2] de 略歴／「wird er weithin geschätzt」／「広く親しまれている」を「広く高く評価されている」としており、原文にない評価を加えている。／「ist er weithin bekannt und vielen vertraut」
+[2] de 一言紹介／「arbeitende Menschen und Frauen darstellte」／彫り続けたという事実が落ちている。／「arbeitende Menschen und Frauen fortwährend bildhauerisch festhielt」
+[2] es 略歴／「retrató sin cesar a los trabajadores y a las mujeres」／「retrató」では、彫刻し続けたという事実が落ちる／「continuó esculpiendo figuras de trabajadores y mujeres」に直す。
+[2] es 一言紹介／「retrató sin cesar a los trabajadores y a las mujeres」／「retrató」では、彫刻し続けたという事実が落ちる／「Un escultor realista que continuó esculpiendo figuras de trabajadores y mujeres」に直す。
+
+════════ sato-gengyo（8件）════════
+[1] en 功績／「“Tennyo (Magokoro) (Celestial Maiden)”」／略歴の “Tennyo (Magokoro) (Celestial Maiden〔Sincerity〕)” と作品名の英訳が不統一。／略歴と同じ “Tennyo (Magokoro) (Celestial Maiden〔Sincerity〕)” に統一する。
+[1] es 略歴／「un seguro don de observación」／「確かな写生力」を単なる「観察の才能」としており、技法上の意味が落ちている／「una sólida capacidad para dibujar del natural」などに直す。
+[1] es 略歴／「obra principal」／「大作」を「主要作品」としており、原文にない序列的評価が加わっている／「obra de gran formato」に直す。
+[1] es 功績／「de los grandes almacenes Mitsukoshi」／原文の「本店」が落ちている／「de la tienda principal de los grandes almacenes Mitsukoshi」に直す。
+[1] fr 略歴／「un sûr don d'observation」／「写生力」が単なる「観察力」となり、描写・造形する能力の意味が落ちている。／「une solide maîtrise du dessin d'après nature」などに直す。
+[1] fr 功績／「fort de son don d'observation」／「写生力」が単なる「観察力」となり、描写・造形する能力の意味が落ちている。／「s'appuyant sur sa solide maîtrise du dessin d'après nature」などに直す。
+[1] fr 功績／「Tennyo (Magokoro) (Déesse céleste)」／略歴の「Tennyo (Magokoro) (Déesse céleste〔Sincérité〕)」と作品名の説明が不統一で、「まごころ」に当たる「Sincérité」が落ちている。／略歴と同じ表記に統一する。
+[2] es 略歴／「obra principal」／「大作」を「主要作品」と取り違えており、原文にない評価を加えている／「una obra de gran formato」に直す。
+
+════════ sato-taisei（13件）════════
+[1] de 功績／「vom Sturm bewegten Gräsern und Gewässern」／「草花」の「花」が落ち、「水辺」が「Gewässer」に取り違えられている。／「vom Sturm bewegten Gräsern und Blumen sowie Uferlandschaften」に直す。
+[1] en 功績／「“grasses and waterside swayed by the storm”」／“grasses” では「草花」の「花」が落ちており、“waterside swayed” も意味的に不自然。／“flowers and grasses swaying in a storm and a waterside setting”
+[1] es 功績／「hierbas y orillas agitadas por la tormenta」／「草花」の「花」が落ちており、「水辺」まで嵐に揺れるという意味になっている／「plantas y flores sacudidas por la tormenta junto al agua」に直す。
+[1] fr 功績／「la composition qui emplit la toile d'herbes et de bords d'eau agités par la tempête」／「草花」の「花」が落ちており、「bords d'eau agités」も不自然／「la composition qui emplit la toile de plantes en fleurs secouées par la tempête et de paysages au bord de l'eau」
+[1] fr 功績／「ainsi qu'à son émotion humide」／「émotion humide」は「しっとりとした情感」の誤訳で、フランス語としても不自然／「ainsi qu'à l'émotion délicate qui s'en dégage」
+[1] zh_cn 略歴／「他在故乡福知山设立公募展，致力于培育后进。」／原文の「など」が落ちており、「培育后进」も不自然。／「他还通过在故乡福知山设立公募展等方式，致力于培养后辈。」に直す。
+[1] zh_tw 略歴／「他在故鄉福知山設立公募展，致力於培育後進。」／原文の「公募展を設けるなど」の「など」が落ちている。／「他在故鄉福知山設立公募展等，致力於培育後進。」とする。
+[2] de 功績／「mit vom Sturm bewegten Gräsern und Gewässern」／「Gräsern」では草花の「花」が落ちており、「Gewässern」は水辺ではなく水域を意味するため誤訳。／「mit vom Sturm bewegten Gräsern und Blumen am Wasser」に直す。
+[2] en 功績／「attending to the composition that fills the picture plane with grasses and waterside swayed by the storm, and to its moist feeling, conveys」／分詞句が文の主語になっており文法的に不自然。「waterside」が嵐に揺れる意味になっているほか、「草花」の「花」が落ちている。「moist feeling」も不自然。／「the composition, which fills the picture plane with storm-tossed grasses and flowers and a waterside scene, and its subdued emotional quality convey」
+[2] es 略歴／「fundiendo en uno el género de aves-y-flores y el paisaje」／「風景画」が単なる「風景」になっており、二つの絵画ジャンルを融合したという事実が不明瞭。／「fusionando la pintura de aves y flores con la pintura de paisaje」に直す。
+[2] fr 功績／「la composition qui emplit la toile d'herbes et de bords d'eau agités par la tempête」／「草花」の「花」が落ちており、水辺自体が嵐に揺れるという不自然な意味になっている。／「la composition qui emplit la toile de plantes et de fleurs secouées par la tempête, ainsi que de paysages au bord de l'eau」
+[2] fr 功績／「son émotion humide」／「しっとりとした情感」の誤訳で、フランス語として不自然。／「la délicatesse de l'émotion qui s'en dégage」
+[2] zh_cn 略歴／「他在故乡福知山设立公募展，致力于培育后进」／原文の「など」に相当する内容が落ちている。／「他还通过在故乡福知山设立公募展等方式，致力于培养后进」に直す。
+
+════════ satomi-katsuzo（14件）════════
+[1] de 略歴／「kraftvolle Werke in kühnen Primärfarben」／「原色を駆使した力づよい筆づかい」が正確に反映されず、筆づかいが落ちている。／「Werke unter intensivem Einsatz von Primärfarben und mit kraftvollem Pinselstrich」
+[1] de 功績／「auf die Leinwand wirft」／原文にない「キャンバスに」という事実が加わり、「感情をそのまま色にぶつける」の意味もずれている。／「das Empfindungen unmittelbar in Farbe zum Ausdruck bringt」
+[1] en 略歴／「he painted vigorous works in bold primary colors」／「力づよい」が修飾する「筆づかい」が落ちており、「bold」は原文にない色彩への評価になっている。／「he painted works in primary colors with vigorous brushwork」に直す。
+[1] en 功績／「throws emotion directly onto the canvas as color」／「canvas」は原文にない具体的な支持体を加えている。／「channels emotion directly into color」に直す。
+[1] es 功績／「sobre el lienzo」／原文にない「キャンバス上に」という事実が加えられている。／「ese temperamento fauvista que expresa directamente las emociones mediante el color」などに直す。
+[1] fr 略歴／「des œuvres vigoureuses aux couleurs primaires éclatantes」／「力づよい筆づかい」が作品自体の性質に変わり、「éclatantes」という原文にない評価が加わっている。／「des œuvres caractérisées par une touche vigoureuse faisant pleinement usage des couleurs primaires」
+[1] fr 功績／「sur la toile」／「キャンバス」という原文にない情報が加わっている。／「sur la toile」を削除する。
+[1] zh_cn 略歴／「該当箇所：「出生于京都的西画家。」／何が問題か：指定語と不一致。また、動詞のない断片で、原文の主語「里見勝蔵」も落ちている。／どう直すか：「里见胜藏是出生于京都的西洋画家。」
+[2] de 功績／「die den Gegenstand grob erfassen」／「grob」は「粗雑に」という否定的な含みがあり、「大づかみにとらえる」の誤訳になりうる。／「die den Gegenstand in großen Zügen erfassen」に直す。
+[2] de 功績／「auf die Leinwand wirft」／「Leinwand」は原文にない事実の追加。／「auf die Leinwand」を削り、例えば「das die Empfindung unmittelbar in Farbe umsetzt」とする。
+[2] de 略歴／「Maurice de Vlaminck」／原文にない名「Maurice de」が追加されている。／「Vlaminck」に直す。
+[2] en 功績／「“throws emotion directly onto the canvas as color”」／「canvas」は原文にない事実。／“expresses emotion directly through color”などに直す。
+[2] fr 功績／「sur la toile」／原文にない「画布に」という事実が加わっている。／削除し、「qui exprime directement l'émotion par la couleur」などとする。
+[2] fr 略歴／「des œuvres vigoureuses aux couleurs primaires éclatantes」／「力づよい筆づかい」が落ち、「éclatantes」という原文にない形容が加わっている。／「des œuvres caractérisées par une touche vigoureuse faisant un large usage des couleurs primaires」などとする。
+
+════════ sawada-seiko（6件）════════
+[1] en 功績／「“the supple lines of the extended body”」／「しなやかにのびる身体の線」を「伸ばされた身体のしなやかな線」と取り違えており、不自然。／“the supple, flowing lines of the body” とする。
+[1] es 略歴／「destacó en los salones oficiales」／「destacó」は原文にない評価を含みうる。／「desarrolló su actividad en los salones oficiales」に直す。
+[1] es 略歴／「tallas en madera de tema budista y mitológico」／「仏像」が「仏教的主題」に一般化され、事実が十分に反映されていない。／「tallas en madera centradas en imágenes budistas y temas mitológicos」に直す。
+[2] es 略歴／「destacó en los salones oficiales」／原文にない「傑出した」という評価が加わっている。／「desarrolló su actividad en los salones oficiales」に直す。
+[2] es 略歴／「revelaba el carácter de la madera」／「木の持ち味をいかす」を「木の性質を明らかにする」と取り違えている。／「aprovechaba las cualidades propias de la madera」に直す。
+[2] zh_cn 略歴／「木材的本色」／「本色」は木材本来の色という意味に読まれ、「木の持ち味」の誤訳。／「木材本身的特质」とする。
+
+════════ seike-kiyoshi（5件）════════
+[1] de 所属団体／「Präsident und Vertretungsdirektor der Design System Co., Ltd.」／原文にない「Präsident」が加えられており、「Vertretungsdirektor」も不自然。／「vertretungsberechtigter Direktor der Design System Co., Ltd.」
+[1] en 功績／「“he also built the "Seike Laboratory"”」／“built”では研究室の建物を建設したという意味に取られ、「築き」の誤訳となる。／“he also established the "Seike Laboratory"”に直す。
+[1] es 所属団体／「Presidente y Director Representante de Design System Co., Ltd.」／「代表取締役」を二つの役職「Presidente」と「Director Representante」に分けており、原文にない役職が加わったように読める。／「Director representante de Design System Co., Ltd.」に直す。
+[2] de 功績／「Sein bekanntestes Werk」／「代表作」を「最も有名な作品」としており、原文にない最上級の評価が加わっている。／「Sein repräsentatives Werk」に直す。
+[2] de 略歴／「sein bekanntestes Werk」／「代表作」を「最も有名な作品」としており、原文にない最上級の評価が加わっている。／「sein repräsentatives Werk」に直す。
+
+════════ sekine-shoji（4件）════════
+[1] es 功績／「las figuras cabizbajas encadenadas en fila」／「encadenadas」は人物が鎖でつながれているという原文にない事実を加えてしまう／「las figuras cabizbajas dispuestas en fila」に直す。
+[1] fr 功績／「les figures abattues」／« abattues » は「意気消沈した」を意味し、「うつむきがち」という人物の姿勢が落ちている。／「les figures à la tête inclinée」
+[2] de 功績／「die gesenkten, in einer Reihe verbundenen Gestalten」／「gesenkten Gestalten」は不自然で、「verbundenen」は人物同士が結合しているという原文にない意味を加える。／「die mit gesenktem Kopf aufgereihten Gestalten」に直す。
+[2] es 功績／「las figuras cabizbajas encadenadas en fila」／*encadenadas* は人物が「鎖でつながれている」という原文にない事実を加えている。／「las figuras cabizbajas dispuestas una tras otra」とする。
+
+════════ sawada-kyoichi（1件）════════
+[2] zh_cn 略歴／「在采访途中于柬埔寨罹难」／「采访途中」は移動の途中という意味になり、取材中という事実を正確に表していない。／「在柬埔寨采访期间罹难」に直す。

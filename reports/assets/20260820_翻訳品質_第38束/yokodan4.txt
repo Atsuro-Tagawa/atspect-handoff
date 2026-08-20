@@ -1,0 +1,40 @@
+===== 彫り続け 他2名の形（en/es/de 全形）=====
+sato-churyo [viewpoint] «esculpiendo» … Fue un escultor que, con un realismo fresco, continuó esculpiendo la figura humana. En figuras femeninas como la serie Bōshi (Sombrero), atender
+── 合計 1件 / 1名 （母集団＝日本語に「彫り続け」がある欄・言語=es）
+sato-churyo [statement] «continued to depict» … A realist sculptor who continued to depict working people and women
+sato-churyo [bio] «kept portraying» … returning home, resumed his work. With an unadorned, fresh realism he kept portraying working people and women. He held the first solo exhibition by a Japanese 
+funakoshi-yasutake [bio] «continued to carve» … ation alongside his close friend Satō Chūryō. Baptized a Catholic, he continued to carve pure figures rooted in the Christian faith. Known for a quiet, prayerfu
+minoru-niizuma [statement] «kept carving» … An abstract sculptor who kept carving stone
+minoru-niizuma [viewpoint] «kept carving» … He was an abstract sculptor who kept carving stone. In his polished stone sculptures, attending to the volume of the smoot
+── 合計 5件 / 3名 （母集団＝日本語に「彫り続け」がある欄・言語=en）
+===== 写生（力） fr/es =====
+── en（7形）
+    31件  sketching
+    10件  observation
+     2件  sketches
+     1件  Sketch
+     1件  sketched
+     1件  sketch
+     1件  sketchbooks
+
+── zh_cn（0形）
+
+── zh_tw（0形）
+
+── ko（0形）
+
+── fr（4形）
+    33件  d'après nature
+    20件  dessin
+     8件  observation
+     2件  don d'observation
+
+── es（5形）
+    21件  del natural
+    18件  dibujo
+    15件  apunte del natural
+     2件  don de observación
+     1件  apuntes del natural
+
+── de（1形）
+    29件  Naturstudium

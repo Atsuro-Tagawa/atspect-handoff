@@ -1,0 +1,7 @@
+===== 材料表に 洋画家zh の型があるか =====
+===== 台帳の 洋画家 =====
+terms.洋画家 {"en":"Yōga (Western-style) Painter","zh_cn":"西洋画家","zh_tw":"西洋畫家","ko":"서양화가","fr":"Peintre de style occidental","es":"Pintor de estilo occidental","fr_f":"Peintre de style occidental","es_f":"Pintora de estilo occidental","de":"Maler im westlichen Stil (Yōga)","de_f":"Malerin im westlichen Stil (Y
+===== 大づかみ の所在 =====
+satomi-katsuzo [viewpoint] «grob» … radezu hinzuwerfen scheint, und die kühnen Formen, die den Gegenstand grob erfassen, so spürt man das fauvistische Temperament, das die Empfindung unmittelbar a
+asada-takashi [viewpoint] «in großen Zügen» … sich bei Werken wie „Hotaka“ der Komposition, die die Form des Berges in großen Zügen ordnet, und den gedämpften Farbflächen zu, vermittelt sich eine Sensibilit
+── 合計 2件 / 2名 （母集団＝日本語に「大づかみ」がある欄・言語=de）
