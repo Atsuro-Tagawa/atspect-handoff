@@ -1,0 +1,817 @@
+[
+ {
+  "lang": "ja",
+  "newVersion": true,
+  "prof": [
+   {
+    "key": "masterworks",
+    "visible": true,
+    "dtVisible": true,
+    "text": "それいゆ、ひまわり"
+   },
+   {
+    "key": "collection",
+    "visible": true,
+    "dtVisible": true,
+    "text": "弥生美術館、中原淳一記念館、世田谷文学館"
+   },
+   {
+    "key": "groups",
+    "visible": true,
+    "dtVisible": true,
+    "text": "ひまわり社"
+   }
+  ],
+  "misc": {
+   "profSectionVisible": true,
+   "bhFlatVisible": null,
+   "statement": {
+    "visible": true,
+    "text": "少女文化を彩った抒情画家・編集者"
+   },
+   "stmtOrig": {
+    "visible": false,
+    "text": ""
+   },
+   "location": {
+    "visible": true,
+    "text": "香川県東かがわ市"
+   },
+   "role": {
+    "visible": true,
+    "text": "挿絵画家（ファッションデザイナー）"
+   },
+   "overflowOk": true,
+   "dataLang": "ja"
+  },
+  "handle": "nakahara-junichi"
+ },
+ {
+  "lang": "en",
+  "newVersion": true,
+  "prof": [
+   {
+    "key": "masterworks",
+    "visible": true,
+    "dtVisible": true,
+    "text": "Soleil, Sunflower"
+   },
+   {
+    "key": "collection",
+    "visible": false,
+    "dtVisible": false,
+    "text": ""
+   },
+   {
+    "key": "groups",
+    "visible": false,
+    "dtVisible": false,
+    "text": ""
+   }
+  ],
+  "misc": {
+   "profSectionVisible": true,
+   "bhFlatVisible": null,
+   "statement": {
+    "visible": true,
+    "text": "A lyrical painter and editor who coloured girls' culture"
+   },
+   "stmtOrig": {
+    "visible": true,
+    "text": "少女文化を彩った抒情画家・編集者"
+   },
+   "location": {
+    "visible": true,
+    "text": "Higashikagawa, Kagawa Prefecture"
+   },
+   "role": {
+    "visible": true,
+    "text": "Illustrator (Fashion Designer)"
+   },
+   "overflowOk": true,
+   "dataLang": "en"
+  },
+  "handle": "nakahara-junichi",
+  "exposure": []
+ },
+ {
+  "lang": "de",
+  "newVersion": true,
+  "prof": [
+   {
+    "key": "masterworks",
+    "visible": true,
+    "dtVisible": true,
+    "text": "Soleil, Sunflower"
+   },
+   {
+    "key": "collection",
+    "visible": false,
+    "dtVisible": false,
+    "text": ""
+   },
+   {
+    "key": "groups",
+    "visible": false,
+    "dtVisible": false,
+    "text": ""
+   }
+  ],
+  "misc": {
+   "profSectionVisible": true,
+   "bhFlatVisible": null,
+   "statement": {
+    "visible": true,
+    "text": "Ein lyrischer Illustrator und Redakteur, der die Mädchenkultur prägte"
+   },
+   "stmtOrig": {
+    "visible": true,
+    "text": "少女文化を彩った抒情画家・編集者"
+   },
+   "location": {
+    "visible": true,
+    "text": "Higashikagawa, Präfektur Kagawa"
+   },
+   "role": {
+    "visible": true,
+    "text": "Illustrator (Modedesigner)"
+   },
+   "overflowOk": true,
+   "dataLang": "de"
+  },
+  "handle": "nakahara-junichi",
+  "exposure": []
+ },
+ {
+  "lang": "ja",
+  "newVersion": true,
+  "prof": [],
+  "misc": {
+   "profSectionVisible": null,
+   "bhFlatVisible": null,
+   "statement": {
+    "visible": true,
+    "text": "祈りの造形・愛しき動物たち"
+   },
+   "stmtOrig": {
+    "visible": false,
+    "text": ""
+   },
+   "location": {
+    "visible": true,
+    "text": "埼玉県"
+   },
+   "role": {
+    "visible": true,
+    "text": "造形作家"
+   },
+   "overflowOk": true,
+   "dataLang": "ja"
+  },
+  "handle": "suzuki-chikako"
+ },
+ {
+  "lang": "en",
+  "newVersion": true,
+  "prof": [],
+  "misc": {
+   "profSectionVisible": null,
+   "bhFlatVisible": null,
+   "statement": {
+    "visible": true,
+    "text": "Forms of Prayer and Beloved Animals"
+   },
+   "stmtOrig": {
+    "visible": true,
+    "text": "祈りの造形・愛しき動物たち"
+   },
+   "location": {
+    "visible": true,
+    "text": "Saitama Prefecture"
+   },
+   "role": {
+    "visible": true,
+    "text": "Sculptural Artist"
+   },
+   "overflowOk": true,
+   "dataLang": "en"
+  },
+  "handle": "suzuki-chikako",
+  "exposure": []
+ },
+ {
+  "lang": "de",
+  "newVersion": true,
+  "prof": [],
+  "misc": {
+   "profSectionVisible": null,
+   "bhFlatVisible": null,
+   "statement": {
+    "visible": true,
+    "text": "Formen des Gebets und geliebte Tiere"
+   },
+   "stmtOrig": {
+    "visible": true,
+    "text": "祈りの造形・愛しき動物たち"
+   },
+   "location": {
+    "visible": true,
+    "text": "Präfektur Saitama"
+   },
+   "role": {
+    "visible": true,
+    "text": "Objektkünstlerin"
+   },
+   "overflowOk": true,
+   "dataLang": "de"
+  },
+  "handle": "suzuki-chikako",
+  "exposure": []
+ },
+ {
+  "lang": "ja",
+  "newVersion": true,
+  "prof": [],
+  "misc": {
+   "profSectionVisible": null,
+   "bhFlatVisible": null,
+   "statement": {
+    "visible": true,
+    "text": "境界を越えていく色彩あふれるガラスの世界"
+   },
+   "stmtOrig": {
+    "visible": false,
+    "text": ""
+   },
+   "location": {
+    "visible": true,
+    "text": "茨城（出生 山形）"
+   },
+   "role": {
+    "visible": true,
+    "text": "ガラス工芸家／グラフィックデザイナー"
+   },
+   "overflowOk": true,
+   "dataLang": "ja"
+  },
+  "handle": "fujishiro-norio"
+ },
+ {
+  "lang": "en",
+  "newVersion": true,
+  "prof": [],
+  "misc": {
+   "profSectionVisible": null,
+   "bhFlatVisible": null,
+   "statement": {
+    "visible": true,
+    "text": "A world of glass brimming with colour, ever crossing boundaries"
+   },
+   "stmtOrig": {
+    "visible": true,
+    "text": "境界を越えていく色彩あふれるガラスの世界"
+   },
+   "location": {
+    "visible": true,
+    "text": "Ibaraki (born in Yamagata)"
+   },
+   "role": {
+    "visible": true,
+    "text": "Glass Artist / Graphic Designer"
+   },
+   "overflowOk": true,
+   "dataLang": "en"
+  },
+  "handle": "fujishiro-norio",
+  "exposure": []
+ },
+ {
+  "lang": "de",
+  "newVersion": true,
+  "prof": [],
+  "misc": {
+   "profSectionVisible": null,
+   "bhFlatVisible": null,
+   "statement": {
+    "visible": true,
+    "text": "Eine Glaswelt voller Farbe, die Grenzen immer weiter überschreitet"
+   },
+   "stmtOrig": {
+    "visible": true,
+    "text": "境界を越えていく色彩あふれるガラスの世界"
+   },
+   "location": {
+    "visible": true,
+    "text": "Ibaraki (geboren in Yamagata)"
+   },
+   "role": {
+    "visible": true,
+    "text": "Glaskünstler / Grafikdesigner"
+   },
+   "overflowOk": true,
+   "dataLang": "de"
+  },
+  "handle": "fujishiro-norio",
+  "exposure": []
+ },
+ {
+  "lang": "ja",
+  "newVersion": true,
+  "prof": [],
+  "misc": {
+   "profSectionVisible": null,
+   "bhFlatVisible": null,
+   "statement": {
+    "visible": true,
+    "text": "原色でおりなす生命のリズム"
+   },
+   "stmtOrig": {
+    "visible": false,
+    "text": ""
+   },
+   "location": {
+    "visible": true,
+    "text": "山形県"
+   },
+   "role": {
+    "visible": true,
+    "text": "洋画家"
+   },
+   "overflowOk": true,
+   "dataLang": "ja"
+  },
+  "handle": "watanabe-genichi"
+ },
+ {
+  "lang": "en",
+  "newVersion": true,
+  "prof": [],
+  "misc": {
+   "profSectionVisible": null,
+   "bhFlatVisible": null,
+   "statement": {
+    "visible": true,
+    "text": "A rhythm of life woven in pure colour"
+   },
+   "stmtOrig": {
+    "visible": true,
+    "text": "原色でおりなす生命のリズム"
+   },
+   "location": {
+    "visible": true,
+    "text": "Yamagata Prefecture"
+   },
+   "role": {
+    "visible": true,
+    "text": "Yōga (Western-style) Painter"
+   },
+   "overflowOk": true,
+   "dataLang": "en"
+  },
+  "handle": "watanabe-genichi",
+  "exposure": []
+ },
+ {
+  "lang": "de",
+  "newVersion": true,
+  "prof": [],
+  "misc": {
+   "profSectionVisible": null,
+   "bhFlatVisible": null,
+   "statement": {
+    "visible": true,
+    "text": "Ein Rhythmus des Lebens, gewebt aus reinen Farben"
+   },
+   "stmtOrig": {
+    "visible": true,
+    "text": "原色でおりなす生命のリズム"
+   },
+   "location": {
+    "visible": true,
+    "text": "Präfektur Yamagata"
+   },
+   "role": {
+    "visible": true,
+    "text": "Maler im westlichen Stil (Yōga)"
+   },
+   "overflowOk": true,
+   "dataLang": "de"
+  },
+  "handle": "watanabe-genichi",
+  "exposure": []
+ },
+ {
+  "lang": "ja",
+  "newVersion": true,
+  "prof": [
+   {
+    "key": "masterworks",
+    "visible": true,
+    "dtVisible": true,
+    "text": "広島平和記念資料館本館（広島県広島市・1955年竣工・現存・重要文化財2006年指定）、香川県庁舎東館（香川県高松市・1958年竣工・現存・重要文化財2022年指定）、国立代々木競技場（東京都渋谷区・1964年竣工・現存・重要文化財2021"
+   },
+   {
+    "key": "collection",
+    "visible": true,
+    "dtVisible": true,
+    "text": "文化庁国立近現代建築資料館"
+   },
+   {
+    "key": "groups",
+    "visible": true,
+    "dtVisible": true,
+    "text": "設計事務所：丹下健三・都市・建築設計研究所（1961年設立）／大学：東京大学教授（1963-1974年）／新日本建築家協会（現・日本建築家協会）発足時会長"
+   }
+  ],
+  "misc": {
+   "profSectionVisible": true,
+   "bhFlatVisible": null,
+   "statement": null,
+   "stmtOrig": null,
+   "location": {
+    "visible": true,
+    "text": "大阪府"
+   },
+   "role": {
+    "visible": true,
+    "text": "建築家"
+   },
+   "overflowOk": true,
+   "dataLang": "ja"
+  },
+  "handle": "tange-kenzo"
+ },
+ {
+  "lang": "en",
+  "newVersion": true,
+  "prof": [
+   {
+    "key": "masterworks",
+    "visible": true,
+    "dtVisible": true,
+    "text": "Hiroshima Peace Memorial Museum Main Building (Hiroshima, Hiroshima Prefecture; completed 1955; extant; Important Cultur"
+   },
+   {
+    "key": "collection",
+    "visible": true,
+    "dtVisible": true,
+    "text": "National Archives of Modern Architecture, Agency for Cultural Affairs"
+   },
+   {
+    "key": "groups",
+    "visible": true,
+    "dtVisible": true,
+    "text": "Design firm: Tange Kenzō Urban and Architectural Design Institute (founded 1961) / University: Professor at the Universi"
+   }
+  ],
+  "misc": {
+   "profSectionVisible": true,
+   "bhFlatVisible": null,
+   "statement": null,
+   "stmtOrig": null,
+   "location": {
+    "visible": true,
+    "text": "Osaka Prefecture"
+   },
+   "role": {
+    "visible": true,
+    "text": "Architect"
+   },
+   "overflowOk": true,
+   "dataLang": "en"
+  },
+  "handle": "tange-kenzo",
+  "exposure": []
+ },
+ {
+  "lang": "de",
+  "newVersion": true,
+  "prof": [
+   {
+    "key": "masterworks",
+    "visible": true,
+    "dtVisible": true,
+    "text": "Hauptgebäude des Hiroshima-Friedensgedenkmuseums (Hiroshima, Präfektur Hiroshima; fertiggestellt 1955; erhalten; Wichtig"
+   },
+   {
+    "key": "collection",
+    "visible": true,
+    "dtVisible": true,
+    "text": "Nationalarchiv für moderne Architektur, Agentur für kulturelle Angelegenheiten"
+   },
+   {
+    "key": "groups",
+    "visible": true,
+    "dtVisible": true,
+    "text": "Büro: Tange Kenzō Institut für Stadt- und Architekturplanung (gegründet 1961) / Universität: Professor an der Universitä"
+   }
+  ],
+  "misc": {
+   "profSectionVisible": true,
+   "bhFlatVisible": null,
+   "statement": null,
+   "stmtOrig": null,
+   "location": {
+    "visible": true,
+    "text": "Präfektur Osaka"
+   },
+   "role": {
+    "visible": true,
+    "text": "Architekt"
+   },
+   "overflowOk": true,
+   "dataLang": "de"
+  },
+  "handle": "tange-kenzo",
+  "exposure": []
+ },
+ {
+  "lang": "ja",
+  "newVersion": true,
+  "prof": [
+   {
+    "key": "masterworks",
+    "visible": true,
+    "dtVisible": true,
+    "text": "祭のよそほひ、宗右衛門町の夕、稽古のひま"
+   },
+   {
+    "key": "collection",
+    "visible": true,
+    "dtVisible": true,
+    "text": "大阪中之島美術館、大阪市美術館"
+   },
+   {
+    "key": "groups",
+    "visible": true,
+    "dtVisible": true,
+    "text": "文展・帝展に出品"
+   }
+  ],
+  "misc": {
+   "profSectionVisible": true,
+   "bhFlatVisible": null,
+   "statement": {
+    "visible": true,
+    "text": "大正の大阪画壇で活躍した女性日本画家"
+   },
+   "stmtOrig": {
+    "visible": false,
+    "text": ""
+   },
+   "location": {
+    "visible": true,
+    "text": "大阪府堺"
+   },
+   "role": {
+    "visible": true,
+    "text": "日本画家"
+   },
+   "overflowOk": true,
+   "dataLang": "ja"
+  },
+  "handle": "shima-seien"
+ },
+ {
+  "lang": "en",
+  "newVersion": true,
+  "prof": [
+   {
+    "key": "masterworks",
+    "visible": true,
+    "dtVisible": true,
+    "text": "Dressed for the Festival, Evening in Sōemonchō, A Pause from Practice"
+   },
+   {
+    "key": "collection",
+    "visible": true,
+    "dtVisible": true,
+    "text": "Nakanoshima Museum of Art, Osaka; Osaka City Museum of Fine Arts"
+   },
+   {
+    "key": "groups",
+    "visible": false,
+    "dtVisible": false,
+    "text": ""
+   }
+  ],
+  "misc": {
+   "profSectionVisible": true,
+   "bhFlatVisible": null,
+   "statement": {
+    "visible": true,
+    "text": "A woman Nihonga painter active in the Osaka art world of the Taishō era"
+   },
+   "stmtOrig": {
+    "visible": true,
+    "text": "大正の大阪画壇で活躍した女性日本画家"
+   },
+   "location": {
+    "visible": true,
+    "text": "Sakai, Osaka Prefecture"
+   },
+   "role": {
+    "visible": true,
+    "text": "Nihonga Painter"
+   },
+   "overflowOk": true,
+   "dataLang": "en"
+  },
+  "handle": "shima-seien",
+  "exposure": []
+ },
+ {
+  "lang": "de",
+  "newVersion": true,
+  "prof": [
+   {
+    "key": "masterworks",
+    "visible": true,
+    "dtVisible": true,
+    "text": "Dressed for the Festival, Evening in Sōemonchō, A Pause from Practice"
+   },
+   {
+    "key": "collection",
+    "visible": true,
+    "dtVisible": true,
+    "text": "Nakanoshima Museum of Art, Osaka; Städtisches Kunstmuseum Ōsaka"
+   },
+   {
+    "key": "groups",
+    "visible": false,
+    "dtVisible": false,
+    "text": ""
+   }
+  ],
+  "misc": {
+   "profSectionVisible": true,
+   "bhFlatVisible": null,
+   "statement": {
+    "visible": true,
+    "text": "Eine Nihonga-Malerin, die im Ōsakaer Kunstkreis der Taishō-Zeit tätig war"
+   },
+   "stmtOrig": {
+    "visible": true,
+    "text": "大正の大阪画壇で活躍した女性日本画家"
+   },
+   "location": {
+    "visible": true,
+    "text": "Sakai, Präfektur Ōsaka"
+   },
+   "role": {
+    "visible": true,
+    "text": "Nihonga-Malerin"
+   },
+   "overflowOk": true,
+   "dataLang": "de"
+  },
+  "handle": "shima-seien",
+  "exposure": []
+ },
+ {
+  "lang": "ja",
+  "newVersion": true,
+  "prof": [
+   {
+    "key": "masterworks",
+    "visible": true,
+    "dtVisible": true,
+    "text": "篆書作品、隷書作品、篆刻作品"
+   },
+   {
+    "key": "collection",
+    "visible": true,
+    "dtVisible": true,
+    "text": "東京国立博物館、成田山書道美術館"
+   },
+   {
+    "key": "groups",
+    "visible": true,
+    "dtVisible": true,
+    "text": "日展、謙慎書道会"
+   }
+  ],
+  "misc": {
+   "profSectionVisible": true,
+   "bhFlatVisible": true,
+   "statement": {
+    "visible": true,
+    "text": "中国書法研究を土台に戦後書壇に携わった書家"
+   },
+   "stmtOrig": {
+    "visible": false,
+    "text": ""
+   },
+   "location": {
+    "visible": true,
+    "text": "東京都"
+   },
+   "role": {
+    "visible": true,
+    "text": "書家／篆刻"
+   },
+   "overflowOk": true,
+   "dataLang": "ja"
+  },
+  "handle": "nishikawa-yasushi"
+ },
+ {
+  "lang": "en",
+  "newVersion": true,
+  "prof": [
+   {
+    "key": "masterworks",
+    "visible": true,
+    "dtVisible": true,
+    "text": "Work in seal script, Work in clerical script, Seal carving"
+   },
+   {
+    "key": "collection",
+    "visible": true,
+    "dtVisible": true,
+    "text": "Tokyo National Museum; Narita-san Calligraphy Museum"
+   },
+   {
+    "key": "groups",
+    "visible": true,
+    "dtVisible": true,
+    "text": "Nitten; Kenshin Calligraphy Society"
+   }
+  ],
+  "misc": {
+   "profSectionVisible": true,
+   "bhFlatVisible": false,
+   "statement": {
+    "visible": true,
+    "text": "A calligrapher who was engaged in the postwar calligraphy world on a foundation "
+   },
+   "stmtOrig": {
+    "visible": true,
+    "text": "中国書法研究を土台に戦後書壇に携わった書家"
+   },
+   "location": {
+    "visible": true,
+    "text": "Tokyo"
+   },
+   "role": {
+    "visible": true,
+    "text": "Calligrapher (Seal Carving)"
+   },
+   "overflowOk": true,
+   "dataLang": "en"
+  },
+  "handle": "nishikawa-yasushi",
+  "exposure": []
+ },
+ {
+  "lang": "de",
+  "newVersion": true,
+  "prof": [
+   {
+    "key": "masterworks",
+    "visible": true,
+    "dtVisible": true,
+    "text": "Work in seal script, Work in clerical script, Seal carving"
+   },
+   {
+    "key": "collection",
+    "visible": true,
+    "dtVisible": true,
+    "text": "Tokyo National Museum (東京国立博物館); Narita-san Kalligrafiemuseum (成田山書道美術館; Narita-san Shodō Bijutsukan)"
+   },
+   {
+    "key": "groups",
+    "visible": true,
+    "dtVisible": true,
+    "text": "Nitten (日展); Kenshin-Kalligrafie-Gesellschaft (謙慎書道会; Kenshin Shodōkai)"
+   }
+  ],
+  "misc": {
+   "profSectionVisible": true,
+   "bhFlatVisible": false,
+   "statement": {
+    "visible": true,
+    "text": "Ein Kalligraf, der sich auf dem Fundament der Erforschung der chinesischen Kalli"
+   },
+   "stmtOrig": {
+    "visible": true,
+    "text": "中国書法研究を土台に戦後書壇に携わった書家"
+   },
+   "location": {
+    "visible": true,
+    "text": "Tokio"
+   },
+   "role": {
+    "visible": true,
+    "text": "Kalligraf (Siegelschneider)"
+   },
+   "overflowOk": true,
+   "dataLang": "de"
+  },
+  "handle": "nishikawa-yasushi",
+  "exposure": [
+   "prof:collection=Tokyo National Museum (東京国立博物館); Narita-",
+   "prof:groups=Nitten (日展); Kenshin-Kalligrafie-Gesells"
+  ]
+ }
+]
