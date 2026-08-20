@@ -1,0 +1,254 @@
+
+════════════════ T01 報道写真に documentary の限定 ════════════════
+
+── en /documentary/ ── 抜き取り4件
+  五姓田 義松[bio]
+    日本語: 五姓田義松は江戸に生まれた洋画家である。父の五姓田芳柳のもとで育ち、チャールズ・ワーグマンにも学んだ。明治初期には肖像、風俗、記録画などを手がけ、のちフランスにも渡った。明治美術会の活動にも関わった。《操芝居》《人物》などに、油彩や水彩による観察の確かさが見られる。神奈川県立歴史博物館などに関連作品が収蔵されている。
+    訳    : In the early Meiji era he produced portraits, genre scenes, and documentary pictures, and later traveled to France.
+  宮本 三郎[bio]
+    日本語: 宮本三郎は石川県小松に生まれた洋画家で、二科会、二紀会で活動した。裸婦、人物、花などを多く描き、人体の量感や明るい色彩を重視した画面が確認できる。戦時下には記録画も制作した。作品には《裸婦》《ジャンヌダルク》《花》がある。
+    訳    : During the war he also produced documentary paintings.
+  田本 研造[bio]
+    日本語: 田本研造は、紀伊国（現在の和歌山県）に生まれた写真家。函館で写真術を身につけ、北海道に拠点を置いた。明治政府の開拓使の依頼などにより、北海道の開拓のようすや、町並み、風景、人々を体系的に撮影した。「北海道写真の祖」とも呼ばれる。当時の北海道を伝える貴重な記録写真を数多く残した。
+    訳    : He left many valuable documentary photographs that convey the Hokkaidō of his time.
+  木村 伊兵衛[bio]
+    日本語: 日本写真家協会の初代会長を務め、報道・記録写真の世界で活動した。
+    訳    : He served as the first president of the Japan Professional Photographers Society and was active in the world of documentary (press) photography.
+
+── en /press photograph/ ── 抜き取り4件
+  名取 洋之助[statement]
+    日本語: 報道写真を日本に根づかせた写真家・編集者
+    訳    : A photographer and editor who established documentary press photography in Japan
+  名取 洋之助[bio]
+    日本語: ドイツで写真を学び、現地の報道写真の手法を身につけて帰国した。
+    訳    : He studied photography in Germany, where he absorbed the methods of documentary press photography before returning home.
+  名取 洋之助[viewpoint]
+    日本語: 報道写真を根づかせた写真家・編集者。
+    訳    : He was a photographer and editor who helped documentary press photography take root.
+  三木 淳[statement]
+    日本語: ライフ誌で活躍した報道写真家
+    訳    : A press photographer who worked for Life magazine
+
+── fr /documentaire/ ── 抜き取り4件
+  五姓田 義松[bio]
+    日本語: 五姓田義松は江戸に生まれた洋画家である。父の五姓田芳柳のもとで育ち、チャールズ・ワーグマンにも学んだ。明治初期には肖像、風俗、記録画などを手がけ、のちフランスにも渡った。明治美術会の活動にも関わった。《操芝居》《人物》などに、油彩や水彩による観察の確かさが見られる。神奈川県立歴史博物館などに関連作品が収蔵されている。
+    訳    : Au début de l'ère Meiji, il a réalisé des portraits, des scènes de mœurs et des images documentaires, et s'est rendu plus tard en France.
+  宮本 三郎[bio]
+    日本語: 宮本三郎は石川県小松に生まれた洋画家で、二科会、二紀会で活動した。裸婦、人物、花などを多く描き、人体の量感や明るい色彩を重視した画面が確認できる。戦時下には記録画も制作した。作品には《裸婦》《ジャンヌダルク》《花》がある。
+    訳    : Pendant la guerre, il réalisa aussi des peintures documentaires.
+  田本 研造[bio]
+    日本語: 田本研造は、紀伊国（現在の和歌山県）に生まれた写真家。函館で写真術を身につけ、北海道に拠点を置いた。明治政府の開拓使の依頼などにより、北海道の開拓のようすや、町並み、風景、人々を体系的に撮影した。「北海道写真の祖」とも呼ばれる。当時の北海道を伝える貴重な記録写真を数多く残した。
+    訳    : Il laissa de nombreuses photographies documentaires précieuses qui rendent compte du Hokkaidō de son temps.
+  木村 伊兵衛[bio]
+    日本語: 日本写真家協会の初代会長を務め、報道・記録写真の世界で活動した。
+    訳    : Il fut le premier président de la Japan Professional Photographers Society et fut actif dans le monde de la photographie documentaire (de presse).
+
+── es /documental/ ── 抜き取り4件
+  五姓田 義松[bio]
+    日本語: 五姓田義松は江戸に生まれた洋画家である。父の五姓田芳柳のもとで育ち、チャールズ・ワーグマンにも学んだ。明治初期には肖像、風俗、記録画などを手がけ、のちフランスにも渡った。明治美術会の活動にも関わった。《操芝居》《人物》などに、油彩や水彩による観察の確かさが見られる。神奈川県立歴史博物館などに関連作品が収蔵されている。
+    訳    : A comienzos de la era Meiji realizó retratos, escenas de costumbres e imágenes documentales, y más tarde viajó a Francia.
+  宮本 三郎[bio]
+    日本語: 宮本三郎は石川県小松に生まれた洋画家で、二科会、二紀会で活動した。裸婦、人物、花などを多く描き、人体の量感や明るい色彩を重視した画面が確認できる。戦時下には記録画も制作した。作品には《裸婦》《ジャンヌダルク》《花》がある。
+    訳    : Durante la guerra realizó también pinturas documentales.
+  田本 研造[bio]
+    日本語: 田本研造は、紀伊国（現在の和歌山県）に生まれた写真家。函館で写真術を身につけ、北海道に拠点を置いた。明治政府の開拓使の依頼などにより、北海道の開拓のようすや、町並み、風景、人々を体系的に撮影した。「北海道写真の祖」とも呼ばれる。当時の北海道を伝える貴重な記録写真を数多く残した。
+    訳    : Dejó numerosas fotografías documentales valiosas que transmiten el Hokkaidō de su época.
+  田本 研造[viewpoint]
+    日本語: 明治の北海道を記録した写真家。開拓のようすを写した写真では、切り開かれていく原野や、建設中の施設、そこに働く人々の姿に注目すると、美しさを見せるためではなく、急速に変わりゆく北海道の姿を、後の世に伝えるために克明に写しとめようとした、記録者としての使命感が感じられる。
+    訳    : En sus fotografías de la colonización de la región, al atender a las tierras que se roturan, las instalaciones en construcción y las personas que allí trabajan, se percibe el sentido del deber de un documentalista: no pa
+
+── de /dokumentarisch/ ── 抜き取り4件
+  五姓田 義松[bio]
+    日本語: 五姓田義松は江戸に生まれた洋画家である。父の五姓田芳柳のもとで育ち、チャールズ・ワーグマンにも学んだ。明治初期には肖像、風俗、記録画などを手がけ、のちフランスにも渡った。明治美術会の活動にも関わった。《操芝居》《人物》などに、油彩や水彩による観察の確かさが見られる。神奈川県立歴史博物館などに関連作品が収蔵されている。
+    訳    : In der frühen Meiji-Zeit schuf er Porträts, Genreszenen und dokumentarische Bilder und reiste später nach Frankreich.
+  宮本 三郎[bio]
+    日本語: 宮本三郎は石川県小松に生まれた洋画家で、二科会、二紀会で活動した。裸婦、人物、花などを多く描き、人体の量感や明るい色彩を重視した画面が確認できる。戦時下には記録画も制作した。作品には《裸婦》《ジャンヌダルク》《花》がある。
+    訳    : Während des Krieges produzierte er auch dokumentarische Gemälde.
+  田本 研造[bio]
+    日本語: 田本研造は、紀伊国（現在の和歌山県）に生まれた写真家。函館で写真術を身につけ、北海道に拠点を置いた。明治政府の開拓使の依頼などにより、北海道の開拓のようすや、町並み、風景、人々を体系的に撮影した。「北海道写真の祖」とも呼ばれる。当時の北海道を伝える貴重な記録写真を数多く残した。
+    訳    : Er hinterließ zahlreiche wertvolle dokumentarische Aufnahmen, die das Hokkaidō seiner Zeit überliefern.
+  木村 伊兵衛[bio]
+    日本語: 日本写真家協会の初代会長を務め、報道・記録写真の世界で活動した。
+    訳    : Er war der erste Präsident der Japan Professional Photographers Society und war in der dokumentarischen Pressefotografie tätig.
+
+════════════════ T02 韓『作品が伝えられる』 ════════════════
+
+── ko /전한다/ ── 抜き取り4件
+  小茂田 青樹[bio]
+    日本語: 小茂田青樹は、埼玉県川越に生まれた日本画家。松本楓湖の画塾に学び、生涯のよき競争相手となる速水御舟とは同じ日に入門したと伝わる。1914年には今村紫紅らの赤曜会に加わり、新しい日本画を志した。のちに日本美術院を舞台として、草花や虫など身近な自然を、細やかな観察と詩情をもって描いた。その叙情的な作風から「詩人画家」とも呼ばれる。《虫魚画巻》などの作品を残したが、1933年に41歳で世を去った。
+    訳    : 마쓰모토 후코의 화숙에서 배웠으며, 평생의 좋은 경쟁 상대가 된 하야미 교슈와 같은 날 입문했다고 전한다.
+  西山 翠嶂[bio]
+    日本語: 《槙》《狗子》などの作品が伝えられる。
+    訳    : 《마키나무》, 《강아지》 등의 작품이 전한다.
+  榊原 紫峰[bio]
+    日本語: 《菜花》《雪庭》などの作品が伝えられる。
+    訳    : 《유채꽃》, 《눈 내린 정원》 등의 작품이 전한다.
+  西村 五雲[bio]
+    日本語: 《秋茄子》などの作品が伝えられる。
+    訳    : 《가을 가지》 등의 작품이 전한다.
+
+── ko /전해진다/ ── 抜き取り4件
+  木村 武山[viewpoint]
+    日本語: 天心のもとに集った画家たちとともに五浦で研鑽を積み、仏画や花鳥画を幅広く手がけた日本画家。《阿房劫火》では、燃えあがる炎の朱色と渦巻くような動きに注目すると、画面に向けられた力強い筆の勢いが伝わる。
+    訳    : 《아방겁화》에서는 타오르는 불꽃의 주홍빛과 소용돌이치는 듯한 움직임에 주목하면, 화면을 향한 힘찬 붓의 기세가 전해진다.
+  小林 古径[viewpoint]
+    日本語: 日本美術院で活動した近代日本画家で、古典に学んだ簡潔な形と澄んだ色調で知られる。輪郭線の細さ、余白の扱い、人物や鳥の姿勢を順に見ると、静かな画面の緊張が伝わる。
+    訳    : 윤곽선의 가늚, 여백의 처리, 인물과 새의 자세를 차례로 보면, 고요한 화면의 긴장이 전해진다.
+  横山 操[viewpoint]
+    日本語: 戦後に青龍社で活動した日本画家で、墨の濃淡と大きな構成による都市・風景表現で知られる。黒の面がどこで重くなり、白い余白がどこで呼吸するかを見ると、画面の力が伝わる。
+    訳    : 검은 면이 어디서 무거워지고 흰 여백이 어디서 숨 쉬는지를 살피면 화면의 힘이 전해진다.
+  中村 大三郎[bio]
+    日本語: 《聖女マリア》などの作品も伝えられる。
+    訳    : 《성녀 마리아》 등의 작품도 전해진다.
+
+════════════════ T06 韓『인간국보』直後の助詞 ════════════════
+
+── ko /인간국보로/ ── 抜き取り4件
+  富本 憲吉[bio]
+    日本語: 色絵磁器で人間国宝に認定され、文化勲章も受けた。
+    訳    : 색회자기로 인간국보로 인정받고 문화훈장도 받았으며, 국화회 창립에도 관여했다.
+  濱田 庄司[bio]
+    日本語: 民芸陶器で人間国宝に認定され、文化勲章を受けた。
+    訳    : 민예 도기로 인간국보로 인정받고 문화훈장을 받았다.
+  荒川 豊蔵[bio]
+    日本語: 桃山陶への深い理解で知られ、志野・瀬戸黒で人間国宝に認定され、文化勲章を受けた。
+    訳    : 모모야마 도자에 대한 깊은 이해로 알려졌으며, 시노·세토구로로 인간국보로 인정받고 문화훈장을 받았다.
+  金重 陶陽[bio]
+    日本語: 備前焼で初の人間国宝に認定された。
+    訳    : 비젠야키로 처음으로 인간국보로 인정받았다.
+
+── ko /인간국보에/ ── 抜き取り4件
+  藤原 雄[bio]
+    日本語: 人間国宝の陶芸家・藤原啓の長男として育ち、父に続いて備前焼の道を歩んだ。
+    訳    : 부자가 함께 비젠야키로 인간국보에 인정되었다.
+  山本 陶秀[bio]
+    日本語: 長く備前焼を支え、その技で人間国宝に認定された。
+    訳    : 오랫동안 비젠야키를 떠받쳤으며, 그 기예로 인간국보에 인정되었다.
+  近藤 悠三[bio]
+    日本語: 染付で人間国宝に認定された。
+    訳    : 소메쓰케로 인간국보에 인정되었다.
+  清水 卯一[bio]
+    日本語: 鉄釉陶器で人間国宝に認定された。
+    訳    : 철유 도기로 인간국보에 인정되었다.
+
+════════════════ T09 独語『箱』 ════════════════
+
+── de /Dosen/ ── 抜き取り4件
+  内藤 四郎[viewpoint]
+    日本語: 象嵌の箱では、地金にはめ込まれた金や銀の文様と、抑えのきいた構成に注目すると、技をひけらかすのではなく、簡潔さのなかに金属どうしの色の対比と品位を生かそうとした、洗練された美意識が感じられる。
+    訳    : Bei seinen eingelegten Dosen richtet sich der Blick auf die in das Grundmetall eingesetzten Motive aus Gold und Silber und auf die zurückhaltende Komposition; darin zeigt sich ein verfeinertes ästhetisches Empfinden, das
+  鹿島 一谷[bio]
+    日本語: 布の織り目のような下地を生かし、繊細で雅やかな装飾を施した飾箱などで知られる。
+    訳    : Ausgehend von einem Grund, der dem Gewebe von Stoff ähnelt, war er für dekorative Dosen mit feinem, anmutigem Ornament bekannt.
+  鹿島 一谷[viewpoint]
+    日本語: 布目象嵌の飾箱では、金属の地に布の織り目のように刻まれた下地と、そこに打ち込まれた金銀の繊細な文様に注目すると、地金にあらかじめ細かな目を立てるという手間をかけることで、薄い金属を貼りつけ、やわらかく雅やかな装飾を生み出そうとした技が感じられる。
+    訳    : Bei seinen dekorativen nunome-zōgan-Dosen richtet sich der Blick auf den wie ein Gewebe in das Metall geschnittenen Grund und auf die feinen, hineingetriebenen Motive aus Gold und Silber; darin zeigt sich ein Handwerk, d
+  帖佐 美行[bio]
+    日本語: 華麗で装飾性ゆたかな香炉や飾箱を制作し、日展を舞台に活躍した。
+    訳    : Er schuf prächtige, reich verzierte Räuchergefäße und dekorative Dosen und war bei der Nitten aktiv, der staatlichen Jahresausstellung für bildende Kunst.
+
+── de /K[äa]sten/ ── 抜き取り4件
+  高野 松山[bio]
+    日本語: 箱や調度を中心に、緻密で品位ある蒔絵を制作した。
+    訳    : Vorwiegend an Kästen und Einrichtungsgegenständen arbeitend, schuf er fein detailliertes, verfeinertes Maki-e.
+  高野 松山[viewpoint]
+    日本語: 蒔絵の箱では、漆の地に金銀の粉で精緻に描き出された文様と、落ち着いた光沢に注目すると、奇抜さを求めず、古くから受け継がれた蒔絵の格式と技法を忠実に守り、品位ある美を保とうとした姿勢が感じられる。
+    訳    : Wer bei seinen Maki-e-Kästen auf die Muster achtet, die fein in Gold- und Silberpulver auf den Urushi-Grund gezeichnet sind, und auf den gedämpften Schimmer, erkennt eine Haltung, die keine Neuerung suchte, sondern die F
+  寺井 直次[viewpoint]
+    日本語: 卵殻をほどこした箱では、漆では表しにくい白を卵の殻で生み出した文様と、金の蒔絵との対比に注目すると、伝統の蒔絵を受け継ぎながら、素材の工夫によって新しい色と質感を加えようとした、ひと工夫きいた美意識が感じられる。
+    訳    : Wer bei seinen mit Eierschale verzierten Kästen auf Muster achtet, die in Eierschale ein in Lack schwer erreichbares Weiß wiedergeben, und auf ihren Kontrast zum Gold-Maki-e, erkennt eine erfinderische Ästhetik, die – wä
+  田口 善国[viewpoint]
+    日本語: 《野原蒔絵小箱》では、金地に表された風に揺れる薄（すすき）や、螺鈿のなかに潜むバッタに注目すると、古典技法の研究と文化財修復で培った確かな技のうえに、自然の観察から新しい意匠を生み出そうとした美意識が感じられる。
+    訳    : Wer bei Nohara Maki-e Kobako (Kleiner Kasten mit Feldmotiv in Maki-e) auf das im Wind wiegende Susuki-Gras auf dem Goldgrund achtet und auf die im Perlmutt verborgene Heuschrecke, erkennt eine Ästhetik, die auf dem siche
+
+════════════════ T12 理事（es） ════════════════
+
+── es /\b[Dd]irector\b/ ── 抜き取り4件
+  西山 翠嶂[bio]
+    日本語: 西山翠嶂は、京都に生まれた日本画家。本名は卯三郎。竹内栖鳳に学び、のちにその娘婿となった。早くから文展で頭角をあらわし、官設の展覧会で活躍する一方、自らの画塾である青甲社を主宰して多くの門人を育てた。京都市立絵画専門学校の校長も務めた。写生を土台に、動物や植物を落ち着いた筆致で描いた。1944年に帝室技芸員、1957年に文化勲章を受けた。《槙》《狗子》などの作品が伝えられる。
+    訳    : Fue director de la Escuela de Pintura de la Ciudad de Kioto.
+  甲斐荘 楠音[bio]
+    日本語: 甲斐荘楠音は、京都に生まれた日本画家。国画創作協会（日本画革新の在野団体）に加わり、第1回展に出品した《横櫛》で注目された。退廃的で妖しい雰囲気をたたえた女性像を描いたことで知られる。昭和のはじめごろから活動の場を映画に移し、監督の溝口健二のもとで時代考証や衣裳の担当をつとめた。手がけた映画の衣裳は、のちにアメリカのアカデミー賞の衣裳部門の候補にもなった。画業は長く忘れられていたが、1970年代から再評価が進んだ。《幻想》《舞ふ》などの
+    訳    : Desde comienzos de la era Shōwa trasladó su actividad al cine, trabajando bajo el director Mizoguchi Kenji en la documentación histórica y el vestuario.
+  和田 英作[statement]
+    日本語: 白馬会で活躍し美術学校長も務めた洋画家
+    訳    : Pintor de estilo occidental activo en el Hakuba-kai y director de una escuela de arte
+  中村 不折[bio]
+    日本語: フランスに留学して西洋画を学び、帰国後は太平洋画会で活動して、その研究所の初代所長を務めた。
+    訳    : Estudió pintura occidental en Francia y, tras regresar al Japón, trabajó en el Taiheiyō Gakai (Sociedad de Pintura del Pacífico), del que dirigió el instituto de investigación como primer director.
+
+── es /junta directiva/ ── 抜き取り2件
+  加藤 栄三[bio]
+    日本語: 日展の評議員や理事を務め、叙情ゆたかな風景画を描いた。
+    訳    : Fue consejero y miembro de la junta directiva del Nitten y pintó paisajes de gran lirismo.
+  水之江 忠臣[bio]
+    日本語: 日本室内設計家協会の理事を務めた。
+    訳    : Fue miembro de la junta directiva de la Asociación Japonesa de Diseñadores de Interiores.
+
+════════════════ T14 es『画面』の訳 ════════════════
+
+── es /lienzo/ ── 抜き取り4件
+  香月 泰男[statement]
+    日本語: シベリア抑留を黒い連作に昇華した画家
+    訳    : Un pintor que transmutó su internamiento en Siberia en una serie de lienzos negros
+  香月 泰男[bio]
+    日本語: 帰国後、その過酷な体験を、黒を基調とした重い画面の連作「シベリア・シリーズ」として描き続けた。
+    訳    : A su regreso dio forma duradera a aquella dura experiencia en la Serie de Siberia, una secuencia de lienzos densos dominados por el negro.
+  香月 泰男[viewpoint]
+    日本語: 自らのシベリア抑留の体験を、黒い画面の連作に描き続けた洋画家。
+    訳    : Fue un pintor de estilo occidental que siguió representando su propio internamiento en Siberia en una serie de lienzos negros.
+  里見 勝蔵[viewpoint]
+    日本語: ヴラマンクに学び、日本にフォービスムの表現を伝えた洋画家の一人とされる。人物や風景を描いた作品では、原色をたたきつけるような奔放な筆と、対象を大づかみにとらえる強い形に注目すると、感情をそのまま色にぶつけるフォービスムの気質が感じられる。
+    訳    : En sus figuras y paisajes, al observar la pincelada libre que parece arrojar el color puro y las formas potentes que captan el motivo a grandes rasgos, se percibe ese temperamento fauvista que vuelca la emoción directame
+
+── es /superficie pictórica/ ── 抜き取り2件
+  杉山 寧[bio]
+    日本語: 岩絵具に砂などを混ぜた厚みのある画面でも知られる。
+    訳    : Sobre una precisa capacidad descriptiva, combinó composiciones audaces, una densa superficie pictórica y un color luminoso en un estilo que fundía realismo y abstracción y que se llamó «formalismo».
+  奥田 元宋[viewpoint]
+    日本語: 《奥入瀬(秋)》などでは、「元宋の赤」と呼ばれる深く燃えるような紅色と、画面を覆う大きな構図に注目すると、自然の生命感を色そのもので表そうとした迫力が感じられる。
+    訳    : En obras como Oirase (otoño), atender al carmesí profundo y encendido llamado «rojo de Gensō» y a la amplia composición que ocupa toda la superficie pictórica transmite la fuerza de su intento de expresar la vitalidad de
+
+── es /composición/ ── 抜き取り4件
+  前田 青邨[bio]
+    日本語: 前田青邨は、岐阜県中津川に生まれた日本画家。梶田半古に学び、日本美術院を舞台に、歴史上の人物や物語を主題とした作品を多く描いた。大和絵など日本の古典の伝統をふまえつつ、明快な構図と装飾性をそなえた新しい歴史画を追求した。1922年には小林古径とともにヨーロッパへ渡り、大英博物館で東洋の古画を模写した。合戦に敗れて洞窟に身を潜める源頼朝の一行を描いた代表作《洞窟の頼朝》は重要文化財に指定されている。晩年には法隆寺金堂壁画の再現や高松塚古墳
+    訳    : Apoyándose en las tradiciones de los clásicos japoneses, entre ellos el yamato-e, persiguió una nueva pintura histórica dotada de una composición lúcida y una cualidad decorativa.
+  小林 古径[bio]
+    日本語: 小林古径は、新潟県高田に生まれた日本画家。梶田半古に学び、日本美術院を主な舞台として活動した。大和絵や古典の絵巻を深く研究し、無駄をそぎ落とした明快な構図と、清らかに澄んだ線描による画風を築いた。1922年には前田青邨とともにヨーロッパへ渡り、大英博物館で東洋の古画を模写した。その様式は、伝統に学びつつ近代的な気品をそなえた新古典として知られる。髪をすく女性を描いた《髪》や、《清姫》《孔雀》などの作品を残し、1950年に文化勲章を受けた
+    訳    : Estudiando a fondo el yamato-e y los rollos pintados clásicos, construyó un estilo marcado por una composición lúcida despojada de lo superfluo y por una línea clara y límpida.
+  速水 御舟[bio]
+    日本語: 初期には対象を克明にとらえる細密な写実を示し、やがて炎や花木、人物を、装飾性と象徴性の強い静かな画面へと組み立てた。
+    訳    : Un rasgo distintivo es la coexistencia de un ojo que escruta el más mínimo detalle con una composición sobria y tensa.
+  中村 岳陵[viewpoint]
+    日本語: 人物や空間を大きく動かさず、線と色面の落ち着きで画面を支える構成に注目したい。
+    訳    : Conviene atender a una composición que, sin poner las figuras ni el espacio en gran movimiento, sostiene la imagen mediante la estabilidad de la línea y los planos de color.
+
+════════════════ T15 『作家の一人』 ════════════════
+
+── en /one of the artists/ ── 抜き取り4件
+  堀内 正和[bio]
+    日本語: 日本の戦後における抽象彫刻に取り組んだ作家の一人とされる。
+    訳    : He is regarded as one of the artists who worked on abstract sculpture in postwar Japan.
+  白髪 一雄[bio]
+    日本語: 具体美術協会の作家の一人。
+    訳    : Kazuo Shiraga was a painter born in Hyōgo Prefecture and one of the artists of the Gutai Art Association.
+  嶋本 昭三[bio]
+    日本語: 具体美術協会の創立に関わった作家の一人。
+    訳    : Shozo Shimamoto was an artist born in Osaka and one of the artists involved in founding the Gutai Art Association.
+  吉田 克朗[bio]
+    日本語: もの派を担った作家の一人とされる。
+    訳    : He is regarded as one of the artists who carried Mono-ha.
+
+── en /one of the members/ ── 抜き取り4件
+  田中 敦子[bio]
+    日本語: 具体美術協会の作家の一人。
+    訳    : Atsuko Tanaka was an artist born in Osaka and one of the members of the Gutai Art Association.
+  元永 定正[bio]
+    日本語: 具体美術協会の作家の一人。
+    訳    : Sadamasa Motonaga was an artist born in Mie Prefecture and one of the members of the Gutai Art Association.
+  村上 三郎[bio]
+    日本語: 具体美術協会の作家の一人。
+    訳    : Saburo Murakami was an artist born in Hyōgo Prefecture and one of the members of the Gutai Art Association.
+  金山 明[bio]
+    日本語: 具体美術協会の作家の一人。
+    訳    : Akira Kanayama was an artist born in Hyōgo Prefecture and one of the members of the Gutai Art Association.

@@ -1,0 +1,91 @@
+
+════ T01 報道写真に documentary の限定 ════
+  en    /documentary/    17件／15欄   例= 五姓田 義松[bio] / 宮本 三郎[bio] / 田本 研造[bio]
+  en    /press photograph/    19件／18欄   例= 名取 洋之助[statement] / 名取 洋之助[bio] / 名取 洋之助[viewpoint]
+  fr    /documentaire/    13件／12欄   例= 五姓田 義松[bio] / 宮本 三郎[bio] / 田本 研造[bio]
+  fr    /photographie de presse/     4件／4欄   例= 三木 淳[bio] / 沢田 教一[bio] / 田村 茂[bio]
+  es    /documental/    18件／16欄   例= 五姓田 義松[bio] / 宮本 三郎[bio] / 田本 研造[bio]
+  es    /fotografía de prensa/     4件／4欄   例= 三木 淳[bio] / 沢田 教一[bio] / 田村 茂[bio]
+  de    /dokumentarisch\w*/    16件／14欄   例= 五姓田 義松[bio] / 宮本 三郎[bio] / 田本 研造[bio]
+  de    /Pressefotograf\w*/    22件／20欄   例= 木村 伊兵衛[bio] / 名取 洋之助[statement] / 名取 洋之助[bio]
+
+════ T02 韓『作品が伝えられる』 ════
+  ko    /전한다/    10件／10欄   例= 小茂田 青樹[bio] / 西山 翠嶂[bio] / 榊原 紫峰[bio]
+  ko    /전해진다/    16件／16欄   例= 木村 武山[viewpoint] / 小林 古径[viewpoint] / 横山 操[viewpoint]
+
+════ T03 帝室技芸員の独語注釈 ════
+  de    /vom Kaiserhaus verliehener Titel/     5件／5欄   例= 海野 清[bio] / 並河 靖之[bio] / 濤川 惣助[bio]
+  de    /Hofkünstler/     9件／9欄   例= 海野 清[bio] / 並河 靖之[statement] / 並河 靖之[bio]
+
+════ T04 西 pintor de nihonga の前置詞 ════
+  es    /pintor(a)? de nihonga/   113件／113欄   例= 狩野 芳崖[role] / 橋本 雅邦[role] / 横山 大観[role]
+  es    /pintor(a)? nihonga/   145件／141欄   例= 橋本 雅邦[bio] / 横山 大観[bio] / 菱田 春草[statement]
+
+════ T05 仏『〜流』を école と訳す ════
+  fr    /école d[eu']/   128件／119欄   例= 狩野 芳崖[bio] / 橋本 雅邦[bio] / 富岡 鉄斎[bio]
+
+════ T06 韓『인간국보』直後の助詞 ════
+  ko    /인간국보로/    45件／45欄   例= 富本 憲吉[bio] / 濱田 庄司[bio] / 荒川 豊蔵[bio]
+  ko    /인간국보에/    27件／27欄   例= 藤原 雄[bio] / 山本 陶秀[bio] / 近藤 悠三[bio]
+
+════ T07 中 代表取締役の訳語 ════
+  zh_cn /代表取缔役/     2件／2欄   例= 西澤文隆[bio] / 西澤文隆[viewpoint]
+  zh_cn /代表董事/     2件／2欄   例= 清家 清[groups] / 西澤文隆[groups]
+  zh_tw /代表取締役/     2件／2欄   例= 西澤文隆[bio] / 西澤文隆[viewpoint]
+  zh_tw /代表董事/     2件／2欄   例= 清家 清[groups] / 西澤文隆[groups]
+
+════ T08 独 第1回の文化勲章 ════
+  de    /Kulturorden/    86件／85欄   例= 横山 大観[bio] / 安田 靫彦[bio] / 前田 青邨[bio]
+
+════ T09 独語『箱』 ════
+  de    /Dosen/    10件／10欄   例= 内藤 四郎[viewpoint] / 鹿島 一谷[bio] / 鹿島 一谷[viewpoint]
+  de    /Kästen/     6件／6欄   例= 高野 松山[bio] / 高野 松山[viewpoint] / 寺井 直次[viewpoint]
+  de    /kästen/     3件／3欄   例= 寺井 直次[bio] / 大場 松魚[viewpoint] / 氷見 晃堂[viewpoint]
+  de    /Kasten/     1件／1欄   例= 田口 善国[viewpoint]
+
+════ T10 指物 ════
+  en    /joinery/     4件／4欄   例= 大野 昭和斎[statement] / 大野 昭和斎[bio] / 大野 昭和斎[viewpoint]
+  en    /sashimono/     3件／3欄   例= 氷見 晃堂[bio] / 大野 昭和斎[bio] / 中臺 瑞真[bio]
+  fr    /menuiser\w*/     3件／3欄   例= 大野 昭和斎[statement] / 大野 昭和斎[viewpoint] / 山口文象[bio]
+  fr    /sashimono/     3件／3欄   例= 氷見 晃堂[bio] / 大野 昭和斎[bio] / 中臺 瑞真[bio]
+  es    /ebanister\w*/     9件／8欄   例= 黒田 辰秋[statement] / 黒田 辰秋[bio] / 黒田 辰秋[viewpoint]
+  es    /sashimono/     3件／3欄   例= 氷見 晃堂[bio] / 大野 昭和斎[bio] / 中臺 瑞真[bio]
+  de    /Tischlerei/     4件／4欄   例= 大野 昭和斎[statement] / 大野 昭和斎[bio] / 大野 昭和斎[viewpoint]
+  de    /[Ss]ashimono/     3件／3欄   例= 氷見 晃堂[bio] / 大野 昭和斎[bio] / 中臺 瑞真[bio]
+
+════ T11 臨書 es ════
+  es    /estudio(s)? caligráfico(s)?/    11件／11欄   例= 比田井 天来[statement] / 比田井 天来[bio] / 比田井 天来[viewpoint]
+  es    /copia(s)?/    20件／17欄   例= 前田 青邨[bio] / 入江 波光[bio] / 橋本 明治[bio]
+
+════ T12 理事 es ════
+  es    /[Dd]irector\b/    26件／23欄   例= 西山 翠嶂[bio] / 甲斐荘 楠音[bio] / 和田 英作[statement]
+  es    /junta directiva/     2件／2欄   例= 加藤 栄三[bio] / 水之江 忠臣[bio]
+  es    /miembro de la junta/     2件／2欄   例= 加藤 栄三[bio] / 水之江 忠臣[bio]
+
+════ T13 二科会 ════
+  ko    /니카회/    59件／57欄   例= 古賀 春江[groups] / 林 武[groups] / 児島 善三郎[bio]
+  ko    /니카카이/     8件／8欄   例= 関根 正二[groups] / 藤田 嗣治[groups] / 佐伯 祐三[groups]
+  fr    /Association Nika/    37件／37欄   例= 古賀 春江[groups] / 林 武[groups] / 児島 善三郎[bio]
+  fr    /Nika Association/    28件／27欄   例= 関根 正二[groups] / 藤田 嗣治[groups] / 佐伯 祐三[groups]
+  es    /Asociación Nika/    37件／37欄   例= 古賀 春江[groups] / 林 武[groups] / 児島 善三郎[bio]
+  es    /Nika Association/    28件／27欄   例= 関根 正二[groups] / 藤田 嗣治[groups] / 佐伯 祐三[groups]
+  de    /Nika-Vereinigung/    51件／51欄   例= 関根 正二[groups] / 藤田 嗣治[groups] / 佐伯 祐三[groups]
+  de    /Künstlervereinigung Nika/    13件／13欄   例= 鈴木 信太郎[bio] / 鈴木 信太郎[groups] / 津田 青楓[statement]
+
+════ T14 es『画面』の訳 ════
+  es    /lienzo/    21件／21欄   例= 香月 泰男[statement] / 香月 泰男[bio] / 香月 泰男[viewpoint]
+  es    /superficie pictórica/     2件／2欄   例= 杉山 寧[bio] / 奥田 元宋[viewpoint]
+
+════ T15 『作家の一人』 ════
+  en    /one of the artists/     8件／8欄   例= 堀内 正和[bio] / 白髪 一雄[bio] / 嶋本 昭三[bio]
+  en    /one of the members/     7件／7欄   例= 田中 敦子[bio] / 元永 定正[bio] / 村上 三郎[bio]
+  fr    /l'un des artistes/    10件／10欄   例= 堀内 正和[bio] / 白髪 一雄[bio] / 嶋本 昭三[bio]
+  fr    /l'un des membres/     7件／7欄   例= 元永 定正[bio] / 村上 三郎[bio] / 金山 明[bio]
+  de    /einer der Künstler/     7件／7欄   例= 堀内 正和[bio] / 白髪 一雄[bio] / 吉田 克朗[bio]
+  de    /eines der Mitglieder/     7件／7欄   例= 田中 敦子[bio] / 元永 定正[bio] / 村上 三郎[bio]
+  es    /uno de los artistas/    10件／10欄   例= 堀内 正和[bio] / 白髪 一雄[bio] / 嶋本 昭三[bio]
+  es    /uno de los miembros/     2件／2欄   例= 吉田 稔郎[bio] / 北代 省三[bio]
+
+════ T16 具体美術協会の韓国語 ════
+  ko    /구체미술협회/    26件／26欄   例= 吉原 治良[statement] / 吉原 治良[bio] / 吉原 治良[viewpoint]
+  ko    /구타이/     5件／4欄   例= ヨシダ ミノル[statement] / ヨシダ ミノル[bio] / ヨシダ ミノル[viewpoint]

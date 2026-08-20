@@ -1,0 +1,76 @@
+代表作(配列)の romaji 値＝1253件
+
+【A】romaji と en が同一＝ローマ字が日本語の読みでない疑い（53件）
+  小林 古径      ja=「清姫」  romaji=「Kiyohime」  en=「Kiyohime」
+  堂本 印象      ja=「木華開耶媛」  romaji=「Konohanasakuya-hime」  en=「Konohanasakuya-hime」
+  中村 大三郎     ja=「ピアノ」  romaji=「Piano」  en=「Piano」
+  山本 芳翠      ja=「浦島」  romaji=「Urashima」  en=「Urashima」
+  青木 繁       ja=「大穴牟知命」  romaji=「Ōanamuchi no Mikoto」  en=「Ōanamuchi no Mikoto」
+  安井 曾太郎     ja=「金蓉」  romaji=「Kinyō」  en=「Kinyō」
+  須田 国太郎     ja=「信楽」  romaji=「Shigaraki」  en=「Shigaraki」
+  児島 善三郎     ja=「箱根」  romaji=「Hakone」  en=「Hakone」
+  高畠 達四郎     ja=「信濃」  romaji=「Shinano」  en=「Shinano」
+  荻原 守衛      ja=「文覚」  romaji=「Mongaku」  en=「Mongaku」
+  米原 雲海      ja=「善那」  romaji=「Zenna」  en=「Zenna」
+  飯田 善國      ja=「XYZ」  romaji=「XYZ」  en=「XYZ」
+  イサム・ノグチ    ja=「AKARI」  romaji=「AKARI」  en=「AKARI」
+  保田 龍門      ja=「レリーフ」  romaji=「Relief」  en=「Relief」
+  小宮 康助      ja=「行儀」  romaji=「Gyōgi」  en=「Gyōgi」
+  蓮田 修吾郎     ja=「金澂」  romaji=「Kinchō」  en=「Kinchō」
+  木村 伊兵衛     ja=「秋田」  romaji=「Akita」  en=「Akita」
+  土門 拳       ja=「ヒロシマ」  romaji=「Hiroshima」  en=「Hiroshima」
+  名取 洋之助     ja=「NIPPON」  romaji=「Nippon」  en=「Nippon」
+  東松 照明      ja=「OKINAWA」  romaji=「OKINAWA」  en=「OKINAWA」
+  中平 卓馬      ja=「プロヴォーク」  romaji=「Provoke」  en=「Provoke」
+  田淵 行男      ja=「安曇野」  romaji=「Azumino」  en=「Azumino」
+  長野 重一      ja=「ドリームエイジ」  romaji=「Dream Age」  en=「Dream Age」
+  牛腸 茂雄      ja=「SELF AND OTHERS」  romaji=「SELF AND OTHERS」  en=「SELF AND OTHERS」
+  細江 英公      ja=「鎌鼬」  romaji=「Kamaitachi」  en=「Kamaitachi」
+  篠山 紀信      ja=「シルクロード」  romaji=「Silk Road」  en=「Silk Road」
+  須田 一政      ja=「風姿花伝」  romaji=「Fūshi Kaden」  en=「Fūshi Kaden」
+  倉田 精二      ja=「FLASH UP」  romaji=「FLASH UP」  en=「FLASH UP」
+  山沢 栄子      ja=「What I Am Doing」  romaji=「What I Am Doing」  en=「What I Am Doing」
+  山名 文夫      ja=「花椿」  romaji=「Hanatsubaki」  en=「Hanatsubaki」
+  原 弘        ja=「NIPPON」  romaji=「NIPPON」  en=「NIPPON」
+  田中 一光      ja=「無印良品」  romaji=「MUJI」  en=「MUJI」
+  福田 繁雄      ja=「VICTORY 1945」  romaji=「VICTORY 1945」  en=「VICTORY 1945」
+  仲條 正義      ja=「花椿」  romaji=「Hanatsubaki」  en=「Hanatsubaki」
+  柳 宗理       ja=「バタフライスツール」  romaji=「Butterfly Stool」  en=「Butterfly Stool」
+  渡辺 力       ja=「トリイスツール」  romaji=「Torii Stool」  en=「Torii Stool」
+  倉俣 史朗      ja=「ミス・ブランチ」  romaji=「Miss Blanche」  en=「Miss Blanche」
+  豊口 克平      ja=「スポークチェア」  romaji=「Spoke Chair」  en=「Spoke Chair」
+  三宅 一生      ja=「プリーツ・プリーズ」  romaji=「Pleats Please」  en=「Pleats Please」
+  中原 淳一      ja=「それいゆ」  romaji=「Soleil」  en=「Soleil」
+  河原 温       ja=「I Got Up」  romaji=「I Got Up」  en=「I Got Up」
+  河原 温       ja=「I Am Still Alive」  romaji=「I Am Still Alive」  en=「I Am Still Alive」
+  鬼頭 鍋三郎     ja=「舞妓」  romaji=「Maiko」  en=「Maiko」
+  奥田 元宋      ja=「磐梯」  romaji=「Bandai」  en=「Bandai」
+  藤川 勇造      ja=「スザンヌ」  romaji=「Suzanne」  en=「Suzanne」
+  吾妻 兼治郎     ja=「MU」  romaji=「MU」  en=「MU」
+  吾妻 兼治郎     ja=「YU」  romaji=「YU」  en=「YU」
+  平良 敏子      ja=「芭蕉布着物」  romaji=「Bashōfu Kimono」  en=「Bashōfu Kimono」
+  与那嶺 貞      ja=「読谷山花織着物」  romaji=「Yuntanza Hanaori Kimono」  en=「Yuntanza Hanaori Kimono」
+  師岡 宏次      ja=「銀座」  romaji=「Ginza」  en=「Ginza」
+  ヨシダ ミノル    ja=「バイセクシュアル・フラワー」  romaji=「Bisexual Flower」  en=「Bisexual Flower」
+  内藤 ルネ      ja=「ルネパンダ」  romaji=「Rune Panda」  en=「Rune Panda」
+  原田 治       ja=「オサムグッズ」  romaji=「Osamu Goods」  en=「Osamu Goods」
+
+【B】romaji に英単語が混ざっている（18件）
+  篠山 紀信      ja=「女優シリーズ」  romaji=「Joyū Series」  en=「Actress Series」
+  山城 隆一      ja=「森林（タイポグラフィ）」  romaji=「Shinrin (typography)」  en=「Forest (typography)」
+  花森 安治      ja=「表紙画・誌面デザイン」  romaji=「Hyōshi-ga, shimen design」  en=「cover paintings and page layouts」
+  今竹 七郎      ja=「オーバンドのパッケージ」  romaji=「Ō-band no package」  en=「the O-Band rubber band package」
+  大橋 正       ja=「食材のイラストレーション」  romaji=「Shokuzai no illustration」  en=「illustrations of food ingredients」
+  榮久庵 憲司     ja=「工業製品のデザイン」  romaji=「Kōgyō seihin no design」  en=「designs for manufactured products」
+  豊口 克平      ja=「家具・日用品のデザイン」  romaji=「Kagu, nichiyōhin no design」  en=「designs for furniture and everyday goods」
+  長 大作       ja=「家具のデザイン」  romaji=「Kagu no design」  en=「furniture designs」
+  桑沢 洋子      ja=「桑沢デザイン研究所の創立」  romaji=「Kuwasawa Design Kenkyūjo no sōritsu」  en=「Founding of the Kuwasawa Design School」
+  桑沢 洋子      ja=「服飾デザイン」  romaji=「Fukushoku design」  en=「Fashion design」
+  今井 俊満      ja=「花鳥風月シリーズ」  romaji=「Kachō Fūgetsu Series」  en=「Flowers, Birds, and the Seasons Series」
+  斎藤 真一      ja=「瞽女シリーズ」  romaji=「Goze Series」  en=「The Goze Series」
+  長友 啓典      ja=「広告デザイン」  romaji=「Kōkoku design」  en=「Advertising design」
+  灘本 唯人      ja=「雑誌・広告のイラスト」  romaji=「Zasshi, kōkoku no illustration」  en=「Magazine and advertising illustrations」
+  戸田 ツトム     ja=「書籍・雑誌のデザイン」  romaji=「Shoseki, zasshi no design」  en=「Book and magazine designs」
+  永井 一正      ja=「LIFEシリーズ（動物のポスター）」  romaji=「LIFE series (dōbutsu no poster)」  en=「LIFE series (animal posters)」
+  大智 浩       ja=「色彩・デザインの著作」  romaji=「Shikisai Design no Chosaku」  en=「Writings on Color and Design」
+  小池 岩太郎     ja=「工業製品のデザイン」  romaji=「Kōgyō Seihin no Design」  en=「Industrial Product Design」
