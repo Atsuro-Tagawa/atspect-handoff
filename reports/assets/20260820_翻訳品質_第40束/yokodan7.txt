@@ -1,0 +1,36 @@
+===== 代表作 es =====
+日本語に「代表作」がある欄＝51欄／50名
+
+── en（0形）
+── es（6形）
+    14件  obra representativa
+    12件  obras representativas
+     5件  Su obra principal
+     4件  obra emblemática
+     2件  su obra principal
+     1件  obra principal
+
+── de（0形）
+===== 金地 =====
+── zh_cn（2形）
+     3件  金地
+     1件  映于金地
+
+── zh_tw（1形）
+     4件  金地
+
+── ko（1形）
+     1件  금빛 바탕
+
+── fr（1形）
+     4件  fond d'or
+
+── es（1形）
+     2件  fondo dorado
+
+── de（1形）
+     2件  Goldgrund
+===== 教授 fr/en（篠原）の欄間 =====
+--[ja]-- 大学：東京工業大学助手→助教授(1962年)→教授(1970年)、定年退官(1986年)／日本建築学会賞(1972年)・日本建築学会大賞(2005年)受賞
+--[en]-- University: Research Associate at Tokyo Institute of Technology → Associate Professor (1962) → Professor (1970); retired (1986) / Received the Architectural Institute of Japan Prize (1972) and the Grand Prize of the Architectural Institute of Japan (2005)
+--[fr]-- Université : assistant de recherche à l'Institut de technologie de Tokyo → professeur associé (1962) → professeur (1970), retraité (1986) / Lauréat du Prix de l'Architectural Institute of Japan (1972) et du Grand Prix de l'Architectural Institute of Japan (2005)

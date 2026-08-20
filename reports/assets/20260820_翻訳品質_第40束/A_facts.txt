@@ -1,0 +1,112 @@
+
+════════ shimomura-kanzan（6件）════════
+[1] es 一言紹介／「Un pintor nihonga que revivió las técnicas clásicas para la era moderna」／指定訳「Pintor de nihonga」と異なり、「de」が抜けている。また「para」は「近代のために」という意味になり、原文の「近代に」とずれる／「Un pintor de nihonga que revivió las técnicas clásicas en la era moderna」
+[1] es 略歴／「fue un pintor nihonga」／指定訳「Pintor de nihonga」と異なり、「de」が抜けている／「fue un pintor de nihonga」
+[1] ko 功績／「금빛 바탕에 비치는 석양의 표현」／「金地に映える夕日」を「金色の地に映る夕日」という意味に取り違えている。／「금빛 바탕에서 돋보이는 석양의 표현」に直す。
+[1] zh_cn 功績／「映于金地的夕阳表现」／「映于金地」は金地に夕日が映り込む意味になり、「金地に映える」の誤訳。また「夕阳表现」は不自然。／「在金地映衬下格外鲜明的夕阳」に直す。
+[2] de 略歴／「ging er auch nach Großbritannien」／留学したという事実が「英国へ行った」としか訳されておらず、学業目的が落ちている。／「studierte er auch in Großbritannien」に直す。
+[2] en 略歴／「“he also went to Britain”」／「留学した」という事実が落ちている。／“he also studied in Britain”に直す。
+
+════════ shimooka-renjo（9件）════════
+[1] fr 功績／「transmit son métier à de nombreux élèves」／「son métier」は「職業」を意味し、「技を伝えた」の誤訳／「transmit son savoir-faire à de nombreux élèves」に直す。
+[1] ko 功績／「격식 차린 인물의 모습」／助詞が抜けており不自然。／「격식을 차린 인물의 모습」に直す。
+[1] ko 功績／「새로운 「사조(寫照)」로서」／「写し絵」を「사조(寫照)」とするのは語の取り違えで、韓国語としても意味が伝わりにくい。台帳に訳語がないため、人による訳語確認が必要。／
+[2] de 功績／「wie er an die Stelle der Malerei eine neue Art des Abbilds setzte」／写真そのものではなく「新しい種類の像」を絵画に置き換えたという意味になっており、「写真を根づかせた」という事実も明確に表されていない。／「wie er die Fotografie als neues „Abbild“ anstelle der Malerei etablierte」に直す。
+[2] es 略歴／「difundía la fotografía por todo Japón」／「写真術」が他箇所の「arte fotográfico」と不統一。また「por todo Japón」は原文にない範囲の強調。／「difundía el arte fotográfico en Japón」に直す。
+[2] fr 功績／「transmit son métier à de nombreux élèves」／「技」を「職業」としており、語の取り違え。／「transmit son savoir-faire à de nombreux élèves」
+[2] fr 略歴／「en diffusant la photographie à travers le Japon」／「à travers le Japon」は「日本全国に」という原文にない広がりを加えている。／「en diffusant l'art photographique au Japon」
+[2] ko 功績／「「사조(寫照)」」／「写し絵」の誤訳で、「写真」という意味が伝わらない。／「「사진」」に直す。
+[2] zh_cn 略歴／「制作了描绘横滨风物的『横滨写真』」／写真について「制作」「描绘」としたため、「横浜の風物を写した（撮影した）」という事実が不明瞭。／「还拍摄了展现横滨风物的『横滨写真』」に直す。
+
+════════ shinkai-taketaro（10件）════════
+[1] en 功績／「“the soft mass of the nude body”」／「やわらかな裸体の量感」の誤訳に近く、“mass”では造形上の量感が適切に伝わらない。／“the softly modeled volume of her nude body”とする。
+[1] es 略歴／「se conserva en un modelo de yeso declarado Bien Cultural Importante」／作品が石膏模型の形で保存されているという原文にない事実を加えており、「石膏の原型」が指定されているという事実を正確に表していない。／「cuyo modelo original en yeso está declarado Bien Cultural Importante」とする。
+[1] ko 略歴／「이후 서양 조각을 배웠고」／「洋風彫刻」が「西洋彫刻」と同じ訳になり、意味の違いが落ちている。／「이후 서양식 조각을 배웠고」に直す。
+[2] de 略歴／「ist als Gipsmodell erhalten, das als Wichtiges Kulturgut ausgewiesen ist」／原文にない「現存している」という事実が加わり、「石膏の原型」も単なる「Gipsmodell」になっている。／「Das Gipsoriginal dieses Werks ist als Wichtiges Kulturgut ausgewiesen」に直す。
+[2] en 略歴／「“survives in a plaster model designated an Important Cultural Property”」／原文は「石膏の原型が重要文化財に指定されている」であり、“survives” という原文にない事実が加わっている。また、指定対象が間接的で不明瞭。／“Its original plaster model is designated an Important Cultural Property.” に直す。
+[2] es 略歴／「estudió después la escultura occidental」／原文の「洋風彫刻」と、その後の「西洋彫刻」が同じ語に訳され、区別が落ちている／前者を「estudió después la escultura de estilo occidental」とする
+[2] es 略歴／「Su obra principal Yuami (El baño)」／「代表作」を「obra principal」とすると「最も主要な作品」という原文にない序列的評価になる／「Una de sus obras representativas, Yuami (El baño)」
+[2] fr 略歴／「subsiste dans un modèle en plâtre classé bien culturel important」／原型そのものが重要文化財に指定されているという事実を正確に表しておらず、「subsiste」という原文にない事実も加わっている。／「dont le modèle original en plâtre est classé bien culturel important」とする。
+[2] zh_cn 功績／「他研习西洋雕塑，支撑了官展的雕塑。」／「彫刻家」という事実が落ちており、「支撑了官展的雕塑」も不自然。／「他曾是一位研习西洋雕塑、为官展雕塑的发展提供支持的雕塑家。」
+[2] zh_tw 功績／「他研習西洋雕塑，支撐了官展的雕塑。」／原文の「彫刻家」が抜けている。また「支撐了官展的雕塑」は不自然。／「他是研習西洋雕塑、支撐官展雕塑發展的雕塑家。」に直す。
+
+════════ shinkai-takezo（6件）════════
+[1] es 略歴／「figuras de frescura」／「人体像」の「人体」が落ちており、表現も不自然。／「figuras humanas frescas」に直す。
+[1] zh_cn 功績／「他融合木雕与塑造的感觉，活跃于院展」／原文の「彫刻家」が落ちている。／「他曾是一位融合木雕与塑造的感觉、活跃于院展的雕塑家」に直す。
+[1] zh_tw 功績／「便能體味他將塑造中養成的量感把握引入木雕，力圖塑造清澈而靜謐的人物像的姿態」／「體味」「量感把握」「清澈的人物像」「塑造……的姿態」の組み合わせが不自然で、「塑造」は技法名と一般動詞が重なって紛らわしい。／「便能感受到他將在塑造中培養出的量感掌握方式引入木雕，試圖創作出純淨而靜謐人物像的態度」とする。
+[2] es 功績／「creando figuras puras y silenciosas」／「人体像」の「人体」が落ちており、「silenciosas」は人物像の「静かな」という性質には不自然／「y crear figuras humanas puras y serenas」とする。
+[2] es 略歴／「figuras de frescura」／「清新な人体像」の「人体」が落ちており、「figuras de frescura」も不自然／「figuras humanas de una frescura renovadora」などとする。
+[2] zh_cn 功績／「他融合木雕与塑造的感觉，活跃于院展。」／「彫刻家」という事実が落ちている。また「融合……的感觉」は不自然。／「他是一位融合木雕与塑造感受、活跃于院展的雕塑家。」に直す。
+
+════════ shinoda-toko（2件）════════
+[1] de 略歴／「über das hundertste Lebensjahr hinaus weiter geschaffen zu haben」／「weiter geschaffen」は不自然で、百歳を超えて制作を続けたという事実が明瞭に伝わりにくい。／「dass sie auch nach ihrem hundertsten Geburtstag weiter künstlerisch tätig war」
+[2] de 略歴／「Lithografien」／原文にある「版画」という説明が落ちている。／「Lithografien (Druckgrafiken)」
+
+════════ shinohara-kazuo（25件）════════
+[1] de 略歴／「trat 1950 in die Architekturabteilung des Tokyo Institute of Technology ein」／「学士入学」という入学形態が落ちている。／「wurde 1950 als Hochschulabsolvent in die Architekturabteilung des Tokyo Institute of Technology aufgenommen」とする。
+[1] de 略歴／「trat 1986 in den Ruhestand」／定年による退官であることが落ちている。／「wurde 1986 mit Erreichen der Altersgrenze emeritiert」とする。
+[1] de 所属団体／「Eintritt in den Ruhestand (1986)」／定年による退官であることが落ちている。／「Emeritierung mit Erreichen der Altersgrenze (1986)」とする。
+[1] en 略歴／「“as an undergraduate transfer student”」／「学士入学」を「編入学生」としており、制度の取り違えです。／“under its bachelor’s-degree admission system” などに直す。
+[1] en 略歴／「“retired in 1986”」／「定年退官」の「定年」が落ちています。／“retired upon reaching the mandatory retirement age in 1986” に直す。
+[1] en 所属団体／「“retired (1986)”」／「定年退官」の「定年」が落ちています。／“retired upon reaching the mandatory retirement age (1986)” に直す。
+[1] es 功績／「de una forma propia y distintiva」／「distintiva」は原文にない評価を加えている。／「de una forma propia」とする。
+[1] fr 略歴／「il intègre en 1950 le département d'architecture de l'Institut de technologie de Tokyo」／「学士入学」に当たる事実が落ちている。／学士入学であったことを明示する。
+[1] fr 所属団体／「assistant de recherche」／原文の「助手」にない「研究」の意味が加わっており、略歴の「assistant」とも不統一。／「assistant」とする。
+[1] zh_cn 略歴／「1950年转入东京工业大学建筑学科」／「学士入学」が「转入」と誤訳され、学士入学という事実が落ちている／「1950年以学士身份进入东京工业大学建筑学科学习」
+[1] zh_cn 略歴／「1986年退休」／「定年退官」の「定年」の情報が落ちている／「1986年到龄退休」
+[1] zh_cn 所属団体／「退休（1986年）」／「定年退官」の「定年」の情報が落ちている／「到龄退休（1986年）」
+[1] zh_tw 略歴／「1950年轉入東京工業大學建築學科」／「轉入」は編入・転入を意味し、「学士入学」という事実が正確に表されていない。／「1950年以學士身分進入東京工業大學建築學科就讀」
+[1] zh_tw 略歴／「1986年退休」／「定年退官」の「定年」の情報が落ちている。／「1986年屆齡退休」
+[1] zh_tw 所属団体／「退休（1986年）」／「定年退官」の「定年」の情報が落ちている。／「屆齡退休（1986年）」
+[2] de 略歴／「trat 1950 in die Architekturabteilung des Tokyo Institute of Technology ein」／「学士入学」という事実が落ちている。／「wurde 1950 als Bachelor-Absolvent in die Architekturabteilung des Tokyo Institute of Technology aufgenommen」に直す。
+[2] en 所属団体・略歴／「“a full professor”」／同じ「教授」が所属団体では “Professor” と訳され、不統一。また “full” は原文にない／“Professor” に直す
+[2] es 所属団体／「asistente de investigación」／「研究」の事実が付加されており、略歴の「asistente」とも不統一。／「asistente」に直す。
+[2] es 功績／「de una forma propia y distintiva」／「distintiva」は原文にない評価を加えている。／「de una forma propia」に直す。
+[2] es 略歴／「ingresó en 1950 en el Departamento de Arquitectura」／「学士入学」という事実が落ちている。／「ingresó en 1950 como estudiante de grado en el Departamento de Arquitectura」など、入学形態を補う。
+[2] fr 所属団体／「assistant de recherche」／「助手」にない「研究」の意味が加わっている。／「assistant」に直す。
+[2] fr 所属団体・略歴／「professeur (1970)」・「professeur titulaire en 1970」／同じ「教授」の訳語が不統一で、「titulaire」は原文にない限定を加えている。／略歴も「professeur en 1970」に統一する。
+[2] fr 略歴／「il intègre en 1950 le département d'architecture de l'Institut de technologie de Tokyo」／「学士入学」という事実が落ちている。／「il est admis en 1950 en cursus de licence au département d'architecture de l'Institut de technologie de Tokyo」など、学士入学であることを補う。
+[2] zh_cn 所属団体／「退休（1986年）」／「定年」の事実が落ちている。／「到龄退休（1986年）」
+[2] zh_cn 略歴／「1986年退休」／「定年」の事実が落ちている。／「1986年到龄退休」
+
+════════ shinoyama-kishin（4件）════════
+[1] de 功績／「die eine Person in der Gegenwart verbreitet」／「いま放つ」を「現代に広める」という意味に取り違えている。／「die eine Person in diesem Augenblick ausstrahlt」に直す。
+[1] fr 功績／「la composition audacieuse qui saisit le sujet à grande échelle」／「被写体を大きくとらえた」を「大規模に捉えた」と誤訳している／「la composition audacieuse qui cadre le sujet en gros plan」
+[1] zh_cn 功績／「該当箇所：「他并不深掘内心」／何が問題か：原文の「内面を掘り下げるより」は比較表現であり、内面をまったく掘り下げないという断定が加わっている。／どう直すか：「与其深入挖掘人物的内心」
+[2] fr 略歴／「la ville et ses habitants」／「人」を「その街の住民」に限定する、原文にない事実が加わっている。／「la ville et les personnes」に直す。
+
+════════ shioda-keishiro（18件）════════
+[1] en 一言紹介／「“out of the Wajima tradition”」／「輪島塗」が単なる「Wajima tradition」となり、漆工芸の伝統であることが落ちている。また、英語としてやや不自然。／“rooted in the Wajima-nuri tradition”に直す。
+[1] es 一言紹介／「partiendo de la tradición de Wajima」／「輪島塗」が単なる「輪島の伝統」となり、漆芸であることが落ちている。／「partiendo de la tradición de la laca de Wajima」とする。
+[1] es 功績／「el kyūshitsu surgido de la tradición de Wajima」／「髹漆が輪島の伝統から生じた」という原文にない事実を加えている。／「el kyūshitsu a partir de la tradición de la laca de Wajima」とする。
+[1] fr 一言紹介・功績／「la tradition de Wajima」「la tradition de Wajima」／「輪島塗」が単なる「輪島の伝統」になっており、「laque」の情報が落ちている。略歴の「la laque de Wajima」とも不統一。／「la tradition de la laque de Wajima」とする。
+[1] fr 略歴／「qui retient l'ornement」／「装飾を抑える」の誤訳で、「装飾を保持する」と読める。／「qui limite l'ornementation」とする。
+[1] fr 功績／「la solide préparation de la laque de Wajima」／「輪島塗の下地づくり」が「輪島塗という漆の堅固な調製」のようになっており、技法上の対象を取り違えている。／「la préparation robuste du fond propre à la laque de Wajima」とする。
+[1] ko 略歴／「일관되게 손수 다루었다」／「손수」は原文にない「自ら・手ずから」という意味を加えている／「전 공정을 일관되게 맡았다」に直す。
+[1] zh_cn 略歴／「从底胎制作到髹涂的全部工序皆亲力贯通。」／「底胎制作」は「下地づくり」の取り違え。「亲力贯通」も中国語として不自然。／「从制作底层到髹涂，始终亲自完成全部工序。」などとする。
+[1] zh_cn 略歴／「他抑制装饰、追求髹涂本身之美的「髹漆」臻于至境。」／文の構造が不自然で、「至境」は原文にない過度な評価になり得る。／「他减少装饰，潜心钻研追求髹涂本身之美的‘髹漆’技艺。」などとする。
+[1] zh_tw 略歴／「從底胎製作到髹塗的全部工序皆親力貫通」／「底胎製作」は「下地づくり」の誤訳。「親力貫通」も中国語として不自然。／「從製作底層到髹塗，全套工序皆由他一手完成」に直す。
+[1] zh_tw 略歴／「臻於至境」／原文にない「至境」という評価が加わっている。／「深入鑽研」に直す。
+[1] zh_tw 功績／「輪島塗底胎」／「輪島塗の下地づくり」を「底胎」と取り違えている。／「輪島塗的底層製作」に直す。
+[2] es 功績／「el kyūshitsu surgido de la tradición de Wajima」／髹漆そのものが輪島の伝統から生じたという、原文にない事実になっている。／「el kyūshitsu a partir de la tradición de la laca de Wajima」
+[2] es 功績／「asentada en la sólida base de la laca de Wajima」／「堅牢な輪島塗の下地づくり」が、輪島塗を比喩的な土台とする表現になり、下地づくりという事実が落ちている。／「basada en la elaboración de la sólida capa de base característica de la laca de Wajima」
+[2] fr 略歴／「des formes de vases dépouillées」／「器」を「vases」に限定しており、原文にない器種を加えている。／「des formes de récipients dépouillées」とする。
+[2] zh_cn 功績／「坚牢的轮岛涂底胎」／「底胎」は器物の胎体を指し、「下地づくり」の誤訳。／「坚牢的轮岛涂底层制作」
+[2] zh_cn 略歴／「从底胎制作到髹涂的全部工序皆亲力贯通。」／「底胎制作」は「下地づくり」の誤訳。「亲力贯通」も不自然で、「一貫して手がけた」を適切に表していない。／「从底层制作到髹涂，他始终一贯参与全部工序。」
+[2] zh_cn 略歴／「他抑制装饰、追求髹涂本身之美的「髹漆」臻于至境。」／修飾関係が誤っており、髹漆自体が「至境に達した」という意味になっている。また「至境」は原文にない最高到達点という評価を加えている。／「他精研了抑制装饰、追求髹涂本身之美的“髹漆”技法。」
+
+════════ shirai-seiichi（4件）════════
+[1] ko 略歴／「처남이자 일본화가인 곤도 고이치로」／「義兄」を「처남」と誤訳しており、「日本画家」も指定語と異なる。／「매형이자 니혼가 화가인 곤도 고이치로」に直す。
+[2] de 略歴／「nachdem er das Wohnhaus seines Schwagers, des japanischen Malers Kondo Koichiro, übernommen hatte」／「住居を手がけた」が「住宅を引き継いだ」と誤訳されている。／「nachdem er das Wohnhaus seines Schwagers, des Nihonga-Malers Kondo Koichiro, entworfen hatte」に直す。
+[2] en 略歴／「“he began working on architectural design after taking on the residence of his brother-in-law”」／“taking on the residence”が不自然で、住居を設計したという事実が明確に表されていない。／“he began working in architectural design after designing a residence for his brother-in-law”に直す。
+[2] ko 略歴／「처남이자 일본화가인」／「처남」は妻の兄弟を指し、親族関係の取り違え。また「日本画家」の指定訳と異なる。／「매형이자 니혼가 화가인」に直す。
+
+════════ shono-shounsai（8件）════════
+[1] en 略歴／「該当箇所：“against that tradition”」／何が問題か：「その伝統を背景に」を「その伝統に抗して」という反対の意味に誤訳している。／どう直すか：“against the backdrop of that tradition”
+[1] es 略歴／「該当箇所：「obras escultóricas en bambú」／何が問題か：「造形作品」を「彫刻作品」と限定しており、原文にない分野上の位置づけが加わっている／どう直すか：「obras de gran fuerza plástica realizadas con bambú」
+[1] es 略歴／「該当箇所：「las cestas y los objetos de bambú trenzado」／何が問題か：「器」が一般的な「objetos」となり、器・容器という事実が弱まっている／どう直すか：「las cestas y los recipientes elaborados mediante el trenzado del bambú」
+[1] es 功績／「該当箇所：「amplió la expresión escultórica del bambú」／何が問題か：「造形表現」を「彫刻表現」と限定しており、原文にない分野上の位置づけが加わっている／どう直すか：「amplió las posibilidades de la expresión plástica mediante el bambú」
+[1] es 功績／「該当箇所：「las cestas y los objetos utilitarios」／何が問題か：「器」が一般的な「objetos」となり、器・容器という意味が落ちている／どう直すか：「las cestas y los recipientes utilitarios」
+[2] en 略歴／「“against that tradition”」／「その伝統を背景に」を、伝統に対抗したという意味に誤訳している。／“against the backdrop of that tradition”または“drawing on that tradition”に直す。
+[2] es 略歴／「creó poderosas obras escultóricas en bambú」／「escultóricas」は、原文にない「彫刻」という分野・性格を加えている。／「creó poderosas obras plásticas en bambú」に直す。
+[2] es 略歴／「los objetos de bambú trenzado」／「器」が一般的な「objetos」となり、器であることが落ちている。／「los recipientes de bambú trenzado」に直す。

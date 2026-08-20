@@ -1,0 +1,41 @@
+===== 1) 留学 en/de =====
+
+── zh_cn（0形）
+
+── zh_tw（0形）
+
+── ko（0形）
+
+── fr（0形）
+
+── es（0形）
+
+── de（2形）
+     4件  studierte er in
+     1件  ging er auch nach Gro
+===== 2) 日本画家 ko =====
+   220件  니혼가 화가
+    47件  일본화가
+
+── fr（0形）
+
+── es（0形）
+
+── de（0形）
+===== 3) 造形作品 es =====
+── en（1形）
+     1件  sculptural works
+
+── zh_cn（0形）
+
+── zh_tw（0形）
+
+── ko（0形）
+
+── fr（1形）
+     1件  œuvres sculpturales
+
+── es（1形）
+     1件  obras escultóricas
+
+── de（0形）

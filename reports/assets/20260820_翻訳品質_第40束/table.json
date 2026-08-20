@@ -1,0 +1,314 @@
+{
+ "reason": "第40束＝二重検品659件（★A92件）のうち、日本語原文と1件ずつ照合し、かつ全627名で横断型でないと実測で確かめたものだけを是正する。棄却した横断型＝定年退官の『定年』落ち（複数名）／助手→研究助手（4言語4名）／留学→went to系（5名）／日本画家 ko 일본화가（47件）／代表作 es obra principal（8件）／大作→評価系（T25）／pintor nihonga の de（T04・凍結中）／器→objeto系（T30）／造形作品→彫刻作品（3言語一貫）／住居を手がけた→担当した（5言語一貫）／義兄 ko と写し絵 ko は裏取りが要るので触らない ／★関所（Codex）が是正案自体の欠陥12件を捕まえた＝(a)★石膏の原型の是正で主節の動詞を壊し文が断片化していた（en/de/fr/es 4言語すべて）(b)独語で studieren/ausstrahlen の同語反復 (c)仏語 en gros plan が撮影距離を限定 (d)中国語で『学士入学の方式』『始终一贯地』『坚牢的底层制作』が不自然。すべて作り直した ／★2巡目の関所が中国語の『始终一贯地亲自』の重複と限定過多を指摘したため『一贯地承担了』に作り直した ／★3巡目＝『一贯地承担了全部工序』を『均由他一手完成』へ。★C26裁定語『精研』はCodexが『潜心钻研』を提案したが裁定が優先するため維持し、構文だけ『「髹漆」技法』として成立させた（引き継ぎ書§3(1)が言う「語を替えれば済むのではなく文の組み立てから直す」の実施）",
+ "enteredBy": "翻訳品質T 2026-08-20 第40束",
+ "patches": [
+  {
+   "handle": "shimomura-kanzan",
+   "lang": "de",
+   "field": "bio",
+   "from": "eingehend studierte, ging er auch nach Großbritannien",
+   "to": "eingehend erforschte, studierte er auch in Großbritannien"
+  },
+  {
+   "handle": "shimomura-kanzan",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "留意映于金地的夕阳表现",
+   "to": "留意在金地映衬下格外鲜明的夕阳"
+  },
+  {
+   "handle": "shimomura-kanzan",
+   "lang": "ko",
+   "field": "viewpoint",
+   "from": "금빛 바탕에 비치는 석양의 표현",
+   "to": "금빛 바탕에서 돋보이는 석양의 표현"
+  },
+  {
+   "handle": "shimooka-renjo",
+   "lang": "es",
+   "field": "bio",
+   "from": "difundía la fotografía por todo Japón",
+   "to": "difundía el arte fotográfico en Japón"
+  },
+  {
+   "handle": "shimooka-renjo",
+   "lang": "fr",
+   "field": "bio",
+   "from": "en diffusant la photographie à travers le Japon",
+   "to": "en diffusant l'art photographique au Japon"
+  },
+  {
+   "handle": "shimooka-renjo",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "他还制作了描绘横滨风物的",
+   "to": "他还拍摄了展现横滨风物的"
+  },
+  {
+   "handle": "shimooka-renjo",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "他還製作了描繪橫濱風物的",
+   "to": "他還拍攝了展現橫濱風物的"
+  },
+  {
+   "handle": "shimooka-renjo",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "transmit son métier à de nombreux élèves",
+   "to": "transmit son savoir-faire à de nombreux élèves"
+  },
+  {
+   "handle": "shinkai-taketaro",
+   "lang": "en",
+   "field": "bio",
+   "from": "His major work Yuami (Bathing), depicting a woman at her bath, survives in a plaster model designated an Important Cultural Property.",
+   "to": "His major work Yuami (Bathing) depicts a woman at her bath, and its original plaster model is designated an Important Cultural Property."
+  },
+  {
+   "handle": "shinkai-taketaro",
+   "lang": "de",
+   "field": "bio",
+   "from": "Sein Hauptwerk „Yuami“ (Beim Bade), das eine badende Frau zeigt, ist als Gipsmodell erhalten, das als Wichtiges Kulturgut ausgewiesen ist.",
+   "to": "Sein Hauptwerk „Yuami“ (Beim Bade) zeigt eine badende Frau; dessen Gipsoriginal ist als Wichtiges Kulturgut ausgewiesen."
+  },
+  {
+   "handle": "shinkai-taketaro",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Son œuvre majeure Yuami (Le Bain), représentant une femme au bain, subsiste dans un modèle en plâtre classé bien culturel important.",
+   "to": "Son œuvre majeure Yuami (Le Bain) représente une femme au bain ; son modèle original en plâtre est classé bien culturel important."
+  },
+  {
+   "handle": "shinkai-taketaro",
+   "lang": "es",
+   "field": "bio",
+   "from": "Su obra principal Yuami (El baño), que representa a una mujer en el baño, se conserva en un modelo de yeso declarado Bien Cultural Importante.",
+   "to": "Su obra principal Yuami (El baño) representa a una mujer en el baño; su modelo original en yeso está declarado Bien Cultural Importante."
+  },
+  {
+   "handle": "shinkai-taketaro",
+   "lang": "es",
+   "field": "bio",
+   "from": "estudió después la escultura occidental",
+   "to": "estudió después la escultura de estilo occidental"
+  },
+  {
+   "handle": "shinkai-taketaro",
+   "lang": "fr",
+   "field": "bio",
+   "from": "il étudia ensuite la sculpture occidentale",
+   "to": "il étudia ensuite la sculpture de style occidental"
+  },
+  {
+   "handle": "shinkai-taketaro",
+   "lang": "de",
+   "field": "bio",
+   "from": "studierte er später westliche Bildhauerei",
+   "to": "studierte er später Bildhauerei im westlichen Stil"
+  },
+  {
+   "handle": "shinkai-taketaro",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "他研习西洋雕塑，支撑了官展的雕塑。",
+   "to": "他是研习西洋雕塑、支撑官展雕塑的雕塑家。"
+  },
+  {
+   "handle": "shinkai-taketaro",
+   "lang": "zh_tw",
+   "field": "viewpoint",
+   "from": "他研習西洋雕塑，支撐了官展的雕塑。",
+   "to": "他是研習西洋雕塑、支撐官展雕塑的雕塑家。"
+  },
+  {
+   "handle": "shinkai-takezo",
+   "lang": "es",
+   "field": "bio",
+   "from": "en busca de figuras de frescura",
+   "to": "en busca de figuras humanas de una frescura renovadora"
+  },
+  {
+   "handle": "shinkai-takezo",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "他融合木雕与塑造的感觉，活跃于院展。",
+   "to": "他是融合木雕与塑造的感觉、活跃于院展的雕塑家。"
+  },
+  {
+   "handle": "shinkai-takezo",
+   "lang": "zh_tw",
+   "field": "viewpoint",
+   "from": "他融合木雕與塑造的感覺，活躍於院展。",
+   "to": "他是融合木雕與塑造的感覺、活躍於院展的雕塑家。"
+  },
+  {
+   "handle": "shinoda-toko",
+   "lang": "de",
+   "field": "bio",
+   "from": "für abstrakte Bilder und Lithografien",
+   "to": "für abstrakte Bilder und Lithografien (Druckgrafiken)"
+  },
+  {
+   "handle": "shinohara-kazuo",
+   "lang": "en",
+   "field": "bio",
+   "from": "in 1950 as an undergraduate transfer student",
+   "to": "in 1950 through its admission route for those already holding a bachelor's degree"
+  },
+  {
+   "handle": "shinohara-kazuo",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "1950年转入东京工业大学建筑学科",
+   "to": "1950年以学士身份进入东京工业大学建筑学科"
+  },
+  {
+   "handle": "shinohara-kazuo",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "1950年轉入東京工業大學建築學科",
+   "to": "1950年以學士資格進入東京工業大學建築學科"
+  },
+  {
+   "handle": "shinohara-kazuo",
+   "lang": "en",
+   "field": "bio",
+   "from": "and a full professor in 1970",
+   "to": "and a professor in 1970"
+  },
+  {
+   "handle": "shinohara-kazuo",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "de una forma propia y distintiva",
+   "to": "de una forma propia"
+  },
+  {
+   "handle": "shinoyama-kishin",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "die eine Person in der Gegenwart verbreitet",
+   "to": "die eine Person in diesem Augenblick entfaltet"
+  },
+  {
+   "handle": "shinoyama-kishin",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "la composition audacieuse qui saisit le sujet à grande échelle",
+   "to": "la composition audacieuse dans laquelle le sujet occupe une grande place"
+  },
+  {
+   "handle": "shinoyama-kishin",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "他并不深掘内心，而是力图",
+   "to": "与其深入挖掘内心，他更力图"
+  },
+  {
+   "handle": "shioda-keishiro",
+   "lang": "en",
+   "field": "statement",
+   "from": "out of the Wajima tradition",
+   "to": "out of the Wajima-nuri lacquer tradition"
+  },
+  {
+   "handle": "shioda-keishiro",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "out of the Wajima tradition",
+   "to": "out of the Wajima-nuri lacquer tradition"
+  },
+  {
+   "handle": "shioda-keishiro",
+   "lang": "fr",
+   "field": "statement",
+   "from": "issu de la tradition de Wajima",
+   "to": "issu de la tradition de la laque de Wajima"
+  },
+  {
+   "handle": "shioda-keishiro",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "issu de la tradition de Wajima",
+   "to": "issu de la tradition de la laque de Wajima"
+  },
+  {
+   "handle": "shioda-keishiro",
+   "lang": "es",
+   "field": "statement",
+   "from": "partiendo de la tradición de Wajima",
+   "to": "partiendo de la tradición de la laca de Wajima"
+  },
+  {
+   "handle": "shioda-keishiro",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "el kyūshitsu surgido de la tradición de Wajima",
+   "to": "el kyūshitsu a partir de la tradición de la laca de Wajima"
+  },
+  {
+   "handle": "shioda-keishiro",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "aus der Wajima-Tradition heraus",
+   "to": "aus der Wajima-nuri-Tradition heraus"
+  },
+  {
+   "handle": "shioda-keishiro",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "从底胎制作到髹涂的全部工序皆亲力贯通。他抑制装饰、追求髹涂本身之美的「髹漆」臻于至境。",
+   "to": "从底层制作到髹涂的全部工序均由他一手完成。他精研了抑制装饰、追求髹涂本身之美的「髹漆」技法。"
+  },
+  {
+   "handle": "shioda-keishiro",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "從底胎製作到髹塗的全部工序皆親力貫通。他抑制裝飾、追求髹塗本身之美的「髹漆」臻於至境。",
+   "to": "從底層製作到髹塗的全部工序皆由他一手完成。他精研了抑制裝飾、追求髹塗本身之美的「髹漆」技法。"
+  },
+  {
+   "handle": "shioda-keishiro",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "自轮岛涂传统出发臻于髹漆之境的漆艺家",
+   "to": "自轮岛涂传统出发精研髹漆的漆艺家"
+  },
+  {
+   "handle": "shioda-keishiro",
+   "lang": "zh_tw",
+   "field": "viewpoint",
+   "from": "自輪島塗傳統出發臻於髹漆之境的漆藝家",
+   "to": "自輪島塗傳統出發精研髹漆的漆藝家"
+  },
+  {
+   "handle": "shioda-keishiro",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "他以坚牢的轮岛涂底胎为根基",
+   "to": "他以轮岛涂打造坚牢底层的工艺为根基"
+  },
+  {
+   "handle": "shioda-keishiro",
+   "lang": "zh_tw",
+   "field": "viewpoint",
+   "from": "他以堅牢的輪島塗底胎為根基",
+   "to": "他以輪島塗打造堅牢底層的工藝為根基"
+  },
+  {
+   "handle": "shioda-keishiro",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "asentada en la sólida base de la laca de Wajima",
+   "to": "asentada en la sólida preparación del fondo propia de la laca de Wajima"
+  },
+  {
+   "handle": "shono-shounsai",
+   "lang": "en",
+   "field": "bio",
+   "from": "and against that tradition he pursued his own expression",
+   "to": "and against the backdrop of that tradition he pursued his own expression"
+  }
+ ]
+}

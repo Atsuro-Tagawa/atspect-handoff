@@ -1,0 +1,59 @@
+===== 1) 輪島塗 =====
+── en（1形）
+     2件  Wajima-nuri
+
+── zh_cn（1形）
+     4件  轮岛涂
+
+── zh_tw（1形）
+     4件  輪島塗
+
+── ko（1形）
+     5件  와지마
+
+── fr（2形）
+     2件  tradition de Wajima
+     2件  laque de Wajima
+
+── es（2形）
+     2件  tradición de Wajima
+     2件  laca de Wajima
+
+── de（1形）
+     2件  Wajima-nuri
+===== 2) 下地づくり =====
+── zh_cn（2形）
+     2件  底胎
+     2件  下地
+
+── zh_tw（2形）
+     2件  底胎
+     2件  下地
+
+── ko（2形）
+     4件  바탕
+     2件  밑바탕
+
+── fr（3形）
+     8件  fond
+     1件  préparation
+     1件  base
+
+── es（2形）
+     3件  base
+     3件  fond
+
+── de（0形）
+===== 3) 「を背景に」en =====
+
+── zh_tw（0形）
+
+── ko（0形）
+
+── fr（0形）
+
+── es（0形）
+
+── de（2形）
+     3件  vor dem Hintergrund
+     3件  Vor dem Hintergrund

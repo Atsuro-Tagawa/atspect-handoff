@@ -1,0 +1,46 @@
+  0件  1 留学→went to(de)
+  0件  2 金地に映る(zh_cn)
+  0件  2 金地に映る(ko)
+  0件  3 写真術を全国へ(es)
+  0件  3 写真術を全国へ(fr)
+  0件  4 写真を描く(zh_cn)
+  0件  4 写真を描く(zh_tw)
+  0件  5 技→職業(fr)
+  0件  6 石膏の原型(en)
+  0件  6 石膏の原型(de)
+  0件  6 石膏の原型(fr)
+  0件  6 石膏の原型(es)
+  0件  7 洋風彫刻=西洋彫刻(es)
+  0件  7 洋風彫刻=西洋彫刻(fr)
+  0件  7 洋風彫刻=西洋彫刻(de)
+  0件  8 彫刻家落ち(zh_cn)
+  0件  8 彫刻家落ち(zh_tw)
+  0件  9 人体像の人体落ち(es)
+  0件  10 学士入学(en)
+  0件  10 学士入学(zh_cn)
+  0件  10 学士入学(zh_tw)
+  0件  11 full professor(en)
+  0件  12 原文にない評価(es)
+  0件  13 いま放つ(de)
+  0件  14 大きくとらえた(fr)
+  0件  15 断定(zh_cn)
+  0件  16 輪島塗→Wajima(en)
+  0件  16 輪島塗→Wajima(fr)
+  0件  16 輪島塗→Wajima(es)
+  0件  16 輪島塗→Wajima(de)
+  0件  17 下地→底胎(zh_cn)
+  0件  17 下地→底胎(zh_tw)
+★4件  18 究めた→臻于至境(zh_cn)
+        oba-shogyo[bio.zh_cn] ×1
+        oba-shogyo[flat:bio_zh_cn] ×1
+        naito-shiro[statement.zh_cn] ×1
+        naito-shiro[viewpoint.zh_cn] ×1
+★5件  18 究めた→臻于至境(zh_tw)
+        oba-shogyo[bio.zh_tw] ×1
+        oba-shogyo[flat:bio_zh_tw] ×1
+        naito-shiro[statement.zh_tw] ×1
+        naito-shiro[viewpoint.zh_tw] ×1
+        chosa-yoshiyuki[viewpoint.zh_tw] ×1
+  0件  19 伝統に抗して(en)
+
+── 旧い形の残存 合計 9 箇所（母集団＝全627名／artist_i18n の全欄＋同名の個別フィールド）

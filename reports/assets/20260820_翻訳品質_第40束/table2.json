@@ -1,0 +1,7 @@
+{
+ "reason": "第40束 突き合わせ②が捕まえた欄をまたいだ取りこぼし＝塩多慶四郎さまの独語で【功績】を Wajima-nuri-Tradition へ直したが、【一言紹介】に Wajima-Tradition が残っていた（en/fr/es は statement・viewpoint の両方を置換表に入れていた）。★CLAUDE.md §6『同じ語句が同一作家の別欄にもないか、欄をまたいで数えてから置換表を作る』の再発＝第35・36・37・38束に続き5便目。第40束では突き合わせ②が捕まえた",
+ "enteredBy": "翻訳品質T 2026-08-20 第40束(追補)",
+ "patches": [
+  {"handle":"shioda-keishiro","lang":"de","field":"statement","from":"aus der Wajima-Tradition heraus","to":"aus der Wajima-nuri-Tradition heraus"}
+ ]
+}

@@ -1,0 +1,20 @@
+===== 助手→研究助手 の所在 =====
+imai-kenji [groups] «assistant de recherche» … Université : assistant de recherche, Université Waseda → professeur associé (1920) → professeur (1937) 
+shinohara-kazuo [groups] «assistant de recherche» … Université : assistant de recherche à l'Institut de technologie de Tokyo → professeur associé (1962) → 
+── 合計 2件 / 2名 （母集団＝日本語に「助手」がある欄・言語=fr）
+shinohara-kazuo [groups] «asistente de investigación» … Universidad: asistente de investigación en el Instituto de Tecnología de Tokio → profesor asociado (196
+── 合計 1件 / 1名 （母集団＝日本語に「助手」がある欄・言語=es）
+shinohara-kazuo [groups] «Wissenschaftlicher Assistent» … Universität: Wissenschaftlicher Assistent am Tokyo Institute of Technology → außerordentlicher Professo
+── 合計 1件 / 1名 （母集団＝日本語に「助手」がある欄・言語=de）
+seike-kiyoshi [bio] «research assistant» … udent years. He remained at Tokyo Institute of Technology, serving as research assistant and associate professor, and became a professor in 1962. He later also 
+── 合計 1件 / 1名 （母集団＝日本語に「助手」がある欄・言語=en）
+===== 定年退官 の所在（ko 정년 / 他）=====
+taniguchi-yoshiro [bio] «정년퇴임까지» …  도쿄제국대학 대학원에 진학하여 사노 도시카타에게 배웠다. 1930년 도쿄공업대학 강사가 되어 조교수·교수를 거쳐 1965년 정년퇴임까지 동 대학에서 교육을 담당했다. 1964년 박물관 메이지무라 초대 관장에 취임했고, 1965년 개촌 이후에도 1979년까지 관장을 지냈다. 1967년에
+sano-toshikata [bio] «정년퇴임까지» … 가옥내진구조론」을 정리해 발표하고, 1915년 공학박사 학위를 취득했다. 도쿄제국대학 조교수를 거쳐 1918년부터 1941년 정년퇴임까지 동 대학 공학부 교수를 지냈다. 간토대지진 이후 제도부흥원 이사 겸 건축국장으로 부흥사업에 참여했으며, 이후 도쿄시 건축국장을 지냈다. 궁내성 공무과
+shinohara-kazuo [bio] «정년퇴임했다.» … 업했다. 재학 중 세이케 기요시에게 사사했다. 동 대학 조수를 거쳐 1962년 조교수, 1970년 교수가 되었고, 1986년 정년퇴임했다. 1967년 「일본건축의 공간구성에 관한 연구」로 공학박사 학위를 취득했다. 백색의 집(도쿄도 스기나미구, 1966년 준공, 2008년 이축), 우에
+shinohara-kazuo [groups] «정년퇴임(1986년)» … 대학: 도쿄공업대학 조수 → 조교수(1962년) → 교수(1970년), 정년퇴임(1986년) / 일본건축학회상(1972년), 일본건축학회대상(2005년) 수상
+── 合計 4件 / 3名 （母集団＝日本語に「定年退官」がある欄・言語=ko）
+taniguchi-yoshiro [groups] «retired (1965) / Design firm: Taniguchi Yoshirō» … f Technology (1930) → Associate Professor (1931) → Professor (1943) → retired (1965) / Design firm: Taniguchi Yoshirō Architectural Design Institute (founded 19
+shinohara-kazuo [bio] «retired in 1986» … ming an associate professor in 1962 and a full professor in 1970, and retired in 1986. In 1967 he received a doctorate in engineering for his research "A Study 
+shinohara-kazuo [groups] «retired (1986) / Received the Architectural Ins» … titute of Technology → Associate Professor (1962) → Professor (1970); retired (1986) / Received the Architectural Institute of Japan Prize (1972) and the Grand 
+── 合計 3件 / 2名 （母集団＝日本語に「定年退官」がある欄・言語=en）

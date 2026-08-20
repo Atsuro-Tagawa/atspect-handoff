@@ -1,0 +1,65 @@
+===== 1) 定年退官 =====
+     1件  retired in 
+
+── zh_cn（1形）
+     5件  退休
+
+── zh_tw（1形）
+     5件  退休
+
+── ko（2形）
+     5件  퇴임
+     4件  정년
+
+── fr（1形）
+     3件  retraite
+
+── es（2形）
+     2件  jubilación
+     1件  jubiló
+
+── de（2形）
+     3件  Ruhestand
+     2件  Emeritierung
+===== 2) 学士入学 =====
+
+── en（1形）
+     1件  undergraduate transfer
+
+── zh_cn（1形）
+     1件  转入
+
+── zh_tw（1形）
+     1件  轉入
+
+── ko（1形）
+     1件  학사
+
+── fr（0形）
+
+── es（0形）
+
+── de（0形）
+===== 3) 助手 =====
+     1件  research assistant
+
+── zh_cn（1形）
+     8件  助手
+
+── zh_tw（1形）
+     8件  助手
+
+── ko（1形）
+     8件  조수
+
+── fr（2形）
+     6件  assistant
+     2件  assistant de recherche
+
+── es（2形）
+     5件  asistente
+     1件  asistente de investigación
+
+── de（2形）
+     6件  Assistent
+     1件  Wissenschaftlicher Assistent

@@ -1,0 +1,34 @@
+{
+ "reason": "第40束 突き合わせ③（型そのものの残存）が捕まえた3件。日本語原文を1件ずつ確かめ、いずれも同じ型と確認した。(1)塩多慶四郎さまの【一言紹介】中国語に「臻于髹漆之境」が残っていた＝★欄をまたいだ取りこぼし（略歴・功績は直したが一言紹介が残った）。C26裁定の「精研」へ。(2)今井兼次さまの英語「a full professor」＝原文「教授となり」にない限定（篠原一男さまと同型・残存0にするため）。(3)山本丘人さまの仏語「à grande échelle」＝「大きくとらえた」を「大規模に」と訳す型（篠山紀信さまと同型）。日本語は「荒涼とした大地や沈む陽を大きくとらえた構図」で、画面に大きく収める意 ／★関所が仏語の語順（dans laquelle occupent…）を不自然と判定したため où 構文へ作り直した",
+ "enteredBy": "翻訳品質T 2026-08-20 第40束(追補2)",
+ "patches": [
+  {
+   "handle": "shioda-keishiro",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "自轮岛涂出发臻于髹漆之境的人间国宝",
+   "to": "自轮岛涂出发精研髹漆的人间国宝"
+  },
+  {
+   "handle": "shioda-keishiro",
+   "lang": "zh_tw",
+   "field": "statement",
+   "from": "自輪島塗出發臻於髹漆之境的人間國寶",
+   "to": "自輪島塗出發精研髹漆的人間國寶"
+  },
+  {
+   "handle": "imai-kenji",
+   "lang": "en",
+   "field": "bio",
+   "from": "a full professor in 1937",
+   "to": "a professor in 1937"
+  },
+  {
+   "handle": "yamamoto-kyujin",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "la composition qui saisit à grande échelle une terre désolée et un soleil couchant",
+   "to": "la composition où une terre désolée et un soleil couchant occupent une grande place"
+  }
+ ]
+}
