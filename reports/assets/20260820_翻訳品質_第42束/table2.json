@@ -1,0 +1,48 @@
+{
+ "reason": "第42束 突き合わせ②③が捕まえた残存。日本語原文を1件ずつ確かめ、いずれも同じ型と確認した。(1)隅谷正峯さまの繁体字【略歴】に「丁香花蕾」が残っていた＝★欄をまたいだ取りこぼし（簡体字の略歴と繁体字の功績は直したが繁体字の略歴を置換表に入れていなかった）。(2)宮入行平さまの西語【功績】＝「刀工」の台帳指定 forjador de espadas の de espadas 欠落（隅谷さまと同型）。(3)川村驥山さまの西語・仏語【功績】＝「その漢字書では」が単なる「彼の漢字」になっている（炭山南木さまと同型）。(4)松本芳翠さまの簡体字【功績】＝「字帖范本」の重複（鈴木翠軒さまと同型）。★鈴木信太郎さま繁体字【略歴】の「人形」は作品名《人形》で、B1（固有名詞）＝誤検出なので触らない ／★関所が変更範囲外の綴り誤り『brioza』（正しくは briosa・全627名で1件のみ）を捕まえたので追加した。★一方『tres eras（三代にわたり）』の指摘はCodexの誤り＝日本語原文が『明治・大正・昭和の三代』で時代を指すため現行が正しい",
+ "enteredBy": "翻訳品質T 2026-08-20 第42束(追補)",
+ "patches": [
+  {
+   "handle": "sumitani-masamine",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "如丁香花蕾般連綴",
+   "to": "如丁香果實般連綴"
+  },
+  {
+   "handle": "miyairi-yukihira",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "Fue un forjador que",
+   "to": "Fue un forjador de espadas que"
+  },
+  {
+   "handle": "kawamura-kizan",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "En sus kanji",
+   "to": "En sus obras de caligrafía en kanji"
+  },
+  {
+   "handle": "kawamura-kizan",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "Dans ses kanji",
+   "to": "Dans ses œuvres calligraphiques en kanji"
+  },
+  {
+   "handle": "matsumoto-hosui",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "许多工整的字帖范本",
+   "to": "许多工整的书写范本"
+  },
+  {
+   "handle": "miyairi-yukihira",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "una hoja brioza",
+   "to": "una hoja briosa"
+  }
+ ]
+}

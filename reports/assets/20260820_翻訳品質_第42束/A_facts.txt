@@ -1,0 +1,108 @@
+
+════════ sugiyama-yasushi（19件）════════
+[1] de 功績／「in reine Form zu überführen“」／「reine」に相当する評価・限定は原文にない。／「in eine bildnerische Form zu überführen」
+[1] en 略歴／「“that was called "formalism."”」／「造形主義」の誤訳。“formalism”は通常「形式主義」を意味する。／判断が必要な用語として人に回す。
+[1] en 功績／「“pure form”」／原文にない評価・限定である“pure”が加えられている。／“form”に直す。
+[1] es 功績／「sublimar su motivo en forma pura」／原文にない「pura」という評価・意味が加わり、「造形」も単なる「forma」として弱く訳されている／「elevar el motivo a una construcción plástica」
+[1] fr 略歴／「qualifié de « formalisme »」／「造形主義」を「formalisme」とするのは意味が異なり、形式偏重という含意が生じる。／「qualifié de « plasticisme »」など、造形性を示す語に直す。訳語の確定は人に回す。
+[1] ko 略歴／「암채에 모래 등을 섞은」／「岩絵具」に対する「암채」は技法・素材名の誤訳。／適切な専門用語について担当者確認に回す。
+[1] zh_tw 略歴／「出生於東京的日本畫家。」／主語と述語のない断片で、原文の「杉山寧」が落ちている。／「杉山寧是出生於東京的日本畫家。」に直す。
+[1] zh_tw 略歴／「代表作有《孔雀》《穹》《洸》等。」／原文は「作品で知られる」であり、「代表作」という評価が加わっている。／「以《孔雀》《穹》《洸》等作品聞名。」に直す。
+[1] zh_tw 功績／「將對象昇華為造形的構成」／「造形」がサイト指定の「造型」と一致せず、原文の「昇華させようとした」という意図も落ちている。／「試圖將對象昇華為造型的構成」に直す。
+[2] de 功績／「eine eigene Plastizität suchte」／「Plastizität」は立体感・可塑性を表し、「独自の造形」の誤訳。／「eine eigene Formensprache suchte」に直す。
+[2] de 功績／「in reine Form」／「reine」に当たる評価が原文にない。／「in eine bildnerische Form」に直す。
+[2] de 略歴／「„Formalismus“」／一般に「形式主義」を意味し、「造形主義」の取り違えになる。／この固有の呼称に対応する訳語は人に確認する。
+[2] de 一言紹介／「eine Plastizität zwischen Naturtreue und Abstraktion」／「Plastizität」は「造形」の誤訳で、「写実と抽象を結ぶ」も「zwischen」によって「あいだ」の意味へ変わっている。／「eine Formensprache, die Naturtreue und Abstraktion verband」に直す。
+[2] en 功績／「“pure form”」／「pure」に相当する情報が原文になく、評価・意味が加わっている。／“pure”を削除する。
+[2] es 功績／「sublimar su motivo en forma pura」／「pura」は原文にない評価であり、「su motivo」も「対象」の訳として不正確。／「sublimar el objeto representado en una forma plástica」
+[2] fr 功績／「en forme pure」／「pure」に当たる評価・事実が原文にない。また、「対象を造形へと昇華」の訳として意味が狭い。／「en une construction plastique」に直す。
+[2] ko 略歴／「암채에 모래 등을 섞은」／「岩絵具」を「암채」としており、技法名の取り違え。／訳語は人に確認する。
+[2] zh_tw 功績／「在寫實與抽象之間探求自己的造形」／「獨自」の意味と「畫家」が欠落し、「造形」も指定表記と異なる／「他以戰後日展為舞台，是一位在寫實與抽象之間探求獨自造型的畫家」とする。
+[2] zh_tw 略歴／「代表作有《孔雀》《穹》《洸》等」／「代表作」は原文にない評価／「以《孔雀》《穹》《洸》等作品聞名」とする。
+
+════════ sumitani-masamine（12件）════════
+[1] de 略歴／「Indem er die Schwerter des Bizen der Kamakura-Zeit studierte」／「des Bizen」が不自然で、「研究し」と「努めた」を手段関係にする「Indem」も原文にない。／「Er studierte Schwerter aus Bizen aus der Kamakura-Zeit und bemühte sich, …」とする。
+[1] de 功績／「Bei seinen tachi mit einer chōji-hamon」／原文の《丁子刃》の太刀という単数の作品が、所有を伴う複数の太刀に変わっている。／作品名の表記方針を確認し、単数で「Bei dem Tachi …」とする。
+[1] es 略歴／「Persiguiendo los métodos antiguos desde la forja hasta el pulido, fue conocido por una forja a la vez brillante y refinada.」／「作刀」が工程としての「forja」に置き換わり、華やかで品位ある「刀」を作ったという事実が不明瞭。／「Tras investigar los métodos antiguos desde la forja hasta el pulido, fue conocido por crear espadas de aspecto espléndido y refinado.」などに直す。
+[1] es 功績／「En sus tachi con hamon chōji」／原文の単数の作品《丁子刃》の太刀が、複数の一般的な太刀に変わっており、作品名も落ちている。／単数の特定作品として《丁子刃》の作品名を復元する。スペイン語での作品名表記は要確認。
+[1] fr 略歴／「une forge à la fois brillante et raffinée」／「作刀」を「鍛造」と取り違えており、「はなやかで品位ある刀」という内容が落ちている。／「ses sabres à la fois éclatants et raffinés」に直す。
+[1] zh_cn 略歴／「如丁香花蕾般连缀」／原文の「丁子の実」を「丁香花蕾」としており、実と花蕾を取り違えている。／「如丁香果实般连缀」に直す。
+[1] zh_cn 功績／「如丁香花蕾连缀般浮现」／原文の「丁子の実」を「丁香花蕾」としており、実と花蕾を取り違えている。／「如丁香果实连缀般浮现」に直す。
+[1] zh_tw 功績／「如丁香花蕾連綴般浮現」／原文の「丁子の実」が「丁香花蕾」に変わっており、略歴と同じ誤訳がある。／「如丁香果實連綴般浮現」に直す。
+[2] es 功績／「Fue un forjador」／指定訳「forjador de espadas」と不統一で、「刀工」の「espadas」が欠落している。／「Fue un forjador de espadas」に直す。
+[2] es 略歴／「Persiguiendo los métodos antiguos desde la forja hasta el pulido, fue conocido por una forja a la vez brillante y refinada.」／「una forja」は制作された刀ではなく鍛造行為を指すため、「作刀」の誤訳。また「brillante」は「光沢のある」とも読め、「はなやか」の訳として不適切。／「Tras investigar los métodos antiguos desde la forja hasta el pulido, fue conocido por sus espadas espléndidas y refinadas.」に直す。
+[2] es 一言紹介／「Un forjador Tesoro Nacional Viviente」／指定訳「forjador de espadas」の「de espadas」が欠落している。また、名詞を直接連結した「forjador Tesoro Nacional Viviente」は不自然。／「Un forjador de espadas designado Tesoro Nacional Viviente」に直す。
+[2] fr 略歴／「une forge à la fois brillante et raffinée」／「forge」は作刀された刀ではなく鍛造行為を指すため、「はなやかで品位ある作刀」の誤訳。／「ses sabres, à la fois éclatants et raffinés」に直す。
+
+════════ sumiyama-nanboku（5件）════════
+[1] es 功績／「En sus kanji」／「漢字書」を単なる漢字そのものとしており、語の取り違え。／「En sus obras de caligrafía en kanji」
+[1] fr 功績／「Dans ses kanji」／「その漢字書」を単なる「彼の漢字」としており、書の分野・作品を指す意味が落ちている。／「Dans sa calligraphie de caractères chinois」とする。
+[2] de 略歴／「In der Kansai-Region ansässig」／「ansässig」は居住していたという原文にない事実を加えている。／「In der Kansai-Region war er auch in der Kalligrafie-Ausbildung tätig」
+[2] de 略歴／「der Ausbildung jüngerer Kalligrafen」／「後進」を「若い書家」に限定しており、原文にない限定。／「der Ausbildung des Nachwuchses」
+[2] es 略歴／「destacó en el Nitten」／「destacó」は原文にない「傑出した」という評価を加えている。／「desarrolló su actividad en el Nitten」に直す。
+
+════════ suwa-sozan（7件）════════
+[1] de 功績／「die Vertiefung der klaren blaugrünen Glasur」／「釉の深まり」の誤訳で、Glasur自体が深まるように読める。／「die Tiefe der klaren blaugrünen Glasur」とする。
+[1] en 功績／「“without recourse to painting or ornament”」／「絵付け」を一般的な「絵画」を意味する “painting” としており、語の取り違えがある。／“without relying on painted or other decoration”に直す。
+[1] fr 功績／「sans recourir à la peinture」／「絵付け」を一般的な「絵画」と取り違えている。／「sans recourir au décor peint」に直す。
+[2] de 功績／「ohne Rückgriff auf Malerei oder Ornament」／「絵付け」をMalerei（絵画）としており、語の取り違え。／「ohne Rückgriff auf Bemalung oder Ornamentik」に直す。
+[2] de 略歴／「ein vom Kaiserhaus verliehener Titel」／原文にない「皇室から授与された称号」という説明が追加されている。／当該説明を削除し、「wurde er zum Teishitsu Gigeiin (Hofkünstler) ernannt」とする。
+[2] fr 功績／「l'approfondissement de la glaçure bleu-vert limpide」／「釉の深まり」の誤訳で、フランス語としても不自然。／「la profondeur de la glaçure bleu-vert limpide」に直す。
+[2] zh_cn 功績／「他不依赖绘饰」／「絵付け」は訳されているが、「装飾」が落ちている。／「他不依赖彩绘或装饰」とする。
+
+════════ suzuki-chikako（24件）════════
+[1] de 略歴／「In der Präfektur Saitama geboren.」／原文にない出生地の事実が追加されている。／文全体を削除する。
+[1] de 略歴／「Nach dem Pharmaziestudium an der Fakultät für Naturwissenschaften und Technik der Nihon-Universität」／「卒業した」という事実が落ちており、単に薬学を学んだという意味になっている。／「Nach ihrem Abschluss im Fach Pharmazie an der Fakultät für Naturwissenschaften und Technik der Nihon-Universität」とする。
+[1] en 略歴／「“Born in Saitama Prefecture, Japan.”」／原文にない出生地の事実が追加されている。／削除する。
+[1] es 略歴／「Nacida en la prefectura de Saitama.」／原文にない出生地が追加されている。／文全体を削除する。
+[1] es 略歴／「Tras estudiar Farmacia en la Facultad de Ciencias y Tecnología de la Universidad Nihon」／原文の「卒業した」という事実が落ち、「学んだ」に弱められている。／「Tras graduarse en Farmacia en la Facultad de Ciencias y Tecnología de la Universidad Nihon」とする。
+[1] es 略歴／「que consiste en peinar y cuidar las pelucas de los títeres del bunraku」／床山の仕事内容について、原文にない説明が追加されている。／「primero como tokoyama de los títeres del bunraku」とする。
+[1] ko 略歴／「該当箇所：「사이타마현 출생.」／何が問題か：原文にない出生地が追加されている。／どう直すか：削除する。
+[1] zh_cn 略歴／「生于埼玉县。」／原文にない出生地の事実が追加されている。／削除する。
+[1] zh_tw 一言紹介／「以造型寄託祈願，雕刻心愛的動物」／原文にない「動物を彫刻する」という行為・技法が加えられている。／「祈願的造型、心愛的動物們」に直す。
+[1] zh_tw 略歴／「生於埼玉縣。」／出身地は原文にない事実。／文全体を削除する。
+[2] de 略歴／「In der Präfektur Saitama geboren.」／原文にない出生地の事実が追加されている。／文全体を削除する。
+[2] de 略歴／「Nach dem Pharmaziestudium an der Fakultät für Naturwissenschaften und Technik der Nihon-Universität」／「卒業」の事実が訳出されていない。／「Nach ihrem Abschluss im Fach Pharmazie an der Fakultät für Naturwissenschaften und Technik der Nihon-Universität」に直す。
+[2] de 略歴／「das Frisieren und Pflegen der Perücken der Bunraku-Puppen」／原文にない床山の仕事内容が追加されている。／説明部分を削除し、「zunächst die Arbeit als Tokoyama für Bunraku-Puppen」とする。
+[2] de 略歴／「Ihre Arbeiten waren in zahlreichen Einzelausstellungen zu sehen」／原文は本人が個展を重ねているという事実だが、作品が個展で展示されたという受動的な表現に変わっている。／「Sie veranstaltete zahlreiche Einzelausstellungen」に直す。
+[2] es 略歴／「Nacida en la prefectura de Saitama.」／原文にない出生地の事実が追加されている。／文全体を削除する。
+[2] es 略歴／「Tras estudiar Farmacia」／「卒業」の事実が「学んだ」と弱められ、卒業したことが落ちている。／「Tras graduarse en Farmacia」に直す。
+[2] es 略歴／「Ha realizado numerosas exposiciones individuales」／原文にない「numerosas（多数の）」という数量的評価が追加されている。／「Ha realizado exposiciones individuales」に直す。
+[2] ko 略歴／「사이타마현 출생.」／原文にない出生地の事実が追加されている。／削除する。
+[2] ko 略歴／「분라쿠 인형의 머리와 가발을 손질하는 도코야마(床山)를 거쳐」／「머리와 가발을 손질하는」という説明は原文にない事実の追加。／「분라쿠 인형의 도코야마(床山)를 거쳐」に直す。
+[2] zh_cn 略歴／「生于埼玉县。」／原文にない出生地の事実が追加されている。／文全体を削除する。
+[2] zh_cn 一言紹介／「雕刻心爱的动物」／原文にない「彫刻する」という意味が追加され、「愛しき動物たち」という並列的な紹介も動作表現に変わっている。／「祈愿的造型、可爱的动物们」に直す。
+[2] zh_tw 略歴／「生於埼玉縣。」／原文にない出生地が追加されている。／文全体を削除する。
+[2] zh_tw 略歴／「（負責為人偶梳頭、結髮的工作）」／原文にない仕事内容の説明が追加されている。／括弧内全体を削除する。
+[2] zh_tw 一言紹介／「雕刻心愛的動物」／原文にない「雕刻」という行為・技法が追加され、「愛しき動物たち」という名詞句が動作表現に変わっている。／「心愛的動物們」に直す。
+
+════════ suzuki-osamu（4件）════════
+[1] de 略歴／「Pferde, Wolken und Vögel」／原文の「など」が落ちている／「Motive wie Pferde, Wolken und Vögel」と直す。
+[1] es 功績／「En sus caballos deizō」／原文の「馬など」に当たる意味が落ちている。／「En obras deizō como sus caballos」に直す。
+[2] fr 功績／「Dans ses chevaux deizō」／「『泥像』の馬など」の「など」が落ちており、表現も不自然。／「Dans des œuvres deizō telles que ses chevaux」に直す。
+[2] zh_tw 略歴／「以將馬、雲、鳥等單純化的「泥像」作品而知名」／語順が不自然で、「泥像」と呼んだという事実も明確に表されていない。／「以將馬、雲、鳥等簡化而成、稱為「泥像」的作品聞名」に直す。
+
+════════ suzuki-shintaro（5件）════════
+[1] fr 功績／「se construisent dans des couleurs accessibles」／「親しみやすい色」の誤訳で、「couleurs accessibles」および「se construisent dans」は不自然。／「sont composés dans une palette de couleurs familières」に直す。
+[1] zh_cn 略歴／「出生于东京八王子的西画家。」／作家名「铃木信太郎」が抜けており、動詞のない文になっている。また「洋画家」の指定訳は「西洋画家」／「铃木信太郎出生于东京八王子，是一位西洋画家。」
+[1] zh_tw 略歴／「人形」／一般名詞としては「人の形」という意味に取られ、「人形（にんぎょう）」の誤訳。／「玩偶」に直す。
+[1] zh_tw 功績／「人形」／一般名詞としては「人の形」という意味に取られ、「人形（にんぎょう）」の誤訳。／「玩偶」に直す。
+[2] zh_cn 略歴／「出生于东京八王子的西画家」／主語「铃木信太郎」が欠落し、「洋画家」の指定訳とも不一致／「铃木信太郎是出生于东京八王子的西洋画家」に直す。
+
+════════ suzuki-suiken（5件）════════
+[1] es 略歴／「un estilo refinado y sereno」／「気品ある」は反映されているが、「端正」が「sereno」となり、「整った端正な書風」という要素が落ちている／「un estilo caligráfico elegante, pulcro y equilibrado」などとする。
+[1] es 功績／「una kanji calligraphy serena」／「kanji calligraphy」がスペイン語として不自然で、「端正」が「serena」と誤訳されている／「una caligrafía de caracteres kanji pulcra y equilibrada」などとする。専門語の訳語は要確認。
+[1] zh_cn 功績／「字帖范本」／「字帖」と「范本」が重複気味で不自然であり、原文にない「字帖」という媒体も加わっている／「书写范本」
+[2] es 略歴／「un estilo refinado y sereno」／「気品ある」は反映されているが、「端正な」が「sereno」となり、整った字姿という意味が落ちている。／「un estilo caligráfico elegante, pulcro y bien proporcionado」などとする。
+[2] zh_cn 功績／「字帖范本」／「字帖」と「范本」が重複気味で、原文にない「字帖」という形式も加わっている／「书写范本」に直す。
+
+════════ tabuchi-yasukazu（3件）════════
+[1] de 功績／「als ein Anschwellen von Farbe und Form」／「Anschwellen」は量や音などの「増大」を表し、「色と形のうねり」の誤訳。／「als dynamische Bewegung von Farbe und Form」などとする。
+[1] de 功績／「auch in der Fremde lebendig gehalten」／「lebendig」は原文にない評価的な意味を加えている。／「auch in der Fremde bewahrt」とする。
+[2] de 功績／「als ein Anschwellen von Farbe und Form」／「Anschwellen」は「膨張・増大」を意味し、「色と形のうねり」の誤訳。／「als dynamische Wellenbewegung von Farbe und Form」などとする。
+
+════════ tabuchi-yukio（4件）════════
+[1] de 功績／「eine tiefe Ehrfurcht vor der Natur」／「Ehrfurcht」は「敬意」より意味が強く、原文にない畏怖の含意を加えている。／「einen tiefen Respekt vor der Natur」に直す。
+[1] en 略歴／「“the Northern Japanese Alps”」／一言紹介・功績の “the Northern Alps” と同じ地名の訳が不統一。／“the Northern Alps” に統一する。
+[2] es 略歴／「fotografiaron largamente la montaña」／不自然な表現で、「山岳写真を撮り続けた」という継続の事実が正確に表されていない。／「siguieron dedicándose a la fotografía de montaña」に直す。
+[2] fr 功績／「les Alpes du Nord」／略歴・一言紹介の同じ地名と訳語が統一されておらず、日本の北アルプスであることも不明瞭／「les Alpes japonaises du Nord」に統一する。

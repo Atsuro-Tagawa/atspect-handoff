@@ -1,0 +1,41 @@
+===== 1) 北アルプス の各言語（作家内の不統一）=====
+tabuchi-yukio [statement] «the Northern Alps» … A mountain photographer who shot the Northern Alps and alpine butterflies
+tabuchi-yukio [bio] «the Northern Japanese Alps» … as a photographer and naturalist born in Tottori Prefecture. He loved the Northern Japanese Alps and recorded the mountain scenery and the alpine butterflies th
+tabuchi-yukio [viewpoint] «the Northern Alps» … He was a mountain photographer who shot the Northern Alps and alpine butterflies. In his photographs of mountains and alpine butte
+── 合計 3件 / 1名 （母集団＝日本語に「北アルプス」がある欄・言語=en）
+tabuchi-yukio [statement] «Alpes du Nord et les papi» … Un photographe de montagne qui saisit les Alpes du Nord et les papillons alpins
+tabuchi-yukio [bio] «Alpes japonaises du Nord» … hotographe et naturaliste né dans la préfecture de Tottori. Épris des Alpes japonaises du Nord, il consigna les paysages de montagne et les papillons alpins qui
+tabuchi-yukio [viewpoint] «Alpes du Nord et les papi» … Il était un photographe de montagne qui saisit les Alpes du Nord et les papillons alpins. Dans ses photographies de montagnes et de papillons
+── 合計 3件 / 1名 （母集団＝日本語に「北アルプス」がある欄・言語=fr）
+===== 2) 絵付け の各言語 =====
+     6件  彩绘
+     2件  绘饰
+
+── zh_tw（1形）
+     2件  繪飾
+
+── ko（1形）
+    10件  그림
+
+── fr（2形）
+     6件  peinture
+     1件  décor peint
+
+── es（2形）
+     6件  pintura
+     1件  decoración pintada
+
+── de（2形）
+     7件  Malerei
+     1件  Bemalung
+===== 3) 帝室技芸員の独語注釈 =====
+── ko（0形）
+
+── fr（0形）
+
+── es（0形）
+
+── de（3形）
+    10件  Teishitsu Gigeiin
+     9件  Hofkünstler
+     5件  vom Kaiserhaus verliehener Titel

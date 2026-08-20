@@ -1,0 +1,244 @@
+{
+ "reason": "第42束＝二重検品616件（★A88件）のうち、日本語原文と1件ずつ照合し、かつ全627名で横断型でないと実測で確かめたものだけを是正する。棄却した横断型＝絵付け→一般語（絵画）側が6〜7件の多数派／作刀 es forja 19 対 espadas 14／帝室技芸員 de の注釈（T03 凍結中）／後進の限定（T51）／活躍→destacó（第38束で横断型と判定済み）／『など』の落ち（第38束の線引きで棄却済み・一貫）／zh 略歴の主語落ち（T24 凍結中）／洋画家 zh（T23 凍結中）／造形 zh 表記（T35 凍結中）／★造形主義の訳語（formalism/plasticisme）と岩絵具の韓国語（암채）は訳語の確定が要るのでリサーチT・司令塔へ申し送り ／★関所（Codex）の指摘を反映＝(a)西語『numerosas』は原文『個展を重ねている』の複数回の意味を担っているため★是正自体を取り下げた（1回目の検品指摘が誤りだった） (b)仏語『calligraphie de kanji』を『œuvres calligraphiques en kanji』へ (c)仏語『couleurs familières』はCodexが1回目と2回目で逆の判定を出したため、語は元のまま残し構文だけ『se construisent dans』→『sont composés dans』に直した ／★2巡目の関所が『sont composés dans des couleurs』を不自然と判定したため『sont composés de couleurs accessibles』へ ／★★鈴木信太郎さま仏語【功績】の『親しみやすい色』は、関所が3巡連続で異なる案（accessibles→familières→accessibles→familières）を出し判定が収束しなかったため★是正自体を取り下げた。元の文は意味が通り、§5の線引き（補足で元の文が保てる精度の余地は追わない）にも該当する",
+ "enteredBy": "翻訳品質T 2026-08-20 第42束",
+ "patches": [
+  {
+   "handle": "sugiyama-yasushi",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "to sublimate its subject into pure form",
+   "to": "to sublimate its subject into plastic form"
+  },
+  {
+   "handle": "sugiyama-yasushi",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "sublimer son motif en forme pure",
+   "to": "sublimer son motif en une construction plastique"
+  },
+  {
+   "handle": "sugiyama-yasushi",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "busca sublimar su motivo en forma pura",
+   "to": "busca sublimar el objeto representado en una forma plástica"
+  },
+  {
+   "handle": "sugiyama-yasushi",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "in reine Form",
+   "to": "in eine bildnerische Form"
+  },
+  {
+   "handle": "sugiyama-yasushi",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "代表作有《孔雀》《穹》《洸》等。",
+   "to": "以《孔雀》《穹》《洸》等作品闻名。"
+  },
+  {
+   "handle": "sugiyama-yasushi",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "代表作有《孔雀》《穹》《洸》等。",
+   "to": "以《孔雀》《穹》《洸》等作品聞名。"
+  },
+  {
+   "handle": "sumitani-masamine",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "如丁香花蕾般连缀",
+   "to": "如丁香果实般连缀"
+  },
+  {
+   "handle": "sumitani-masamine",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "如丁香花蕾连缀般浮现",
+   "to": "如丁香果实连缀般浮现"
+  },
+  {
+   "handle": "sumitani-masamine",
+   "lang": "zh_tw",
+   "field": "viewpoint",
+   "from": "如丁香花蕾連綴般浮現",
+   "to": "如丁香果實連綴般浮現"
+  },
+  {
+   "handle": "sumitani-masamine",
+   "lang": "es",
+   "field": "statement",
+   "from": "Un forjador Tesoro Nacional Viviente que",
+   "to": "Un forjador de espadas designado Tesoro Nacional Viviente que"
+  },
+  {
+   "handle": "sumitani-masamine",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "Fue un forjador que",
+   "to": "Fue un forjador de espadas que"
+  },
+  {
+   "handle": "sumiyama-nanboku",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "En sus kanji",
+   "to": "En sus obras de caligrafía en kanji"
+  },
+  {
+   "handle": "sumiyama-nanboku",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "Dans ses kanji",
+   "to": "Dans ses œuvres calligraphiques en kanji"
+  },
+  {
+   "handle": "sumiyama-nanboku",
+   "lang": "de",
+   "field": "bio",
+   "from": "In der Kansai-Region ansässig",
+   "to": "In der Kansai-Region tätig"
+  },
+  {
+   "handle": "suwa-sozan",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "auf die Vertiefung der klaren blaugrünen Glasur",
+   "to": "auf die Tiefe der klaren blaugrünen Glasur"
+  },
+  {
+   "handle": "suwa-sozan",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "l'approfondissement de la glaçure bleu-vert limpide",
+   "to": "la profondeur de la glaçure bleu-vert limpide"
+  },
+  {
+   "handle": "suzuki-chikako",
+   "lang": "en",
+   "field": "bio",
+   "from": "Born in Saitama Prefecture, Japan. ",
+   "to": ""
+  },
+  {
+   "handle": "suzuki-chikako",
+   "lang": "de",
+   "field": "bio",
+   "from": "In der Präfektur Saitama geboren. ",
+   "to": ""
+  },
+  {
+   "handle": "suzuki-chikako",
+   "lang": "es",
+   "field": "bio",
+   "from": "Nacida en la prefectura de Saitama. ",
+   "to": ""
+  },
+  {
+   "handle": "suzuki-chikako",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Née dans la préfecture de Saitama. ",
+   "to": ""
+  },
+  {
+   "handle": "suzuki-chikako",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "生于埼玉县。",
+   "to": ""
+  },
+  {
+   "handle": "suzuki-chikako",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "生於埼玉縣。",
+   "to": ""
+  },
+  {
+   "handle": "suzuki-chikako",
+   "lang": "ko",
+   "field": "bio",
+   "from": "사이타마현 출생. ",
+   "to": ""
+  },
+  {
+   "handle": "suzuki-shintaro",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "人形與風景",
+   "to": "玩偶與風景"
+  },
+  {
+   "handle": "suzuki-shintaro",
+   "lang": "zh_tw",
+   "field": "viewpoint",
+   "from": "人形與風景",
+   "to": "玩偶與風景"
+  },
+  {
+   "handle": "suzuki-suiken",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "许多工整优美的字帖范本",
+   "to": "许多工整优美的书写范本"
+  },
+  {
+   "handle": "tabuchi-yasukazu",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "als ein Anschwellen von Farbe und Form",
+   "to": "als eine Wellenbewegung von Farbe und Form"
+  },
+  {
+   "handle": "tabuchi-yasukazu",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "auch in der Fremde lebendig gehalten",
+   "to": "auch in der Fremde bewahrt"
+  },
+  {
+   "handle": "tabuchi-yukio",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "eine tiefe Ehrfurcht vor der Natur",
+   "to": "einen tiefen Respekt vor der Natur"
+  },
+  {
+   "handle": "tabuchi-yukio",
+   "lang": "en",
+   "field": "statement",
+   "from": "the Northern Alps",
+   "to": "the Northern Japanese Alps"
+  },
+  {
+   "handle": "tabuchi-yukio",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "the Northern Alps",
+   "to": "the Northern Japanese Alps"
+  },
+  {
+   "handle": "tabuchi-yukio",
+   "lang": "fr",
+   "field": "statement",
+   "from": "les Alpes du Nord",
+   "to": "les Alpes japonaises du Nord"
+  },
+  {
+   "handle": "tabuchi-yukio",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "les Alpes du Nord",
+   "to": "les Alpes japonaises du Nord"
+  },
+  {
+   "handle": "tabuchi-yukio",
+   "lang": "es",
+   "field": "bio",
+   "from": "fotografiaron largamente la montaña",
+   "to": "siguieron dedicándose a la fotografía de montaña"
+  }
+ ]
+}
