@@ -1,0 +1,258 @@
+{
+ "reason": "第46束（作家511〜520）＝二重検品140本のうち★A 97件を日本語原文と1件ずつ照合し、かつ全627名で横断型でないと実測で確かめたものだけを是正する。★★裁定Y待ちのため触らなかったもの＝Y10文化功労者2件・Y14洋画家3件・Y18しっとり1件・Y19帝室技芸員1件・Y02人間国宝2件・Y07二科会2件・Y20伝える1件・Y21箱2件・Y23画面1件・Y24人物2件（計17件）。★『定年退官』の意味が訳で落ちる型は、全627名で母集団7欄を測ると en 0/7・zh_cn 0/7・es 3/7 など言語ごとに大きく割れる横断型と判明したため触らず材料表へ（谷口吉郎さまの指摘6言語ぶんを見送った）。★龍村平蔵さまの『帝室技芸員に任じられた』は7言語すべての検品が出典つきで日本語原文の事実疑義を出したため、訳文を触らずリサーチTへ申し送る／★置換表を作る段階で欄をまたいで数えたところ（CLAUDE.md §6）、谷口吉郎さま独語の【功績】だけを直して【略歴】側の同じ表現を落としかけていたため、適用前に足した／★関所1巡目＝当方の置換案そのものの欠陥3種を修正（仏語 prix de l'œuvre が不自然→prix de l'œuvre architecturale／簡体字・繁体字で『报道绘画画家』と『画』が重なる→『凝视社会、从事报道绘画的前卫画家』の形へ）",
+ "enteredBy": "翻訳品質T 2026-08-20 第46束",
+ "patches": [
+  {
+   "handle": "tatsuno-kingo",
+   "lang": "en",
+   "field": "bio",
+   "from": "After studying in Britain as a government-funded student, he returned",
+   "to": "After studying in Britain, he returned"
+  },
+  {
+   "handle": "tatsuno-kingo",
+   "lang": "de",
+   "field": "bio",
+   "from": "Nach einem staatlich geförderten Studienaufenthalt in Großbritannien",
+   "to": "Nach einem Studienaufenthalt in Großbritannien"
+  },
+  {
+   "handle": "tatsuno-kingo",
+   "lang": "fr",
+   "field": "bio",
+   "from": "en Grande-Bretagne en tant que boursier du gouvernement, il rentre",
+   "to": "en Grande-Bretagne, il rentre"
+  },
+  {
+   "handle": "tatsuno-kingo",
+   "lang": "es",
+   "field": "bio",
+   "from": "estudiar en Gran Bretaña como becario del gobierno, regresó",
+   "to": "estudiar en Gran Bretaña, regresó"
+  },
+  {
+   "handle": "tatsuno-kingo",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "作为官费留学生赴英国学习后回国",
+   "to": "赴英国留学后回国"
+  },
+  {
+   "handle": "tatsuno-kingo",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "作為官費留學生赴英國學習後回國",
+   "to": "赴英國留學後回國"
+  },
+  {
+   "handle": "tatsuno-kingo",
+   "lang": "ko",
+   "field": "bio",
+   "from": "관비 유학생으로 영국에서 공부한 뒤 귀국하여",
+   "to": "영국에서 유학한 뒤 귀국하여"
+  },
+  {
+   "handle": "tatsuno-kingo",
+   "lang": "de",
+   "field": "bio",
+   "from": "Hizen (heute Präfektur Saga) geboren",
+   "to": "Hizen (heute Stadt Karatsu, Präfektur Saga) geboren"
+  },
+  {
+   "handle": "tatsuno-kingo",
+   "lang": "fr",
+   "field": "bio",
+   "from": "(actuelle préfecture de Saga)",
+   "to": "(actuelle ville de Karatsu, préfecture de Saga)"
+  },
+  {
+   "handle": "tatsuno-kingo",
+   "lang": "es",
+   "field": "bio",
+   "from": "(actual prefectura de Saga)",
+   "to": "(actual ciudad de Karatsu, prefectura de Saga)"
+  },
+  {
+   "handle": "tatsuno-kingo",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "辰野葛西建築事務所（1903年創立）、辰野片岡建築事務所（1905年創立）",
+   "to": "辰野葛西建築事務所（1903年）、辰野片岡建築事務所（1905年）"
+  },
+  {
+   "handle": "tatsuno-kingo",
+   "lang": "ko",
+   "field": "bio",
+   "from": "다쓰노 가사이 건축사무소(1903년 설립), 다쓰노 가타오카 건축사무소(1905년 설립)",
+   "to": "다쓰노 가사이 건축사무소(1903년), 다쓰노 가타오카 건축사무소(1905년)"
+  },
+  {
+   "handle": "taniguchi-yoshiro",
+   "lang": "de",
+   "field": "bio",
+   "from": "1949 dessen Gestaltungspreis",
+   "to": "1949 dessen Werkpreis"
+  },
+  {
+   "handle": "taniguchi-yoshiro",
+   "lang": "fr",
+   "field": "bio",
+   "from": "son prix de conception en 1949",
+   "to": "son prix de l'œuvre architecturale en 1949"
+  },
+  {
+   "handle": "taniguchi-yoshiro",
+   "lang": "en",
+   "field": "bio",
+   "from": "the Meiji-mura open-air museum",
+   "to": "the Museum Meiji-mura"
+  },
+  {
+   "handle": "taniguchi-yoshiro",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "the Meiji-mura open-air museum",
+   "to": "the Museum Meiji-mura"
+  },
+  {
+   "handle": "taniguchi-yoshiro",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "Gründungsdirektor des Freilichtmuseums Meiji-mura",
+   "to": "erster Direktor des Museums Meiji-mura"
+  },
+  {
+   "handle": "taniguchi-yoshiro",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "including museums and memorial halls",
+   "to": "including art museums, other museums, and memorial halls"
+  },
+  {
+   "handle": "taniguchi-yoshiro",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "dont des musées et des mémoriaux",
+   "to": "dont des musées d'art, d'autres musées et des mémoriaux"
+  },
+  {
+   "handle": "tatsuo-ikeda",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "凝视社会的前卫报告文学画家",
+   "to": "凝视社会、从事报道绘画的前卫画家"
+  },
+  {
+   "handle": "tatsuo-ikeda",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "「报告文学绘画」",
+   "to": "「报道绘画」"
+  },
+  {
+   "handle": "tatsuo-ikeda",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "他是凝视社会的前卫报告文学画家",
+   "to": "他是一位凝视社会、从事报道绘画的前卫画家"
+  },
+  {
+   "handle": "tatsuo-ikeda",
+   "lang": "zh_tw",
+   "field": "statement",
+   "from": "凝視社會的前衛報導文學畫家",
+   "to": "凝視社會、從事報導繪畫的前衛畫家"
+  },
+  {
+   "handle": "tatsuo-ikeda",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "「報導文學繪畫」",
+   "to": "「報導繪畫」"
+  },
+  {
+   "handle": "tatsuo-ikeda",
+   "lang": "zh_tw",
+   "field": "viewpoint",
+   "from": "他是凝視社會的前衛報導文學畫家",
+   "to": "他是凝視社會、從事報導繪畫的前衛畫家"
+  },
+  {
+   "handle": "tatsumura-heizo",
+   "lang": "en",
+   "field": "bio",
+   "from": "above all obi sashes",
+   "to": "above all obi fabrics"
+  },
+  {
+   "handle": "tatsumura-heizo",
+   "lang": "es",
+   "field": "bio",
+   "from": "ante todo fajas obi",
+   "to": "entre ellos tejidos para obi"
+  },
+  {
+   "handle": "tatsumura-heizo",
+   "lang": "fr",
+   "field": "bio",
+   "from": "au premier rang desquels des ceintures obi",
+   "to": "notamment des étoffes pour obi"
+  },
+  {
+   "handle": "tatsumura-heizo",
+   "lang": "ko",
+   "field": "bio",
+   "from": "오비를 비롯한 격조 높은",
+   "to": "오비용 직물을 비롯한 격조 높은"
+  },
+  {
+   "handle": "tatsumura-heizo",
+   "lang": "ko",
+   "field": "viewpoint",
+   "from": "메이부쓰기레와 오비에서",
+   "to": "메이부쓰기레와 오비용 직물에서"
+  },
+  {
+   "handle": "tatsumura-heizo",
+   "lang": "de",
+   "field": "bio",
+   "from": "vor allem Obi-Gürtel",
+   "to": "vor allem Obi-Stoffe"
+  },
+  {
+   "handle": "tatsumura-heizo",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "Meibutsugire und Obi auf die",
+   "to": "Meibutsugire und Obi-Stoffen auf die"
+  },
+  {
+   "handle": "terai-naoji",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "aprovechó los núcleos metálicos",
+   "to": "aprovechó las bases metálicas"
+  },
+  {
+   "handle": "terai-naoji",
+   "lang": "es",
+   "field": "statement",
+   "from": "aprovechó los núcleos metálicos",
+   "to": "aprovechó las bases metálicas"
+  },
+  {
+   "handle": "terai-naoji",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "表现白色模样的",
+   "to": "表现白色纹样的"
+  },
+  {
+   "handle": "taniguchi-yoshiro",
+   "lang": "de",
+   "field": "bio",
+   "from": "1964 wurde er Gründungsdirektor des Freilichtmuseums Meiji-mura",
+   "to": "1964 wurde er erster Direktor des Museums Meiji-mura"
+  }
+ ]
+}
