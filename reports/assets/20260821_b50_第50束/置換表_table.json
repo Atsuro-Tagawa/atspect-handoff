@@ -1,0 +1,181 @@
+{
+ "reason": "第50束（作家551〜560）＝二重検品140本のうち★A 66件を日本語原文と1件ずつ照合し、全627名で横断型でないと実測したものだけを是正する。★★『後進』を『後継者（sucesores／Nachfolger／successeurs）』と訳す型は、第45束で英語だけを直しており、スペイン語・ドイツ語・フランス語に6件ずつ残っていた（英語・韓国語・中国語は0件で統一済み）。★言語をまたいだ取りこぼしなので、束の対象外の作家も含めて18欄すべてを直し、全言語の残存を0にする。★★触らなかった型＝植木茂さまの『抽象彫刻』（T77）／上野彦馬さま仏語ほかの rangaku の括弧説明（用語注入の『直してはいけない型 B2＝定訳なし語はローマ字＋説明のまま』に該当）。★Y裁定待ち＝Y11写生1件・Y02人間国宝2件・Y20伝える1件・Y23画面2件・Y24人物4件。★日本語原文の事実疑義4件はリサーチTへ申し送り／★関所1巡目＝当方の是正案そのものの欠陥6件を修正（独語で関係代名詞が女性名詞 Fototechnik と不一致／英語は Emperor Meiji が標準／西語が冗長／仏語で先行詞の数と動詞が不一致・『準備と時間』の並列が失われた／繁体字で『被視為一位畫家』が画家であること自体に疑義があるように読める）／★関所2巡目＝(a)上村松園さまの『文化勲章を受けた女性初の記述から画家が落ちている』型は取り下げ＝1巡目が『画家を補え』と言い、2巡目は英語・西語・繁体字の3言語とも『変更前に戻せ』と言って指摘が収束しなかった（西語は『画家の中で初めて』に意味が狭まるとの指摘）。(b)独語で Würde が近接して重複するため Erhabenheit へ。(c)仏語 consacrer beaucoup de préparation が不自然なため主語を prise de vue に変えた／★関所3巡目＝仏語で分詞 inscrivant の主語が prise de vue になってしまうため、主語を il に戻したうえで『準備と時間』の並列を保つ形にした／★関所4巡目＝仏語の文の作り替えは3巡続けて別の指摘が出て収束しなかったため取りやめ、当初の指摘そのもの（image unique＝『唯一無二の画像』で『一枚』の誤訳）だけを最小限に直す形に切り替えた（chaque image unique → chaque photographie）。構文には手を入れない",
+ "enteredBy": "翻訳品質T 2026-08-21 第50束",
+ "patches": [
+  {
+   "handle": "uchida-kuichi",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "das den Ernst des Dargestellten",
+   "to": "das die Erhabenheit des Dargestellten"
+  },
+  {
+   "handle": "uchida-kuichi",
+   "lang": "en",
+   "field": "bio",
+   "from": "portrait photographs of the Emperor",
+   "to": "portrait photographs of Emperor Meiji"
+  },
+  {
+   "handle": "uchida-kuichi",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "Il était un photographe des premiers portraits",
+   "to": "Il était un photographe portraitiste des débuts de la photographie"
+  },
+  {
+   "handle": "uchida-kuichi",
+   "lang": "fr",
+   "field": "statement",
+   "from": "Un photographe des premiers portraits",
+   "to": "Un photographe portraitiste des débuts de la photographie"
+  },
+  {
+   "handle": "uchida-kuichi",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "la lumière paisible qui révèle la gravité du modèle",
+   "to": "la lumière sobre qui fait ressortir la dignité du modèle"
+  },
+  {
+   "handle": "uchida-yoshikazu",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "东京帝国大学总长（校长）",
+   "to": "东京帝国大学总长"
+  },
+  {
+   "handle": "uchida-yoshikazu",
+   "lang": "es",
+   "field": "bio",
+   "from": "Institute of Japan en varias ocasiones",
+   "to": "Institute of Japan durante varios mandatos"
+  },
+  {
+   "handle": "ueda-shoji",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "在于沙丘上布置人物的作品中",
+   "to": "在沙丘上布置人物的作品中"
+  },
+  {
+   "handle": "ueda-shoji",
+   "lang": "ko",
+   "field": "viewpoint",
+   "from": "사람과 모자, 양산을",
+   "to": "사람과 모자, 우산을"
+  },
+  {
+   "handle": "ueda-sokyu",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "se percibe un espíritu experimental que, tras dominar",
+   "to": "se percibe el espíritu experimental con el que, tras dominar"
+  },
+  {
+   "handle": "ueda-sokyu",
+   "lang": "de",
+   "field": "bio",
+   "from": "von Zeichen als reine Form",
+   "to": "von Zeichen als formales Gestaltungselement"
+  },
+  {
+   "handle": "ueki-shigeru",
+   "lang": "ko",
+   "field": "viewpoint",
+   "from": "다듬어진 나뭇결에",
+   "to": "매끄럽게 다듬어진 나무 표면의 나뭇결에"
+  },
+  {
+   "handle": "uemura-shoen",
+   "lang": "ko",
+   "field": "bio",
+   "from": "어머니로서 가정을 지키며",
+   "to": "어머니로서 가정을 부양하며"
+  },
+  {
+   "handle": "uemura-shoko",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "non seulement par les oiseaux eux-mêmes",
+   "to": "non seulement par la représentation des oiseaux"
+  },
+  {
+   "handle": "uemura-shoko",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "Al seguir el trazado de las plumas",
+   "to": "Al seguir la representación de las plumas"
+  },
+  {
+   "handle": "ueno-hikoma",
+   "lang": "de",
+   "field": "bio",
+   "from": "Er beherrschte das nasse Kollodiumverfahren seiner Zeit, das",
+   "to": "Er beherrschte die damalige Fototechnik, die"
+  },
+  {
+   "handle": "ueno-hikoma",
+   "lang": "en",
+   "field": "bio",
+   "from": "He mastered the wet-plate process of his day",
+   "to": "He mastered the photographic process of his day"
+  },
+  {
+   "handle": "ueno-hikoma",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Il maîtrisa le procédé au collodion humide de son temps, qui employait",
+   "to": "Il maîtrisa les techniques photographiques de son temps, qui employaient"
+  },
+  {
+   "handle": "ueno-hikoma",
+   "lang": "ko",
+   "field": "bio",
+   "from": "당시의 습판 사진술에",
+   "to": "당시의 사진술에"
+  },
+  {
+   "handle": "ueno-hikoma",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "他精研当时使用玻璃感光板的湿版",
+   "to": "他精研当时使用玻璃感光板的"
+  },
+  {
+   "handle": "ueno-hikoma",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "他精研當時使用玻璃感光板的濕版攝影術",
+   "to": "他精研當時使用玻璃感光板的攝影術"
+  },
+  {
+   "handle": "ueno-hikoma",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "chaque image unique",
+   "to": "chaque photographie"
+  },
+  {
+   "handle": "ueno-hikoma",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "以坂本龍馬為首的幕末志士",
+   "to": "包括坂本龍馬在內的幕末志士"
+  },
+  {
+   "handle": "ueno-tameji",
+   "lang": "en",
+   "field": "bio",
+   "from": "Kyō-yūzen (Kyoto silk dyeing)",
+   "to": "Kyō-yūzen"
+  },
+  {
+   "handle": "ueno-tameji",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "风景与草花之细腻",
+   "to": "风景与草花的细腻描写"
+  }
+ ]
+}

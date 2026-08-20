@@ -1,0 +1,132 @@
+{
+ "reason": "★第45束の取りこぼしの是正＝『後進』を『後継者（sucesores／Nachfolger／successeurs）』と訳す型は、第45束で英語だけを直しており、スペイン語6件・ドイツ語6件・フランス語6件が残っていた（英語・韓国語・中国語は0件で統一済み）。★欄をまたぐだけでなく『言語をまたぐ取りこぼし』が起きていた。母集団＝日本語に『後進』がある79欄。18欄すべてを直し、全7言語の残存を0にする。★各件とも日本語原文に『後進』があることを確認済み／★関所1巡目＝独語の指摘を採った＝『後進』は年齢の若さではなく後続世代・人材を指すため、jüngere … ではなく Nachwuchs 系（kalligrafischer Nachwuchs／Webernachwuchs／Nachwuchsarchitekten）へ。★第45束で田中千代さまの独語を Nachwuchskräfte としたのと同じ方向で揃った。西語・仏語も『単なる年下』を避ける形へ",
+ "enteredBy": "翻訳品質T 2026-08-21 第50束（後進の言語またぎ是正）",
+ "patches": [
+  {
+   "handle": "kamijo-shinzan",
+   "lang": "es",
+   "field": "bio",
+   "from": "Formando a sus sucesores en lo teórico",
+   "to": "Formando a jóvenes calígrafos en lo teórico"
+  },
+  {
+   "handle": "kamijo-shinzan",
+   "lang": "de",
+   "field": "bio",
+   "from": "Indem er seine Nachfolger in Theorie",
+   "to": "Indem er den kalligrafischen Nachwuchs in Theorie"
+  },
+  {
+   "handle": "kamijo-shinzan",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Formant ses successeurs sur les plans",
+   "to": "Formant de jeunes calligraphes sur les plans"
+  },
+  {
+   "handle": "imai-ryosetsu",
+   "lang": "es",
+   "field": "bio",
+   "from": "y formó a numerosos sucesores",
+   "to": "y formó a numerosos calígrafos más jóvenes"
+  },
+  {
+   "handle": "imai-ryosetsu",
+   "lang": "de",
+   "field": "bio",
+   "from": "und bildete zahlreiche Nachfolger aus",
+   "to": "und bildete zahlreiche Angehörige des kalligrafischen Nachwuchses aus"
+  },
+  {
+   "handle": "imai-ryosetsu",
+   "lang": "fr",
+   "field": "bio",
+   "from": "et a formé de nombreux successeurs",
+   "to": "et a formé de nombreux calligraphes plus jeunes"
+  },
+  {
+   "handle": "tanaka-chiyo",
+   "lang": "es",
+   "field": "bio",
+   "from": "y formó a numerosos sucesores",
+   "to": "y formó a numerosas personas de generaciones posteriores"
+  },
+  {
+   "handle": "tanaka-chiyo",
+   "lang": "fr",
+   "field": "bio",
+   "from": "et forma de nombreux successeurs",
+   "to": "et forma de nombreux élèves"
+  },
+  {
+   "handle": "taira-toshiko",
+   "lang": "de",
+   "field": "bio",
+   "from": "und bildete ihre Nachfolger aus",
+   "to": "und bildete den Webernachwuchs aus"
+  },
+  {
+   "handle": "yonamine-sada",
+   "lang": "de",
+   "field": "bio",
+   "from": "Sie bildete ihre Nachfolger aus",
+   "to": "Sie bildete den Webernachwuchs aus"
+  },
+  {
+   "handle": "yoshihara-hideo",
+   "lang": "es",
+   "field": "bio",
+   "from": "y a la formación de sus sucesores",
+   "to": "y a la formación de artistas más jóvenes"
+  },
+  {
+   "handle": "yoshihara-hideo",
+   "lang": "fr",
+   "field": "bio",
+   "from": "et à la formation de ses successeurs",
+   "to": "et à la formation d'artistes plus jeunes"
+  },
+  {
+   "handle": "watanabe-sao",
+   "lang": "es",
+   "field": "bio",
+   "from": "se dedicó a formar a sus sucesores",
+   "to": "se dedicó a formar a calígrafos más jóvenes"
+  },
+  {
+   "handle": "watanabe-sao",
+   "lang": "de",
+   "field": "bio",
+   "from": "um die Ausbildung seiner Nachfolger",
+   "to": "um die Ausbildung des kalligrafischen Nachwuchses"
+  },
+  {
+   "handle": "watanabe-sao",
+   "lang": "fr",
+   "field": "bio",
+   "from": "il s'attacha aussi à former ses successeurs",
+   "to": "il s'attacha aussi à former de jeunes calligraphes"
+  },
+  {
+   "handle": "uchida-yoshikazu",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "y formado a su vez a numerosos sucesores",
+   "to": "y formado a su vez a numerosos arquitectos más jóvenes"
+  },
+  {
+   "handle": "uchida-yoshikazu",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "und selbst zahlreiche Nachfolger ausbildete",
+   "to": "und selbst zahlreiche Nachwuchsarchitekten ausbildete"
+  },
+  {
+   "handle": "uchida-yoshikazu",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "et formé lui-même de nombreux successeurs",
+   "to": "et formé lui-même de nombreux architectes plus jeunes"
+  }
+ ]
+}

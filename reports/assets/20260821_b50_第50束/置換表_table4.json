@@ -1,0 +1,10 @@
+{
+ "reason": "★『友禅』の括弧説明にも原文にない『絹（silk dyeing／Seidenfärbung／teñido de seda／비단 염색）』が入っていた。木村雨山さまの原文は『布に絵を描くように模様を染める技法』、山田貢さまの原文は『筆で布に直接模様を描く手描友禅』で、いずれも布であって絹に限定していない。★京友禅の2名と同じ型。4件を直して残存を0にする",
+ "enteredBy": "翻訳品質T 2026-08-21 第50束（友禅の絹・第4次）",
+ "patches": [
+  {"handle":"kimura-uzan","lang":"de","field":"bio","from":"dem Yūzen (Seidenfärbung) zu","to":"dem Yūzen zu"},
+  {"handle":"yamada-mitsugi","lang":"en","field":"bio","from":"He studied yūzen (silk dyeing) in Kyoto","to":"He studied yūzen in Kyoto"},
+  {"handle":"yamada-mitsugi","lang":"es","field":"bio","from":"Estudió yūzen (teñido de seda) en Kioto","to":"Estudió yūzen en Kioto"},
+  {"handle":"yamada-mitsugi","lang":"ko","field":"bio","from":"교토에서 유젠(비단 염색)을 배워","to":"교토에서 유젠을 배워"}
+ ]
+}

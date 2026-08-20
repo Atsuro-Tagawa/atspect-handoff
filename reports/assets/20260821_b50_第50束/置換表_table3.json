@@ -1,0 +1,15 @@
+{
+ "reason": "★突き合わせ②③が捕まえた『京友禅』の括弧説明に原文にない『絹（silk／Seide／soie／seda／비단）』が入っている型。★母集団＝日本語に『京友禅』がある5欄。上野為二さま・稲垣稔次郎さまの2名で、日本語原文にはどちらも絹の言及がない。★★当方は第50束の置換表で上野為二さまの英語だけを直しており、独語・仏語・西語・韓国語を落としていた（第45束の『後進』と同じ、言語をまたぐ取りこぼしを同じ束の中で繰り返した）。9件すべてを直して残存を0にする",
+ "enteredBy": "翻訳品質T 2026-08-21 第50束（京友禅の絹・言語またぎ是正）",
+ "patches": [
+  {"handle":"ueno-tameji","lang":"de","field":"bio","from":"Kyō-yūzen (Kyōtoer Seidenfärbung)","to":"Kyō-yūzen"},
+  {"handle":"ueno-tameji","lang":"fr","field":"bio","from":"Kyō-yūzen (teinture sur soie de Kyoto)","to":"Kyō-yūzen"},
+  {"handle":"ueno-tameji","lang":"es","field":"bio","from":"Kyō-yūzen (teñido de seda de Kioto)","to":"Kyō-yūzen"},
+  {"handle":"ueno-tameji","lang":"ko","field":"bio","from":"교유젠(교토 비단 염색)","to":"교유젠"},
+  {"handle":"inagaki-toshijiro","lang":"en","field":"bio","from":"Kyō-yūzen (Kyoto silk dyeing)","to":"Kyō-yūzen"},
+  {"handle":"inagaki-toshijiro","lang":"de","field":"bio","from":"Kyō-yūzen (Kyōtoer Seidenfärbung)","to":"Kyō-yūzen"},
+  {"handle":"inagaki-toshijiro","lang":"fr","field":"bio","from":"Kyō-yūzen (teinture sur soie de Kyoto)","to":"Kyō-yūzen"},
+  {"handle":"inagaki-toshijiro","lang":"es","field":"bio","from":"Kyō-yūzen (teñido de seda de Kioto)","to":"Kyō-yūzen"},
+  {"handle":"inagaki-toshijiro","lang":"ko","field":"bio","from":"교유젠(교토 비단 염색)","to":"교유젠"}
+ ]
+}
