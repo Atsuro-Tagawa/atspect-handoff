@@ -1,0 +1,314 @@
+{
+ "reason": "第43束＝二重検品678件（★A89件）のうち、日本語原文と1件ずつ照合し、かつ全627名で横断型でないと実測で確かめたものだけを是正する。棄却＝★maki-e の括弧注釈（材料表§5で『棄却で確定』済み＝Codexの指摘は裁定済み事項）／古筆の注釈と celebrated/célèbres/gefeierten（T50 凍結中）／後進の限定（T51 凍結中）／『来日していた』→定住の含意（狩野芳崖さまと高橋由一さまの2名＝横断型）／代表作 de Hauptwerk（43件の定型）・fr œuvre emblématique（4名）／『など』の落ち（第38束の線引きで棄却済み・一貫）／活躍→destacó（第38束で判定済み） ／★関所（Codex）が是正案自体の欠陥を捕まえた＝(a)繁体字『絲線』は絹糸を意味し芭蕉の繊維と食い違う→『製線』へ (b)簡体字で起点の『从』が消えていた (c)『生生不息』は原文にない強い評価 (d)西語で性数不一致（atuendos…inspirada）を生んでいた (e)独語で分詞句の主語が主節と対応しない文になっていた (f)簡体字『系统引入』は原文にない体系性を足す。すべて作り直した ／★簡体字『絣（ikat）』はCodexが1回目（英語表記は原文にない）と2回目（注記が要る）で逆の判定を出したため是正を取り下げた ／★★高田賢三さまの日本語原文『自身の名を冠した店を開いて』は史実と食い違う疑いをCodexが en/es/de の3言語で指摘（1970年パリの最初の店は Jungle Jap）＝日本語原文の事実確認はリサーチT／司令塔の持ち場なので訳文は触らず申し送る",
+ "enteredBy": "翻訳品質T 2026-08-20 第43束",
+ "patches": [
+  {
+   "handle": "taeko-tomiyama",
+   "lang": "en",
+   "field": "bio",
+   "from": "including the former Manchuria",
+   "to": "including former Manchuria"
+  },
+  {
+   "handle": "taeko-tomiyama",
+   "lang": "de",
+   "field": "bio",
+   "from": "die Kunst mit gesellschaftlichem Engagement verband",
+   "to": "Kunst und soziale Bewegungen miteinander verband"
+  },
+  {
+   "handle": "taeko-tomiyama",
+   "lang": "es",
+   "field": "bio",
+   "from": "quienes resultaron heridos en medio de la guerra",
+   "to": "quienes fueron víctimas de la guerra"
+  },
+  {
+   "handle": "taguchi-yoshikuni",
+   "lang": "de",
+   "field": "bio",
+   "from": "zeichnet und Goldpulver bestreut",
+   "to": "zeichnet und darauf Goldpulver streut"
+  },
+  {
+   "handle": "taguchi-yoshikuni",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "al saltamontes oculto entre el nácar",
+   "to": "al saltamontes oculto en la incrustación de nácar"
+  },
+  {
+   "handle": "taira-koichi",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "the desire of one who lived on the same islands",
+   "to": "the desire of a fellow islander"
+  },
+  {
+   "handle": "taira-koichi",
+   "lang": "zh_tw",
+   "field": "viewpoint",
+   "from": "在此呼吸的文化",
+   "to": "在此延續的文化"
+  },
+  {
+   "handle": "taira-toshiko",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "a cloth rooted in southern island life",
+   "to": "a cloth rooted in life in the south"
+  },
+  {
+   "handle": "taira-toshiko",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "la vie des îles du Sud",
+   "to": "la vie des régions méridionales"
+  },
+  {
+   "handle": "taira-toshiko",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "la vida de las islas del sur",
+   "to": "la vida de las regiones meridionales"
+  },
+  {
+   "handle": "taira-toshiko",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "im Leben der südlichen Inseln",
+   "to": "im Leben des Südens"
+  },
+  {
+   "handle": "taira-toshiko",
+   "lang": "de",
+   "field": "bio",
+   "from": "in ihrem Heimatdorf Kijoka",
+   "to": "in ihrer Heimat Kijoka"
+  },
+  {
+   "handle": "taira-toshiko",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "她守护并传承自制丝、染色到织造的全部工序",
+   "to": "她守护并传承从制线、染色到织造的全部工序"
+  },
+  {
+   "handle": "taira-toshiko",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "以自制丝起",
+   "to": "从制线开始"
+  },
+  {
+   "handle": "taira-toshiko",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "自製絲",
+   "to": "製線"
+  },
+  {
+   "handle": "taira-toshiko",
+   "lang": "zh_tw",
+   "field": "viewpoint",
+   "from": "以自製絲起",
+   "to": "從製線開始"
+  },
+  {
+   "handle": "taira-toshiko",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "復興此藝",
+   "to": "復興芭蕉布"
+  },
+  {
+   "handle": "taira-toshiko",
+   "lang": "zh_tw",
+   "field": "viewpoint",
+   "from": "爽利的張力",
+   "to": "乾爽而挺括的質感"
+  },
+  {
+   "handle": "taira-toshiko",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "the crisp resilience of the fibers",
+   "to": "the smooth, crisp feel of the fibers"
+  },
+  {
+   "handle": "takabatake-tatsushiro",
+   "lang": "es",
+   "field": "statement",
+   "from": "Un pintor de la Asociación de Arte Independiente",
+   "to": "Un pintor de estilo occidental de la Asociación de Arte Independiente"
+  },
+  {
+   "handle": "takabatake-tatsushiro",
+   "lang": "de",
+   "field": "statement",
+   "from": "Maler der unabhängigen Kunst",
+   "to": "Maler im westlichen Stil (Yōga) der Vereinigung für unabhängige Kunst"
+  },
+  {
+   "handle": "takabatake-tatsushiro",
+   "lang": "de",
+   "field": "bio",
+   "from": "Vorwiegend in der Landschaft arbeitend, ist verzeichnet, dass er beherrschte Bilder in gedämpften Tönen schuf.",
+   "to": "Er malte vorwiegend Landschaftsbilder; verzeichnet sind ruhige Bildkompositionen in gedämpften Tönen."
+  },
+  {
+   "handle": "takabatake-tatsushiro",
+   "lang": "en",
+   "field": "bio",
+   "from": "composed pictures",
+   "to": "calm compositions"
+  },
+  {
+   "handle": "takabatake-tatsushiro",
+   "lang": "es",
+   "field": "bio",
+   "from": "Trabajando sobre todo el paisaje",
+   "to": "Dedicándose sobre todo a la pintura de paisajes"
+  },
+  {
+   "handle": "takada-kenzo",
+   "lang": "fr",
+   "field": "statement",
+   "from": "Un styliste de renommée mondiale",
+   "to": "Un styliste de mode de renommée mondiale"
+  },
+  {
+   "handle": "takada-kenzo",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "un styliste de renommée mondiale",
+   "to": "un styliste de mode de renommée mondiale"
+  },
+  {
+   "handle": "takada-kenzo",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "Blumendrucke",
+   "to": "Blumenmuster"
+  },
+  {
+   "handle": "takada-kenzo",
+   "lang": "en",
+   "field": "bio",
+   "from": "rose to prominence on the world stage",
+   "to": "was active on the world stage"
+  },
+  {
+   "handle": "takada-kenzo",
+   "lang": "de",
+   "field": "bio",
+   "from": "gelangte auf der Weltbühne zu Ansehen",
+   "to": "war auf der Weltbühne tätig"
+  },
+  {
+   "handle": "takada-kenzo",
+   "lang": "es",
+   "field": "bio",
+   "from": "una ropa de colores intensos y aire libre, inspirada",
+   "to": "unos atuendos de colores intensos y estilo libre, inspirados"
+  },
+  {
+   "handle": "takagi-seikaku",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "in the modern exhibition hall",
+   "to": "in modern exhibitions"
+  },
+  {
+   "handle": "takagi-seikaku",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "现代展厅中",
+   "to": "现代展览会上"
+  },
+  {
+   "handle": "takagi-seikaku",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "associe kanji et kana à grande échelle",
+   "to": "associe de grands caractères kanji et kana"
+  },
+  {
+   "handle": "takahashi-sadatsugu",
+   "lang": "es",
+   "field": "statement",
+   "from": "El forjador que se convirtió",
+   "to": "El forjador de espadas que se convirtió"
+  },
+  {
+   "handle": "takahashi-sadatsugu",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "Fue el forjador que se convirtió",
+   "to": "Fue el forjador de espadas que se convirtió"
+  },
+  {
+   "handle": "takahashi-sadatsugu",
+   "lang": "fr",
+   "field": "statement",
+   "from": "Le forgeron ",
+   "to": "Le forgeron de sabres "
+  },
+  {
+   "handle": "takahashi-sadatsugu",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "Il était le forgeron ",
+   "to": "Il était le forgeron de sabres "
+  },
+  {
+   "handle": "takahashi-sadatsugu",
+   "lang": "fr",
+   "field": "bio",
+   "from": "des sabres offerts à la Maison impériale",
+   "to": "des sabres destinés à la Maison impériale"
+  },
+  {
+   "handle": "takahashi-yuichi",
+   "lang": "en",
+   "field": "bio",
+   "from": "a private school",
+   "to": "a private art school"
+  },
+  {
+   "handle": "takahashi-yuichi",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "die Glätte",
+   "to": "die schleimig-glänzende Oberfläche"
+  },
+  {
+   "handle": "takahashi-yuichi",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "seine Entschlossenheit",
+   "to": "seine Beharrlichkeit"
+  },
+  {
+   "handle": "takahashi-yuichi",
+   "lang": "ko",
+   "field": "viewpoint",
+   "from": "끈에 매달린",
+   "to": "밧줄에 매달린"
+  },
+  {
+   "handle": "takahashi-yuichi",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "最早正式引入西洋画写实",
+   "to": "较早正式引入西洋绘画的写实手法"
+  },
+  {
+   "handle": "tada-minami",
+   "lang": "de",
+   "field": "bio",
+   "from": "verfolgte sie Formen, welche die Reflexion und Durchlässigkeit des Lichts nutzten",
+   "to": "verfolgte sie eine Gestaltung, die Reflexion und Transmission des Lichts nutzte"
+  }
+ ]
+}

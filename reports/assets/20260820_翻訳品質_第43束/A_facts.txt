@@ -1,0 +1,109 @@
+
+════════ taeko-tomiyama（3件）════════
+[1] es 略歴／「quienes resultaron heridos en medio de la guerra」／「heridos」は身体的な負傷に意味を狭めており、「戦争のなかで傷つけられた人々」の心理的・社会的被害を含む広がりが落ちている／「quienes sufrieron daños a causa de la guerra」などに直す。
+[2] de 略歴／「die Kunst mit gesellschaftlichem Engagement verband」／「社会運動」が「gesellschaftliches Engagement」とされ、運動という事実が弱められている。／「Kunst und soziale Bewegungen miteinander verband」とする。
+[2] en 略歴／「“including the former Manchuria”」／地名としての “Manchuria” に定冠詞 “the” を付けた表現が不自然。／“including former Manchuria” に直す。
+
+════════ taguchi-yoshikuni（14件）════════
+[1] de 略歴／「Goldpulver bestreut」／目的語がなく、文法的に不完全。また、日本語の「金粉など」の「など」が落ちている。／「darauf Goldpulver und andere Metallpulver streut」に直す。
+[1] en 略歴／「“sprinkling gold powder”」／原文の「金粉など」の「など」が落ちている。／“sprinkling gold and other powders”など、「など」を反映する。
+[1] es 略歴／「該当箇所：「maki-e clásico (decoración realizada con laca)」／何が問題か：括弧内の説明は原文にない情報で、蒔絵の説明としても不十分。／どう直すか：「maki-e clásico」とする。
+[1] es 功績／「該当箇所：「al saltamontes oculto entre el nácar」／何が問題か：「螺鈿」が単なる「nácar」となり、象嵌技法であることが落ちている。また「entre el nácar」は不自然。／どう直すか：「al saltamontes oculto en la incrustación de nácar」とする。
+[1] fr 略歴／「maki-e classique (décor de laque japonaise)」／括弧内の説明は原文にない情報。／「maki-e classique」とする。
+[1] ko 略歴／「마키에(일본 칠기의 마키에 장식)」／括弧内の説明は原文にない情報が追加されている／「마키에」に直す。
+[1] zh_cn 略歴／「古典莳绘（蒔絵，日本漆器的莳绘装饰）」／括弧内の説明は原文にない事実の追加で、「蒔」も簡体字ではない。／括弧内を削除し、「古典莳绘」とする。
+[1] zh_tw 略歴／「蒔繪（日本漆器的蒔繪裝飾）」／括弧内の説明は原文にない情報が追加されている／「蒔繪」に直す。
+[2] en 略歴／「“sprinkling gold powder”」／「金粉など」の「など」が落ちている。／“sprinkling gold powder and other materials”などとする。
+[2] es 略歴／「espolvorear polvo de oro」／「金粉など」の「など」が落ちている。／「espolvorear polvo de oro y otros materiales」とする。
+[2] fr 略歴／「à dessiner à la laque et à saupoudrer de la poudre d'or」／「金粉など」の「など」が落ちている。／「à dessiner à la laque et à saupoudrer notamment de la poudre d'or」とする。
+[2] ko 略歴／「(일본 칠기의 마키에 장식)」／原文にない説明が追加されている。／括弧内を削除し、「고전 마키에 연구와」に直す。
+[2] zh_cn 略歴／「（蒔絵，日本漆器的莳绘装饰）」／「日本漆器的莳绘装饰」は原文にない説明の追加。また「蒔絵」は簡体字中国語の字種ではない。／括弧内全体を削除する。
+[2] zh_tw 略歴／「日本漆器的蒔繪裝飾」／原文にない説明が追加されている。／括弧内を削除し、「他曾研究古典蒔繪」に直す。
+
+════════ taira-koichi（2件）════════
+[1] en 功績／「“the desire of one who lived on the same islands”」／「同じ島に生きる者」は、複数の島すべてに住んだという意味ではなく、同じ沖縄に生きる当事者としての立場を表す。“lived on the same islands”は事実関係を誤解させる。／“the desire of a fellow islander”などとする。
+[2] zh_tw 功績／「在此呼吸的文化」／「息づく文化」を「呼吸する文化」としており、語の取り違えがある。／「在此生生不息的文化」に直す。
+
+════════ taira-toshiko（19件）════════
+[1] de 略歴／「in ihrem Heimatdorf Kijoka」／「Dorf」は原文にない地理的区分を加えている。／「in ihrer Heimat Kijoka」に直す。
+[1] de 功績／「die straffe Festigkeit der aus der Fadenbanane gewonnenen Fasern」／「さらりとした」という触感が落ちており、「straffe Festigkeit」も重複感のある不自然な表現。／「die glatte, feste Beschaffenheit der aus der Fadenbanane gewonnenen Fasern」に直す。
+[1] de 功績／「im Leben der südlichen Inseln」／「Inseln」は原文にない事実を加えている。／「im Leben des subtropischen Südens」に直す。
+[1] en 功績／「“the crisp resilience of the fibers”」／原文の「さらりとした」に当たる質感が落ちている。／“the smooth, crisp feel of the fibers”などに直す。
+[1] fr 功績／「la vie des îles du Sud」／原文にない「îles」が加わっている。／「la vie dans les régions méridionales」など、「îles」を含まない表現に直す。
+[1] zh_cn 略歴／「自制丝」／「糸づくり」を「自ら絹を作る」と誤解させる誤訳。／「制线」に直す。
+[1] zh_cn 功績／「以自制丝起」／「糸づくり」を「自ら絹を作る」と誤解させる誤訳で、表現も不自然。／「从制线开始」に直す。
+[1] zh_tw 略歴／「復興此藝」／「此藝」は原文にない評価・言い換えで、復興対象の芭蕉布も不明瞭になる。／「復興芭蕉布」に直す。
+[1] zh_tw 略歴／「自製絲」／「自製絲」は「自ら絹糸を作る」という意味に取れ、「糸づくり」の誤訳。／「製作絲線」に直す。
+[1] zh_tw 功績／「爽利的張力」／「張力」は物理的な引っ張る力を指し、「さらりとした張り」の誤訳。また「爽利」は台湾華語として不自然。／「乾爽而挺括的質感」に直す。
+[1] zh_tw 功績／「以自製絲起」／「自製絲」は「糸づくり」の誤訳で、「以……起」も不自然。／「從製作絲線開始」に直す。
+[2] de 功績／「darin zeigt sich ein Unterfangen, das durch das Bewahren und Überliefern – von der Herstellung des Fadens an – ein im Leben der südlichen Inseln verwurzeltes Gewebe ein beinahe verlorenes lokales Handwerk in die Zukunft trug.」／「Gewebe」と「Handwerk」がともに目的語として並び、文法的に成立していない。また、「südlichen Inseln」は原文にない「島々」を加えており、「未来へつなごうとした」という意図も十分に表現されていない。／「darin wird das Bestreben spürbar, ein im Leben des Südens verwurzeltes Gewebe zu bewahren und von der Herstellung des Fadens an weiterzugeben und so ein beinahe verlorenes lokales Handwerk in die Zukunft zu führen.」
+[2] en 功績／「“southern island life”」／「island」は原文にない情報で、「南国」の訳としても範囲を狭めている／“life in the south”などに直す。
+[2] es 功績／「該当箇所：「la vida de las islas del sur」／何が問題か：「islas（島々）」は原文にない事実の追加。／どう直すか：「la vida de las regiones meridionales」
+[2] fr 功績／「la vie des îles du Sud」／「îles（島々）」は原文にない事実が加わっている。／「la vie des régions méridionales」などに直す。
+[2] fr 略歴／「les artistes qui lui succédèrent」／後進を「彼女の後を継いだ芸術家」に限定しており、原文にない事実が加わっている。／「les générations suivantes」に直す。
+[2] zh_cn 功績／「絣（ikat）」／原文にない英語表記「ikat」が追加されている。／「絣」とする。
+[2] zh_cn 功績／「以自制丝起」／「自制丝」は「自ら絹糸を作る」とも読め、「糸づくり」の誤訳。／「从制线开始」とする。
+[2] zh_cn 略歴／「自制丝、染色到织造」／「自制丝」は「糸づくり」の誤訳で、並列を示す「从」も欠けている。／「从制线、染色到织造」とする。
+
+════════ takabatake-tatsushiro（7件）════════
+[1] de 略歴／「beherrschte Bilder」／「落ち着いた画面」の誤訳。「beherrscht」には技量への評価も含まれ得る。／「ruhig wirkende Bildkompositionen」
+[2] de 略歴／「Vorwiegend in der Landschaft arbeitend」／「風景画を中心に制作し」の誤訳で、風景の中で制作したという意味に読める。／「Er schuf vorwiegend Landschaftsbilder」に直す。
+[2] de 略歴／「beherrschte Bilder」／「落ち着いた画面」の誤訳で、「巧みに制御された絵」という原文にない評価を加えている。／「ruhige Bildkompositionen」に直す。
+[2] de 一言紹介／「Maler der unabhängigen Kunst」／「洋画家」という事実が落ちており、指定訳とも一致しない。また、この表現はドイツ語として意味が曖昧。／「Maler im westlichen Stil (Yōga) der Vereinigung für unabhängige Kunst, der Landschaften in gedämpften Tönen malte」に直す。
+[2] en 略歴／「“composed pictures”」／「落ち着いた画面」の誤訳であり、英語としても意味が不明瞭。／“calm compositions”に直す。
+[2] es 略歴／「該当箇所：「Trabajando sobre todo el paisaje」／何が問題か：スペイン語として不自然で、制作の中心が風景画だったという事実も明確に表せていない。／どう直すか：「Se dedicó principalmente a la pintura de paisajes」
+[2] es 一言紹介／「該当箇所：「Un pintor de la Asociación de Arte Independiente」／何が問題か：「洋画家」が「pintor」となっており、指定訳の「pintor de estilo occidental」が落ちている。略歴とも訳語が不統一。／どう直すか：「Un pintor de estilo occidental de la Asociación de Arte Independiente」
+
+════════ takada-kenzo（9件）════════
+[1] de 功績／「Blumendrucke」／「花柄」を印刷模様に限定しており、原文にない技法を加えている。／「Blumenmuster」とする。
+[1] en 略歴／「“rose to prominence on the world stage”」／「世界の舞台で活躍した」にない「名声を得た」という評価・経緯が加わっている。／“worked on the world stage” とする。
+[1] es 略歴／「una ropa de colores intensos y aire libre」／「aire libre」は「屋外」を意味し、「自由な装い」の誤訳。また「una ropa」も不自然。／「atuendos de colores intensos y estilo libre」
+[1] fr 一言紹介／「Un styliste de renommée mondiale, actif à Paris」／指定語「Styliste de mode」の「de mode」が抜けている。／「Un styliste de mode de renommée mondiale, actif à Paris」とする。
+[1] fr 功績／「Il était un styliste de renommée mondiale, actif à Paris.」／指定語「Styliste de mode」の「de mode」が抜けている。／「Il était un styliste de mode de renommée mondiale, actif à Paris.」とする。
+[2] de 略歴／「gelangte auf der Weltbühne zu Ansehen」／「活躍した」が「名声を得た」という原文にない評価に置き換わっている。／「war auf internationaler Ebene tätig」
+[2] en 略歴／「“rose to prominence on the world stage”」／「活躍した」にない「著名になった」という評価が加わっている。／“worked on the international stage”などに直す。
+[2] es 略歴／「una ropa de colores intensos y aire libre」／「aire libre」は通常「屋外」を意味し、「自由な装い」の誤訳。また「ropa」はここでは不自然／「atuendos de vivos colores y estilo libre」とする。
+[2] es 略歴／「destacó en el escenario mundial」／「destacó」は「傑出した」という原文にない評価を加えている／「desarrolló su actividad en el escenario mundial」とする。
+
+════════ takagi-seikaku（15件）════════
+[1] de 略歴／「die gefeierten Handschriften der Heian-Zeit」／「gefeierten」は原文にない評価を加えている。／「alte Handschriften aus der Heian-Zeit」
+[1] de 略歴／「Großzeichen-Kana」／「大字のかな」を表す語として不自然で、確立したドイツ語の技法名のように見える。／「großformatige Kana-Kalligrafien」
+[1] en 略歴／「“the celebrated brushwork of the Heian period”」／「celebrated」という評価が原文にない。また、“brushwork”では「古筆」を十分に表せない。／“examples of classical calligraphy from the Heian period”などとする。
+[1] en 功績／「“in the modern exhibition hall”」／「展覧会」を「展示会場」としており、原文にない単数・特定の会場を加えている。／“in modern exhibitions”とする。
+[1] es 略歴／「las célebres caligrafías del período Heian」／「célebres」に当たる評価が原文にない／「antiguas caligrafías del período Heian」に直す。
+[1] es 功績／「formas que se imponen con seguridad en la sala de exposición moderna」／「堂々と映える造形」の訳として不自然で、「se imponen」は原文にない威圧的な意味を帯びる／「formas de gran presencia en las exposiciones contemporáneas」に直す。
+[1] zh_cn 一言紹介／「从事植根古典的现代假名的文化勋章书法家」／「かな書」が単なる「假名」になっており、書法の意味が落ちている。また「文化勋章书法家」は不自然。／「曾获文化勋章、致力于植根古典的现代假名书法的书法家」
+[1] zh_cn 功績／「现代展厅中」／原文の「現代の展覧会」を「現代の展示ホール」と取り違えている。／「现代展览会上」
+[2] de 略歴／「die gefeierten Handschriften der Heian-Zeit」／原文にない「gefeierten」という評価が加えられている。／「die alten Handschriften der Heian-Zeit」とする。
+[2] en 略歴／「“researching deeply the kohitsu, the celebrated brushwork of the Heian period”」／語順が不自然。また、“celebrated” という評価が原文にない。／“conducting in-depth research into Heian-period kohitsu” とする。
+[2] es 略歴／「las célebres caligrafías del período Heian」／「célebres」という原文にない評価が加えられている。／「antiguas obras caligráficas del período Heian」に直す。
+[2] fr 功績／「associe kanji et kana à grande échelle」／「漢字とかなを大きく取り合わせた」の「大きく」が、規模を表すように誤訳されている／「associe de grands caractères kanji et kana」に直す。
+[2] ko 一言紹介／「고전에 뿌리내린 현대 가나에 힘쓴 문화훈장 서예가」／「かな書」の「書」が落ちている。／「고전에 뿌리내린 현대 가나 서예에 힘쓴 문화훈장 서예가」に直す。
+[2] zh_tw 功績／「從事植根古典的現代假名的書法家」／「假名」だけでは「かな書」の意味が欠落し、文法的にも不自然。また故人の過去の活動になっていない／「生前致力於植根於古典的現代假名書創作的書法家」に直す。
+[2] zh_tw 一言紹介／「從事植根古典的現代假名的文化勳章書法家」／「假名」だけでは「かな書」の意味が欠落している。「文化勳章書法家」も、文化勲章を受章したという関係が不明確で、故人の過去の活動にもなっていない／「生前致力於植根於古典的現代假名書創作，並獲頒文化勳章的書法家」に直す。
+
+════════ takahashi-yuichi（14件）════════
+[1] de 略歴／「bei dem in Japan ansässigen englischen Maler Charles Wirgman」／「来日していた」が「日本在住の」という別の事実になっている。／「bei dem englischen Maler Charles Wirgman, der sich damals in Japan aufhielt」
+[1] de 略歴／「sein Hauptwerk „Sake“ (Lachs)」／「代表作」の一つが「主たる作品」とされ、原文にない序列的評価が加わっている。／「Werke wie „Sake“ (Lachs)“
+[1] de 功績／「die Glätte」／「ぬめり」の取り違え。「Glätte」は滑らかさを表し、魚のぬめりの質感になっていない。／「die schleimig-glänzende Oberfläche」
+[1] de 功績／「seine Entschlossenheit」／「執念」に対して意味が弱く、持続的な強いこだわりが落ちている。／「seine Beharrlichkeit」
+[1] en 略歴／「“who was resident in Japan”」／「resident」は日本に居住していたという、原文の「来日していた」より限定的な事実を加えている。／“who was then in Japan”とする。
+[1] en 略歴／「“a private school”」／「画塾」の「画」が落ちており、一般的な私塾の意味になっている。／“a private art school”とする。
+[1] fr 略歴／「alors installé au Japon」／「installé」は定住していたという、原文にない含意を加える。／「qui séjournait alors au Japon」に直す。
+[1] ko 功績／「끈에 매달린」／「縄」が一般的な「끈」となり、意味の具体性が落ちている。／「밧줄에 매달린」とする。
+[1] zh_cn 功績／「最早正式引入西洋画写实」／「最早」は「最も早い」という原文にない最上級の評価になっており、「西洋画写实」も不自然。／「较早系统引入西洋绘画写实手法」に直す。
+[1] zh_tw 略歴／「他正式追求油畫顏料的寫實」／「油畫顏料的寫實」は語の係り方が不自然で、「正式追求」も「本格的に追求」の誤訳。／「他深入鑽研以油畫顏料進行寫實表現」に直す。
+[2] de 略歴／「für sein Hauptwerk „Sake“ (Lachs)」／原文の「代表作《鮭》など」に対し、「など」が落ちているうえ、「sein Hauptwerk」と単独の最重要作に位置づける評価が加わっている。／「für Werke wie „Sake“ (Lachs)」とする。
+[2] fr 略歴／「Il est connu pour son œuvre emblématique Sake (Saumon).」／「代表作など」の「など」が落ちており、「œuvre emblématique」は原文より評価的。／「Il est notamment connu pour des œuvres telles que Sake (Saumon).」
+[2] ko 略歴／「일본에 머물던 영국인 화가」／「来日していた」という事実が、「日本に滞在していた」と弱められている。／「일본에 와 있던 영국인 화가」に直す。
+[2] zh_cn 略歴／「向旅居日本的英国画家查尔斯·华格曼」／「旅居日本」は一定期間居住していたという、原文の「来日していた」より強い事実を加えている。／「向当时来到日本的英国画家查尔斯·华格曼」に直す。
+
+════════ tada-minami（1件）════════
+[2] de 略歴／「verfolgte sie Formen, welche die Reflexion und Durchlässigkeit des Lichts nutzten」／「Formen verfolgen」は不自然。また、「Durchlässigkeit des Lichts」は光自体の透過性を意味するため誤訳／「verfolgte sie eine Gestaltung, die Reflexion und Transmission des Lichts nutzte」
+
+════════ takahashi-sadatsugu（5件）════════
+[2] es 功績／「Fue el forjador que se convirtió en el primer Tesoro Nacional Viviente por la espada japonesa.」／指定語「Forjador de espadas」の「de espadas」が欠落している。また「por la espada japonesa」は不自然で、認定分野を正確に表していない。／「Fue el primer Forjador de espadas en ser designado Tesoro Nacional Viviente en el ámbito de la forja de espadas japonesas.」とする。
+[2] es 一言紹介／「El forjador que se convirtió en el primer Tesoro Nacional Viviente por la espada japonesa」／指定語「Forjador de espadas」の「de espadas」が欠落している。また「por la espada japonesa」は不自然で、認定分野を正確に表していない。／「El primer Forjador de espadas designado Tesoro Nacional Viviente en el ámbito de la forja de espadas japonesas」とする。
+[2] fr 功績／「Il était le forgeron」／指定訳「Forgeron de sabres」の「de sabres」が欠落している。／「Il était un forgeron de sabres」に直す。
+[2] fr 略歴／「des sabres offerts à la Maison impériale」／「offerts」は「贈呈された」という原文にない事実を加えている。／「des sabres destinés à la Maison impériale」に直す。
+[2] fr 一言紹介／「Le forgeron」／指定訳「Forgeron de sabres」の「de sabres」が欠落している。／「Le forgeron de sabres」に直す。

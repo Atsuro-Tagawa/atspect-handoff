@@ -1,0 +1,41 @@
+{
+ "reason": "第43束 突き合わせ②③が捕まえた残存。日本語原文を1件ずつ確かめた。(1)平良孝七さまの簡体字【功績】に「在此呼吸的文化」が残っていた＝★並行言語チェックの取りこぼし（繁体字だけ直して簡体字を置換表に入れていなかった）。(2)原田直次郎さまの英語【略歴】＝「画塾」の「画」が落ちて一般の私塾になっている（高橋由一さまと同型・日本語「画塾を開いて後進を教えた」で確認）。(3)堀進二さま・今井俊満さまの英語・独語【略歴】＝「活躍した」が「名声を得た」という原文にない評価になっている（高田賢三さまと同型。日本語は「学んで活躍し」「加わって活躍した」で確認）。★これで『活躍→名声』の残存が0件になる。★高橋由一さまの簡体字【略歴】の「最早」は、日本語原文が「最初期の画家の一人」なので現行が正しい＝走査の誤検出。功績欄の日本語は「いち早く」なので、そちらの是正（较早）は正しい。★小島善三郎さま・萬鉄五郎さま・津田青楓さまの当たりも、日本語に該当語がない誤検出 ／★★関所が『延續』は繁体字で簡体字ページに混入すると捕まえた＝当方の是正案の欠陥。『延续』へ直した。★独語 war darin tätig への指摘（『重要な役割を果たした』へ）は原文にない評価を足すため採らない",
+ "enteredBy": "翻訳品質T 2026-08-20 第43束(追補)",
+ "patches": [
+  {
+   "handle": "taira-koichi",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "在此呼吸的文化",
+   "to": "在此延续的文化"
+  },
+  {
+   "handle": "harada-naojiro",
+   "lang": "en",
+   "field": "bio",
+   "from": "a private school to teach",
+   "to": "a private art school to teach"
+  },
+  {
+   "handle": "hori-shinji",
+   "lang": "en",
+   "field": "bio",
+   "from": "He studied and rose to prominence in the Taiheiyō Art Association",
+   "to": "He studied and was active in the Taiheiyō Art Association"
+  },
+  {
+   "handle": "toshimitsu-imai",
+   "lang": "en",
+   "field": "bio",
+   "from": "and rose to prominence within it",
+   "to": "and was active within it"
+  },
+  {
+   "handle": "toshimitsu-imai",
+   "lang": "de",
+   "field": "bio",
+   "from": "und gelangte darin zu Ansehen",
+   "to": "und war darin tätig"
+  }
+ ]
+}

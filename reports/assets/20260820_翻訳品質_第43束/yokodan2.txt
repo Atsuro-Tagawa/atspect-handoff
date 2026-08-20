@@ -1,0 +1,42 @@
+===== 1) 南国 → islands =====
+     3件  南国
+
+── zh_tw（0形）
+
+── ko（0形）
+
+── fr（1形）
+     1件  îles du Sud
+
+── es（1形）
+     1件  islas del sur
+
+── de（1形）
+     1件  südlichen Inseln
+===== 2) 来日していた =====
+
+── zh_tw（1形）
+     2件  旅居日本
+
+── ko（1形）
+     2件  머물던
+
+── fr（1形）
+     2件  installé au Japon
+
+── es（0形）
+
+── de（1形）
+     2件  ansässig
+===== 3) 代表作《X》など =====
+日本語に「代表作」がある欄＝51欄／50名
+
+── en（0形）
+── fr（1形）
+     4件  œuvre emblématique
+
+── es（0形）
+
+── de（1形）
+── de（1形）
+    43件  Hauptwerk
