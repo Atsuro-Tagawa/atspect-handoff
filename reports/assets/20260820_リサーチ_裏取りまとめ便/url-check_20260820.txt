@@ -29,3 +29,23 @@
 200	https://www.naitou-rune.jp/sp/works/02.php
 200	https://www.goldenawardmontreux.com/
 200	https://www.goldenawardmontreux.com/about/
+
+# 第2版で追加したURL（2026-08-20）
+200	https://www.azuma-architects.com/works/house-apartment/house-at-asagaya/
+200	https://artplatform.go.jp/collections/W118622
+200	https://info.jp.toto.com/gallerma/hist/ja/biogra/nishiz.htm
+200	https://www8.cao.go.jp/shokun/shiryoshu/bunkakunsho-jushosha.pdf
+200	https://www.mext.go.jp/b_menu/hakusho/html/others/detail/1318181.htm
+200	https://www.okuma-museum.jp/pdf/leaflet.pdf
+200	https://www.goldenawardmontreux.com/jury/
+200	https://colbase.nich.go.jp/collection_items/tnm/C-1508
+200	https://jmapps.ne.jp/kpm/
+200	https://collection.topmuseum.jp/
+
+# 参考（本文で「404を返す」と書いたもの＝存在しないことの実測）
+404	http://www.goldenawardmontreux.com/winners2018.html
+404	https://iush.jp/en/
+404	https://iush.jp/sitemap.xml
+
+# 行方市観光協会の藤代範雄プロフィール（日本語URL・パーセントエンコード）
+200	http://namekan.jp/2018/09/28/%E8%97%A4%E4%BB%A3%E7%AF%84%E9%9B%84%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E4%BA%8B%E5%8B%99%E6%89%80/
