@@ -1,0 +1,10 @@
+{
+ "reason": "第37束・突き合わせ3段②③で見つけた取りこぼし＝同一作家の別欄に同じ型が残っていた（平良敏子さまの village natal は原文『ふるさと喜如嘉』で正しいため触らない）",
+ "enteredBy": "翻訳品質T 2026-08-20",
+ "patches": [
+  { "handle": "hidai-tenrai", "lang": "de", "field": "bio",
+    "from": "alter Meisterwerke aus China und Japan", "to": "alter Meisterschriften aus China und Japan" },
+  { "handle": "sakakura-junzo", "lang": "zh_tw", "field": "viewpoint",
+    "from": "鐮倉八幡宮境內", "to": "鎌倉八幡宮境內" }
+ ]
+}

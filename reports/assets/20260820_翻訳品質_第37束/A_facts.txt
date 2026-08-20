@@ -1,0 +1,139 @@
+
+════════ saito-shinichi（5件）════════
+[1] es 功績／「la representación de un bello paisaje」／「風物」を「paisaje」と取り違えており、風景画を意味する表現になっている。／「una representación pintoresca y embellecida」
+[2] de 功績／「die gebrechliche Gestalt」／「gebrechlich」は病弱・虚弱の意味が強く、「はかなげ」の誤訳。／「die zarte, vergänglich wirkende Gestalt」に直す。
+[2] de 略歴／「blinde, umherziehende Musikerinnen」／「女性旅芸人」の「女性」が明示されている一方、「Musikerinnen」だけでは旅芸人という事実が狭められている。／「blinde umherziehende Künstlerinnen und Musikerinnen」に直す。
+[2] es 功績／「atender a la frágil figura de una mujer ciega que camina con la cabeza inclinada sobre un fondo rojo llameante revela no la representación de un bello paisaje」／構文が不自然で、「美しい風物として描く」が「bello paisaje（美しい風景）」に誤訳されている。／「al fijarnos en la frágil figura de una mujer ciega que camina cabizbaja sobre un fondo rojo llameante, percibimos que no la representó como una estampa pintoresca」とする。
+[2] fr 功績／「non la représentation d'un joli paysage」／「美しい風物として描く」の誤訳。「paysage」は風景を意味し、瞽女を美的・風物詩的な題材として描くことを表せていない。／「qu'il ne les traitait pas comme un motif pittoresque」に直す。
+
+════════ saji-tadasu（10件）════════
+[1] de 略歴／「maki-e (Maki-e, eine Lacktechnik mit eingestreutem Gold)」／同じ技法名が小文字と大文字で重複し、表記も不統一。／「Maki-e (eine Lacktechnik mit eingestreutem Gold)」に直す。
+[1] de 略歴／「raden (Perlmutteinlage)」／技法名の表記が、後出の「raden」とも小文字のままであり、「Maki-e」と統一されていない。／「Raden (Perlmutteinlage)」に直し、後出箇所も「Raden」とする。
+[1] de 略歴／「der staatlichen Jahresausstellung für bildende Kunst」／原文にない「国立」と「年次」という事実が加えられている。／「der Nitten-Ausstellung」に直す。
+[1] de 功績／「der die Malerei im Lack erschloss」／「erschloss」は「新たに開拓した」という原文にない強い評価を加えている。／「der sich der Malerei mit Lack widmete」に直す。
+[1] es 略歴／「maki-e (decoración realizada con laca)」／括弧内の説明は原文にない追加であり、蒔絵の説明としても不正確。／「maki-e」とする。
+[1] fr 功績／「il chercha à étendre la laque à l'expression de l'art moderne」／「現代美術」が「art moderne」と誤訳されており、語の結び付きも不自然。／「il chercha à faire de la laque un moyen d'expression de l'art contemporain」に直す。
+[2] de 功績／「der die Malerei im Lack erschloss」／「漆による絵画に取り組んだ」に対して、「開拓した」という原文にない功績を加えている。また表現も不自然／「der sich der Malerei mit Lack widmete」
+[2] de 略歴／「der staatlichen Jahresausstellung für bildende Kunst」／「staatlichen」は原文にない事実／「der Nitten-Ausstellung」
+[2] es 略歴／「Empleando la laca como pintura」／「絵具」を「絵画」の意味の *pintura* としており、語の取り違え。／「Empleando la laca como si fuera pintura」に直す。
+[2] es 略歴／「el maki-e (decoración realizada con laca)」／原文にない技法の説明が追加されており、内容も蒔絵の説明として不正確。／「el maki-e」に直す。
+
+════════ sakaki-bakuzan（11件）════════
+[1] de 略歴／「liebevoll „Meister Bakuzan“ genannt」／„Meister“ は原文にない評価を加えており、「先生」という親しまれた呼称とも一致しない／「war unter dem Namen „Bakuzan-sensei“ allgemein bekannt und beliebt」
+[1] de 功績／「statt auf ein poliertes Meisterwerk zu zielen」／„Meisterwerk“ は作品を指し、「整った名筆」を取り違えているうえ、原文にない「傑作」という評価を加えている／「statt nach formvollendeter Schönschrift zu streben」
+[1] es 功績／「la obra maestra pulida」／「名筆」を「傑作」とする誤訳で、原文にない作品評価が加わっている。／「una caligrafía impecablemente ejecutada」などとする。
+[1] fr 功績／「le chef-d'œuvre soigné」／「整った名筆」を「整った傑作」と誤訳し、原文にない作品評価を加えている。／「une calligraphie parfaitement maîtrisée」に直す。
+[2] de 功績／「auf ein poliertes Meisterwerk zu zielen」／「整った名筆」を「洗練された傑作」としており、原文にない作品評価が加わっている。／「nach formvollendeter Schönschrift zu streben」などに直す。
+[2] de 略歴／「oft begleitet von Bildern und Worten」／原文にない頻度「oft」が足されている。／「begleitet von Bildern und Worten」に直す。
+[2] en 功績／「“polished masterwork”」／「整った名筆」の訳として不自然で、“masterwork”は原文にない作品評価にも読める。／“polished, technically accomplished calligraphy”などに直す。
+[2] en 略歴／「“Master Bakuzan”」／“Master”は原文にない序列・評価を含む可能性がある。／“Bakuzan Sensei”など、評価を加えない呼称に直す。
+[2] es 功績／「las palabras inscritas en los márgenes」／「余白」を「márgenes」と限定しており、語の取り違えに近い。／「las palabras añadidas en los espacios en blanco」
+[2] es 功績／「antes que aspirar a la obra maestra pulida」／「名筆」を「obra maestra」としたことで、原文にない作品評価が加わっている。／「en vez de aspirar a una caligrafía pulcra y depurada」
+[2] fr 功績／「plutôt que de viser le chef-d'œuvre soigné」／「整った名筆」を「入念に仕上げられた傑作」としており、原文にない「傑作」という評価が加わっている。／「plutôt que de rechercher une calligraphie élégante et parfaitement maîtrisée」
+
+════════ sakakibara-shiho（6件）════════
+[1] de 一言紹介／「mit Haltung komponierte」／「端正に」の誤訳で、ドイツ語としても意味が不明瞭。「Haltung」は態度・姿勢を表す／「in klarer, ausgewogener Weise komponierte」に直す。
+[1] es 一言紹介／「Un pintor nihonga de Kioto」／指定語「Pintor de nihonga」と不一致で、「de」が抜けている。／「Un pintor de nihonga de Kioto」に直す。
+[1] es 略歴／「un pintor nihonga nacido en Kioto」／指定語「Pintor de nihonga」と不一致で、「de」が抜けている。／「un pintor de nihonga nacido en Kioto」に直す。
+[1] zh_cn 功績／「他参与国画创作协会，以花鸟为题作画」／原文の「画家」という事実が明示されていない。／「他是参加国画创作协会、以花鸟为题材的画家」に直す。
+[2] de 一言紹介／「die Vogel-und-Blumen-Malerei mit Haltung komponierte」／「mit Haltung」は「端正に」の誤訳であり、この文脈では意味が通りにくい。「Vogel-und-Blumen-Malerei」の語順とハイフンも不自然。／「die Blumen-und-Vögel-Malerei in klarer, ausgewogener Form komponierte」
+[2] en 略歴／「the official exhibitions」／「官設」という事実が明確に訳されていない。／「government-sponsored exhibitions」に直す。
+
+════════ sakakura-junzo（18件）════════
+[1] de 略歴／「Kategorie Entwurf」／原文の「（作品）」を「設計」としており、意味が異なる。／「Kategorie Werk」に直す。
+[1] de 略歴／「(heute Kamakura-Bunka-kan-Tsurugaoka-Museum, Präfektur Kanagawa; fertiggestellt 1951)」／所在地の「鎌倉市」が落ちている。／「(heute Kamakura-Bunka-kan-Tsurugaoka-Museum, Stadt Kamakura, Präfektur Kanagawa; fertiggestellt 1951)」に直す。
+[1] es 略歴／「prefectura de Kanagawa; terminado en 1951」／所在地の「鎌倉市」が落ちている。／「ciudad de Kamakura, prefectura de Kanagawa; terminado en 1951」とする。
+[1] es 略歴／「categoría diseño」／日本建築学会賞の「作品」を「diseño」としており、部門名の誤訳。／「categoría de obras」とする。
+[1] fr 略歴／「l'ancien Musée d'art moderne de la préfecture de Kanagawa (aujourd'hui Musée Kamakura Bunka-kan Tsurugaoka, préfecture de Kanagawa ; achevé en 1951)」／所在地の「鎌倉市」が落ちている。／「…, ville de Kamakura, préfecture de Kanagawa ; …」と補う。
+[1] fr 略歴／「prix de l'Architectural Institute of Japan (catégorie design)」／「作品」を「design」としており、部門名の誤訳。／「prix de l'Architectural Institute of Japan (catégorie œuvre)」とする。
+[1] fr 略歴・所属団体／「Institut de recherche architecturale Junzo Sakakura」「Institut d'architecture Sakakura Junzo」／同じ「坂倉準三建築研究所」の訳が不統一で、後者では「研究」に当たる意味が落ちている。／「Institut de recherche architecturale Junzo Sakakura」に統一する。
+[1] ko 略歴／「1936년 귀국했으나」／原文にない逆接の意味が加わっている／「1936년 귀국한 뒤」
+[1] zh_tw 略歴／「竹鼻町」／原文の地名「竹ヶ鼻町」から「ヶ」が落ちている。／「竹ヶ鼻町」に直す。
+[2] de 略歴／「heute Kamakura-Bunka-kan-Tsurugaoka-Museum, Präfektur Kanagawa; fertiggestellt 1951」／所在地の「Kamakura」が落ちている／「heute Kamakura-Bunka-kan-Tsurugaoka-Museum, Kamakura, Präfektur Kanagawa; fertiggestellt 1951」とする。
+[2] en 略歴／「“Kanagawa Prefecture”」／原文にある所在地「鎌倉市」が落ちている／“Kamakura, Kanagawa Prefecture” とする。
+[2] en 略歴／「“Iga, Mie Prefecture”」／原文の「伊賀市」に当たる “City” が落ちている／“Iga City, Mie Prefecture” とする。
+[2] en 略歴／「“Architectural Institute of Japan Prize (Design Category)”」／「作品」を “Design Category” としており、語の取り違えがある／“Architectural Institute of Japan Prize (Works)” とする。
+[2] es 略歴／「(actual Museo Kamakura Bunka-kan Tsurugaoka, prefectura de Kanagawa; terminado en 1951)」／所在地の「鎌倉市」が落ちている。／「(actual Museo Kamakura Bunka-kan Tsurugaoka, ciudad de Kamakura, prefectura de Kanagawa; terminado en 1951)」とする。
+[2] es 略歴／「(categoría diseño)」／「作品」を「diseño」としており、部門名の意味が異なる。／「(categoría de obras)」とする。
+[2] fr 略歴／「préfecture de Kanagawa ; achevé en 1951」／原文にある所在地「鎌倉市」が落ちている。／「ville de Kamakura, préfecture de Kanagawa ; achevé en 1951」と補う。
+[2] ko 略歴／「1936년 귀국했으나」／逆接の意味が加わっている。／「1936년 귀국한 뒤」に直す。
+[2] ko 略歴／「일본건축학회상(작품상)」／括弧内が「작품상」となり、「상」が余分に加わっている。／「일본건축학회상(작품)」に直す。
+
+════════ sakamoto-hanjiro（7件）════════
+[1] de 功績／「die jeden Gegenstand umschwebende Stille」／「jeden」は原文にない一般化であり、「Gegenstand」はここでは鑑賞対象・モチーフの意味を狭める。／「die Stille, die das Dargestellte umgibt」に直す。
+[1] es 一言紹介／「pintó sin cesar」／「絶え間なく描いた」という強い意味になり、原文にない強調が加わっている／「siguió pintando」に直す。
+[1] fr 略歴／「près de son village natal」／原文は「郷里に近い」であり、「生まれた村」という事実はない。さらに久留米を指す表現としても不適切。／「près de sa région natale」とする。
+[2] fr 功績／「chaque sujet」／「chaque（それぞれの）」は原文にない意味の追加。／「le calme qui flotte autour des sujets」に直す。
+[2] fr 略歴／「des natures mortes du quotidien comme des assiettes et des bols」／皿や茶碗そのものを「日常の静物画」としており、語の取り違えがある。／「des objets familiers, tels que des assiettes et des bols」に直す。
+[2] fr 一言紹介／「peignit sans relâche chevaux et natures mortes」／冠詞がなく不自然。また「sans relâche」は原文にない「休みなく」という強調を加えている。／「continua de peindre des chevaux et des natures mortes」に直す。
+[2] ko 略歴／「접시와 찻잔 같은 가까운 정물」／「찻잔」は「茶碗」の取り違えで、「가까운 정물」も「身近な静物」の表現として不自然。並列記号も指定と異なる。／「접시·사발 같은 주변의 정물」に直す。
+
+════════ sakata-minoru（10件）════════
+[1] de 略歴／「an einer avantgardistischen fotografischen Bewegung mit Sitz in Nagoya」／「mit Sitz in Nagoya」は、運動そのものが名古屋に本拠を置いたという原文にない事実を含意する。／「beteiligte er sich von Nagoya aus an einer avantgardistischen fotografischen Bewegung」に直す。
+[1] en 功績／「“the fashions of the capital”」／「中央」を特定の都市である“the capital”と訳しており、原文にない地理的限定が加わっている／“trends in the metropolitan photography world”などに直す。
+[1] es 功績／「las modas de la capital」／「中央」を「首都」と具体化しており、原文にない地理的限定が加わっている／「las tendencias de los grandes centros」に直す。
+[1] fr 略歴／「la New Photography」／「新興写真」の技法名が英語のまま組み込まれており、フランス語として不統一。台帳に指定がないため訳語の確定が必要。／人による用語確認に回し、確定したフランス語名称に統一する。
+[1] fr 功績／「les modes de la capitale」／「中央」を「首都」と限定しており、原文にない地理的な意味を加えている。／「les tendances des grands centres」に直す。
+[2] de 略歴／「dem Fotoschaffen ihrer Zeit eigene Anstöße gaben」／「写真界」が「Fotoschaffen」となっており、業界・領域という意味が落ちている。また「eigene Anstöße」は不自然。／「der damaligen Welt der Fotografie eigenständige Impulse gaben」に直す。
+[2] en 略歴／「“constructivist”」／「構成的」を特定の芸術運動である構成主義と受け取れる語に置き換えており、原文にない意味が加わる／“compositional”に直す。
+[2] es 略歴／「participó en un movimiento fotográfico de vanguardia con base en Nagoya」／名古屋を拠点としていたのは坂田稔であり、運動の拠点が名古屋だったという事実に置き換わっている。／「con Nagoya como base, participó en un movimiento fotográfico de vanguardia」に直す。
+[2] fr 略歴／「un mouvement photographique d'avant-garde basé à Nagoya」／名古屋を拠点としていたのは坂田稔であり、運動そのものが名古屋を拠点としていたという原文にない事実が加わっている。／「depuis Nagoya, il prit part à un mouvement photographique d'avant-garde」に直す。
+[2] fr 略歴／「des œuvres constructivistes」／「構成的」が、美術運動としての「構成主義的」という意味に限定され、原文にない含意が加わる。／「des œuvres fondées sur la composition」に直す。
+
+════════ sakurai-yuichi（6件）════════
+[1] de 略歴／「die Formen unausgefeilt ließ」／„unausgefeilt“ は「未熟・洗練不足」という否定的評価を含み、原文にない評価を加えている。／「die Formen nicht übermäßig glättete」
+[1] fr 略歴／「laissant les formes peu retouchées et conservant les traces de la main」／「形を整えすぎない」を「ほとんど修正しない」とずらしており、「肉づけ」の情報も落ちている。／「sans lisser excessivement les formes et laissant visibles les traces du travail de la matière」とする。
+[1] fr 功績／「la texture de la peau accumulée dans l'argile」／「肌が粘土の中に積み重ねられた」という意味になり、「粘土を盛り重ねた肌の手ざわり」の誤訳。／「la texture de la peau façonnée par l'accumulation de l'argile」とする。
+[2] es 略歴／「dejaba las formas poco pulidas y conservaba las huellas de la mano」／「形を整えすぎない」を「磨かれていない」と取り違え、「肉づけ」の情報も落ちている。／「evitaba definir en exceso las formas y aprovechaba las huellas dejadas al modelar los volúmenes del cuerpo」に直す。
+[2] es 一言紹介／「Un escultor de desnudos femeninos ricos en volumen」／「裸婦像」に対して像であることが不明瞭で、「刻んだ」の制作行為も落ちている。／「Un escultor que creó esculturas de desnudos femeninos de gran volumen」に直す。
+[2] fr 略歴／「conservant les traces de la main」／原文の「肉づけ」に当たる情報が落ちている。／「conservant les traces du travail de modelage des volumes corporels」
+
+════════ sano-shigejiro（9件）════════
+[1] de 功績／「durch Schriftzeichen und Formen aus der eigenen Hand」／「自らの手の感覚から生まれる」の「感覚」が落ちている。／「durch Schriftzüge und Formen, die aus seinem eigenen Gespür für die Arbeit mit der Hand entstanden」などに直す。
+[1] es 略歴／「las numerosas encuadernaciones y publicidades que realizó」／「書物」と「デザイン」の要素が落ちており、「publicidades」の複数形も不自然。／「los numerosos diseños de libros y anuncios que realizó」
+[1] fr 略歴／「aux formes spirituelles」／「洒脱な造形」の誤訳。「spirituelles」は「機知に富んだ／精神的な」の意味になり、造形の洗練を適切に表していない。／「aux formes élégantes et pleines d'esprit」などに直す。
+[1] fr 功績／「prêter attention aux lettres manuscrites idiosyncrasiques et à la composition légère et spirituelle révèle que」／不定詞句の接続が不自然。「idiosyncrasiques」は否定的な含意を持ちやすく、「spirituelle」も「洒脱」の誤訳。／「l'attention portée aux lettres manuscrites singulières et aux compositions légères et élégantes révèle que」に直す。
+[1] fr 功績／「par des lettres et des formes nées de sa propre main」／「自らの手の感覚から」の「感覚」が落ちている。／「par des lettres et des formes nées de la sensibilité de sa propre main」に直す。
+[2] es 功績／「sus encuadernaciones singulares」「En sus encuadernaciones」／「encuadernaciones」は製本・綴じを意味し、「装丁」とは意味が異なる。／「sus diseños de libros singulares」「En sus diseños de libros」とする。
+[2] es 略歴／「las numerosas encuadernaciones y publicidades que realizó」／「encuadernaciones」は「装丁」の誤訳。「publicidades」も個々の広告制作物を指す表現として不自然で、原文の「デザイン」の意味が不明瞭。／「los numerosos diseños de libros y anuncios publicitarios que realizó」とする。
+[2] es 一言紹介／「sus encuadernaciones singulares」／「encuadernaciones」は「装丁」とは意味が異なる。／「sus diseños de libros singulares」とする。
+[2] fr 略歴／「aux formes spirituelles」／「洒脱な造形」の誤訳で、「formes spirituelles」はフランス語として意味が不明瞭／「aux compositions élégantes et pleines d'esprit」に直す。
+
+════════ sano-toshikata（37件）════════
+[1] de 略歴／「ging er ab 1911 hauptsächlich nach Deutschland, um dort zu studieren」／留学先がドイツだけのように読め、「ドイツを中心に欧米へ」という事実が落ちている。／「ging er ab 1911 zu Studienaufenthalten nach Europa und in die USA, vor allem nach Deutschland」とする。
+[1] de 功績／「spätere Architekten, darunter Uchida Yoshikazu」／原文の「後進」を「後進の建築家」に限定しており、原文にない属性が加わっている。／「jüngere Fachkollegen, darunter Uchida Yoshikazu」とする。
+[1] en 略歴／「“he studied abroad from 1911, mainly in Germany”」／留学先の「欧米」のうち、ドイツ以外の欧州諸国と米国が落ちている。／“he studied abroad in Europe and the United States from 1911, mainly in Germany” とする。
+[1] en 功績／「“in an earthquake-prone country”」／原文に明記された「日本」が落ちている。／“in earthquake-prone Japan” とする。
+[1] en 功績／「“influenced later architects including Uchida Yoshikazu”」／「後進」を “later architects” と限定しており、原文にない職業上の限定が加わっている。／“influenced younger generations, including Uchida Yoshikazu” とする。
+[1] es 略歴／「actual ciudad de Shirataka」／白鷹町を「市」としており、行政区分の誤訳。／「actual municipio de Shirataka」に直す。
+[1] es 略歴／「viajó al extranjero a partir de 1911, principalmente a Alemania」／「留学」が単なる渡航になっており、「欧米」の範囲も落ちている。／「realizó estudios en Europa y Estados Unidos a partir de 1911, principalmente en Alemania」に直す。
+[1] es 功績／「influyó en arquitectos posteriores」／原文の「後進」を「後世の建築家」に限定しており、原文にない事実が加わっている。／「influyó en las generaciones posteriores」に直す。
+[1] fr 略歴／「principalement en Allemagne」／「欧米へ」の情報が落ちており、留学先がドイツだけだったように読める。／「principalement en Allemagne, ainsi que dans d'autres pays d'Europe et aux États-Unis」とする。
+[1] ko 略歴／「정리해 발표하고」／原文にない「発表した」という事実が追加されている。／「정리하고」に直す。
+[1] zh_cn 略歴／「整理发表《家屋耐震构造论》」／原文にない「发表」が追加されている。／「整理完成《家屋耐震构造论》」に直す。
+[1] zh_cn 略歴／「自1911年起赴德国等欧美国家留学」／「ドイツを中心に」という事実が明確に反映されていない。／「自1911年起赴欧美留学，主要在德国学习」に直す。
+[1] zh_cn 略歴／「1928年该校改组为日本大学工学部时」／原文は「同校を基礎として工学部が設置された」であり、「该校改组为」は事実関係を変えている。／「1928年以该校为基础设立日本大学工学部时」に直す。
+[1] zh_cn 所属団体／「在学士会馆，佐野与高桥贞太郎共同负责该项目」／「共同负责该项目」は、両者が事業全体を共同で担当したという原文にない意味を加えている。／「在学士会馆项目中，佐野与高桥贞太郎合作」に直す。
+[1] zh_tw 略歴／「自1911年起赴德國等歐美國家留學」／「ドイツを中心に」という事実が落ちている。／「自1911年起以德國為中心，赴歐美留學」とする。
+[1] zh_tw 略歴／「1914年回國後整理發表《家屋耐震構造論》」／原文にない「発表」の事実が加えられている。／「1914年回國後整理完成《家屋耐震構造論》」とする。
+[1] zh_tw 略歴／「自1918年至1941年退休為止」／「定年退官」の「定年」が落ちている。／「自1918年至1941年屆齡退休為止」とする。
+[1] zh_tw 略歴／「1928年該校改組為日本大學工學部時」／原文は同校を基礎として工学部が設置されたという意味であり、「改組」は事実関係が異なる。／「1928年以該校為基礎設立日本大學工學部時」とする。
+[2] de 功績／「該当箇所：「als Direktor und Leiter des Architekturbüros des Wiederaufbauamts der kaiserlichen Hauptstadt」／何が問題か：「理事兼建築局長」の誤訳。「Direktor」は「理事」を、「Architekturbüro」は行政組織である「建築局」を正確に表していない。／どう直すか：「als Vorstandsmitglied und Leiter der Bauabteilung des Wiederaufbauamts der kaiserlichen Hauptstadt」
+[2] de 功績／「該当箇所：「spätere Architekten, darunter Uchida Yoshikazu」／何が問題か：「後進」が「Architekten」に限定されており、原文にない事実が加わっている。／どう直すか：「die nachfolgende Generation, darunter Uchida Yoshikazu」
+[2] de 略歴／「該当箇所：「ging er ab 1911 hauptsächlich nach Deutschland, um dort zu studieren」／何が問題か：留学先がドイツだけになっており、「欧米」が落ちている。／どう直すか：「ging er ab 1911 zu Studienaufenthalten nach Europa und in die USA, vor allem nach Deutschland」
+[2] de 略歴／「該当箇所：「als Direktor und Leiter des Architekturbüros des Wiederaufbauamts der kaiserlichen Hauptstadt」／何が問題か：「理事兼建築局長」の誤訳。「Direktor」と「Architekturbüro」では役職と行政組織を正確に表せない。／どう直すか：「als Vorstandsmitglied und Leiter der Bauabteilung des Wiederaufbauamts der kaiserlichen Hauptstadt」
+[2] en 功績／「“He gave theoretical form to structural design for buildings in an earthquake-prone country”」／「日本」という事実が落ちており、“gave theoretical form to” も不自然。／“He developed a theoretical framework for the structural design of buildings in earthquake-prone Japan” に直す。
+[2] en 功績／「“influenced later architects including Uchida Yoshikazu”」／“later architects” は「後進」の誤訳で、原文にない職業上の限定も加わっている。／“influenced a younger generation, including Uchida Yoshikazu” に直す。
+[2] en 略歴／「“he studied abroad from 1911, mainly in Germany”」／留学先が「欧米」であったという事実が落ちている。／“from 1911, he studied in Europe and the United States, primarily in Germany” に直す。
+[2] en 略歴／「“when the school became the Faculty of Engineering of Nihon University”」／同校自体が学部になったという意味になっており、「同校を基礎として学部が設置された」の誤訳。／“when the Faculty of Engineering of Nihon University was established on the foundation of the school” に直す。
+[2] es 略歴／「actual ciudad de Shirataka」／「町」を「ciudad」としており、行政区分の誤訳。／「actual localidad de Shirataka」に直す。
+[2] fr 功績／「des architectes de la génération suivante」／原文にない「architectes」が加えられている。／「des membres de la génération suivante」に直す。
+[2] fr 略歴／「(aujourd'hui la ville de Shirataka)」／「町」を「ville」としており、自治体区分の誤訳。／「(aujourd'hui le bourg de Shirataka)」に直す。
+[2] fr 略歴／「il part étudier à l'étranger à partir de 1911, principalement en Allemagne」／「欧米へ」という留学地域の事実が落ちている。／「il part étudier en Europe et aux États-Unis à partir de 1911, principalement en Allemagne」に直す。
+[2] ko 略歴／「該当箇所：「사노 가문의 양자가 되었다」／何が問題か：「양자」だけでは、家の後継者となる養嗣子という事実が落ちている。／どう直すか：「사노 가문의 양자로 입적되어 후계자가 되었다」
+[2] ko 略歴／「該当箇所：「「가옥내진구조론」을 정리해 발표하고」／何が問題か：「발표하고」は訳文で追加された事実。／どう直すか：「「가옥내진구조론」을 정리하고」
+[2] zh_cn 略歴／「自1911年起赴德国等欧美国家留学」／「ドイツを中心に」という事実が明確に訳されていない。／「自1911年起赴欧美留学，主要在德国学习。」とする。
+[2] zh_cn 略歴／「1914年回国后整理发表《家屋耐震构造论》」／原文にない「发表」という事実が追加されている。／「1914年回国后完成《家屋耐震构造论》」とする。
+[2] zh_cn 略歴／「1928年该校改组为日本大学工学部时任首任学部长」／原文は同校を基礎として工学部が設置されたという意味であり、「同校が工学部に改組された」とするのは誤訳。／「1928年以该校为基础设立日本大学工学部时，出任首任学部长」とする。
+[2] zh_tw 略歴／「1914年回國後整理發表《家屋耐震構造論》」／原文にない「發表」が加えられている。／「1914年回國後整理完成《家屋耐震構造論》」に直す。
+[2] zh_tw 略歴／「1928年該校改組為日本大學工學部時任首任學部長」／「同校を基礎として設置」が「該校改組為」に変わっており、原文にない改組という事実が加えられている。／「1928年以該校為基礎設立日本大學工學部時，出任首任學部長」に直す。

@@ -1,0 +1,132 @@
+{
+ "reason": "第37束＝二重検品708件のうち、日本語原文と1件ずつ照合して誤り・脱落と確認でき、かつ全数実測で横断型でないと確かめたものだけを是正する／関所が追加で捕まえた2型（繁体字の異体字「鐮倉」→「鎌倉」・独語の格変化）を追加",
+ "enteredBy": "翻訳品質T 2026-08-20",
+ "patches": [
+  {
+   "handle": "sakaki-bakuzan",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "statt auf ein poliertes Meisterwerk zu zielen",
+   "to": "statt auf eine formvollendete Schönschrift zu zielen"
+  },
+  {
+   "handle": "sakaki-bakuzan",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "antes que aspirar a la obra maestra pulida",
+   "to": "antes que aspirar a una caligrafía impecablemente ejecutada"
+  },
+  {
+   "handle": "sakaki-bakuzan",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "plutôt que de viser le chef-d'œuvre soigné",
+   "to": "plutôt que de viser une calligraphie parfaitement maîtrisée"
+  },
+  {
+   "handle": "hidai-tenrai",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "Meisterwerk",
+   "to": "Meisterschrift"
+  },
+  {
+   "handle": "sakata-minoru",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "rather than following the fashions of the capital",
+   "to": "rather than following the trends of the central art world"
+  },
+  {
+   "handle": "sakata-minoru",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "lejos de seguir las modas de la capital",
+   "to": "lejos de seguir las tendencias de los grandes centros"
+  },
+  {
+   "handle": "sakata-minoru",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "loin de suivre les modes de la capitale",
+   "to": "loin de suivre les tendances des grands centres"
+  },
+  {
+   "handle": "sakakura-junzo",
+   "lang": "de",
+   "field": "bio",
+   "from": "heute Kamakura-Bunka-kan-Tsurugaoka-Museum, Präfektur Kanagawa",
+   "to": "heute Kamakura-Bunka-kan-Tsurugaoka-Museum, Stadt Kamakura, Präfektur Kanagawa"
+  },
+  {
+   "handle": "sakakura-junzo",
+   "lang": "es",
+   "field": "bio",
+   "from": "actual Museo Kamakura Bunka-kan Tsurugaoka, prefectura de Kanagawa",
+   "to": "actual Museo Kamakura Bunka-kan Tsurugaoka, ciudad de Kamakura, prefectura de Kanagawa"
+  },
+  {
+   "handle": "sakakura-junzo",
+   "lang": "fr",
+   "field": "bio",
+   "from": "aujourd'hui Musée Kamakura Bunka-kan Tsurugaoka, préfecture de Kanagawa",
+   "to": "aujourd'hui Musée Kamakura Bunka-kan Tsurugaoka, ville de Kamakura, préfecture de Kanagawa"
+  },
+  {
+   "handle": "sakakura-junzo",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "岐阜县羽岛郡竹鼻町",
+   "to": "岐阜县羽岛郡竹之鼻町"
+  },
+  {
+   "handle": "sakakura-junzo",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "岐阜縣羽島郡竹鼻町",
+   "to": "岐阜縣羽島郡竹之鼻町"
+  },
+  {
+   "handle": "sakamoto-hanjiro",
+   "lang": "fr",
+   "field": "bio",
+   "from": "près de son village natal",
+   "to": "près de sa région natale"
+  },
+  {
+   "handle": "sakurai-yuichi",
+   "lang": "de",
+   "field": "bio",
+   "from": "der die Formen unausgefeilt ließ",
+   "to": "der die Formen nicht übermäßig glättete"
+  },
+  {
+   "handle": "saji-tadasu",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "il chercha à étendre la laque à l'expression de l'art moderne.",
+   "to": "il chercha à faire de la laque un moyen d'expression de l'art contemporain."
+  },
+  {
+   "handle": "sakakura-junzo",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "現·鐮倉文華館鶴岡美術館",
+   "to": "現·鎌倉文華館鶴岡美術館"
+  },
+  {
+   "handle": "sakakura-junzo",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "神奈川縣鐮倉市",
+   "to": "神奈川縣鎌倉市"
+  },
+  {
+   "handle": "sakurai-yuichi",
+   "lang": "de",
+   "field": "bio",
+   "from": "viele fülligen, volumenreichen weiblichen Akte",
+   "to": "viele füllige, volumenreiche weibliche Akte"
+  }
+ ]
+}

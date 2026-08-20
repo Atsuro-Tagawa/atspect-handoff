@@ -1,0 +1,39 @@
+════ 文化功労者 ════
+
+【de /Person of Cultural Merit/】= 1件／1名
+  kurokawa-kisho[bio]×1
+
+【de /Person mit besonderen kulturellen Verdiensten/】= 19件／17名
+  yamaguchi-kayo[bio]×1  katayama-nampu[bio]×1  akino-fuku[bio]×1  ikeda-yoson[bio]×1  iwahashi-eien[bio]×1  suzuki-shintaro[bio]×1  hibino-goho[bio]×1  kamijo-shinzan[bio]×1  shimizu-takashi[bio]×1  fujita-kyohei[bio]×1  ishimoto-yasuhiro[bio]×1  tanuma-takeyoshi[bio]×1  hosoe-eikoh[bio]×1  tanaka-ikko[bio]×1 …他5欄
+
+【fr /personne de mérite culturel/】= 4件／3名
+  yamaguchi-kayo[bio]×1  saji-tadasu[statement]×1  saji-tadasu[bio]×1  kurokawa-kisho[groups]×1
+
+【fr /Personnalité/】= 2件／2名
+  fujita-kyohei[bio]×1  kurokawa-kisho[bio]×1
+
+════ 装丁 ════
+日本語に「装丁」がある欄＝22欄／12名
+
+── en（2形）
+    21件  book design
+     4件  Book Design
+
+── zh_cn（1形）
+    31件  装帧
+
+── zh_tw（1形）
+    31件  裝幀
+
+── ko（1形）
+    30件  장정
+
+── fr（1形）
+    14件  reliure
+
+── es（2形）
+     5件  diseño de libros
+     1件  encuadernación
+
+── de（1形）
+    23件  Buchgestalt
