@@ -1,0 +1,47 @@
+===== 鉢 の各言語 =====
+── en（2形）
+     3件  bowls
+     1件  bol
+
+── zh_cn（0形）
+
+── zh_tw（0形）
+
+── ko（1形）
+     2件  그릇
+
+── fr（3形）
+     2件  objet
+     1件  bols
+     1件  récipients
+
+── es（2形）
+     3件  cuencos
+     2件  objet
+
+── de（1形）
+     3件  Schalen
+===== 人間国宝 fr の動詞 =====
+── ko（0形）
+
+── fr（5形）
+    69件  Trésor national vivant
+    48件  désigné Trésor national vivant
+    11件  reconnu Trésor national vivant
+     5件  Désigné Trésor national vivant
+     4件  désignée Trésor national vivant
+
+── es（0形）
+
+── de（0形）
+===== 戦後 ko =====
+── ko（3形）
+   177件  전후
+     9件  제2차 세계대전 후
+     1件  제2차 세계대전 이후
+
+── fr（0形）
+
+── es（0形）
+
+── de（0形）

@@ -1,0 +1,49 @@
+===== 1) 器 → objets/objetos =====
+     1件  objet
+
+── zh_tw（1形）
+     1件  objet
+
+── ko（1形）
+    56件  그릇
+
+── fr（4形）
+    21件  objets
+    20件  récipients
+    15件  récipient
+    10件  objet
+
+── es（4形）
+    30件  objet
+    17件  recipientes
+    15件  recipiente
+     1件  Recipiente
+
+── de（5形）
+    48件  Gefäße
+    23件  Gefäß
+    11件  gefäße
+     3件  gefäß
+     1件  Objet
+===== 2) 渡米 → moved/übersiedelte =====
+日本語に「渡米」がある欄＝9欄／6名
+
+── en（2形）
+     2件  traveled to
+     1件  moved to the United States
+
+── zh_cn（0形）
+
+── zh_tw（0形）
+
+── ko（0形）
+
+── fr（1形）
+     1件  partit pour
+
+── es（2形）
+     2件  Viajó a
+     1件  se trasladó
+
+── de（1形）
+     1件  übersiedelte

@@ -1,0 +1,51 @@
+===== 3) 立体 → solidity/solide/solidez =====
+     1件  Three-Dimensional Minimum House No
+
+── zh_cn（1形）
+    28件  立体
+
+── zh_tw（0形）
+
+── ko（1形）
+    28件  입체
+
+── fr（1形）
+     1件  le solide
+
+── es（3形）
+    12件  tridimensionales
+     7件  tridimensional
+     1件  solidez
+
+── de（7形）
+    12件  dreidimensionale
+     5件  dreidimensionalen
+     2件  Dreidimensionale
+     2件  Dreidimensionales
+     1件  Dreidimensionalen
+     1件  dreidimensional
+     1件  dreidimensionaler
+===== 4) 風土 =====
+日本語に「風土」がある欄＝15欄／10名
+
+── en（1形）
+     3件  landscape and life
+
+── zh_cn（0形）
+
+── zh_tw（1形）
+    15件  風土
+
+── ko（1形）
+    15件  풍토
+
+── fr（2形）
+     2件  la terre et la vie
+     1件  milieu naturel
+
+── es（1形）
+     2件  entorno natural
+
+── de（2形）
+     2件  natürliche Umgebung
+     1件  Landschaft und Leben

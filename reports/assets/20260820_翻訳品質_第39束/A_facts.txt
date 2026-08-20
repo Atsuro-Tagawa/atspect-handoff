@@ -1,0 +1,79 @@
+
+════════ sekino-seiun（4件）════════
+[1] de 略歴・功績／「(Gigeiten, Göttin der Künste)」／原文にない作品名の説明が追加されている。／括弧内を削除し、「„Gigeiten“」とする。
+[1] zh_tw 略歴／「活躍於文展、帝展」／原文の「活躍し」が過去の事実であることが明確でない／「曾活躍於文展、帝展」
+[2] es 功績／「trabajó sobre todo la madera」／「木彫を中心に制作した」という意味にならず、技法名の表現が不統一。／「se dedicó sobre todo a la talla en madera」に直す。
+[2] es 略歴／「realizó figuras y obras de tema budista」／「人物像」が単なる「figuras」となり、人を表した像という事実が不明確。／「realizó figuras humanas y obras de tema budista」に直す。
+
+════════ sekiya-shiro（8件）════════
+[1] es 略歴／「realizó objetos que combinaban metales de colores diferentes」／「器」が一般的な「objetos」となり、容器であることが落ちている／「realizó recipientes que combinaban metales de colores diferentes」とする。
+[1] es 功績／「la forma sencilla del objeto levantada a martillo」／「器」が一般的な「objeto」となり、容器であることが落ちている／「la forma sencilla del recipiente levantado a martillo」とする。
+[1] fr 略歴／「des objets」／「器」という事実が曖昧になっている。／「des récipients」に直す。
+[1] ko 功績／「접합 기법의 그릇」／「接合の鉢」の「鉢」が一般的な「그릇」になり、器種の情報が落ちている／「접합 기법으로 만든 발」に直す。
+[1] zh_tw 功績／「這一對素材的處理本身」／「一對」が「一組・一対の素材」という意味に読め、文意を取り違えやすい。／「這種素材處理方式本身」に直す。
+[2] fr 功績／「le métal forgé」／「鍛金」を「鍛造された金属」の意味に取り違えている／「le façonnage du métal au marteau」とする。
+[2] fr 功績／「la forme simple de l'objet relevée au marteau」／「relevée」は不自然で、「器」という事実も「objet」に一般化されている／「la forme simple du récipient façonné au marteau」とする。
+[2] fr 略歴／「Il fut reconnu Trésor national vivant pour le métal forgé.」／「reconnu Trésor national vivant」は不自然で、「métal forgé」も「鍛金」の誤訳／「Il fut désigné Trésor national vivant dans le domaine du façonnage du métal au marteau.」とする。
+
+════════ serizawa-keisuke（6件）════════
+[1] fr 略歴／「scènes de la vie quotidienne」／「風物」を「日常生活の場面」と限定しており、原文にない意味が加わっている。／「éléments du paysage et de la vie locale」などに直す。
+[1] zh_cn 略歴／「該当箇所：「从事以雕刻型纸一次染分多色的「型绘染」」／何が問題か：「一枚」が「一次」と誤訳され、一枚の型紙で多色を染め分けるという事実が落ちている。また「染分多色」も不自然。／どう直すか：「致力于雕刻型纸、用一张型纸分染多种颜色的“型绘染”」。
+[2] de 略歴／「bei dem mit einer geschnittenen Schablone mehrere Farben in einem einzigen Muster gefärbt werden」／「一枚の型紙で多色を染め分ける」という事実が正確に表されておらず、「一つの模様の中で染める」という意味になっている。／「bei dem mit einer einzigen geschnittenen Schablone mehrere Farben getrennt aufgetragen werden」に直す。
+[2] en 略歴／「“in which a carved stencil is used to dye multiple colors in a single design”」／一枚の型紙で多色を染め分けるという事実が正確に表されていない。／“in which multiple colors are applied separately using a single hand-carved stencil”に直す。
+[2] zh_cn 略歴／「以雕刻型纸一次染分多色」／「一次」は「一枚の型紙で」を「一度に」と取り違えており、「染分」も不自然。／「通过雕刻型纸，用一张型纸分别染出多种颜色」
+[2] zh_tw 略歴／「該当箇所：「以雕刻型紙一次染分多色」／何が問題か：「一次」は「一枚の型紙で」ではなく「一度に」の意味に読まれ、事実関係がずれる。／どう直すか：「雕刻型紙，並以一張型紙分染多種色彩」
+
+════════ shigeko-kubota（6件）════════
+[1] en 功績／「“the solidity of sculpture”」／「solidity」は原文にない物質的な堅固さを加えており、「彫刻という立体」の意味ともずれる／“the three-dimensional form of sculpture”に直す。
+[1] fr 功績／「le solide de la sculpture」／「立体」の誤訳。「le solide」は彫刻の「固体・塊」を意味し、この文脈では不自然。／「la forme tridimensionnelle de la sculpture」とする。
+[2] en 功績／「“the solidity of sculpture”」／原文の「彫刻という立体」にない「堅固さ」という性質が加わっている。／“the three-dimensional form of sculpture” とする。
+[2] es 功績／「su luz parpadeante」／「揺らめく光」を、点滅する光という意味に取り違えている。／「su luz fluctuante」などとする。
+[2] es 功績／「uniendo la solidez de la escultura con la imagen en movimiento」／「solidez」は原文にない性質を加えており、「立体と映像を一体にする」という意味も十分に表していない。／「integrando la forma tridimensional de la escultura y la imagen en movimiento」とする。
+[2] fr 功績／「le solide de la sculpture」／「立体」の誤訳で、フランス語としても不自然。／「la forme tridimensionnelle de la sculpture」
+
+════════ shima-seien（2件）════════
+[1] ko 略歴／「제2차 세계대전 이후」／原文の「戦後」を「第二次世界大戦後」と具体化し、原文にない事実を加えている。／「전후에」に直す。
+[2] ko 略歴／「제2차 세계대전 이후」／原文にない「第二次世界大戦」という限定が加わっている。／「전후」に直す。
+
+════════ shimaoka-tatsuzo（7件）════════
+[1] de 一言紹介／「Jōmon-Zōgan-Einlegen」／技法名に「Einlegen」を重ねた不自然な表現。／「Jōmon-Zōgan」に直す。
+[1] de 功績／「bei seinen eingelegten Gefäßen」／原文の「象嵌の壺」が一般的な「象嵌された器」に広げられ、「壺」という事実が落ちている。／「bei seinen mit Einlegearbeit verzierten Vasen」に直す。
+[1] de 功績／「die Solidität von Gefäßen」／「器の健やかさ」を物理的な「堅牢性」とする誤訳。／「die schlichte Gebrauchstauglichkeit der Gefäße」に直す。
+[1] ko 略歴／「도치기현 마시코에서 작도했다.」／「작도했다」は通常、図面などを描く意味で、「作陶した」の誤訳。／「도치기현 마시코에서 도예 작업을 했다.」に直す。
+[2] de 功績／「das Jōmon-Zōgan-Einlegen schuf」／「Einlegen」は不自然で、技法名と行為が重複している。／「die Jōmon-Zōgan-Technik entwickelte」とする。
+[2] de 一言紹介／「das Jōmon-Zōgan-Einlegen schuf」／「Einlegen」は不自然で、技法名と行為が重複している。／「die Jōmon-Zōgan-Technik entwickelte」とする。
+[2] ko 略歴／「작도했다」／「작도하다」は図面などを描く意味で、作陶の誤訳／「도자기를 만들었다」に直す。
+
+════════ shimizu-buko（8件）════════
+[1] de 功績／「auf die Hitze eines mit Kasaboko-Festwagen gesäumten Festes」／「Hitze」は祭りの「熱気」の誤訳であり、全体の言い回しも不自然。／「auf die mitreißende Atmosphäre des Festes, bei dem sich die Kasaboko-Festwagen aneinanderreihen」とする。
+[1] en 略歴／「“the landscape and life and the traditional events of his home region”」／“landscape and life” は「風土」の誤訳で、“and” の重複も不自然／“the natural environment and traditional events of his home region”
+[1] es 功績／「la única tierra donde nació y creció」／「única」は「唯一の」という原文にない強調になる。／「un mismo lugar, donde nació y creció」とする。
+[1] fr 略歴／「au premier rang desquelles la Fête nocturne de Chichibu」／原文にない祭りの序列を加えている。／「notamment la Fête nocturne de Chichibu」とする。
+[1] fr 略歴／「la terre et la vie ainsi que les manifestations traditionnelles」／「風土」を「la terre et la vie」と誤訳し、原文にない「la vie」を加えている。／「le milieu naturel et culturel ainsi que les manifestations traditionnelles」とする。
+[1] fr 功績／「plutôt que d'errer de lieu en lieu」／「errer」は「あてもなくさまよう」という否定的な含意があり、原文にない評価を加えている。／「plutôt que de parcourir différentes régions」とする。
+[2] fr 略歴／「au premier rang desquelles la Fête nocturne de Chichibu」／原文にない序列的な評価が加わっている。／「notamment la Fête nocturne de Chichibu」に直す。
+[2] fr 略歴／「la terre et la vie ainsi que les manifestations traditionnelles」／「風土」を「la terre et la vie」としたことで、原文にない「生活」が加わり、「風土」の意味も正確に伝わらない。／「le milieu naturel et culturel ainsi que les manifestations traditionnelles」に直す。
+
+════════ shimizu-takashi（7件）════════
+[1] de 功績／「auf die gediegene Fülle des Körpers」／「gediegen」は「どっしりとした体の厚み」を適切に表さず、原文にない肯定的評価にも読める。／「auf die schwere, massive Körperfülle」などに直す。
+[1] en 略歴／「“the sculptor Antoine Bourdelle”」／原文にない名「Antoine」が追加されている／“the sculptor Bourdelle”
+[1] es 略歴／「Antoine Bourdelle」／原文にない名「Antoine」が追加されている。／「Bourdelle」に直す。
+[1] fr 略歴／「Antoine Bourdelle」／原文にない名「Antoine」が追加されている。／「Bourdelle」に直す。
+[2] en 一言紹介／「“modeled voluminous female figures”」／「刻んだ」を技法名の “modeled” とすると意味が限定され、原文との対応が不正確。／“sculpted voluminous female figures” とする。
+[2] fr 略歴／「Antoine Bourdelle」／原文にない名「Antoine」が追加されている。／「Bourdelle」に直す。
+[2] zh_tw 功績／「生出明朗韻律的造形」／「造形」は指定表記の「造型」と不統一。また、「生出」では「生み出そうとした」という意図が落ちている。／「試圖在強勁的量感中創造明朗韻律的造型」に直す。
+
+════════ shimizu-toshi（8件）════════
+[1] de 略歴／「in die Vereinigten Staaten übersiedelte」／「übersiedelte」は移住・転居を意味し、「渡米」より事実を限定している。／「in die Vereinigten Staaten ging」とする。
+[1] en 一言紹介／「“went to America and Europe”」／「渡米」と「滞欧」の違いが訳し分けられておらず、欧州に滞在した事実が不明確。／“traveled to the United States and stayed in Europe”に直す。
+[1] en 略歴／「“moved to the United States”」／「渡米」を「移住した」と解釈し、原文にない事実を加えている。／“traveled to the United States”に直す。
+[1] ko 一言紹介／「미국과 유럽을 거치며」／「渡米」と「滞欧」の違いが表されず、欧州に滞在した事実が不明確／「미국으로 건너가 유럽에 체류하며」に直す。
+[2] de 略歴／「in die Vereinigten Staaten übersiedelte」／「übersiedelte」は移住を意味し、原文にない恒久的な移住の含意を加えている／「in die Vereinigten Staaten ging」とする。
+[2] en 略歴／「“who moved to the United States”」／「渡米」を「移住した」と解釈しており、原文にない事実を加えている。／“who went to the United States”に直す。
+[2] en 一言紹介／「“went to America and Europe”」／「滞欧」の「欧州に滞在した」という事実が正確に表されていない。／“went to the United States and stayed in Europe”に直す。
+[2] ko 一言紹介／「미국과 유럽을 거치며」／単に米国と欧州を経由したようにも読め、滞在した事実が明確でない／「미국으로 건너가 유럽에도 체류하며」に直す
+
+════════ shimizu-uichi（3件）════════
+[1] de 功績／「einen Forscherdrang」／原文の「研究者のような」が落ちており、指定語「Wissenschaftler」も反映されていない。／「einen Forscherdrang wie den eines Wissenschaftlers」に直す。
+[1] zh_cn 功績／「他不重形态与彩绘」／原文の「形や絵付けよりも」より意味が強く、「形態や彩絵を重視しなかった」という評価が加わっている。／「比起形态与彩绘，他更力图将泥土、釉与炉火所引发的变化本身展现为美」
+[2] de 功績／「einen Forscherdrang」／「研究者のような探究心」の「研究者のような」が落ちており、指定語「Wissenschaftler」も反映されていない。／「einen Forschungsdrang, wie ihn ein Wissenschaftler besitzt」

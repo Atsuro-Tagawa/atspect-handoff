@@ -1,0 +1,31 @@
+===== 風物 の各言語 =====
+
+── en（1形）
+     1件  scenes from everyday life
+
+── zh_cn（0形）
+
+── zh_tw（1形）
+    13件  風物
+
+── ko（1形）
+    13件  풍물
+
+── fr（1形）
+     1件  scènes de la vie quotidienne
+
+── es（3形）
+     4件  paisaje
+     3件  paisajes
+     1件  escenas de la vida cotidiana
+
+── de（1形）
+     1件  Szenen des Alltagslebens
+===== 渡米・滞欧 の全言語(shimizu-toshi) =====
+--[fr]-- Un peintre de style occidental qui séjourna en Amérique et en Europe et dépeignit la vie urbaine
+--[es]-- Un pintor de estilo occidental que residió en América y Europa y retrató la vida urbana
+--[zh_cn]-- 赴美旅欧、描绘都市风俗的西画家
+--[zh_tw]-- 赴美旅歐、描繪都市風俗的西畫家
+--[fr]-- Toshi Shimizu était un peintre de style occidental né dans la préfecture de Tochigi, qui partit pour les États-Unis et séjourna ensuite en Europe. Il prit pour sujets les rues des villes et les figures de leurs habitants, et réalisa plus tard aussi des peintures de guerre. On sait qu'il fut actif au sein de l'Association Nika et de l'Association d'art indépendant. Parmi ses œuvres figurent New York et Au bord de la Tamise.
+--[es]-- Toshi Shimizu fue un pintor de estilo occidental nacido en la prefectura de Tochigi, que se trasladó a los Estados Unidos y residió luego también en Europa. Tomó como temas las calles de las ciudades y las figuras de sus gentes, y en años posteriores realizó asimismo pinturas de guerra. Consta que fue activo en la Asociación Nika y la Asociación de Arte Independiente. Entre sus obras se cuentan Nueva York y A orillas del Támesis.
+--[ko]-- 시미즈 도시는 도치기현에서 태어난 서양화가로, 미국으로 건너간 뒤 유럽에도 머물렀다. 도시의 거리와 사람들의 모습을 소재로 삼았으며, 후에 전쟁화도 제작했다. 니카회와 독립미술협회에서 활동한 사실이 확인된다. 작품으로 《뉴욕》, 《템스 강변》이 있다.

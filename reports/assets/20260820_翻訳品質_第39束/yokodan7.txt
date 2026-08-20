@@ -1,0 +1,44 @@
+===== 作陶 ko =====
+     1件  작도하며
+     1件  도예에 새로운 표현을 추구했으나
+
+── fr（0形）
+
+── es（0形）
+
+── de（0形）
+===== 壺 de =====
+
+── de（8形）
+     9件  Gefäß
+     8件  Töpfe
+     8件  Gefäßen
+     3件  Gefäße
+     2件  gefäß
+     1件  gefäße
+     1件  Krügen
+     1件  Vasen
+===== 健やか de =====
+── es（1形）
+     1件  solidez
+
+── de（6形）
+     4件  gesunder
+     2件  Gesundheit
+     2件  gesunde
+     1件  gesunden
+     1件  solide
+     1件  Solidität
+===== 揺らめく es/en/fr =====
+── zh_tw（0形）
+
+── ko（0形）
+
+── fr（1形）
+     1件  vacillante
+
+── es（1形）
+     1件  parpadeante
+
+── de（1形）
+     1件  flackerndes

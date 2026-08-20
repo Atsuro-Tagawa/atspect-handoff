@@ -1,0 +1,39 @@
+===== 鍛金 fr/es の所在 =====
+sekiya-shiro [statement] «métal forgé» … Un Trésor national vivant qui maîtrisa le métal forgé et l'assemblage
+sekiya-shiro [bio] «métal forgé» … iste du métal né dans la préfecture d'Akita. Il se spécialisa dans le métal forgé (martelé), façonnant le métal en le frappant au marteau. Mettant à profit la t
+sekiya-shiro [bio] «métal forgé» … iste du métal né dans la préfecture d'Akita. Il se spécialisa dans le métal forgé (martelé), façonnant le métal en le frappant au marteau. Mettant à profit la t
+sekiya-shiro [viewpoint] «métal forgé» … Il était un artiste du métal qui maîtrisa le métal forgé et l'assemblage. Dans ses coupes assemblées, en prêtant attention au motif né 
+── 合計 4件 / 1名 （母集団＝日本語に「鍛金」がある欄・言語=fr）
+===== どっしり de =====
+     1件  massive
+
+── es（0形）
+
+── de（5形）
+     2件  gediegenen
+     1件  gediegene
+     1件  schwergewichtigen
+     1件  gediegen
+     1件  gewichtigen
+===== 熱気 de =====
+── zh_tw（0形）
+
+── ko（0形）
+
+── fr（0形）
+
+── es（0形）
+
+── de（1形）
+     1件  Hitze
+===== 「〜をはじめ」fr =====
+     7件  dont
+     3件  notamment
+     2件  au premier rang desquelles
+     2件  au premier rang desquels
+     2件  À commencer par
+     1件  à commencer par
+
+── es（0形）
+
+── de（0形）

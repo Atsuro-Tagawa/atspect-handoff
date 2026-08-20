@@ -1,0 +1,202 @@
+{
+ "reason": "第39束＝二重検品609件（★A59件）のうち、日本語原文と1件ずつ照合し、かつ全627名で横断型でないと実測で確かめたものだけを是正する。棄却した横断型13型＝器→objet/objeto系（fr 51件・es 63件）／風土→landscape and life系（2〜3名）／人間国宝 fr reconnu（11件）／戦後 ko 제2차 세계대전（10件）／作陶 ko 작도（4件）／造形 zh_tw 造形対造型（155対61）／をはじめ fr au premier rang（4件）／渡り歩く→errer系（4言語一貫）／鍛金 fr/es forge系（2言語一貫）／どっしり de gediegen（多数派）／人物像→figures/figuras/Figuren（定型）／壺 de Gefäß（定型21件）／Antoine Bourdelle 等のフルネーム補完（B1） ／★関所（Codex）が是正案自体の欠陥を捕まえた＝(a)『染め分ける』を『色を染める』と訳す不自然さ（de/es/fr）と並列の不整合（zh_cn/zh_tw）を作り直した (b)独語の『器の健やかさ』は定型 gesund へ寄せても関所が不自然と判定し、元の Solidität/solide も許容範囲のため★是正自体を取り下げた（2件） ／★2巡目の関所が中国語の『分染多色』を不自然と判定したため作り直した",
+ "enteredBy": "翻訳品質T 2026-08-20 第39束",
+ "patches": [
+  {
+   "handle": "sekino-seiun",
+   "lang": "en",
+   "field": "bio",
+   "from": "Gigeiten (Gigeiten, goddess of the arts)",
+   "to": "Gigeiten (goddess of the arts)"
+  },
+  {
+   "handle": "sekino-seiun",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "Gigeiten (Gigeiten, goddess of the arts)",
+   "to": "Gigeiten (goddess of the arts)"
+  },
+  {
+   "handle": "sekino-seiun",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Gigeiten (Gigeiten, déesse des arts)",
+   "to": "Gigeiten (déesse des arts)"
+  },
+  {
+   "handle": "sekino-seiun",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "Gigeiten (Gigeiten, déesse des arts)",
+   "to": "Gigeiten (déesse des arts)"
+  },
+  {
+   "handle": "sekino-seiun",
+   "lang": "es",
+   "field": "bio",
+   "from": "Gigeiten (Gigeiten, diosa de las artes)",
+   "to": "Gigeiten (diosa de las artes)"
+  },
+  {
+   "handle": "sekino-seiun",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "Gigeiten (Gigeiten, diosa de las artes)",
+   "to": "Gigeiten (diosa de las artes)"
+  },
+  {
+   "handle": "sekino-seiun",
+   "lang": "de",
+   "field": "bio",
+   "from": "„Gigeiten“ (Gigeiten, Göttin der Künste)",
+   "to": "„Gigeiten“ (Göttin der Künste)"
+  },
+  {
+   "handle": "sekino-seiun",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "„Gigeiten“ (Gigeiten, Göttin der Künste)",
+   "to": "„Gigeiten“ (Göttin der Künste)"
+  },
+  {
+   "handle": "sekino-seiun",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "trabajó sobre todo la madera",
+   "to": "trabajó sobre todo la talla en madera"
+  },
+  {
+   "handle": "sekiya-shiro",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "这一对素材的处理本身",
+   "to": "这种素材处理方式本身"
+  },
+  {
+   "handle": "sekiya-shiro",
+   "lang": "zh_tw",
+   "field": "viewpoint",
+   "from": "這一對素材的處理本身",
+   "to": "這種素材處理方式本身"
+  },
+  {
+   "handle": "serizawa-keisuke",
+   "lang": "en",
+   "field": "bio",
+   "from": "in which a carved stencil is used to dye multiple colors in a single design",
+   "to": "in which a single carved stencil is used to dye multiple colors separately"
+  },
+  {
+   "handle": "serizawa-keisuke",
+   "lang": "de",
+   "field": "bio",
+   "from": "bei dem mit einer geschnittenen Schablone mehrere Farben in einem einzigen Muster gefärbt werden",
+   "to": "bei dem mit einer einzigen geschnittenen Schablone mehrere Farben voneinander getrennt aufgetragen werden"
+  },
+  {
+   "handle": "serizawa-keisuke",
+   "lang": "fr",
+   "field": "bio",
+   "from": "où un pochoir gravé sert à teindre plusieurs couleurs en un seul motif",
+   "to": "où un seul pochoir gravé permet d'appliquer séparément plusieurs couleurs"
+  },
+  {
+   "handle": "serizawa-keisuke",
+   "lang": "es",
+   "field": "bio",
+   "from": "en el que una plantilla tallada sirve para teñir varios colores en un solo motivo",
+   "to": "en el que una sola plantilla tallada sirve para aplicar por separado varios colores"
+  },
+  {
+   "handle": "serizawa-keisuke",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "从事以雕刻型纸一次染分多色的",
+   "to": "从事雕刻型纸，并用同一张型纸分别染出多种颜色的"
+  },
+  {
+   "handle": "serizawa-keisuke",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "從事以雕刻型紙一次染分多色的",
+   "to": "從事雕刻型紙，並以同一張型紙分別染出多種色彩的"
+  },
+  {
+   "handle": "shigeko-kubota",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "the solidity of sculpture",
+   "to": "the three-dimensional form of sculpture"
+  },
+  {
+   "handle": "shigeko-kubota",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "le solide de la sculpture",
+   "to": "la forme tridimensionnelle de la sculpture"
+  },
+  {
+   "handle": "shigeko-kubota",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "la solidez de la escultura",
+   "to": "la forma tridimensional de la escultura"
+  },
+  {
+   "handle": "shigeko-kubota",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "su luz parpadeante",
+   "to": "su luz fluctuante"
+  },
+  {
+   "handle": "shimaoka-tatsuzo",
+   "lang": "de",
+   "field": "statement",
+   "from": "der das Jōmon-Zōgan-Einlegen schuf",
+   "to": "der die Jōmon-Zōgan-Technik entwickelte"
+  },
+  {
+   "handle": "shimaoka-tatsuzo",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "der das Jōmon-Zōgan-Einlegen schuf",
+   "to": "der die Jōmon-Zōgan-Technik entwickelte"
+  },
+  {
+   "handle": "shimizu-buko",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "auf die Hitze eines mit Kasaboko-Festwagen gesäumten Festes",
+   "to": "auf die mitreißende Stimmung eines mit Kasaboko-Festwagen gesäumten Festes"
+  },
+  {
+   "handle": "shimizu-toshi",
+   "lang": "en",
+   "field": "bio",
+   "from": "who moved to the United States",
+   "to": "who went to the United States"
+  },
+  {
+   "handle": "shimizu-toshi",
+   "lang": "de",
+   "field": "bio",
+   "from": "der in die Vereinigten Staaten übersiedelte",
+   "to": "der in die Vereinigten Staaten ging"
+  },
+  {
+   "handle": "shimizu-toshi",
+   "lang": "es",
+   "field": "bio",
+   "from": "que se trasladó a los Estados Unidos",
+   "to": "que viajó a los Estados Unidos"
+  },
+  {
+   "handle": "shimizu-uichi",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "便能体味他不重形态与彩绘，而力图将泥土、釉与炉火所引发的变化本身引为美的",
+   "to": "便能体味他比起形态与彩绘，更力图将泥土、釉与炉火所引发的变化本身引为美的"
+  }
+ ]
+}

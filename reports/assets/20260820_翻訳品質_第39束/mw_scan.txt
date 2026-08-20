@@ -1,0 +1,122 @@
+母集団＝全627名／代表作が配列 599名・オブジェクト 25名・無し 3名
+
+── 配列の全要素にその言語が揃っていない作家の数（言語別）──
+  en: 0名
+  zh_cn: 582名
+  zh_tw: 582名
+  ko: 582名
+  fr: 582名
+  es: 582名
+  de: 582名
+
+── ★en だけあって他6言語が全く無い作家 ＝ 582名
+   kano-hogai
+   hashimoto-gaho
+   tomioka-tessai
+   yokoyama-taikan
+   hishida-shunso
+   shimomura-kanzan
+   saigo-kogetsu
+   kimura-buzan
+   imamura-shiko
+   omoda-seiju
+   yasuda-yukihiko
+   maeda-seison
+   kobayashi-kokei
+   hayami-gyoshu
+   nakamura-gakuryo
+   kawabata-ryushi
+   yokoyama-misao
+   takeuchi-seiho
+   uemura-shoen
+   kikuchi-keigetsu
+   nishiyama-suisho
+   tsuchida-bakusen
+   murakami-kagaku
+   ono-chikkyo
+   irie-hako
+   sakakibara-shiho
+   domoto-insho
+   fukuda-heihachiro
+   tokuoka-shinsen
+   yamaguchi-kayo
+   nishimura-goun
+   nakamura-daizaburo
+   hashimoto-kansetsu
+   matsubayashi-keigetsu
+   kitano-tsunetomi
+   shima-seien
+   kainosho-tadaoto
+   kaburaki-kiyokata
+   ito-shinsui
+   kawai-gyokudo
+
+── ★配列(ja)とフラット正本 masterworks_text が食い違う作家 ＝ 36名
+   ito-shinsui  配列「対鏡、銀世界、吹雪」 ／ フラット「対鏡、吹雪」
+   kawasaki-shoko  配列「大原の奥、神々の図」 ／ フラット「つき草、花合せ、じゅず玉、沈鐘、人魚」
+   bundo-shunkai  配列「日展出品作、漢字書幅、詩文書」 ／ フラット「漢詩幅、七言二句」
+   murakami-santo  配列「漢字大字書、詩文書、日展出品作」 ／ フラット「杜甫贈高式顔詩」
+   sakaki-bakuzan  配列「大字書、詩文書、莫山作品」 ／ フラット「大字書、詩文書、《寒山拾得》（1994年・紙本金箔・166.5×183cm・三重県立美術館蔵、所蔵番号20111J065000）」
+   amemiya-jiro  配列「古人、構想」 ／ フラット「槍投、健人、無人の境を行く」
+   miyagawa-kozan  配列「高浮彫蟹図水盤、釉下彩作品」 ／ フラット「褐釉蟹貼付台付鉢（1881年・重要文化財）」
+   ueno-tameji  配列「友禅着物」 ／ フラット「京友禅技術記録（一越縮緬地友禅訪問着・歓喜）、一越縮緬地友禅訪問着 寿山の曙」
+   shono-shounsai  配列「白竹手付盛籃、怒濤」 ／ フラット「怒濤」
+   nojima-yasuzo  配列「裸婦、細川ちか子氏、光画掲載作品」 ／ フラット「細川ちか子氏、裸婦」
+   jiro-yoshihara  配列「円、抽象絵画」 ／ フラット「円（作品）、抽象絵画」
+   saburo-murakami  配列「通過」 ／ フラット「通過（紙を破る作品）」
+   tsuruko-yamazaki  配列「ブリキの作品、赤い箱」 ／ フラット「ブリキの作品、赤い箱（反射の作品）」
+   sadaharu-horio  配列「あたりまえのこと、空気」 ／ フラット「あたりまえのこと、空気（作品）」
+   yozo-ukita  配列「きりん、抽象絵画」 ／ フラット「きりん（児童詩誌の編集）、抽象絵画」
+   yoshida-toshio  配列「板を焼いた作品、スポンジ・泡の作品」 ／ フラット「板を焼いた作品（Burn）、スポンジ・泡の作品」
+   tomio-miki  配列「耳（金属の作品）」 ／ フラット「EAR（耳）」
+   shigeko-kubota  配列「階段、デュシャンピアナ」 ／ フラット「階段（ビデオ彫刻）、デュシャンピアナ」
+   masunobu-yoshimura  配列「ネオ・ダダの作品、豚」 ／ フラット「ネオ・ダダの作品、豚（作品）」
+   minoru-niizuma  配列「石の抽象彫刻」 ／ フラット「眼の城（1965年・東京国立近代美術館蔵）」
+   nakayama-takashi  配列「西洋婦人像」 ／ フラット「マチス礼讃、樵夫、フィレンチェの街」
+   hayashi-shigeyoshi  配列「金魚と裸女、支那の女」 ／ フラット「庭の一隅、秋の山路、舞妓」
+   nakamura-takuji  配列「画室の自像、漁夫」 ／ フラット「画室の女、男の像、扇を持つ女」
+   sekino-seiun  配列「伎芸天、吉祥天」 ／ フラット「吉祥天」
+   numata-ichiga  配列「白衣観音、犬」 ／ フラット「正木直彦像、ワグネル博士像、能楽師梅若実翁像」
+   fujikawa-yuzo  配列「スザンヌ、女の首」 ／ フラット「スザンヌ」
+   sakata-minoru  配列「造型写真、前衛・構成写真作品」 ／ フラット「造型写真、危機、球体について、門入村」
+   tamura-shigeru  配列「人物肖像、戦後社会の記録」 ／ フラット「現代日本の百人、アラブの真実、北ベトナムの証言」
+   nakamura-masaya  配列「野分け、城、アトリエ」 ／ フラット「グラマーフォト、若い裸」
+   fukushima-hideko  配列「抽象絵画」 ／ フラット「宇宙線シャワー、凝視、未知のものへ、ビンの中」
+   okamoto-shinjiro  配列「戦争を主題にした連作、丸の絵画」 ／ フラット「ころがるさくら・東京大空襲」
+   ida-shoichi  配列「表面は間にある、版画作品」 ／ フラット「Surface is the Between、版画作品」
+   ochi-hiroshi  配列「色彩・デザインの著作」 ／ フラット「出光興産のロゴマーク、公明党のトレードマーク」
+   ito-mohei  配列「婦人服・洋装」 ／ フラット「日本航空（JAL）客室乗務員制服（2代目・3代目）デザイン」
+   koike-iwataro  配列「ヤマハのレコードプレーヤー、大関のボトル、工業製品のデザイン」 ／ フラット「大関ボトル、レコードプレーヤー」
+   ito-chuta  配列「築地本願寺本堂、東京都慰霊堂、湯島聖堂（再建）」 ／ フラット「築地本願寺本堂、東京都慰霊堂、湯島聖堂(再建)」
+
+── ★作品名の中にカンマ「, 」を含む（区切りと見分けがつかない）＝ 33件
+   takeuchi-seiho[en] 「Oh, a Sudden Shower」
+   uemura-shoen[en] 「The Dance, Performed as Prelude」
+   kaburaki-kiyokata[en] 「Akashichō, Tsukiji」
+   kayama-matazo[en] 「Snow, Moon, and Flowers」
+   moriya-tadashi[en] 「Hasekura Tsunenaga, the Keichō-Era Envoy to Europe」
+   kuroda-seiki[en] 「Wisdom, Impression, Sentiment」
+   kishida-ryusei[en] 「Road, Embankment and Wall: Sketch of a Cutting」
+   migishi-setsuko[en] 「Bloomed, Bloomed, the Cherry Blossoms Bloomed」
+   nakagawa-kazumasa[en] 「Mount Komagatake, Hakone」
+   kazuki-yasuo[en] 「Northward, Westward」
+   wakabayashi-isamu[en] 「Possession, Atmosphere, Vibration」
+   arakawa-toyozo[en] 「Shino Tea Bowl with Bamboo Shoot Design, named Zuien」
+   kawakita-handeishi[en] 「Shino Tea Bowl, named Yuki no Akebono (Dawn over Snow)」
+   miwa-kyuwa[en] 「Hagi Tea Bowl, named Takarabune (Treasure Ship)」
+   miwa-kyuwa[en] 「Hagi Tea Bowl, named Juzan」
+   himi-kodo[en] 「Bare-wood hand box of quail-grain wood, sand-polished」
+   iizuka-rokansai[en] 「Flower Basket, Riches and Honor」
+   horino-masao[en] 「Camera, Eye × Steel, Composition」
+   kuwabara-kineo[en] 「Tokyo, 1936」
+   futagawa-yukio[en] 「GA (Global Architecture, architectural photobook series)」
+   toshimitsu-imai[en] 「Flowers, Birds, and the Seasons Series」
+   shusaku-arakawa[en] 「Site of Reversible Destiny, Yōrō」
+   ikegami-shuho[en] 「Pine, Bamboo, and Plum」
+   sekino-seiun[en] 「Gigeiten, Goddess of the Arts」
+   sekino-seiun[en] 「Kichijoten, Goddess of Fortune」
+   tsuchitani-takeshi[en] 「Tree, Toward the Sky」
+   kato-tokuro[en] 「Shino Tea Bowl, named Tsurara (Icicle)」
+   noguchi-mitsuhiko[en] 「Child's Heart, Playing the Flute」
+   kondo-sechiku[en] 「Dragons at Play, Phoenixes Gathering」
+   katayama-tokuma[en] 「State Guest House, Akasaka Palace (former Crown Prince's Palace)」
