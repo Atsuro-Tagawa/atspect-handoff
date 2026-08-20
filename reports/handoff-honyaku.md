@@ -10,9 +10,9 @@
 
 ## 1. 日課（8言語通読）の現在地
 
-- **420名／625名 完了（第36束まで）。次のカーソル＝`saigo-kogetsu`（西郷孤月さま）の次＝421番目から。**
-- 通番＝**便は第63便まで／束は第36束まで**（便と束は別の通番）。
-- **第37束は未着手**（依頼の生成もしていない＝中途の適用はない）。
+- **430名／625名 完了（第37束まで）。次のカーソル＝`sano-toshikata`（佐野利器さま）の次＝431番目から。**
+- 通番＝**便は第64便まで／束は第37束まで**（便と束は別の通番）。
+- **第38束は未着手**（依頼の生成もしていない＝中途の適用はない）。
 
 ### 再開手順（そのまま実行できる形）
 
@@ -20,14 +20,14 @@
 cd C:/Users/ataga/atspect-system
 
 # 1. 次の10名を出す（カーソルは「その次から」）
-node scripts/_readonly-honyaku-nikka-20260810.mjs saigo-kogetsu 10
+node scripts/_readonly-honyaku-nikka-20260810.mjs sano-toshikata 10
 
-# 2. 作業ディレクトリ（束37なら b37）
-mkdir -p scratch/honyaku-b37-<日付>/{fwd,rev,out}
+# 2. 作業ディレクトリ（束38なら b38）
+mkdir -p scratch/honyaku-b38-<日付>/{fwd,rev,out}
 
 # 3. 二重検品の依頼を作る（10名×7言語×順序2通り＝140本）
-node scripts/_readonly-honyaku-bin-prompts2-20260812.mjs scratch/honyaku-b37-<日付>/fwd fwd <handle×10>
-node scripts/_readonly-honyaku-bin-prompts2-20260812.mjs scratch/honyaku-b37-<日付>/rev rev <handle×10>
+node scripts/_readonly-honyaku-bin-prompts2-20260812.mjs scratch/honyaku-b38-<日付>/fwd fwd <handle×10>
+node scripts/_readonly-honyaku-bin-prompts2-20260812.mjs scratch/honyaku-b38-<日付>/rev rev <handle×10>
 
 # 4. 全140本へ用語注入（★1本でも抜けたら入れ直す。140/140を機械で確認）
 node scripts/honyaku-term-inject-20260811.mjs <handle> <lang> >> <各プロンプト>
@@ -36,7 +36,7 @@ node scripts/honyaku-term-inject-20260811.mjs <handle> <lang> >> <各プロン�
 codex exec --skip-git-repo-check "$(cat <file>)" < /dev/null > <out>
 
 # 6. 仕分け → 原文照合 → 横断型の実測 → 置換表 → 関所 → 再検品 → 適用 → 突き合わせ3段 → スクショ
-node scripts/_readonly-honyaku-b26-triage-20260813.mjs scratch/honyaku-b37-<日付>
+node scripts/_readonly-honyaku-b26-triage-20260813.mjs scratch/honyaku-b38-<日付>
 node scripts/honyaku-patch-build.mjs <table.json> <patch.json>     # from が live にちょうど1回か
 node scripts/artist-i18n-update.mjs plan  --file <patch.json>
 SHOPIFY_ALLOW_WRITE=1 node scripts/artist-i18n-update.mjs apply --plan <plan> --yes
@@ -121,34 +121,26 @@ Codexの当たり＝**590〜710件**、うち採用＝**40〜70件**。★A（�
 
 ---
 
-## 4. ★未裁定の横断型（触らずに記録しているもの）
+## 4. ★未裁定の横断型＝**材料表に一本化した（2026-08-20）**
 
-| 型 | 実測 | 状態 |
-|---|---|---|
-| 報道写真に documentary の限定 | 独 dokumentarische 7欄／西 documental 6欄／仏 documentaire 5欄（名取・土門・田村・大塚・福島さまの5作家） | 未裁定 |
-| 韓「作品が伝えられる」 | 전한다 7欄／전해진다 12欄 | 未裁定 |
-| 帝室技芸員の独語注釈 | 「vom Kaiserhaus verliehener Titel」あり5欄／なし19欄（D6に既裁定あり） | 未裁定 |
-| 西 pintor de nihonga の前置詞 | de付き101欄／de無し114欄 | 未裁定 |
-| 「〜流」を école と訳す（仏） | 西川春洞・丹羽海鶴・武田華堂さまの3欄で内部一貫 | 未裁定 |
-| 韓「인간국보」直後の助詞 | 로45欄／에27欄 | 未裁定 |
-| 中 代表取締役の訳語 | 代表取缔役2欄／代表董事2欄 | 未裁定 |
-| 独 第1回の文化勲章 | 横山大観・藤島武二・岡田三郎助さまの3名で一貫 | 未裁定（誤りと断定できず） |
-| 呼称「인더스트리얼 디자이너」 | 20欄／공업 디자이너 1欄 | **多数派維持で確定** |
-| **独語「箱」** | Dosen9／Kästen6／kästen3／Kasten1（17名24欄） | **未裁定**（Dosen＝缶で誤訳の疑いが濃い。**統一便が要る**） |
-| **独語 (Yōga) の付け方** | 「Maler im westlichen Stil (Yōga)」196／「Yōga-Maler」70／**(Yōga)なし33**（118名334欄） | ★**確定裁定D4の適用漏れ103欄。統一便が要る** |
-| **指物** | en joinery4:sashimono3／fr sashimono3:menuiserie2／es ebanistería3:sashimono3／de Tischlerei4:Sashimono3（3名7欄） | 未裁定 |
-| **臨書** | es 「estudio caligráfico」9 : 「copia」2（7名12欄） | ★**統一便が要る**（2026-08-19 Codex独立レビュー＝「臨書の核心である模写が失われる」。9欄の一括是正が要る） |
-| **理事** | es director4:junta directiva2（10名11欄） | 未裁定 |
-| **二科会の訳し方** | ko 니카회26:니카카이5／**fr 「Association Nika」18 : 「Nika Association」13**／**es 「Asociación Nika」18 : 「Nika Association」13**／de 4形（32名） | 未裁定（D2を美術団体へ広げるかの線引きが要る） |
-| **es「画面」の訳** | `lienzo`（＝支持体）21欄14名。第35束で2件を `composición` にしたが統一されていない | 未裁定 |
-| **「作家の一人」→「会員の一人」** | en `one of the artists` 8 : `one of the members` 7／fr 9:5／de `Künstler` 7 : `Mitglieder` 7（es は9件すべて artistas で一貫） | ★**誤訳と判定済み（2026-08-20 Codex独立レビュー）。全該当欄を artists 系へ統一する便が要る** |
-| **maki-e の括弧注釈** | en 6名／de・es・fr 各5名。原文に説明はないが全体で一貫 | 棄却で確定（文化固有語の補足として許容） |
-| **具体美術協会の韓国語** | 구체미술협회 26件12名 : 구타이 5件1名（吉田稔郎さまのみ） | 未裁定 |
-| **代表作（配列）の `romaji` 欄が日本語の読みでない** | 「それいゆ」→`Soleil`／「ヴェネチア」→`Venezia`／「レリーフ」→`Relief`／「プロヴォーク」→`Provoke`／「バタフライスツール」→`Butterfly Stool`／「森林（タイポグラフィ）」→`Shinrin (typography)` 等。**複数作家にまたがる** | 未裁定（**ローマ字表記は本Tの持ち場**だが1名だけ直すと割れる） |
-| **二科会の fr/es** | 佐伯祐三さま等が「Nika Association」（英語形13件側）。多数派は「Association Nika／Asociación Nika」18件 | 未裁定（既出） |
-| **具体美術協会の韓国語** | 구체미술협회 26件／12名 : 구타이 5件／1名（吉田稔郎さまのみ） | 未裁定（1名だけ音訳） |
-| **代表作（配列）の要素がジャンル名の疑い** | 機械の当たり69件／65名。★**当たり＝誤りではない**（「山海図絵」「読書」等の実在作品も同じ網に掛かる） | 未裁定（D7の適用漏れの疑い） |
-| **代表作（配列）の要素がジャンル名になっている疑い** | **機械の当たり69件／65名**（詩文書・和歌書・大字書・スタイル画・服飾デザイン・書籍デザイン 等）。★**当たり＝誤りではない**＝「山海図絵」「読書」「大葛人形」等の実在する作品名も同じ網に掛かる。**1件ずつ日本語原文と照合しないと仕分けできない** | **未裁定**（2026-08-19実測。D7の適用漏れの疑い） |
+**正本＝`reports/assets/20260820_横断裁定_材料表/材料表.md`**（第64便で作成。司令塔が一括裁定するための材料）。
+この節にあった表は**重複行・古い数値・決着済みの型が混ざっていた**ため、材料表へ集約した。
+
+- 材料表の中身＝**裁定が要る11型＋新規1型（T19）／割れていない確認だけの2型／言い回し3型／代表作まわり2型**。
+  **数値はすべて2026-08-20に測り直し**、母集団（訳文側の全欄）を明記した。
+- **`抜き取り一覧_日本語原文つき.txt`**＝文脈を見ないと決められない7型について、各形4件ずつ「誰のどの欄か／日本語原文／現在の訳文」。
+- **`表示確認_GitHubでの見え方_1440w.png`**＝司令塔が読む画面の実物。
+
+### ★材料表に載せた新規の型（第37束の下調べ・第64便）
+
+| 型 | 実測 |
+|---|---|
+| T19 「文化功労者」の独語・仏語 | de `Person mit besonderen kulturellen Verdiensten` 19件17名 対 **英語形 `Person of Cultural Merit` が独語欄に1件**（黒川紀章さま）／fr `personne de mérite culturel` 4件 対 `Personnalité` 2件 |
+
+### ★裏取りが要るので触っていないもの（リサーチT／司令塔へ）
+
+- **日本建築学会賞の「作品」部門**＝en/de/es/fr の4言語で `Design/Entwurf/design`。**公式英語表記が `Design` である可能性**があり裏が取れない。
+- **坂倉準三さま英語の館名**＝「Kamakura Museum of Modern Art」。日本語は「鎌倉文華館鶴岡ミュージアム」で、**別施設の名になっている疑い**。
 
 ---
 
