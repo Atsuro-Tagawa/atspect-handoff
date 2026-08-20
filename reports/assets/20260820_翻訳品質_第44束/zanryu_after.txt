@@ -1,0 +1,56 @@
+  0件  1 智恵子抄→空(en)
+  0件  1 智恵子抄→空(es)
+  0件  1 智恵子抄→空(fr)
+  0件  1 智恵子抄→空(de)
+  0件  2 傾倒→studied(en)
+  0件  2 傾倒→devoted(en)
+  0件  2 傾倒→形だけ(fr)
+  0件  2 傾倒→師法(zh_cn)
+  0件  2 傾倒→師法(zh_tw)
+  0件  2 傾倒→zu(de)
+  0件  2 傾倒→entregó(es)
+  0件  3 妻のために書いた(de)
+  0件  3 妻に献呈(es)
+★4件  4 現校名の注釈(en)
+        kano-hogai[bio.en] ×1
+        kano-hogai[flat:bio_en] ×1
+        hashimoto-gaho[bio.en] ×1
+        hashimoto-gaho[flat:bio_en] ×1
+★4件  4 現校名の注釈(fr)
+        kano-hogai[bio.fr] ×1
+        kano-hogai[flat:bio_fr] ×1
+        hashimoto-gaho[bio.fr] ×1
+        hashimoto-gaho[flat:bio_fr] ×1
+  0件  4 現校名の注釈(de)
+★4件  4 現校名の注釈(ko)
+        kano-hogai[bio.ko] ×1
+        kano-hogai[flat:bio_ko] ×1
+        hashimoto-gaho[bio.ko] ×1
+        hashimoto-gaho[flat:bio_ko] ×1
+★4件  4 現校名の注釈(zh_cn)
+        kano-hogai[bio.zh_cn] ×1
+        kano-hogai[flat:bio_zh_cn] ×1
+        hashimoto-gaho[bio.zh_cn] ×1
+        hashimoto-gaho[flat:bio_zh_cn] ×1
+★4件  4 現校名の注釈(zh_tw)
+        kano-hogai[bio.zh_tw] ×1
+        kano-hogai[flat:bio_zh_tw] ×1
+        hashimoto-gaho[bio.zh_tw] ×1
+        hashimoto-gaho[flat:bio_zh_tw] ×1
+  0件  5 奇抜さ→新しさ(de)
+  0件  5 奇抜さ→新しさ(fr)
+  0件  6 Mahatma(en)
+  0件  6 Mahatma(fr)
+  0件  6 Mahatma(de)
+  0件  7 使い古された→使い切られた(de)
+  0件  8 身につけた→熟達(en)
+  0件  8 身につけた→熟達(es)
+  0件  9 記録者→archiviste(fr)
+  0件  10 毛並み→毛色(zh_cn)
+  0件  10 毛並み→毛色(zh_tw)
+  0件  11 見るとよい→評価(es)
+  0件  12 武田霞洞の旧訳(en)
+  0件  12 武田霞洞の旧訳(zh_cn)
+  0件  12 武田霞洞の旧訳(ko)
+
+── 旧い形の残存 合計 20 箇所（母集団＝全627名／artist_i18n の全欄＋同名の個別フィールド）

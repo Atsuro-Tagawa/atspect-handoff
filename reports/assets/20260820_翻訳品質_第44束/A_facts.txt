@@ -1,0 +1,149 @@
+
+════════ takamura-kotaro（20件）════════
+[1] de 略歴／「den er für seine Frau schrieb」／「妻をうたった」を「妻のために書いた」としており、意味が異なる／「in dem er seine Frau besang」
+[1] en 一言紹介／「“A sculptor who studied Rodin”」／「深く傾倒した」が「学んだ」と誤訳され、傾倒の意味と程度が落ちている。／“A sculptor who was deeply devoted to Rodin and was also a poet”とする。
+[1] en 功績／「“He was an artist who studied Rodin”」／「深く傾倒し」が「学んだ」と誤訳され、傾倒の意味と程度が落ちている。／“He was an artist who was deeply devoted to Rodin”とする。
+[1] es 略歴／「dedicado a su esposa」／「妻をうたった」が「妻に献呈された」という別の事実に変わっている。／「centrado en su esposa」とする。
+[1] ko 略歴／「만년에」／「最晩年」の「最」に当たる意味が落ちている。／「생애 마지막 무렵에」に直す。
+[1] zh_cn 功績／「他师法罗丹，以雕塑与诗歌两方面闻名」／「师法」は原文にない意味を加えており、原文の「作家（艺术家）」も落ちている／「他是一位十分崇敬罗丹、以雕塑和诗歌闻名的艺术家」に直す。
+[1] zh_cn 功績／「一种试图将内在涌动之力化为量感的尝试」／「力を量感としてとらえようとした」を「力を量感に変える」と誤訳している。また、張力そのものを「尝试」と言い換える構造になっている／「从中可以感受到近代雕塑特有的张力，体现了艺术家试图以量感捕捉由内而外迸发的力量」に直す。
+[1] zh_tw 略歴／「於晚年創作了」／原文の「最晩年」の「最」が落ちている。／「於人生最晚年創作了」に直す。
+[1] zh_tw 功績／「以雕塑與詩歌兩方面聞名」／原文の「作家」に当たる「藝術家」が落ちている。／「是以雕塑與詩歌兩方面聞名的藝術家」に直す。
+[2] en 功績／「“studied Rodin”」／「深く傾倒した」が「ロダンを研究した」という意味になり、「深く」も落ちている。／“was deeply devoted to Rodin”に直す。
+[2] en 略歴／「“Auguste Rodin”」／原文にない名“Auguste”が足されている。／“Rodin”に直す。
+[2] en 一言紹介／「“studied Rodin”」／「深く傾倒した」が「ロダンを研究した」という意味になり、「深く」も落ちている。／“was deeply devoted to Rodin”に直す。
+[2] fr 功績／「se forma à l'exemple de Rodin」／ロダンを手本に修業したという意味になり、「深く傾倒した」の誤訳。／「se passionna profondément pour Rodin」に直す。
+[2] fr 略歴／「se voua profondément au sculpteur français Auguste Rodin」／人そのものに身を捧げたという不自然な意味になっている。また、原文にない「Auguste」が足されている。／「se passionna profondément pour le sculpteur français Rodin」に直す。
+[2] fr 略歴／「dans ses dernières années」／「最晩年」の「最」に当たる意味が落ちている。／「dans les toutes dernières années de sa vie」に直す。
+[2] fr 一言紹介／「formé à l'exemple de Rodin」／ロダンを手本に修業したという意味になり、「深く傾倒した」の誤訳。／「profondément passionné par Rodin」に直す。
+[2] ko 略歴／「만년에」／「最晩年」の「最」に当たる意味が落ちている／「생애 마지막 무렵에」に直す。
+[2] zh_tw 功績／「他師法羅丹，以雕塑與詩歌兩方面聞名。」／「深く傾倒」が「師法」となっており、程度が落ちています。また、「作家（藝術家）」が訳出されていません。／「他曾是一位深深傾倒於羅丹、以雕塑與詩歌聞名的藝術家。」
+[2] zh_tw 略歴／「於晚年創作了」／「最晩年」の「最」が落ちています。／「於生命的最後幾年創作了」
+[2] zh_tw 一言紹介／「師法羅丹的雕塑家，同時也是詩人」／「深く傾倒」が「師法」となっており、程度が落ちています。／「深深傾倒於羅丹的雕塑家，同時也是詩人」
+
+════════ takamura-koun（13件）════════
+[1] de 略歴／「(heute Universität der Künste Tōkyō)」／原文にない現在の校名が追加されている。／削除する。
+[1] en 略歴／「“(today the Tokyo University of the Arts)”」／原文にない現在の校名が追加されている。／括弧内を削除する。
+[1] es 略歴／「(hoy Universidad de las Artes de Tokio)」／原文にない現在の校名が追加されている。／削除する。
+[1] fr 略歴／「(aujourd'hui l'Université des arts de Tokyo)」／原文にない現在の校名が追加されている／括弧内を削除する。
+[1] fr 功績／「la formation des plus jeunes」／「後進」を単に年少者とする語の取り違え／「la formation de la génération suivante de sculpteurs」とする。
+[1] ko 略歴／「(현 도쿄예술대학)」／原文にない現在の学校名が追加されている。／削除して「신설된 도쿄미술학교에서」とする。
+[1] zh_cn 略歴／「（今东京艺术大学）」／原文にない現在の校名が追加されている。／「（今东京艺术大学）」を削除する。
+[1] zh_tw 略歴／「（今東京藝術大學）」／原文にない現在の校名が追加されている。／削除する。
+[2] en 略歴／「“(today the Tokyo University of the Arts)”」／原文にない現在の校名が追加されている。／括弧内を削除する。
+[2] es 略歴／「(hoy Universidad de las Artes de Tokio)」／原文にない現在の校名が追加されている。／該当箇所を削除する。
+[2] fr 略歴／「(aujourd'hui l'Université des arts de Tokyo)」／原文にない現在の名称が追加されている。／括弧内を削除し、「Il enseigna la sculpture à la toute nouvelle École des beaux-arts de Tokyo」とする。
+[2] ko 略歴／「(현 도쿄예술대학)」／原文にない現在の校名が追加されている。／「(현 도쿄예술대학)」を削除する。
+[2] zh_cn 略歴／「东京美术学校（今东京艺术大学）」／「今东京艺术大学」は原文にない事実の追加／「东京美术学校」に直す。
+
+════════ takamura-toyochika（5件）════════
+[1] es 一言紹介／「en el metal fundido」／「鋳金」という技法を、素材・状態を表す「溶融・鋳造された金属」と取り違えている。／「en la fundición de metales」
+[1] es 略歴／「Se especializó en el metal fundido (verter metal derretido en un molde)」／「鋳金」という技法名が「metal fundido」になっている。また、括弧内が文法的に本文へつながっていない。／「Se especializó en la fundición de metales, técnica que consiste en verter metal fundido en un molde」
+[1] zh_cn 略歴／「将熔化金属注入模型」／「模型」は完成形の模型を意味し、「型」の取り違え。／「将熔化的金属注入模具」に直す。
+[2] de 略歴／「an den Bewegungen von Kunsthandwerk-Vereinigungen」／不自然な連語で、「工芸団体の運動」が複数の運動だったという原文にない含意も生じる。／「an den Reformbewegungen der Kunsthandwerksvereinigungen」に直す。
+[2] es 略歴／「el metal fundido (verter metal derretido en un molde)」／「鋳金」を素材名のように表しており、技法名との区別が不明瞭。／鋳金の確定訳語を確認し、技法名として統一する。
+
+════════ takano-shozan（11件）════════
+[1] de 功績／「die keine Neuerung suchte」／「奇抜さを求めず」を「革新を求めず」としており、意味が異なる。／「die nicht nach dem Ungewöhnlichen strebte」に直す。
+[1] fr 略歴／「saupoudrés de poudre d'or」／「金粉など」の「など」が落ちている。／「saupoudrés notamment de poudre d'or」とする。
+[1] fr 功績／「ne recherchait nulle nouveauté」／「奇抜さ」を「新しさ」と取り違えている。／「ne recherchait nullement l'extravagance」とする。
+[1] ko 略歴／「마키에(일본 칠 장식)」／原文にない「日本の漆装飾」という説明が追加されている。／「마키에」に直す。
+[2] de 功績／「keine Neuerung suchte」／「奇抜さを求めず」を「革新を求めず」と誤訳している／「nicht nach Extravaganz strebte」に直す。
+[2] de 略歴／「Urushi (japanischem Lack)」／原文にない説明が追加されている／「Urushi」に直す。
+[2] es 略歴／「realizó un maki-e finamente detallado y refinado」／技法名の *maki-e* を制作物のように扱う不自然な表現で、「品位ある」が *refinado* に弱められている。／「creó obras de maki-e minuciosas y llenas de dignidad」に直す。
+[2] fr 略歴／「il réalisa un maki-e finement détaillé et raffiné」／技法名を可算の制作物のように扱っており不自然。／「il réalisa des œuvres en maki-e, minutieuses et empreintes de dignité」とする。
+[2] ko 略歴／「마키에(일본 칠 장식)」／「일본 칠 장식」という説明が原文にない。／「마키에」に直す。
+[2] zh_cn 功績／「蒔绘格式与技法」／「格式」はここでは「格式（フォーマット）」の意味に読まれ、語の取り違え。／「莳绘的格调与技法」などに直す。
+[2] zh_tw 功績／「漆底上」／「漆の地」の誤訳。「漆底」は箱の底部とも読める。／「漆地上」に直す。
+
+════════ takata-hiroatsu（7件）════════
+[1] de 略歴／「該当箇所：「Mahatma Gandhi」／何が問題か：原文にない敬称「Mahatma」が加えられており、功績欄の「Gandhi」とも不統一。／どう直すか：「Gandhi」
+[1] de 略歴／「該当箇所：「zahlreiche Bildnisbüsten von ihnen」／何が問題か：「肖像彫刻」を「胸像」に限定し、原文にない作品形式を加えている。／どう直すか：「zahlreiche Porträtskulpturen von ihnen」
+[1] fr 略歴／「le Mahatma Gandhi」／原文にない尊称「Mahatma」が加えられている。／「Gandhi」
+[1] zh_cn 略歴／「作为作家亦有活动」／「文筆家」を「作家」と取り違えており、言い回しも不自然／「也曾以文笔家的身份从事写作活动」に直す。
+[2] en 略歴／「“including Romain Rolland and Mahatma Gandhi”」／原文にない呼称 “Mahatma” が追加されている。／“including Romain Rolland and Gandhi” に直す。
+[2] fr 略歴／「le Mahatma Gandhi」／原文にない敬称「Mahatma」が追加されている。／「Gandhi」とする。
+[2] zh_cn 功績／「化为形体的姿态」／「姿态」は原文の「姿勢」の取り違えで、文全体も不自然。／「将人物所怀的思想与高洁的精神也塑造成形的创作态度」
+
+════════ takayama-noboru（4件）════════
+[1] de 功績／「das aufgebrauchte Material」／「aufgebraucht」は「使い切られた」の意味で、「使い古された」の誤訳。／「das abgenutzte Material」
+[1] en 功績／「“attending to the heavy texture of the old, black, oil-soaked sleepers and to the space utterly altered by their being stacked in a place reveals not the making of a new form, but the bringing into the space of the very memory and time worn by used-up material, the wish to shake the senses of the viewer—a singular conception.”」／文の構造が崩れており、“reveals”の目的内容や“the wish”と“a singular conception”の関係が不明瞭。“used-up material”は「使い古された素材」の誤訳で、“memory and time worn by”も意味関係が逆。／“His sleeper installations reveal a singular conception: rather than creating new forms, he focused on the weighty texture of old, black, oil-soaked sleepers and on how a space is utterly transformed when they are stacked within it, bringing into that space the memories and time borne by the weathered material itself in an attempt to unsettle the viewer’s senses.”に直す。
+[2] de 功績／「In seinen Schwellen-Installationen lässt die Aufmerksamkeit für die schwere Textur der alten, schwarzen, ölgetränkten Schwellen und für den Raum, der durch ihr Aufeinanderstapeln an einem Ort völlig verändert wird, nicht das Schaffen einer neuen Form, sondern das Hineinbringen der Erinnerung und Zeit selbst, die das aufgebrauchte Material trägt, in den Raum spüren, den Wunsch, die Sinne des Betrachters zu erschüttern – eine eigentümliche Konzeption.」／文の構造が破綻しており、「独自の発想が感じられる」と「見る者の感覚を揺さぶろうとした」の関係が不明瞭。「aufgebraucht」は「使い果たされた」の意味で、「使い古された」の誤訳。「eigentümlich」は「奇妙な」という含意があり、「独自の」に不適切。／「Seine Schwellen-Installationen zeugen von einer eigenständigen Konzeption: Statt neue Formen zu schaffen, brachte er die Erinnerungen und die Zeit, die den gebrauchten Materialien anhaften, in den Raum ein und versuchte so, die Wahrnehmung der Betrachtenden zu erschüttern. Dies zeigt sich in der schweren Textur der alten, schwarz und ölgetränkten Schwellen und darin, wie sich ein Ort durch ihre Aufschichtung vollständig verändert.」などとする。
+[2] zh_cn 略歴／「他在「物派」周边展开独自的表现」／「独自的表现」は「一人で行った表現」の意味に読め、「独自の表現」の誤訳。／「他在“物派”周边形成了独特的艺术表达」とする。
+
+════════ takayama-tatsuo（9件）════════
+[1] de 功績／「vermittelt die Aufmerksamkeit für die visionäre, tief gedämpfte Farbe und die still stehenden Gestalten einen Blick」／「注目すると、まなざしが感じられる」という関係が崩れている。「visionäre」も原文にない評価に読め、「Farbe」の単数形も不自然。／「Wenn man auf die geradezu fantastisch tief gedämpften Farben und die still verharrenden Gestalten achtet, ist darin sein Blick zu spüren」
+[1] ko 略歴／「오이타현에서 태어난 일본화가이다.」／作家名「高山辰雄」が落ちており、「日本画家」も指定訳と異なる／台帳で確定した作家名を主語として補い、「오이타현에서 태어난 니혼가 화가이다.」とする。
+[2] es 功績／「atender al color visionario y profundamente apagado y a las figuras que permanecen en quietud transmite」／「color visionario」は「幻想的な色」の誤訳。また、「atender」が主語となって「transmite」につながる構文も不自然。／「al prestar atención al color de una profundidad casi fantástica y a las figuras que permanecen quietas, se percibe」に直す。
+[2] es 略歴／「trabajó principalmente a través de las exposiciones Nitten」／「a través de las exposiciones」は「主な舞台に活動した」の訳として不自然で、原文にない複数の「exposiciones」を加えている。／「desarrolló su actividad principalmente en el Nitten」に直す。
+[2] fr 功績／「aux couleurs visionnaires et profondément assourdies」／「couleurs visionnaires」は語の取り違えで、「profondément assourdies」も色の形容として不自然。／「aux couleurs d'une profondeur presque irréelle et aux tonalités sourdes」に直す。
+[2] zh_cn 功績／「他以战后日展为舞台，以人类的生命与存在为题。」／原文の「画家」が欠落している。／「他是战后活跃于日展、以人类的生命与存在为主题的画家。」とする。
+[2] zh_cn 略歴／「此后所作每每流露其影响」／「每每」は「たびたび・いつも」の意味を加えており、原文にない頻度の情報となる。／「此后创作了呈现出其影响的作品。」とする。
+[2] zh_cn 略歴／「代表作有《少女》《圣家族》等。」／「代表作」は原文にない評価を加えている。／「他以《少女》《圣家族》等作品为人所知。」とする。
+[2] zh_tw 功績／「他以戰後日展為舞台，以人類的生命與存在為題。」／原文の「畫家」が抜けている。／「他是活躍於戰後日展、以人類的生命與存在為主題的畫家。」に直す。
+
+════════ takeda-kado（32件）════════
+[1] de 略歴／「In der vom Lehrer geerbten Manier schuf er eine an den chinesischen Klassikern gelernte Kanji-Kalligrafie.」／原文にない「師から受け継いだ様式」「中国古典に学んだ漢字書」が加えられ、「各書体に通じた書を制作した」が落ちている。／「Er schuf Werke der Japanischen Kalligrafie in verschiedenen Schriftarten.」など、原文どおりに直す。
+[1] de 略歴／「Er war in Gruppen wie der Taitō Shodōin tätig.」／「泰東書道院で総務・審査員を務めた」という役職が落ち、「～のような団体」という原文にない複数団体の含みが加わっている。／「Am Taitō Shodōin war er für die Geschäftsführung zuständig und als Juror tätig.」などに直す。
+[1] de 略歴／「Er gilt als einer derjenigen, die die Kanji-Kalligrafie-Welt von der Meiji-Zeit bis in die frühen Shōwa-Jahre trugen.」／「漢字書の世界を支えた」という原文にない事実・評価が加わっている。また「書壇」を「Kanji-Kalligrafie-Welt」に限定している。／「Er gilt als einer der Kalligrafen, die von der Meiji-Zeit bis zum Beginn der Shōwa-Zeit tätig waren.」などに直す。
+[1] en 略歴／「該当箇所：“In the manner he inherited from his teacher, he produced kanji calligraphy learned from the Chinese classics.”」／何が問題か：原文にない「師から受け継いだ方法」「中国古典に学んだ漢字書」が追加され、「各書体に通じた書を制作した」が落ちている。／どう直すか：“He produced works of calligraphy in a variety of scripts.”
+[1] en 略歴／「該当箇所：“He was active in groups such as the Taitō Shodōin.”」／何が問題か：「泰東書道院で総務・審査員を務めた」が落ち、原文にない複数団体での活動に変わっている。／どう直すか：“He served as an administrator and juror at the Taitō Shodōin.”
+[1] en 略歴／「該当箇所：“He is regarded as one of those who sustained the kanji calligraphy world from the Meiji era into the early Shōwa years.”」／何が問題か：原文の「書壇で活動した」が、「漢字書の世界を支えた」という原文にない評価へ変わっている。／どう直すか：“He is considered one of the calligraphers who were active in calligraphy circles from the Meiji era to the early Shōwa period.”
+[1] es 略歴／「En la manera heredada de su maestro, realizó una caligrafía de kanji aprendida de los clásicos chinos.」／原文にない「師から受け継いだ方法」「中国古典に学んだ漢字書」が追加され、「各書体に通じた書を制作した」が落ちている。／「Realizó obras de caligrafía japonesa dominando diversos estilos de escritura.」とする。
+[1] es 略歴／「Fue activo en grupos como el Taitō Shodōin.」／泰東書道院で総務・審査員を務めた事実が落ち、「grupos como」により複数団体で活動したという原文にない含意が加わっている。／「Ejerció funciones administrativas y fue miembro del jurado del Taitō Shodōin.」とする。
+[1] es 略歴／「Se le considera uno de quienes sostuvieron el mundo de la caligrafía de kanji desde la era Meiji hasta los primeros años de Shōwa.」／原文にない「漢字書の世界を支えた」という評価が追加されている。／「Se le considera uno de los calígrafos activos en el mundo de la caligrafía desde la era Meiji hasta comienzos de la era Shōwa.」とする。
+[1] fr 略歴／「Dans la manière héritée de son maître, il réalisa une calligraphie de kanji apprise des classiques chinois.」／原文にない「師から受け継いだ方法」「中国古典に学んだ漢字書」という事実が追加され、「各書体に通じた書を制作した」が落ちている。／「Il réalisa des œuvres calligraphiques dans différents styles d'écriture.」とする。
+[1] ko 略歴／「스승에게 이어받은, 중국 고전에서 배운 한자 서예를 제작했다.」／原文にない「師から受け継いだ」「中国古典」「漢字書」が追加され、原文の「各書体に通じた書」が落ちている。また読点の位置も不自然。／「여러 서체에 능통한 서예 작품을 제작했다」と直す。
+[1] zh_cn 略歴／「他承师法之传，制作师法中国古典的汉字书。」／原文にない「師法の伝承」「中国古典に倣った漢字書」という内容が加えられ、「各書体に通じた書を制作した」が落ちている。／「他创作了精通各种书体的书法作品。」など、原文の事実に沿って直す。
+[1] zh_cn 略歴／「曾活动于泰东书道院等。」／「総務・審査員を務めた」が落ちており、単なる活動に変わっている。また、原文にない「等」により、ほかの団体でも活動したように読める。／「曾在泰东书道院担任总务和审查员。」とする。
+[1] zh_cn 略歴／「被视为支撑明治至昭和初年汉字书坛的一员。」／原文にない「支撑」という評価が加わり、「書壇」が「汉字书坛」に限定されている。／「被认为是活跃于明治至昭和初年书坛的人物之一。」とする。
+[1] zh_tw 略歴／「他承師法之傳，製作師法中國古典的漢字書。」／原文の「各書体に通じた書を制作した」が訳されておらず、「師法之傳」「中國古典」「漢字書」という原文にない内容が加えられている。／「他精通各種書體，並從事書法創作。」に直す。
+[1] zh_tw 略歴／「曾活動於泰東書道院等。」／原文の「総務・審査員を務めた」という事実が欠落し、「等」という原文にない範囲が加えられている。／「曾在泰東書道院擔任總務及審查員。」に直す。
+[1] zh_tw 略歴／「被視為支撐明治至昭和初年漢字書壇的一員。」／原文は「書壇で活動した一人」であり、「支撐」「漢字書壇」は原文にない評価・限定。／「被視為活躍於明治至昭和初年書壇的人物之一。」に直す。
+[2] de 略歴／「In der vom Lehrer geerbten Manier schuf er eine an den chinesischen Klassikern gelernte Kanji-Kalligrafie.」／原文の「各書体に通じた書を制作した」が落ち、「師から受け継いだ作風」「中国古典に学んだ漢字書」という原文にない事実へ置き換わっている／「Er schuf Werke der Japanischen Kalligrafie und beherrschte verschiedene Schriftstile.」
+[2] de 略歴／「Er war in Gruppen wie der Taitō Shodōin tätig.」／泰東書道院で「総務・審査員を務めた」という役職が落ちている。「Gruppen wie」は複数の類似団体でも活動したかのような原文にない含意を加えている／「Beim Taitō Shodōin (泰東書道院) war er für allgemeine Verwaltungsangelegenheiten zuständig und als Juror tätig.」
+[2] en 略歴／「“In the manner he inherited from his teacher, he produced kanji calligraphy learned from the Chinese classics.”」／原文の「各書体に通じた書を制作した」が落ちている一方、「師から受け継いだ方法」「中国古典に学んだ漢字書」という事実が加えられている。／“He produced works of calligraphy demonstrating proficiency in various script styles.”とする。
+[2] en 略歴／「“He was active in groups such as the Taitō Shodōin.”」／原文の「泰東書道院で総務・審査員を務めた」が落ち、「同院などの団体で活動した」という曖昧な事実に置き換わっている。／“He served as an administrator and juror at the Taitō Shodōin.”とする。
+[2] es 略歴／「En la manera heredada de su maestro, realizó una caligrafía de kanji aprendida de los clásicos chinos.」／「各書体に通じた書を制作した」が落ち、「師から継承した方法」「漢字書」「中国古典」という原文にない内容が加えられている。／「Creó obras de caligrafía japonesa dominando diversos estilos caligráficos.」とする。
+[2] es 略歴／「Fue activo en grupos como el Taitō Shodōin.」／泰東書道院で「総務・審査員を務めた」という役職が落ち、「同院などの団体で活動した」という原文にない曖昧な事実に変わっている。／「Ejerció funciones administrativas y fue miembro del jurado en el Taitō Shodōin.」とする。
+[2] es 略歴／「Se le considera uno de quienes sostuvieron el mundo de la caligrafía de kanji」／「漢字書の世界を支えた」という原文にない評価が加えられ、「書壇で活動した」という事実から意味が変わっている。／「Se le considera uno de los calígrafos que desarrollaron su actividad en el mundo de la caligrafía japonesa desde la era Meiji hasta los primeros años de Shōwa.」とする。
+[2] fr 略歴／「Dans la manière héritée de son maître, il réalisa une calligraphie de kanji apprise des classiques chinois.」／原文の「各書体に通じた書を制作した」が訳されておらず、「師から受け継いだ方法」「漢字書」「中国古典から学んだ」という原文にない内容が加えられている。／「Il réalisa des œuvres calligraphiques dans différents styles d'écriture.」とする。
+[2] fr 略歴／「Il fut actif dans des groupes tels que le Taitō Shodōin.」／原文の「泰東書道院で総務・審査員を務めた」が欠落し、複数の団体で活動したという原文にない事実が加えられている。／「Il exerça les fonctions de responsable des affaires générales et de membre du jury au Taitō Shodōin.」とする。
+[2] ko 略歴／「스승에게 이어받은, 중국 고전에서 배운 한자 서예를 제작했다」／「各書体に通じた書を制作した」が落ち、「ス승から受け継いだ」「中国古典に学んだ」「漢字書」という原文にない事実が加えられている／「여러 서체에 두루 능통한 서예 작품을 제작했다」に直す。
+[2] ko 略歴／「다이토 서도원 등에서 활동했다」／泰東書道院で「総務・審査員を務めた」という事実が落ち、「등」が加えられている／「다이토 서도원에서 총무·심사위원을 맡았다」に直す。
+[2] ko 略歴／「메이지부터 쇼와 초기에 걸쳐 한자 서단을 떠받친 한 사람으로 평가된다」／原文にない「한자」「떠받친」「평가된다」という限定・評価が加えられている／「메이지부터 쇼와 초기에 걸쳐 서단에서 활동한 사람 중 한 명으로 여겨졌다」に直す。
+[2] zh_tw 略歴／「他承師法之傳，製作師法中國古典的漢字書。」／「承師法之傳」「中國古典」は原文にない事実であり、「各書體に通じた書を制作した」が訳出されていない。／「他精通各種書體，並創作書法作品。」に直す。
+[2] zh_tw 略歴／「曾活動於泰東書道院等。」／「泰東書道院で総務・審査員を務めた」が訳出されておらず、「等」によって原文にない活動先を示唆している。／「曾在泰東書道院擔任總務及審查員。」に直す。
+[2] zh_tw 略歴／「被視為支撐明治至昭和初年漢字書壇的一員。」／「支撐」は原文にない評価。「書壇」を「漢字書壇」に限定している。／「被視為曾活躍於明治至昭和初年書壇的人物之一。」に直す。
+
+════════ takeishi-kozaburo（13件）════════
+[1] de 略歴／「Standbilder zeitgenössischer Persönlichkeiten」／「像」を「立像」に限定しており、原文にない事実が加わっている。／「Darstellungen zeitgenössischer Persönlichkeiten」
+[1] en 略歴／「“mastered European sculptural techniques”」／「身につけた」より意味が強く、原文にない熟達の評価を加えている。／“acquired European sculptural techniques”とする。
+[1] fr 功績／「son attitude d'archiviste」／*archiviste* は通常、文書・記録資料を管理する職業を指し、「記録者としての姿勢」の誤訳／「sa démarche de témoin soucieux de conserver une trace」
+[1] zh_cn 略歴／「归国后制作了许多以塑造为主的肖像雕塑与纪念像」／「为主（主に）」という原文にない限定が加わっている。／「归国后以塑造手法创作了许多肖像雕塑和纪念像」とする。
+[1] zh_cn 略歴／「以确凿的写实传达对象的风貌」／「确凿」は事実・証拠などが確実であることを表し、「確かな写実」の訳として不自然。／「以扎实的写实表现传达人物的风貌」とする。
+[1] zh_cn 功績／「沉稳的塑造肉感」／「肉感」は肉体の官能的・視覚的な質感を意味し、「塑造の肉づけ」の誤訳。／「沉稳的塑造体量」とする。
+[1] zh_tw 略歴／「製作了許多以塑造為主的肖像雕塑與紀念像」／「為主」は「主として」という原文にない意味を加えている。／「以塑造手法製作了許多肖像雕塑與紀念像」に直す。
+[2] de 略歴／「該当箇所：「modellierte Bildnisbüsten」／何が問題か：「肖像彫刻」を胸像だけに限定しており、原文にない事実を加えている。／どう直すか：「modellierte Porträtskulpturen」
+[2] de 略歴／「該当箇所：「Standbilder zeitgenössischer Persönlichkeiten」／何が問題か：「像」を立像に限定しており、原文にない事実を加えている。／どう直すか：「Porträtskulpturen zeitgenössischer Persönlichkeiten」
+[2] es 略歴／「estudió en Bélgica y dominó las técnicas escultóricas europeas」／「dominó」は「身につけた」より強く、原文にない「完全に習得した」という評価を加えている。／「estudió en Bélgica y adquirió técnicas escultóricas europeas」とする。
+[2] fr 功績／「son attitude d'archiviste」／「記録者としての姿勢」を職業的な「archiviste」としており、語の取り違え。／「sa démarche de témoin soucieux de garder une trace」
+[2] zh_tw 功績／「留意對面容的精準把握與沉穩的塑造肉感」／「塑造肉感」不自然で、「肉づけ」を「肉感」とするのは誤訳。また、条件を示す語がなく文のつながりも不自然／「若留意對面容的精準掌握與沉穩的塑造所呈現的量感」
+[2] zh_tw 略歴／「以確鑿的寫實傳達對象的風貌」／「確鑿」は証拠・事実が確実であることに使う語で、写実表現の形容として不自然／「以扎實的寫實手法呈現對象的風貌」
+
+════════ takeuchi-seiho（15件）════════
+[1] es 功績／「Resulta enriquecedor leer」／原文にない「有意義である」という評価が加わっており、「見るとよい」の訳としても不自然。／「Conviene observar」に直す。
+[1] zh_cn 功績／「颇有意趣」／原文にない「趣がある」という評価が加えられ、「見るとよい」という鑑賞上の提案が落ちている。／「可从笔触的变化中观察动物的皮毛、人物的动作，以及雨与风的气息」に直す。
+[1] zh_tw 功績／「動物的毛色、人物的身姿」／「毛色」は「毛並み」の誤訳。「身姿」も姿態を指し、「身ぶり」の動作性が弱い。／「動物的毛髮、人物的動作」に直す。
+[1] zh_tw 功績／「頗有意趣」／原文にない「趣がある」という評価が加えられ、原文の鑑賞上の助言「見るとよい」が落ちている。／「可從筆觸的變化觀察動物的毛髮、人物的動作，以及雨與風的氣息」に直す。
+[2] es 功績／「Resulta enriquecedor leer la textura del pelaje de un animal, el gesto de una figura y el indicio de la lluvia o el viento」／「enriquecedor」は原文にない評価。また、質感・身ぶり・気配に「leer」を使うのは不自然。／「Conviene observar la textura del pelaje de los animales, los gestos de las figuras y la presencia de la lluvia o el viento」とする。
+[2] es 略歴／「se afianzó en la escuela Maruyama-Shijō」／「円山四条派を基盤とした」を「同派で地歩を固めた」という別の意味にしている。／「tomó como base la escuela Maruyama-Shijō」とする。
+[2] fr 略歴／「de nombreux jeunes artistes」／「後進」を「若い芸術家」としており、原文にない年齢の情報が加わっている。／「de nombreux artistes de la génération suivante」に直す。
+[2] zh_cn 功績／「动物的毛色」／「毛色」は毛の色を指し、「毛並み」の質感という意味が落ちている／「动物的皮毛」に直す。
+[2] zh_cn 功績／「从笔致的变化去看……颇有意趣」／原文の「見るとよい」という鑑賞上の勧めが、「趣がある」という原文にない評価に変わっている／「可从笔致的变化中观察动物的皮毛、人物的动作，以及雨和风的气息」に直す。
+[2] zh_cn 略歴／「连毛色质感都细致写出的」／「毛色质感」は不自然で、「毛並みの質感」を毛の色の質感に取り違えている／「连皮毛质感也细致描绘出来的」に直す。
+[2] zh_tw 功績／「活躍於京都」／「活動した」を「活躍」とし、原文にない評価が加わっている／「在京都從事創作活動」に直す。
+[2] zh_tw 功績／「動物的毛色」／「毛並み」を「毛色」と取り違えている／「動物的毛髮質感」に直す。
+[2] zh_tw 功績／「頗有意趣」／原文にない「趣がある」という評価が加わり、「見るとよい」という鑑賞上の提案が落ちている／「不妨從筆觸的變化，觀察動物的毛髮質感、人物的動作，以及雨與風的氣息」に直す。
+[2] zh_tw 略歴／「活躍於京都畫壇」／「活動した」を「活躍」とし、原文にない評価が加わっている／「在京都畫壇（以京都為中心的畫家社會）從事創作活動」に直す。
+[2] zh_tw 略歴／「連毛色質感都細緻寫出」／「毛並みの質感」を「毛色質感」と取り違え、「細緻」という評価も加わっている／「如實描繪出毛髮質感」に直す。

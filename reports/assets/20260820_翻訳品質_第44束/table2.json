@@ -1,0 +1,7 @@
+{
+ "reason": "第44束 突き合わせ②が捕まえた並行言語チェックの取りこぼし＝高田博厚さまの「ガンジー」に付いた原文にない敬称 Mahatma を en/fr/de で除去したのに、es を置換表に入れていなかった。★荻原守衛さまの『師法羅丹／se forma à l'exemple de Rodin』は、日本語原文が『ロダンに学び』なので現行が正しい＝走査の誤検出（高村光太郎さまは『深く傾倒した』で別の語）。★狩野芳崖・橋本雅邦さまの『（現在の東京藝術大学）』も日本語原文にあるので正しい＝誤検出",
+ "enteredBy": "翻訳品質T 2026-08-20 第44束(追補)",
+ "patches": [
+  {"handle":"takata-hiroatsu","lang":"es","field":"bio","from":"Romain Rolland y Mahatma Gandhi","to":"Romain Rolland y Gandhi"}
+ ]
+}

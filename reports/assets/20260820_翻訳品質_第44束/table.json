@@ -1,0 +1,405 @@
+{
+ "reason": "第44束＝二重検品624件（★A129件）のうち、日本語原文と1件ずつ照合し、かつ全627名で横断型でないと実測で確かめたものだけを是正する。★最大の是正＝武田霞洞さまの【略歴】が7言語すべてで日本語原文と3文にわたり食い違っていた（原文にない『師から受け継いだ方法』『中国古典に学んだ漢字書』が加わり、原文の『各書体に通じた書を制作した』が落ち、『泰東書道院で総務・審査員を務めた』が『〜などの団体で活動した』に化け、『書壇で活動した一人』が『漢字書の世界を支えた』という評価に化けていた）。訳文が古い版の日本語に基づいている疑い。棄却した横断型＝東京美術学校の現校名注釈（★狩野芳崖・橋本雅邦さまは日本語原文に『（現在の東京藝術大学）』があるので正しく、高村光雲さまだけが原文にない＝個別是正）／後進→若い芸術家（T51 凍結中）／maki-e の括弧注釈（材料表§5で棄却が確定済み）／人物→モデル（T26 凍結中・高田博厚さま）／肉づけ→肉感（T22 凍結中・武石弘三郎さま）／写生→観察（T20 凍結中・竹内栖鳳さま）／活動した→活躍於（zh_tw で106名に散る） ／★★関所が『智恵子抄』の注釈が en/es/fr/de の4言語で『智恵子の空（Chieko's Sky）』という誤訳になっていることを捕まえた（「抄」は詩文を集めたものであって「空」ではない）。二重検品の★Aには上がっていなかった型。『Poems for Chieko』系へ直す ／★関所の指摘のうち武田霞洞さまの#1#2は、同じ欄の複数置換を1件ずつ別ブロックで見せたことによる表示順の誤解＝当方の是正案（3件目の完成形）は正しいとCodex自身が認めている ／★韓国語の係り受け（作品が書体に精通していると読める）と英語の devoted（献身の含意）は採って作り直した ／★中国語『深深倾倒于罗丹』は中国語でも『心酔する』の意で通るため現案維持 ／★2巡目の関所が4言語すべてで【略歴】側の『ロダンに深く傾倒した』も不自然（本人への献身と読める）と指摘したため追加した。★『Auguste』の除去はB1（固有名詞のフルネーム補完）として第38・43束と一貫して棄却する ／★韓国語の#1#2の指摘も表示順の誤解（3件目の完成形は問題なしとCodex自身が認めた）",
+ "enteredBy": "翻訳品質T 2026-08-20 第44束",
+ "patches": [
+  {
+   "handle": "takeda-kado",
+   "lang": "en",
+   "field": "bio",
+   "from": "In the manner he inherited from his teacher, he produced kanji calligraphy learned from the Chinese classics.",
+   "to": "He produced works of calligraphy, being versed in a variety of script styles."
+  },
+  {
+   "handle": "takeda-kado",
+   "lang": "en",
+   "field": "bio",
+   "from": "He was active in groups such as the Taitō Shodōin.",
+   "to": "He served as an administrator and juror at the Taitō Shodōin."
+  },
+  {
+   "handle": "takeda-kado",
+   "lang": "en",
+   "field": "bio",
+   "from": "He is regarded as one of those who sustained the kanji calligraphy world from the Meiji era into the early Shōwa years.",
+   "to": "He is regarded as one of the calligraphers active in calligraphy circles from the Meiji era into the early Shōwa years."
+  },
+  {
+   "handle": "takeda-kado",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "他承师法之传，制作师法中国古典的汉字书。",
+   "to": "他精通各种书体，创作了书法作品。"
+  },
+  {
+   "handle": "takeda-kado",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "曾活动于泰东书道院等。",
+   "to": "曾在泰东书道院担任总务与审查员。"
+  },
+  {
+   "handle": "takeda-kado",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "被视为支撑明治至昭和初年汉字书坛的一员。",
+   "to": "被视为活跃于明治至昭和初年书坛的人物之一。"
+  },
+  {
+   "handle": "takeda-kado",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "他承師法之傳，製作師法中國古典的漢字書。",
+   "to": "他精通各種書體，創作了書法作品。"
+  },
+  {
+   "handle": "takeda-kado",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "曾活動於泰東書道院等。",
+   "to": "曾在泰東書道院擔任總務與審查員。"
+  },
+  {
+   "handle": "takeda-kado",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "被視為支撐明治至昭和初年漢字書壇的一員。",
+   "to": "被視為活躍於明治至昭和初年書壇的人物之一。"
+  },
+  {
+   "handle": "takeda-kado",
+   "lang": "ko",
+   "field": "bio",
+   "from": "스승에게 이어받은, 중국 고전에서 배운 한자 서예를 제작했다.",
+   "to": "여러 서체에 두루 능통하여 다양한 서예 작품을 제작했다."
+  },
+  {
+   "handle": "takeda-kado",
+   "lang": "ko",
+   "field": "bio",
+   "from": "다이토 서도원 등에서 활동했다.",
+   "to": "다이토 서도원에서 총무와 심사위원을 맡았다."
+  },
+  {
+   "handle": "takeda-kado",
+   "lang": "ko",
+   "field": "bio",
+   "from": "메이지부터 쇼와 초기에 걸쳐 한자 서단을 떠받친 한 사람으로 평가된다.",
+   "to": "메이지부터 쇼와 초기에 걸쳐 서단에서 활동한 사람 가운데 한 명으로 여겨진다."
+  },
+  {
+   "handle": "takeda-kado",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Dans la manière héritée de son maître, il réalisa une calligraphie de kanji apprise des classiques chinois.",
+   "to": "Maîtrisant les différents styles d'écriture, il réalisa des œuvres calligraphiques."
+  },
+  {
+   "handle": "takeda-kado",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Il fut actif dans des groupes tels que le Taitō Shodōin.",
+   "to": "Il exerça les fonctions de responsable des affaires générales et de membre du jury au Taitō Shodōin."
+  },
+  {
+   "handle": "takeda-kado",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Il est considéré comme l'un de ceux qui soutinrent le monde de la calligraphie de kanji de l'ère Meiji au début de l'ère Shōwa.",
+   "to": "Il est considéré comme l'un des calligraphes actifs dans le monde de la calligraphie de l'ère Meiji au début de l'ère Shōwa."
+  },
+  {
+   "handle": "takeda-kado",
+   "lang": "es",
+   "field": "bio",
+   "from": "En la manera heredada de su maestro, realizó una caligrafía de kanji aprendida de los clásicos chinos.",
+   "to": "Dominando los distintos estilos de escritura, realizó obras de caligrafía."
+  },
+  {
+   "handle": "takeda-kado",
+   "lang": "es",
+   "field": "bio",
+   "from": "Fue activo en grupos como el Taitō Shodōin.",
+   "to": "Ejerció funciones administrativas y fue miembro del jurado en el Taitō Shodōin."
+  },
+  {
+   "handle": "takeda-kado",
+   "lang": "es",
+   "field": "bio",
+   "from": "Se le considera uno de quienes sostuvieron el mundo de la caligrafía de kanji desde la era Meiji hasta los primeros años de Shōwa.",
+   "to": "Se le considera uno de los calígrafos activos en el mundo de la caligrafía desde la era Meiji hasta los primeros años de Shōwa."
+  },
+  {
+   "handle": "takeda-kado",
+   "lang": "de",
+   "field": "bio",
+   "from": "In der vom Lehrer geerbten Manier schuf er eine an den chinesischen Klassikern gelernte Kanji-Kalligrafie.",
+   "to": "Er beherrschte die verschiedenen Schriftstile und schuf kalligrafische Werke."
+  },
+  {
+   "handle": "takeda-kado",
+   "lang": "de",
+   "field": "bio",
+   "from": "Er war in Gruppen wie der Taitō Shodōin tätig.",
+   "to": "Am Taitō Shodōin war er für die Geschäftsführung zuständig und als Juror tätig."
+  },
+  {
+   "handle": "takeda-kado",
+   "lang": "de",
+   "field": "bio",
+   "from": "Er gilt als einer derjenigen, die die Kanji-Kalligrafie-Welt von der Meiji-Zeit bis in die frühen Shōwa-Jahre trugen.",
+   "to": "Er gilt als einer der Kalligrafen, die von der Meiji-Zeit bis in die frühen Shōwa-Jahre in der Kalligrafiewelt tätig waren."
+  },
+  {
+   "handle": "takamura-koun",
+   "lang": "en",
+   "field": "bio",
+   "from": " (today the Tokyo University of the Arts)",
+   "to": ""
+  },
+  {
+   "handle": "takamura-koun",
+   "lang": "es",
+   "field": "bio",
+   "from": " (hoy Universidad de las Artes de Tokio)",
+   "to": ""
+  },
+  {
+   "handle": "takamura-koun",
+   "lang": "fr",
+   "field": "bio",
+   "from": " (aujourd'hui l'Université des arts de Tokyo)",
+   "to": ""
+  },
+  {
+   "handle": "takamura-koun",
+   "lang": "de",
+   "field": "bio",
+   "from": " (heute Universität der Künste Tōkyō)",
+   "to": ""
+  },
+  {
+   "handle": "takamura-koun",
+   "lang": "ko",
+   "field": "bio",
+   "from": "(현 도쿄예술대학)",
+   "to": ""
+  },
+  {
+   "handle": "takamura-koun",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "（今东京艺术大学）",
+   "to": ""
+  },
+  {
+   "handle": "takamura-koun",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "（今東京藝術大學）",
+   "to": ""
+  },
+  {
+   "handle": "takamura-kotaro",
+   "lang": "en",
+   "field": "statement",
+   "from": "A sculptor who studied Rodin",
+   "to": "A sculptor who deeply admired Rodin"
+  },
+  {
+   "handle": "takamura-kotaro",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "He was an artist who studied Rodin",
+   "to": "He was an artist who deeply admired Rodin"
+  },
+  {
+   "handle": "takamura-kotaro",
+   "lang": "fr",
+   "field": "statement",
+   "from": "formé à l'exemple de Rodin",
+   "to": "profondément passionné par Rodin"
+  },
+  {
+   "handle": "takamura-kotaro",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "se forma à l'exemple de Rodin",
+   "to": "se passionna profondément pour Rodin"
+  },
+  {
+   "handle": "takamura-kotaro",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "他师法罗丹",
+   "to": "他深深倾倒于罗丹"
+  },
+  {
+   "handle": "takamura-kotaro",
+   "lang": "zh_tw",
+   "field": "statement",
+   "from": "師法羅丹的雕塑家",
+   "to": "深深傾倒於羅丹的雕塑家"
+  },
+  {
+   "handle": "takamura-kotaro",
+   "lang": "zh_tw",
+   "field": "viewpoint",
+   "from": "他師法羅丹",
+   "to": "他深深傾倒於羅丹"
+  },
+  {
+   "handle": "takamura-kotaro",
+   "lang": "de",
+   "field": "bio",
+   "from": "den er für seine Frau schrieb",
+   "to": "in dem er seine Frau besang"
+  },
+  {
+   "handle": "takamura-kotaro",
+   "lang": "es",
+   "field": "bio",
+   "from": "dedicado a su esposa",
+   "to": "centrado en su esposa"
+  },
+  {
+   "handle": "takano-shozan",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "die keine Neuerung suchte",
+   "to": "die nicht nach dem Ungewöhnlichen strebte"
+  },
+  {
+   "handle": "takano-shozan",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "ne recherchait nulle nouveauté",
+   "to": "ne recherchait nullement l'extravagance"
+  },
+  {
+   "handle": "takata-hiroatsu",
+   "lang": "en",
+   "field": "bio",
+   "from": "Romain Rolland and Mahatma Gandhi",
+   "to": "Romain Rolland and Gandhi"
+  },
+  {
+   "handle": "takata-hiroatsu",
+   "lang": "fr",
+   "field": "bio",
+   "from": "le Mahatma Gandhi",
+   "to": "Gandhi"
+  },
+  {
+   "handle": "takata-hiroatsu",
+   "lang": "de",
+   "field": "bio",
+   "from": "Mahatma Gandhi",
+   "to": "Gandhi"
+  },
+  {
+   "handle": "takayama-noboru",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "das aufgebrauchte Material",
+   "to": "das abgenutzte Material"
+  },
+  {
+   "handle": "takeishi-kozaburo",
+   "lang": "en",
+   "field": "bio",
+   "from": "mastered European sculptural techniques",
+   "to": "acquired European sculptural techniques"
+  },
+  {
+   "handle": "takeishi-kozaburo",
+   "lang": "es",
+   "field": "bio",
+   "from": "dominó las técnicas escultóricas europeas",
+   "to": "adquirió técnicas escultóricas europeas"
+  },
+  {
+   "handle": "takeishi-kozaburo",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "son attitude d'archiviste",
+   "to": "sa démarche de témoin soucieux de garder une trace"
+  },
+  {
+   "handle": "takeuchi-seiho",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "动物的毛色",
+   "to": "动物的皮毛质感"
+  },
+  {
+   "handle": "takeuchi-seiho",
+   "lang": "zh_tw",
+   "field": "viewpoint",
+   "from": "動物的毛色",
+   "to": "動物的毛髮質感"
+  },
+  {
+   "handle": "takeuchi-seiho",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "Resulta enriquecedor leer",
+   "to": "Conviene observar"
+  },
+  {
+   "handle": "takamura-kotaro",
+   "lang": "en",
+   "field": "bio",
+   "from": "Chieko-shō (Chieko's Sky)",
+   "to": "Chieko-shō (Poems for Chieko)"
+  },
+  {
+   "handle": "takamura-kotaro",
+   "lang": "es",
+   "field": "bio",
+   "from": "Chieko-shō (El cielo de Chieko)",
+   "to": "Chieko-shō (Poemas para Chieko)"
+  },
+  {
+   "handle": "takamura-kotaro",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Chieko-shō (Le Ciel de Chieko)",
+   "to": "Chieko-shō (Poèmes pour Chieko)"
+  },
+  {
+   "handle": "takamura-kotaro",
+   "lang": "de",
+   "field": "bio",
+   "from": "Chieko-shō“ (Chiekos Himmel)",
+   "to": "Chieko-shō“ (Gedichte für Chieko)"
+  },
+  {
+   "handle": "takamura-kotaro",
+   "lang": "en",
+   "field": "bio",
+   "from": "became deeply devoted to the French sculptor Auguste Rodin",
+   "to": "came deeply under the influence of the French sculptor Auguste Rodin"
+  },
+  {
+   "handle": "takamura-kotaro",
+   "lang": "es",
+   "field": "bio",
+   "from": "se entregó profundamente al escultor francés Auguste Rodin",
+   "to": "admiró profundamente al escultor francés Auguste Rodin"
+  },
+  {
+   "handle": "takamura-kotaro",
+   "lang": "fr",
+   "field": "bio",
+   "from": "se voua profondément au sculpteur français Auguste Rodin",
+   "to": "voua une profonde admiration au sculpteur français Auguste Rodin"
+  },
+  {
+   "handle": "takamura-kotaro",
+   "lang": "de",
+   "field": "bio",
+   "from": "wandte sich dem französischen Bildhauer Auguste Rodin tief zu",
+   "to": "verehrte den französischen Bildhauer Auguste Rodin zutiefst"
+  }
+ ]
+}
