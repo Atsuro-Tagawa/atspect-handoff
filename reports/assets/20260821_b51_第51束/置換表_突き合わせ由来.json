@@ -1,0 +1,10 @@
+{
+ "reason": "第51束の突き合わせ3段（②③）が捕まえた波及。★(1)『奇をてらわず』を韓国語で『기교를 부리지 않고（技巧を凝らさず）』とする型が、飯塚小玕斎さまにも1件あった（母集団5欄の最後の1件）。これで全件が直る。★(2)『文字を造形として組み立てる』の『造形』を独語で plastische Form（立体的な形）とする型が、小林斗盦さまにもあった。★(3)『多才に活躍した』を『多才多艺（多才多芸）』とだけ訳して『活躍した』が落ちる型が、安西水丸さまにもあった。★池田満寿夫さまの『多才多艺』は原文が『多才な人物で』なので当たりだが誤りではない＝対象外",
+ "enteredBy": "翻訳品質T 2026-08-21 第51束（突き合わせ3段の是正・第2次）",
+ "patches": [
+  {"handle":"iizuka-shokansai","lang":"ko","field":"viewpoint","from":"기교를 부리지 않고","to":"기발함을 노리지 않고"},
+  {"handle":"kobayashi-toan","lang":"de","field":"viewpoint","from":"von Zeichen als plastische Form","to":"von Zeichen als Gestaltungselementen"},
+  {"handle":"anzai-mizumaru","lang":"zh_cn","field":"bio","from":"绘制漫画，多才多艺","to":"绘制漫画，活跃于多个领域"},
+  {"handle":"anzai-mizumaru","lang":"zh_tw","field":"bio","from":"繪製漫畫，多才多藝","to":"繪製漫畫，活躍於多個領域"}
+ ]
+}

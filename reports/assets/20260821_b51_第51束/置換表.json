@@ -1,0 +1,174 @@
+{
+ "reason": "第51束（作家561〜570）＝二重検品140本のうち★A 87件を日本語原文と1件ずつ照合し、全627名で横断型でないと実測したものだけを是正する。★『奇をてらわず』の誤訳は母集団5欄のうち韓国語4件・西語1件・仏語1件がすべて同じ誤り（割れではない）だったため、束の対象外の廣津雲仙さま・上條信山さまも含めて全件直す。★★触らなかった型＝和田誠さまの『装丁』（T73）／梅原龍三郎さま西語の『裸婦』（母集団39欄の横断型）／海野清さま独語の『帝室技芸員』の注釈（Y19）／若林奮さまの『鉄』（T63）。★Y裁定待ち＝Y14洋画家11件・Y19帝室技芸員1件・Y02人間国宝2件・Y07二科会2件・Y20伝える2件・Y23画面3件・Y24人物2件。★日本語原文の事実疑義8件はリサーチTへ申し送り（訳は触らない）／★関所1巡目＝当方の是正案そのものの欠陥6件を修正（独語で冠詞・形容詞の語尾が男性名詞 Ausdruck と不一致／簡体字で『…时的奔放不羁』が人物の性格とも読める／簡体字・繁体字の『抽象的墨表现』が不自然（繁体字は『的的』の重複まで生じていた）／『鲜润之感』が人体のみずみずしさの表現として不自然）／★関所2巡目＝簡体字・繁体字の『抽象性的』の重複と、繁体字の『之美』の重複を修正／★関所3巡目＝当方の置換が『的』の重複を生んでいた（前の語が『…処理的』で終わるため）ので from を広げて解消。繁体字の梅原龍三郎さまは直前の『富有氣勢』と『氣勢』が重複するため『奔放精神』へ／★関所4巡目＝宇野雪村さまの中国語『抽象水墨表現→抽象（的）用墨表現』は取り下げ。『的』を入れると直前の『処理的』と重複し、外すと『つながりが不自然』と言われ、指摘が4巡で循環して収束しなかった。★繁体字だけ直すと簡体字と割れるため、両方とも現状維持とし、型（『墨の表現』を『水墨』と訳す）は報告に記録して司令塔へ上げる",
+ "enteredBy": "翻訳品質T 2026-08-21 第51束",
+ "patches": [
+  {
+   "handle": "umehara-ryuzaburo",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "die japanische dekorative Empfindung",
+   "to": "die dekorative Ästhetik Japans"
+  },
+  {
+   "handle": "umehara-ryuzaburo",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "便能感受到他将日本装饰性纳入西洋油彩的奔放",
+   "to": "便能感受到他试图将日本的装饰性融入西方油画的自由奔放"
+  },
+  {
+   "handle": "umehara-ryuzaburo",
+   "lang": "zh_tw",
+   "field": "viewpoint",
+   "from": "便能感受到他將日本裝飾性納入西洋油彩的奔放",
+   "to": "便能感受到他試圖將日本的裝飾性融入西洋油彩時所展現的奔放精神"
+  },
+  {
+   "handle": "uno-setsuson",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "亦頗有研究，留有論著",
+   "to": "亦頗有研究，並留下了研究成果與著述"
+  },
+  {
+   "handle": "uno-setsuson",
+   "lang": "ko",
+   "field": "viewpoint",
+   "from": "단련된 선의 질감에",
+   "to": "단련된 선의 질에"
+  },
+  {
+   "handle": "uno-setsuson",
+   "lang": "de",
+   "field": "bio",
+   "from": "eine abstrakte Behandlung der Tusche, in der Zeichen als plastische Form behandelt werden",
+   "to": "einen abstrakten Ausdruck mit Tusche, bei dem Schriftzeichen als Gestaltungselemente behandelt werden"
+  },
+  {
+   "handle": "uno-setsuson",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "cherchait à orienter sa touche vers la forme abstraite",
+   "to": "cherchait à mettre son maniement du pinceau au service de formes abstraites"
+  },
+  {
+   "handle": "uno-soyo",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "der nicht Form oder Malerei",
+   "to": "der nicht die Form oder die Bemalung"
+  },
+  {
+   "handle": "uno-soyo",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "ses pièces à la manière de la céramique Jun",
+   "to": "ses pièces inspirées de modèles de la céramique Jun"
+  },
+  {
+   "handle": "wada-makoto",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "auf seinen Zeitschriftentiteln",
+   "to": "auf seinen Zeitschriftencovern"
+  },
+  {
+   "handle": "wada-makoto",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "他亦担任电影导演、从事著述，多才多艺",
+   "to": "他还执导电影、从事写作，活跃于多个领域"
+  },
+  {
+   "handle": "wada-makoto",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "他亦擔任電影導演、從事著述，多才多藝",
+   "to": "他也執導電影、從事寫作，活躍於多個領域"
+  },
+  {
+   "handle": "wakebe-junji",
+   "lang": "es",
+   "field": "statement",
+   "from": "con figuras modeladas realistas",
+   "to": "con el modelado realista de la figura humana"
+  },
+  {
+   "handle": "wakebe-junji",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "con figuras modeladas realistas",
+   "to": "con el modelado realista de la figura humana"
+  },
+  {
+   "handle": "wakebe-junji",
+   "lang": "fr",
+   "field": "statement",
+   "from": "actif au Nitten par ses figures modelées réalistes",
+   "to": "actif au Nitten grâce à ses modelages réalistes du corps humain"
+  },
+  {
+   "handle": "wakebe-junji",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "actif au Nitten par ses figures modelées réalistes",
+   "to": "actif au Nitten grâce à ses modelages réalistes du corps humain"
+  },
+  {
+   "handle": "wakebe-junji",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "sin buscar la originalidad",
+   "to": "sin recurrir a efectos rebuscados"
+  },
+  {
+   "handle": "wakebe-junji",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "sans chercher l'originalité",
+   "to": "sans rechercher l'effet ni l'excentricité"
+  },
+  {
+   "handle": "wakebe-junji",
+   "lang": "ko",
+   "field": "viewpoint",
+   "from": "기교를 부리지 않고",
+   "to": "기발함을 노리지 않고"
+  },
+  {
+   "handle": "hirotsu-unsen",
+   "lang": "ko",
+   "field": "viewpoint",
+   "from": "기교를 부리지 않고",
+   "to": "기발함을 노리지 않고"
+  },
+  {
+   "handle": "kamijo-shinzan",
+   "lang": "ko",
+   "field": "viewpoint",
+   "from": "기교를 부리지 않고",
+   "to": "기발함을 노리지 않고"
+  },
+  {
+   "handle": "wakebe-junji",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "人体本身自然之美与鲜润的姿态",
+   "to": "人体本身自然之美与鲜活感"
+  },
+  {
+   "handle": "wakebe-junji",
+   "lang": "zh_tw",
+   "field": "viewpoint",
+   "from": "人體本身自然之美與鮮潤的姿態",
+   "to": "人體本身自然之美與鮮活感"
+  },
+  {
+   "handle": "wakabayashi-isamu",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "à l'observation de la nature qui y est investie",
+   "to": "à l'observation de la nature dont elle témoigne"
+  }
+ ]
+}
