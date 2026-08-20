@@ -1,0 +1,37 @@
+2750a2751,2786
+> 
+> /* ============================================================
+>    図版のホバー拡大を全体で無効（2026-08-20・代表確定＝案A・制作T）
+>    ------------------------------------------------------------
+>    何を止めるか＝作品・作家・記事などの「図版」に触れた（ホバー／タップ）
+>    ときに画像が大きくなる演出。クリックで拡大画像を開くライトボックス
+>    （作家ページの .aad-wlb）は残す＝ここでは一切触らない。
+>    何を止めないか＝矢印・共有・検索・ページ送り・SNS等のUIアイコンの
+>    わずかな拡大、見出し下線の scaleX、動画の再生ボタン。図版ではないため。
+>    ★2026-07-04 の「V3 灯りのホバー」ブロック（上）が既に
+>      作品カード／作家カード／アーカイブ／featured／ジャンルの拡大を
+>      止めている。ここはその作法を、まだ残っていた図版へ広げるもの。
+>      重複して書かない＝V3が既に押さえている組み合わせはここに並べない。
+>    ★!important を付ける理由＝これらの拡大はセクションの <style>（本文中＝
+>      この共通CSSより後ろ）や Dawn の component-card.css で宣言されており、
+>      宣言の重みで勝たないと止まらないため。
+>    ★実測（反映前・幅1280・CDPで:hoverを強制）＝実際に拡大していたのは
+>      トップの featured-media（720→741.6px）／作品詳細の関連作品
+>      （162→168.48px）／/collections のDawnカード（361.28→372.12px）の3つ。
+>      ほかは既にV3で止まっているか、その markup が今のライブに無い。
+>      いま出ていないものも並べてあるのは、後でその区画を出したときに
+>      拡大だけが復活しないようにするため。
+>    ============================================================ */
+> .atspect-artwork__others-item:hover .atspect-artwork__others-img img,
+> .atspect-fmedia__img-wrap:hover .atspect-fmedia__img,
+> .atspect-ccta__img-wrap:hover .atspect-ccta__img,
+> .atspect-ig__cell:hover .atspect-ig__cell-img,
+> .atspect-press__figure:hover .atspect-press__figure-img,
+> .atspect-artist-card:hover .atspect-artist-card__scene-img,
+> .atspect-collection-card:hover .atspect-collection-card__image,
+> .card:hover .media.media--hover-effect > img:first-child:only-child,
+> .card-wrapper:hover .media.media--hover-effect > img:first-child:only-child,
+> .card-wrapper:hover .media.media--hover-effect > img + img {
+>   transform: none !important;
+>   scale: none !important;
+> }

@@ -1,0 +1,841 @@
+{
+  "width": 390,
+  "results": [
+    {
+      "page": "トップ",
+      "path": "/",
+      "kind": "図版",
+      "hoverSel": ".atspect-fmedia__img-wrap",
+      "targetSel": ".atspect-fmedia__img",
+      "src": "atspect-featured-media.liquid:166 scale(1.03)",
+      "count": 1,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 350,
+        "h": 196.88
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 350,
+        "h": 196.88
+      }
+    },
+    {
+      "page": "トップ",
+      "path": "/",
+      "kind": "UI",
+      "hoverSel": ".header__icon",
+      "targetSel": ".header__icon .icon",
+      "src": "base.css:2541 scale(1.07)",
+      "count": 5,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      }
+    },
+    {
+      "page": "トップ",
+      "path": "/",
+      "kind": "UI",
+      "hoverSel": ".search__button",
+      "targetSel": ".search__button .icon",
+      "src": "component-search.css:49 scale(1.07)",
+      "count": 2,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      }
+    },
+    {
+      "page": "作品一覧",
+      "path": "/collections/all",
+      "kind": "図版",
+      "hoverSel": ".atspect-collection-card",
+      "targetSel": ".atspect-collection-card__img",
+      "src": "atspect.css:813 scale(1.04)",
+      "count": 9,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 167,
+        "h": 222.66
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 167,
+        "h": 222.66
+      }
+    },
+    {
+      "page": "作品一覧",
+      "path": "/collections/all",
+      "kind": "UI",
+      "hoverSel": ".header__icon",
+      "targetSel": ".header__icon .icon",
+      "src": "base.css:2541 scale(1.07)",
+      "count": 5,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      }
+    },
+    {
+      "page": "作品一覧",
+      "path": "/collections/all",
+      "kind": "UI",
+      "hoverSel": ".search__button",
+      "targetSel": ".search__button .icon",
+      "src": "component-search.css:49 scale(1.07)",
+      "count": 2,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      }
+    },
+    {
+      "page": "コレクション一覧(Dawn)",
+      "path": "/collections",
+      "kind": "図版(Dawn)",
+      "hoverSel": ".card-wrapper",
+      "targetSel": ".media.media--hover-effect > img:first-child:only-child",
+      "src": "component-card.css:387 scale(1.03)",
+      "count": 7,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 173,
+        "h": 173
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 173,
+        "h": 173
+      }
+    },
+    {
+      "page": "コレクション一覧(Dawn)",
+      "path": "/collections",
+      "kind": "UI",
+      "hoverSel": ".header__icon",
+      "targetSel": ".header__icon .icon",
+      "src": "base.css:2541 scale(1.07)",
+      "count": 5,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      }
+    },
+    {
+      "page": "コレクション一覧(Dawn)",
+      "path": "/collections",
+      "kind": "UI",
+      "hoverSel": ".search__button",
+      "targetSel": ".search__button .icon",
+      "src": "component-search.css:49 scale(1.07)",
+      "count": 2,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      }
+    },
+    {
+      "page": "作家一覧",
+      "path": "/pages/artists",
+      "kind": "UI",
+      "hoverSel": ".header__icon",
+      "targetSel": ".header__icon .icon",
+      "src": "base.css:2541 scale(1.07)",
+      "count": 5,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      }
+    },
+    {
+      "page": "作家一覧",
+      "path": "/pages/artists",
+      "kind": "UI",
+      "hoverSel": ".search__button",
+      "targetSel": ".search__button .icon",
+      "src": "component-search.css:49 scale(1.07)",
+      "count": 2,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      }
+    },
+    {
+      "page": "作家詳細（藤代）",
+      "path": "/pages/artist/fujishiro-norio",
+      "kind": "図版(作家)",
+      "hoverSel": ".aad-lead__art",
+      "targetSel": ".aad-lead__art img",
+      "src": "（拡大規則は無いはず＝対照）",
+      "count": 1,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 346,
+        "h": 519
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 346,
+        "h": 519
+      }
+    },
+    {
+      "page": "作家詳細（藤代）",
+      "path": "/pages/artist/fujishiro-norio",
+      "kind": "図版(作家)",
+      "hoverSel": ".aad-dw__img",
+      "targetSel": ".aad-dw__img img",
+      "src": "（拡大規則は無いはず＝対照）",
+      "count": 2,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 157,
+        "h": 230
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 157,
+        "h": 230
+      }
+    },
+    {
+      "page": "作家詳細（藤代）",
+      "path": "/pages/artist/fujishiro-norio",
+      "kind": "図版(作家)",
+      "hoverSel": ".aad-w",
+      "targetSel": ".aad-w__frame img",
+      "src": "atspect.css V3で拡大なしに統一済（対照）",
+      "count": 3,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 326,
+        "h": 239.5
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 326,
+        "h": 239.5
+      }
+    },
+    {
+      "page": "作家詳細（藤代）",
+      "path": "/pages/artist/fujishiro-norio",
+      "kind": "UI",
+      "hoverSel": ".header__icon",
+      "targetSel": ".header__icon .icon",
+      "src": "base.css:2541 scale(1.07)",
+      "count": 5,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      }
+    },
+    {
+      "page": "作家詳細（藤代）",
+      "path": "/pages/artist/fujishiro-norio",
+      "kind": "UI",
+      "hoverSel": ".search__button",
+      "targetSel": ".search__button .icon",
+      "src": "component-search.css:49 scale(1.07)",
+      "count": 2,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      }
+    },
+    {
+      "page": "作家詳細（鈴木）",
+      "path": "/pages/artist/suzuki-chikako",
+      "kind": "図版(作家)",
+      "hoverSel": ".aad-lead__art",
+      "targetSel": ".aad-lead__art img",
+      "src": "（拡大規則は無いはず＝対照）",
+      "count": 1,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 346,
+        "h": 249.86
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 346,
+        "h": 249.86
+      }
+    },
+    {
+      "page": "作家詳細（鈴木）",
+      "path": "/pages/artist/suzuki-chikako",
+      "kind": "図版(作家)",
+      "hoverSel": ".aad-w",
+      "targetSel": ".aad-w__frame img",
+      "src": "atspect.css V3で拡大なしに統一済（対照）",
+      "count": 3,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 326,
+        "h": 239.5
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 326,
+        "h": 239.5
+      }
+    },
+    {
+      "page": "作家詳細（鈴木）",
+      "path": "/pages/artist/suzuki-chikako",
+      "kind": "UI",
+      "hoverSel": ".header__icon",
+      "targetSel": ".header__icon .icon",
+      "src": "base.css:2541 scale(1.07)",
+      "count": 5,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      }
+    },
+    {
+      "page": "作家詳細（鈴木）",
+      "path": "/pages/artist/suzuki-chikako",
+      "kind": "UI",
+      "hoverSel": ".search__button",
+      "targetSel": ".search__button .icon",
+      "src": "component-search.css:49 scale(1.07)",
+      "count": 2,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      }
+    },
+    {
+      "page": "作品詳細",
+      "path": "/products/funasogaku",
+      "kind": "図版",
+      "hoverSel": ".atspect-artwork__others-item",
+      "targetSel": ".atspect-artwork__others-img img",
+      "src": "atspect-artwork-detail.liquid:1574 scale(1.04)",
+      "count": 2,
+      "zoom": true,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 163,
+        "h": 163
+      },
+      "after": {
+        "transform": "matrix(1.04, 0, 0, 1.04, 0, 0)",
+        "scale": "none",
+        "w": 169.52,
+        "h": 169.52
+      }
+    },
+    {
+      "page": "作品詳細",
+      "path": "/products/funasogaku",
+      "kind": "UI",
+      "hoverSel": ".header__icon",
+      "targetSel": ".header__icon .icon",
+      "src": "base.css:2541 scale(1.07)",
+      "count": 5,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      }
+    },
+    {
+      "page": "作品詳細",
+      "path": "/products/funasogaku",
+      "kind": "UI",
+      "hoverSel": ".search__button",
+      "targetSel": ".search__button .icon",
+      "src": "component-search.css:49 scale(1.07)",
+      "count": 2,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      }
+    },
+    {
+      "page": "既定product(非公開)",
+      "path": "/products/member-d56916fa1bf2",
+      "kind": "UI",
+      "hoverSel": ".header__icon",
+      "targetSel": ".header__icon .icon",
+      "src": "base.css:2541 scale(1.07)",
+      "count": 5,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      }
+    },
+    {
+      "page": "既定product(非公開)",
+      "path": "/products/member-d56916fa1bf2",
+      "kind": "UI",
+      "hoverSel": ".search__button",
+      "targetSel": ".search__button .icon",
+      "src": "component-search.css:49 scale(1.07)",
+      "count": 2,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      }
+    },
+    {
+      "page": "検索",
+      "path": "/search?q=%E7%B5%B5",
+      "kind": "図版",
+      "hoverSel": ".atspect-search-card",
+      "targetSel": ".atspect-search-card__img",
+      "src": "atspect-search.liquid:399 scale(1.04)",
+      "count": 3,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 167,
+        "h": 222.66
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 167,
+        "h": 222.66
+      }
+    },
+    {
+      "page": "検索",
+      "path": "/search?q=%E7%B5%B5",
+      "kind": "UI",
+      "hoverSel": ".header__icon",
+      "targetSel": ".header__icon .icon",
+      "src": "base.css:2541 scale(1.07)",
+      "count": 5,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      }
+    },
+    {
+      "page": "検索",
+      "path": "/search?q=%E7%B5%B5",
+      "kind": "UI",
+      "hoverSel": ".search__button",
+      "targetSel": ".search__button .icon",
+      "src": "component-search.css:49 scale(1.07)",
+      "count": 2,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      }
+    },
+    {
+      "page": "プレス",
+      "path": "/pages/press",
+      "kind": "UI",
+      "hoverSel": ".header__icon",
+      "targetSel": ".header__icon .icon",
+      "src": "base.css:2541 scale(1.07)",
+      "count": 5,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      }
+    },
+    {
+      "page": "プレス",
+      "path": "/pages/press",
+      "kind": "UI",
+      "hoverSel": ".search__button",
+      "targetSel": ".search__button .icon",
+      "src": "component-search.css:49 scale(1.07)",
+      "count": 2,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      }
+    },
+    {
+      "page": "寄贈",
+      "path": "/pages/gifts",
+      "kind": "UI",
+      "hoverSel": ".header__icon",
+      "targetSel": ".header__icon .icon",
+      "src": "base.css:2541 scale(1.07)",
+      "count": 5,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      }
+    },
+    {
+      "page": "寄贈",
+      "path": "/pages/gifts",
+      "kind": "UI",
+      "hoverSel": ".search__button",
+      "targetSel": ".search__button .icon",
+      "src": "component-search.css:49 scale(1.07)",
+      "count": 2,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      }
+    },
+    {
+      "page": "About",
+      "path": "/pages/about",
+      "kind": "UI",
+      "hoverSel": ".header__icon",
+      "targetSel": ".header__icon .icon",
+      "src": "base.css:2541 scale(1.07)",
+      "count": 5,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      }
+    },
+    {
+      "page": "About",
+      "path": "/pages/about",
+      "kind": "UI",
+      "hoverSel": ".search__button",
+      "targetSel": ".search__button .icon",
+      "src": "component-search.css:49 scale(1.07)",
+      "count": 2,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      }
+    },
+    {
+      "page": "ブログ",
+      "path": "/blogs/news",
+      "kind": "UI",
+      "hoverSel": ".header__icon",
+      "targetSel": ".header__icon .icon",
+      "src": "base.css:2541 scale(1.07)",
+      "count": 5,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      }
+    },
+    {
+      "page": "ブログ",
+      "path": "/blogs/news",
+      "kind": "UI",
+      "hoverSel": ".search__button",
+      "targetSel": ".search__button .icon",
+      "src": "component-search.css:49 scale(1.07)",
+      "count": 2,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      }
+    },
+    {
+      "page": "404",
+      "path": "/404-does-not-exist",
+      "kind": "UI",
+      "hoverSel": ".header__icon",
+      "targetSel": ".header__icon .icon",
+      "src": "base.css:2541 scale(1.07)",
+      "count": 5,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      }
+    },
+    {
+      "page": "404",
+      "path": "/404-does-not-exist",
+      "kind": "UI",
+      "hoverSel": ".search__button",
+      "targetSel": ".search__button .icon",
+      "src": "component-search.css:49 scale(1.07)",
+      "count": 2,
+      "zoom": false,
+      "before": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      },
+      "after": {
+        "transform": "none",
+        "scale": "none",
+        "w": 0,
+        "h": 0
+      }
+    }
+  ]
+}
