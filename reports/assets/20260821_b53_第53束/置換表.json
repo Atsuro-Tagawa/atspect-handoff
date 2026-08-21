@@ -1,0 +1,237 @@
+{
+ "reason": "第53束（作家581〜590）＝二重検品140本のうち★A 92件を日本語原文と1件ずつ照合し、全627名で横断型でないと実測したものだけを是正する。★『農民美術』は母集団6欄（倉田白羊さま3欄・山本鼎さま3欄）で、英語 folk craft art 5件・西語 arte popular campesino 6件がすべて同じ形（割れではなく全件が同じ誤り）だったため全件を直す。★独語 Bauernkunst は直訳で妥当なので触らない。★『写しとめる』を中国語で『写下（書き留める）』とする型は母集団11欄のうち2件（山端庸介さま・影山光洋さま）で、いずれも写真家の欄なので両方直す。★★触らなかった型＝T75（被爆・山端庸介さま zh_cn の『爆炸刚过后』）／T80（仏語の後進に jeunes を足す）／『端正』58欄（山本陶秀さま独語）／Y24人物（山本芳翠さま英語）。★Y裁定待ち＝Y10文化功労者1件・Y11写生3件・Y14洋画家8件・Y19帝室技芸員1件・Y02人間国宝2件・Y07二科会2件・Y20伝える2件・Y23画面5件・Y24人物2件。★日本語原文の事実疑義2件（いずれも7言語一致）はリサーチTへ申し送り／★関所1巡目＝当方の是正案そのものの欠陥9件を修正（独語 in großem Zuschnitt が不自然・moderne Form der Landschaft が『風景そのものの現代表現』と読める／西語 mención especial では『特選』として弱い／仏語 motifs sur le motif の重複／簡体字・繁体字で『拍摄记录下』の動詞が重なる／『策划』は原文にない追加／『宏大构图』は構図そのものが壮大だという評価にずれる）／★関所2巡目＝当方の置換が独語で Komposition、簡体字で『西沉之日』を重複させていたため from を広げて解消",
+ "enteredBy": "翻訳品質T 2026-08-21 第53束",
+ "patches": [
+  {
+   "handle": "yamaguchi-kayo",
+   "lang": "de",
+   "field": "bio",
+   "from": "das Lebensgefühl von Tieren",
+   "to": "die Lebendigkeit der Tiere"
+  },
+  {
+   "handle": "yamaguchi-kayo",
+   "lang": "es",
+   "field": "bio",
+   "from": "recibieron una selección especial en el Teiten",
+   "to": "fueron distinguidas con un premio especial en el Teiten"
+  },
+  {
+   "handle": "yamaguchi-kayo",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "曾任文化功劳者，后获文化勋章",
+   "to": "后被认定为文化功劳者，继而获授文化勋章"
+  },
+  {
+   "handle": "yamaguchi-kayo",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "曾任文化功勞者，後獲文化勳章",
+   "to": "後獲認定為文化功勞者，繼而獲授文化勳章"
+  },
+  {
+   "handle": "yamahata-yosuke",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "力求尽早写下眼前的惨状",
+   "to": "力求尽快将眼前的惨状拍摄下来"
+  },
+  {
+   "handle": "yamahata-yosuke",
+   "lang": "zh_tw",
+   "field": "viewpoint",
+   "from": "力求盡早寫下眼前的慘狀",
+   "to": "力求儘快拍下眼前的慘狀"
+  },
+  {
+   "handle": "kageyama-koyo",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "写下身处动荡昭和之人们生活的摄影家",
+   "to": "用镜头记录下身处动荡昭和之人们生活的摄影家"
+  },
+  {
+   "handle": "kageyama-koyo",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "寫下身處動盪昭和之人們生活的攝影家",
+   "to": "以照片記錄下身處動盪昭和之人們生活的攝影家"
+  },
+  {
+   "handle": "yamahata-yosuke",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Il entra dans Nagasaki",
+   "to": "Il entra à Nagasaki"
+  },
+  {
+   "handle": "yamamoto-kanae",
+   "lang": "en",
+   "field": "statement",
+   "from": "the creative-print and folk craft art movements",
+   "to": "the creative-print and farmers' art movements"
+  },
+  {
+   "handle": "yamamoto-kanae",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "free-drawing education, and folk craft art",
+   "to": "free-drawing education, and farmers' art"
+  },
+  {
+   "handle": "yamamoto-kanae",
+   "lang": "en",
+   "field": "bio",
+   "from": "the folk craft art movement",
+   "to": "the farmers' art movement"
+  },
+  {
+   "handle": "kurata-hakuyo",
+   "lang": "en",
+   "field": "statement",
+   "from": "who also engaged in folk craft art",
+   "to": "who also engaged in farmers' art"
+  },
+  {
+   "handle": "kurata-hakuyo",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "to the folk craft art movement",
+   "to": "to the farmers' art movement"
+  },
+  {
+   "handle": "yamamoto-kanae",
+   "lang": "es",
+   "field": "statement",
+   "from": "del arte popular campesino",
+   "to": "del arte campesino"
+  },
+  {
+   "handle": "yamamoto-kanae",
+   "lang": "es",
+   "field": "bio",
+   "from": "de arte popular campesino",
+   "to": "de arte campesino"
+  },
+  {
+   "handle": "yamamoto-kanae",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "el arte popular campesino",
+   "to": "el arte campesino"
+  },
+  {
+   "handle": "kurata-hakuyo",
+   "lang": "es",
+   "field": "statement",
+   "from": "al arte popular campesino",
+   "to": "al arte campesino"
+  },
+  {
+   "handle": "kurata-hakuyo",
+   "lang": "es",
+   "field": "bio",
+   "from": "movimiento de arte popular campesino",
+   "to": "movimiento de arte campesino"
+  },
+  {
+   "handle": "kurata-hakuyo",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "movimiento de arte popular campesino",
+   "to": "movimiento de arte campesino"
+  },
+  {
+   "handle": "yamamoto-kansai",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "倾力于大型活动的演出",
+   "to": "倾力于大型活动的执导"
+  },
+  {
+   "handle": "yamamoto-kansai",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "以及在舞台上熠熠生辉的大胆造型",
+   "to": "以及在舞台上格外醒目的大胆造型"
+  },
+  {
+   "handle": "yamamoto-kansai",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "die kühnen, für die Bühne geschaffenen Formen",
+   "to": "die kühnen, auf der Bühne wirkungsvollen Formen"
+  },
+  {
+   "handle": "yamamoto-kansai",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Premier créateur japonais à présenter un défilé à Londres",
+   "to": "Premier créateur japonais à présenter son travail à Londres"
+  },
+  {
+   "handle": "yamamoto-kyujin",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "die Komposition, die ödes Land und eine untergehende Sonne großformatig erfasst",
+   "to": "die Komposition, die ödes Land und eine untergehende Sonne großzügig ins Bild setzt"
+  },
+  {
+   "handle": "yamamoto-kyujin",
+   "lang": "de",
+   "field": "bio",
+   "from": "Er studierte an der Kunstschule Tokio bei Matsuoka Eikyū.",
+   "to": "Er studierte an der Kunstschule Tokio und war Schüler von Matsuoka Eikyū."
+  },
+  {
+   "handle": "yamamoto-kyujin",
+   "lang": "de",
+   "field": "bio",
+   "from": "die Landschaften ferner Länder",
+   "to": "die Landschaften der Fremde"
+  },
+  {
+   "handle": "yamamoto-kyujin",
+   "lang": "de",
+   "field": "statement",
+   "from": "eine moderne Form der Landschaft suchte",
+   "to": "nach einer modernen Landschaftsdarstellung suchte"
+  },
+  {
+   "handle": "yamamoto-kyujin",
+   "lang": "es",
+   "field": "statement",
+   "from": "un modo moderno del paisaje",
+   "to": "una expresión moderna del paisaje"
+  },
+  {
+   "handle": "yamamoto-kyujin",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "留意以大幅构图把握的苍凉大地与西沉之日",
+   "to": "留意将苍凉的大地与西沉之日大幅纳入画面的构图"
+  },
+  {
+   "handle": "yamamoto-kyujin",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "创造通行于世界的日本绘画",
+   "to": "创造与世界相通的日本绘画"
+  },
+  {
+   "handle": "yamamoto-kyujin",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Il étudia à l'École des beaux-arts de Tokyo auprès de Matsuoka Eikyū.",
+   "to": "Il étudia à l'École des beaux-arts de Tokyo et fut l'élève de Matsuoka Eikyū."
+  },
+  {
+   "handle": "yamamoto-shunkyo",
+   "lang": "fr",
+   "field": "bio",
+   "from": "pour rassembler ses sujets",
+   "to": "pour y étudier ses motifs"
+  }
+ ]
+}
