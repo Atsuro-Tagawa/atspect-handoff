@@ -1,0 +1,818 @@
+{
+ "reason": "横断裁定 Y01〜Y24 適用便の第4弾＝Y03（スペイン語の pintor(a) de nihonga）。★裁定＝『es は pintor(a) de nihonga へ統一（de無し145欄・role欄も含む）』。★実測＝日本語に『日本画家』がある258欄のうち、de無しの形が 116欄（120回）。うち同じ欄に複数あるのが 3欄（上村松園さま2回・島成園さま2回・川崎小虎さま3回）で、この3件は欄全体を置換元にして一度に置いた（CLAUDE.md §6＝1欄1置換の道具は同じ語が1欄に複数あると黙って取りこぼす）。★既に de 付きの30欄は触らない／★関所1巡目＝裁定形（pintor de nihonga）を入れると de が三重に連なる3件（菊池芳文さま2欄・ほか1欄）を、文の構造ごと組み直した。★裁定語『de nihonga』は動かさず、後続の修飾を関係節に変えて解消した",
+ "enteredBy": "翻訳品質T 2026-08-21 Y適用便・第4弾",
+ "patches": [
+  {
+   "handle": "hashimoto-gaho",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "yokoyama-taikan",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "hishida-shunso",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "hishida-shunso",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "shimomura-kanzan",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "shimomura-kanzan",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "saigo-kogetsu",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "saigo-kogetsu",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "kimura-buzan",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "kimura-buzan",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "kimura-buzan",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "imamura-shiko",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "imamura-shiko",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "omoda-seiju",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "omoda-seiju",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "yasuda-yukihiko",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "yasuda-yukihiko",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "maeda-seison",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "kobayashi-kokei",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "hayami-gyoshu",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "hayami-gyoshu",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "hayami-gyoshu",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "nakamura-gakuryo",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "nakamura-gakuryo",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "kawabata-ryushi",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "kawabata-ryushi",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "kawabata-ryushi",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "yokoyama-misao",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "yokoyama-misao",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "yokoyama-misao",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "takeuchi-seiho",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "takeuchi-seiho",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "takeuchi-seiho",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "uemura-shoen",
+   "lang": "es",
+   "field": "bio",
+   "from": "Uemura Shōen fue una pintora nihonga nacida en Kioto. Se formó con Suzuki Shōnen, Kōno Bairei y Takeuchi Seihō, y se especializó en el bijinga, la pintura de mujeres hermosas. Tomando sus motivos de la historia, la literatura clásica y el nō, persiguió una imagen ideal de la mujer, pura y llena de dignidad. Criada solo por su madre, es conocida además por haber seguido pintando mientras sostenía su propio hogar como madre. En 1948 se convirtió en la primera mujer en recibir la Orden de la Cultura. Su obra principal La danza interpretada como preludio, que capta un instante de la danza, está declarada bien cultural importante. Su hijo Uemura Shōkō también es conocido como pintor nihonga.",
+   "to": "Uemura Shōen fue una pintora de nihonga nacida en Kioto. Se formó con Suzuki Shōnen, Kōno Bairei y Takeuchi Seihō, y se especializó en el bijinga, la pintura de mujeres hermosas. Tomando sus motivos de la historia, la literatura clásica y el nō, persiguió una imagen ideal de la mujer, pura y llena de dignidad. Criada solo por su madre, es conocida además por haber seguido pintando mientras sostenía su propio hogar como madre. En 1948 se convirtió en la primera mujer en recibir la Orden de la Cultura. Su obra principal La danza interpretada como preludio, que capta un instante de la danza, está declarada bien cultural importante. Su hijo Uemura Shōkō también es conocido como pintor de nihonga."
+  },
+  {
+   "handle": "kikuchi-keigetsu",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "kikuchi-keigetsu",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "nishiyama-suisho",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "nishiyama-suisho",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "tsuchida-bakusen",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "murakami-kagaku",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "ono-chikkyo",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "ono-chikkyo",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "irie-hako",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "irie-hako",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "sakakibara-shiho",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "sakakibara-shiho",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "domoto-insho",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "domoto-insho",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "fukuda-heihachiro",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "fukuda-heihachiro",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "tokuoka-shinsen",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "tokuoka-shinsen",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "yamaguchi-kayo",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "yamaguchi-kayo",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "nishimura-goun",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "nishimura-goun",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "nakamura-daizaburo",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "hashimoto-kansetsu",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "matsubayashi-keigetsu",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "kitano-tsunetomi",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "shima-seien",
+   "lang": "es",
+   "field": "bio",
+   "from": "Shima Seien fue una pintora nihonga nacida en Sakai, prefectura de Osaka. Su verdadero nombre era Suwa Shigee. Aprendió a pintar con su padre y en gran medida de forma autodidacta, y llamó la atención hacia los veinte años al ser admitida en el Bunten. Representó a las mujeres que vivían en la ciudad de Osaka y escenas de la vida cotidiana, y se cuenta entre las pintoras nihonga activas en esa época. Tras casarse, marchó con su marido a Manchuria y regresó a Japón después de la Segunda Guerra Mundial. Se conservan obras como Matsuri no Yosooi (Ataviada para la fiesta), Sōemonchō no Yū (Atardecer en Sōemonchō) y Keiko no Hima (Una pausa en el ejercicio), custodiadas en el Museo de Arte de Nakanoshima, en Osaka.",
+   "to": "Shima Seien fue una pintora de nihonga nacida en Sakai, prefectura de Osaka. Su verdadero nombre era Suwa Shigee. Aprendió a pintar con su padre y en gran medida de forma autodidacta, y llamó la atención hacia los veinte años al ser admitida en el Bunten. Representó a las mujeres que vivían en la ciudad de Osaka y escenas de la vida cotidiana, y se cuenta entre las pintoras de nihonga activas en esa época. Tras casarse, marchó con su marido a Manchuria y regresó a Japón después de la Segunda Guerra Mundial. Se conservan obras como Matsuri no Yosooi (Ataviada para la fiesta), Sōemonchō no Yū (Atardecer en Sōemonchō) y Keiko no Hima (Una pausa en el ejercicio), custodiadas en el Museo de Arte de Nakanoshima, en Osaka."
+  },
+  {
+   "handle": "shima-seien",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "pintora nihonga",
+   "to": "pintora de nihonga"
+  },
+  {
+   "handle": "kainosho-tadaoto",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "kaburaki-kiyokata",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "ito-shinsui",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "kawai-gyokudo",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "katayama-nampu",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "yamaguchi-hoshun",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "gokura-senjin",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "kawasaki-shoko",
+   "lang": "es",
+   "field": "bio",
+   "from": "Kawasaki Shōko fue un pintor nihonga nacido en la prefectura de Gifu. Su verdadero nombre era Ryūichi. Desde niño aprendió yamato-e de su abuelo materno, el pintor nihonga Kawasaki Chitora, y tras la muerte de este estudió con Kobori Tomoto. Trabajando principalmente en el Teiten y el Nitten, realizó pinturas de figuras de carácter narrativo y líricas pinturas de aves y flores. El pintor nihonga Higashiyama Kaii fue su yerno. Fundó el Kokudokai con Higashiyama y otros y formó también a artistas más jóvenes. Recibió el Premio Imperial de la Japan Art Academy. Se conservan obras como Ōhara no Oku (En lo hondo de Ōhara) y Moeizuru Haru (La primavera que brota), custodiadas en el Museo de Bellas Artes de Gifu.",
+   "to": "Kawasaki Shōko fue un pintor de nihonga nacido en la prefectura de Gifu. Su verdadero nombre era Ryūichi. Desde niño aprendió yamato-e de su abuelo materno, el pintor de nihonga Kawasaki Chitora, y tras la muerte de este estudió con Kobori Tomoto. Trabajando principalmente en el Teiten y el Nitten, realizó pinturas de figuras de carácter narrativo y líricas pinturas de aves y flores. El pintor de nihonga Higashiyama Kaii fue su yerno. Fundó el Kokudokai con Higashiyama y otros y formó también a artistas más jóvenes. Recibió el Premio Imperial de la Japan Art Academy. Se conservan obras como Ōhara no Oku (En lo hondo de Ōhara) y Moeizuru Haru (La primavera que brota), custodiadas en el Museo de Bellas Artes de Gifu."
+  },
+  {
+   "handle": "kawasaki-shoko",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "kodama-kibo",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "yamamoto-kyujin",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "goto-sumio",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "nakamura-masayoshi",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "fusen-tetsu",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "kawabata-gyokusho",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "kawabata-gyokusho",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "kawabata-gyokusho",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "araki-kanpo",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "araki-kanpo",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "araki-kanpo",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "araki-jippo",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "araki-jippo",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "terazaki-kogyo",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "terazaki-kogyo",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "terazaki-kogyo",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "hirafuku-hyakusui",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "yuki-somei",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "yuki-somei",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "matsuoka-eikyu",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "matsuoka-eikyu",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "ikegami-shuho",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "ikegami-shuho",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "yamamoto-shunkyo",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "yamamoto-shunkyo",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "kikuchi-hobun",
+   "lang": "es",
+   "field": "statement",
+   "from": "Un pintor nihonga de Kioto de líricas pinturas de flores y pájaros",
+   "to": "Un pintor de nihonga de Kioto que pintó líricas obras de flores y pájaros"
+  },
+  {
+   "handle": "kikuchi-hobun",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "kikuchi-hobun",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "fue un pintor nihonga de Kioto de obras líricas de flores y pájaros",
+   "to": "fue un pintor de nihonga de Kioto que creó obras líricas de flores y pájaros"
+  },
+  {
+   "handle": "konoshima-okoku",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "konoshima-okoku",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "tsuji-kako",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "okuda-genso",
+   "lang": "es",
+   "field": "statement",
+   "from": "pintor nihonga de follajes otoñales encendidos y vastos paisajes",
+   "to": "pintor de nihonga que representó follajes otoñales encendidos y vastos paisajes"
+  },
+  {
+   "handle": "okuda-genso",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "okuda-genso",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "sato-taisei",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "kato-eizo",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "kato-toichi",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "fukuoji-horin",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "fukuoji-horin",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "nakamura-teii",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "nakamura-teii",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "iwasaki-hajin",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "iwasaki-hajin",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "asada-takashi",
+   "lang": "es",
+   "field": "bio",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  },
+  {
+   "handle": "asada-takashi",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "pintor nihonga",
+   "to": "pintor de nihonga"
+  }
+ ]
+}
