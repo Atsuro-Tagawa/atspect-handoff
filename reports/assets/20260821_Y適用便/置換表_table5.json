@@ -1,0 +1,146 @@
+{
+ "reason": "横断裁定 Y01〜Y24 適用便の第5弾＝Y16・Y17・Y18。★1件ずつ日本語原文と照合し、裁定の対象条件に合う欄だけを入れた。★Y16＝日本語に『大作』がある8欄のうち、独語が Hauptwerk なのは2件だが、★下村観山さまの Hauptwerk は『代表作《弱法師》』を指す正しい用法（裁定も Hauptwerk を代表作の予約語としている）ため対象外。佐藤玄々さまの1件のみ、原文『高さ十メートルを超える大作』に対して Hauptwerk を当てているので規模系へ。★Y17＝日本語に『持ち味』がある3欄のうち、es が carácter 系の2件（澤田政廣さま・渡辺力さま）。★羽田登喜男さまは既に cualidades 系なので対象外。★Y18＝日本語に『しっとり』がある9欄のうち、欧4言語で湿潤の直訳になっているもの（en 6・fr 3・es 3・de 5）。★zh 润泽・ko 촉촉한 は裁定どおり維持／★★機械が生成した置換値をそのまま当てなかった（CLAUDE.md §7）＝Y18 は語（moist/humide/húmedo/feucht）を機械的に置き換えると、★仏語・西語の性数（sensation délicat／sensación delicado）と独語の格変化（das zart／einer zart Lyrik）が崩れた。★11件すべて語形を1件ずつ合わせ直した／★関所1巡目＝菊池芳文さまの仏語・西語で、裁定語（délicat／delicado）が同じ文の後半にある『繊細なまなざし（regard délicat／mirada delicada）』と重複した。★裁定語は動かさず、修飾の位置を『空気の繊細な表現』へ変えて解消した（原文＝『しっとりとした空気の表現』）／★関所2巡目＝重複の原因は後半の『繊細なまなざし（regard délicat／mirada delicada）』側だった。★裁定語（délicat／delicado）は『しっとり』の訳として前半に残し、後半を finesse du regard／mirada sensible に変えて解消した",
+ "enteredBy": "翻訳品質T 2026-08-21 Y適用便・第5弾",
+ "patches": [
+  {
+   "handle": "sato-gengyo",
+   "lang": "de",
+   "field": "bio",
+   "from": "das über zehn Meter hohe Hauptwerk",
+   "to": "das über zehn Meter hohe, großformatige Werk"
+  },
+  {
+   "handle": "sawada-seiko",
+   "lang": "es",
+   "field": "bio",
+   "from": "al tiempo que revelaba el carácter de la madera",
+   "to": "al tiempo que aprovechaba las cualidades de la madera"
+  },
+  {
+   "handle": "watanabe-riki",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "una factura que revela el carácter de los propios materiales",
+   "to": "una factura que aprovecha las cualidades de los propios materiales"
+  },
+  {
+   "handle": "tatehata-taimu",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "esture and to the moist, supple mass of t",
+   "to": "esture and to the subdued, supple mass of t"
+  },
+  {
+   "handle": "tatehata-taimu",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "das feuchte, geschmeidige Vol",
+   "to": "das zarte, geschmeidige Vol"
+  },
+  {
+   "handle": "kitamura-shikai",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "ll in drawing the moist feel of human ski",
+   "to": "ll in drawing the subdued feel of human ski"
+  },
+  {
+   "handle": "kitamura-shikai",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "la sensation humide de la peau",
+   "to": "la sensation délicate de la peau"
+  },
+  {
+   "handle": "kitamura-shikai",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "la sensación húmeda de la piel humana",
+   "to": "la sensación delicada de la piel humana"
+  },
+  {
+   "handle": "kitamura-shikai",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "das feuchte Empfinden menschl",
+   "to": "das zarte Empfinden menschl"
+  },
+  {
+   "handle": "kusube-yaichi",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "ft motifs and the moist tonal quality bor",
+   "to": "ft motifs and the subdued tonal quality bor"
+  },
+  {
+   "handle": "tamura-koichi",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "ary feeling and a moist lyricism.",
+   "to": "ary feeling and a subdued lyricism."
+  },
+  {
+   "handle": "tamura-koichi",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "einer feuchten Lyrik",
+   "to": "einer zarten Lyrik"
+  },
+  {
+   "handle": "kikuchi-hobun",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": " the rendering of moist air and the soft ",
+   "to": " the rendering of subdued air and the soft "
+  },
+  {
+   "handle": "kikuchi-hobun",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "au rendu de l'air humide et aux tons doux révèle le regard délicat avec lequel",
+   "to": "au rendu délicat de l'air et aux tons doux révèle la finesse du regard avec lequel"
+  },
+  {
+   "handle": "kikuchi-hobun",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "a la representación del aire húmedo y a los tonos suaves revela la mirada delicada con que",
+   "to": "a la delicada representación del aire y a los tonos suaves revela la mirada sensible con que"
+  },
+  {
+   "handle": "kikuchi-hobun",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "der feuchten Luft",
+   "to": "der zarten Luft"
+  },
+  {
+   "handle": "sato-taisei",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "rside, and to its moist feeling, conveys ",
+   "to": "rside, and to its subdued feeling, conveys "
+  },
+  {
+   "handle": "sato-taisei",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "son émotion humide",
+   "to": "son émotion délicate"
+  },
+  {
+   "handle": "sato-taisei",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "su emoción húmeda",
+   "to": "su emoción delicada"
+  },
+  {
+   "handle": "sato-taisei",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "ihrem feuchten Empfinden",
+   "to": "ihrem zarten Empfinden"
+  }
+ ]
+}
