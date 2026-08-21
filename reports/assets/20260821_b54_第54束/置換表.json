@@ -1,0 +1,188 @@
+{
+ "reason": "第54束（作家591〜600）＝二重検品140本のうち★A 103件を日本語原文と1件ずつ照合し、全627名で横断型でないと実測したものだけを是正する。★『門下』を西語で estirpe（血統・家系）とする型は、母集団23欄のうち estirpe 4件・discípulo 6件で割れているが、estirpe は明確な誤訳（門下＝弟子）なので、束の対象外の米原雲海さまも含めて4件とも discípulo へ揃え、estirpe を0にする。★『写す（写真）』を中国語で『描摹（描き写す）』とする型は、母集団95欄のうち8件に描摹があるが、★文脈で分けた＝写真家（細江英公さま・山沢栄子さま）の2名だけが誤訳で、彫刻家5名と森英恵さま（欧米の流行を模倣しない、の意）は比喩として通るため触らない。★★触らなかった横断型＝独語で日展に staatlich を足す型（母集団142欄のうち8件）。★Y裁定待ち＝Y12親しまれ1件・Y14洋画家6件・Y19帝室技芸員1件・Y07二科会3件・Y20伝える1件・Y21箱1件・Y23画面5件・Y24人物5件。★T74（中国語・韓国語の【略歴】で作家名が落ち現在形になる型）も触らない。★日本語原文の事実疑義5件はリサーチTへ申し送り／★関所1巡目＝(a)英語の『a Graphic Designer and Zuan Designer』は取り下げ＝関所が『職業名を文中で大文字にするのは不自然・Zuan Designer は和英混成で意味も重複気味』と判定し、変更前へ戻せと言った。用語台帳の表記に寄せる当方の案より、英語として自然な現行を優先する。(b)独語 bodenständig-volkstümlich は『庶民的』の含意が加わるため lokal verwurzelt へ。(c)繁体字『鄉土氣息』は郷愁の含意が出るため『土俗色彩』へ。(d)仏語『arts décoratifs』は工芸を装飾芸術に狭めるため métiers d'art へ。(e)韓国語『불사(仏師)』は仏事の意味に取られるため『불상 조각가』へ。(f)簡体字『近代的』は日本語直訳調のため『具有近代特色的』へ",
+ "enteredBy": "翻訳品質T 2026-08-21 第54束",
+ "patches": [
+  {
+   "handle": "yamashiro-ryuichi",
+   "lang": "ko",
+   "field": "bio",
+   "from": "「림(林)」 「삼림(森)」이라는 글자",
+   "to": "「림(林)」, 「삼(森)」이라는 글자"
+  },
+  {
+   "handle": "yamashiro-ryuichi",
+   "lang": "ko",
+   "field": "viewpoint",
+   "from": "「림(林)」 「삼림(森)」을 짜 맞춘",
+   "to": "「림(林)」, 「삼(森)」을 짜 맞춘"
+  },
+  {
+   "handle": "yamashita-kikuji",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "la imaginería terrosa e inquietante",
+   "to": "la imaginería autóctona e inquietante"
+  },
+  {
+   "handle": "yamashita-kikuji",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "der erdigen, unheimlichen Bildsprache",
+   "to": "der lokal verwurzelten, unheimlichen Bildsprache"
+  },
+  {
+   "handle": "yamashita-kikuji",
+   "lang": "zh_tw",
+   "field": "viewpoint",
+   "from": "留意那土著而詭譎的意象",
+   "to": "留意那帶有土俗色彩且詭譎的意象"
+  },
+  {
+   "handle": "yamashita-kikuji",
+   "lang": "de",
+   "field": "bio",
+   "from": "häufig ausgehend von tatsächlichen Vorfällen",
+   "to": "wobei er häufig tatsächliche Vorfälle recherchierte"
+  },
+  {
+   "handle": "yamashita-kikuji",
+   "lang": "es",
+   "field": "bio",
+   "from": "inspirándose a menudo en hechos reales",
+   "to": "documentándose a menudo sobre hechos reales"
+  },
+  {
+   "handle": "yamashita-shintaro",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "Plutôt qu'un récit éclatant",
+   "to": "Plutôt qu'une description éclatante"
+  },
+  {
+   "handle": "yamashita-shintaro",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "Más que un relato vistoso, apetece atender",
+   "to": "Más que una descripción vistosa, conviene atender"
+  },
+  {
+   "handle": "yamashita-shintaro",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "对象在静谧构图中如何安坐",
+   "to": "对象在静谧构图中呈现出怎样的坐姿"
+  },
+  {
+   "handle": "yamashita-shintaro",
+   "lang": "de",
+   "field": "bio",
+   "from": "Figurenthemen und Innenräume sind verzeichnet",
+   "to": "In seinem Werk finden sich Figurenbilder und Interieurs"
+  },
+  {
+   "handle": "yamazaki-choun",
+   "lang": "es",
+   "field": "statement",
+   "from": "Un escultor de la estirpe de Takamura Kōun",
+   "to": "Un escultor discípulo de Takamura Kōun"
+  },
+  {
+   "handle": "yamazaki-choun",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "Fue un escultor de la estirpe de Takamura Kōun",
+   "to": "Fue un escultor discípulo de Takamura Kōun"
+  },
+  {
+   "handle": "yonehara-unkai",
+   "lang": "es",
+   "field": "statement",
+   "from": "Un escultor de la estirpe de Kōun",
+   "to": "Un escultor discípulo de Kōun"
+  },
+  {
+   "handle": "yonehara-unkai",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "Fue un escultor de la estirpe de Takamura Kōun",
+   "to": "Fue un escultor discípulo de Takamura Kōun"
+  },
+  {
+   "handle": "yamazaki-choun",
+   "lang": "es",
+   "field": "bio",
+   "from": "buscó una expresión moderna incorporando el realismo",
+   "to": "buscó una expresión moderna de la talla en madera incorporando el realismo"
+  },
+  {
+   "handle": "yamazaki-choun",
+   "lang": "ko",
+   "field": "viewpoint",
+   "from": "예로부터 이어진 불상 조각의 기예",
+   "to": "예로부터 이어진 불상 조각가의 기예"
+  },
+  {
+   "handle": "yamazaki-choun",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "追求近代化的木雕表现",
+   "to": "追求具有近代特色的木雕表现"
+  },
+  {
+   "handle": "yamazaki-choun",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "追求近代化的木雕表現",
+   "to": "追求近代的木雕表現"
+  },
+  {
+   "handle": "yamazaki-kakutaro",
+   "lang": "fr",
+   "field": "bio",
+   "from": "comprenant des panneaux décoratifs travaillés à la laque",
+   "to": "comprenant notamment des panneaux décoratifs travaillés à la laque"
+  },
+  {
+   "handle": "yamazaki-kakutaro",
+   "lang": "fr",
+   "field": "bio",
+   "from": "à la direction d'organisations d'artisanat",
+   "to": "à la direction d'organisations consacrées aux métiers d'art"
+  },
+  {
+   "handle": "yamazawa-eiko",
+   "lang": "de",
+   "field": "bio",
+   "from": "eine der berufstätigen Fotografinnen in Japan",
+   "to": "eine der Berufsfotografinnen in Japan"
+  },
+  {
+   "handle": "yamazawa-eiko",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "她并非如实描摹对象",
+   "to": "她并非如实拍摄对象"
+  },
+  {
+   "handle": "yamazawa-eiko",
+   "lang": "zh_tw",
+   "field": "viewpoint",
+   "from": "她並非如實描摹對象",
+   "to": "她並非如實拍攝對象"
+  },
+  {
+   "handle": "hosoe-eikoh",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "他并非如实描摹现实",
+   "to": "他并非如实拍摄现实"
+  },
+  {
+   "handle": "hosoe-eikoh",
+   "lang": "zh_tw",
+   "field": "viewpoint",
+   "from": "他並非如實描摹現實",
+   "to": "他並非如實拍攝現實"
+  }
+ ]
+}
