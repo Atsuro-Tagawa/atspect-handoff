@@ -1,0 +1,405 @@
+{
+ "reason": "横断裁定 Y01〜Y24 適用便の第1弾＝Y02・Y08・Y10・Y12・Y13。★全型共通の鉄則に従い、1件ずつ日本語原文と照合し、裁定の対象条件に合う欄だけを入れた。★母集団と件数＝Y02（日本語に『人間国宝』がある137欄のうち ko が『인간국보에』の27件。★裁定どおり助詞だけを『로』へ替え、動詞形は触らない）／Y08（日本語に『具体美術協会』がある28欄のうち ko が『구타이 미술협회』の2件）／Y10（日本語に『文化功労者』がある23欄のうち de に英語形が混入した1件・fr の大文字形）／Y12（★日本語に『親しま』がある26欄のうち de が geschätzt の2件。裁定文は5件と書いているが、実測では2件。母集団を『訳文側の全欄』に広げると29件あり、それらは日本語が『評価された』等で geschätzt が正しい＝対象外）／Y13（日本語に『肉づけ』がある9欄のうち zh が『肉感』の各4件）／★機械が生成した置換値をそのまま当てなかった＝中国語は『肉感』を機械的に『塑形』へ置くと『塑形塑造』『塑造塑形』と二重になったため、4名×2言語の8件を文脈ごとに組み直した（CLAUDE.md §7）。★仏語の Personne de mérite culturel 17件は、すべて文中に現れることを実測で確認したうえで小文字化した（文頭なら大文字が正しいため）／★関所1巡目＝3件を修正（独語 wird … beliebt は『人気が出る』という変化を表すため ist … beliebt へ／中国語『堆塑泥土确实的塑形』は修飾関係が不明瞭なため組み直した）。★韓国語29件・仏語17件は指摘なしで通過／★関所2巡目＝『堆塑』と『塑形』が重なるとの指摘。★裁定 Y13 の統一先『塑形』は動かせないので、重なる前半（堆塑）を『堆叠／堆疊』へ変えて解消した",
+ "enteredBy": "翻訳品質T 2026-08-21 Y適用便・第1弾",
+ "patches": [
+  {
+   "handle": "fujiwara-yu",
+   "lang": "ko",
+   "field": "bio",
+   "from": "인간국보에 인정되었다.",
+   "to": "인간국보로 인정되었다."
+  },
+  {
+   "handle": "yamamoto-toshu",
+   "lang": "ko",
+   "field": "bio",
+   "from": "인간국보에 인정되었다.",
+   "to": "인간국보로 인정되었다."
+  },
+  {
+   "handle": "kondo-yuzo",
+   "lang": "ko",
+   "field": "bio",
+   "from": "인간국보에 인정되었다.",
+   "to": "인간국보로 인정되었다."
+  },
+  {
+   "handle": "shimizu-uichi",
+   "lang": "ko",
+   "field": "bio",
+   "from": "인간국보에 인정되었다.",
+   "to": "인간국보로 인정되었다."
+  },
+  {
+   "handle": "kato-takuo",
+   "lang": "ko",
+   "field": "bio",
+   "from": "인간국보에 인정되었다.",
+   "to": "인간국보로 인정되었다."
+  },
+  {
+   "handle": "tamura-koichi",
+   "lang": "ko",
+   "field": "bio",
+   "from": "인간국보에 인정되었다.",
+   "to": "인간국보로 인정되었다."
+  },
+  {
+   "handle": "tsukamoto-kaiji",
+   "lang": "ko",
+   "field": "bio",
+   "from": "인간국보에 인정되었다.",
+   "to": "인간국보로 인정되었다."
+  },
+  {
+   "handle": "matsui-kosei",
+   "lang": "ko",
+   "field": "bio",
+   "from": "인간국보에 인정되었다.",
+   "to": "인간국보로 인정되었다."
+  },
+  {
+   "handle": "fujimoto-yoshimichi",
+   "lang": "ko",
+   "field": "bio",
+   "from": "인간국보에 인정되었다.",
+   "to": "인간국보로 인정되었다."
+  },
+  {
+   "handle": "shimaoka-tatsuzo",
+   "lang": "ko",
+   "field": "bio",
+   "from": "인간국보에 인정되었다.",
+   "to": "인간국보로 인정되었다."
+  },
+  {
+   "handle": "kato-kozo",
+   "lang": "ko",
+   "field": "bio",
+   "from": "인간국보에 인정되었다.",
+   "to": "인간국보로 인정되었다."
+  },
+  {
+   "handle": "serizawa-keisuke",
+   "lang": "ko",
+   "field": "statement",
+   "from": "인간국보에 인정된",
+   "to": "인간국보로 인정된"
+  },
+  {
+   "handle": "serizawa-keisuke",
+   "lang": "ko",
+   "field": "bio",
+   "from": "인간국보에 인정되었다.",
+   "to": "인간국보로 인정되었다."
+  },
+  {
+   "handle": "inagaki-toshijiro",
+   "lang": "ko",
+   "field": "bio",
+   "from": "인간국보에 인정되었다.",
+   "to": "인간국보로 인정되었다."
+  },
+  {
+   "handle": "kimura-uzan",
+   "lang": "ko",
+   "field": "bio",
+   "from": "인간국보에 인정되었다.",
+   "to": "인간국보로 인정되었다."
+  },
+  {
+   "handle": "ueno-tameji",
+   "lang": "ko",
+   "field": "bio",
+   "from": "인간국보에 인정되었다.",
+   "to": "인간국보로 인정되었다."
+  },
+  {
+   "handle": "moriguchi-kako",
+   "lang": "ko",
+   "field": "bio",
+   "from": "인간국보에 인정되었다.",
+   "to": "인간국보로 인정되었다."
+  },
+  {
+   "handle": "komiya-kosuke",
+   "lang": "ko",
+   "field": "bio",
+   "from": "인간국보에 인정되었다.",
+   "to": "인간국보로 인정되었다."
+  },
+  {
+   "handle": "komiya-yasutaka",
+   "lang": "ko",
+   "field": "bio",
+   "from": "인간국보에 인정되었다.",
+   "to": "인간국보로 인정되었다."
+  },
+  {
+   "handle": "munehiro-rikizo",
+   "lang": "ko",
+   "field": "bio",
+   "from": "인간국보에 인정되었다.",
+   "to": "인간국보로 인정되었다."
+  },
+  {
+   "handle": "kamakura-yoshitaro",
+   "lang": "ko",
+   "field": "bio",
+   "from": "인간국보에 인정되었다.",
+   "to": "인간국보로 인정되었다."
+  },
+  {
+   "handle": "matsuda-gonroku",
+   "lang": "ko",
+   "field": "bio",
+   "from": "인간국보에 인정되었으며",
+   "to": "인간국보로 인정되었으며"
+  },
+  {
+   "handle": "takano-shozan",
+   "lang": "ko",
+   "field": "bio",
+   "from": "인간국보에 인정되었다.",
+   "to": "인간국보로 인정되었다."
+  },
+  {
+   "handle": "otomaru-kodo",
+   "lang": "ko",
+   "field": "bio",
+   "from": "인간국보에 인정되었다.",
+   "to": "인간국보로 인정되었다."
+  },
+  {
+   "handle": "akaji-yusai",
+   "lang": "ko",
+   "field": "bio",
+   "from": "인간국보에 인정되었다.",
+   "to": "인간국보로 인정되었다."
+  },
+  {
+   "handle": "masumura-mashiki",
+   "lang": "ko",
+   "field": "bio",
+   "from": "인간국보에 인정되었다.",
+   "to": "인간국보로 인정되었다."
+  },
+  {
+   "handle": "terai-naoji",
+   "lang": "ko",
+   "field": "bio",
+   "from": "인간국보에 인정되었다.",
+   "to": "인간국보로 인정되었다."
+  },
+  {
+   "handle": "yoshida-minoru",
+   "lang": "ko",
+   "field": "bio",
+   "from": "구타이 미술협회",
+   "to": "구체미술협회"
+  },
+  {
+   "handle": "yoshida-minoru",
+   "lang": "ko",
+   "field": "groups",
+   "from": "구타이 미술협회",
+   "to": "구체미술협회"
+  },
+  {
+   "handle": "kurokawa-kisho",
+   "lang": "de",
+   "field": "bio",
+   "from": "Person of Cultural Merit",
+   "to": "Person mit besonderen kulturellen Verdiensten"
+  },
+  {
+   "handle": "katayama-nampu",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Personne de mérite culturel",
+   "to": "personne de mérite culturel"
+  },
+  {
+   "handle": "akino-fuku",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Personne de mérite culturel",
+   "to": "personne de mérite culturel"
+  },
+  {
+   "handle": "ikeda-yoson",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Personne de mérite culturel",
+   "to": "personne de mérite culturel"
+  },
+  {
+   "handle": "iwahashi-eien",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Personne de mérite culturel",
+   "to": "personne de mérite culturel"
+  },
+  {
+   "handle": "suzuki-shintaro",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Personne de mérite culturel",
+   "to": "personne de mérite culturel"
+  },
+  {
+   "handle": "hibino-goho",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Personne de mérite culturel",
+   "to": "personne de mérite culturel"
+  },
+  {
+   "handle": "kamijo-shinzan",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Personne de mérite culturel",
+   "to": "personne de mérite culturel"
+  },
+  {
+   "handle": "shimizu-takashi",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Personne de mérite culturel",
+   "to": "personne de mérite culturel"
+  },
+  {
+   "handle": "ishimoto-yasuhiro",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Personne de mérite culturel",
+   "to": "personne de mérite culturel"
+  },
+  {
+   "handle": "tanuma-takeyoshi",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Personne de mérite culturel",
+   "to": "personne de mérite culturel"
+  },
+  {
+   "handle": "hosoe-eikoh",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Personne de mérite culturel",
+   "to": "personne de mérite culturel"
+  },
+  {
+   "handle": "tanaka-ikko",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Personne de mérite culturel",
+   "to": "personne de mérite culturel"
+  },
+  {
+   "handle": "amemiya-keiko",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Personne de mérite culturel",
+   "to": "personne de mérite culturel"
+  },
+  {
+   "handle": "asakura-isokichi",
+   "lang": "fr",
+   "field": "statement",
+   "from": "Personne de mérite culturel",
+   "to": "personne de mérite culturel"
+  },
+  {
+   "handle": "asakura-isokichi",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Personne de mérite culturel",
+   "to": "personne de mérite culturel"
+  },
+  {
+   "handle": "maki-fumihiko",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Personne de mérite culturel",
+   "to": "personne de mérite culturel"
+  },
+  {
+   "handle": "taniguchi-yoshiro",
+   "lang": "fr",
+   "field": "bio",
+   "from": "Personne de mérite culturel",
+   "to": "personne de mérite culturel"
+  },
+  {
+   "handle": "sato-churyo",
+   "lang": "de",
+   "field": "bio",
+   "from": "wird er weithin geschätzt",
+   "to": "ist er weithin beliebt"
+  },
+  {
+   "handle": "irie-taikichi",
+   "lang": "de",
+   "field": "bio",
+   "from": "weithin geschätzt",
+   "to": "weithin beliebt"
+  },
+  {
+   "handle": "yoshida-saburo",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "都一一写取的肉感塑造",
+   "to": "都一一写取的塑形"
+  },
+  {
+   "handle": "yoshida-saburo",
+   "lang": "zh_tw",
+   "field": "viewpoint",
+   "from": "都一一寫取的肉感塑造",
+   "to": "都一一寫取的塑形"
+  },
+  {
+   "handle": "takeishi-kozaburo",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "沉稳的塑造肉感",
+   "to": "沉稳的塑形"
+  },
+  {
+   "handle": "takeishi-kozaburo",
+   "lang": "zh_tw",
+   "field": "viewpoint",
+   "from": "沉穩的塑造肉感",
+   "to": "沉穩的塑形"
+  },
+  {
+   "handle": "sasamura-sokajin",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "堆塑泥土的确实肉感",
+   "to": "以泥土层层堆叠出的扎实塑形"
+  },
+  {
+   "handle": "sasamura-sokajin",
+   "lang": "zh_tw",
+   "field": "viewpoint",
+   "from": "堆塑泥土的確實肉感",
+   "to": "以泥土層層堆疊出的扎實塑形"
+  },
+  {
+   "handle": "amemiya-keiko",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "力图以塑造柔和的肉感",
+   "to": "力图以柔和的塑形"
+  },
+  {
+   "handle": "amemiya-keiko",
+   "lang": "zh_tw",
+   "field": "viewpoint",
+   "from": "力圖以塑造柔和的肉感",
+   "to": "力圖以柔和的塑形"
+  }
+ ]
+}
