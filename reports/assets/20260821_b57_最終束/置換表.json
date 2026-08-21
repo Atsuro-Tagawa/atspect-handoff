@@ -1,0 +1,111 @@
+{
+ "reason": "最終束（第57束＝作家621〜627）＝二重検品98本のうち★A 58件を日本語原文と1件ずつ照合し、全627名で横断型でないと実測したものだけを是正する。★『文部大臣賞』は母集団3欄で、英語・仏語とも『Ministry of Education（文部省）』2件・『Minister of Education（文部大臣）』1件に割れていた。★大臣が授与主体なので、佐藤太清さまの形（Minister）が正しく、2件を直せば3件とも統一される。★『女性作家の一人』の『一人』が4言語で落ちていた（桂ゆきさま）。★★触らなかった型＝Y09作家の一人2件・Y11写生3件・Y14洋画家3件・Y08具体美術協会2件・Y23画面2件・Y24人物2件。★日本語原文の事実疑義3件はリサーチTへ申し送り／★関所1巡目＝当方の是正案そのものの欠陥4件を修正（独語でローマ字併記が述語の後に来て何を補足するか不明瞭／英語 artists of postwar art が不自然／西語 artistas mujeres が不自然／韓国語 냉소적『冷笑的』は原文にない強い評価を加える）／★関所2巡目＝韓国語で『풍자적』が直前の語と重複するため『비판적인 시선』へ。独語は Neuinterpretation der Tradition と in der Sammlung … befinden sich へ（verwahrt は単なる保管の含みが強く『収蔵』からずれる）",
+ "enteredBy": "翻訳品質T 2026-08-21 第57束（最終束）",
+ "patches": [
+  {
+   "handle": "yoshizaka-takamasa",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "für Schulungen und Klausuren genutzt",
+   "to": "für Schulungen und Gruppenaufenthalte genutzt"
+  },
+  {
+   "handle": "yoshizaka-takamasa",
+   "lang": "en",
+   "field": "bio",
+   "from": "the Ministry of Education Art Encouragement Prize",
+   "to": "the Minister of Education Award for Fine Arts"
+  },
+  {
+   "handle": "yoshizaka-takamasa",
+   "lang": "fr",
+   "field": "bio",
+   "from": "le prix d'encouragement aux arts du ministère de l'Éducation",
+   "to": "le prix d'encouragement aux arts du ministre de l'Éducation"
+  },
+  {
+   "handle": "yozo-ukita",
+   "lang": "de",
+   "field": "bio",
+   "from": "von seiner eigenen, eigentümlichen Position aus",
+   "to": "von seiner eigenen, unverwechselbaren Position aus"
+  },
+  {
+   "handle": "yuasa-ichiro",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "la luz que cae sobre las figuras y los interiores",
+   "to": "la luz que ilumina las figuras y los interiores"
+  },
+  {
+   "handle": "yuasa-ichiro",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "la lumière tombant sur les figures et les intérieurs",
+   "to": "la lumière qui éclaire les figures et les intérieurs"
+  },
+  {
+   "handle": "yuki-katsura",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "die schwach komischen Sujets",
+   "to": "die auf ihre Weise komischen Sujets"
+  },
+  {
+   "handle": "yuki-katsura",
+   "lang": "de",
+   "field": "bio",
+   "from": "Sie gilt als eine Künstlerin der Nachkriegskunst",
+   "to": "Sie gilt als eine der Künstlerinnen der Nachkriegskunst"
+  },
+  {
+   "handle": "yuki-katsura",
+   "lang": "es",
+   "field": "bio",
+   "from": "Se le considera una artista mujer del arte de posguerra",
+   "to": "Se la considera una de las artistas de la posguerra"
+  },
+  {
+   "handle": "yuki-katsura",
+   "lang": "en",
+   "field": "bio",
+   "from": "She is regarded as a woman artist of postwar art",
+   "to": "She is regarded as one of the women artists of the postwar period"
+  },
+  {
+   "handle": "yuki-katsura",
+   "lang": "ko",
+   "field": "viewpoint",
+   "from": "사회를 바라보는 반어적인 눈",
+   "to": "사회를 바라보는 비판적인 시선"
+  },
+  {
+   "handle": "yuki-katsura",
+   "lang": "en",
+   "field": "bio",
+   "from": "for a singular pictorial world",
+   "to": "for a distinctive pictorial surface"
+  },
+  {
+   "handle": "yuki-katsura",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "les collages et les images satiriques",
+   "to": "les collages et les peintures satiriques"
+  },
+  {
+   "handle": "yuki-somei",
+   "lang": "de",
+   "field": "bio",
+   "from": "einer modernen Neubetrachtung der chinesischen Literatenmalerei",
+   "to": "einer modernen Neuinterpretation der Tradition chinesischer Literatenmalerei"
+  },
+  {
+   "handle": "yuki-somei",
+   "lang": "de",
+   "field": "bio",
+   "from": "seine Arbeiten befinden sich an der Universität der Künste Tokio (Tōkyō Geijutsu Daigaku)",
+   "to": "seine Arbeiten befinden sich in der Sammlung der Universität der Künste Tokio (Tōkyō Geijutsu Daigaku)"
+  }
+ ]
+}
