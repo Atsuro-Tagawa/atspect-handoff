@@ -1,0 +1,11 @@
+{
+ "reason": "人名読み確定の反映便（代表経由の本人確認・2026-08-21）。菱田宏治＝ひしだ こうじ／名越詔司＝なこし しょうじ（★『なごし』ではなく『なこし』）が確定したため、鈴木千賀子さま【略歴】で漢字のまま残していた2名をローマ字化・ハングル化する。★★依頼文は『Hishida Kōji 型』と書かれているが、同じ依頼文に『長音・語順は同ページ内の他の師事者と同型に揃える』とあるため、★同ページ内を実測した結果に従う＝en は『名→姓・長音記号なし』（Akimitsu Tomonaga／Yoshio Hosoi／Yujiro Makita）、fr・es・de は『名→姓・長音記号あり』（Yūjirō Makita）、ko は『姓→名＋漢字を括弧併記』（도모나가 아키미쓰(友永詔三)）。この型に揃えた。★中国語（簡体字・繁体字）は人名を漢字のまま表記する型なので触らない＝簡体字側は『名越诏司』と既に簡体化されていることを実測で確認した",
+ "enteredBy": "翻訳品質T 2026-08-21 人名読み確定の反映便",
+ "patches": [
+  {"handle":"suzuki-chikako","lang":"en","field":"bio","from":"she trained under 菱田宏治 and 名越詔司","to":"she trained under Koji Hishida and Shoji Nakoshi"},
+  {"handle":"suzuki-chikako","lang":"fr","field":"bio","from":"elle a été formée par 菱田宏治 et 名越詔司","to":"elle a été formée par Kōji Hishida et Shōji Nakoshi"},
+  {"handle":"suzuki-chikako","lang":"es","field":"bio","from":"se formó con 菱田宏治 y 名越詔司","to":"se formó con Kōji Hishida y Shōji Nakoshi"},
+  {"handle":"suzuki-chikako","lang":"de","field":"bio","from":"lernte sie bei 菱田宏治 und 名越詔司","to":"lernte sie bei Kōji Hishida und Shōji Nakoshi"},
+  {"handle":"suzuki-chikako","lang":"ko","field":"bio","from":"菱田宏治, 名越詔司에게 배웠다","to":"히시다 고지(菱田宏治), 나코시 쇼지(名越詔司)에게 배웠다"}
+ ]
+}
