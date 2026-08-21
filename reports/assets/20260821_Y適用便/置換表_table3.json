@@ -1,0 +1,713 @@
+{
+ "reason": "横断裁定 Y01〜Y24 適用便の第3弾＝Y06の残り3件・Y14（洋画家 zh_cn）。★Y06＝第2弾で拾えなかった言い回しの違う3件（比田井天来さま・田中塊堂さま・近藤雪竹さま）。いずれも日本語原文に『臨書』があることを確認済み。★Y14＝日本語に『洋画家』がある300欄のうち、簡体字が『西画家』の97件と、『洋画家』のまま（西洋画家ではない）1件を、★裁定どおり台帳形『西洋画家』へ統一する。★母集団のうち既に『西洋画家』の201件は触らない／★CLAUDE.md §6＝『1欄1置換』を前提にした道具は同じ語が1欄に複数あると黙って取りこぼす。★実測すると津田青楓さま・中村琢二さまの【略歴】に『西画家』が2回ずつあったため、この2件は欄全体を置換元にして一度に置いた（出現回数の合計＝99回／97欄）／★関所1巡目＝西語2件を修正（比田井天来さまは modelo が重複するため from を広げて組み直し／近藤雪竹さまは《張遷碑》という単一作品の臨書なので modelos の複数形をやめた）。★簡体字98件は指摘なしで通過／★関所2巡目＝当方が from を長く取りすぎて後続の文（organizó un método…）を欠落させていた。★from を『, que tomaba como modelo,』までに正確に絞り直した",
+ "enteredBy": "翻訳品質T 2026-08-21 Y適用便・第3弾",
+ "patches": [
+  {
+   "handle": "hidai-tenrai",
+   "lang": "es",
+   "field": "bio",
+   "from": "al estudio caligráfico de las antiguas obras maestras de China y Japón, que tomaba como modelo,",
+   "to": "a la copia de antiguas obras maestras caligráficas de China y Japón tomadas como modelo,"
+  },
+  {
+   "handle": "tanaka-kaido",
+   "lang": "es",
+   "field": "bio",
+   "from": "al estudio caligráfico a partir de los clásicos",
+   "to": "a la copia de modelos caligráficos clásicos"
+  },
+  {
+   "handle": "kondo-sechiku",
+   "lang": "es",
+   "field": "bio",
+   "from": "un estudio caligráfico a partir de la célebre",
+   "to": "una copia realizada a partir del modelo caligráfico de la célebre"
+  },
+  {
+   "handle": "migishi-setsuko",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "卉、作为女性洋画家",
+   "to": "卉、作为女性西洋画家"
+  },
+  {
+   "handle": "oguiss-takanori",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "oguiss-takanori",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "kazuki-yasuo",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "kazuki-yasuo",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "matsumoto-shunsuke",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "matsumoto-shunsuke",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "aimitsu",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "aimitsu",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "aimitsu",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "togo-seiji",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "togo-seiji",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "togo-seiji",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "miyamoto-saburo",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "miyamoto-saburo",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "tasaki-hirosuke",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "tasaki-hirosuke",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "ushijima-noriyuki",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "ushijima-noriyuki",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "koyama-keizo",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "koyama-keizo",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "kumagai-morikazu",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "kumagai-morikazu",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "kumagai-morikazu",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "ishii-hakutei",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "ishii-hakutei",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "arishima-ikuma",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "yamashita-shintaro",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "yamashita-shintaro",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "shimizu-toshi",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "shimizu-toshi",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "takabatake-tatsushiro",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "takabatake-tatsushiro",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "satomi-katsuzo",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "satomi-katsuzo",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "hayashi-shizue",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "hazama-inosuke",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "hazama-inosuke",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "somiya-ichinen",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "somiya-ichinen",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "suzuki-shintaro",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "terauchi-manjiro",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "terauchi-manjiro",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "nakamura-kenichi",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "nakamura-kenichi",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "miyake-kokki",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "yoshida-hiroshi",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "yamaguchi-kaoru",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "murai-masanari",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "murai-masanari",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "nambata-tatsuoki",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "aso-saburo",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "aso-saburo",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "tsuruoka-masao",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "tsuruoka-masao",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "nakazawa-hiromitsu",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "nakazawa-hiromitsu",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "yuasa-ichiro",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "yuasa-ichiro",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "mitsutani-kunishiro",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "kanokogi-takeshiro",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "minami-kunzo",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "minami-kunzo",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "minami-kunzo",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "ota-kijiro",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "ishikawa-toraji",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "kurata-hakuyo",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "morita-tsunetomo",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "kosugi-hoan",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "yamamoto-kanae",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "kawashima-riichiro",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "kawashima-riichiro",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "tsuda-seifu",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "津田青枫是出生于京都的西画家、图案设计家。他最初从图案工作起步，在京都出版了许多图案集。后赴法国学习，参与二科会的创立，作为西画家展开活动。他与小说家夏目漱石交好，曾为《其后》等漱石的著作设计装帧。因关注社会运动一度被逮捕，并以离开二科会作为获释的条件。此后转向日本画、书法与图案。以小林多喜二辞世之年所绘的《牺牲者》等作品而为人所知。",
+   "to": "津田青枫是出生于京都的西洋画家、图案设计家。他最初从图案工作起步，在京都出版了许多图案集。后赴法国学习，参与二科会的创立，作为西洋画家展开活动。他与小说家夏目漱石交好，曾为《其后》等漱石的著作设计装帧。因关注社会运动一度被逮捕，并以离开二科会作为获释的条件。此后转向日本画、书法与图案。以小林多喜二辞世之年所绘的《牺牲者》等作品而为人所知。"
+  },
+  {
+   "handle": "masamune-tokusaburo",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "masamune-tokusaburo",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "masamune-tokusaburo",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "nakagawa-kigen",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "nakagawa-kigen",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "nakagawa-kigen",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "kuroda-jutaro",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "kuroda-jutaro",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "kuroda-jutaro",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "saburi-makoto",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "saburi-makoto",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "kito-nabesaburo",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "nakayama-takashi",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "nakayama-takashi",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "nakayama-takashi",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "hayashi-shigeyoshi",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "hayashi-shigeyoshi",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "hayashi-shigeyoshi",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "makino-torao",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "makino-torao",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "makino-torao",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "ihara-usaburo",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "osawa-shosuke",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "osawa-shosuke",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "西画家",
+   "to": "西洋画家"
+  },
+  {
+   "handle": "nakamura-takuji",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "中村琢二是生于新潟县佐渡、在福冈长大的西画家。西画家中村研一是他的亲哥哥。师从安井曾太郎，参与一水会的创立。他以克制的色彩和扎实的构图，将人物画与风景画描绘得沉静而安稳。题材包括画室中的自画像与海边的渔夫等。日本艺术院会员。作品有《画室之女》《渔夫》等。",
+   "to": "中村琢二是生于新潟县佐渡、在福冈长大的西洋画家。西洋画家中村研一是他的亲哥哥。师从安井曾太郎，参与一水会的创立。他以克制的色彩和扎实的构图，将人物画与风景画描绘得沉静而安稳。题材包括画室中的自画像与海边的渔夫等。日本艺术院会员。作品有《画室之女》《渔夫》等。"
+  }
+ ]
+}

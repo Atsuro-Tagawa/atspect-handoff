@@ -1,0 +1,272 @@
+{
+ "reason": "横断裁定 Y01〜Y24 適用便の第2弾＝Y06・Y07・Y09。★1件ずつ日本語原文と照合し、裁定の対象条件に合う欄だけを入れた。★母集団と件数＝Y07 ko（日本語に『二科会』がある65欄のうち ko が『니카카이』の8件。裁定の各言語の自然形＝ko 니카회へ）／Y09（日本語が『作家の一人』の19欄のうち members 系。★裁定どおり『日本語原文が作家の一人の欄のみ』に限定）／Y06 es（日本語に『臨書』がある12欄のうち estudio 系。裁定＝copia de modelos caligráficos 系へ）。★★Y07 の独語13件は対象外＝実測すると『die Nika-Vereinigung (Nika-kai)』という併記形で、既に裁定形（Nika-Vereinigung）になっており、括弧内の原名併記は用語注入の B2『訳名（原名）の併記形は正しい』に当たるため触らない／★関所1〜2巡＝独語の男女判定を2度やり直した。1巡目は『Künstlerin または sie』で判定したが、★sie は別の主語（作品・グループ等）にも使われるため、男性の元永定正さま・金山明さまを女性形にしてしまい、2巡目の関所が捕まえた。★同じ文の『geborene Künstlerin』だけで判定する形に直した（女性＝田中敦子さま・山崎つる子さまの2名）",
+ "enteredBy": "翻訳品質T 2026-08-21 Y適用便・第2弾",
+ "patches": [
+  {
+   "handle": "sekine-shoji",
+   "lang": "ko",
+   "field": "groups",
+   "from": "니카카이",
+   "to": "니카회"
+  },
+  {
+   "handle": "fujita-tsuguharu",
+   "lang": "ko",
+   "field": "groups",
+   "from": "니카카이",
+   "to": "니카회"
+  },
+  {
+   "handle": "saeki-yuzo",
+   "lang": "ko",
+   "field": "groups",
+   "from": "니카카이",
+   "to": "니카회"
+  },
+  {
+   "handle": "koide-narashige",
+   "lang": "ko",
+   "field": "bio",
+   "from": "니카카이",
+   "to": "니카회"
+  },
+  {
+   "handle": "yasui-sotaro",
+   "lang": "ko",
+   "field": "bio",
+   "from": "니카카이",
+   "to": "니카회"
+  },
+  {
+   "handle": "yasui-sotaro",
+   "lang": "ko",
+   "field": "groups",
+   "from": "니카카이",
+   "to": "니카회"
+  },
+  {
+   "handle": "umehara-ryuzaburo",
+   "lang": "ko",
+   "field": "bio",
+   "from": "니카카이",
+   "to": "니카회"
+  },
+  {
+   "handle": "umehara-ryuzaburo",
+   "lang": "ko",
+   "field": "groups",
+   "from": "니카카이",
+   "to": "니카회"
+  },
+  {
+   "handle": "atsuko-tanaka",
+   "lang": "en",
+   "field": "bio",
+   "from": "one of the members of",
+   "to": "one of the artists of"
+  },
+  {
+   "handle": "atsuko-tanaka",
+   "lang": "fr",
+   "field": "bio",
+   "from": "l'une des membres de",
+   "to": "l'une des artistes de"
+  },
+  {
+   "handle": "atsuko-tanaka",
+   "lang": "de",
+   "field": "bio",
+   "from": "eines der Mitglieder der",
+   "to": "eine der Künstlerinnen der"
+  },
+  {
+   "handle": "sadamasa-motonaga",
+   "lang": "en",
+   "field": "bio",
+   "from": "one of the members of",
+   "to": "one of the artists of"
+  },
+  {
+   "handle": "sadamasa-motonaga",
+   "lang": "fr",
+   "field": "bio",
+   "from": "l'un des membres de",
+   "to": "l'un des artistes de"
+  },
+  {
+   "handle": "sadamasa-motonaga",
+   "lang": "de",
+   "field": "bio",
+   "from": "eines der Mitglieder der",
+   "to": "einer der Künstler der"
+  },
+  {
+   "handle": "saburo-murakami",
+   "lang": "en",
+   "field": "bio",
+   "from": "one of the members of",
+   "to": "one of the artists of"
+  },
+  {
+   "handle": "saburo-murakami",
+   "lang": "fr",
+   "field": "bio",
+   "from": "l'un des membres de",
+   "to": "l'un des artistes de"
+  },
+  {
+   "handle": "saburo-murakami",
+   "lang": "de",
+   "field": "bio",
+   "from": "eines der Mitglieder der",
+   "to": "einer der Künstler der"
+  },
+  {
+   "handle": "akira-kanayama",
+   "lang": "en",
+   "field": "bio",
+   "from": "one of the members of",
+   "to": "one of the artists of"
+  },
+  {
+   "handle": "akira-kanayama",
+   "lang": "fr",
+   "field": "bio",
+   "from": "l'un des membres de",
+   "to": "l'un des artistes de"
+  },
+  {
+   "handle": "akira-kanayama",
+   "lang": "de",
+   "field": "bio",
+   "from": "eines der Mitglieder der",
+   "to": "einer der Künstler der"
+  },
+  {
+   "handle": "tsuruko-yamazaki",
+   "lang": "en",
+   "field": "bio",
+   "from": "one of the members of",
+   "to": "one of the artists of"
+  },
+  {
+   "handle": "tsuruko-yamazaki",
+   "lang": "fr",
+   "field": "bio",
+   "from": "l'une des membres de",
+   "to": "l'une des artistes de"
+  },
+  {
+   "handle": "tsuruko-yamazaki",
+   "lang": "de",
+   "field": "bio",
+   "from": "eines der Mitglieder der",
+   "to": "eine der Künstlerinnen der"
+  },
+  {
+   "handle": "yozo-ukita",
+   "lang": "en",
+   "field": "bio",
+   "from": "one of the members of",
+   "to": "one of the artists of"
+  },
+  {
+   "handle": "yozo-ukita",
+   "lang": "fr",
+   "field": "bio",
+   "from": "l'un des membres de",
+   "to": "l'un des artistes de"
+  },
+  {
+   "handle": "yozo-ukita",
+   "lang": "de",
+   "field": "bio",
+   "from": "eines der Mitglieder der",
+   "to": "einer der Künstler der"
+  },
+  {
+   "handle": "chiyu-uemae",
+   "lang": "en",
+   "field": "bio",
+   "from": "one of the members of",
+   "to": "one of the artists of"
+  },
+  {
+   "handle": "chiyu-uemae",
+   "lang": "fr",
+   "field": "bio",
+   "from": "l'un des membres de",
+   "to": "l'un des artistes de"
+  },
+  {
+   "handle": "chiyu-uemae",
+   "lang": "de",
+   "field": "bio",
+   "from": "eines der Mitglieder der",
+   "to": "einer der Künstler der"
+  },
+  {
+   "handle": "hidai-tenrai",
+   "lang": "es",
+   "field": "statement",
+   "from": "el estudio caligráfico de los clásicos",
+   "to": "la copia de modelos caligráficos clásicos"
+  },
+  {
+   "handle": "hidai-tenrai",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "el estudio caligráfico de los clásicos",
+   "to": "la copia de modelos caligráficos clásicos"
+  },
+  {
+   "handle": "tsujimoto-shiyu",
+   "lang": "es",
+   "field": "bio",
+   "from": "al estudio caligráfico de los clásicos",
+   "to": "a la copia de modelos caligráficos clásicos"
+  },
+  {
+   "handle": "kuwahara-suiho",
+   "lang": "es",
+   "field": "bio",
+   "from": "al estudio caligráfico de los clásicos",
+   "to": "a la copia de modelos caligráficos clásicos"
+  },
+  {
+   "handle": "kuwahara-suiho",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "el estudio caligráfico de los clásicos",
+   "to": "la copia de modelos caligráficos clásicos"
+  },
+  {
+   "handle": "osawa-gakyu",
+   "lang": "es",
+   "field": "bio",
+   "from": "el estudio caligráfico de los clásicos",
+   "to": "la copia de modelos caligráficos clásicos"
+  },
+  {
+   "handle": "osawa-gakyu",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "sus estudios caligráficos",
+   "to": "sus copias de modelos caligráficos"
+  },
+  {
+   "handle": "kuwata-sasafune",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "estudios caligráficos",
+   "to": "copias de modelos caligráficos"
+  },
+  {
+   "handle": "kondo-sechiku",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "sus estudios a partir de antiguas",
+   "to": "sus copias de modelos a partir de antiguas"
+  }
+ ]
+}
