@@ -1,0 +1,167 @@
+{
+ "reason": "第55束（作家601〜610）＝二重検品140本のうち★A 98件を日本語原文と1件ずつ照合し、全627名で横断型でないと実測したものだけを是正する。★『余白』を独語で Ränder（縁）とする型は母集団33欄のうち1件だけの外れ値（他は Leerflächen 系）。『量感』を独語で erlernte Volumen とする型も母集団44欄のうち1件だけ。★★触らなかった型＝T80（独語の後進＝横山操さまの jüngere Maler への指摘）。★Y裁定待ち＝Y13肉づけ1件・Y14洋画家2件・Y02人間国宝2件・Y07二科会2件・Y20伝える2件・Y23画面4件・Y24人物5件。★日本語原文の事実疑義8件はリサーチTへ申し送り（訳は触らない）／★関所1巡目＝当方の是正案そのものの欠陥4件を修正（独語で und の後のコンマと倒置が壊れていた・原文は音楽グループを単数と断定していない／仏語で œuvres が反復／韓国語『무심코 지나치기 쉬운』は原文にない評価が加わる／簡体字で『傷つけたCD』という物理的な加工の事実が落ちていた）／★当方の道具の誤り＝関所の反映に使った使い捨ての set 関数で from と to の引数がずれ、3件で to が undefined・from が新文になっていた。honyaku-patch-build.mjs の『置換元がちょうど1回でなければ止める』が3件とも捕まえたため、ライブには当たっていない／★関所3巡目＝(a)仏語の横山大観さまは取り下げ＝œuvres の重複を避けようとすると別の重複が生じ、2巡で収束しなかった。元訳の『à travers le mont Fuji et la nature』は水滴が富士山を通っていく意味に読める係り受けの不正確さがあるが、型として報告に記録して司令塔へ上げる。(b)簡体字は『的』の重なりを解消した形へ／★関所4巡目＝簡体字の刀根康尚さまも取り下げ。元の『使用电脑与故意损伤的CD误动作的音响作品』は、原文『コンピュータや、傷つけたCDの誤作動を使った音響作品』に対して『故意损伤的CD（傷つけたCD）』『误动作（誤作動）』とも訳出されており忠実だった。当方の是正案は4巡とも別の指摘を受けて収束しなかったため、現状維持とする",
+ "enteredBy": "翻訳品質T 2026-08-21 第55束",
+ "patches": [
+  {
+   "handle": "yasuda-ryumon",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "das bei Bourdelle erlernte Volumen",
+   "to": "die bei Bourdelle erlernte plastische Volumenwirkung"
+  },
+  {
+   "handle": "yasuda-ryumon",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "the volume he had learned from Bourdelle",
+   "to": "the sense of sculptural volume he had learned from Bourdelle"
+  },
+  {
+   "handle": "yasuda-ryumon",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "attending to the close embrace of mother and child",
+   "to": "attending to the mother and child nestled close together"
+  },
+  {
+   "handle": "yasuda-ryumon",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "師從雕塑家布德爾，兼習雕塑",
+   "to": "師從雕塑家布德爾，也投入雕塑創作"
+  },
+  {
+   "handle": "yasuda-yukihiko",
+   "lang": "de",
+   "field": "bio",
+   "from": "stille, fein gearbeitete Bilder",
+   "to": "stille, würdevolle Bilder"
+  },
+  {
+   "handle": "yasuda-yukihiko",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "mit Haltung erstehen lässt",
+   "to": "in wohlgeordneter Form erstehen lässt"
+  },
+  {
+   "handle": "yasuda-yukihiko",
+   "lang": "zh_cn",
+   "field": "statement",
+   "from": "以澄澈线描与考据描绘历史的日本画家",
+   "to": "以澄澈线描与时代考据描绘历史的日本画家"
+  },
+  {
+   "handle": "yasuda-yukihiko",
+   "lang": "zh_tw",
+   "field": "statement",
+   "from": "以澄澈線描與考據描繪歷史的日本畫家",
+   "to": "以澄澈線描與時代考據描繪歷史的日本畫家"
+  },
+  {
+   "handle": "yasui-nakaji",
+   "lang": "de",
+   "field": "bio",
+   "from": "für eine eigentümliche Empfindsamkeit",
+   "to": "für eine eigenständige Empfindsamkeit"
+  },
+  {
+   "handle": "yasui-nakaji",
+   "lang": "fr",
+   "field": "bio",
+   "from": "(Juifs errants), qui photographia des réfugiés juifs",
+   "to": "(Juifs errants), où il photographia des réfugiés juifs"
+  },
+  {
+   "handle": "yasui-nakaji",
+   "lang": "es",
+   "field": "bio",
+   "from": "(Judíos errantes), que fotografió a refugiados judíos",
+   "to": "(Judíos errantes), en la que fotografió a refugiados judíos"
+  },
+  {
+   "handle": "yasui-nakaji",
+   "lang": "ko",
+   "field": "viewpoint",
+   "from": "무심한 사물에 깃든 기척",
+   "to": "대수롭지 않아 보이는 것에 깃든 기척"
+  },
+  {
+   "handle": "yasui-nakaji",
+   "lang": "es",
+   "field": "bio",
+   "from": "con poco más de treinta años",
+   "to": "aún en la treintena"
+  },
+  {
+   "handle": "yasui-nakaji",
+   "lang": "es",
+   "field": "bio",
+   "from": "en su forma de escrutar a sus modelos",
+   "to": "en su forma de observar atentamente aquello que fotografiaba"
+  },
+  {
+   "handle": "yasui-sotaro",
+   "lang": "de",
+   "field": "bio",
+   "from": "Bekannt ist er für „Kinyō“ (Kinyō)",
+   "to": "Bekannt ist er unter anderem für „Kinyō“"
+  },
+  {
+   "handle": "yasui-sotaro",
+   "lang": "en",
+   "field": "bio",
+   "from": "He is known for Kinyō (Kinyō)",
+   "to": "He is known for Kinyō"
+  },
+  {
+   "handle": "yasunao-tone",
+   "lang": "de",
+   "field": "bio",
+   "from": "In avantgardistische Musikgruppen eingebunden, nahm er",
+   "to": "Er war an avantgardistischen Musikgruppen beteiligt und nahm"
+  },
+  {
+   "handle": "yasunao-tone",
+   "lang": "es",
+   "field": "viewpoint",
+   "from": "que producen máquinas deliberadamente averiadas",
+   "to": "que producen aparatos a los que se hace funcionar de forma anómala"
+  },
+  {
+   "handle": "yasunao-tone",
+   "lang": "zh_tw",
+   "field": "viewpoint",
+   "from": "並將偶然與機器的運作納入其中",
+   "to": "並試圖將偶然與機器的運作納入其中"
+  },
+  {
+   "handle": "yokoyama-misao",
+   "lang": "de",
+   "field": "viewpoint",
+   "from": "wo die weißen Ränder atmen",
+   "to": "wo die weißen Leerflächen atmen"
+  },
+  {
+   "handle": "yokoyama-misao",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "以黑的量感與粗放的筆致為特色",
+   "to": "以黑的量感與粗重的筆觸為特色"
+  },
+  {
+   "handle": "yokoyama-taikan",
+   "lang": "es",
+   "field": "bio",
+   "from": "Dejó muchas obras, la primera de ellas el largo rollo",
+   "to": "Dejó numerosas obras, entre ellas el largo rollo"
+  },
+  {
+   "handle": "yokoyama-taikan",
+   "lang": "zh_cn",
+   "field": "viewpoint",
+   "from": "以及以墨色浓淡表现大气的手法",
+   "to": "以及以墨与色彩的浓淡表现大气的手法"
+  }
+ ]
+}
