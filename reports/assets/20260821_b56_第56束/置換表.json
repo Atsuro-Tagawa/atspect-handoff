@@ -1,0 +1,104 @@
+{
+ "reason": "第56束（作家611〜620）＝二重検品140本のうち★A 94件を日本語原文と1件ずつ照合し、全627名で横断型でないと実測したものだけを是正する。★★『門下』を英語 lineage・仏語 lignée（血統・系譜）とする型は、第54束で西語の estirpe 4件を直したときに★英語・仏語の8件を落としていた（言語をまたいだ取りこぼし）。母集団23欄のうち韓国語 문하・簡体字 门下 は23件とも漢語の直訳で妥当なので触らず、英語・仏語の8件だけを直して残存を0にする。★『宮大工』を『宮殿の大工』とする型は母集団1欄（米原雲海さま）。★『未来的な立体作品』を美術運動名の『未来主義』とする型はヨシダミノルさまのみ。★★触らなかった型＝Y13肉づけ（吉田三郎さまの『肉感塑造』への指摘）。★Y裁定待ち＝Y14洋画家6件・Y08具体美術協会4件・Y20伝える1件・Y23画面2件・Y24人物2件。★日本語原文の事実疑義6件はリサーチTへ申し送り／★関所1巡目＝(a)英語で『who studied under Kōun who brought…』と関係詞が連鎖し、後半の who が光雲を修飾して『光雲が西洋写実を取り入れた』と読める構造になっていたため、from を広げて and でつないだ（4件）。(b)中国語の『寺社木匠』は日本語由来の表現なので『寺庙和神社的木匠／寺廟與神社的木匠』へ／★関所2巡目＝繁体字で『的』が重なるため『會旋轉、發光且具未來感的立體作品』へ。簡体字も同じ形に揃えた",
+ "enteredBy": "翻訳品質T 2026-08-21 第56束",
+ "patches": [
+  {
+   "handle": "yonehara-unkai",
+   "lang": "en",
+   "field": "statement",
+   "from": "A sculptor of the Kōun lineage who brought",
+   "to": "A sculptor who studied under Kōun and brought"
+  },
+  {
+   "handle": "yonehara-unkai",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "a sculptor of the Takamura Kōun lineage who brought",
+   "to": "a sculptor who studied under Takamura Kōun and brought"
+  },
+  {
+   "handle": "yonehara-unkai",
+   "lang": "fr",
+   "field": "statement",
+   "from": "Un sculpteur de la lignée de Kōun",
+   "to": "Un sculpteur formé auprès de Kōun"
+  },
+  {
+   "handle": "yonehara-unkai",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "était un sculpteur de la lignée de Takamura Kōun",
+   "to": "était un sculpteur formé auprès de Takamura Kōun"
+  },
+  {
+   "handle": "yamazaki-choun",
+   "lang": "en",
+   "field": "statement",
+   "from": "sculptor of the Takamura Kōun lineage who brought",
+   "to": "sculptor who studied under Takamura Kōun and brought"
+  },
+  {
+   "handle": "yamazaki-choun",
+   "lang": "en",
+   "field": "viewpoint",
+   "from": "sculptor of the Takamura Kōun lineage who brought",
+   "to": "sculptor who studied under Takamura Kōun and brought"
+  },
+  {
+   "handle": "yamazaki-choun",
+   "lang": "fr",
+   "field": "statement",
+   "from": "Un sculpteur de la lignée de Takamura Kōun",
+   "to": "Un sculpteur formé auprès de Takamura Kōun"
+  },
+  {
+   "handle": "yamazaki-choun",
+   "lang": "fr",
+   "field": "viewpoint",
+   "from": "était un sculpteur de la lignée de Takamura Kōun",
+   "to": "était un sculpteur formé auprès de Takamura Kōun"
+  },
+  {
+   "handle": "yonehara-unkai",
+   "lang": "ko",
+   "field": "bio",
+   "from": "처음에는 궁궐 목수로서",
+   "to": "처음에는 신사와 사찰 건축을 맡는 목수로서"
+  },
+  {
+   "handle": "yonehara-unkai",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "他起初作为宫殿木匠学习建筑雕刻",
+   "to": "他起初作为寺庙和神社的木匠学习建筑雕刻"
+  },
+  {
+   "handle": "yonehara-unkai",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "他起初作為宮殿木匠學習建築雕刻",
+   "to": "他起初作為寺廟與神社的木匠學習建築雕刻"
+  },
+  {
+   "handle": "yoshida-minoru",
+   "lang": "zh_cn",
+   "field": "bio",
+   "from": "旋转、发光的未来主义立体作品",
+   "to": "会旋转、发光且具未来感的立体作品"
+  },
+  {
+   "handle": "yoshida-minoru",
+   "lang": "zh_tw",
+   "field": "bio",
+   "from": "旋轉、發光的未來主義立體作品",
+   "to": "會旋轉、發光且具未來感的立體作品"
+  },
+  {
+   "handle": "yoshida-hiroshi",
+   "lang": "fr",
+   "field": "bio",
+   "from": "peint d'après ses propres ascensions",
+   "to": "peints d'après ses propres ascensions"
+  }
+ ]
+}
